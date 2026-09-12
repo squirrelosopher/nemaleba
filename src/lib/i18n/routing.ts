@@ -1,18 +1,25 @@
 import { base } from '$app/paths';
 import { page } from '$app/state';
+import { PUBLIC_BASE_PATH } from '$env/static/public';
 import { DEFAULT_LOCALE, LOCALE_SEGMENTS, isLocaleSegment, type Locale } from './locale';
 
 function withTrailingSlash(path: string): string {
   return path.endsWith('/') ? path : `${path}/`;
 }
 
-// Site-absolute and base-free, which is what absolute URLs need. `base` is a relative
-// string like ".." while prerendering, so it can only ever be used for links.
+// Site-absolute and base-free, which is what absolute URLs need.
+//
+// The prefix is read from the configured value rather than from `base`, which is a
+// relative string like ".." while prerendering and so never matched the pathname it was
+// meant to strip. Under a project site served from a subdirectory that left the prefix in
+// place and every canonical, hreflang and og:url carried it twice.
 export function withoutLocale(path: string): string {
+  const prefix = PUBLIC_BASE_PATH || (base.startsWith('/') ? base : '');
+
   let pathname = path;
 
-  if (base && base.startsWith('/') && pathname.startsWith(base)) {
-    pathname = pathname.slice(base.length);
+  if (prefix && pathname.startsWith(prefix)) {
+    pathname = pathname.slice(prefix.length);
   }
 
   const [, first] = pathname.split('/');
