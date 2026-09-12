@@ -1,13 +1,17 @@
-# Latin is the canonical form and is served bare, so /sr-lat is the same page twice. It
-# was prerendered only so that typing the explicit prefix did not 404; a rewrite answers
-# that better, by landing on the canonical rather than on a copy of it.
+# GitLab Pages reads this file; GitHub Pages has no equivalent and ignores it. Kept so the
+# intent is recorded and so the site still behaves if it is ever served from somewhere
+# that honours it -- Netlify and Cloudflare Pages use the same format.
 #
-# A splat matches the rest of the path and :splat puts it back. 301 is the default.
+# On GitHub Pages the two rules below degrade rather than break:
+#   /sr-lat/*  404s instead of redirecting. Nothing links there; it was a duplicate of the
+#              bare Latin URL whose canonical already pointed away from it.
+#   /*/ulica/* is served 404.html, which boots the app and routes itself, so the page is
+#              correct but the status line says 404. Street pages are not in the sitemap
+#              and are reached from the site's own search, so nothing depends on the code.
+
+# Latin is the canonical form and is served bare, so /sr-lat is the same page twice.
 /sr-lat/* /:splat
 
 # Street pages are not prerendered -- 58,947 streets across three locales would be a
-# hundred and seventy thousand files for URLs nobody reaches from outside the site. The
-# fallback boots the app and it routes itself, but GitLab serves an unknown path as 404,
-# so the status has to be asserted here. A splat is greedy and spans slashes, which is
-# what carries the locale prefix.
+# hundred and seventy thousand files for URLs nobody reaches from outside the site.
 /*/ulica/* /404.html 200

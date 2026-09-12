@@ -1,17 +1,16 @@
 name: Refresh outages
 
+# Shaped to when the water utilities actually publish, measured over 225 announcements in
+# data/fixtures: 07:00 and 08:00 local carry a third of the day between them, 05:00 to
+# 10:00 carries half, and nothing has ever arrived between 23:00 and 05:00.
+#
+# Hourly through the morning, every second hour through the tail, nothing overnight --
+# thirteen runs a day rather than twenty-four. Electricity does not mind either way, since
+# EPS publishes planned works days ahead; it is water that is same-day.
+#
+# Cron is UTC and those hours are local, so each window is widened by an hour to hold
+# across CET and CEST rather than being shifted twice a year.
 on:
-  # Shaped to when the water utilities actually publish, measured over 225 announcements
-  # in data/fixtures: 07:00 and 08:00 local carry a third of the day between them, 05:00
-  # to 10:00 carries half, and nothing has ever been posted between 23:00 and 05:00.
-  #
-  # Hourly through the morning, every second hour through the tail, nothing overnight --
-  # thirteen runs a day rather than twenty-four. Electricity does not mind either way,
-  # since EPS publishes planned works days ahead; water is same-day, and the morning is
-  # where a two-hour lag would actually cost a reader something.
-  #
-  # Cron is UTC and the hours above are local, so each window is widened by an hour to
-  # hold for both CET and CEST rather than shifting twice a year.
   schedule:
     - cron: '10 3-9 * * *'
     - cron: '10 10-20/2 * * *'
@@ -24,9 +23,14 @@ permissions:
   pages: write
   id-token: write
 
+# One run at a time, however it was started. Two runs overlapping would each read the
+# delivery ledger before either wrote to it, and the same outage would be announced twice.
 concurrency:
   group: refresh
   cancel-in-progress: false
+
+env:
+  DEFAULT_BRANCH: main
 
 jobs:
   build:
@@ -41,39 +45,39 @@ jobs:
 
       - run: npm ci
 
+      # The parsers run against captured fixtures before they run against the live pages.
+      # A parser that changed its mind about bytes that have not is the one failure the
+      # source-health check cannot see, since it counts rows rather than reading them.
+      - run: npm test
+
       - name: Collect outages
         run: npm run data
 
-      - name: Send notifications
-        env:
-          PUBLIC_VAPID_KEY: ${{ secrets.PUBLIC_VAPID_KEY }}
-          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
-          VAPID_SUBJECT: ${{ secrets.VAPID_SUBJECT }}
-          PUSH_ADMIN_ORIGIN: ${{ secrets.PUSH_ADMIN_ORIGIN }}
-          PUSH_ADMIN_TOKEN: ${{ secrets.PUSH_ADMIN_TOKEN }}
-          SITE_ORIGIN: ${{ vars.SITE_ORIGIN }}
-        run: npm run notify
-
-      - name: Commit dataset
-        run: |
-          git config user.name "nemaleba-bot"
-          git config user.email "bot@nemaleba.rs"
-          git add static/data
-          git diff --staged --quiet || git commit -m "Refresh outage data"
-          git push
-
       - name: Build site
         env:
-          PUBLIC_API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+          SITE_ORIGIN: ${{ vars.SITE_ORIGIN }}
+          PUBLIC_API_ENDPOINT: ${{ vars.API_ENDPOINT }}
           PUBLIC_VAPID_KEY: ${{ secrets.PUBLIC_VAPID_KEY }}
-        run: npm run build
+        run: |
+          # A project site is served under /<repo>; a custom domain is served from the
+          # root. SITE_ORIGIN says which, so links and data fetches resolve either way.
+          BASE_PATH="$(node -p "new URL(process.env.SITE_ORIGIN).pathname.replace(/\/$/, '')")"
+          export BASE_PATH PUBLIC_BASE_PATH="$BASE_PATH" PUBLIC_SITE_ORIGIN="${SITE_ORIGIN%/}"
+          npm run build
 
       - uses: actions/upload-pages-artifact@v3
         with:
           path: build
-          # The free tier allows 500 MB of artifact storage and the site is 61 MB, so a
-          # handful of retained runs would fill it. Nothing reads this after the deploy
-          # job in the same run has taken it.
+          # The free allowance is 500 MB and the site is 61 MB, so a handful of retained
+          # runs would fill it. Nothing reads this after the deploy job has taken it.
+          retention-days: 1
+
+      # The dataset the notify job announces has to be the one that was just deployed,
+      # not one collected a second time from sources that may have moved on.
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dataset
+          path: static/data
           retention-days: 1
 
   deploy:
@@ -85,3 +89,75 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  # Runs after the deployment, never before it. A notification links to the row it is
+  # about, so it can only be sent once the build carrying that row is being served --
+  # sending earlier pointed readers at a page saying the outage had been archived.
+  #
+  # Only the schedule sends. A code push has nothing to announce, and a push-triggered run
+  # would send alongside the scheduled one, both reading the ledger before either wrote.
+  notify:
+    needs: deploy
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: dataset
+          path: static/data
+
+      # The ledger this run holds can be older than the one on the branch by the time it
+      # finishes, so the two are unioned before anything is sent rather than after.
+      - name: Adopt the committed ledger
+        run: bash scripts/ci/adopt-ledger.sh
+
+      - name: Wait for the deployment to serve this build
+        env:
+          SITE_ORIGIN: ${{ vars.SITE_ORIGIN }}
+        run: npm run await:deploy
+
+      - name: Send notifications
+        env:
+          SITE_ORIGIN: ${{ vars.SITE_ORIGIN }}
+          PUBLIC_VAPID_KEY: ${{ secrets.PUBLIC_VAPID_KEY }}
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          VAPID_SUBJECT: ${{ secrets.VAPID_SUBJECT }}
+          PUSH_ADMIN_ORIGIN: ${{ secrets.PUSH_ADMIN_ORIGIN }}
+          PUSH_ADMIN_TOKEN: ${{ secrets.PUSH_ADMIN_TOKEN }}
+        run: npm run notify
+
+      # Whatever was sent has to be written down, or the next run sends it again. A push
+      # that cannot be made fails the job rather than passing quietly.
+      - name: Commit the dataset
+        run: bash scripts/ci/persist-dataset.sh
+
+  # Raised last, so a name nobody has mapped yet costs a red run rather than a missed
+  # deploy: the site is published and the notifications sent by the time this looks.
+  ledger:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: dataset
+          path: static/data
+
+      - run: npx tsx scripts/ci/checkLedger.ts static/data/unknown-places.json

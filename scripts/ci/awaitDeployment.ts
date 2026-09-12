@@ -14,10 +14,10 @@ function builtStamp(): string {
 }
 
 function registryUrl(): string {
-  const origin = process.env.CI_PAGES_URL;
+  const origin = process.env.SITE_ORIGIN;
 
   if (!origin) {
-    throw new Error('CI_PAGES_URL is not set');
+    throw new Error('SITE_ORIGIN is not set');
   }
 
   return `${origin.replace(/\/$/, '')}/data/registry.json`;

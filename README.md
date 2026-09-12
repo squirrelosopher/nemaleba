@@ -92,12 +92,14 @@ Adding a utility means adding one `OutageSource` implementation. Nothing else ch
 
 ## Deployment
 
-GitLab Pages, driven by `.gitlab-ci.yml`. Two jobs, in this order:
+GitHub Pages, driven by `.github/workflows/refresh.yml`. Four jobs:
 
 | job | runs on | does |
 | --- | --- | --- |
-| `pages` | pushes to the default branch, and the schedule | collects outages, builds, publishes `build/` as `public/` |
-| `notify` | the schedule only | waits for that deployment to go live, sends pending notifications, commits the refreshed dataset back |
+| `build` | the schedule and pushes to `main` | tests the parsers, collects outages, builds the site |
+| `deploy` | after `build` | publishes it to Pages |
+| `notify` | the schedule only, after `deploy` | waits for the deployment to serve this build, sends pending notifications, commits the refreshed dataset back |
+| `ledger` | after `build` | fails the run if a place name arrived that no register knows |
 
 ### Sending exactly once
 
@@ -108,23 +110,23 @@ them earned its place by failing.
 
 **Only the schedule sends.** A code push has nothing to announce, and a push-triggered
 run would send alongside the scheduled one — both reading the ledger before either
-wrote to it. The `pages` job still runs on pushes, so the site stays current; only
+wrote to it. `build` and `deploy` still run on pushes, so the site stays current; only
 `notify` is held back.
 
-**One run at a time.** `resource_group: notify` keeps two runs from overlapping however
-they were started.
+**One run at a time.** `concurrency: refresh` with `cancel-in-progress: false` keeps two
+runs from overlapping however they were started.
 
-**Never send what cannot be remembered.** The job's rule also requires
-`GITLAB_PUSH_TOKEN`. Without it `persist-dataset.sh` cannot commit, so everything sent
-would be sent again next hour; better to send nothing.
+**Never send what cannot be remembered.** Whatever was sent has to be written back, or
+the next run sends it again. `persist-dataset.sh` retries a moved branch five times and
+fails the job rather than passing quietly, so a run that announced something it could
+not record is a red run rather than a silent repeat.
 
 **The ledger is merged, not overwritten.** A run reads its ledger from the artifact its
-own pipeline built, which can be older than what is on the branch by the time it
+own workflow built, which can be older than what is on the branch by the time it
 finishes. `adopt-ledger.sh` unions it with the committed one before sending, and
 `persist-dataset.sh` does the same again before committing — and, if the branch moved
-under it, re-points at the new tip and retries, up to five times. The freshly collected
-dataset wins; the ledger is the union of both. A run that cannot commit after five tries
-fails the job rather than leaving deliveries unrecorded.
+under it, re-points at the new tip and retries. The freshly collected dataset wins; the
+ledger is the union of both.
 
 Delivery itself is recorded from the outcome, not from the intention. An outage is
 written to the ledger when a card carrying it reached at least one subscriber, or when
@@ -135,38 +137,57 @@ silent miss.
 ### Linking into a deployment that exists
 
 A notification links to the row it is about, so it can only be sent once the deployment
-carrying that row is serving it. GitLab publishes Pages after the job that built it
-ends, so `npm run await:deploy` polls `data/registry.json` on the live site until its
-`generatedAt` matches the build, for up to ten minutes. Sending earlier pointed readers
-at a page that told them the outage had been archived.
+carrying that row is serving it. `notify` therefore `needs: deploy`, and `npm run
+await:deploy` then polls `data/registry.json` on the live site until its `generatedAt`
+matches the build, for up to ten minutes. Sending earlier pointed readers at a page that
+told them the outage had been archived.
 
-Set these as CI/CD variables (Settings → CI/CD → Variables). All are optional — without
-them the site still builds, and the notification button disables itself rather than
-failing on tap.
+`notify` also takes the dataset as a workflow artifact from `build` rather than
+collecting it again, so what is announced is exactly what was deployed.
+
+### Configuration
+
+One repository **variable** (Settings → Secrets and variables → Actions → Variables):
 
 | variable | purpose |
 | --- | --- |
-| `GITLAB_PUSH_TOKEN` | project access token with `write_repository`, so the dataset persists between runs |
-| `PUBLIC_API_ENDPOINT` | Worker origin, baked into the build |
+| `SITE_ORIGIN` | where the site is served, e.g. `https://squirrelosopher.github.io/nemaleba` or `https://nemaleba.rs` |
+| `API_ENDPOINT` | Worker origin, baked into the build |
+
+`BASE_PATH`, `PUBLIC_BASE_PATH` and `PUBLIC_SITE_ORIGIN` are derived from `SITE_ORIGIN`
+inside the job rather than set by hand: a project site is served under `/<repo>` and a
+custom domain from the root, and the first two let the pre-paint locale redirect and the
+asset paths work either way, while the last puts absolute URLs into `hreflang`, the link
+previews and `sitemap.xml`.
+
+The **secrets** are all optional — without them the site still builds, and the
+notification button disables itself rather than failing on tap:
+
+| secret | purpose |
+| --- | --- |
 | `PUBLIC_VAPID_KEY` | public push key, baked into the build |
 | `VAPID_PRIVATE_KEY` | signs push payloads |
 | `VAPID_SUBJECT` | `mailto:` contact for the push service |
 | `PUSH_ADMIN_ORIGIN` / `PUSH_ADMIN_TOKEN` | lets the job read subscribers from the Worker |
 
-`BASE_PATH`, `PUBLIC_BASE_PATH`, `PUBLIC_SITE_ORIGIN` and `SITE_ORIGIN` are derived from
-`CI_PAGES_URL` inside the jobs rather than set by hand. The first two let the pre-paint
-locale redirect and the asset paths work under a subdirectory; the last two put absolute
-URLs into `hreflang`, the link previews and `sitemap.xml`.
+The dataset is committed back by the workflow's own `GITHUB_TOKEN`, which needs
+`contents: write` — already declared at the top of the workflow. Settings → Actions →
+General → Workflow permissions must allow read and write for that to hold.
 
-Without `GITLAB_PUSH_TOKEN` the pipeline still succeeds, but `registry.json` and
-`notified.json` reset to whatever is committed — meaning cities discovered in CI are
-forgotten and, once push is live, subscribers would be re-alerted about outages already
-sent. Set it before enabling notifications.
+### Compute budget
+
+Thirteen runs a day, not twenty-four, and the schedule says why: measured over the 225
+announcements in `data/fixtures`, 07:00 and 08:00 local carry a third of the day and
+nothing has ever been published between 23:00 and 05:00.
+
+GitHub bills each job rounded up to the whole minute, and a run is four jobs, so the
+arithmetic matters: roughly 390 runs a month against an allowance of 2,000 minutes on a
+private repository. Public repositories are unmetered.
 
 ## Working on another machine
 
 ```
-git clone git@gitlab.com:squirrelosopher/nemaleba.git
+git clone git@github.com:squirrelosopher/nemaleba.git
 cd nemaleba
 npm install
 npm run dev
@@ -196,10 +217,10 @@ VAPID_SUBJECT=mailto:…
 `hreflang`, the canonical link and the link-preview tags are simply omitted rather than
 emitted with a wrong origin.
 
-Recover the values from **GitLab → Settings → CI/CD → Variables**; masked variables are
-hidden from job logs but a project owner can still reveal them in that screen. Keep
-`PUBLIC_API_ENDPOINT=/api` locally so the dev server's own endpoint is used rather than
-the deployed Worker.
+Recover the values from **Settings → Secrets and variables → Actions**. Secrets cannot be
+read back once set, so if they are lost they have to be rotated — except the VAPID pair,
+which cannot be (see below). Keep `PUBLIC_API_ENDPOINT=/api` locally so the dev server's
+own endpoint is used rather than the deployed Worker.
 
 `worker/.admin-token` is also gitignored and is the same value as the
 `PUSH_ADMIN_TOKEN` variable, so it can be recovered the same way.
@@ -212,11 +233,11 @@ subscriber.
 
 | thing | where |
 | --- | --- |
-| repository and CI | gitlab.com/squirrelosopher/nemaleba |
-| site | GitLab Pages, published by the `pages` job |
-| hourly refresh | GitLab → Build → Pipeline schedules |
+| repository and CI | github.com/squirrelosopher/nemaleba |
+| site | GitHub Pages, published by the `deploy` job |
+| refresh schedule | the two crons in `.github/workflows/refresh.yml` |
 | push subscriptions | Cloudflare Worker `nemaleba-push` + D1 `nemaleba-subscriptions` |
-| secrets | GitLab CI/CD variables; `ADMIN_TOKEN` also a Wrangler secret |
+| secrets | GitHub Actions secrets; `ADMIN_TOKEN` also a Wrangler secret |
 
 ## Commands
 
@@ -287,12 +308,18 @@ arguments are about *strangers*, and neither applies to a street: a reader reach
 with the dataset already in hand, so the page costs nothing to render there and 58,947 ×
 3 would be 176,841 files.
 
-`export const prerender = false` on that route puts it behind the SPA fallback, and
-GitLab serves an unknown path as `404`, so `static/_redirects` asserts the status:
+`export const prerender = false` on that route puts it behind the SPA fallback:
+`adapter-static` writes `404.html`, GitHub Pages serves it for any unknown path, and the
+app routes itself from the URL.
 
-```
-/*/ulica/* /404.html 200
-```
+The status line is the one thing that does not come out right. GitHub Pages has no
+redirects file, so a street page renders correctly but answers `404`. Nothing depends on
+it — street pages are absent from the sitemap and are reached from the site's own search
+— and `static/_redirects` records the rule that would fix it on a host that reads one.
+
+`static/.nojekyll` is required and easy to lose: without it GitHub Pages runs the output
+through Jekyll, which drops directories beginning with an underscore, and `build/_app`
+holds every script and stylesheet the site has.
 
 The comments pages are 26 MB of a 59 MB build and their content comes from the Worker at
 runtime, so they look like the next thing to drop. They are not, yet: `+layout.ts` awaits
