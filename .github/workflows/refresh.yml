@@ -50,20 +50,40 @@ jobs:
       # source-health check cannot see, since it counts rows rather than reading them.
       - run: npm test
 
+      # Resolved once, in one place, because three later steps need it: the collector
+      # writes the sitemap from it, the build derives the base path from it, and notify
+      # polls it to see whether the deployment is live yet.
+      #
+      # A repository publishes to https://<owner>.github.io/<repo> unless it is told
+      # otherwise, so that is the default and SITE_ORIGIN is the override a custom domain
+      # needs. Left to a bare variable this failed as `Invalid URL` on an empty string.
+      - name: Resolve where the site is served
+        env:
+          CONFIGURED: ${{ vars.SITE_ORIGIN }}
+        run: |
+          origin="${CONFIGURED:-https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}}"
+          origin="${origin%/}"
+          base="$(node -p "new URL('${origin}').pathname.replace(/\/$/, '')")"
+
+          {
+            echo "SITE_ORIGIN=${origin}"
+            echo "BASE_PATH=${base}"
+            echo "PUBLIC_BASE_PATH=${base}"
+            echo "PUBLIC_SITE_ORIGIN=${origin}"
+          } >> "$GITHUB_ENV"
+
+          echo "serving from ${origin}, base '${base}'"
+
+      # SITE_ORIGIN reaches the collector too: without it the sitemap is skipped and only
+      # robots.txt is written, quietly.
       - name: Collect outages
         run: npm run data
 
       - name: Build site
         env:
-          SITE_ORIGIN: ${{ vars.SITE_ORIGIN }}
           PUBLIC_API_ENDPOINT: ${{ vars.API_ENDPOINT }}
           PUBLIC_VAPID_KEY: ${{ secrets.PUBLIC_VAPID_KEY }}
-        run: |
-          # A project site is served under /<repo>; a custom domain is served from the
-          # root. SITE_ORIGIN says which, so links and data fetches resolve either way.
-          BASE_PATH="$(node -p "new URL(process.env.SITE_ORIGIN).pathname.replace(/\/$/, '')")"
-          export BASE_PATH PUBLIC_BASE_PATH="$BASE_PATH" PUBLIC_SITE_ORIGIN="${SITE_ORIGIN%/}"
-          npm run build
+        run: npm run build
 
       - uses: actions/upload-pages-artifact@v3
         with:
@@ -120,14 +140,35 @@ jobs:
       - name: Adopt the committed ledger
         run: bash scripts/ci/adopt-ledger.sh
 
-      - name: Wait for the deployment to serve this build
+      # Resolved once, in one place, because three later steps need it: the collector
+      # writes the sitemap from it, the build derives the base path from it, and notify
+      # polls it to see whether the deployment is live yet.
+      #
+      # A repository publishes to https://<owner>.github.io/<repo> unless it is told
+      # otherwise, so that is the default and SITE_ORIGIN is the override a custom domain
+      # needs. Left to a bare variable this failed as `Invalid URL` on an empty string.
+      - name: Resolve where the site is served
         env:
-          SITE_ORIGIN: ${{ vars.SITE_ORIGIN }}
+          CONFIGURED: ${{ vars.SITE_ORIGIN }}
+        run: |
+          origin="${CONFIGURED:-https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}}"
+          origin="${origin%/}"
+          base="$(node -p "new URL('${origin}').pathname.replace(/\/$/, '')")"
+
+          {
+            echo "SITE_ORIGIN=${origin}"
+            echo "BASE_PATH=${base}"
+            echo "PUBLIC_BASE_PATH=${base}"
+            echo "PUBLIC_SITE_ORIGIN=${origin}"
+          } >> "$GITHUB_ENV"
+
+          echo "serving from ${origin}, base '${base}'"
+
+      - name: Wait for the deployment to serve this build
         run: npm run await:deploy
 
       - name: Send notifications
         env:
-          SITE_ORIGIN: ${{ vars.SITE_ORIGIN }}
           PUBLIC_VAPID_KEY: ${{ secrets.PUBLIC_VAPID_KEY }}
           VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
           VAPID_SUBJECT: ${{ secrets.VAPID_SUBJECT }}
