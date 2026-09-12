@@ -1,0 +1,82 @@
+{
+  "city": {
+    "id": "osecina",
+    "nameCyrillic": "Осечина",
+    "nameLatin": "Osečina",
+    "branchCyrillic": "Ваљево"
+  },
+  "outages": [
+    {
+      "id": "58245cadeda5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-09",
+      "areaLabel": "Осечина",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Купци дела села Плужац",
+        "Бодуша",
+        "Коњуша",
+        "Црниљево"
+      ],
+      "reason": null,
+      "note": "Купци дела села Плужац, Бодуша , Коњуша,Црниљево",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    }
+  ]
+}

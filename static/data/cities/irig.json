@@ -1,0 +1,76 @@
+{
+  "city": {
+    "id": "irig",
+    "nameCyrillic": "Ириг",
+    "nameLatin": "Irig",
+    "branchCyrillic": "Рума"
+  },
+  "outages": [
+    {
+      "id": "19f801bd90fd",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-08",
+      "areaLabel": "Ириг",
+      "time": null,
+      "streets": [
+        "Доситеја Обрадовића"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улицама Доситеја Обрадовића, Ђоке Шундуковића и Карађорђевој у Иригу.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-35/"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

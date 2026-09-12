@@ -1,0 +1,97 @@
+{
+  "city": {
+    "id": "novi-beograd",
+    "nameCyrillic": "Нови Београд",
+    "nameLatin": "Novi Beograd",
+    "branchCyrillic": "Београд"
+  },
+  "outages": [
+    {
+      "id": "fbe36fc53e9b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-08",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Пере Сегединца 13",
+        "Булевар Арсенија Чарнојевића 169"
+      ],
+      "reason": null,
+      "note": "Нови Београд: Пере Сегединца 13, Булевар Арсенија Чарнојевића 169",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "871dd5b3ebfe",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-11",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "16:00",
+        "end": "18:00"
+      },
+      "streets": [
+        "ВОЈВОЂАНСКА: 113"
+      ],
+      "reason": null,
+      "note": "ВОЈВОЂАНСКА: 113,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

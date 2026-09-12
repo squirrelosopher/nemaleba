@@ -1,0 +1,873 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`parsers against captured fixtures > 'EPS Beograd' keeps its shape > EPS Beograd 1`] = `
+{
+  "count": 7,
+  "first": {
+    "areaLabel": "Звездара",
+    "branchCyrillic": "Београд",
+    "cityNameCyrillic": "Звездара",
+    "date": "2026-09-09",
+    "kind": "planned",
+    "note": "ЧЕЛОПЕЧКА: 10,7-7,",
+    "reason": null,
+    "sourceUrl": "https://elektrodistribucija.rs/x",
+    "streets": [
+      "ЧЕЛОПЕЧКА: 10,7-7",
+    ],
+    "time": {
+      "end": "14:00",
+      "start": "09:00",
+    },
+    "utility": "electricity",
+  },
+  "last": {
+    "areaLabel": "Лазаревац",
+    "branchCyrillic": "Београд",
+    "cityNameCyrillic": "Лазаревац",
+    "date": "2026-09-09",
+    "kind": "planned",
+    "note": "НАСЕЉЕНО МЕСТО ВЕНЧАНИ ОКО СТАРЕ ЦРКВЕ",
+    "reason": null,
+    "sourceUrl": "https://elektrodistribucija.rs/x",
+    "streets": [
+      "НАСЕЉЕНО МЕСТО ВЕНЧАНИ ОКО СТАРЕ ЦРКВЕ",
+    ],
+    "time": {
+      "end": "14:00",
+      "start": "08:00",
+    },
+    "utility": "electricity",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'ЈКП Горњи Милановац' keeps its shape > ЈКП Горњи Милановац 1`] = `
+{
+  "count": 1,
+  "first": {
+    "areaLabel": "Горњи Милановац",
+    "branchCyrillic": "Горњи Милановац",
+    "cityNameCyrillic": "Горњи Милановац",
+    "date": "2026-08-27",
+    "kind": "emergency",
+    "note": "Због пуцања брезанског главног магистралног цевовода у Лочевцима, дошло је до прекида у водоснабдевању корисника у Брезни, Бершићима, делу Лозња, Озрема и Лочеваца, Такову (нижа и виша зона), Доњим Бранетићима, Љеваји , Врнчанима, Клатичеву, делу Љутовнице, Семедражи, Шаранима и Савинцу",
+    "reason": null,
+    "sourceUrl": "https://jkpgm.rs/2026/08/27/servisne-informacije-27-08-2026-godine/",
+    "streets": [
+      "Брезни",
+      "Бершићима",
+      "Лозња",
+      "Озрема",
+      "Лочеваца",
+      "Такову (нижа",
+      "виша зона)",
+      "Доњим Бранетићима",
+      "Љеваји",
+      "Врнчанима",
+      "Клатичеву",
+      "Љутовнице",
+      "Семедражи",
+      "Шаранима",
+      "Савинцу",
+    ],
+    "time": null,
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Горњи Милановац",
+    "branchCyrillic": "Горњи Милановац",
+    "cityNameCyrillic": "Горњи Милановац",
+    "date": "2026-08-27",
+    "kind": "emergency",
+    "note": "Због пуцања брезанског главног магистралног цевовода у Лочевцима, дошло је до прекида у водоснабдевању корисника у Брезни, Бершићима, делу Лозња, Озрема и Лочеваца, Такову (нижа и виша зона), Доњим Бранетићима, Љеваји , Врнчанима, Клатичеву, делу Љутовнице, Семедражи, Шаранима и Савинцу",
+    "reason": null,
+    "sourceUrl": "https://jkpgm.rs/2026/08/27/servisne-informacije-27-08-2026-godine/",
+    "streets": [
+      "Брезни",
+      "Бершићима",
+      "Лозња",
+      "Озрема",
+      "Лочеваца",
+      "Такову (нижа",
+      "виша зона)",
+      "Доњим Бранетићима",
+      "Љеваји",
+      "Врнчанима",
+      "Клатичеву",
+      "Љутовнице",
+      "Семедражи",
+      "Шаранима",
+      "Савинцу",
+    ],
+    "time": null,
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Јединство Кладово' keeps its shape > Јединство Кладово 1`] = `
+{
+  "count": 2,
+  "first": {
+    "areaLabel": "Сип",
+    "branchCyrillic": "Кладово",
+    "cityNameCyrillic": "Кладово",
+    "date": "2026-08-07",
+    "kind": "planned",
+    "note": "Дана 07.08.2026. године доћи ће до привременог затварања воде у насељу Сип у периоду од 10 до 11 часова.",
+    "reason": null,
+    "sourceUrl": "https://jedinstvojp.rs/%d1%81%d0%b5%d1%80%d0%b2%d0%b8%d1%81%d0%bd%d0%b0-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%98%d0%b0-07-08-2026/",
+    "streets": [],
+    "time": {
+      "end": "11:00",
+      "start": "10:00",
+    },
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Кладово",
+    "branchCyrillic": "Кладово",
+    "cityNameCyrillic": "Кладово",
+    "date": "2026-08-07",
+    "kind": "planned",
+    "note": "Дана 07.08.2026. год. због привремених радова на водоводној мрежи у Кладову, доћи ће до привременог прекида у водоснабдевању корисника у Косовској, Његошевој, Сремској, Банатској, 7 јула, Стевана Мокрањца, Пионирској, Светог Саве и Клјучкој улици.",
+    "reason": null,
+    "sourceUrl": "https://jedinstvojp.rs/%d1%81%d0%b5%d1%80%d0%b2%d0%b8%d1%81%d0%bd%d0%b0-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%98%d0%b0-07-041-2026/",
+    "streets": [],
+    "time": null,
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'БВК кварови' keeps its shape > БВК кварови 1`] = `
+{
+  "count": 12,
+  "first": {
+    "areaLabel": "Стари град",
+    "branchCyrillic": "Београд",
+    "cityNameCyrillic": "Стари град",
+    "date": "2026-09-08",
+    "kind": "emergency",
+    "note": "Стари град: Цара Душана 24, Жоржа Клемансоа 22",
+    "reason": null,
+    "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/",
+    "streets": [
+      "Цара Душана 24",
+      "Жоржа Клемансоа 22",
+    ],
+    "time": {
+      "end": "15:00",
+      "start": null,
+    },
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Барајево",
+    "branchCyrillic": "Београд",
+    "cityNameCyrillic": "Барајево",
+    "date": "2026-09-08",
+    "kind": "emergency",
+    "note": "Барајево: Врелинска 2 – Сремских партизана 5",
+    "reason": null,
+    "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/",
+    "streets": [
+      "Врелинска 2 – Сремских партизана 5",
+    ],
+    "time": {
+      "end": "15:00",
+      "start": null,
+    },
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'БВК планирани радови' keeps its shape > БВК планирани радови 1`] = `
+{
+  "count": 1,
+  "first": {
+    "areaLabel": "Врачар",
+    "branchCyrillic": "Београд",
+    "cityNameCyrillic": "Врачар",
+    "date": "2026-09-08",
+    "kind": "planned",
+    "note": "ВРАЧАР 
+ Због планираних радова на водоводној мрежи у општини Врачар, у уторак, 8. септембра 2026. године, у периоду од 8.30 до 18.00 сати , без воде ће остати потрошачи у следећим улицама: 
+ 
+ Хаџи Мелентијевој (од Максима Горког до Петра Кочића), 
+ Јанка Веселиновића и 
+ Ђорђа Вајферта (од Милорада Митровића до Максима Горког). 
+ 
+ За најнужније потребе за пијаћом водом обезбеђене су ауто-цистерне.
+
+Молимо потрошаче да припреме неопходну залиху воде за пиће и основне потребе.",
+    "reason": null,
+    "sourceUrl": "https://www.bvk.rs/planirani-radovi/",
+    "streets": [
+      "следећим улицама: 
+ 
+ Хаџи Мелентијевој (од Максима Горког до Петра Кочића)",
+      "Јанка Веселиновића",
+      "Ђорђа Вајферта (од Милорада Митровића до Максима Горког)",
+    ],
+    "time": {
+      "end": "18:00",
+      "start": "08:30",
+    },
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Врачар",
+    "branchCyrillic": "Београд",
+    "cityNameCyrillic": "Врачар",
+    "date": "2026-09-08",
+    "kind": "planned",
+    "note": "ВРАЧАР 
+ Због планираних радова на водоводној мрежи у општини Врачар, у уторак, 8. септембра 2026. године, у периоду од 8.30 до 18.00 сати , без воде ће остати потрошачи у следећим улицама: 
+ 
+ Хаџи Мелентијевој (од Максима Горког до Петра Кочића), 
+ Јанка Веселиновића и 
+ Ђорђа Вајферта (од Милорада Митровића до Максима Горког). 
+ 
+ За најнужније потребе за пијаћом водом обезбеђене су ауто-цистерне.
+
+Молимо потрошаче да припреме неопходну залиху воде за пиће и основне потребе.",
+    "reason": null,
+    "sourceUrl": "https://www.bvk.rs/planirani-radovi/",
+    "streets": [
+      "следећим улицама: 
+ 
+ Хаџи Мелентијевој (од Максима Горког до Петра Кочића)",
+      "Јанка Веселиновића",
+      "Ђорђа Вајферта (од Милорада Митровића до Максима Горког)",
+    ],
+    "time": {
+      "end": "18:00",
+      "start": "08:30",
+    },
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Бор' keeps its shape > Водовод Бор 1`] = `
+{
+  "count": 6,
+  "first": {
+    "areaLabel": "Бор",
+    "branchCyrillic": "Бор",
+    "cityNameCyrillic": "Бор",
+    "date": "2026-09-08",
+    "kind": "emergency",
+    "note": "Горња зона – прекид водоснабдевања и поправка кварова на водоводној мрежи Кварови на мерним местима – у шахтама",
+    "reason": "Санација кварова на водоводној мрежи",
+    "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-08-09-2026-god/",
+    "streets": [
+      "Горња зона – прекид водоснабдевања и поправка кварова на водоводној мрежи",
+    ],
+    "time": null,
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Бор",
+    "branchCyrillic": "Бор",
+    "cityNameCyrillic": "Бор",
+    "date": "2026-09-01",
+    "kind": "emergency",
+    "note": "Улица Доситеја Обрадовића Козарачка улица број 39б Улица Војске Југославије број 8 Улица Бранка Радичевића Кварови на мерним местима – у шахтама",
+    "reason": "Санација кварова на водоводној мрежи",
+    "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-01-09-2026-god/",
+    "streets": [
+      "Улица Доситеја Обрадовића",
+      "Козарачка улица број 39б",
+      "Улица Војске Југославије број 8",
+      "Улица Бранка Радичевића",
+    ],
+    "time": null,
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Ваљево' keeps its shape > Водовод Ваљево 1`] = `
+{
+  "count": 14,
+  "first": {
+    "areaLabel": "Ваљево",
+    "branchCyrillic": "Ваљево",
+    "cityNameCyrillic": "Ваљево",
+    "date": "2026-09-07",
+    "kind": "emergency",
+    "note": "Због квара на водоводној мрези, вечерас, 07.09.2026. године, од 20 часова, без водоснабдевања ће бити потрошачи у Рајковачкој улици од коша (Смрдан) до Еуропрома и потрошачи у викенд насељу преко пута Шумица. Екипе ЈКП Водовод Ваљеву су на терену и нормализација у водоснабдевању се очекује до сутра, односно 08.09.2026. године у преподневним часовима.",
+    "reason": null,
+    "sourceUrl": "https://vodovodva.co.rs/07092026-2/",
+    "streets": [],
+    "time": {
+      "end": null,
+      "start": "20:00",
+    },
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Ваљево",
+    "branchCyrillic": "Ваљево",
+    "cityNameCyrillic": "Ваљево",
+    "date": "2026-08-26",
+    "kind": "planned",
+    "note": "Због ремонта пумпе у улици Саве Вујановића, у среду, 26.08.2026. године, у периоду од 8 до 15 часова, без водоснабдевања це бити потрошачи у засеоку Ракици.",
+    "reason": null,
+    "sourceUrl": "https://vodovodva.co.rs/zaseokrakici/",
+    "streets": [],
+    "time": {
+      "end": "15:00",
+      "start": "08:00",
+    },
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Врање' keeps its shape > Водовод Врање 1`] = `
+{
+  "count": 25,
+  "first": {
+    "areaLabel": "Мајке Јевросиме",
+    "branchCyrillic": "Врање",
+    "cityNameCyrillic": "Врање",
+    "date": "2026-09-08",
+    "kind": "emergency",
+    "note": "Због оштећења на водоводној мрежи у улици Мајке Јевросиме,  без воде биће потрошачи те улице и околне   до завршетка радова.",
+    "reason": null,
+    "sourceUrl": "https://vodovodvranje.rs/08-09-2026-obavestenje-o-prekidu-vodosnabdevanja/",
+    "streets": [],
+    "time": null,
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Врање",
+    "branchCyrillic": "Врање",
+    "cityNameCyrillic": "Врање",
+    "date": "2026-07-28",
+    "kind": "emergency",
+    "note": "Због оштећења на водоводној мрежи у Врањској Бањи, насеље Ћосики, без воде биће потрошачи тог насеља до завршетка радова.",
+    "reason": null,
+    "sourceUrl": "https://vodovodvranje.rs/28-07-2026-obavestenje-o-prekidu-vodosnabdevanja/",
+    "streets": [],
+    "time": null,
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Зрењанин' keeps its shape > Водовод Зрењанин 1`] = `
+{
+  "count": 30,
+  "first": {
+    "areaLabel": "Банатски Деспотовац",
+    "branchCyrillic": "Зрењанин",
+    "cityNameCyrillic": "Зрењанин",
+    "date": "2026-09-07",
+    "kind": "planned",
+    "note": "БАНАТСКИ ДЕСПОТОВАЦ – радови на водоводној мрежи у улици Предрага и Видоја код броја 62, прекид водоснабдевања у целом насељеном месту до 11 часова.",
+    "reason": null,
+    "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-07-09-2026-godine/",
+    "streets": [],
+    "time": {
+      "end": "11:00",
+      "start": null,
+    },
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Maла Америка",
+    "branchCyrillic": "Зрењанин",
+    "cityNameCyrillic": "Зрењанин",
+    "date": "2026-08-24",
+    "kind": "emergency",
+    "note": "MAЛА АМЕРИКА (ЗРЕЊАНИН) – санација квара на водоводној мрежи, прекид водоснабдевања у овом градском насељу до 20:00 часова.",
+    "reason": null,
+    "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-24-08-2026-godine/",
+    "streets": [],
+    "time": {
+      "end": "20:00",
+      "start": null,
+    },
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Инђија, кварови' keeps its shape > Водовод Инђија, кварови 1`] = `
+{
+  "count": 7,
+  "first": {
+    "areaLabel": "Инђија",
+    "branchCyrillic": "Инђија",
+    "cityNameCyrillic": "Инђија",
+    "date": "2026-08-07",
+    "kind": "emergency",
+    "note": "Обавештење о прекиду водоснабдевања – петак , 07 . 0 8 .20 2 6 . године. Обавештавају се потрошачи у насељу Инђија да ј е у петак , 07 .0 8 .2026. године, због хаварије на водоводној мрежи прекинуто водоснабдевање у комплетном насељу. Радници су на терену и раде на отклањању хаварије. Захваљујемо се потрошачима на разумевању.",
+    "reason": null,
+    "sourceUrl": "https://www.vodovodindjija.co.rs/obavestenje-o-prekidu-vodosnabdevanja-petak-07-08-2026-godine-2/",
+    "streets": [],
+    "time": null,
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Инђија",
+    "branchCyrillic": "Инђија",
+    "cityNameCyrillic": "Инђија",
+    "date": "2026-02-02",
+    "kind": "emergency",
+    "note": "Обавештавају се потрошачи у насељу Инђија, да је у понедељак 02.02.2026. године, у 7 часова ујутру, а услед радова на санацији хаварије на водоводној мрежи, прекинуто водоснабдевање у улици Војводе Степе – непарна страна, на делу између улица Душана Јерковића и Железничке. Прекид водоснабдевања ће трајати до завршетка радова на санацији хаварије. Молимо грађане за стрпљење током наведеног периода.",
+    "reason": null,
+    "sourceUrl": "https://www.vodovodindjija.co.rs/obavestenje-o-prekidu-vodosnabdevanja-2/",
+    "streets": [],
+    "time": null,
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Инђија, радови' keeps its shape > Водовод Инђија, радови 1`] = `
+{
+  "count": 9,
+  "first": {
+    "areaLabel": "Јарковци",
+    "branchCyrillic": "Инђија",
+    "cityNameCyrillic": "Инђија",
+    "date": "2026-04-30",
+    "kind": "planned",
+    "note": "Обавештавају се потрошачи у насељу Јарковци, да ће у четвртак, 30.04.2026. године, у периоду 10-13 часова, а услед радова на водоводној мрежи, бити прекинуто водоснабдевање у следећим улицама: – Ивана Милутиновића, од почетка улице до к.б. 51. Молимо грађане за стрпљење током наведеног периода.",
+    "reason": null,
+    "sourceUrl": "https://www.vodovodindjija.co.rs/prekid-vodosnabdevanja-jarkovci-cetvrtak-30-april/",
+    "streets": [
+      "Ивана Милутиновића",
+    ],
+    "time": {
+      "end": "13:00",
+      "start": "10:00",
+    },
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Инђија",
+    "branchCyrillic": "Инђија",
+    "cityNameCyrillic": "Инђија",
+    "date": "2024-09-18",
+    "kind": "planned",
+    "note": "Обавештавају се потрошачи у насељу Инђија да ће због радова на водоводној мрежи бити прекинуто водоснабдевање 18.09.2024. године у периоду од 8 до 16 часова у следећим улицама: – Војводе Степе – непарна страна улице до улице Душана Јерковића – Новосадска – парна страна – Занатлијска – парна страна улице до улице Душана Јерковића Захваљујемо се потрошачима на разумевању.",
+    "reason": null,
+    "sourceUrl": "https://www.vodovodindjija.co.rs/obavestenje-o-prekidu-vodosnabdevanja-18-09-2024/",
+    "streets": [],
+    "time": {
+      "end": "16:00",
+      "start": "08:00",
+    },
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Крагујевац, планирано' keeps its shape > Водовод Крагујевац, планирано 1`] = `
+{
+  "count": 22,
+  "first": {
+    "areaLabel": "Крагујевац",
+    "branchCyrillic": "Крагујевац",
+    "cityNameCyrillic": "Крагујевац",
+    "date": "2026-08-14",
+    "kind": "planned",
+    "note": "Најава за искључење воде 14.08.2026. 
+ Због неопходних радова на водоводној мрежи у улици Црвеног крста у петак 14.08.2026. године у временском периоду од 08:00 до 15:00 сати без воде ће остати потрошачи у улици Црвеног крста и 1. маја. 
+ Приликом пуштања воде може доћи до благог замућења па је потребно воду испустити док се не избистри. 
+ Моле се потрошачи да обезбеде воду за неопходне потребе.",
+    "reason": null,
+    "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-14-08-2026/",
+    "streets": [
+      "улици Црвеног крста",
+    ],
+    "time": null,
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Крагујевац",
+    "branchCyrillic": "Крагујевац",
+    "cityNameCyrillic": "Крагујевац",
+    "date": "2026-01-30",
+    "kind": "planned",
+    "note": "Најава за искључење воде 30.01.2026. 
+ Због неопходних радова на водоводној мрежи на углу улице др. Јована Ристића и Mилутина Тодоровића у петак 30.01.2026. године у временском периоду од 08:00 до 12:00 сати без воде ће остати потрошачи у насељу Бресницa III, део улице др. Јована Ристића од Цара Душана до Душана Зелеца, Бранка Пaраћа, др. Димитрија Аксића, Радничка, Радомира Бугарског Бате и део Милутина Тодоровића од Мокрањчеве до др. Јована Ристића. 
+ Приликом пуштања воде може доћи до благог замућења па је потребно воду испустити док се не избистри. 
+ Моле се потрошачи да обезбеде воду за неопходне потребе.",
+    "reason": null,
+    "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-30-01-2026/",
+    "streets": [
+      "насељу Бресницa III",
+      "део улице др",
+    ],
+    "time": null,
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Крагујевац, хаварије' keeps its shape > Водовод Крагујевац, хаварије 1`] = `
+{
+  "count": 173,
+  "first": {
+    "areaLabel": "Милатовац",
+    "branchCyrillic": "Крагујевац",
+    "cityNameCyrillic": "Крагујевац",
+    "date": "2026-09-08",
+    "kind": "emergency",
+    "note": "Хаваријска искључења на дан 08.09.2026. 
+ 
+ Милатовац, ул. Ресничка ( од 08:00 до 12:00 часова ), поправка уличне линије.",
+    "reason": "поправка уличне линије",
+    "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-08-09-2026/",
+    "streets": [
+      "Ресничка",
+    ],
+    "time": {
+      "end": "12:00",
+      "start": "08:00",
+    },
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Трмбас",
+    "branchCyrillic": "Крагујевац",
+    "cityNameCyrillic": "Крагујевац",
+    "date": "2026-08-17",
+    "kind": "emergency",
+    "note": "Трмбас, ул. Ужичке републике ( од 16:00 до 19:00 часова ), поправка кућног прикључка.",
+    "reason": "поправка кућног прикључка",
+    "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-17-08-2026/",
+    "streets": [
+      "Ужичке републике",
+    ],
+    "time": {
+      "end": "19:00",
+      "start": "16:00",
+    },
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Лесковац' keeps its shape > Водовод Лесковац 1`] = `
+{
+  "count": 1,
+  "first": {
+    "areaLabel": "Лесковац",
+    "branchCyrillic": "Лесковац",
+    "cityNameCyrillic": "Лесковац",
+    "date": "2026-09-08",
+    "kind": "planned",
+    "note": "- Због радова на одржавању пумпне станице ,доћи ће до кратког прекида у водоснабдевању у другој висинској зони на Хисару. Нормализација водоснабдевања се очекује до 14 часова.",
+    "reason": null,
+    "sourceUrl": "https://www.vodovodle.rs/servisne-informacije.php",
+    "streets": [],
+    "time": {
+      "end": "14:00",
+      "start": null,
+    },
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Лесковац",
+    "branchCyrillic": "Лесковац",
+    "cityNameCyrillic": "Лесковац",
+    "date": "2026-09-08",
+    "kind": "planned",
+    "note": "- Због радова на одржавању пумпне станице ,доћи ће до кратког прекида у водоснабдевању у другој висинској зони на Хисару. Нормализација водоснабдевања се очекује до 14 часова.",
+    "reason": null,
+    "sourceUrl": "https://www.vodovodle.rs/servisne-informacije.php",
+    "streets": [],
+    "time": {
+      "end": "14:00",
+      "start": null,
+    },
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Нови Сад' keeps its shape > Водовод Нови Сад 1`] = `
+{
+  "count": 45,
+  "first": {
+    "areaLabel": "Сремским Карловцима",
+    "branchCyrillic": "Нови Сад",
+    "cityNameCyrillic": "Нови Сад",
+    "date": "2026-09-08",
+    "kind": "emergency",
+    "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Трг патријарха Бранковића и околне улице у Сремским Карловцима.",
+    "reason": null,
+    "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-8-9-2026/",
+    "streets": [
+      "Трг патријарха Бранковића и околне улице",
+    ],
+    "time": {
+      "end": "14:00",
+      "start": null,
+    },
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Сремска Каменица",
+    "branchCyrillic": "Нови Сад",
+    "cityNameCyrillic": "Нови Сад",
+    "date": "2026-08-10",
+    "kind": "emergency",
+    "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица мајора Тепића и насеље Буковац у Сремској Каменици.",
+    "reason": null,
+    "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-10-8-2026/",
+    "streets": [
+      "Улица мајора Тепића и насеље Буковац",
+    ],
+    "time": {
+      "end": "15:00",
+      "start": null,
+    },
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Панчево' keeps its shape > Водовод Панчево 1`] = `
+{
+  "count": 8,
+  "first": {
+    "areaLabel": "Панчево",
+    "branchCyrillic": "Панчево",
+    "cityNameCyrillic": "Панчево",
+    "date": "2026-09-08",
+    "kind": "emergency",
+    "note": "Због хаварије на водоводној мрежи без воде је остала Улица Баваништански пут, на потезу од пруге до краја улице.",
+    "reason": null,
+    "sourceUrl": "https://www.vodovodpa.rs/2026/09/08/8-9-2026/",
+    "streets": [
+      "Баваништански пут",
+      "на потезу од пруге до краја улице",
+    ],
+    "time": null,
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Панчево",
+    "branchCyrillic": "Панчево",
+    "cityNameCyrillic": "Панчево",
+    "date": "2026-08-23",
+    "kind": "emergency",
+    "note": "Због хаварије на водоводној мрежи, од 9 часова без воде ће остати Tрећи и Четврти реон насељеног места Долово.",
+    "reason": null,
+    "sourceUrl": "https://www.vodovodpa.rs/2026/08/23/23-8-2026/",
+    "streets": [
+      "Tрећи",
+      "Четврти реон насељеног места Долово",
+    ],
+    "time": {
+      "end": null,
+      "start": "09:00",
+    },
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Пожаревац' keeps its shape > Водовод Пожаревац 1`] = `
+{
+  "count": 8,
+  "first": {
+    "areaLabel": "Улица Змај Јовина (са бочним улицама) и Улица Раде Слободе (са околним улицама)",
+    "branchCyrillic": "Пожаревац",
+    "cityNameCyrillic": "Пожаревац",
+    "date": "2026-09-02",
+    "kind": "planned",
+    "note": "Обавештавамо Вас да ће дана 02.09.2026. године доћи до искључења воде у улици Змај Јовина са бочним улицама и Раде Слободе са околним улицама у периоду од 12 до 15 часова.",
+    "reason": null,
+    "sourceUrl": "https://vodovod012.rs/vesti",
+    "streets": [],
+    "time": {
+      "end": "15:00",
+      "start": "12:00",
+    },
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Улица Цане Бабовића (други део)",
+    "branchCyrillic": "Пожаревац",
+    "cityNameCyrillic": "Пожаревац",
+    "date": "2026-08-03",
+    "kind": "planned",
+    "note": "Обавештавамо Вас да ће дана 03.08.2026. године доћи до искључења воде у улици Цане Бабовића (други део) у периоду од 08 до 10 часова због санације водоводне цеви.",
+    "reason": null,
+    "sourceUrl": "https://vodovod012.rs/vesti",
+    "streets": [],
+    "time": {
+      "end": "10:00",
+      "start": "08:00",
+    },
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Рума' keeps its shape > Водовод Рума 1`] = `
+{
+  "count": 19,
+  "first": {
+    "areaLabel": "Ириг",
+    "branchCyrillic": "Рума",
+    "cityNameCyrillic": "Ириг",
+    "date": "2026-09-08",
+    "kind": "emergency",
+    "note": "Тренутно је у току санација квара на водоводној мрежи у улицама Доситеја Обрадовића, Ђоке Шундуковића и Карађорђевој у Иригу.",
+    "reason": null,
+    "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-35/",
+    "streets": [
+      "Доситеја Обрадовића",
+    ],
+    "time": null,
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Прњавор, Крушедол",
+    "branchCyrillic": "Рума",
+    "cityNameCyrillic": "Рума",
+    "date": "2026-08-27",
+    "kind": "planned",
+    "note": "Дана 27.08.2026. године у периоду од 09.00 до 13.00 часова, ради извођења радова на повезивању бунара у Крушедолу на водоводну мрежу, за време трајања радова без водоснабдевања остаће потрошачи у насељима Прњавор и Крушедол.",
+    "reason": null,
+    "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-prnjavor-krusedol/",
+    "streets": [],
+    "time": {
+      "end": "13:00",
+      "start": "09:00",
+    },
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Сремска Митровица' keeps its shape > Водовод Сремска Митровица 1`] = `
+{
+  "count": 6,
+  "first": {
+    "areaLabel": "Сремска Митровица",
+    "branchCyrillic": "Сремска Митровица",
+    "cityNameCyrillic": "Сремска Митровица",
+    "date": "2026-08-20",
+    "kind": "emergency",
+    "note": "Због немогућности дистрибуције воде до корисника викенд насеље Лежимир ће у петак, 21. августа 2026. године, у времену од 8 до 12 сати , бити без воде.",
+    "reason": null,
+    "sourceUrl": "https://vodovodsm.rs/strana/10129",
+    "streets": [],
+    "time": {
+      "end": "12:00",
+      "start": "08:00",
+    },
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Сремска Митровица",
+    "branchCyrillic": "Сремска Митровица",
+    "cityNameCyrillic": "Сремска Митровица",
+    "date": "2026-04-27",
+    "kind": "emergency",
+    "note": "У току је хитна интервенција на водоводној мрежи, због које су без воде остали потрошачи у делу улица Паланка и Арсенија Чарнојевића у Сремској Митровици.",
+    "reason": null,
+    "sourceUrl": "https://vodovodsm.rs/strana/10022",
+    "streets": [
+      "у делу улица Паланка",
+      "Арсенија Чарнојевића",
+    ],
+    "time": null,
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Водовод Чачак' keeps its shape > Водовод Чачак 1`] = `
+{
+  "count": 4,
+  "first": {
+    "areaLabel": "Чачак",
+    "branchCyrillic": "Чачак",
+    "cityNameCyrillic": "Чачак",
+    "date": "2026-08-15",
+    "kind": "planned",
+    "note": "Извођење радова на раскрсници улица Немањине и Кнеза Милоша у периоду 15.-16.08.2026. године",
+    "reason": null,
+    "sourceUrl": "https://vodovodca.rs/%d0%b8%d0%b7%d0%b2%d0%be%d1%92%d0%b5%d1%9a%d0%b5-%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b0-%d0%bd%d0%b0-%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%81%d0%bd%d0%b8%d1%86%d0%b8-%d1%83%d0%bb%d0%b8%d1%86%d0%b0-%d0%bd/",
+    "streets": [
+      "Немањине",
+      "Кнеза Милоша",
+    ],
+    "time": null,
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Чачак",
+    "branchCyrillic": "Чачак",
+    "cityNameCyrillic": "Чачак",
+    "date": "2026-06-06",
+    "kind": "planned",
+    "note": "Радови на мрежи 8 септембар 2026",
+    "reason": null,
+    "sourceUrl": "https://vodovodca.rs/kvarovi-na-mrezi/",
+    "streets": [],
+    "time": null,
+    "utility": "water",
+  },
+}
+`;
+
+exports[`parsers against captured fixtures > 'Наиссус Ниш' keeps its shape > Наиссус Ниш 1`] = `
+{
+  "count": 70,
+  "first": {
+    "areaLabel": "Медијана",
+    "branchCyrillic": "Ниш",
+    "cityNameCyrillic": "Медијана",
+    "date": "2026-09-08",
+    "kind": "emergency",
+    "note": "ИНТЕРВЕНЦИЈА У НАСЕЉУ МЕДИЈАНА отребан је ископ у Катићевој улици код броја 15. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 сати у поменутој улици као и у улицама Дечанска, Милице Ракић, Јабланичка и Доситеја Обрадовића. Ауто-цистерна са пијаћом водом биће постављена у Катићевој улици код вртића Невен",
+    "reason": null,
+    "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-290/",
+    "streets": [
+      "Дечанска",
+      "Милице Ракић",
+      "Јабланичка",
+      "Доситеја Обрадовића",
+    ],
+    "time": {
+      "end": "15:00",
+      "start": null,
+    },
+    "utility": "water",
+  },
+  "last": {
+    "areaLabel": "Дуваниште",
+    "branchCyrillic": "Ниш",
+    "cityNameCyrillic": "Ниш",
+    "date": "2026-08-26",
+    "kind": "emergency",
+    "note": "Услед настанка хаварије на водоводној мрежи у улици Николе Узуновића, водоснабдевање ће бити у прекиду до 19 часова на простору између улица Ђердапске, Јужноморавских бригада, Николе Узуновића и Маријана Бадела.",
+    "reason": null,
+    "sourceUrl": "https://jkpnaissus.co.rs/%d1%85%d0%b0%d0%b2%d0%b0%d1%80%d0%b8%d1%98%d0%b0-%d1%83-%d0%bd%d0%b0%d1%81%d0%b5%d1%99%d1%83-%d0%b4%d1%83%d0%b2%d0%b0%d0%bd%d0%b8%d1%88%d1%82%d0%b5/",
+    "streets": [
+      "Николе Узуновића",
+    ],
+    "time": {
+      "end": "19:00",
+      "start": null,
+    },
+    "utility": "water",
+  },
+}
+`;

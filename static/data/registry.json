@@ -1,0 +1,1340 @@
+{
+  "generatedAt": "2026-09-09T00:09:32.988Z",
+  "summary": {
+    "date": "2026-09-09",
+    "electricityOutages": 135,
+    "waterOutages": 0,
+    "affected": [
+      {
+        "id": "beograd",
+        "nameCyrillic": "Београд",
+        "electricityOutages": 22,
+        "waterOutages": 0
+      },
+      {
+        "id": "subotica",
+        "nameCyrillic": "Суботица",
+        "electricityOutages": 17,
+        "waterOutages": 0
+      },
+      {
+        "id": "sremska-mitrovica",
+        "nameCyrillic": "Сремска Митровица",
+        "electricityOutages": 7,
+        "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 6,
+        "waterOutages": 0
+      },
+      {
+        "id": "pancevo",
+        "nameCyrillic": "Панчево",
+        "electricityOutages": 5,
+        "waterOutages": 0
+      },
+      {
+        "id": "prokuplje",
+        "nameCyrillic": "Прокупље",
+        "electricityOutages": 5,
+        "waterOutages": 0
+      },
+      {
+        "id": "vrnjacka-banja",
+        "nameCyrillic": "Врњачка Бања",
+        "electricityOutages": 4,
+        "waterOutages": 0
+      },
+      {
+        "id": "sombor",
+        "nameCyrillic": "Сомбор",
+        "electricityOutages": 4,
+        "waterOutages": 0
+      },
+      {
+        "id": "stara-pazova",
+        "nameCyrillic": "Стара Пазова",
+        "electricityOutages": 4,
+        "waterOutages": 0
+      },
+      {
+        "id": "cajetina",
+        "nameCyrillic": "Чајетина",
+        "electricityOutages": 4,
+        "waterOutages": 0
+      },
+      {
+        "id": "jagodina",
+        "nameCyrillic": "Јагодина",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "krupanj",
+        "nameCyrillic": "Крупањ",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "mali-zvornik",
+        "nameCyrillic": "Мали Зворник",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "pirot",
+        "nameCyrillic": "Пирот",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "pozarevac",
+        "nameCyrillic": "Пожаревац",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "sabac",
+        "nameCyrillic": "Шабац",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "babusnica",
+        "nameCyrillic": "Бабушница",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "zrenjanin",
+        "nameCyrillic": "Зрењанин",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "indjija",
+        "nameCyrillic": "Инђија",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "kursumlija",
+        "nameCyrillic": "Куршумлија",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "aleksinac",
+        "nameCyrillic": "Алексинац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "arandjelovac",
+        "nameCyrillic": "Аранђеловац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "batocina",
+        "nameCyrillic": "Баточина",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "backa-palanka",
+        "nameCyrillic": "Бачка Паланка",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "backa-topola",
+        "nameCyrillic": "Бачка Топола",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "bela-palanka",
+        "nameCyrillic": "Бела Паланка",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "bela-crkva",
+        "nameCyrillic": "Бела Црква",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "velika-plana",
+        "nameCyrillic": "Велика Плана",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "vrbas",
+        "nameCyrillic": "Врбас",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "vrsac",
+        "nameCyrillic": "Вршац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "gornji-milanovac",
+        "nameCyrillic": "Горњи Милановац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "dimitrovgrad",
+        "nameCyrillic": "Димитровград",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "zitoradja",
+        "nameCyrillic": "Житорађа",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "zajecar",
+        "nameCyrillic": "Зајечар",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "kragujevac",
+        "nameCyrillic": "Крагујевац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "krusevac",
+        "nameCyrillic": "Крушевац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "kula",
+        "nameCyrillic": "Кула",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "lucani",
+        "nameCyrillic": "Лучани",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "mali-idjos",
+        "nameCyrillic": "Мали Иђош",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "novi-knezevac",
+        "nameCyrillic": "Нови Кнежевац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "opovo",
+        "nameCyrillic": "Опово",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "osecina",
+        "nameCyrillic": "Осечина",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "razanj",
+        "nameCyrillic": "Ражањ",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "smederevo",
+        "nameCyrillic": "Смедерево",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "smederevska-palanka",
+        "nameCyrillic": "Смедеревска Паланка",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "temerin",
+        "nameCyrillic": "Темерин",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "topola",
+        "nameCyrillic": "Топола",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "cacak",
+        "nameCyrillic": "Чачак",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      }
+    ]
+  },
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 89,
+      "waterOutages": 43
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 22,
+      "waterOutages": 35
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 19,
+      "waterOutages": 41
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 33,
+      "waterOutages": 39
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 32,
+      "waterOutages": 39
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 4,
+      "waterOutages": 10
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 6,
+      "waterOutages": 10
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 54,
+      "waterOutages": 36
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 61,
+      "waterOutages": 42
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 62,
+      "waterOutages": 0
+    }
+  ],
+  "providers": [
+    {
+      "id": "eps-distribucija",
+      "utility": "electricity",
+      "nameCyrillic": "ЕПС Дистрибуција",
+      "phone": "0800 360 300",
+      "url": "https://elektrodistribucija.rs/planirana-iskljucenja",
+      "coverage": "national"
+    },
+    {
+      "id": "jkp-vik-kragujevac",
+      "utility": "water",
+      "nameCyrillic": "Водовод Крагујевац",
+      "phone": "0800 009 008",
+      "url": "https://jkpvik-kg.com/iskljucenja/",
+      "coverage": [
+        "kragujevac"
+      ]
+    },
+    {
+      "id": "bvk-beograd",
+      "utility": "water",
+      "nameCyrillic": "Београдски водовод",
+      "phone": "0800 110 011",
+      "url": "https://www.bvk.rs/kvarovi-na-mrezi/",
+      "coverage": [
+        "beograd",
+        "vozdovac",
+        "vracar",
+        "grocka",
+        "zvezdara",
+        "zemun",
+        "lazarevac",
+        "mladenovac",
+        "novi-beograd",
+        "obrenovac",
+        "palilula",
+        "rakovica",
+        "savski-venac",
+        "sopot",
+        "stari-grad",
+        "surcin",
+        "cukarica",
+        "barajevo"
+      ]
+    },
+    {
+      "id": "jkp-vik-novi-sad",
+      "utility": "water",
+      "nameCyrillic": "Водовод Нови Сад",
+      "phone": "0800 333 021",
+      "url": "https://www.vikns.rs/najava-radova/",
+      "coverage": [
+        "novi-sad"
+      ]
+    },
+    {
+      "id": "jkp-naissus-nis",
+      "utility": "water",
+      "nameCyrillic": "Наиссус Ниш",
+      "phone": "0800 323 320",
+      "url": "https://jkpnaissus.co.rs/",
+      "coverage": [
+        "nis",
+        "medijana",
+        "pantelej",
+        "crveni-krst",
+        "palilula-nis",
+        "niska-banja"
+      ]
+    },
+    {
+      "id": "jkp-vodovod-pancevo",
+      "utility": "water",
+      "nameCyrillic": "Водовод Панчево",
+      "phone": "013 318 220",
+      "url": "https://www.vodovodpa.rs/",
+      "coverage": [
+        "pancevo"
+      ]
+    },
+    {
+      "id": "jkp-vodovod-sremska-mitrovica",
+      "utility": "water",
+      "nameCyrillic": "Водовод Сремска Митровица",
+      "phone": "022 610 588",
+      "url": "https://www.vodovodsm.rs/",
+      "coverage": [
+        "sremska-mitrovica"
+      ]
+    },
+    {
+      "id": "jkp-vodovod-ruma",
+      "utility": "water",
+      "nameCyrillic": "Водовод Рума",
+      "phone": "022 478 322",
+      "url": "https://vodovod-ruma.co.rs/",
+      "coverage": [
+        "ruma"
+      ]
+    },
+    {
+      "id": "jkp-vodovod-indjija",
+      "utility": "water",
+      "nameCyrillic": "Водовод Инђија",
+      "phone": "022 561 445",
+      "url": "https://vodovodindjija.co.rs/",
+      "coverage": [
+        "indjija"
+      ]
+    },
+    {
+      "id": "jkp-vodovod-bor",
+      "utility": "water",
+      "nameCyrillic": "Водовод Бор",
+      "phone": "030 458 850",
+      "url": "https://vodovodbor.com/",
+      "coverage": [
+        "bor"
+      ]
+    },
+    {
+      "id": "jkp-gornji-milanovac",
+      "utility": "water",
+      "nameCyrillic": "ЈКП Горњи Милановац",
+      "phone": "032 711 188",
+      "url": "https://jkpgm.rs/",
+      "coverage": [
+        "gornji-milanovac"
+      ]
+    },
+    {
+      "id": "jkp-vik-zrenjanin",
+      "utility": "water",
+      "nameCyrillic": "Водовод и канализација Зрењанин",
+      "phone": "023 593 000",
+      "url": "https://vikzr.rs/",
+      "coverage": [
+        "zrenjanin"
+      ]
+    },
+    {
+      "id": "jkp-vodovod-valjevo",
+      "utility": "water",
+      "nameCyrillic": "Водовод Ваљево",
+      "phone": "014 221 128",
+      "url": "https://vodovodva.co.rs/",
+      "coverage": [
+        "valjevo"
+      ]
+    },
+    {
+      "id": "jp-vodovod-vranje",
+      "utility": "water",
+      "nameCyrillic": "Водовод Врање",
+      "phone": "017 421 601",
+      "url": "https://vodovodvranje.rs/",
+      "coverage": [
+        "vranje"
+      ]
+    },
+    {
+      "id": "jkp-vodovod-leskovac",
+      "utility": "water",
+      "nameCyrillic": "Водовод Лесковац",
+      "phone": "0800 012 016",
+      "url": "https://www.vodovodle.rs/",
+      "coverage": [
+        "leskovac"
+      ]
+    },
+    {
+      "id": "jkp-vodovod-pozarevac",
+      "utility": "water",
+      "nameCyrillic": "Водовод и канализација Пожаревац",
+      "phone": "012 555 187",
+      "url": "https://vodovod012.rs/",
+      "coverage": [
+        "pozarevac"
+      ]
+    },
+    {
+      "id": "jp-jedinstvo-kladovo",
+      "utility": "water",
+      "nameCyrillic": "Јединство Кладово",
+      "phone": "019 801 250",
+      "url": "https://jedinstvojp.rs/",
+      "coverage": [
+        "kladovo"
+      ]
+    },
+    {
+      "id": "jkp-vodovod-cacak",
+      "utility": "water",
+      "nameCyrillic": "Водовод Чачак",
+      "phone": "032 303 600",
+      "url": "https://vodovodca.rs/",
+      "coverage": [
+        "cacak"
+      ]
+    }
+  ],
+  "cities": [
+    {
+      "id": "aleksandrovac",
+      "nameCyrillic": "Александровац",
+      "nameLatin": "Aleksandrovac",
+      "branchCyrillic": "Крушевац"
+    },
+    {
+      "id": "aleksinac",
+      "nameCyrillic": "Алексинац",
+      "nameLatin": "Aleksinac",
+      "branchCyrillic": "Ниш"
+    },
+    {
+      "id": "alibunar",
+      "nameCyrillic": "Алибунар",
+      "nameLatin": "Alibunar",
+      "branchCyrillic": "Панчево"
+    },
+    {
+      "id": "apatin",
+      "nameCyrillic": "Апатин",
+      "nameLatin": "Apatin",
+      "branchCyrillic": "Сомбор"
+    },
+    {
+      "id": "arandjelovac",
+      "nameCyrillic": "Аранђеловац",
+      "nameLatin": "Aranđelovac",
+      "branchCyrillic": "Крагујевац"
+    },
+    {
+      "id": "babusnica",
+      "nameCyrillic": "Бабушница",
+      "nameLatin": "Babušnica",
+      "branchCyrillic": "Пирот"
+    },
+    {
+      "id": "backa-palanka",
+      "nameCyrillic": "Бачка Паланка",
+      "nameLatin": "Bačka Palanka",
+      "branchCyrillic": "Нови Сад"
+    },
+    {
+      "id": "backa-topola",
+      "nameCyrillic": "Бачка Топола",
+      "nameLatin": "Bačka Topola",
+      "branchCyrillic": "Суботица"
+    },
+    {
+      "id": "bajina-basta",
+      "nameCyrillic": "Бајина Башта",
+      "nameLatin": "Bajina Bašta",
+      "branchCyrillic": "Ужице"
+    },
+    {
+      "id": "barajevo",
+      "nameCyrillic": "Барајево",
+      "nameLatin": "Barajevo",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "batocina",
+      "nameCyrillic": "Баточина",
+      "nameLatin": "Batočina",
+      "branchCyrillic": "Крагујевац"
+    },
+    {
+      "id": "becej",
+      "nameCyrillic": "Бечеј",
+      "nameLatin": "Bečej",
+      "branchCyrillic": "Нови Сад"
+    },
+    {
+      "id": "bela-crkva",
+      "nameCyrillic": "Бела Црква",
+      "nameLatin": "Bela Crkva",
+      "branchCyrillic": "Панчево"
+    },
+    {
+      "id": "bela-palanka",
+      "nameCyrillic": "Бела Паланка",
+      "nameLatin": "Bela Palanka",
+      "branchCyrillic": "Пирот"
+    },
+    {
+      "id": "beograd",
+      "nameCyrillic": "Београд",
+      "nameLatin": "Beograd",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "bogatic",
+      "nameCyrillic": "Богатић",
+      "nameLatin": "Bogatić",
+      "branchCyrillic": "Шабац"
+    },
+    {
+      "id": "bojnik",
+      "nameCyrillic": "Бојник",
+      "nameLatin": "Bojnik",
+      "branchCyrillic": "Лесковац"
+    },
+    {
+      "id": "bor",
+      "nameCyrillic": "Бор",
+      "nameLatin": "Bor",
+      "branchCyrillic": "Зајечар"
+    },
+    {
+      "id": "brus",
+      "nameCyrillic": "Брус",
+      "nameLatin": "Brus",
+      "branchCyrillic": "Крушевац"
+    },
+    {
+      "id": "bujanovac",
+      "nameCyrillic": "Бујановац",
+      "nameLatin": "Bujanovac",
+      "branchCyrillic": "Врање"
+    },
+    {
+      "id": "cacak",
+      "nameCyrillic": "Чачак",
+      "nameLatin": "Čačak",
+      "branchCyrillic": "Чачак"
+    },
+    {
+      "id": "cajetina",
+      "nameCyrillic": "Чајетина",
+      "nameLatin": "Čajetina",
+      "branchCyrillic": "Ужице"
+    },
+    {
+      "id": "crveni-krst",
+      "nameCyrillic": "Црвени крст",
+      "nameLatin": "Crveni krst",
+      "branchCyrillic": "Ниш"
+    },
+    {
+      "id": "cukarica",
+      "nameCyrillic": "Чукарица",
+      "nameLatin": "Čukarica",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "cuprija",
+      "nameCyrillic": "Ћуприја",
+      "nameLatin": "Ćuprija",
+      "branchCyrillic": "Јагодина"
+    },
+    {
+      "id": "despotovac",
+      "nameCyrillic": "Деспотовац",
+      "nameLatin": "Despotovac",
+      "branchCyrillic": "Јагодина"
+    },
+    {
+      "id": "dimitrovgrad",
+      "nameCyrillic": "Димитровград",
+      "nameLatin": "Dimitrovgrad",
+      "branchCyrillic": "Пирот"
+    },
+    {
+      "id": "doljevac",
+      "nameCyrillic": "Дољевац",
+      "nameLatin": "Doljevac",
+      "branchCyrillic": "Ниш"
+    },
+    {
+      "id": "golubac",
+      "nameCyrillic": "Голубац",
+      "nameLatin": "Golubac",
+      "branchCyrillic": "Пожаревац"
+    },
+    {
+      "id": "gornji-milanovac",
+      "nameCyrillic": "Горњи Милановац",
+      "nameLatin": "Gornji Milanovac",
+      "branchCyrillic": "Чачак"
+    },
+    {
+      "id": "grocka",
+      "nameCyrillic": "Гроцка",
+      "nameLatin": "Grocka",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "indjija",
+      "nameCyrillic": "Инђија",
+      "nameLatin": "Inđija",
+      "branchCyrillic": "Рума"
+    },
+    {
+      "id": "irig",
+      "nameCyrillic": "Ириг",
+      "nameLatin": "Irig",
+      "branchCyrillic": "Рума"
+    },
+    {
+      "id": "ivanjica",
+      "nameCyrillic": "Ивањица",
+      "nameLatin": "Ivanjica",
+      "branchCyrillic": "Чачак"
+    },
+    {
+      "id": "jagodina",
+      "nameCyrillic": "Јагодина",
+      "nameLatin": "Jagodina",
+      "branchCyrillic": "Јагодина"
+    },
+    {
+      "id": "kanjiza",
+      "nameCyrillic": "Кањижа",
+      "nameLatin": "Kanjiža",
+      "branchCyrillic": "Суботица"
+    },
+    {
+      "id": "kikinda",
+      "nameCyrillic": "Кикинда",
+      "nameLatin": "Kikinda",
+      "branchCyrillic": "Зрењанин"
+    },
+    {
+      "id": "kladovo",
+      "nameCyrillic": "Кладово",
+      "nameLatin": "Kladovo",
+      "branchCyrillic": "Зајечар"
+    },
+    {
+      "id": "knjazevac",
+      "nameCyrillic": "Књажевац",
+      "nameLatin": "Knjaževac",
+      "branchCyrillic": "Зајечар"
+    },
+    {
+      "id": "kostolac",
+      "nameCyrillic": "Костолац",
+      "nameLatin": "Kostolac",
+      "branchCyrillic": "Пожаревац"
+    },
+    {
+      "id": "kovacica",
+      "nameCyrillic": "Ковачица",
+      "nameLatin": "Kovačica",
+      "branchCyrillic": "Панчево"
+    },
+    {
+      "id": "kovin",
+      "nameCyrillic": "Ковин",
+      "nameLatin": "Kovin",
+      "branchCyrillic": "Панчево"
+    },
+    {
+      "id": "kragujevac",
+      "nameCyrillic": "Крагујевац",
+      "nameLatin": "Kragujevac",
+      "branchCyrillic": "Крагујевац"
+    },
+    {
+      "id": "kraljevo",
+      "nameCyrillic": "Краљево",
+      "nameLatin": "Kraljevo",
+      "branchCyrillic": "Краљево"
+    },
+    {
+      "id": "krupanj",
+      "nameCyrillic": "Крупањ",
+      "nameLatin": "Krupanj",
+      "branchCyrillic": "Лозница"
+    },
+    {
+      "id": "krusevac",
+      "nameCyrillic": "Крушевац",
+      "nameLatin": "Kruševac",
+      "branchCyrillic": "Крушевац"
+    },
+    {
+      "id": "kula",
+      "nameCyrillic": "Кула",
+      "nameLatin": "Kula",
+      "branchCyrillic": "Сомбор"
+    },
+    {
+      "id": "kursumlija",
+      "nameCyrillic": "Куршумлија",
+      "nameLatin": "Kuršumlija",
+      "branchCyrillic": "Прокупље"
+    },
+    {
+      "id": "lajkovac",
+      "nameCyrillic": "Лајковац",
+      "nameLatin": "Lajkovac",
+      "branchCyrillic": "Ваљево"
+    },
+    {
+      "id": "lazarevac",
+      "nameCyrillic": "Лазаревац",
+      "nameLatin": "Lazarevac",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "lebane",
+      "nameCyrillic": "Лебане",
+      "nameLatin": "Lebane",
+      "branchCyrillic": "Лесковац"
+    },
+    {
+      "id": "leskovac",
+      "nameCyrillic": "Лесковац",
+      "nameLatin": "Leskovac",
+      "branchCyrillic": "Лесковац"
+    },
+    {
+      "id": "ljubovija",
+      "nameCyrillic": "Љубовија",
+      "nameLatin": "Ljubovija",
+      "branchCyrillic": "Лозница"
+    },
+    {
+      "id": "loznica",
+      "nameCyrillic": "Лозница",
+      "nameLatin": "Loznica",
+      "branchCyrillic": "Лозница"
+    },
+    {
+      "id": "lucani",
+      "nameCyrillic": "Лучани",
+      "nameLatin": "Lučani",
+      "branchCyrillic": "Чачак"
+    },
+    {
+      "id": "mali-idjos",
+      "nameCyrillic": "Мали Иђош",
+      "nameLatin": "Mali Iđoš",
+      "branchCyrillic": "Суботица"
+    },
+    {
+      "id": "mali-zvornik",
+      "nameCyrillic": "Мали Зворник",
+      "nameLatin": "Mali Zvornik",
+      "branchCyrillic": "Лозница"
+    },
+    {
+      "id": "medijana",
+      "nameCyrillic": "Медијана",
+      "nameLatin": "Medijana",
+      "branchCyrillic": "Ниш"
+    },
+    {
+      "id": "merosina",
+      "nameCyrillic": "Мерошина",
+      "nameLatin": "Merošina",
+      "branchCyrillic": "Прокупље"
+    },
+    {
+      "id": "mionica",
+      "nameCyrillic": "Мионица",
+      "nameLatin": "Mionica",
+      "branchCyrillic": "Ваљево"
+    },
+    {
+      "id": "mladenovac",
+      "nameCyrillic": "Младеновац",
+      "nameLatin": "Mladenovac",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "negotin",
+      "nameCyrillic": "Неготин",
+      "nameLatin": "Negotin",
+      "branchCyrillic": "Зајечар"
+    },
+    {
+      "id": "nis",
+      "nameCyrillic": "Ниш",
+      "nameLatin": "Niš",
+      "branchCyrillic": "Ниш"
+    },
+    {
+      "id": "niska-banja",
+      "nameCyrillic": "Нишка Бања",
+      "nameLatin": "Niška Banja",
+      "branchCyrillic": "Ниш"
+    },
+    {
+      "id": "nova-crnja",
+      "nameCyrillic": "Нова Црња",
+      "nameLatin": "Nova Crnja",
+      "branchCyrillic": "Зрењанин"
+    },
+    {
+      "id": "novi-beograd",
+      "nameCyrillic": "Нови Београд",
+      "nameLatin": "Novi Beograd",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "novi-knezevac",
+      "nameCyrillic": "Нови Кнежевац",
+      "nameLatin": "Novi Kneževac",
+      "branchCyrillic": "Суботица"
+    },
+    {
+      "id": "novi-pazar",
+      "nameCyrillic": "Нови Пазар",
+      "nameLatin": "Novi Pazar",
+      "branchCyrillic": "Нови Пазар"
+    },
+    {
+      "id": "novi-sad",
+      "nameCyrillic": "Нови Сад",
+      "nameLatin": "Novi Sad",
+      "branchCyrillic": "Нови Сад"
+    },
+    {
+      "id": "obrenovac",
+      "nameCyrillic": "Обреновац",
+      "nameLatin": "Obrenovac",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "odzaci",
+      "nameCyrillic": "Оџаци",
+      "nameLatin": "Odžaci",
+      "branchCyrillic": "Сомбор"
+    },
+    {
+      "id": "opovo",
+      "nameCyrillic": "Опово",
+      "nameLatin": "Opovo",
+      "branchCyrillic": "Панчево"
+    },
+    {
+      "id": "osecina",
+      "nameCyrillic": "Осечина",
+      "nameLatin": "Osečina",
+      "branchCyrillic": "Ваљево"
+    },
+    {
+      "id": "palilula",
+      "nameCyrillic": "Палилула",
+      "nameLatin": "Palilula",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "palilula-beograd",
+      "nameCyrillic": "Палилула (Београд)",
+      "nameLatin": "Palilula (Beograd)",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "palilula-nis",
+      "nameCyrillic": "Палилула (Ниш)",
+      "nameLatin": "Palilula (Niš)",
+      "branchCyrillic": "Ниш"
+    },
+    {
+      "id": "pancevo",
+      "nameCyrillic": "Панчево",
+      "nameLatin": "Pančevo",
+      "branchCyrillic": "Панчево"
+    },
+    {
+      "id": "pantelej",
+      "nameCyrillic": "Пантелеј",
+      "nameLatin": "Pantelej",
+      "branchCyrillic": "Ниш"
+    },
+    {
+      "id": "paracin",
+      "nameCyrillic": "Параћин",
+      "nameLatin": "Paraćin",
+      "branchCyrillic": "Јагодина"
+    },
+    {
+      "id": "pirot",
+      "nameCyrillic": "Пирот",
+      "nameLatin": "Pirot",
+      "branchCyrillic": "Пирот"
+    },
+    {
+      "id": "plandiste",
+      "nameCyrillic": "Пландиште",
+      "nameLatin": "Plandište",
+      "branchCyrillic": "Панчево"
+    },
+    {
+      "id": "pozarevac",
+      "nameCyrillic": "Пожаревац",
+      "nameLatin": "Požarevac",
+      "branchCyrillic": "Пожаревац"
+    },
+    {
+      "id": "presevo",
+      "nameCyrillic": "Прешево",
+      "nameLatin": "Preševo",
+      "branchCyrillic": "Врање"
+    },
+    {
+      "id": "priboj",
+      "nameCyrillic": "Прибој",
+      "nameLatin": "Priboj",
+      "branchCyrillic": "Ужице"
+    },
+    {
+      "id": "prijepolje",
+      "nameCyrillic": "Пријепоље",
+      "nameLatin": "Prijepolje",
+      "branchCyrillic": "Ужице"
+    },
+    {
+      "id": "prokuplje",
+      "nameCyrillic": "Прокупље",
+      "nameLatin": "Prokuplje",
+      "branchCyrillic": "Прокупље"
+    },
+    {
+      "id": "rakovica",
+      "nameCyrillic": "Раковица",
+      "nameLatin": "Rakovica",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "raska",
+      "nameCyrillic": "Рашка",
+      "nameLatin": "Raška",
+      "branchCyrillic": "Краљево"
+    },
+    {
+      "id": "razanj",
+      "nameCyrillic": "Ражањ",
+      "nameLatin": "Ražanj",
+      "branchCyrillic": "Крушевац"
+    },
+    {
+      "id": "rekovac",
+      "nameCyrillic": "Рековац",
+      "nameLatin": "Rekovac",
+      "branchCyrillic": "Јагодина"
+    },
+    {
+      "id": "ruma",
+      "nameCyrillic": "Рума",
+      "nameLatin": "Ruma",
+      "branchCyrillic": "Рума"
+    },
+    {
+      "id": "sabac",
+      "nameCyrillic": "Шабац",
+      "nameLatin": "Šabac",
+      "branchCyrillic": "Шабац"
+    },
+    {
+      "id": "savski-venac",
+      "nameCyrillic": "Савски венац",
+      "nameLatin": "Savski venac",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "senta",
+      "nameCyrillic": "Сента",
+      "nameLatin": "Senta",
+      "branchCyrillic": "Суботица"
+    },
+    {
+      "id": "sid",
+      "nameCyrillic": "Шид",
+      "nameLatin": "Šid",
+      "branchCyrillic": "Сремска Митровица"
+    },
+    {
+      "id": "sjenica",
+      "nameCyrillic": "Сјеница",
+      "nameLatin": "Sjenica",
+      "branchCyrillic": "Нови Пазар"
+    },
+    {
+      "id": "smederevo",
+      "nameCyrillic": "Смедерево",
+      "nameLatin": "Smederevo",
+      "branchCyrillic": "Смедерево"
+    },
+    {
+      "id": "smederevska-palanka",
+      "nameCyrillic": "Смедеревска Паланка",
+      "nameLatin": "Smederevska Palanka",
+      "branchCyrillic": "Смедерево"
+    },
+    {
+      "id": "sokobanja",
+      "nameCyrillic": "Сокобања",
+      "nameLatin": "Sokobanja",
+      "branchCyrillic": "Зајечар"
+    },
+    {
+      "id": "sombor",
+      "nameCyrillic": "Сомбор",
+      "nameLatin": "Sombor",
+      "branchCyrillic": "Сомбор"
+    },
+    {
+      "id": "sopot",
+      "nameCyrillic": "Сопот",
+      "nameLatin": "Sopot",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "sremska-mitrovica",
+      "nameCyrillic": "Сремска Митровица",
+      "nameLatin": "Sremska Mitrovica",
+      "branchCyrillic": "Сремска Митровица"
+    },
+    {
+      "id": "stara-pazova",
+      "nameCyrillic": "Стара Пазова",
+      "nameLatin": "Stara Pazova",
+      "branchCyrillic": "Рума"
+    },
+    {
+      "id": "stari-grad",
+      "nameCyrillic": "Стари град",
+      "nameLatin": "Stari grad",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "subotica",
+      "nameCyrillic": "Суботица",
+      "nameLatin": "Subotica",
+      "branchCyrillic": "Суботица"
+    },
+    {
+      "id": "surcin",
+      "nameCyrillic": "Сурчин",
+      "nameLatin": "Surčin",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "svilajnac",
+      "nameCyrillic": "Свилајнац",
+      "nameLatin": "Svilajnac",
+      "branchCyrillic": "Јагодина"
+    },
+    {
+      "id": "temerin",
+      "nameCyrillic": "Темерин",
+      "nameLatin": "Temerin",
+      "branchCyrillic": "Нови Сад"
+    },
+    {
+      "id": "topola",
+      "nameCyrillic": "Топола",
+      "nameLatin": "Topola",
+      "branchCyrillic": "Крагујевац"
+    },
+    {
+      "id": "trstenik",
+      "nameCyrillic": "Трстеник",
+      "nameLatin": "Trstenik",
+      "branchCyrillic": "Крушевац"
+    },
+    {
+      "id": "tutin",
+      "nameCyrillic": "Тутин",
+      "nameLatin": "Tutin",
+      "branchCyrillic": "Нови Пазар"
+    },
+    {
+      "id": "uzice",
+      "nameCyrillic": "Ужице",
+      "nameLatin": "Užice",
+      "branchCyrillic": "Ужице"
+    },
+    {
+      "id": "valjevo",
+      "nameCyrillic": "Ваљево",
+      "nameLatin": "Valjevo",
+      "branchCyrillic": "Ваљево"
+    },
+    {
+      "id": "varvarin",
+      "nameCyrillic": "Варварин",
+      "nameLatin": "Varvarin",
+      "branchCyrillic": "Крушевац"
+    },
+    {
+      "id": "velika-plana",
+      "nameCyrillic": "Велика Плана",
+      "nameLatin": "Velika Plana",
+      "branchCyrillic": "Смедерево"
+    },
+    {
+      "id": "veliko-gradiste",
+      "nameCyrillic": "Велико Градиште",
+      "nameLatin": "Veliko Gradište",
+      "branchCyrillic": "Пожаревац"
+    },
+    {
+      "id": "vladicin-han",
+      "nameCyrillic": "Владичин Хан",
+      "nameLatin": "Vladičin Han",
+      "branchCyrillic": "Врање"
+    },
+    {
+      "id": "vladimirci",
+      "nameCyrillic": "Владимирци",
+      "nameLatin": "Vladimirci",
+      "branchCyrillic": "Шабац"
+    },
+    {
+      "id": "vlasotince",
+      "nameCyrillic": "Власотинце",
+      "nameLatin": "Vlasotince",
+      "branchCyrillic": "Лесковац"
+    },
+    {
+      "id": "vozdovac",
+      "nameCyrillic": "Вождовац",
+      "nameLatin": "Voždovac",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "vracar",
+      "nameCyrillic": "Врачар",
+      "nameLatin": "Vračar",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "vranje",
+      "nameCyrillic": "Врање",
+      "nameLatin": "Vranje",
+      "branchCyrillic": "Врање"
+    },
+    {
+      "id": "vrbas",
+      "nameCyrillic": "Врбас",
+      "nameLatin": "Vrbas",
+      "branchCyrillic": "Нови Сад"
+    },
+    {
+      "id": "vrnjacka-banja",
+      "nameCyrillic": "Врњачка Бања",
+      "nameLatin": "Vrnjačka Banja",
+      "branchCyrillic": "Краљево"
+    },
+    {
+      "id": "vrsac",
+      "nameCyrillic": "Вршац",
+      "nameLatin": "Vršac",
+      "branchCyrillic": "Панчево"
+    },
+    {
+      "id": "zajecar",
+      "nameCyrillic": "Зајечар",
+      "nameLatin": "Zaječar",
+      "branchCyrillic": "Зајечар"
+    },
+    {
+      "id": "zemun",
+      "nameCyrillic": "Земун",
+      "nameLatin": "Zemun",
+      "branchCyrillic": "Београд"
+    },
+    {
+      "id": "zitoradja",
+      "nameCyrillic": "Житорађа",
+      "nameLatin": "Žitorađa",
+      "branchCyrillic": "Прокупље"
+    },
+    {
+      "id": "zrenjanin",
+      "nameCyrillic": "Зрењанин",
+      "nameLatin": "Zrenjanin",
+      "branchCyrillic": "Зрењанин"
+    },
+    {
+      "id": "zvezdara",
+      "nameCyrillic": "Звездара",
+      "nameLatin": "Zvezdara",
+      "branchCyrillic": "Београд"
+    }
+  ]
+}

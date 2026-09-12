@@ -1,0 +1,96 @@
+{
+  "city": {
+    "id": "stari-grad",
+    "nameCyrillic": "Стари град",
+    "nameLatin": "Stari grad",
+    "branchCyrillic": "Београд"
+  },
+  "outages": [
+    {
+      "id": "54dfba5bd42c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-08",
+      "areaLabel": "Стари град",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "КРАЉА МИЛАНА 4"
+      ],
+      "reason": null,
+      "note": "КРАЉА МИЛАНА 4",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "13e5d745b8ba",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-08",
+      "areaLabel": "Стари град",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Таковска 9"
+      ],
+      "reason": null,
+      "note": "Стари град: Таковска 9",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 1,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "city": {
+    "id": "leskovac",
+    "nameCyrillic": "Лесковац",
+    "nameLatin": "Leskovac",
+    "branchCyrillic": "Лесковац"
+  },
+  "outages": [
+    {
+      "id": "8937d53a7ba2",
+      "utility": "water",
+      "kind": "planned",
+      "date": "2026-09-08",
+      "areaLabel": "Лесковац",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "- Због радова на одржавању пумпне станице ,доћи ће до кратког прекида у водоснабдевању у другој висинској зони на Хисару. Нормализација водоснабдевања се очекује до 14 часова.",
+      "sourceUrl": "https://www.vodovodle.rs/servisne-informacije.php"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

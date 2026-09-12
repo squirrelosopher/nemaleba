@@ -1,0 +1,15 @@
+name = "nemaleba-push"
+main = "src/index.ts"
+compatibility_date = "2026-08-01"
+
+[vars]
+ALLOWED_ORIGIN = "https://nemaleba-6429d2.gitlab.io,https://nemaleba.rs"
+
+[triggers]
+crons = ["17 * * * *"]
+
+[[d1_databases]]
+binding = "SUBSCRIPTIONS"
+database_name = "nemaleba-subscriptions"
+database_id = "2bc2bbad-263f-4454-86fd-400b8d3f2826"
+migrations_dir = "migrations"

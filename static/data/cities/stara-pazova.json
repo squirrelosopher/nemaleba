@@ -1,0 +1,130 @@
+{
+  "city": {
+    "id": "stara-pazova",
+    "nameCyrillic": "Стара Пазова",
+    "nameLatin": "Stara Pazova",
+    "branchCyrillic": "Рума"
+  },
+  "outages": [
+    {
+      "id": "39744ffaa53f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-10",
+      "areaLabel": "Стара Пазова",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Нови Бановци: Светосавска 110-156, 143-197, Војвођанска, Рибарска од бр.27 до краја улице, Виноградска од бр.10 до краја улице, Радничка од бр.25/30 до краја улице, Банатска, Скендера Куленовића, Џервин, Земунска од бр.64/75 до краја улице, Школска од бр.23 до краја улице."
+      ],
+      "reason": null,
+      "note": "Нови Бановци: Светосавска 110-156, 143-197, Војвођанска, Рибарска од бр.27 до краја улице, Виноградска од бр.10 до краја улице, Радничка од бр.25/30 до краја улице, Банатска, Скендера Куленовића, Џервин, Земунска од бр.64/75 до краја улице, Школска од бр.23 до краја улице.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "3e483c40e92d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-10",
+      "areaLabel": "Стара Пазова",
+      "time": {
+        "start": "09:30",
+        "end": "10:00"
+      },
+      "streets": [
+        "Белегиш: Део Карађорђеве око бр.55."
+      ],
+      "reason": null,
+      "note": "Белегиш: Део Карађорђеве око бр.55.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "3430abe4d9f4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-10",
+      "areaLabel": "Стара Пазова",
+      "time": {
+        "start": "10:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Сурдук: Део Мале око бр.29."
+      ],
+      "reason": null,
+      "note": "Сурдук: Део Мале око бр.29.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "f511bd22764f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-10",
+      "areaLabel": "Стара Пазова",
+      "time": {
+        "start": "11:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Голубинци: Део Железничке око бр. 8 ж."
+      ],
+      "reason": null,
+      "note": "Голубинци: Део Железничке око бр. 8 ж.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 4,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

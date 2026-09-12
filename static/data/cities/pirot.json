@@ -1,0 +1,166 @@
+{
+  "city": {
+    "id": "pirot",
+    "nameCyrillic": "Пирот",
+    "nameLatin": "Pirot",
+    "branchCyrillic": "Пирот"
+  },
+  "outages": [
+    {
+      "id": "a2c1af1cb7c4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-08",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Део Улице 37. дивизије"
+      ],
+      "reason": null,
+      "note": "Део Улице 37. дивизије",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "d792ee12859c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-08",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Сопот",
+        "део села Црвенче"
+      ],
+      "reason": null,
+      "note": "Сопот, део села Црвенче",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "5df02df0facc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-08",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Пасјач",
+        "Сиња Глава"
+      ],
+      "reason": null,
+      "note": "Пасјач, Сиња Глава",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "f1e282c8166b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-09",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део улице Добродолска."
+      ],
+      "reason": null,
+      "note": "део улице Добродолска.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "6ef0cee9a1f0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-09",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Рагодеш."
+      ],
+      "reason": null,
+      "note": "Рагодеш.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2bfe3798ef14",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-09",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "10:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "део села Крупац."
+      ],
+      "reason": null,
+      "note": "део села Крупац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 4,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 3,
+      "waterOutages": 0
+    }
+  ]
+}

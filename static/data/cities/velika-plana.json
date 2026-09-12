@@ -1,0 +1,113 @@
+{
+  "city": {
+    "id": "velika-plana",
+    "nameCyrillic": "Велика Плана",
+    "nameLatin": "Velika Plana",
+    "branchCyrillic": "Смедерево"
+  },
+  "outages": [
+    {
+      "id": "948675221269",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-08",
+      "areaLabel": "Велика Плана",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Без напајања електричном енергијом ће бити корисници: Фабрика за прераду отпадних вода део ул. Орашка, Шумадијска, 10 октобар, Николе Тесле, Станоја Главаша, Браће Новожилов, Студеничка са припадајућим бочним улицама у Великој Плани."
+      ],
+      "reason": null,
+      "note": "Без напајања електричном енергијом ће бити корисници: Фабрика за прераду отпадних вода део ул. Орашка, Шумадијска, 10 октобар, Николе Тесле, Станоја Главаша, Браће Новожилов, Студеничка са припадајућим бочним улицама у Великој Плани.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "1e34ecd30d13",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-08",
+      "areaLabel": "Велика Плана",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Без напајања електричном енергијом ће бити корисници: део ул. Арсићки пут, 10 октобар, Епископ Николаја, Кајмакчаланска са припадајућим бочним улицама у Великој Плани."
+      ],
+      "reason": null,
+      "note": "Без напајања електричном енергијом ће бити корисници: део ул. Арсићки пут, 10 октобар, Епископ Николаја, Кајмакчаланска са припадајућим бочним улицама у Великој Плани.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "60a56b1ea10c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-10",
+      "areaLabel": "Велика Плана",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Без напајања електричном енергијом ће бити корисници у Старом Селу"
+      ],
+      "reason": null,
+      "note": "Без напајања електричном енергијом ће бити корисници у Старом Селу",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

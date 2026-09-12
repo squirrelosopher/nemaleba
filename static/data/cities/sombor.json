@@ -1,0 +1,153 @@
+{
+  "city": {
+    "id": "sombor",
+    "nameCyrillic": "Сомбор",
+    "nameLatin": "Sombor",
+    "branchCyrillic": "Сомбор"
+  },
+  "outages": [
+    {
+      "id": "c50a3122dce7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-08",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "ГАКОВО, УЛИЦЕ: ЖЕЉЕЗНИЧКА"
+      ],
+      "reason": null,
+      "note": "ГАКОВО, УЛИЦЕ: ЖЕЉЕЗНИЧКА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "0cd5fd5b81c4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-09",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "08:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "СИВАЦ,УЛИЦЕ: М.ТИТА И ОМЛАДИНСКА ДЕСНО"
+      ],
+      "reason": null,
+      "note": "СИВАЦ,УЛИЦЕ: М.ТИТА И ОМЛАДИНСКА ДЕСНО",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2810d87acff9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-10",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "ЦРВЕНКА, УЛИЦЕ: СТАМБЕНИ ДЕО КОЛОНИЈЕ,ВРТИЋ ПУ БАМБИ,БАЗЕН,АМБУЛАНТА,БУНАР ЈКП ВОДОВОД."
+      ],
+      "reason": null,
+      "note": "ЦРВЕНКА, УЛИЦЕ: СТАМБЕНИ ДЕО КОЛОНИЈЕ,ВРТИЋ ПУ БАМБИ,БАЗЕН,АМБУЛАНТА,БУНАР ЈКП ВОДОВОД.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "70712adf9f91",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-11",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "ГАКОВО",
+        "УЛИЦЕ:Д.ОБРАДОВИЋА",
+        "БЛЕДСКА",
+        "ДЕО ДУНАВСКЕ",
+        "ДАЛМАТИНСКА",
+        "ДЕО ОСЛОБОЂЕЊА",
+        "ЖЕЉЕЗНИЧКА И ИЗВОД ПРЕМА РИЋИЦИ"
+      ],
+      "reason": null,
+      "note": "ГАКОВО,УЛИЦЕ:Д.ОБРАДОВИЋА,БЛЕДСКА,ДЕО ДУНАВСКЕ,ДАЛМАТИНСКА,ДЕО ОСЛОБОЂЕЊА,ЖЕЉЕЗНИЧКА И ИЗВОД ПРЕМА РИЋИЦИ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "c52db03f0521",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-11",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ЛУГОВО ОД РАСКРСНИЦЕ ЗА ЖАРКОВАЦ ПРЕМА СОМБОРУ ДЕСНО"
+      ],
+      "reason": null,
+      "note": "ЛУГОВО ОД РАСКРСНИЦЕ ЗА ЖАРКОВАЦ ПРЕМА СОМБОРУ ДЕСНО",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    }
+  ]
+}

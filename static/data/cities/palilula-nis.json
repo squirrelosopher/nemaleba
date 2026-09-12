@@ -1,0 +1,154 @@
+{
+  "city": {
+    "id": "palilula-nis",
+    "nameCyrillic": "Палилула (Ниш)",
+    "nameLatin": "Palilula (Niš)",
+    "branchCyrillic": "Ниш"
+  },
+  "outages": [
+    {
+      "id": "dbf385515b4b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-03",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Косте Абрашевића код броја 42"
+      ],
+      "reason": null,
+      "note": "ПОПРАВКА КВАРА У НАСЕЉУ ПАЛИЛУЛА току су радови у улици Косте Абрашевића код броја 42. Због поправке водоводне мреже биће прекида у водоснабдевању до 15 часова за непарне бројеве у поменутој улици",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-287/"
+    },
+    {
+      "id": "792164d04336",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-03",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Бабички Одред код броја 40"
+      ],
+      "reason": null,
+      "note": "ПОПРАВКА КВАРА У НАСЕЉУ ПАЛИЛУЛА след квара на водоводној мрежи нужан је ископ у улици Бабички Одред код броја 40, самим тим могућ је краћи прекид у водоснабдевању до 15 часова у поменутој улици",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-287/"
+    },
+    {
+      "id": "247d3616d84f",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-04",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Здравке Вучковић код броја 8"
+      ],
+      "reason": null,
+      "note": "ПОПРАВКA КВАРА У НАСЕЉУ ПАЛИЛУЛА бог санације квара на водоводној мрежи потребан је ископ у улици Здравке Вучковић код броја 8. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 сати у делу поменуте улице",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-288/"
+    },
+    {
+      "id": "237e7eb181a8",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-08",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "РАДОВИ НА МРЕЖИ У НАСЕЉУ ПАЛИЛУЛА бог санације квара на водоводној мрежи потребан је ископ на углу улица Здравке Вучковић и Сутјеска. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 сати у наведеним улицама",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-290/"
+    },
+    {
+      "id": "4dc61f953ed5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-09",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Бранка Радичевића (1",
+        "1б",
+        "1в",
+        "50)",
+        "Димитрија Туцовића (1а)",
+        "Гаврила Принципа (1)",
+        "Јована Бабунског (парни бр. 2-40",
+        "непарни бр. 21-33а)",
+        "Николе Тесле (1-4)",
+        "Војводе Гојка (парни бр. 2-48);"
+      ],
+      "reason": null,
+      "note": "Бранка Радичевића (1,1б,1в,50), Димитрија Туцовића (1а), Гаврила Принципа (1), Јована Бабунског (парни бр. 2-40, непарни бр. 21-33а), Николе Тесле (1-4), Војводе Гојка (парни бр. 2-48);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 1,
+      "waterOutages": 2
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 2
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 1,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    }
+  ]
+}

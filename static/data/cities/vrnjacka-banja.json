@@ -1,0 +1,131 @@
+{
+  "city": {
+    "id": "vrnjacka-banja",
+    "nameCyrillic": "Врњачка Бања",
+    "nameLatin": "Vrnjačka Banja",
+    "branchCyrillic": "Краљево"
+  },
+  "outages": [
+    {
+      "id": "854360e02ab0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-09",
+      "areaLabel": "Врњачка Бања",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део насеља Руђинци око дома и Благојевића"
+      ],
+      "reason": null,
+      "note": "Део насеља Руђинци око дома и Благојевића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "1581f45975d9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-09",
+      "areaLabel": "Врњачка Бања",
+      "time": {
+        "start": "12:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Део Олимпијске улице око Аква парка",
+        "Маркета Јанковћ и око школе на Пискавцу"
+      ],
+      "reason": null,
+      "note": "Део Олимпијске улице око Аква парка,Маркета Јанковћ и око школе на Пискавцу",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "37d4f807f25b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-10",
+      "areaLabel": "Врњачка Бања",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део насеља Руђинци око дома и Благојевића"
+      ],
+      "reason": null,
+      "note": "Део насеља Руђинци око дома и Благојевића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "50caa5ab357c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-11",
+      "areaLabel": "Врњачка Бања",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део насеља Подунавци испод пруге засеок Јеринићи и Зарићи"
+      ],
+      "reason": null,
+      "note": "део насеља Подунавци испод пруге засеок Јеринићи и Зарићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 2,
+      "waterOutages": 0
+    }
+  ]
+}

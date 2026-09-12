@@ -1,0 +1,128 @@
+{
+  "city": {
+    "id": "pozarevac",
+    "nameCyrillic": "Пожаревац",
+    "nameLatin": "Požarevac",
+    "branchCyrillic": "Пожаревац"
+  },
+  "outages": [
+    {
+      "id": "25dccbc000fe",
+      "utility": "water",
+      "kind": "planned",
+      "date": "2026-09-02",
+      "areaLabel": "Улица Змај Јовина (са бочним улицама) и Улица Раде Слободе (са околним улицама)",
+      "time": {
+        "start": "12:00",
+        "end": "15:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Обавештавамо Вас да ће дана 02.09.2026. године доћи до искључења воде у улици Змај Јовина са бочним улицама и Раде Слободе са околним улицама у периоду од 12 до 15 часова.",
+      "sourceUrl": "https://vodovod012.rs/vesti"
+    },
+    {
+      "id": "681098f1c54e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-09",
+      "areaLabel": "Пожаревац",
+      "time": {
+        "start": "08:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "део Брадарца код Ловачког дома"
+      ],
+      "reason": null,
+      "note": "део Брадарца код Ловачког дома",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "54b3141b18ee",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-10",
+      "areaLabel": "Пожаревац",
+      "time": {
+        "start": "08:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "Танаска Рајића и део ППО од Лиона према граду"
+      ],
+      "reason": null,
+      "note": "Танаска Рајића и део ППО од Лиона према граду",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "a1faacd17b10",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-11",
+      "areaLabel": "Пожаревац",
+      "time": {
+        "start": "08:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "Крунска улица у Забели"
+      ],
+      "reason": null,
+      "note": "Крунска улица у Забели",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    }
+  ]
+}

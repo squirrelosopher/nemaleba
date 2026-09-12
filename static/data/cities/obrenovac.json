@@ -1,0 +1,113 @@
+{
+  "city": {
+    "id": "obrenovac",
+    "nameCyrillic": "Обреновац",
+    "nameLatin": "Obrenovac",
+    "branchCyrillic": "Београд"
+  },
+  "outages": [
+    {
+      "id": "68771e5054c0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-08",
+      "areaLabel": "Обреновац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Насеље ОБРЕНОВАЦ: ХАЈДУК ВЕЉКОВА: 2,1-5, ВОЈВОДЕ МИШИЋА: 122-144,148А-166,157-167,171-197, ВУКА КАРАЏИЋА: 26,38,65"
+      ],
+      "reason": null,
+      "note": "Насеље ОБРЕНОВАЦ: ХАЈДУК ВЕЉКОВА: 2,1-5, ВОЈВОДЕ МИШИЋА: 122-144,148А-166,157-167,171-197, ВУКА КАРАЏИЋА: 26,38,65,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "20d205218757",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-09",
+      "areaLabel": "Обреновац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Насеље ОБРЕНОВАЦ: ЦАРА ЛАЗАРА: 0ББ,4А-6Ц,20,1-3А,9Б,107, ЂАЧКОГ БАТАЉОНА: 11, ЉУБЕ НЕНАДОВИЋА: 3А-3Б, ОМЛАДИНСКА: 2Б, ПОСАВСКИХ НОРВЕЖАНА: 9-23Б, ВОЈВОДЕ МИШИЋА: 86"
+      ],
+      "reason": null,
+      "note": "Насеље ОБРЕНОВАЦ: ЦАРА ЛАЗАРА: 0ББ,4А-6Ц,20,1-3А,9Б,107, ЂАЧКОГ БАТАЉОНА: 11, ЉУБЕ НЕНАДОВИЋА: 3А-3Б, ОМЛАДИНСКА: 2Б, ПОСАВСКИХ НОРВЕЖАНА: 9-23Б, ВОЈВОДЕ МИШИЋА: 86,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f6c293f0c33e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-10",
+      "areaLabel": "Обреновац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Насеље ОБРЕНОВАЦ: ЦАРА ЛАЗАРА: 0,12,1-1ББ, ЉУБЕ НЕНАДОВИЋА: 2-24,1Б-3Б,15,21,31, МИЛОША ОБРЕНОВИЋА: 1-1"
+      ],
+      "reason": null,
+      "note": "Насеље ОБРЕНОВАЦ: ЦАРА ЛАЗАРА: 0,12,1-1ББ, ЉУБЕ НЕНАДОВИЋА: 2-24,1Б-3Б,15,21,31, МИЛОША ОБРЕНОВИЋА: 1-1,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    }
+  ]
+}

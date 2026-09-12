@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="%lang%" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="%sveltekit.assets%/favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="%sveltekit.assets%/manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="%sveltekit.assets%/icon-192.png" />
+    <meta name="theme-color" content="#0c0a09" />
+    <!-- The fonts are served from this origin rather than fetched from Google, which cost
+         two handshakes before the first byte of a font arrived and left every heading to
+         paint in Segoe UI and then resize once the real face landed. The latin and
+         latin-ext subsets carry every page in the default locale, so they are preloaded;
+         cyrillic is fetched only if the reader switches script. -->
+    <link rel="preload" href="%sveltekit.assets%/fonts/ubuntu-sans-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="%sveltekit.assets%/fonts/ubuntu-sans-latin-ext.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="%sveltekit.assets%/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="%sveltekit.assets%/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin />
+
+    <style>
+    /* Ubuntu Sans · latin */
+    @font-face {
+      font-family: 'Ubuntu Sans';
+      font-style: normal;
+      font-weight: 400 700;
+      font-display: swap;
+      src: url('%sveltekit.assets%/fonts/ubuntu-sans-latin.woff2') format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    /* Ubuntu Sans · latin-ext */
+    @font-face {
+      font-family: 'Ubuntu Sans';
+      font-style: normal;
+      font-weight: 400 700;
+      font-display: swap;
+      src: url('%sveltekit.assets%/fonts/ubuntu-sans-latin-ext.woff2') format('woff2');
+      unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* Ubuntu Sans · cyrillic */
+    @font-face {
+      font-family: 'Ubuntu Sans';
+      font-style: normal;
+      font-weight: 400 700;
+      font-display: swap;
+      src: url('%sveltekit.assets%/fonts/ubuntu-sans-cyrillic.woff2') format('woff2');
+      unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+
+    /* Inter · latin */
+    @font-face {
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 400 700;
+      font-display: swap;
+      src: url('%sveltekit.assets%/fonts/inter-latin.woff2') format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    /* Inter · latin-ext */
+    @font-face {
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 400 700;
+      font-display: swap;
+      src: url('%sveltekit.assets%/fonts/inter-latin-ext.woff2') format('woff2');
+      unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* Inter · cyrillic */
+    @font-face {
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 400 700;
+      font-display: swap;
+      src: url('%sveltekit.assets%/fonts/inter-cyrillic.woff2') format('woff2');
+      unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+    </style>
+    <script>
+      window.addEventListener('beforeinstallprompt', function (event) {
+        event.preventDefault();
+        window.nemalebaInstall = event;
+      });
+
+      // Each mark below is read from storage that a hardened browser can refuse. One
+      // shared try meant a single refusal skipped every mark after it, so whichever
+      // happened to be last silently stopped working. They are independent now, and the
+      // two that decide what the first frame looks like run before the rest.
+      var root = document.documentElement;
+
+      function mark(apply) {
+        try {
+          apply();
+        } catch (error) {}
+      }
+
+      // Every per-reader mark is corrected once Svelte hydrates. Each correction is
+      // instant, but anything with a CSS transition would animate it in full view.
+      // Held off until the frame after hydration, corrections land unseen.
+      mark(function () {
+        root.dataset.hydrating = '';
+      });
+
+      // The locale lives in the URL, so the markup that arrives is already in the right
+      // language and nothing has to be corrected once it is on screen. All this does is
+      // send a reader who chose a locale earlier, and then opened a bare URL, to their own
+      // prefix. It runs before the first paint, so the bare page is never shown.
+      mark(function () {
+        var SEGMENTS = { 'sr-cyrl': 'sr-cyr', en: 'en' };
+        var base = '%sveltekit.env.PUBLIC_BASE_PATH%';
+        var segment = SEGMENTS[localStorage.getItem('nemaleba:locale')];
+
+        if (!segment) {
+          return;
+        }
+
+        var path = location.pathname.slice(base.length);
+
+        // A URL that already names a locale is the reader's explicit choice and outranks
+        // anything stored. Guarding on it also makes a redirect loop impossible.
+        if (/^\/(sr-lat|sr-cyr|en)(\/|$)/.test(path)) {
+          return;
+        }
+
+        location.replace(base + '/' + segment + (path === '/' ? '' : path) + location.search + location.hash);
+      });
+
+      mark(function () {
+        if (localStorage.getItem('nemaleba:theme') !== 'light') {
+          return;
+        }
+
+        root.dataset.theme = 'light';
+        document.querySelector('meta[name=theme-color]').content = '#faf9f7';
+      });
+
+      // Which panel this city was last read on. The page is prerendered with whichever
+      // utility the markup was built for, so without this a reader who left it on water
+      // was shown electricity until Svelte hydrated and then watched it swap. Stamped
+      // before the first paint, CSS picks the right one from the start; the layout drops
+      // the mark once hydration owns the choice.
+      mark(function () {
+        var LOCALES = /^\/(sr-lat|sr-cyr|en)(?=\/|$)/;
+        var base = '%sveltekit.env.PUBLIC_BASE_PATH%';
+        var path = location.pathname.slice(base.length).replace(LOCALES, '');
+        var city = path.split('/')[1];
+
+        if (!city) {
+          return;
+        }
+
+        var panels = JSON.parse(sessionStorage.getItem('nemaleba:panels') || '{}');
+
+        if (panels[city] === 'electricity' || panels[city] === 'water') {
+          root.dataset.panel = panels[city];
+        }
+      });
+
+      mark(function () {
+        if (navigator.share) {
+          root.dataset.canShare = '';
+        }
+      });
+
+      mark(function () {
+        var unread = localStorage.getItem('nemaleba:unread');
+
+        if (unread && unread !== '0') {
+          root.dataset.unread = '';
+        }
+      });
+
+    </script>
+    %sveltekit.head%
+  </head>
+  <body data-sveltekit-preload-data="hover">
+    <div style="display: contents">%sveltekit.body%</div>
+    <script>
+      // Runs once the body is parsed but before it is painted. The prerendered notify
+      // button cannot know whether this visitor subscribed to this city, so without this
+      // a subscriber watches a plain grey bell turn into a green ringing one the moment
+      // Svelte hydrates. The button clears the mark as soon as it owns its own state.
+      try {
+        var subscribed = JSON.parse(localStorage.getItem('nemaleba:cities') || '[]');
+
+        document.querySelectorAll('[data-notify-city]').forEach(function (button) {
+          if (subscribed.indexOf(button.dataset.notifyCity) !== -1) {
+            button.dataset.subscribed = '';
+          }
+        });
+      } catch (error) {}
+    </script>
+  </body>
+</html>

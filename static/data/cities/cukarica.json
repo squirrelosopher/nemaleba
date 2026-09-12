@@ -1,0 +1,166 @@
+{
+  "city": {
+    "id": "cukarica",
+    "nameCyrillic": "Чукарица",
+    "nameLatin": "Čukarica",
+    "branchCyrillic": "Београд"
+  },
+  "outages": [
+    {
+      "id": "28b46e7ebccc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-08",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насеље РУШАЊ: АВАЛСКА: 2-4, ОСЛОБОЂЕЊА: 48-78А,71-77,81-85Б,89-103, ОСЛОБОЂЕЊА 1 ДЕО: ,12,16, ОСЛОБОЂЕЊА 2 ДЕО: 2-8"
+      ],
+      "reason": null,
+      "note": "Насеље РУШАЊ: АВАЛСКА: 2-4, ОСЛОБОЂЕЊА: 48-78А,71-77,81-85Б,89-103, ОСЛОБОЂЕЊА 1 ДЕО: ,12,16, ОСЛОБОЂЕЊА 2 ДЕО: 2-8,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "ba202751faed",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-08",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Насеље ЖАРКОВО: БУДА ТОМОВИЋА: 14-16,15-29, ЛЕПОСАВЕ МИХАИЛОВИЋ: 26-66,17-55, МИЛАНА ДЕЛИЋА: 32-38,31-45"
+      ],
+      "reason": null,
+      "note": "Насеље ЖАРКОВО: БУДА ТОМОВИЋА: 14-16,15-29, ЛЕПОСАВЕ МИХАИЛОВИЋ: 26-66,17-55, МИЛАНА ДЕЛИЋА: 32-38,31-45,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "6687efe7ab4a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-08",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Милосава Влајића 1",
+        "Савска 13 – Остружница",
+        "Љубисава Шарчевића 44 – Велика Моштаница"
+      ],
+      "reason": null,
+      "note": "Чукарица: Милосава Влајића 1, Савска 13 – Остружница, Љубисава Шарчевића 44 – Велика Моштаница",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "5d6516174e5a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-09",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Насеље ЖАРКОВО: ПОРУЧНИКА СПАСИЋА И МАШЕРЕ: 94-102"
+      ],
+      "reason": null,
+      "note": "Насеље ЖАРКОВО: ПОРУЧНИКА СПАСИЋА И МАШЕРЕ: 94-102,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "157fc52683ad",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-10",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "АДА ЦИГАНЛИЈА: бб,бб,ББ,бб"
+      ],
+      "reason": null,
+      "note": "АДА ЦИГАНЛИЈА: бб,бб,ББ,бб,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "3a2f54723e3a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-10",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": "22:00",
+        "end": "23:59"
+      },
+      "streets": [
+        "АДА ЦИГАНЛИЈА: ББ,бб,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,2Д,1Д, ОБРЕНОВАЧКИ ДРУМ: ББ,ББ,бб,бб,2,10А,14,7-27Ђ,33"
+      ],
+      "reason": null,
+      "note": "АДА ЦИГАНЛИЈА: ББ,бб,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,2Д,1Д, ОБРЕНОВАЧКИ ДРУМ: ББ,ББ,бб,бб,2,10А,14,7-27Ђ,33,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 2,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 1,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 1,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 2,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    }
+  ]
+}

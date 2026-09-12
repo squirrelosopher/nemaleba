@@ -1,0 +1,44 @@
+{
+  "city": {
+    "id": "svilajnac",
+    "nameCyrillic": "Свилајнац",
+    "nameLatin": "Svilajnac",
+    "branchCyrillic": "Јагодина"
+  },
+  "outages": [
+    {
+      "id": "43923755bdc2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-08",
+      "areaLabel": "Свилајнац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Село Витежево"
+      ],
+      "reason": null,
+      "note": "Село Витежево",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

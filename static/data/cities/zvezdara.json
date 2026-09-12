@@ -1,0 +1,113 @@
+{
+  "city": {
+    "id": "zvezdara",
+    "nameCyrillic": "Звездара",
+    "nameLatin": "Zvezdara",
+    "branchCyrillic": "Београд"
+  },
+  "outages": [
+    {
+      "id": "081a922a22ed",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-08",
+      "areaLabel": "Звездара",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Црвена звезда 4"
+      ],
+      "reason": null,
+      "note": "Звездара: Црвена звезда 4",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "aa18feef7d8e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-09",
+      "areaLabel": "Звездара",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "ЧЕЛОПЕЧКА: 10,7-7"
+      ],
+      "reason": null,
+      "note": "ЧЕЛОПЕЧКА: 10,7-7,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7044b067babe",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-10",
+      "areaLabel": "Звездара",
+      "time": {
+        "start": "02:00",
+        "end": "07:00"
+      },
+      "streets": [
+        "ВОЈИСЛАВА ИЛИЋА: 139"
+      ],
+      "reason": null,
+      "note": "ВОЈИСЛАВА ИЛИЋА: 139,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 2,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 1,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    }
+  ]
+}

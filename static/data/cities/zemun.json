@@ -1,0 +1,164 @@
+{
+  "city": {
+    "id": "zemun",
+    "nameCyrillic": "Земун",
+    "nameLatin": "Zemun",
+    "branchCyrillic": "Београд"
+  },
+  "outages": [
+    {
+      "id": "86b9540b455e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-08",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "10:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "АУТОПУТ ЗА ЗАГРЕБ: 26г-26Х,300Г"
+      ],
+      "reason": null,
+      "note": "АУТОПУТ ЗА ЗАГРЕБ: 26г-26Х,300Г,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "0f6504367d31",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-08",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "БАНИЈСКА: 30,29, БАЊИЧКА: 2-18,22-38,3-39, СТЕФАНА МУСИЋА: 6-14, ТОПЛИЧКА: 2-8,1-7А, ЗАДРУГАРСКА: 22-32,3Б/1, ЗАГОРСКА: 10-12"
+      ],
+      "reason": null,
+      "note": "БАНИЈСКА: 30,29, БАЊИЧКА: 2-18,22-38,3-39, СТЕФАНА МУСИЋА: 6-14, ТОПЛИЧКА: 2-8,1-7А, ЗАДРУГАРСКА: 22-32,3Б/1, ЗАГОРСКА: 10-12,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "99a1f8eb156b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-08",
+      "areaLabel": "Земун",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Батајнички друм 6 – Нова Галеника"
+      ],
+      "reason": null,
+      "note": "Земун: Батајнички друм 6 – Нова Галеника",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "c6f3f3049fe0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-09",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "08:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "БАЧКА: 15, КАРЛОВАЧКА: 44, МОСТАРСКА: 10,1-5, ПРИЗРЕНСКА: 2-8,1-3,7А-11, САРАЈЕВСКА: 2-10,1,7-15, СРЕМСКИХ БОРАЦА: 2-6Ф,65-83В/1, УГРИНОВАЧКА: 150,154-156а,160-168,172-182,171-189, ЗАДРУГАРСКА: 34,66-74,1Б-7, ЗАГОРСКА: 34-50А"
+      ],
+      "reason": null,
+      "note": "БАЧКА: 15, КАРЛОВАЧКА: 44, МОСТАРСКА: 10,1-5, ПРИЗРЕНСКА: 2-8,1-3,7А-11, САРАЈЕВСКА: 2-10,1,7-15, СРЕМСКИХ БОРАЦА: 2-6Ф,65-83В/1, УГРИНОВАЧКА: 150,154-156а,160-168,172-182,171-189, ЗАДРУГАРСКА: 34,66-74,1Б-7, ЗАГОРСКА: 34-50А,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "9df44bda5fde",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-10",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "08:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "АЛАСКА: 14-44,5-15,41-45, БОСАНСКА: 60,68-90,47,55А-55Б,59-81,85-85,91, ЦАРА ДУШАНА: 178А-186А,190-194,198-206,141-143Б, ФИЛИПА ВИШЊИЋА: 2,24, КАРЛОВАЧКА: 18-36,17-43, ЛАЗЕ ЈОВАНОВИЋА - ПОРЦИЈА : 4б,39,45, ПРИЗРЕНСКА: 14-20,13-23,37а, ТРШЋАНСКА: 70Б,102, УГРИНОВАЧКА: 124"
+      ],
+      "reason": null,
+      "note": "АЛАСКА: 14-44,5-15,41-45, БОСАНСКА: 60,68-90,47,55А-55Б,59-81,85-85,91, ЦАРА ДУШАНА: 178А-186А,190-194,198-206,141-143Б, ФИЛИПА ВИШЊИЋА: 2,24, КАРЛОВАЧКА: 18-36,17-43, ЛАЗЕ ЈОВАНОВИЋА - ПОРЦИЈА : 4б,39,45, ПРИЗРЕНСКА: 14-20,13-23,37а, ТРШЋАНСКА: 70Б,102, УГРИНОВАЧКА: 124,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "07ca3b39ecba",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-11",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "08:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "БАНИЈСКА: 1, БАЊИЧКА: 1-1, ЛИЧКА: 2-6, ПРВОМАЈСКА: 112Б,116А-120,101-111,117-123, ШЕВИНА : 2-28,1-25б, ЗАДРУГАРСКА: 2-2А,8-20,1-3Б"
+      ],
+      "reason": null,
+      "note": "БАНИЈСКА: 1, БАЊИЧКА: 1-1, ЛИЧКА: 2-6, ПРВОМАЈСКА: 112Б,116А-120,101-111,117-123, ШЕВИНА : 2-28,1-25б, ЗАДРУГАРСКА: 2-2А,8-20,1-3Б,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 1,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 1,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 2,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    }
+  ]
+}

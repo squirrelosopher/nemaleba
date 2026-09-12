@@ -1,0 +1,37 @@
+{
+  "name": "nemaleba",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+    "data": "tsx scripts/pipeline.ts",
+    "test": "svelte-kit sync && vitest run",
+    "fixtures": "tsx scripts/dev/captureFixtures.ts",
+    "rgz": "tsx scripts/dev/importRgz.ts",
+    "push:keys": "web-push generate-vapid-keys",
+    "push:test": "tsx scripts/sendTestPush.ts",
+    "notify": "tsx scripts/notify.ts",
+    "await:deploy": "tsx scripts/ci/awaitDeployment.ts"
+  },
+  "devDependencies": {
+    "@lucide/svelte": "^1.37.0",
+    "@sveltejs/adapter-static": "^3.0.10",
+    "@sveltejs/kit": "^2.70.3",
+    "@sveltejs/vite-plugin-svelte": "^7.3.0",
+    "@types/web-push": "^3.6.4",
+    "svelte": "^5.57.0",
+    "svelte-check": "^4.7.6",
+    "tsx": "^4.23.13",
+    "typescript": "^6.0.3",
+    "vite": "^8.2.2",
+    "vitest": "^3.2.7",
+    "web-push": "^3.6.7"
+  },
+  "dependencies": {
+    "@floating-ui/dom": "^1.8.0"
+  }
+}

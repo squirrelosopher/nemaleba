@@ -1,0 +1,91 @@
+{
+  "city": {
+    "id": "vrsac",
+    "nameCyrillic": "Вршац",
+    "nameLatin": "Vršac",
+    "branchCyrillic": "Панчево"
+  },
+  "outages": [
+    {
+      "id": "31d7e395abbd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-11",
+      "areaLabel": "Вршац",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Л.Нанчића 4-40",
+        "3-37А",
+        "Брегалничка 52",
+        "54",
+        "Б.Радичевића 2а-18",
+        "1-11",
+        "Николе Тесле 32а и 31а",
+        "Ж.Јовановића 5",
+        "5а и 7",
+        "З.Јовина 12-62",
+        "15-65",
+        "Синђелићева од Ж. Јовановића до Св. Милетића",
+        "Милетићева 12 и 14."
+      ],
+      "reason": null,
+      "note": "Л.Нанчића 4-40, 3-37А, Брегалничка 52, 54, Б.Радичевића 2а-18, 1-11, Николе Тесле 32а и 31а, Ж.Јовановића 5, 5а и 7, З.Јовина 12-62, 15-65, Синђелићева од Ж. Јовановића до Св. Милетића, Милетићева 12 и 14.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-31",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-01",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-02",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-03",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-04",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

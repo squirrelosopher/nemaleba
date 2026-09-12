@@ -1,0 +1,208 @@
+:root {
+  --bg: #0c0a09;
+  --surface: #161413;
+  --surface-sunken: #1c1917;
+  --border: #292524;
+  --border-strong: #3b3634;
+  --ink: #f5f5f4;
+  --ink-muted: #a8a29e;
+  --ink-faint: #78716c;
+
+  /* Accents are shared by both themes; only the tints they sit on change. */
+  --power: #dc8f09;
+  --water: #2fa8ee;
+
+  --power-soft: #261c0b;
+  --power-line: #533d18;
+  --water-soft: #0b1d28;
+  --water-line: #194057;
+  --ok: #4ade80;
+  --ok-soft: #0e2016;
+  --alert: #f87171;
+  --alert-soft: #2a1414;
+  --warn: #f59e0b;
+
+  --font-body: 'Ubuntu Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-display: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  --shell: 760px;
+  --table-height: 420px;
+  --radius: 12px;
+  --radius-sm: 8px;
+  --transition: 180ms cubic-bezier(0.2, 0, 0.2, 1);
+
+  color-scheme: dark;
+}
+
+:root[data-theme='light'] {
+  --bg: #faf9f7;
+  --surface: #ffffff;
+  --surface-sunken: #f5f4f2;
+  --border: #e7e5e4;
+  --border-strong: #d6d3d1;
+  --ink: #1c1917;
+  --ink-muted: #78716c;
+  --ink-faint: #a8a29e;
+
+  --power-soft: #fdf6ea;
+  --power-line: #f0d6a8;
+  --water-soft: #ecf7fd;
+  --water-line: #a8d2eb;
+  --ok: #15803d;
+  --ok-soft: #eef8f1;
+  --alert: #b91c1c;
+  --alert-soft: #fdf0ef;
+  --warn: #b45309;
+
+  color-scheme: light;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Mobile browsers paint a translucent blue block over any tapped element. The property
+   inherits, so setting it once at the root covers everything now and anything added
+   later; the :active states below stand in so a tap still gives feedback. */
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+a,
+button,
+[role='button'],
+summary,
+label {
+  touch-action: manipulation;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.15;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+@media (hover: none) {
+  a:active,
+  button:active:not(:disabled) {
+    opacity: 0.6;
+  }
+
+  tbody tr:active {
+    background: var(--surface-sunken);
+  }
+}
+
+.shell {
+  width: 100%;
+  max-width: var(--shell);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.eyebrow {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.numeric {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: 'tnum' 1;
+}
+
+:root[data-hydrating] *,
+:root[data-hydrating] *::before,
+:root[data-hydrating] *::after,
+:root[data-theme-switching] *,
+:root[data-theme-switching] *::before,
+:root[data-theme-switching] *::after {
+  transition: none !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+.nl-tooltip {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 200;
+  width: max-content;
+  max-width: 260px;
+  padding: 5px 10px;
+  border-radius: 8px;
+  background: var(--ink);
+  color: var(--bg);
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.45;
+  box-shadow: 0 10px 24px -12px rgb(0 0 0 / 0.5);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 140ms ease;
+}
+
+.nl-tooltip.visible {
+  opacity: 1;
+}
+
+.nl-tooltip-arrow {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background: var(--ink);
+  transform: rotate(45deg);
+  border-radius: 1px;
+}

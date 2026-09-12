@@ -1,0 +1,44 @@
+{
+  "city": {
+    "id": "opovo",
+    "nameCyrillic": "Опово",
+    "nameLatin": "Opovo",
+    "branchCyrillic": "Панчево"
+  },
+  "outages": [
+    {
+      "id": "e7da9179d1cc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-09",
+      "areaLabel": "Опово",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Опово: цело насељено место осим следећих улица Жарка Зрењанина, Бориса Кидрича од улаза из правца Сефкерина до Бранислава Нушића, Друго и Треће Ново насеље, Безимена, Кратка, део Бранислава Нушића, део Б.Радичевића и део Тамишке."
+      ],
+      "reason": null,
+      "note": "Опово: цело насељено место осим следећих улица Жарка Зрењанина, Бориса Кидрича од улаза из правца Сефкерина до Бранислава Нушића, Друго и Треће Ново насеље, Безимена, Кратка, део Бранислава Нушића, део Б.Радичевића и део Тамишке.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-08",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-09",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    }
+  ]
+}
