@@ -11,6 +11,10 @@
   let isPaused = $state(false);
   let offset = 0;
 
+  // The scrollable distance `offset` was last measured against. Zero means it came from
+  // the element itself and already agrees with whatever the strip currently measures.
+  let span = 0;
+
   function skipsAutoScroll(): boolean {
     return (
       window.matchMedia('(prefers-reduced-motion: reduce)').matches ||
@@ -29,6 +33,16 @@
       return;
     }
 
+    // Switching script rewrites all 133 names, so the strip gets wider or narrower under
+    // the scroll. Carried across as a proportion, the same part of the list stays in
+    // view; read as a distance, a position past the new end wrapped to zero on the next
+    // frame and the strip appeared to jump back to the start.
+    if (span > 0 && limit !== span) {
+      offset = (offset / span) * limit;
+    }
+
+    span = limit;
+
     const next = offset + SCROLL_STEP_PIXELS;
     offset = next >= limit ? 0 : next;
     track.scrollLeft = offset;
@@ -41,6 +55,7 @@
   function resume(): void {
     if (track) {
       offset = track.scrollLeft;
+      span = 0;
     }
 
     isPaused = false;
