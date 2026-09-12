@@ -65,6 +65,43 @@ EPS returns `403` without a `User-Agent`. Its feeds only list branches that have
 that day, so `static/data/registry.json` accumulates municipalities across runs and never
 shrinks.
 
+## Where the data comes from
+
+None of this data is ours. The site reads what public utilities publish and shows it back,
+and the places it names come from the state's own register.
+
+**The Address Register (Адресни регистар)** — 168 municipalities, 4,719 settlements and
+96,051 streets, published as open data by the Republic Geodetic Authority (Републички
+геодетски завод) at [data.gov.rs](https://data.gov.rs/sr/datasets/adresni-registar-shifarnik/)
+and [opendata.geosrbija.rs](https://opendata.geosrbija.rs), under the Serbian Open Data
+Licence. That licence permits reuse and redistribution, commercial or not, free of charge,
+and asks that the source be named — which is what this section is for. What is committed
+under `data/rgz/` is derived from it: names and identifiers, with the geometry removed.
+
+**The utilities themselves**, each named on every row that comes from it, and linked in
+the footer of the page it appears on:
+
+- ЕПС Дистрибуција, for planned electricity outages across the country
+- the thirty-odd water utilities listed at the top of this file, each for its own town
+
+Announcements are facts about public services. They are read from pages the utilities
+publish openly, reshaped, and always attributed and linked back. Nothing is scraped behind
+a login, nothing is republished as though it were ours, and `README` is not the only place
+that says so: every outage row on the site carries its own source link.
+
+**The contact directory** in `src/lib/domain/waterUtilities.ts` — phone numbers for the
+water utility of each municipality — was assembled by hand from those utilities' own
+public pages. Numbers change; corrections are welcome.
+
+## Licence
+
+[GNU AGPL-3.0-or-later](LICENSE). Use it, change it, run it. If you run a modified version
+as a public service, the modified source has to be available to the people using it.
+
+That is a deliberate choice and it has a limit worth stating plainly: the AGPL does not
+forbid anyone from charging money. What it forbids is taking this work private. If you
+want to use it commercially in a way the AGPL does not allow, ask.
+
 ## Layout
 
 ```
