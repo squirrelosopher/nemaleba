@@ -7,21 +7,47 @@
   },
   "outages": [
     {
-      "id": "920957e76769",
+      "id": "11e26e85c65c",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-09",
+      "date": "2026-09-12",
       "areaLabel": "Чачак",
       "time": {
         "start": "08:00",
-        "end": "09:00"
+        "end": "12:00"
       },
       "streets": [
-        "Ракова и део Милићеваца",
-        "засеок Васовићи."
+        "Љубић ТС Савковићи и ТС Рацковићи"
       ],
       "reason": null,
-      "note": "Ракова и део Милићеваца, засеок Васовићи.",
+      "note": "Љубић ТС Савковићи и ТС Рацковићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "a23facd68f15",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-13",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "08:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "Делови приградских насеља Кулиновци",
+        "Топалово брдо",
+        "Г.Атеница",
+        "Лозница",
+        "Спомен парк",
+        "Алваџиница",
+        "делови улица Булевар ослобођења",
+        "Црногорска",
+        "Чедомира Васовића Кнеза Васе Поповића",
+        "Бобе Милетића",
+        "Босанске и Чачанског парт.одреда"
+      ],
+      "reason": null,
+      "note": "Делови приградских насеља Кулиновци, Топалово брдо, Г.Атеница, Лозница, Спомен парк, Алваџиница, делови улица Булевар ослобођења, Црногорска, Чедомира Васовића Кнеза Васе Поповића, Бобе Милетића, Босанске и Чачанског парт.одреда",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
@@ -73,6 +99,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 1,
       "waterOutages": 0
     }

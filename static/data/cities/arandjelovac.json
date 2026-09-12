@@ -5,44 +5,7 @@
     "nameLatin": "Aranđelovac",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [
-    {
-      "id": "5ca53dd00949",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-08",
-      "areaLabel": "Аранђеловац",
-      "time": {
-        "start": "08:30",
-        "end": "16:30"
-      },
-      "streets": [
-        "Ул Илије Гарашанина од стадиона до пумпе Мол"
-      ],
-      "reason": null,
-      "note": "Ул Илије Гарашанина од стадиона до пумпе Мол",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "9abb1d5720b8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
-      "areaLabel": "Аранђеловац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Раниловић Вуковићи.Колонија око водојаже. Мисача шатра",
-        "депонија",
-        "нерезије"
-      ],
-      "reason": null,
-      "note": "Раниловић Вуковићи.Колонија око водојаже. Мисача шатра,депонија,нерезије",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",
@@ -92,6 +55,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

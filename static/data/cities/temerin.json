@@ -5,42 +5,7 @@
     "nameLatin": "Temerin",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [
-    {
-      "id": "a4c58f3350b2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-08",
-      "areaLabel": "Темерин",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Темерин: Бостан од ЈНА до Липе, Липе од Бостана до Змај Јовине, Змај Јовина од ЈНА до Пап Павла и Пап Павла од Змај Јовине до кбр 24."
-      ],
-      "reason": null,
-      "note": "Темерин: Бостан од ЈНА до Липе, Липе од Бостана до Змај Јовине, Змај Јовина од ЈНА до Пап Павла и Пап Павла од Змај Јовине до кбр 24.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "02b098686f50",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-11",
-      "areaLabel": "Темерин",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Темерин: Новосадска парна Његошеве до кбр 166,Ивана Горана Ковачића од Новосадске до Гаврила Принципа, Мике Антића, Мајора Милана Тепића."
-      ],
-      "reason": null,
-      "note": "Темерин: Новосадска парна Његошеве до кбр 166,Ивана Горана Ковачића од Новосадске до Гаврила Принципа, Мике Антића, Мајора Милана Тепића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-07",
@@ -54,6 +19,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

@@ -7,77 +7,20 @@
   },
   "outages": [
     {
-      "id": "7240d677b894",
+      "id": "717f09cf07c6",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-08",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Без ел.енергије остаће само Кванташка пијаца у Шапцу"
-      ],
-      "reason": null,
-      "note": "Без ел.енергије остаће само Кванташка пијаца у Шапцу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "527cdd5a394d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "БЕЗ ЕЛ. ЕНЕРГИЈЕ ОСТАЈУ САВИЋИ И ЈАЊИЋИ У СЕЛУ СЛАТИНА"
-      ],
-      "reason": null,
-      "note": "БЕЗ ЕЛ. ЕНЕРГИЈЕ ОСТАЈУ САВИЋИ И ЈАЊИЋИ У СЕЛУ СЛАТИНА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "4661eb5727dd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-10",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Без напона остаје цео Букор (ТС Букор 1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6 и 7)."
-      ],
-      "reason": null,
-      "note": "Без напона остаје цео Букор (ТС Букор 1, 2, 3, 4, 5, 6 и 7).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
-    },
-    {
-      "id": "993cfb00e1fe",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-11",
+      "date": "2026-09-15",
       "areaLabel": "Шабац",
       "time": {
         "start": "09:00",
         "end": "17:00"
       },
       "streets": [
-        "Без ел. енергије остаће купци у М.Белотићу",
-        "део села од центра према Штитару"
+        "Без ел.енергије остаће купци у Орашцу и Мрђеновцу"
       ],
       "reason": null,
-      "note": "Без ел. енергије остаће купци у М.Белотићу, део села од центра према Штитару",
+      "note": "Без ел.енергије остаће купци у Орашцу и Мрђеновцу",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
@@ -130,6 +73,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

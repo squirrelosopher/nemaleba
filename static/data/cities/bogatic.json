@@ -5,7 +5,42 @@
     "nameLatin": "Bogatić",
     "branchCyrillic": "Шабац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "ab711f6b72fb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-14",
+      "areaLabel": "Богатић",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Без ел.енергије остаће у селу Дубљу улица Кнеза Милоша други део према брзој саобраћајници"
+      ],
+      "reason": null,
+      "note": "Без ел.енергије остаће у селу Дубљу улица Кнеза Милоша други део према брзој саобраћајници",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "6935795fc526",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Богатић",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Без ел.енергије остаће у селу Дубљу улица Кнеза Милоша други део према брзој саобраћајници"
+      ],
+      "reason": null,
+      "note": "Без ел.енергије остаће у селу Дубљу улица Кнеза Милоша други део према брзој саобраћајници",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
@@ -54,6 +89,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

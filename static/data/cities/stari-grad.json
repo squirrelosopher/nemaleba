@@ -7,37 +7,21 @@
   },
   "outages": [
     {
-      "id": "54dfba5bd42c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-08",
-      "areaLabel": "Стари град",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "КРАЉА МИЛАНА 4"
-      ],
-      "reason": null,
-      "note": "КРАЉА МИЛАНА 4",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "13e5d745b8ba",
+      "id": "7a2b1d547e9b",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-08",
+      "date": "2026-09-12",
       "areaLabel": "Стари град",
       "time": {
         "start": null,
         "end": "22:00"
       },
       "streets": [
-        "Таковска 9"
+        "Добрачина 55",
+        "Влајковићева 19"
       ],
       "reason": null,
-      "note": "Стари град: Таковска 9",
+      "note": "Стари град: Добрачина 55, Влајковићева 19",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
@@ -91,6 +75,11 @@
       "date": "2026-09-09",
       "electricityOutages": 0,
       "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
+      "waterOutages": 1
     }
   ]
 }

@@ -7,38 +7,37 @@
   },
   "outages": [
     {
-      "id": "fbe36fc53e9b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-08",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Пере Сегединца 13",
-        "Булевар Арсенија Чарнојевића 169"
-      ],
-      "reason": null,
-      "note": "Нови Београд: Пере Сегединца 13, Булевар Арсенија Чарнојевића 169",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "871dd5b3ebfe",
+      "id": "b5286ffefdef",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-11",
+      "date": "2026-09-13",
       "areaLabel": "Нови Београд",
       "time": {
-        "start": "16:00",
-        "end": "18:00"
+        "start": "09:00",
+        "end": "12:00"
       },
       "streets": [
-        "ВОЈВОЂАНСКА: 113"
+        "ОМЛАДИНСКИХ БРИГАДА: 33а"
       ],
       "reason": null,
-      "note": "ВОЈВОЂАНСКА: 113,",
+      "note": "ОМЛАДИНСКИХ БРИГАДА: 33а,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "66bb5810ec1e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "ПАРИСКЕ КОМУНЕ: 59-59б"
+      ],
+      "reason": null,
+      "note": "ПАРИСКЕ КОМУНЕ: 59-59б,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
@@ -90,6 +89,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

@@ -5,25 +5,7 @@
     "nameLatin": "Zaječar",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "0932d1271bab",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Део села Грљан улице: Зајечарска, Хајдук Вељка, 9. Бригаде"
-      ],
-      "reason": null,
-      "note": "Део села Грљан улице: Зајечарска, Хајдук Вељка, 9. Бригаде",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",
@@ -73,6 +55,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

@@ -7,42 +7,6 @@
   },
   "outages": [
     {
-      "id": "9ff2ee39a447",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-02",
-      "areaLabel": "Врање",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у Карађорђевој улици , без воде биће потрошачи те улице   до завршетка радова",
-      "sourceUrl": "https://vodovodvranje.rs/02-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
-      "id": "e4dc35bab400",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-02",
-      "areaLabel": "Томе Костића",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у улици Томе Костића , без воде биће потрошачи те улице до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/02-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
-      "id": "7809b0b20d73",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-03",
-      "areaLabel": "Чеде Стајића",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у улици Чеде Стајића , без воде биће потрошачи те улице   до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/03-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
       "id": "df592d7565fd",
       "utility": "water",
       "kind": "emergency",
@@ -115,6 +79,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

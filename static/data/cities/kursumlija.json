@@ -7,75 +7,90 @@
   },
   "outages": [
     {
-      "id": "58a911e8c41b",
+      "id": "c42e8c07c717",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-08",
+      "date": "2026-09-14",
       "areaLabel": "Куршумлија",
       "time": {
         "start": "08:00",
         "end": "14:30"
       },
       "streets": [
-        "Др. Мелгарда",
-        "Иве Андрића",
-        "Цара Лазара",
-        "Видовданска и села Перуника и Игриште"
+        "ул. Петра Драпшина",
+        "28 августа идео Вука Караџића"
       ],
       "reason": null,
-      "note": "Др. Мелгарда, Иве Андрића, Цара Лазара, Видовданска и села Перуника и Игриште",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+      "note": "ул. Петра Драпшина,28 августа идео Вука Караџића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "8e02ed8b6425",
+      "id": "3b60d31d4d1c",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-08",
+      "date": "2026-09-14",
       "areaLabel": "Куршумлија",
       "time": {
         "start": "09:00",
         "end": "17:00"
       },
       "streets": [
-        "Косаничка Рача"
+        "Косаничка рача"
       ],
       "reason": null,
-      "note": "Косаничка Рача",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+      "note": "Косаничка рача",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "41c64fead304",
+      "id": "7c6b9af9cdf5",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-09",
+      "date": "2026-09-14",
       "areaLabel": "Куршумлија",
       "time": {
         "start": "09:00",
         "end": "14:00"
       },
       "streets": [
-        "Села Игриште и Грабовница (Ложњак)."
+        "Секирача"
       ],
       "reason": null,
-      "note": "Села Игриште и Грабовница (Ложњак).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "note": "Секирача",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "a9d604e4c6d4",
+      "id": "18e987f0e5e7",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-09",
+      "date": "2026-09-14",
       "areaLabel": "Куршумлија",
       "time": {
         "start": "09:00",
-        "end": "17:00"
+        "end": "14:00"
       },
       "streets": [
-        "Косаничка Рача."
+        "Љуша"
       ],
       "reason": null,
-      "note": "Косаничка Рача.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "note": "Љуша",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "273007fb5e23",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-14",
+      "areaLabel": "Куршумлија",
+      "time": {
+        "start": "11:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Пискаљ"
+      ],
+      "reason": null,
+      "note": "Пискаљ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -127,6 +142,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

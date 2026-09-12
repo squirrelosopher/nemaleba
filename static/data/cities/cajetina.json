@@ -7,94 +7,20 @@
   },
   "outages": [
     {
-      "id": "27ac6bebffc9",
+      "id": "2d95158bdce8",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-08",
+      "date": "2026-09-15",
       "areaLabel": "Чајетина",
       "time": {
         "start": "09:00",
         "end": "15:00"
       },
       "streets": [
-        "Лучићи",
-        "Говеђача",
-        "Бјеличићи",
-        "Стаматовићи"
+        "Смиљанићи Љубиш"
       ],
       "reason": null,
-      "note": "Лучићи, Говеђача, Бјеличићи, Стаматовићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b860cf109601",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
-      "areaLabel": "Чајетина",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Лучићи",
-        "Говеђача"
-      ],
-      "reason": null,
-      "note": "Лучићи, Говеђача,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "e9071011c618",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
-      "areaLabel": "Чајетина",
-      "time": {
-        "start": "13:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Део насеља Јелена Анжујска на Златибору"
-      ],
-      "reason": null,
-      "note": "Део насеља Јелена Анжујска на Златибору",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "f223312b01c2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-10",
-      "areaLabel": "Чајетина",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Лучићи",
-        "Говеђача"
-      ],
-      "reason": null,
-      "note": "Лучићи, Говеђача,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
-    },
-    {
-      "id": "968c3e077d94",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-11",
-      "areaLabel": "Чајетина",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Лучићи",
-        "Говеђача"
-      ],
-      "reason": null,
-      "note": "Лучићи, Говеђача,",
+      "note": "Смиљанићи Љубиш",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
@@ -147,6 +73,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

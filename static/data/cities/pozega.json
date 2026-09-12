@@ -1,0 +1,34 @@
+{
+  "city": {
+    "id": "pozega",
+    "nameCyrillic": "Пожега",
+    "nameLatin": "Požega",
+    "branchCyrillic": "Ужице"
+  },
+  "outages": [
+    {
+      "id": "7d67a9b554c9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Пожега",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сеоска подрујча : Добриња, Засеље, Јежевица,Каленићи,Лорет, Т.Поље,Љутице,Мађер,Душковци,Дражиновићи,Папратиште,Табановићи"
+      ],
+      "reason": null,
+      "note": "Сеоска подрујча : Добриња, Засеље, Јежевица,Каленићи,Лорет, Т.Поље,Љутице,Мађер,Душковци,Дражиновићи,Папратиште,Табановићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

@@ -5,25 +5,7 @@
     "nameLatin": "Batočina",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [
-    {
-      "id": "7c72deb37260",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
-      "areaLabel": "Баточина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Велика Сугубина - Порта"
-      ],
-      "reason": null,
-      "note": "Велика Сугубина - Порта",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-07",
@@ -38,6 +20,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

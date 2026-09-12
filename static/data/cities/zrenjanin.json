@@ -7,66 +7,6 @@
   },
   "outages": [
     {
-      "id": "c52891339776",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-04",
-      "areaLabel": "Арадац",
-      "time": {
-        "start": null,
-        "end": "11:30"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "АРАДАЦ – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 11:30 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-04-09-2026-godine/"
-    },
-    {
-      "id": "20c66c689b63",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-04",
-      "areaLabel": "Банатски Деспотовац",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "БАНАТСКИ ДЕСПОТОВАЦ – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 14 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-04-09-2026-godine/"
-    },
-    {
-      "id": "a571c378a8d0",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-04",
-      "areaLabel": "Елемир",
-      "time": {
-        "start": null,
-        "end": "10:30"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "ЕЛЕМИР – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 10:30 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-04-09-2026-godine/"
-    },
-    {
-      "id": "6f0b2f03e0ba",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-04",
-      "areaLabel": "Kнићанин",
-      "time": {
-        "start": null,
-        "end": "16:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "KНИЋАНИН – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 16 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-04-09-2026-godine/"
-    },
-    {
       "id": "b8b29d6d4a2c",
       "utility": "water",
       "kind": "emergency",
@@ -202,44 +142,139 @@
       "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-08-09-2026-godine/"
     },
     {
-      "id": "f03ab251e4c5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-10",
+      "id": "666cc39c5809",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-09",
       "areaLabel": "Зрењанин",
       "time": {
-        "start": "09:00",
-        "end": "11:00"
+        "start": "02:00",
+        "end": "18:30"
       },
-      "streets": [
-        "\"У Арадцу:\r\nулица Жарка Зрењанина, део Бранка Радичевића, део Партизанске, део Тозе Марковића\""
-      ],
+      "streets": [],
       "reason": null,
-      "note": "\"У Арадцу:\r\nулица Жарка Зрењанина, део Бранка Радичевића, део Партизанске, део Тозе Марковића\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "note": "Д2 (4. ЈУЛИ – ЗРЕЊАНИН) – санација квара на водоводној мрежи, прекид водоснабдевања на Д2 до 18:30 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-09-09-2026-godine/"
     },
     {
-      "id": "6363f2355932",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-11",
-      "areaLabel": "Зрењанин",
+      "id": "3b17a6bd7aed",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-09",
+      "areaLabel": "Јунака Милана Тепића",
       "time": {
-        "start": "09:00",
+        "start": null,
+        "end": "13:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "ЈУНАКА МИЛАНА ТЕПИЋА (ЗРЕЊАНИН) – санација квара на водоводној мрежи, прекид водоснабдевања у целој улици до 13 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-09-09-2026-godine/"
+    },
+    {
+      "id": "6b7275203ff3",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-10",
+      "areaLabel": "Дуваника",
+      "time": {
+        "start": null,
+        "end": "13:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "ДУВАНИКА (ЗРЕЊАНИН) – санација два квара на водоводној мрежи у Железничкој улици, прекид водоснабдевања у делу насеља Дуваника, односно у следећим улицама: потез Железничка – Елемирски друм до Гомекса, Приштинска, Кикиндска, Церска, Студеничка, Милутина Суботина и Кумановачког одреда до 13 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-10-09-2026-godine/"
+    },
+    {
+      "id": "eea8b45da289",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-10",
+      "areaLabel": "Елемир",
+      "time": {
+        "start": null,
+        "end": "13:30"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "ЕЛЕМИР – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 13:30 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-10-09-2026-godine/"
+    },
+    {
+      "id": "4ea3dc0c3025",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-10",
+      "areaLabel": "Пере Добриновића",
+      "time": {
+        "start": null,
         "end": "15:00"
       },
-      "streets": [
-        "\"1. викенд насеље Дукатар код Мошорина",
-        "2. викенд насеље Чикмеже",
-        "3. голф терени на путу ЗР-НС",
-        "4. ресторан „Дебели лад“ на путу ЗР-НС",
-        "5. бетоњерка (шљункара) на обали Тисе",
-        "код викенд насеља „Чикмеже“",
-        "6. рибњаци код Мошорина\""
-      ],
+      "streets": [],
       "reason": null,
-      "note": "\"1. викенд насеље Дукатар код Мошорина,\r\n2. викенд насеље Чикмеже,\r\n3. голф терени на путу ЗР-НС,\r\n4. ресторан „Дебели лад“ на путу ЗР-НС,\r\n5. бетоњерка (шљункара) на обали Тисе, код викенд насеља „Чикмеже“,\r\n6. рибњаци код Мошорина\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "note": "ПЕРЕ ДОБРИНОВИЋА (ЗРЕЊАНИН) – санација квара на мрежи, прекид водоснабдевања у улицама Пере Добриновића и Уроша Предића до 15 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-10-09-2026-godine/"
+    },
+    {
+      "id": "fd3a093d7c3b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-10",
+      "areaLabel": "Tомашевац",
+      "time": {
+        "start": null,
+        "end": "18:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "TОМАШЕВАЦ – санација два квара на водоводној мрежи у Иве Лоле Рибара код броја 172а и Маршала Тита код броја 38, прекид водоснабдевања у целом насељеном месту до 18 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-10-09-2026-godine/"
+    },
+    {
+      "id": "c761bdc63048",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-11",
+      "areaLabel": "Елемир",
+      "time": {
+        "start": null,
+        "end": "11:30"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "ЕЛЕМИР – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 11:30 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-11-09-2026-godine/"
+    },
+    {
+      "id": "9a69480c03d7",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-11",
+      "areaLabel": "Книћанин",
+      "time": {
+        "start": null,
+        "end": "20:30"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "КНИЋАНИН – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 20:30 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-11-09-2026-godine/"
+    },
+    {
+      "id": "5dc06169658a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-11",
+      "areaLabel": "Орловат",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "ОРЛОВАТ – санација квара на водоводној мрежи у Жарка Зрењанина код броја 4, прекид водоснабдевања до 14 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-11-09-2026-godine/"
     }
   ],
   "history": [
@@ -290,6 +325,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

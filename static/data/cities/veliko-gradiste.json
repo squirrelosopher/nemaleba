@@ -5,7 +5,27 @@
     "nameLatin": "Veliko Gradište",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "a5332a1500e1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Велико Градиште",
+      "time": {
+        "start": "08:00",
+        "end": "14:30"
+      },
+      "streets": [
+        "Мајиловац",
+        "Сираково",
+        "Курјаче и трафо област Телеком Печаница"
+      ],
+      "reason": null,
+      "note": "Мајиловац, Сираково, Курјаче и трафо област Телеком Печаница",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
@@ -54,6 +74,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

@@ -19,6 +19,35 @@
       "reason": null,
       "note": "Тренутно је у току санација квара на водоводној мрежи у улицама Доситеја Обрадовића, Ђоке Шундуковића и Карађорђевој у Иригу.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-35/"
+    },
+    {
+      "id": "650ea7b9a534",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-09",
+      "areaLabel": "Ириг",
+      "time": null,
+      "streets": [
+        "Змај Јовина",
+        "Ђоке Шундуковића"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улицама Змај Јовина и Ђоке Шундуковића у Иригу.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-36/"
+    },
+    {
+      "id": "8e5d86b78809",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-10",
+      "areaLabel": "Ириг",
+      "time": null,
+      "streets": [
+        "Ђоке Шундуковића"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улици Ђоке Шундуковића у Иригу.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-37/"
     }
   ],
   "history": [
@@ -69,6 +98,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

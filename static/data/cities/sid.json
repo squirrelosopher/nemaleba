@@ -5,7 +5,25 @@
     "nameLatin": "Šid",
     "branchCyrillic": "Сремска Митровица"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "fb8bf7e72b93",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-14",
+      "areaLabel": "Шид",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Шид: Ул. Чајковска 15-35, 16-28, 36, 64\r\nУл. Бранка Радичевића 27-51, 28-64\r\nУл. 1. маја 29-101, 28-120\r\nУл. Арсенија Чарнојевића 39\r\nУл. Браће Петровић 28\r\nУл. Михајла Пупина 3-31, 2-28\r\nУл. Сремског Фронта 36\r\nУл. Иве Андрића 1-5, 2-8"
+      ],
+      "reason": null,
+      "note": "Шид: Ул. Чајковска 15-35, 16-28, 36, 64\r\nУл. Бранка Радичевића 27-51, 28-64\r\nУл. 1. маја 29-101, 28-120\r\nУл. Арсенија Чарнојевића 39\r\nУл. Браће Петровић 28\r\nУл. Михајла Пупина 3-31, 2-28\r\nУл. Сремског Фронта 36\r\nУл. Иве Андрића 1-5, 2-8",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
@@ -54,6 +72,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

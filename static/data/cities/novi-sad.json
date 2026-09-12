@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "fd165a94c186",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-02",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Улица Мише Димитријевића и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Мише Димитријевића и околне улице.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-2-9-2026/"
-    },
-    {
-      "id": "a47f127f3cce",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-02",
-      "areaLabel": "Сремским Карловцима",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "улице Карловачких ђака, Митрополита Стратимировића, Јована Јовановића Змаја и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити улице Карловачких ђака, Митрополита Стратимировића, Јована Јовановића Змаја и околне улице у Сремским Карловцима.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-2-9-2026/"
-    },
-    {
-      "id": "fbccdb13bd45",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-04",
-      "areaLabel": "Ковиљ",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [
-        "Улица војвођанских бригада"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица војвођанских бригада у Ковиљу.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-4-9-2026/"
-    },
-    {
       "id": "55ff810d5d28",
       "utility": "water",
       "kind": "emergency",
@@ -90,74 +39,6 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Дунавска улица у Сремским Карловцима.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-7-9-2026/"
-    },
-    {
-      "id": "4ee3797d11bc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-08",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Буковац: Горња Барања 4-38, 1-21."
-      ],
-      "reason": null,
-      "note": "Буковац: Горња Барања 4-38, 1-21.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5252266ac78f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-08",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Ћирила и Методија 52"
-      ],
-      "reason": null,
-      "note": "Ћирила и Методија 52",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "11ca94cf23d0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-08",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Ченеј: Партизанска 4-54, 1-49"
-      ],
-      "reason": null,
-      "note": "Ченеј: Партизанска 4-54, 1-49",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a1e42d7ad060",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-08",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Ченеј: Партизанска 4-54, 1-49."
-      ],
-      "reason": null,
-      "note": "Ченеј: Партизанска 4-54, 1-49.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d5947da95594",
@@ -194,54 +75,156 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-8-9-2026/"
     },
     {
-      "id": "1cd25b37eb7e",
-      "utility": "electricity",
-      "kind": "planned",
+      "id": "1ac9d2d7b82d",
+      "utility": "water",
+      "kind": "emergency",
       "date": "2026-09-09",
       "areaLabel": "Нови Сад",
       "time": {
-        "start": "08:30",
-        "end": "14:00"
+        "start": null,
+        "end": "13:00"
       },
       "streets": [
-        "\"Сремска Каменица: Насеље Рибњак са делом ул.Каменички пут\r\nУл.Војводе Путника 32-68 , 39\r\nУл.Петра Кочића 1-5 , 2\r\nУл. Гајева 21 – 65 , 22-66\r\nУЛ.Слободана Бајића 21-55 , 12-62\r\nСремска Каменица: Дечије Село\r\nТрг Змај Јове1-35, 2-32\r\nУл.Радничка 15\r\nУл.Војвођанске Бригаде 35-85 , 32-66\r\nУл.Цара Лазара 16-82\r\nУл.Милице Стојадиновић Српкиње 1-37 , 2-22\r\nУл.Мали До 1а,1б\r\n\""
+        "Балзакова улица (од Булевара цара Лазара до Народног фронта)"
       ],
       "reason": null,
-      "note": "\"Сремска Каменица: Насеље Рибњак са делом ул.Каменички пут\r\nУл.Војводе Путника 32-68 , 39\r\nУл.Петра Кочића 1-5 , 2\r\nУл. Гајева 21 – 65 , 22-66\r\nУЛ.Слободана Бајића 21-55 , 12-62\r\nСремска Каменица: Дечије Село\r\nТрг Змај Јове1-35, 2-32\r\nУл.Радничка 15\r\nУл.Војвођанске Бригаде 35-85 , 32-66\r\nУл.Цара Лазара 16-82\r\nУл.Милице Стојадиновић Српкиње 1-37 , 2-22\r\nУл.Мали До 1а,1б\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Балзакова улица (од Булевара цара Лазара до Народног фронта).",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-9-9-2026/"
     },
     {
-      "id": "22a103209ee7",
-      "utility": "electricity",
-      "kind": "planned",
+      "id": "8ed1cd8c81b9",
+      "utility": "water",
+      "kind": "emergency",
       "date": "2026-09-09",
       "areaLabel": "Нови Сад",
       "time": {
-        "start": "08:30",
-        "end": "14:30"
+        "start": null,
+        "end": "13:00"
       },
       "streets": [
-        "\"Делови насеља Рибњак; Делови улица: Каменички пут; Војводе Путника; Петра Кочића; Гајева; Слободана Бајића; Иве Лоле Рибара; Змај Јовина; Трг Змај Јове; 7. Војвођанска Бригада; Цара Лазара; Кнез Михајлова; Светлости; \r\nМилице Стојадиновић Српкиње; Дечије село; Змајев музеј.\""
+        "Горње Сајлово и околне улице"
       ],
       "reason": null,
-      "note": "\"Делови насеља Рибњак; Делови улица: Каменички пут; Војводе Путника; Петра Кочића; Гајева; Слободана Бајића; Иве Лоле Рибара; Змај Јовина; Трг Змај Јове; 7. Војвођанска Бригада; Цара Лазара; Кнез Михајлова; Светлости; \r\nМилице Стојадиновић Српкиње; Дечије село; Змајев музеј.\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Горње Сајлово и околне улице.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-9-9-2026/"
     },
     {
-      "id": "bf532604494c",
-      "utility": "electricity",
-      "kind": "planned",
+      "id": "6fec87b5a4d9",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-09",
+      "areaLabel": "Сремским Карловцима",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "улице Ивана Мажуранића, Прерадовићева, Дунавска и околне"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити улице Ивана Мажуранића, Прерадовићева, Дунавска и околне у Сремским Карловцима.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-9-9-2026/"
+    },
+    {
+      "id": "164592c5ce8e",
+      "utility": "water",
+      "kind": "emergency",
       "date": "2026-09-10",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "улице Владимира Назора и Новосадска"
+      ],
+      "reason": null,
+      "note": "Због планираних радова на водоводној мрежи без воде ће од 8 до 16 сати бити улице Владимира Назора и Новосадска у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-cetvrtak-10-9-2026/"
+    },
+    {
+      "id": "f0f81a18e672",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-10",
+      "areaLabel": "Степановићево",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица Биће Кесића и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Биће Кесића и околне улице у Степановићеву.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-cetvrtak-10-9-2026/"
+    },
+    {
+      "id": "c081b12e3712",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-12",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "13:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Будисава Фирме: Сушара Будисава,Саинт Гобаин,Конпро"
+      ],
+      "reason": null,
+      "note": "Будисава Фирме: Сушара Будисава,Саинт Гобаин,Конпро",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "15d23228051f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-14",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Део насеља Немановци"
+      ],
+      "reason": null,
+      "note": "Део насеља Немановци,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "635deb5055a2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-14",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Пејићеви салаши Цело насеље"
+      ],
+      "reason": null,
+      "note": "Пејићеви салаши Цело насеље",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "3bfa13fae5fc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-14",
       "areaLabel": "Нови Сад",
       "time": {
         "start": "09:00",
         "end": "12:00"
       },
       "streets": [
-        "Крилова 6-6А;3-9; Мише Димитријевића 61; Хоповска 1"
+        "Ул.Хероја Пинкија 2\r\nУл.Лазе Лазаревића 6-14 и 3-11"
       ],
       "reason": null,
-      "note": "Крилова 6-6А;3-9; Мише Димитријевића 61; Хоповска 1",
+      "note": "Ул.Хероја Пинкија 2\r\nУл.Лазе Лазаревића 6-14 и 3-11",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
@@ -294,6 +277,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

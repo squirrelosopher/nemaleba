@@ -7,72 +7,32 @@
   },
   "outages": [
     {
-      "id": "4bc1fc2daa95",
+      "id": "4940623b8072",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-09",
+      "date": "2026-09-12",
       "areaLabel": "Црвени крст",
       "time": {
-        "start": "08:30",
-        "end": "10:00"
+        "start": "09:00",
+        "end": "11:00"
       },
       "streets": [
-        "12. Српске бригаде (12",
-        "23",
-        "30)",
-        "Бранка Бјеговића (парни бр. 28-52",
-        "непарни бр. 41-63)",
-        "Светислава Јовановића (12",
-        "12а",
-        "12б)",
-        "Вукадина Јоцића (27);"
+        "Александра Медведева (2",
+        "5",
+        "5а",
+        "11",
+        "14",
+        "18",
+        "20)",
+        "Београдска (12",
+        "16",
+        "22)",
+        "Булевар 12. Фебруара (парни бр. 54-70",
+        "1);"
       ],
       "reason": null,
-      "note": "12. Српске бригаде (12,23,30), Бранка Бјеговића (парни бр. 28-52, непарни бр. 41-63), Светислава Јовановића (12,12а,12б), Вукадина Јоцића (27);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "591d2c80fffa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
-      "areaLabel": "Црвени крст",
-      "time": {
-        "start": "10:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "8. март (24)",
-        "Бул. 12. фебруара (110",
-        "112)",
-        "Обрена Николића (1-9",
-        "непарни бр. 15-21а)",
-        "Озренског одреда (9",
-        "14);"
-      ],
-      "reason": null,
-      "note": "8. март (24), Бул. 12. фебруара (110,112), Обрена Николића (1-9, непарни бр. 15-21а), Озренског одреда (9,14);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "c832fb289968",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
-      "areaLabel": "Црвени крст",
-      "time": {
-        "start": "12:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Бјеласичка (2-7",
-        "парни бр. 8-16)",
-        "Хумска (2",
-        "4);"
-      ],
-      "reason": null,
-      "note": "Бјеласичка (2-7, парни бр. 8-16), Хумска (2,4);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "note": "Александра Медведева (2,5,5а,11,14,18,20), Београдска (12,16,22), Булевар 12. Фебруара (парни бр. 54-70,1);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -124,6 +84,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

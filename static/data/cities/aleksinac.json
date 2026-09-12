@@ -7,21 +7,22 @@
   },
   "outages": [
     {
-      "id": "ba4962b40870",
+      "id": "b06ae97ea9fe",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-09",
+      "date": "2026-09-14",
       "areaLabel": "Алексинац",
       "time": {
         "start": "09:00",
         "end": "14:00"
       },
       "streets": [
-        "Коњска Пољана"
+        "Раденковац",
+        "општина Соко Бања"
       ],
       "reason": null,
-      "note": "Коњска Пољана",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "note": "Раденковац, општина Соко Бања",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -73,6 +74,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

@@ -7,122 +7,38 @@
   },
   "outages": [
     {
-      "id": "86ced32f2641",
+      "id": "40c8f2585afe",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-08",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "НАСЕЉЕНО МЕСТО СТЕПОЈЕВАЦ"
-      ],
-      "reason": null,
-      "note": "НАСЕЉЕНО МЕСТО СТЕПОЈЕВАЦ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "cb090613a6c9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-08",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "11:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "ЛАЗАРЕВАЦ УЛИЦЕ: ПЕРЕ ЕРЈАВЕЦА, ДУШАНА ВУКОТИЋА, МИЛАНА КОЈИЋА, РАДОЈА ДОМАНОВИЋА, СТЕВЕ СИНГЕРА, ВИШЕГРАДСКА И МИЛОЈА БОГДАНОВИЋА"
-      ],
-      "reason": null,
-      "note": "ЛАЗАРЕВАЦ УЛИЦЕ: ПЕРЕ ЕРЈАВЕЦА, ДУШАНА ВУКОТИЋА, МИЛАНА КОЈИЋА, РАДОЈА ДОМАНОВИЋА, СТЕВЕ СИНГЕРА, ВИШЕГРАДСКА И МИЛОЈА БОГДАНОВИЋА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "bee4b2ac80fc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
+      "date": "2026-09-14",
       "areaLabel": "Лазаревац",
       "time": {
         "start": "08:00",
         "end": "14:00"
       },
       "streets": [
-        "НАСЕЉЕНО МЕСТО ВЕНЧАНИ ОКО СТАРЕ ЦРКВЕ"
+        "Насеље : Сумеђ - Цветовац."
       ],
       "reason": null,
-      "note": "НАСЕЉЕНО МЕСТО ВЕНЧАНИ ОКО СТАРЕ ЦРКВЕ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "0e788d986218",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "ЛАЗАРЕВАЦ УЛИЦЕ: ДУЛА КАРАЈЛИЋ ОД ДИРЕКЦИЈЕ ДО ЛУЧНЕ ЗГРАДЕ ЛЕВА СТРАНА, УЛИЦА ДИМИТРИЈА ТУЦОВИЋА - ЛУЧНА ЗГРАДА И УЛИЦА НИКОЛЕ ВУЈАЧИЋА ОД ДИРЕКЦИЈЕ ДО КАРАЂОРЂЕВЕ УЛИЦЕ ДЕСНА СТРАНА"
-      ],
-      "reason": null,
-      "note": "ЛАЗАРЕВАЦ УЛИЦЕ: ДУЛА КАРАЈЛИЋ ОД ДИРЕКЦИЈЕ ДО ЛУЧНЕ ЗГРАДЕ ЛЕВА СТРАНА, УЛИЦА ДИМИТРИЈА ТУЦОВИЋА - ЛУЧНА ЗГРАДА И УЛИЦА НИКОЛЕ ВУЈАЧИЋА ОД ДИРЕКЦИЈЕ ДО КАРАЂОРЂЕВЕ УЛИЦЕ ДЕСНА СТРАНА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "bc2a6571ae64",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-10",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "ОПШТИНА АРАНЂЕЛОВАЦ:НАСЕЉЕ ВЕНЧАНИ - ЗАСЕОК ЖУТИ ОГЛАВАК"
-      ],
-      "reason": null,
-      "note": "ОПШТИНА АРАНЂЕЛОВАЦ:НАСЕЉЕ ВЕНЧАНИ - ЗАСЕОК ЖУТИ ОГЛАВАК",
+      "note": "Насеље : Сумеђ - Цветовац.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "76c7684b48a1",
+      "id": "c04bb4b37c14",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-11",
+      "date": "2026-09-15",
       "areaLabel": "Лазаревац",
       "time": {
         "start": "08:00",
         "end": "14:00"
       },
       "streets": [
-        "Насеље Велики Црљени засеок Ново насеље улице:Ибарски пут од Петље до улице Колубарске и улица Колубарска са попречним улицама"
+        "Врбовно",
+        "засеок Шиљак"
       ],
       "reason": null,
-      "note": "Насеље Велики Црљени засеок Ново насеље улице:Ибарски пут од Петље до улице Колубарске и улица Колубарска са попречним улицама",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
-    },
-    {
-      "id": "2b5cbb66314b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-11",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље Доњи Лајковац засеок Жуто брдо"
-      ],
-      "reason": null,
-      "note": "Насеље Доњи Лајковац засеок Жуто брдо",
+      "note": "Врбовно, засеок Шиљак",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
@@ -175,6 +91,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

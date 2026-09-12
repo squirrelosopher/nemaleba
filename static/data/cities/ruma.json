@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "a72f7ccb9226",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-09-03",
-      "areaLabel": "Рума",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Орловићева (источна страна улице) од Ул. 15. августа до Ул. Милоша Црњанског"
-      ],
-      "reason": null,
-      "note": "Дана 03.09.2026. године у периоду од 8.00 до 12.00 часова, ради интервенције на водоводној мрежи, за време трајања радова, без водоснабдевања ће остати потрошачи: у делу Ул. Орловићева (источна страна улице) од Ул. 15. августа до Ул. Милоша Црњанског.",
-      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-71/"
-    },
-    {
-      "id": "c244cea0f69f",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-09-04",
-      "areaLabel": "Рума",
-      "time": {
-        "start": "08:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "15. августа од Ул. Иришка до Ул. Матије Гупца"
-      ],
-      "reason": null,
-      "note": "Дана 04.09.2026. године у периоду од 8.00 до 13.00 часова, ради интервенције на водоводној мрежи, за време трајања радова, без водоснабдевања ће остати потрошачи: у делу Ул. 15. августа од Ул. Иришка до Ул. Матије Гупца.",
-      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-73/"
-    },
-    {
-      "id": "3fd22a4a5ba7",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-09-04",
-      "areaLabel": "Рума",
-      "time": {
-        "start": "08:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Орловићева (источна страна улице) од Ул. 15. августа до Ул. Милоша Црњанског"
-      ],
-      "reason": null,
-      "note": "Дана 04.09.2026. године у периоду од 8.00 до 13.00 часова, ради интервенције на водоводној мрежи, за време трајања радова, без водоснабдевања ће остати потрошачи: у делу Ул. Орловићева (источна страна улице) од Ул. 15. августа до Ул. Милоша Црњанског.",
-      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-72/"
-    },
-    {
       "id": "5388337f752f",
       "utility": "water",
       "kind": "emergency",
@@ -80,6 +29,90 @@
       "reason": null,
       "note": "Тренутно је у току санација квара на водоводној мрежи у Новој колонији у Врднику.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-vrdnik-65/"
+    },
+    {
+      "id": "52714296540f",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-09",
+      "areaLabel": "Вогањ",
+      "time": null,
+      "streets": [
+        "Митровачкој улици"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у Митровачкој улици у Вогњу.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-voganj-4/"
+    },
+    {
+      "id": "67ece0383e55",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-09",
+      "areaLabel": "Рума",
+      "time": null,
+      "streets": [
+        "Орловићевој улици",
+        "Баштама Борковац"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у Орловићевој улици и Баштама Борковац у Руми.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-74/"
+    },
+    {
+      "id": "10c3ff1d5718",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-10",
+      "areaLabel": "Вогањ",
+      "time": null,
+      "streets": [
+        "Митровачкој улици"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у Митровачкој улици у Вогњу.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-voganj-5/"
+    },
+    {
+      "id": "341f527fa296",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-10",
+      "areaLabel": "Стејановци",
+      "time": null,
+      "streets": [
+        "Миканова"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улицама Миканова, Фрушкогорска и на Стејановачком путу .",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-stejanovci-24/"
+    },
+    {
+      "id": "b865802a4698",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-11",
+      "areaLabel": "Рума",
+      "time": null,
+      "streets": [
+        "Краљевачкој",
+        "Железничкој улици"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у Краљевачкој и Железничкој улици у Руми.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-75/"
+    },
+    {
+      "id": "9dd9ead4696a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-11",
+      "areaLabel": "Стејановци",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на Стејановачком путу.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-stejanovci-25/"
     }
   ],
   "history": [
@@ -130,6 +163,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

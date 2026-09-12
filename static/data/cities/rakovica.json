@@ -7,21 +7,38 @@
   },
   "outages": [
     {
-      "id": "e011b2aa09f7",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-08",
+      "id": "7bac73b5c2a2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
       "areaLabel": "Раковица",
       "time": {
-        "start": null,
-        "end": "22:00"
+        "start": "08:30",
+        "end": "14:00"
       },
       "streets": [
-        "Видиковачки венац 6а"
+        "КНЕЗА ВИШЕСЛАВА: 53-61Е, ПИЛОТА М ПЕТРОВИЋА: бб,ББ"
       ],
       "reason": null,
-      "note": "Раковица: Видиковачки венац 6а",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+      "note": "КНЕЗА ВИШЕСЛАВА: 53-61Е, ПИЛОТА М ПЕТРОВИЋА: бб,ББ,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "9b7bd510de5c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Раковица",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "СТАНКА ПАУНОВИЋА: 44-50,21, Насеље МИЉАКОВАЦ: ДИМИТРИЈА КОТУРОВИЋА: 54, ФРАНА ЛЕВСТИКА: 14,20,27-31"
+      ],
+      "reason": null,
+      "note": "СТАНКА ПАУНОВИЋА: 44-50,21, Насеље МИЉАКОВАЦ: ДИМИТРИЈА КОТУРОВИЋА: 54, ФРАНА ЛЕВСТИКА: 14,20,27-31,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -72,6 +89,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

@@ -5,7 +5,34 @@
     "nameLatin": "Merošina",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "75b897cb378e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-14",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Рожина",
+        "Облачина",
+        "Биљег",
+        "падина",
+        "Јовановац",
+        "Дудулајце",
+        "Азбресница",
+        "Чубура",
+        "Девча",
+        "Крајковац"
+      ],
+      "reason": null,
+      "note": "Рожина,Облачина,Биљег,падина,Јовановац,Дудулајце,Азбресница,Чубура,Девча,Крајковац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
@@ -54,6 +81,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

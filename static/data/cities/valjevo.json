@@ -7,105 +7,6 @@
   },
   "outages": [
     {
-      "id": "9834ea8aa39e",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-02",
-      "areaLabel": "Ваљево",
-      "time": {
-        "start": "11:00",
-        "end": "15:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "Због поправке квара на водоводној мрежи, без водоснабдевања ће бити потрошачи у улици Саве Вујановић са попречним, насељу 27. Новембар, Косјерићкој са попречним улицама, Јована Дучића улици као и у улици Палих бораца са попречним, данас, 02.09.2026. године, у периоду од 11 до 15 часова.",
-      "sourceUrl": "https://vodovodva.co.rs/savevujanovica-23082026-copy/"
-    },
-    {
-      "id": "c2dfe7a1d60c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-02",
-      "areaLabel": "Ваљево",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због квара на водоводној мрежи без водоснабдевања су потрошачи у улици Димитрија Туцовића – од улице Ђердапске до краја са попречним улицама. Екипе ЈКП Водовод Ваљево су на терену и нормализација у водоснабдевању се очекује најкасније до 15х.",
-      "sourceUrl": "https://vodovodva.co.rs/02092026-2/"
-    },
-    {
-      "id": "5953c14d9832",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-03",
-      "areaLabel": "Ваљево",
-      "time": {
-        "start": "10:00",
-        "end": "15:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "Због поправке квара на водоводној мрежи, данас, 03.09.2026. године, у периоду од 10 до 15 часова, без водоснабдевања ће бити потрошачи у улици Кнеза Милоша до улице Милице Ножице са попречним улицама и Радничкој улици до улице Тиће Миловановића са попречним улицама.",
-      "sourceUrl": "https://vodovodva.co.rs/radnickoj-knez-milosevoj-03092026/"
-    },
-    {
-      "id": "7e6ec1efaf4d",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-09-03",
-      "areaLabel": "Ваљево",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због нестанка електричне енергије у ЦС Сува чесма, тренутно су без водоснабдевања потрошачи на Сувој чесми, Царићу, Златарићу, Буковици, Дивљем брду и Горњој Грабовици. Нормализација у водоснабдевању ће се успоставити по доласку електричне енергије.",
-      "sourceUrl": "https://vodovodva.co.rs/caric-03092026/"
-    },
-    {
-      "id": "de4985a8621c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-04",
-      "areaLabel": "Ваљево",
-      "time": {
-        "start": "10:00",
-        "end": "15:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "Због замене фреквентог регулатора на ЦС Радино брдо, данас, 04.09.2026. године, у периоду од 10 до 15 часова, без водоснабдевања ће бити потрошачи у Дегурићу, Бујачићу и Жабарима. \n \n Фотографија представља илустрацију поправке квара",
-      "sourceUrl": "https://vodovodva.co.rs/radino_brdo_04-09-2026/"
-    },
-    {
-      "id": "c6e3991b6884",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-09-04",
-      "areaLabel": "Ваљево",
-      "time": {
-        "start": "23:00",
-        "end": null
-      },
-      "streets": [],
-      "reason": null,
-      "note": "Због пуњења резервоара и стабилизације система, без водоснабдевања ће бити потрошачи у Новом насељу, Горићу, Попучкама, Лукавцу, Дивцима и Дупљају, вецерас, 04.09.2026.године, у периоду  од 23 часа до 6 ујутру.",
-      "sourceUrl": "https://vodovodva.co.rs/04-09-2026-2/"
-    },
-    {
-      "id": "b0e88c351257",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-04",
-      "areaLabel": "Ваљево",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "Због квара на водоводној мрежи, без водоснабдевања су потрошачи у Белошевцу, Петници, Клинцима, Мрчићу и Паунама. Екипе ЈКП Водовод Ваљево су на терену и нормализација у водоснабдевању се очекује до 15 часова.",
-      "sourceUrl": "https://vodovodva.co.rs/04-09-2026/"
-    },
-    {
       "id": "586af23d957d",
       "utility": "water",
       "kind": "emergency",
@@ -136,38 +37,25 @@
       "sourceUrl": "https://vodovodva.co.rs/savevujanovica-07092026/"
     },
     {
-      "id": "7ea5275385f2",
+      "id": "5b8e59ed0c02",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-08",
+      "date": "2026-09-14",
       "areaLabel": "Ваљево",
       "time": {
         "start": "08:00",
-        "end": "14:00"
+        "end": "17:00"
       },
       "streets": [
-        "Купци дела Шабачког пута ( према Озрену Вулканизеру)"
+        "Купци села Бранковина",
+        "Бл.Вис",
+        "Слатина",
+        "Г. Глава",
+        "Кр.Глава"
       ],
       "reason": null,
-      "note": "Купци дела Шабачког пута ( према Озрену Вулканизеру)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "88ac667e92da",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-08",
-      "areaLabel": "Ваљево",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Купци дела села Г.Брезовице (према милавцу.)"
-      ],
-      "reason": null,
-      "note": "Купци дела села Г.Брезовице (према милавцу.)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "Купци села Бранковина ,Бл.Вис, Слатина ,Г. Глава , Кр.Глава",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -218,6 +106,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

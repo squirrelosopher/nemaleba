@@ -7,54 +7,6 @@
   },
   "outages": [
     {
-      "id": "ead4ce7602c3",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-02",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Доња Бела Река",
-        "Брестовац",
-        "Шарбановац – Дубрава",
-        "Шарбановац – Трујканов поток"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Доња Бела Река Брестовац Шарбановац – Дубрава Шарбановац – Трујканов поток Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-sreda-02-09-2026-god/"
-    },
-    {
-      "id": "0f69bf9e921a",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-03",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Борско језеро – три квара",
-        "Шарбановац – Дубрава"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Борско језеро – три квара Шарбановац – Дубрава Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-03-09-2026-god/"
-    },
-    {
-      "id": "d5c15a2b94ba",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-04",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Злот",
-        "Улица 3. Октобар 5/1",
-        "Слатина"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Злот Улица 3. Октобар 5/1 Слатина Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-petak-04-09-2026-god/"
-    },
-    {
       "id": "931f611b16c5",
       "utility": "water",
       "kind": "emergency",
@@ -81,6 +33,37 @@
       "reason": "Санација кварова на водоводној мрежи",
       "note": "Горња зона – прекид водоснабдевања и поправка кварова на водоводној мрежи Кварови на мерним местима – у шахтама",
       "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-08-09-2026-god/"
+    },
+    {
+      "id": "227a359d6c36",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-09",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Улица Љубе Нешића број 34",
+        "Улица Маршала Тита број 205",
+        "Трујканов поток"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Улица Љубе Нешића број 34 Улица Маршала Тита број 205 Трујканов поток Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-sreda-09-09-2026-god/"
+    },
+    {
+      "id": "a97347ab5400",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-10",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Улица Љубе Нешића број 34",
+        "Оштрељ"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Улица Љубе Нешића број 34 Оштрељ Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-10-09-2026-god/"
     }
   ],
   "history": [
@@ -131,6 +114,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

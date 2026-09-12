@@ -7,22 +7,23 @@
   },
   "outages": [
     {
-      "id": "2a72cc61efcd",
+      "id": "04578f4f8760",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-09",
+      "date": "2026-09-12",
       "areaLabel": "Горњи Милановац",
       "time": {
         "start": "09:00",
-        "end": "12:00"
+        "end": "15:00"
       },
       "streets": [
-        "Потроачи у селима Горња Врбава",
-        "Доња Врбава и потес Мокро Поље"
+        "Улица Војводе Милана 64/2-88 и 39",
+        "41",
+        "53. Улица Хероја Дражевића 14(апотека Грал) и трафика"
       ],
       "reason": null,
-      "note": "Потроачи у селима Горња Врбава ,Доња Врбава и потес Мокро Поље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "note": "Улица Војводе Милана 64/2-88 и 39,41,53. Улица Хероја Дражевића 14(апотека Грал) и трафика",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -73,6 +74,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 1,
       "waterOutages": 0
     }

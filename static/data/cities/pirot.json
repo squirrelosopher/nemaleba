@@ -7,108 +7,74 @@
   },
   "outages": [
     {
-      "id": "a2c1af1cb7c4",
+      "id": "a4f196263ab7",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-08",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Део Улице 37. дивизије"
-      ],
-      "reason": null,
-      "note": "Део Улице 37. дивизије",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d792ee12859c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-08",
+      "date": "2026-09-13",
       "areaLabel": "Пирот",
       "time": {
         "start": "08:30",
         "end": "15:00"
       },
       "streets": [
-        "Сопот",
-        "део села Црвенче"
+        "део насеља Гњилан."
       ],
       "reason": null,
-      "note": "Сопот, део села Црвенче",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+      "note": "део насеља Гњилан.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "5df02df0facc",
+      "id": "92730d776980",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-08",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Пасјач",
-        "Сиња Глава"
-      ],
-      "reason": null,
-      "note": "Пасјач, Сиња Глава",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f1e282c8166b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
+      "date": "2026-09-14",
       "areaLabel": "Пирот",
       "time": {
         "start": "08:00",
         "end": "14:00"
       },
       "streets": [
-        "део улице Добродолска."
+        "део улице Капетана Карановића и Рузмарина."
       ],
       "reason": null,
-      "note": "део улице Добродолска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "note": "део улице Капетана Карановића и Рузмарина.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "6ef0cee9a1f0",
+      "id": "8a69b266c71e",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-09",
+      "date": "2026-09-14",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Понор",
+        "Каменолом Понор."
+      ],
+      "reason": null,
+      "note": "Понор,Каменолом Понор.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "8a2a9e638b85",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-14",
       "areaLabel": "Пирот",
       "time": {
         "start": "08:30",
         "end": "15:00"
       },
       "streets": [
-        "Рагодеш."
+        "Базовик",
+        "Орља."
       ],
       "reason": null,
-      "note": "Рагодеш.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "2bfe3798ef14",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "10:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "део села Крупац."
-      ],
-      "reason": null,
-      "note": "део села Крупац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "note": "Базовик,Орља.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -160,6 +126,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

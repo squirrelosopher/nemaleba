@@ -5,7 +5,27 @@
     "nameLatin": "Despotovac",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "5fc3f4751270",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Деспотовац",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "села Плажане",
+        "Орашје",
+        "Миливска колонија и део села Грабовица"
+      ],
+      "reason": null,
+      "note": "села Плажане,Орашје, Миливска колонија и део села Грабовица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
@@ -54,6 +74,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

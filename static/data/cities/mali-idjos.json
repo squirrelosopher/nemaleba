@@ -5,25 +5,7 @@
     "nameLatin": "Mali Iđoš",
     "branchCyrillic": "Суботица"
   },
-  "outages": [
-    {
-      "id": "27d2ad8440b1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
-      "areaLabel": "Мали Иђош",
-      "time": {
-        "start": "08:00",
-        "end": "12:30"
-      },
-      "streets": [
-        "Ловћенац : део М. Тита непарна страна између Буде Томовића и Вука Караџића."
-      ],
-      "reason": null,
-      "note": "Ловћенац : део М. Тита непарна страна између Буде Томовића и Вука Караџића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-07",
@@ -38,6 +20,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

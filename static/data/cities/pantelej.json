@@ -7,10 +7,10 @@
   },
   "outages": [
     {
-      "id": "fe17805a8ee4",
+      "id": "e32f03114f37",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-04",
+      "date": "2026-09-09",
       "areaLabel": "Пантелеј",
       "time": {
         "start": null,
@@ -18,42 +18,23 @@
       },
       "streets": [],
       "reason": null,
-      "note": "ПОПРАВКА КВАРА У НАСЕЉУ ПАНТЕЛЕЈ след настанка квара на водоводној мрежи у Књажевачкој улици код броја 73, водоснабдевање ће бити у прекиду до 15 часова на простору између улица Васе Пелагића и Пане Ђукића.",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%b2%d0%b0%d0%b6%d0%bd%d0%be-%d0%be%d0%b1%d0%b0%d0%b2%d0%b5%d1%88%d1%82%d0%b5%d1%9a%d0%b5-%d0%be-%d0%b2%d0%be%d0%b4%d0%be%d1%81%d0%bd%d0%b0%d0%b1%d0%b4%d0%b5%d0%b2%d0%b0%d1%9a%d1%83-6/"
+      "note": "ПОПРАВКA КВАРА У НАСЕЉУ ПАНТЕЛЕЈ оправка прикључне везе на углу улица Књажевачка и Васе Пелагић. Због поправке прикључне везе могући су прекиди у водоснабдевању до 15 часова на простору између улица Васе Пелагића и Пане Ђукић",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-291/"
     },
     {
-      "id": "b2a2ba0a472e",
-      "utility": "electricity",
+      "id": "ea05b75d10c4",
+      "utility": "water",
       "kind": "planned",
-      "date": "2026-09-08",
+      "date": "2026-09-13",
       "areaLabel": "Пантелеј",
       "time": {
-        "start": "08:30",
-        "end": "10:00"
+        "start": "08:00",
+        "end": "15:00"
       },
-      "streets": [
-        "Део Доњег Матејевца"
-      ],
+      "streets": [],
       "reason": null,
-      "note": "Део Доњег Матејевца",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "544a1f3b7ae9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "11:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "делови улица Србољуба Бихића и Северни булевар;"
-      ],
-      "reason": null,
-      "note": "делови улица Србољуба Бихића и Северни булевар;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "note": "ПЛАНИРАНИ РАДОВИ У ОПШТИНИ ПАНТЕЛЕЈ недељу 13. септембра планиран је ископ у Борској улици код броја 39/А. Због поправке водоводне мреже биће у прекиду водоснабдевањe од 8 до 15 сати на простору од Крфске улице на горе.",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%bf%d0%bb%d0%b0%d0%bd%d0%b8%d1%80%d0%b0%d0%bd%d0%b8-%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%98%d0%b5%d1%9b%d0%b8-%d0%b2%d0%b8%d0%ba%d0%b5-67/"
     }
   ],
   "history": [
@@ -105,6 +86,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

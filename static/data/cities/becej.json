@@ -5,7 +5,25 @@
     "nameLatin": "Bečej",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "3ce9dae40ff7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Бечеј",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Насеља Надаљ и Турија"
+      ],
+      "reason": null,
+      "note": "Насеља Надаљ и Турија",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
@@ -54,6 +72,11 @@
     },
     {
       "date": "2026-09-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

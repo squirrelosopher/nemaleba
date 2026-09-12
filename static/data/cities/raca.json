@@ -1,0 +1,68 @@
+{
+  "city": {
+    "id": "raca",
+    "nameCyrillic": "Рача",
+    "nameLatin": "Rača",
+    "branchCyrillic": "Крагујевац"
+  },
+  "outages": [
+    {
+      "id": "b43686253bb1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-14",
+      "areaLabel": "Рача",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Војиновац"
+      ],
+      "reason": null,
+      "note": "Војиновац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "f76d2b4697fb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-14",
+      "areaLabel": "Рача",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Адровац - Доњи крај"
+      ],
+      "reason": null,
+      "note": "Адровац - Доњи крај",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "c34144c17183",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-14",
+      "areaLabel": "Рача",
+      "time": {
+        "start": "13:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Мало Крчмаре - Вуловићи"
+      ],
+      "reason": null,
+      "note": "Мало Крчмаре - Вуловићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

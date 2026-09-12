@@ -7,21 +7,21 @@
   },
   "outages": [
     {
-      "id": "1dc952473bef",
+      "id": "a3d57d1ed67f",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-09",
+      "date": "2026-09-14",
       "areaLabel": "Бела Паланка",
       "time": {
         "start": "08:00",
         "end": "14:00"
       },
       "streets": [
-        "Козја."
+        "Шљивовик."
       ],
       "reason": null,
-      "note": "Козја.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "note": "Шљивовик.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -73,6 +73,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

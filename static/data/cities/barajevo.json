@@ -7,20 +7,20 @@
   },
   "outages": [
     {
-      "id": "560bc7e71728",
+      "id": "ba527202759b",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-08",
+      "date": "2026-09-12",
       "areaLabel": "Барајево",
       "time": {
         "start": null,
         "end": "22:00"
       },
       "streets": [
-        "Кленовачка 6 – Рожанци"
+        "Липовички пут бб (угао Бранислава Јовановића)"
       ],
       "reason": null,
-      "note": "Барајево: Кленовачка 6 – Рожанци",
+      "note": "Барајево:  Липовички пут бб (угао Бранислава Јовановића)",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
@@ -74,6 +74,11 @@
       "date": "2026-09-09",
       "electricityOutages": 0,
       "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
+      "waterOutages": 1
     }
   ]
 }

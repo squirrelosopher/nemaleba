@@ -5,25 +5,7 @@
     "nameLatin": "Ražanj",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [
-    {
-      "id": "8a9d3ce8b4fa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-09",
-      "areaLabel": "Ражањ",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Делови насељеног места Липовац (из ТС Липовац 2)"
-      ],
-      "reason": null,
-      "note": "Делови насељеног места Липовац (из ТС Липовац 2)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-08",
@@ -33,6 +15,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

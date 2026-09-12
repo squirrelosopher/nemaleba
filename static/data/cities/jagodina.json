@@ -7,54 +7,54 @@
   },
   "outages": [
     {
-      "id": "feb2db78da84",
+      "id": "02b5661d3dd6",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-09",
+      "date": "2026-09-14",
       "areaLabel": "Јагодина",
       "time": {
         "start": "09:00",
         "end": "14:00"
       },
       "streets": [
-        "Део села Лозовик"
+        "Део села Трнава и део села Драгоцвет"
       ],
       "reason": null,
-      "note": "Део села Лозовик",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "26de6280a105",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-10",
-      "areaLabel": "Јагодина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део села Ново Ланиште"
-      ],
-      "reason": null,
-      "note": "Део села Ново Ланиште",
+      "note": "Део села Трнава и део села Драгоцвет",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "c52e0132c7ae",
+      "id": "9ca44cbd8810",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-11",
+      "date": "2026-09-15",
       "areaLabel": "Јагодина",
       "time": {
         "start": "09:00",
-        "end": "14:00"
+        "end": "10:00"
       },
       "streets": [
-        "Део села Винорача"
+        "Део села Ракитово од центра према Кончареву"
       ],
       "reason": null,
-      "note": "Део села Винорача",
+      "note": "Део села Ракитово од центра према Кончареву",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "3f18148075b0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Јагодина",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Део села Бунар"
+      ],
+      "reason": null,
+      "note": "Део села Бунар",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
@@ -107,6 +107,11 @@
     {
       "date": "2026-09-09",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-12",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]
