@@ -3,7 +3,8 @@ import type { City } from '../../src/lib/domain/city';
 import { toSlug } from '../../src/lib/text/serbianScript';
 import { PlaceKind, placeNamed } from '../registry/rgzPlaces';
 
-const REGISTER = 'data/rgz/streetsByMunicipality.json';
+const REGISTER = 'data/rgz/streets.json';
+const SETTLEMENTS = 'data/rgz/settlements.json';
 const OUTPUT_DIRECTORY = 'static/data/streets';
 
 // Sharded on the first character of the slug, so a reader typing either script lands in
@@ -45,37 +46,56 @@ function citiesByMunicipality(cities: City[]): Map<string, string> {
   return byMunicipality;
 }
 
+interface RegisterStreet {
+  nameCyrillic: string;
+  settlementId: string;
+}
+
+interface RegisterSettlement {
+  id: string;
+  municipalityId: string;
+}
+
 export async function writeStreetIndex(cities: City[]): Promise<number> {
-  const register = JSON.parse(await readFile(REGISTER, 'utf-8')) as Record<string, string[]>;
+  const streets = JSON.parse(await readFile(REGISTER, 'utf-8')) as RegisterStreet[];
+  const settlements = JSON.parse(await readFile(SETTLEMENTS, 'utf-8')) as RegisterSettlement[];
+
+  const municipalityOf = new Map(settlements.map((s) => [s.id, s.municipalityId]));
   const pages = citiesByMunicipality(cities);
   const shards = new Map<string, StreetEntry[]>();
 
+  const seen = new Set<string>();
   let written = 0;
 
-  for (const [municipalityId, names] of Object.entries(register)) {
-    const cityId = pages.get(municipalityId);
+  for (const street of streets) {
+    const cityId = pages.get(municipalityOf.get(street.settlementId) ?? '');
 
     if (!cityId) {
       continue;
     }
 
-    for (const asWritten of names) {
-      // The register carries a few names with stray leading space, which slug away to
-      // nothing visible and then sort first as an exact match.
-      const name = asWritten.trim();
-      const slug = toSlug(name);
+    const slug = toSlug(street.nameCyrillic);
 
-      if (slug.length === 0) {
-        continue;
-      }
-
-      const shard = shardOf(slug);
-      const entries = shards.get(shard) ?? [];
-
-      entries.push([name, cityId] as unknown as StreetEntry);
-      shards.set(shard, entries);
-      written += 1;
+    if (slug.length === 0) {
+      continue;
     }
+
+    // One name can be a street of several settlements inside one municipality, and the
+    // search answers for the municipality, so the same row would be offered twice.
+    const once = `${cityId}/${slug}`;
+
+    if (seen.has(once)) {
+      continue;
+    }
+
+    seen.add(once);
+
+    const shard = shardOf(slug);
+    const entries = shards.get(shard) ?? [];
+
+    entries.push([street.nameCyrillic, cityId] as unknown as StreetEntry);
+    shards.set(shard, entries);
+    written += 1;
   }
 
   // Rewritten from scratch, so a shard that empties as the register changes does not

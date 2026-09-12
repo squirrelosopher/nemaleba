@@ -1,27 +1,31 @@
+import { execFileSync } from 'node:child_process';
 import { createReadStream } from 'node:fs';
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, mkdtemp, rm, writeFile } from 'node:fs/promises';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
 import { createInterface } from 'node:readline';
 import { toLatin } from '../../src/lib/text/serbianScript';
 
 // The Address Register is the state's own list of municipalities, settlements and streets,
 // which is what the seed lists have been standing in for. Importing it separates two
-// things that have been the same thing: what places exist, which nobody has to guess at
-// any more, and how a source spells them, which stays a parsing problem.
+// things that used to be one: what places exist, which nobody has to guess at any more,
+// and how a source spells them, which stays a parsing problem.
 //
-// Fetch the streets codebook first -- it carries settlement and municipality columns, so
-// one file answers all three:
+//   npm run rgz                 fetches the register and imports it
+//   npm run rgz -- ulica.csv    imports a copy already on disk
 //
-//   curl -L -o ulica.zip 'https://download.geosrbija.rs/download-api/opendata-proxy/\
-//     export?category=ar&layer=ulica_ar&geometry=true&fileName=ulica_csv&format=csv'
-//   unzip ulica.zip
-//   npm run rgz -- ulica.csv
-//
-// 205 MB of it is the WKT geometry of every street, which this throws away: the site
-// draws no map, and the register is 10 MB once it is gone. The download is therefore not
-// committed; only what comes out of it is.
+// The register changes slowly -- streets get named, municipalities essentially never
+// change -- so this is a once-a-year job rather than something to schedule.
 const OUTPUT_DIRECTORY = 'data/rgz';
-const SOURCE = process.argv[2] ?? 'ulica.csv';
 
+// The streets codebook carries settlement and municipality columns, so one download
+// answers all three files.
+const DOWNLOAD_URL =
+  'https://download.geosrbija.rs/download-api/opendata-proxy/export' +
+  '?category=ar&layer=ulica_ar&geometry=true&fileName=ulica_csv&format=csv';
+
+// 205 MB of the download is the WKT geometry of every street, thrown away on the way
+// through: the site draws no map, and what is kept is a tenth of the size.
 const enum Column {
   StreetId = 0,
   StreetName = 2,
@@ -43,11 +47,9 @@ interface Settlement extends Place {
   municipalityId: string;
 }
 
-interface Street {
-  id: string;
-  settlementId: string;
-  nameCyrillic: string;
+interface Street extends Place {
   type: string;
+  settlementId: string;
 }
 
 // The register quotes any field that could contain a comma, and the geometry always does.
@@ -88,18 +90,42 @@ function titleCase(name: string): string {
 }
 
 function place(id: string, upperCaseName: string): Place {
-  const nameCyrillic = titleCase(upperCaseName);
+  // A few names arrive padded, which slugs away to nothing visible and then sorts first
+  // as an exact match.
+  const nameCyrillic = titleCase(upperCaseName).trim();
 
   return { id, nameCyrillic, nameLatin: toLatin(nameCyrillic) };
 }
 
-async function run(): Promise<void> {
+async function download(into: string): Promise<string> {
+  const archive = join(into, 'ulica.zip');
+
+  console.log('fetching the register (about 50 MB)');
+
+  const response = await fetch(DOWNLOAD_URL);
+
+  if (!response.ok) {
+    throw new Error(`${response.status} ${response.statusText} from the register`);
+  }
+
+  await writeFile(archive, Buffer.from(await response.arrayBuffer()));
+
+  try {
+    execFileSync('unzip', ['-q', '-o', archive, '-d', into]);
+  } catch {
+    throw new Error("`unzip` is needed to read the register's archive, and is not on PATH");
+  }
+
+  return join(into, 'ulica.csv');
+}
+
+async function read(source: string): Promise<void> {
   const municipalities = new Map<string, Place>();
   const settlements = new Map<string, Settlement>();
   const streets: Street[] = [];
 
   const lines = createInterface({
-    input: createReadStream(SOURCE, 'utf-8'),
+    input: createReadStream(source, 'utf-8'),
     crlfDelay: Infinity
   });
 
@@ -140,10 +166,9 @@ async function run(): Promise<void> {
     }
 
     streets.push({
-      id: row[Column.StreetId],
-      settlementId,
-      nameCyrillic: titleCase(row[Column.StreetName]),
-      type: titleCase(row[Column.StreetType])
+      ...place(row[Column.StreetId], row[Column.StreetName]),
+      type: titleCase(row[Column.StreetType]),
+      settlementId
     });
   }
 
@@ -162,43 +187,34 @@ async function run(): Promise<void> {
     `${JSON.stringify([...settlements.values()].sort(byName), null, 2)}\n`
   );
 
-  // Street names per municipality, as written. Two things read them and they used to be
-  // stored twice: the collector wants them folded, to ask whether an announcement names
-  // one, and the search index wants them as a reader would recognise them. Folding is
-  // cheap and lossy in one direction only, so what is committed is the readable form and
-  // the collector folds it on load.
-  const names = new Map<string, Set<string>>();
-
-  for (const street of streets) {
-    const municipalityId = settlements.get(street.settlementId)?.municipalityId;
-
-    if (!municipalityId) {
-      continue;
-    }
-
-    const set = names.get(municipalityId) ?? new Set<string>();
-    set.add(street.nameCyrillic);
-    names.set(municipalityId, set);
-  }
-
+  // The same shape as the other two, one level deeper: a street belongs to a settlement
+  // the way a settlement belongs to a municipality. Written without indentation because
+  // it is ninety-six thousand rows and nobody reads it by eye.
   await writeFile(
-    `${OUTPUT_DIRECTORY}/streetsByMunicipality.json`,
-    `${JSON.stringify(
-      Object.fromEntries(
-        [...names].map(([id, set]) => [id, [...set].sort((left, right) => left.localeCompare(right, 'sr'))])
-      )
-    )}\n`
+    `${OUTPUT_DIRECTORY}/streets.json`,
+    `${JSON.stringify(streets.sort(byName))}\n`
   );
-
-  // The full table, with the id each street is subscribed by, is what the address
-  // typeahead needs and nothing else does. It is an order of magnitude larger and is
-  // regenerated rather than committed.
-  await writeFile(`${OUTPUT_DIRECTORY}/streets.json`, `${JSON.stringify(streets)}\n`);
 
   console.log(`municipalities ${municipalities.size}`);
   console.log(`settlements    ${settlements.size}`);
   console.log(`streets        ${streets.length} (${retired} retired, dropped)`);
-  console.log(`street names   in ${names.size} municipalities`);
+}
+
+async function run(): Promise<void> {
+  const given = process.argv[2];
+
+  if (given) {
+    await read(given);
+    return;
+  }
+
+  const scratch = await mkdtemp(join(tmpdir(), 'rgz-'));
+
+  try {
+    await read(await download(scratch));
+  } finally {
+    await rm(scratch, { recursive: true, force: true });
+  }
 }
 
 await run();

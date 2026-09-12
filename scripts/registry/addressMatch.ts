@@ -38,11 +38,17 @@ interface Pool {
   own: Set<string>;
 }
 
+interface Street {
+  nameCyrillic: string;
+  settlementId: string;
+}
+
 let settlementRows: Settlement[] | null = null;
 let streetNames: Record<string, string[]> | null = null;
 
-// The register is committed in the form a reader would recognise, so the folding a
-// comparison needs happens here, once per run.
+// The register is stored as it reads, so the folding a comparison needs happens here,
+// once per run, and the grouping this asks for -- which streets belong to a municipality
+// -- is derived through the settlement each one belongs to.
 function load(): void {
   settlementRows ??= JSON.parse(
     readFileSync(`${DIRECTORY}/settlements.json`, 'utf-8')
@@ -52,13 +58,24 @@ function load(): void {
     return;
   }
 
-  const written = JSON.parse(
-    readFileSync(`${DIRECTORY}/streetsByMunicipality.json`, 'utf-8')
-  ) as Record<string, string[]>;
-
-  streetNames = Object.fromEntries(
-    Object.entries(written).map(([id, names]) => [id, names.map(foldForMatching)])
+  const municipalityOf = new Map(
+    settlementRows.map((settlement) => [settlement.id, settlement.municipalityId])
   );
+
+  const streets = JSON.parse(readFileSync(`${DIRECTORY}/streets.json`, 'utf-8')) as Street[];
+  const folded: Record<string, string[]> = {};
+
+  for (const street of streets) {
+    const municipalityId = municipalityOf.get(street.settlementId);
+
+    if (!municipalityId) {
+      continue;
+    }
+
+    (folded[municipalityId] ??= []).push(foldForMatching(street.nameCyrillic));
+  }
+
+  streetNames = folded;
 }
 
 // Which municipalities a page speaks for. Usually itself; for Belgrade and Niš, every
