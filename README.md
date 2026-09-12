@@ -432,12 +432,20 @@ table, so `migrations apply` is safe to run repeatedly and says what is outstand
 npx wrangler d1 migrations list nemaleba-subscriptions --remote
 ```
 
-Nothing applies them for you. The `pages` job does not touch the Worker or the database,
-so a schema change is a deliberate step taken before the deploy that depends on it.
+Nothing applies them for you. No CI job touches the Worker or the database, so a schema
+change is a deliberate step taken before the deploy that depends on it.
 
-Write each migration as a new file rather than editing an earlier one. `v1.0.0__init.sql`
-is all `CREATE TABLE IF NOT EXISTS`, which is safe to re-run but cannot alter a table that
-already exists — adding a column to a live table needs its own `ALTER TABLE` migration.
+There is one migration, and it describes the whole schema. It was four — an init and three
+follow-ups that added the comments table, `comments.address_hash` and
+`user_preferences.notify_grouped` — collapsed on the move to GitHub, while no database
+outside development had anything worth keeping. A database migrated through the four has
+the same tables, columns, types and defaults; only the column *order* differs, since
+`ALTER TABLE` appends, and nothing reads a column by position.
+
+From here on, write each migration as a new file rather than editing an earlier one.
+`v1.0.0__init.sql` is all `CREATE TABLE IF NOT EXISTS`, which is safe to re-run but cannot
+alter a table that already exists — adding a column to a live table needs its own
+`ALTER TABLE` migration.
 
 `ALLOWED_ORIGIN` is a comma separated list, so the Pages URL and the custom domain can
 both call the Worker without a redeploy between them. A newly created workers.dev
