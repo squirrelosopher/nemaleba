@@ -5,36 +5,7 @@
     "nameLatin": "Crveni krst",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "4940623b8072",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-12",
-      "areaLabel": "Црвени крст",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Александра Медведева (2",
-        "5",
-        "5а",
-        "11",
-        "14",
-        "18",
-        "20)",
-        "Београдска (12",
-        "16",
-        "22)",
-        "Булевар 12. Фебруара (парни бр. 54-70",
-        "1);"
-      ],
-      "reason": null,
-      "note": "Александра Медведева (2,5,5а,11,14,18,20), Београдска (12,16,22), Булевар 12. Фебруара (парни бр. 54-70,1);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",
@@ -89,6 +60,11 @@
     {
       "date": "2026-09-12",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-13",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

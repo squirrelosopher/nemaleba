@@ -5,7 +5,23 @@
     "nameLatin": "Leskovac",
     "branchCyrillic": "Лесковац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "d583630bb5f2",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-13",
+      "areaLabel": "Лесковац",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Због квара на водоводној мрежи дошло је до прекида у водоснабдевању у селима Велико Трњане, Пресечина, Шаиновац. Нормализација водоснабдевања се очекује до 14 часова. Водоснабдевање у осталим деловима града и околине је уредно.",
+      "sourceUrl": "https://www.vodovodle.rs/servisne-informacije.php"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
@@ -61,6 +77,11 @@
       "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 0
+    },
+    {
+      "date": "2026-09-13",
+      "electricityOutages": 0,
+      "waterOutages": 1
     }
   ]
 }

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "91f375849e80",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-12",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Владимира Томановића 13"
-      ],
-      "reason": null,
-      "note": "Вождовац: Владимира Томановића 13",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "54c0c2c00cb3",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље М.МОКРИ ЛУГ: БРАЋЕ МИЛИЋ: 5,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "1abaf4658867",
@@ -119,6 +102,11 @@
       "date": "2026-09-12",
       "electricityOutages": 0,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-09-13",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }

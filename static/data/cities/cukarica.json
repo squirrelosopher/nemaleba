@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "ef28fa1d54a2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-12",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "КНЕЗА ВИШЕСЛАВА: 88"
-      ],
-      "reason": null,
-      "note": "КНЕЗА ВИШЕСЛАВА: 88,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1b8fd0b75da8",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-12",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Бело врело 28",
-        "Породице Михаиловић 13 – Сремчица"
-      ],
-      "reason": null,
-      "note": "Чукарица: Бело врело 28, Породице Михаиловић 13 – Сремчица",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "eb63aeac96a9",
       "utility": "electricity",
       "kind": "planned",
@@ -56,6 +21,23 @@
       ],
       "reason": null,
       "note": "КНЕЗА ВИШЕСЛАВА: ББ,бб,1, Насеље ЖАРКОВО: ЦЕРОВА: 2-6,1,7-11, КЕДРОВА: 2-8,1-15, ОМОРИКА: 2-10,1-7,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "0d91bb2a9d27",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насеље ЖАРКОВО: БРЕЗА: 2,1-5, ЈАСЕНОВА: 2-16,1-13, КЕСТЕНОВА: 2-6,1-11"
+      ],
+      "reason": null,
+      "note": "Насеље ЖАРКОВО: БРЕЗА: 2,1-5, ЈАСЕНОВА: 2-16,1-13, КЕСТЕНОВА: 2-6,1-11,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
@@ -114,6 +96,11 @@
       "date": "2026-09-12",
       "electricityOutages": 1,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-09-13",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }

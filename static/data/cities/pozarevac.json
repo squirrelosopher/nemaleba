@@ -48,7 +48,7 @@
       ],
       "reason": null,
       "note": "трафо области 35/10 Пожаревац 1 (Север) и ТС 35/10 Пожаревац 3 (Центар) : центар града; део од центра према Забели; део од центра према болници; део од центра према Игми; део од Центра према Варошком брду; Забела, Дубравица, Брежане, Живица, Ћириковац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ef6208acb528",
@@ -65,7 +65,7 @@
       ],
       "reason": null,
       "note": "траФо области 35/10 Пожаревац 1 (Север) и ТС 35/10 Пожаревац 3 (Центар) : центар града; део од центра према Забели; део од центра према болници; део од центра према Игми; део од Центра према Варошком брду; Забела, Дубравица, Брежане, Живица, Ћириковац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ede1a7433ee7",
@@ -82,7 +82,7 @@
       ],
       "reason": null,
       "note": "Берање",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -139,6 +139,11 @@
     {
       "date": "2026-09-12",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-13",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

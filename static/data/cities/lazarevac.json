@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље : Сумеђ - Цветовац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "c04bb4b37c14",
@@ -39,6 +39,24 @@
       ],
       "reason": null,
       "note": "Врбовно, засеок Шиљак",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "dd252532c1de",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Врбовно",
+        "Задеок Врбовно 3"
+      ],
+      "reason": null,
+      "note": "Врбовно, Задеок Врбовно 3",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
@@ -95,6 +113,11 @@
     },
     {
       "date": "2026-09-12",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-13",
       "electricityOutages": 0,
       "waterOutages": 0
     }

@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Без напајања ће бити следећи потрошачи: нови део града (Насеље), Бања, Јармовац, Пољице, Кутловац, Грачаница, Потпећ, Кратово, Раковићи, Мажићи, Челице, Друглићи, Калафати, Ћирковићи, Јелача, Брезна и Орашац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -78,6 +78,11 @@
     {
       "date": "2026-09-12",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-13",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]
