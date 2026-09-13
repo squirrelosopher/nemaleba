@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T14:16:11.270Z",
+  "generatedAt": "2026-09-13T18:44:24.602Z",
   "summary": {
     "date": "2026-09-13",
     "electricityOutages": 105,
@@ -90,6 +90,12 @@
         "waterOutages": 0
       },
       {
+        "id": "valjevo",
+        "nameCyrillic": "Ваљево",
+        "electricityOutages": 1,
+        "waterOutages": 1
+      },
+      {
         "id": "rekovac",
         "nameCyrillic": "Рековац",
         "electricityOutages": 2,
@@ -144,12 +150,6 @@
         "waterOutages": 0
       },
       {
-        "id": "valjevo",
-        "nameCyrillic": "Ваљево",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "veliko-gradiste",
         "nameCyrillic": "Велико Градиште",
         "electricityOutages": 1,
@@ -178,12 +178,6 @@
         "nameCyrillic": "Инђија",
         "electricityOutages": 1,
         "waterOutages": 0
-      },
-      {
-        "id": "leskovac",
-        "nameCyrillic": "Лесковац",
-        "electricityOutages": 0,
-        "waterOutages": 1
       },
       {
         "id": "merosina",
@@ -306,7 +300,7 @@
     {
       "date": "2026-09-13",
       "electricityOutages": 10,
-      "waterOutages": 9
+      "waterOutages": 8
     }
   ],
   "providers": [
