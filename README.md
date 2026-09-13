@@ -1,4 +1,4 @@
-# nemaleba.rs
+# nemaleba.rs (WIP)
 
 Искључења струје и воде у Србији. Static site on GitHub Pages, refreshed hourly by GitHub Actions.
 
