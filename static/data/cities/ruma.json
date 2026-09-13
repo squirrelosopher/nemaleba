@@ -7,18 +7,6 @@
   },
   "outages": [
     {
-      "id": "5388337f752f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-06",
-      "areaLabel": "Буђановци",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Тренутно су без водоснабдевања потрошачи у насељу Буђановци, ради пуцања цевовода. Санација квара је у току, а успостављање редовног водоснабдевања очекује се око 14 часова.",
-      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-budjanovci-8/"
-    },
-    {
       "id": "7ca614386b1b",
       "utility": "water",
       "kind": "emergency",
@@ -173,6 +161,11 @@
     },
     {
       "date": "2026-09-13",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-14",
       "electricityOutages": 0,
       "waterOutages": 0
     }

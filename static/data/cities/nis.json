@@ -7,21 +7,6 @@
   },
   "outages": [
     {
-      "id": "f0f6e2448988",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-09-06",
-      "areaLabel": "Никола Тесла",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "ПЛАНИРАНИ РАДОВИ У НАСЕЉУ НИКОЛА ТЕСЛА недељу 6. септембра планирани су радови у улицама 1. Мај код броја 23 и Спиридона Јовановића код броја 1. Због поправке водоводне мреже могућ је прекид водоснабдевања од 8 до 15 часова у поменутим улицама.",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%bf%d0%bb%d0%b0%d0%bd%d0%b8%d1%80%d0%b0%d0%bd%d0%b8-%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%98%d0%b5%d1%9b%d0%b8-%d0%b2%d0%b8%d0%ba%d0%b5-66/"
-    },
-    {
       "id": "9e5bedc645b1",
       "utility": "water",
       "kind": "emergency",
@@ -860,6 +845,11 @@
       "date": "2026-09-13",
       "electricityOutages": 0,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-09-14",
+      "electricityOutages": 5,
+      "waterOutages": 0
     }
   ]
 }
