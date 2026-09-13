@@ -41,6 +41,110 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "a5c87bbef60c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-13",
+      "areaLabel": "Барајево",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Посавских партизана 51а – Баћевац"
+      ],
+      "reason": null,
+      "note": "Барајево: Посавских партизана 51а – Баћевац",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "d6f25eee6f58",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-13",
+      "areaLabel": "Врачар",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Интернационалних бригада 95"
+      ],
+      "reason": null,
+      "note": "Врачар: Интернационалних бригада 95",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "8cc34eccadc4",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-13",
+      "areaLabel": "Звездара",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Црвена звезда 4 – Мали Мокри Луг"
+      ],
+      "reason": null,
+      "note": "Звездара: Црвена звезда 4 – Мали Мокри Луг",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "d48b0bea45a9",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-13",
+      "areaLabel": "Земун",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Добановачка 5 – Бечмен"
+      ],
+      "reason": null,
+      "note": "Земун: Добановачка 5 – Бечмен",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "cb8023a298e4",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-13",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Бошка Деснице 2б – Крњача"
+      ],
+      "reason": null,
+      "note": "Палилула: Бошка Деснице 2б – Крњача",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "95e137c26c08",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-13",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Бело врело 28 – Беле воде",
+        "Породице Михаиловић 13 – Сремчица",
+        "Горског цара бб (угао са Породице Јосиповић) – Сремчица"
+      ],
+      "reason": null,
+      "note": "Чукарица: Бело врело 28 – Беле воде, Породице Михаиловић 13 – Сремчица, Горског цара бб (угао са Породице Јосиповић) – Сремчица",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
       "id": "40c8f2585afe",
       "utility": "electricity",
       "kind": "planned",
@@ -158,6 +262,24 @@
       "reason": null,
       "note": "Насеље БАРИЧ: БОГОЉУБА ВАСИЉЕВИЋА: 4-6,10, ЦЕРСКА: 2-6,1, ГОРЊИ ПОТЕЗ: 2,10-12,5,17А, ЈЕВЂЕНОВИЋА 3. СОКАЧЕ: 8, ЈЕВЂЕНОВИЋА КРАЈ: 2,12-16,3,9, ЈЕЗЕРСКА 1.ДЕО: 4, МИЛОРАДА ПЕТРОВИЋА-УЈКЕ: 6,16А,36-38,1-5,11, ОБРЕНОВАЧКИ ПУТ: 6,68-96,100-100А,17,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "1ae3357a9f81",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-14",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Колибинска 3 – Сремчица",
+        "Милије Маринковића 4 – Велика Моштаница"
+      ],
+      "reason": null,
+      "note": "Чукарица: Колибинска 3 – Сремчица, Милије Маринковића 4 – Велика Моштаница",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
       "id": "1abaf4658867",
@@ -584,7 +706,7 @@
     {
       "date": "2026-09-13",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 6
     }
   ]
 }

@@ -24,6 +24,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "8cc34eccadc4",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-13",
+      "areaLabel": "Звездара",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Црвена звезда 4 – Мали Мокри Луг"
+      ],
+      "reason": null,
+      "note": "Звездара: Црвена звезда 4 – Мали Мокри Луг",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
       "id": "a52208699f55",
       "utility": "electricity",
       "kind": "planned",
@@ -117,7 +134,7 @@
     {
       "date": "2026-09-13",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

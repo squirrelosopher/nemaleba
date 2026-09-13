@@ -7,6 +7,43 @@
   },
   "outages": [
     {
+      "id": "95e137c26c08",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-13",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Бело врело 28 – Беле воде",
+        "Породице Михаиловић 13 – Сремчица",
+        "Горског цара бб (угао са Породице Јосиповић) – Сремчица"
+      ],
+      "reason": null,
+      "note": "Чукарица: Бело врело 28 – Беле воде, Породице Михаиловић 13 – Сремчица, Горског цара бб (угао са Породице Јосиповић) – Сремчица",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "1ae3357a9f81",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-14",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Колибинска 3 – Сремчица",
+        "Милије Маринковића 4 – Велика Моштаница"
+      ],
+      "reason": null,
+      "note": "Чукарица: Колибинска 3 – Сремчица, Милије Маринковића 4 – Велика Моштаница",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
       "id": "eb63aeac96a9",
       "utility": "electricity",
       "kind": "planned",
@@ -100,7 +137,7 @@
     {
       "date": "2026-09-13",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

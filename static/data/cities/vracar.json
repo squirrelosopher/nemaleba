@@ -7,6 +7,23 @@
   },
   "outages": [
     {
+      "id": "d6f25eee6f58",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-13",
+      "areaLabel": "Врачар",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Интернационалних бригада 95"
+      ],
+      "reason": null,
+      "note": "Врачар: Интернационалних бригада 95",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
       "id": "47f01c23cd48",
       "utility": "electricity",
       "kind": "planned",
@@ -83,7 +100,7 @@
     {
       "date": "2026-09-13",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
