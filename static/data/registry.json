@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-14T16:19:09.154Z",
+  "generatedAt": "2026-09-14T21:45:13.235Z",
   "summary": {
     "date": "2026-09-14",
     "electricityOutages": 256,
-    "waterOutages": 40,
+    "waterOutages": 41,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
         "electricityOutages": 43,
-        "waterOutages": 14
+        "waterOutages": 15
       },
       {
         "id": "subotica",
@@ -204,12 +204,6 @@
         "waterOutages": 0
       },
       {
-        "id": "leskovac",
-        "nameCyrillic": "Лесковац",
-        "electricityOutages": 1,
-        "waterOutages": 1
-      },
-      {
         "id": "mali-zvornik",
         "nameCyrillic": "Мали Зворник",
         "electricityOutages": 2,
@@ -360,6 +354,12 @@
         "waterOutages": 0
       },
       {
+        "id": "leskovac",
+        "nameCyrillic": "Лесковац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
         "id": "medvedja",
         "nameCyrillic": "Медвеђа",
         "electricityOutages": 1,
@@ -418,6 +418,12 @@
         "nameCyrillic": "Чачак",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "cikarica",
+        "nameCyrillic": "Чикарица",
+        "electricityOutages": 0,
+        "waterOutages": 1
       }
     ]
   },
@@ -485,7 +491,7 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 48,
-      "waterOutages": 38
+      "waterOutages": 37
     }
   ],
   "providers": [
@@ -834,6 +840,12 @@
       "nameCyrillic": "Чајетина",
       "nameLatin": "Čajetina",
       "branchCyrillic": "Ужице"
+    },
+    {
+      "id": "cikarica",
+      "nameCyrillic": "Чикарица",
+      "nameLatin": "Čikarica",
+      "branchCyrillic": "Београд"
     },
     {
       "id": "crveni-krst",
