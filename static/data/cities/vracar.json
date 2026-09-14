@@ -7,20 +7,20 @@
   },
   "outages": [
     {
-      "id": "d6f25eee6f58",
+      "id": "d54caafb5553",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "areaLabel": "Врачар",
       "time": {
         "start": null,
-        "end": "22:00"
+        "end": "15:00"
       },
       "streets": [
-        "Интернационалних бригада 95"
+        "Радослава Грујића 4"
       ],
       "reason": null,
-      "note": "Врачар: Интернационалних бригада 95",
+      "note": "Врачар: Радослава Грујића 4",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "МЕТОХИЈСКА: 2Б,14,34,11-13,17-19, НИКОЛЕ СТЕФАНОВИЋА: 2,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -105,7 +105,7 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

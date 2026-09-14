@@ -7,20 +7,20 @@
   },
   "outages": [
     {
-      "id": "a5c87bbef60c",
+      "id": "8b731c0704ef",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "areaLabel": "Барајево",
       "time": {
         "start": null,
-        "end": "22:00"
+        "end": "15:00"
       },
       "streets": [
-        "Посавских партизана 51а – Баћевац"
+        "Миодрага Вуковића 65б"
       ],
       "reason": null,
-      "note": "Барајево: Посавских партизана 51а – Баћевац",
+      "note": "Барајево: Миодрага Вуковића 65б",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
@@ -88,7 +88,7 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

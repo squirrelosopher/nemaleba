@@ -21,7 +21,27 @@
       ],
       "reason": null,
       "note": "Насеље М.МОКРИ ЛУГ: БРАЋЕ МИЛИЋ: 5,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "250e5eb221ae",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-14",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Владимира Томановића 13",
+        "Колашинска бб (угао Видске)",
+        "Милована Маринковића 25",
+        "Пут за Бубању 94 – Рипањ"
+      ],
+      "reason": null,
+      "note": "Вождовац: Владимира Томановића 13, Колашинска бб (угао Видске), Милована Маринковића 25, Пут за Бубању 94 – Рипањ",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
       "id": "1abaf4658867",
@@ -111,7 +131,7 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

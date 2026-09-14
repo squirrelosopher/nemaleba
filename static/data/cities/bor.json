@@ -7,20 +7,6 @@
   },
   "outages": [
     {
-      "id": "931f611b16c5",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-07",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Улица Јована Јовановића Змаја"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Улица Јована Јовановића Змаја Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-ponedeljak-07-09-2026-god/"
-    },
-    {
       "id": "60da350d9fcf",
       "utility": "water",
       "kind": "emergency",
@@ -64,6 +50,21 @@
       "reason": "Санација кварова на водоводној мрежи",
       "note": "Улица Љубе Нешића број 34 Оштрељ Кварови на мерним местима – у шахтама",
       "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-10-09-2026-god/"
+    },
+    {
+      "id": "aa945be9917d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-14",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Борско Језеро – квар на главној водоводној мрежи",
+        "Металург"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Борско Језеро – квар на главној водоводној мрежи Металург Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-ponedeljak-14-09-2026-god/"
     }
   ],
   "history": [
@@ -130,7 +131,7 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

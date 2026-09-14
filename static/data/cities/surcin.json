@@ -7,6 +7,23 @@
   },
   "outages": [
     {
+      "id": "21da46904d25",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-14",
+      "areaLabel": "Сурчин",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Надежде Петровића 30 – Добановци"
+      ],
+      "reason": null,
+      "note": "Сурчин: Надежде Петровића 30 – Добановци",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
       "id": "84d90e7238f8",
       "utility": "electricity",
       "kind": "planned",
@@ -21,7 +38,7 @@
       ],
       "reason": null,
       "note": "Насеље СУРЧИН: БРАЋЕ НИКОЛИЋ: 90-100,112а-112б,73,77-79,85-89,97-99,105, ДОН КИХОТОВА: 3-5,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "6594e05b46de",
@@ -38,7 +55,7 @@
       ],
       "reason": null,
       "note": "ВОЈВОДЕ ПУТНИКА: 17, Насеље ЈАКОВО: ЈАКОВАЧКИ КОРМАНДИН: 25, Насеље СУРЧИН: БРАЋЕ НИКОЛИЋ: 38, МИКЕ АНТИЋА: 2,8-14,18-36и, МИЛА КОВАЧЕВИЋА: 1,7,15, МИТЕ БИЊИША: 2Б,1А,7, УДАРНЕ ДЕСЕТИНЕ: 32а, ВАСЕ ДАВИДОВИЋА: 2-4А,3-7Г,11, ЖЕЛЕЗНИЧКА: 48-58,66-66,70,74,78-84,90,67,71-77,81-89А,99,103-109,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -105,7 +122,7 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

@@ -7,26 +7,7 @@
   },
   "outages": [
     {
-      "id": "95e137c26c08",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-13",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Бело врело 28 – Беле воде",
-        "Породице Михаиловић 13 – Сремчица",
-        "Горског цара бб (угао са Породице Јосиповић) – Сремчица"
-      ],
-      "reason": null,
-      "note": "Чукарица: Бело врело 28 – Беле воде, Породице Михаиловић 13 – Сремчица, Горског цара бб (угао са Породице Јосиповић) – Сремчица",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "1ae3357a9f81",
+      "id": "bd96f8b3b07f",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-14",
@@ -36,11 +17,12 @@
         "end": "15:00"
       },
       "streets": [
+        "Београдског батаљона бб (код бензијске пумпе)",
         "Колибинска 3 – Сремчица",
         "Милије Маринковића 4 – Велика Моштаница"
       ],
       "reason": null,
-      "note": "Чукарица: Колибинска 3 – Сремчица, Милије Маринковића 4 – Велика Моштаница",
+      "note": "Чукарица: Београдског батаљона бб (код бензијске пумпе), Колибинска 3 – Сремчица, Милије Маринковића 4 – Велика Моштаница",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
@@ -58,7 +40,7 @@
       ],
       "reason": null,
       "note": "КНЕЗА ВИШЕСЛАВА: ББ,бб,1, Насеље ЖАРКОВО: ЦЕРОВА: 2-6,1,7-11, КЕДРОВА: 2-8,1-15, ОМОРИКА: 2-10,1-7,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "0d91bb2a9d27",
@@ -75,7 +57,7 @@
       ],
       "reason": null,
       "note": "Насеље ЖАРКОВО: БРЕЗА: 2,1-5, ЈАСЕНОВА: 2-16,1-13, КЕСТЕНОВА: 2-6,1-11,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

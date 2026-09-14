@@ -5,32 +5,7 @@
     "nameLatin": "Raška",
     "branchCyrillic": "Краљево"
   },
-  "outages": [
-    {
-      "id": "671ce8abaf73",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-13",
-      "areaLabel": "Рашка",
-      "time": {
-        "start": "07:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Цео конзум ЕД Рашка",
-        "подручје Рашке",
-        "Баљевца",
-        "Брвеника",
-        "Ушћа",
-        "Рудна",
-        "Голије",
-        "Руднице и Лешка"
-      ],
-      "reason": null,
-      "note": "Цео конзум ЕД Рашка,подручје Рашке,Баљевца,Брвеника, Ушћа, Рудна, Голије, Руднице и Лешка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",
