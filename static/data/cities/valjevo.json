@@ -68,6 +68,28 @@
       "reason": null,
       "note": "Због квара на водоводној мрежи, без воде су потрошачи у улици Јосипа Мајера. Нормализација у водоснабдевању се очекује сутра, односно 14.09.2026. године у преподневним часовима.",
       "sourceUrl": "https://vodovodva.co.rs/josipamajera/"
+    },
+    {
+      "id": "9e4c0372dd66",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Купци села С.Гора",
+        "Лелић",
+        "Богатић",
+        "Д.Лесковице",
+        "Г.Лесковице",
+        "Таор"
+      ],
+      "reason": null,
+      "note": "Купци села С.Гора , Лелић,Богатић,Д.Лесковице,Г.Лесковице,Таор",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,20 +7,20 @@
   },
   "outages": [
     {
-      "id": "0bac1c301996",
+      "id": "a41a70db3390",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-14",
       "areaLabel": "Гроцка",
       "time": {
         "start": null,
-        "end": "15:00"
+        "end": "22:00"
       },
       "streets": [
-        "29. новембра 9 – Лештане"
+        "Косовске девојке 2 – Винча"
       ],
       "reason": null,
-      "note": "Гроцка: 29. новембра 9 – Лештане",
+      "note": "Гроцка: Косовске девојке 2 – Винча",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {

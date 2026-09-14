@@ -39,6 +39,57 @@
       "reason": null,
       "note": "У току је хитна интервенција на водоводној мрежи, због које су без воде остали потрошачи у делу Трга Светог Стефана, на Житном и Соларском тргу, као и у улицама Рибарске обале, Занатлијској и Музејској.",
       "sourceUrl": "https://vodovodsm.rs/strana/10164"
+    },
+    {
+      "id": "464fdd710633",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сремска Рача: Цело село"
+      ],
+      "reason": null,
+      "note": "Сремска Рача: Цело село",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "671110667047",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "\"Сремска Митровица: Матије Хуђи од бр. 22-38 и 44-46\r\nДечје јаслице “Цврчак” – Матије Хуђи\r\nДечји вртић “Буба Мара” – Матије Хуђи\r\nУл. Краља Петра првог од бр. 63-93 и 50-88 и б.б.\""
+      ],
+      "reason": null,
+      "note": "\"Сремска Митровица: Матије Хуђи од бр. 22-38 и 44-46\r\nДечје јаслице “Цврчак” – Матије Хуђи\r\nДечји вртић “Буба Мара” – Матије Хуђи\r\nУл. Краља Петра првог од бр. 63-93 и 50-88 и б.б.\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "11ada2e46a90",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "11:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "\"Сремска Митровица: Ул. Нови шор од бр. 11-75 и 14-88\r\nУл. Ивана Горана Ковачића\r\nУл. Стари шор бр. 27 и бр. 31\r\nУл. Жртава фашизма од бр. 1-9\r\nУл. Цветна од бр. 11-75 и 14-88\""
+      ],
+      "reason": null,
+      "note": "\"Сремска Митровица: Ул. Нови шор од бр. 11-75 и 14-88\r\nУл. Ивана Горана Ковачића\r\nУл. Стари шор бр. 27 и бр. 31\r\nУл. Жртава фашизма од бр. 1-9\r\nУл. Цветна од бр. 11-75 и 14-88\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

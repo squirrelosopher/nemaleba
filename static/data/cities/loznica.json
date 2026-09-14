@@ -5,7 +5,62 @@
     "nameLatin": "Loznica",
     "branchCyrillic": "Лозница"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "5ebe607ca22c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Због земене стубова на Изв. МНН из ТС 10/0",
+        "4 kV „Драгићевићи 3“ у насељу Брезик у Клупцима."
+      ],
+      "reason": null,
+      "note": "Због земене стубова на Изв. МНН из ТС 10/0,4 kV „Драгићевићи 3“ у насељу Брезик у Клупцима.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "966f69e862ae",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "МБТС 10/0",
+        "4 kV „Шуловача“"
+      ],
+      "reason": null,
+      "note": "МБТС 10/0,4 kV „Шуловача“",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "94f3eb75da0c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Због земене стубова на Изв. МНН из ТС 10/0",
+        "4 kV „Драгићевићи 3“ у насељу Брезик у Клупцима."
+      ],
+      "reason": null,
+      "note": "Због земене стубова на Изв. МНН из ТС 10/0,4 kV „Драгићевићи 3“ у насељу Брезик у Клупцима.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

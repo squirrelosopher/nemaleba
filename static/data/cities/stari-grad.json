@@ -7,14 +7,14 @@
   },
   "outages": [
     {
-      "id": "cb4992ef7d43",
+      "id": "0165d143e6fc",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-14",
       "areaLabel": "Стари град",
       "time": {
         "start": null,
-        "end": "15:00"
+        "end": "22:00"
       },
       "streets": [
         "Краља Петра 6"
@@ -22,6 +22,23 @@
       "reason": null,
       "note": "Стари град: Краља Петра 6",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "5fe5cd014418",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Стари град",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "ДОБРИЦЕ ЋОСИЋА: 6-10,14"
+      ],
+      "reason": null,
+      "note": "ДОБРИЦЕ ЋОСИЋА: 6-10,14,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

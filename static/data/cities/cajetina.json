@@ -22,6 +22,66 @@
       "reason": null,
       "note": "Смиљанићи Љубиш",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "0b2e45926044",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Смиљански Закоси",
+        "Шаиновци",
+        "Саставци",
+        "Водице и Жупан Бара"
+      ],
+      "reason": null,
+      "note": "Смиљански Закоси, Шаиновци, Саставци, Водице и Жупан Бара",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "c4b193e516e3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Кићаново брдо",
+        "Кобиља Глава",
+        "Масница и Стругара Рибница."
+      ],
+      "reason": null,
+      "note": "Кићаново брдо, Кобиља Глава, Масница и Стругара Рибница.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "f33a687785fe",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Сирогојно засеоци - Бјеличићи",
+        "Лучићи",
+        "Стаматовићи Ћалдовићи",
+        "Млала",
+        "Бјеличићи и Митрићи"
+      ],
+      "reason": null,
+      "note": "Сирогојно засеоци - Бјеличићи, Лучићи, Стаматовићи Ћалдовићи, Млала, Бјеличићи и Митрићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

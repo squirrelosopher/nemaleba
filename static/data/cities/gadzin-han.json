@@ -1,0 +1,34 @@
+{
+  "city": {
+    "id": "gadzin-han",
+    "nameCyrillic": "Гаџин Хан",
+    "nameLatin": "Gadžin Han",
+    "branchCyrillic": "Ниш"
+  },
+  "outages": [
+    {
+      "id": "a44591c4a8bd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Гаџин Хан",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део Заплањског Миљковца;"
+      ],
+      "reason": null,
+      "note": "део Заплањског Миљковца;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

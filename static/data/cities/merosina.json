@@ -31,6 +31,24 @@
       "reason": null,
       "note": "Рожина,Облачина,Биљег,падина,Јовановац,Дудулајце,Азбресница,Чубура,Девча,Крајковац",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "6820c49d7175",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Девча",
+        "Горња Девча и Чубура"
+      ],
+      "reason": null,
+      "note": "Девча,Горња Девча и Чубура",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

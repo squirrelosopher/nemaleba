@@ -1,0 +1,34 @@
+{
+  "city": {
+    "id": "kosjeric",
+    "nameCyrillic": "Косјерић",
+    "nameLatin": "Kosjerić",
+    "branchCyrillic": "Ужице"
+  },
+  "outages": [
+    {
+      "id": "a443cf827394",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Косјерић",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Каона и Подбукови"
+      ],
+      "reason": null,
+      "note": "Каона и Подбукови",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

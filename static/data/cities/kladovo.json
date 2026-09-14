@@ -5,7 +5,25 @@
     "nameLatin": "Kladovo",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "8d64e4ad9685",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Кладово",
+      "time": {
+        "start": "08:30",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеља Стара Брза и Купузиште са припадајућим викенд насељима ."
+      ],
+      "reason": null,
+      "note": "Насеља Стара Брза и Купузиште са припадајућим викенд насељима .",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-01",

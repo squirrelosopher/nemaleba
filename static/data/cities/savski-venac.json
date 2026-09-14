@@ -7,21 +7,38 @@
   },
   "outages": [
     {
-      "id": "5e19f7335f7c",
+      "id": "2ce44d24009d",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-14",
       "areaLabel": "Савски венац",
       "time": {
         "start": null,
-        "end": "15:00"
+        "end": "22:00"
       },
       "streets": [
-        "Мила Милуновића 1"
+        "Савска 31"
       ],
       "reason": null,
-      "note": "Савски венац: Мила Милуновића 1",
+      "note": "Савски венац: Савска 31",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "68fa66d572ba",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Савски венац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Југ Богданова 12"
+      ],
+      "reason": null,
+      "note": "Југ Богданова 12",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

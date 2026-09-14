@@ -7,26 +7,6 @@
   },
   "outages": [
     {
-      "id": "788d9171a668",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-14",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Војводе Мицка Крстића 1",
-        "Ане Франк 3",
-        "Славка Колара 1а – Котеж",
-        "1. маја 109 – Овча"
-      ],
-      "reason": null,
-      "note": "Палилула: Војводе Мицка Крстића 1, Ане Франк 3, Славка Колара 1а – Котеж, 1. маја 109 – Овча",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "af0dec4df750",
       "utility": "electricity",
       "kind": "planned",
@@ -159,7 +139,7 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
-      "waterOutages": 1
+      "waterOutages": 0
     }
   ]
 }

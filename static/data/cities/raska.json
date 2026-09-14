@@ -5,7 +5,48 @@
     "nameLatin": "Raška",
     "branchCyrillic": "Краљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "bfb9950384a4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Рашка",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Пусто поље",
+        "Попова река",
+        "Рудњак",
+        "Међуречје",
+        "Добра буква",
+        "Равни",
+        "Борова и Предоле."
+      ],
+      "reason": null,
+      "note": "Пусто поље,Попова река,Рудњак,Међуречје,Добра буква,Равни,Борова и Предоле.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "466e22e7ef79",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Рашка",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Стефановићи и Подковачица."
+      ],
+      "reason": null,
+      "note": "Стефановићи и Подковачица.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

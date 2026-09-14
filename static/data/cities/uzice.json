@@ -5,7 +5,28 @@
     "nameLatin": "Užice",
     "branchCyrillic": "Ужице"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f8e1a4a831bd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Потрошачи из Караклића",
+        "Церовића брда",
+        "Ђерића",
+        "Јоцића као и део потрошача из Дубаца"
+      ],
+      "reason": null,
+      "note": "Потрошачи из Караклића, Церовића брда, Ђерића , Јоцића као и део потрошача из Дубаца",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

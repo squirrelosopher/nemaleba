@@ -1110,6 +1110,89 @@
       "reason": null,
       "note": "Чеде Продановића, Драгана Плачковића, Мирка Тушака, Косте Малића, Пера Хансона, Рашида Хаџимешића, Шумаричка, Антонија Пљакића",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "5c1e277646e1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Љубичевац"
+      ],
+      "reason": null,
+      "note": "Љубичевац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "77a5d9d355e5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Ресник",
+        "Нови Милановац",
+        "Петровац - Викенд насеље",
+        "Цветојевац - Јовановићи",
+        "Никшић",
+        "Милатовац - Осојак",
+        "Прњавор",
+        "Ботуње",
+        "Корман - Игралиште",
+        "Доње Комарице",
+        "Жировница",
+        "Бадњевац"
+      ],
+      "reason": null,
+      "note": "Ресник, Нови Милановац, Петровац - Викенд насеље, Цветојевац - Јовановићи, Никшић, Милатовац - Осојак, Прњавор, Ботуње, Корман - Игралиште, Доње Комарице, Жировница , Бадњевац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "2fe3deb218c9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "19 октобра 2"
+      ],
+      "reason": null,
+      "note": "19 октобра 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "a96113986687",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Десимировац",
+        "Поскурице",
+        "Драча",
+        "Дивостин",
+        "Прекопеча"
+      ],
+      "reason": null,
+      "note": "Десимировац, Поскурице, Драча, Дивостин, Прекопеча",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

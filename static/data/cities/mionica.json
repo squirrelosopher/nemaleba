@@ -5,7 +5,25 @@
     "nameLatin": "Mionica",
     "branchCyrillic": "Ваљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "2ee3d903b248",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Мионица",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Купцидела Мионице (Дивчибарски пут)"
+      ],
+      "reason": null,
+      "note": "Купцидела Мионице (Дивчибарски пут)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

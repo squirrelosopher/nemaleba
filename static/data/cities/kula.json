@@ -5,7 +5,46 @@
     "nameLatin": "Kula",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "fc8d9f1031d5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Кула",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "ЦРВЕНАЧКИ ПУТ ББ",
+        "25. МАЈА 2-42 И 1 И ББ",
+        "КОЗАРАЧКА 1 И 6-44 И ББ",
+        "САЛАШ 103-105",
+        "ДР.М.СТОЈАНОВИЋА 1-5 И 2-8"
+      ],
+      "reason": null,
+      "note": "ЦРВЕНАЧКИ ПУТ ББ,25. МАЈА 2-42 И 1 И ББ,КОЗАРАЧКА 1 И 6-44 И ББ,САЛАШ 103-105,ДР.М.СТОЈАНОВИЋА 1-5 И 2-8",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "03a7af2fa4bb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Кула",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ЦРВЕНАЧКИ ПУТ ББ"
+      ],
+      "reason": null,
+      "note": "ЦРВЕНАЧКИ ПУТ ББ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-07",

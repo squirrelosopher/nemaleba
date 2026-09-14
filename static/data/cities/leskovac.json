@@ -20,6 +20,23 @@
       "reason": null,
       "note": "- Због квара на водоводној мрежи дошло је до прекида у водоснабдевању у улици Николе Тесле. Нормализација водоснабдевања се очекује до 16 часова.",
       "sourceUrl": "https://www.vodovodle.rs/servisne-informacije.php"
+    },
+    {
+      "id": "c4e7c2b686c4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Лесковац",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Сви локали у тржном центру у ул. Алексе Ненадовића"
+      ],
+      "reason": null,
+      "note": "Сви локали у тржном центру у ул. Алексе Ненадовића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

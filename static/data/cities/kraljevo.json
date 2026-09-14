@@ -5,7 +5,26 @@
     "nameLatin": "Kraljevo",
     "branchCyrillic": "Краљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "56d17c3c5714",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-15",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "МБТС 10/0",
+        "4kV \"Кидричева\""
+      ],
+      "reason": null,
+      "note": "МБТС 10/0,4kV \"Кидричева\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
