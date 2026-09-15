@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "d5947da95594",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-08",
-      "areaLabel": "Буковцу",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Улица 22. августа и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица 22. августа и околне улице у Буковцу.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-8-9-2026/"
-    },
-    {
-      "id": "8c7ca34517e6",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-08",
-      "areaLabel": "Сремским Карловцима",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [
-        "Трг патријарха Бранковића и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Трг патријарха Бранковића и околне улице у Сремским Карловцима.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-8-9-2026/"
-    },
-    {
       "id": "1ac9d2d7b82d",
       "utility": "water",
       "kind": "emergency",
@@ -383,6 +349,11 @@
       "date": "2026-09-15",
       "electricityOutages": 7,
       "waterOutages": 0
+    },
+    {
+      "date": "2026-09-16",
+      "electricityOutages": 0,
+      "waterOutages": 2
     }
   ]
 }

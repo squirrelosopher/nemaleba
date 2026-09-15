@@ -7,21 +7,6 @@
   },
   "outages": [
     {
-      "id": "e23aa6f1713c",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-09-08",
-      "areaLabel": "Улица Браничевска",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "Обавештавамо Вас да ће дана 08.09.2026. године доћи до искључења воде у улици Браничевској у периоду од 08 до 15 часова.",
-      "sourceUrl": "https://vodovod012.rs/vesti"
-    },
-    {
       "id": "3eb45b1d949b",
       "utility": "water",
       "kind": "emergency",
@@ -153,6 +138,11 @@
     },
     {
       "date": "2026-09-15",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-16",
       "electricityOutages": 1,
       "waterOutages": 0
     }

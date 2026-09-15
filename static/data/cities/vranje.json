@@ -7,18 +7,6 @@
   },
   "outages": [
     {
-      "id": "6cefe1d61f5c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-08",
-      "areaLabel": "Мајке Јевросиме",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у улици Мајке Јевросиме,  без воде биће потрошачи те улице и околне   до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/08-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
       "id": "3167cd6ec450",
       "utility": "water",
       "kind": "emergency",
@@ -157,6 +145,11 @@
       "date": "2026-09-15",
       "electricityOutages": 0,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-09-16",
+      "electricityOutages": 2,
+      "waterOutages": 0
     }
   ]
 }
