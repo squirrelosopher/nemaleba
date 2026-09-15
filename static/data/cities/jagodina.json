@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "02b5661d3dd6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Јагодина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део села Трнава и део села Драгоцвет"
-      ],
-      "reason": null,
-      "note": "Део села Трнава и део села Драгоцвет",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "44a197cfb18f",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +22,7 @@
       ],
       "reason": null,
       "note": "Део села Драгоцвет, код игралишта",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3f18148075b0",
@@ -56,7 +39,7 @@
       ],
       "reason": null,
       "note": "Део села Бунар",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9ca44cbd8810",
@@ -73,7 +56,7 @@
       ],
       "reason": null,
       "note": "Део села Ракитово од центра према Кончареву",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "87abe42d7c42",
@@ -90,7 +73,7 @@
       ],
       "reason": null,
       "note": "Део села Добра Вода",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "72176b9565f1",
@@ -107,7 +90,7 @@
       ],
       "reason": null,
       "note": "Ружице Милановић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "76512c00956e",
@@ -124,7 +107,7 @@
       ],
       "reason": null,
       "note": "Део села Милошево",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -191,6 +174,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 5,
       "waterOutages": 0
     }
   ]

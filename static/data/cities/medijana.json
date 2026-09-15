@@ -7,21 +7,6 @@
   },
   "outages": [
     {
-      "id": "92b6f8384934",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-07",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "ИНТЕРВЕНЦИЈЕ У НАСЕЉУ МЕДИЈАНА бог санације квара на водоводној мрежи потребан је ископ у Рентгеновој улици код броја 13. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 сати у Рентгеновој улици код бројева 3, 5, 7, 9, 11 и 13",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-289/"
-    },
-    {
       "id": "8554a1b0b82b",
       "utility": "water",
       "kind": "emergency",
@@ -76,64 +61,6 @@
       "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-293/"
     },
     {
-      "id": "49a72629cabb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "Др Петра Вучинића (6-16а)",
-        "Вардарска (10",
-        "10б",
-        "11а",
-        "11б",
-        "11ц",
-        "11в",
-        "14",
-        "14а",
-        "16",
-        "бб)",
-        "Јована Ристића (19-45",
-        "парни бр. 46-62",
-        "бб);"
-      ],
-      "reason": null,
-      "note": "Др Петра Вучинића (6-16а), Вардарска (10,10б,11а,11б,11ц,11в,14,14а,16,бб), Јована Ристића (19-45, парни бр. 46-62,бб);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b933d6b9b9c6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "10:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "Др Петра Вучинића (3)",
-        "делови Јована Ристића",
-        "Козарачка (21",
-        "23",
-        "25",
-        "25а",
-        "25б)",
-        "Соколска (1)",
-        "Трг Краља Александра Ујединитеља (2",
-        "2а",
-        "4",
-        "бб);"
-      ],
-      "reason": null,
-      "note": "Др Петра Вучинића (3), делови Јована Ристића, Козарачка (21,23,25,25а,25б), Соколска (1), Трг Краља Александра Ујединитеља (2,2а,4,бб);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "abaf9cf329e0",
       "utility": "electricity",
       "kind": "planned",
@@ -153,7 +80,7 @@
       ],
       "reason": null,
       "note": "делови улица 21. Маја, Врањанске, Војислава Милошевића, Бледске (24) и Булевара Немањића (74,76,78);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -220,6 +147,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

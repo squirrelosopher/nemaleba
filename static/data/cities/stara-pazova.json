@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "73f3cea93db2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Стара Пазова",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "НОВИ БАНОВЦИ: Ул. Младих; Ул. Крајишка; Ул.Д.Максимовић; Ул.Омладинска; Ул.Припољска; Ул.Сремска; Ул.Цара Лазара; Ул.Железничка; Ул.П.Кочића; Ул.Б.Радичевића; Ул.Његошева; Ул.Пољска; Ул.Краља Петра првог; Ул.Фрушкогорска од бр.1/2 до бр67/90; Ул.Далматинска; Ул.Ј.Рашковића; Ул.В.Карађжића; Ул.Николе Тесле; Ул.Спортска; Ул.Пионирска; Ул.Пролетерска од бр.1/2 до бр.43/48; Ул.Школска од бр.1/2 до броја 21"
-      ],
-      "reason": null,
-      "note": "НОВИ БАНОВЦИ: Ул. Младих; Ул. Крајишка; Ул.Д.Максимовић; Ул.Омладинска; Ул.Припољска; Ул.Сремска; Ул.Цара Лазара; Ул.Железничка; Ул.П.Кочића; Ул.Б.Радичевића; Ул.Његошева; Ул.Пољска; Ул.Краља Петра првог; Ул.Фрушкогорска од бр.1/2 до бр67/90; Ул.Далматинска; Ул.Ј.Рашковића; Ул.В.Карађжића; Ул.Николе Тесле; Ул.Спортска; Ул.Пионирска; Ул.Пролетерска од бр.1/2 до бр.43/48; Ул.Школска од бр.1/2 до броја 21",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "26a35bd7a896",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Стара Пазова",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Стара Пазова: Ул. Карађорђева од бр.60 до ул.Николе Тесле-парна страна; Ул.Карађорђева од бр.61 до ул.М.Веселиновића-непарна страна; Ул.Борачка; Ул.Николе Тесле; Ул.Војвођанска од бр.1 до бр.27; Ул.Николе Момчиловича од ул.Карађорђева до ул.Хвјездославова; Ул.М.Копчика; Ул.Камењарева-парна страна"
-      ],
-      "reason": null,
-      "note": "Стара Пазова: Ул. Карађорђева од бр.60 до ул.Николе Тесле-парна страна; Ул.Карађорђева од бр.61 до ул.М.Веселиновића-непарна страна; Ул.Борачка; Ул.Николе Тесле; Ул.Војвођанска од бр.1 до бр.27; Ул.Николе Момчиловича од ул.Карађорђева до ул.Хвјездославова; Ул.М.Копчика; Ул.Камењарева-парна страна",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "087919145cad",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "СУРДУК: ВИКЕНД ЗОНА СУРДУКА- СЛАНКАМЕНАЧКИ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "524ebf7ee4ac",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "НОВА  ПАЗОВА: Ул. Кнез Михајла –непарна страна од бр.1 до ул.Црногорска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -139,6 +105,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

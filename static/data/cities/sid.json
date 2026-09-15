@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "fb8bf7e72b93",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Шид",
-      "time": {
-        "start": "12:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Шид: Ул. Чајковска 15-35, 16-28, 36, 64\r\nУл. Бранка Радичевића 27-51, 28-64\r\nУл. 1. маја 29-101, 28-120\r\nУл. Арсенија Чарнојевића 39\r\nУл. Браће Петровић 28\r\nУл. Михајла Пупина 3-31, 2-28\r\nУл. Сремског Фронта 36\r\nУл. Иве Андрића 1-5, 2-8"
-      ],
-      "reason": null,
-      "note": "Шид: Ул. Чајковска 15-35, 16-28, 36, 64\r\nУл. Бранка Радичевића 27-51, 28-64\r\nУл. 1. маја 29-101, 28-120\r\nУл. Арсенија Чарнојевића 39\r\nУл. Браће Петровић 28\r\nУл. Михајла Пупина 3-31, 2-28\r\nУл. Сремског Фронта 36\r\nУл. Иве Андрића 1-5, 2-8",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "4600b26808f3",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "\"Шид: Ул. Саве Ковачевића од бр. 1-51 и 4-62\r\nУл. Толстојева од бр. 29-45 и бр. 24 и б.б.\r\nНасеље Војводе Степе бр: 3, 5, 15, 39, 41 и 43 и б.б.\r\nУл. Ђуре Даничића б.б.\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "67093b0b51af",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "\"Шид: Ул. Ђуре Јакшића од бр. 9-11 и б.б.\r\nУл. Филипа Вишњића од бр. 1-53 и 2-66 и б.б.\r\nУл. Васе Стајића од бр. 9-27 и 2-54 и б.б.\r\nУл. Савска од бр. 1-35 и 2-34\r\nУл. Саве Ковачевића бр. 53 и бр. 64\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -122,6 +105,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

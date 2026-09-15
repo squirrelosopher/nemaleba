@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "7090ea24fe69",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-14",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Омладинских бригада 82"
-      ],
-      "reason": null,
-      "note": "Нови Београд: Омладинских бригада 82",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "66bb5810ec1e",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,25 @@
       ],
       "reason": null,
       "note": "ПАРИСКЕ КОМУНЕ: 59-59б,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "7f6e9718c31e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Булевар Арсенија Чарнојевића бб",
+        "Јурија Гагарина 128"
+      ],
+      "reason": null,
+      "note": "Нови Београд: Булевар Арсенија Чарнојевића бб, Јурија Гагарина 128",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
       "id": "d9aed8bb8319",
@@ -55,7 +56,7 @@
       ],
       "reason": null,
       "note": "НАРОДНИХ ХЕРОЈА: 14-28,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -122,6 +123,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 1,
       "waterOutages": 1
     }
   ]

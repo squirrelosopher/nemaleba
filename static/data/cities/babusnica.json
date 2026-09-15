@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "део села Грнчар и Звонце.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "94c491558ae8",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "Јасенов Дел.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2b196bbf0ab6",
@@ -55,7 +55,7 @@
       ],
       "reason": null,
       "note": "део села Горчинце.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -122,6 +122,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 3,
       "waterOutages": 0
     }
   ]

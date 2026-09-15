@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "097549039f88",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Врбас",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "М.ТИТА 92 И 96 И 95 И 101-103 И ББ; П.ДРАПШИНА 1-13 И 2-12; ДЕСПОТОВАЧКИ ПУТ ББ"
-      ],
-      "reason": null,
-      "note": "М.ТИТА 92 И 96 И 95 И 101-103 И ББ; П.ДРАПШИНА 1-13 И 2-12; ДЕСПОТОВАЧКИ ПУТ ББ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e890076756a6",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "\"БОСАНСКА 1\r\nН.МЕРКОВИЋА 1-17 И 2-8\r\nСАРАЈЕВСКА 2-32 И 1\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "102d89d1de2f",
@@ -57,7 +40,7 @@
       ],
       "reason": null,
       "note": "БОСАНСКА 1,Н.МЕРКОВИЋА 1-17 И 2-8,САРАЈЕВСКА 2-32 И 1",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "c115f900ee02",
@@ -81,7 +64,7 @@
       ],
       "reason": null,
       "note": "Ђ.БИЉНЕ 1-27 И КП312 И ББ,МЛИНСКА 1-25 И 2-20,НОВИ ШОР 48-84 И 53-115,Г.КОСТЕЛНИКА 20-62 И 21-73,М.ТИТА 72-124 И 83-141 И ББ,Г.ПРИНЦИПА 1 И 2-12,И.Л.РИБАРА 57-105 И 78-120,В.ГАРЈАНСКОГ 17",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "b72b3c2d0ca2",
@@ -98,7 +81,7 @@
       ],
       "reason": null,
       "note": "Куцура: Ђ.БИЉНЕ 1-27 И КП312 И ББ,МЛИНСКА 1-25 И 2-20,НОВИ ШОР 48-84 И 53-115,Г.КОСТЕЛНИКА 20-62 И 21-73,М.ТИТА 72-124 И 83-141 И ББ,Г.ПРИНЦИПА 1 И 2-12,И.Л.РИБАРА 57-105 И 78-120,В.ГАРЈАНСКОГ 17",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "0c32a76280a2",
@@ -120,6 +103,30 @@
       ],
       "reason": null,
       "note": "7.ЈУЛИ 2-42 И 3-73 И ББ,29.НОВ 12-64 И 19-61 ,ВИНОГРАДСКА 27 И ББ,РАДНИЧКА 1-39 И 2-46,В.НАЗОРА 2-10 И 9,А . ПАНТОВИЋА 2-24 И 1243",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "d57c118ff3ad",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "РАВНО СЕЛО-Б.ТОМОВИЋА 4-98 И 1-115 И ББ",
+        "СУТЈЕСКА 1-39 И 2-42",
+        "ЗАГРЕБАЧКА 3-35 И 4-14",
+        "ЈНА 95 И 17-35",
+        "29. НОВ. 11-53 И 20-50 И ББ",
+        "И.МИЛУТИНОВИЋА 3-23 И 12-42",
+        "ЉУБЉАНСКА 2-38 И 1 И ББ",
+        "7.ЈУЛИ 16-42 И 31-61"
+      ],
+      "reason": null,
+      "note": "РАВНО СЕЛО-Б.ТОМОВИЋА 4-98 И 1-115 И ББ,СУТЈЕСКА 1-39 И 2-42,ЗАГРЕБАЧКА 3-35 И 4-14,ЈНА 95 И 17-35,29. НОВ. 11-53 И 20-50 И ББ,И.МИЛУТИНОВИЋА 3-23 И 12-42,ЉУБЉАНСКА 2-38 И 1 И ББ,7.ЈУЛИ 16-42 И 31-61",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
@@ -187,6 +194,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

@@ -7,59 +7,6 @@
   },
   "outages": [
     {
-      "id": "92730d776980",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део улице Капетана Карановића и Рузмарина."
-      ],
-      "reason": null,
-      "note": "део улице Капетана Карановића и Рузмарина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8a69b266c71e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Понор",
-        "Каменолом Понор."
-      ],
-      "reason": null,
-      "note": "Понор,Каменолом Понор.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8a2a9e638b85",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Базовик",
-        "Орља."
-      ],
-      "reason": null,
-      "note": "Базовик,Орља.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "08cd35c8686e",
       "utility": "electricity",
       "kind": "planned",
@@ -75,7 +22,7 @@
       ],
       "reason": null,
       "note": "Рагодеш,Орља.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "62e8fad43766",
@@ -92,7 +39,7 @@
       ],
       "reason": null,
       "note": "део улице Драгољуба Миленковића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -159,6 +106,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

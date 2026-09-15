@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеља: Меовача, Шарампов, Мијановићи, Чучковићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9e96f7609db8",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "Насеља: Љештанско",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "0e587c73a986",
@@ -55,7 +55,7 @@
       ],
       "reason": null,
       "note": "Насеља: Пашна раван, Дебело брдо",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ea0288a61ac1",
@@ -72,7 +72,7 @@
       ],
       "reason": null,
       "note": "Насеља: Косићи и Барати у Зарожју",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "1451a45bdf41",
@@ -89,7 +89,7 @@
       ],
       "reason": null,
       "note": "Насеља: Љештанско",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "a50a15279e67",
@@ -106,7 +106,7 @@
       ],
       "reason": null,
       "note": "Насеља: Пауље, Бушинско поље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "596a216ca75a",
@@ -123,6 +123,57 @@
       ],
       "reason": null,
       "note": "Насеља: Косићи и Барати у Зарожју",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "e76c3d73d193",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Бајина Башта",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеља: Луково, Бушино, Зауглине, Малишевац"
+      ],
+      "reason": null,
+      "note": "Насеља: Луково, Бушино, Зауглине, Малишевац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "4d8427abafc1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Бајина Башта",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеља: Љештанско"
+      ],
+      "reason": null,
+      "note": "Насеља: Љештанско",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "10afb54f41a0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Бајина Башта",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Насеља: Јасик, Ружићи, Гвоздачка планина, Бакићи у Гвосцу"
+      ],
+      "reason": null,
+      "note": "Насеља: Јасик, Ружићи, Гвоздачка планина, Бакићи у Гвосцу",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
@@ -190,6 +241,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 3,
       "waterOutages": 0
     }
   ]

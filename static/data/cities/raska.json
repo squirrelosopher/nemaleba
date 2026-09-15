@@ -27,7 +27,7 @@
       ],
       "reason": null,
       "note": "Пусто поље,Попова река,Рудњак,Међуречје,Добра буква,Равни,Борова и Предоле.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "466e22e7ef79",
@@ -44,7 +44,7 @@
       ],
       "reason": null,
       "note": "Стефановићи и Подковачица.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -111,6 +111,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеља Надаљ и Турија",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "27cbb20492cd",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "Надаљ : Улица Светозара Милетића од ул.Петра Драпшина до ул.Браће Јоцков , Улица Браће Пантић од ул.Светозара Милетића до ул.Бранка Радичевића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -105,6 +105,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

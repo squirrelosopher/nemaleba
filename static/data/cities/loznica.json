@@ -22,7 +22,7 @@
       ],
       "reason": null,
       "note": "Због земене стубова на Изв. МНН из ТС 10/0,4 kV „Драгићевићи 3“ у насељу Брезик у Клупцима.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "966f69e862ae",
@@ -40,7 +40,7 @@
       ],
       "reason": null,
       "note": "МБТС 10/0,4 kV „Шуловача“",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "94f3eb75da0c",
@@ -58,6 +58,23 @@
       ],
       "reason": null,
       "note": "Због земене стубова на Изв. МНН из ТС 10/0,4 kV „Драгићевићи 3“ у насељу Брезик у Клупцима.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "58524f18ac1c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Због реконструкције далековода и земени стубова на ДВ 10 kV из ТС 35/10 kV „Трбушница“ извод Краишници-Воћњак."
+      ],
+      "reason": null,
+      "note": "Због реконструкције далековода и земени стубова на ДВ 10 kV из ТС 35/10 kV „Трбушница“ извод Краишници-Воћњак.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
@@ -124,6 +141,11 @@
     },
     {
       "date": "2026-09-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
       "electricityOutages": 0,
       "waterOutages": 0
     }

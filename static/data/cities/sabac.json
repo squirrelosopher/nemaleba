@@ -22,7 +22,7 @@
       ],
       "reason": null,
       "note": "Прњавор-МНН из ТС10/ 0,4 kV „Шабачки пут„ ул Стевана Синђелића у Слепчевићу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "717f09cf07c6",
@@ -39,7 +39,7 @@
       ],
       "reason": null,
       "note": "Без ел.енергије остаће купци у Орашцу и Мрђеновцу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f30c0ec72541",
@@ -57,7 +57,7 @@
       ],
       "reason": null,
       "note": "Прњавор-МНН из ТС10/ 0,4 kV „Шабачки пут„ ул Стевана Синђелића у Слепчевићу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "9b21ed2a021c",
@@ -74,7 +74,7 @@
       ],
       "reason": null,
       "note": "Без ел.енергије остају купци у селу Жабар",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "e5f8dcfd90fd",
@@ -93,7 +93,7 @@
       ],
       "reason": null,
       "note": "Без ел.енергије остају купци у улици Јадранска од Текеришке до Николе Пашића, ул. Коке Ђорђевић, део ул. Николе Пашића од Јадранске до 6. Пука",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "77a1c5c7ec0e",
@@ -111,7 +111,7 @@
       ],
       "reason": null,
       "note": "МНН из ТС10/ 0,4 kV „Центар„ ул Железничка у Петловачи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "009e0e12761a",
@@ -128,7 +128,7 @@
       ],
       "reason": null,
       "note": "Без ел.енергије остаће купци у Орашцу и Мрђеновцу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "b50bbd4f3103",
@@ -145,7 +145,7 @@
       ],
       "reason": null,
       "note": "Без ел. енергије остаје село Јевремовац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -212,6 +212,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

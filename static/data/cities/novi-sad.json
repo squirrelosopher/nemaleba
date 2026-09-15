@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "55ff810d5d28",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-07",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "лева страна Будисаве, гледано из правца Каћа"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити лева страна Будисаве, гледано из правца Каћа.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-7-9-2026/"
-    },
-    {
-      "id": "ab88743f16e8",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-07",
-      "areaLabel": "Сремским Карловцима",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [
-        "Дунавска улица"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Дунавска улица у Сремским Карловцима.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-7-9-2026/"
-    },
-    {
       "id": "d5947da95594",
       "utility": "water",
       "kind": "emergency",
@@ -160,57 +126,6 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-cetvrtak-10-9-2026/"
     },
     {
-      "id": "635deb5055a2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Пејићеви салаши Цело насеље"
-      ],
-      "reason": null,
-      "note": "Пејићеви салаши Цело насеље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "15d23228051f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Део насеља Немановци"
-      ],
-      "reason": null,
-      "note": "Део насеља Немановци,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "3bfa13fae5fc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Ул.Хероја Пинкија 2\r\nУл.Лазе Лазаревића 6-14 и 3-11"
-      ],
-      "reason": null,
-      "note": "Ул.Хероја Пинкија 2\r\nУл.Лазе Лазаревића 6-14 и 3-11",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c0932b68c481",
       "utility": "water",
       "kind": "emergency",
@@ -259,7 +174,7 @@
       ],
       "reason": null,
       "note": "Буковац-\"Улица Видовданска од броја 12-32 и до броја 25-67\r\nУлица Партизански пут од броја 2-86 и од броја 1-61\r\nУлица Карадјордјева од броја 32-44 и од броја 23-35\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "df44d3349c29",
@@ -276,7 +191,7 @@
       ],
       "reason": null,
       "note": "\"Улица Шајкашка од броја 52-54 и од броја 29-33\r\nУлица Ужичка од броја 2-24 и од броја 1-25\r\nУлица Партизанска број 6а\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "52e45e5e52c2",
@@ -293,7 +208,7 @@
       ],
       "reason": null,
       "note": "\"\r\nУлица Орловића Павла од броја 12-14\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b89330278656",
@@ -310,7 +225,7 @@
       ],
       "reason": null,
       "note": "Улица Павлика Мишкина од броја 4-40 и од броја 3-",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e11501752610",
@@ -327,7 +242,7 @@
       ],
       "reason": null,
       "note": "\"Потез Врбак и Бара (стари Каћки пут)\r\nФирма Продановић\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "35d28810646c",
@@ -344,7 +259,7 @@
       ],
       "reason": null,
       "note": "Футог-\"Улица Козарачка од броја 60-62 и 73-73а\r\nУлица Ђуре Ђаковића 32а-56 и 37-61\r\nУлица М.П.Камењара 24-64 и 23-49\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "14c8fcc8b015",
@@ -361,7 +276,7 @@
       ],
       "reason": null,
       "note": "Ченеј-\"Фирма Мучибабић\r\nДео насеља Кузмановића салаши\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -429,6 +344,11 @@
       "date": "2026-09-14",
       "electricityOutages": 3,
       "waterOutages": 2
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 7,
+      "waterOutages": 0
     }
   ]
 }

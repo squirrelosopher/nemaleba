@@ -5,7 +5,25 @@
     "nameLatin": "Bela Crkva",
     "branchCyrillic": "Панчево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "be5efd770701",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Бела Црква",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Насељено место Врачев Гај И Аеро клуб."
+      ],
+      "reason": null,
+      "note": "Насељено место Врачев Гај И Аеро клуб.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-07",
@@ -34,6 +52,11 @@
     },
     {
       "date": "2026-09-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
       "electricityOutages": 0,
       "waterOutages": 0
     }

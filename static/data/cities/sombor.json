@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "06e038ae4541",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "ЖАРКОВАЦ",
-        "УЛИЦЕ:ПАРТИЗАНСКА И РАДИЧЕВИЋЕВА"
-      ],
-      "reason": null,
-      "note": "ЖАРКОВАЦ,УЛИЦЕ:ПАРТИЗАНСКА И РАДИЧЕВИЋЕВА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e49eaa66b3aa",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +37,7 @@
       ],
       "reason": null,
       "note": "БЕЗДАН,УЛИЦЕ:ПРОЛЕТЕРСКА,ЦВЕТНА,ЛАКАТНА,ГРОБЉАНСКА,КАНАЛСКА ОБАЛА,СОМБОРСКИ ПУТ,ЖРТАВА ФАШИЗМА,МАЛА,РУЖИНА,П.ШАНДОРА,ПУСТА,НОВОГРАДСКА,АДИ ЕНДРЕ,Б.ЈЕДИНСТВА,КАМЕНОРЕЗАЦ,ДОМ КУЛТУРЕ.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "db659320c81f",
@@ -88,7 +70,7 @@
       ],
       "reason": null,
       "note": "БЕЗДАН,УЛИЦЕ:ПРОЛЕТЕРСКА,ЦВЕТНА,ЛАКАТНА,ГРОБЉАНСКА,КАНАЛСКА ОБАЛА,СОМБОРСКИ ПУТ,ЖРТАВА фАШИЗМА,МАЛА,РУЖИНА,П.ШАНДОРА,ПУСТА,НОВОГРАДСКА,АДИ ЕНДРЕ,Б.ЈЕДИНСТВА,КАМЕНОРЕЗАЦ,ДОМ КУЛТУРЕ.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "283de1196486",
@@ -105,7 +87,7 @@
       ],
       "reason": null,
       "note": "НАСЕЉЕ БУКОВАЦ КОМПЛЕТ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "a805e75284f3",
@@ -137,7 +119,7 @@
       ],
       "reason": null,
       "note": "СОМБОР,УЛИЦЕ:С.ПАУНОВИЋА,С.БАЈИЋА,12 ВОЈВОЂАНСКЕ УДАРНЕ БРИГАДЕ,КУПАЛИШТЕ КОД ШТРАНДА КОМПЛЕТ НАСЕЉЕ,ЦИГЛАНСКА,БАНИЈСКА,Т.РОКСАНДИЋА,ГАВРИЛА ПРИНЦИПА,И.МАЖУРАНИЋА,СВЕТОГ НИКОЛЕ,ДЕО ЈОСИЋКОГ ПУТА,М.ТЕПИЋА,ЧКАЉИНА,П.ВУЈИСИЋА,ЗАНАТСКА И ЈОСИЋ ВИКЕНДИЦЕ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "99102d4d7b42",
@@ -170,7 +152,7 @@
       ],
       "reason": null,
       "note": "БЕЗДАН,УЛИЦЕ:ПРОЛЕТЕРСКА,ЦВЕТНА,ЛАКАТНА,ГРОБЉАНСКА,КАНАЛСКА ОБАЛА,СОМБОРСКИ ПУТ,ЖРТАВА фАШИЗМА,МАЛА,РУЖИНА,П.ШАНДОРА,ПУСТА,НОВОГРАДСКА,АДИ ЕНДРЕ,Б.ЈЕДИНСТВА,КАМЕНОРЕЗАЦ,ДОМ КУЛТУРЕ.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "1321c412f5d4",
@@ -187,7 +169,7 @@
       ],
       "reason": null,
       "note": "ЛУГОВО ОД РАСКРСНИЦЕ ЗА ЖАРКОВАЦ ПРЕМА СОМБОРУ ДЕСНО",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -253,6 +235,11 @@
     },
     {
       "date": "2026-09-14",
+      "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
       "electricityOutages": 2,
       "waterOutages": 0
     }

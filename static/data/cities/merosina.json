@@ -7,32 +7,6 @@
   },
   "outages": [
     {
-      "id": "75b897cb378e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Мерошина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Рожина",
-        "Облачина",
-        "Биљег",
-        "падина",
-        "Јовановац",
-        "Дудулајце",
-        "Азбресница",
-        "Чубура",
-        "Девча",
-        "Крајковац"
-      ],
-      "reason": null,
-      "note": "Рожина,Облачина,Биљег,падина,Јовановац,Дудулајце,Азбресница,Чубура,Девча,Крајковац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "6820c49d7175",
       "utility": "electricity",
       "kind": "planned",
@@ -48,7 +22,7 @@
       ],
       "reason": null,
       "note": "Девча,Горња Девча и Чубура",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -114,6 +88,11 @@
     },
     {
       "date": "2026-09-14",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
       "electricityOutages": 1,
       "waterOutages": 0
     }

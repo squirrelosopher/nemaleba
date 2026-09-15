@@ -5,28 +5,15 @@
     "nameLatin": "Čikarica",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "a913458c52f9",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-15",
-      "areaLabel": "Чикарица",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Ханска 19 – Сремчица"
-      ],
-      "reason": null,
-      "note": "Чикарица: Ханска 19 – Сремчица",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
       "electricityOutages": 0,
       "waterOutages": 0
     }

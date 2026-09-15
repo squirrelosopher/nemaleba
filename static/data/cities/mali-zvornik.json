@@ -22,7 +22,7 @@
       ],
       "reason": null,
       "note": "Због реконструкције далековода и земени стубова на ДВ 10 kV из ТС 35/10 kV „Мали Зворник 2“ извод Радаљ, огранак за ТС Липово Брдо 1 и Липово Брдо 2.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d5e4eb6fc329",
@@ -39,7 +39,24 @@
       ],
       "reason": null,
       "note": "Због реконструкције далековода и земени стубова без напона остају две трафостанице: Баре 1 и Баре 2.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "61c5af6ad5d9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Мали Зворник",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Због реконструкције далековода и земени стубова на далеководу без напона остају све трафостанице у Брасини."
+      ],
+      "reason": null,
+      "note": "Због реконструкције далековода и земени стубова на далеководу без напона остају све трафостанице у Брасини.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -106,6 +123,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

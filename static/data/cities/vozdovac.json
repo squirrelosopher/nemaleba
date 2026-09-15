@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "54c0c2c00cb3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље М.МОКРИ ЛУГ: БРАЋЕ МИЛИЋ: 5"
-      ],
-      "reason": null,
-      "note": "Насеље М.МОКРИ ЛУГ: БРАЋЕ МИЛИЋ: 5,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2d04a7e8b35f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-14",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "17. нова 11 – Зуце",
-        "Пут за Трешњу 58 – Рипањ"
-      ],
-      "reason": null,
-      "note": "Вождовац: 17. нова 11 – Зуце, Пут за Трешњу 58 – Рипањ",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "1abaf4658867",
       "utility": "water",
       "kind": "planned",
@@ -63,6 +28,26 @@
       "reason": null,
       "note": "ВОЖДОВАЦ \n Због стављања у функцију новоположеног цевовода у општини Вождовац, у уторак, 15. септембра 2026. године, у периоду од 8.00 до 18.00 сати , без воде ће остати потрошачи у следећим улицама: \n \n Љубићкој, \n Хусовој, \n Љубе Недића, \n Данијеловој, \n Војводе Скопљанца, \n Кумодрашкој (од Љубе Недића до броја 23) и \n Криволачкој. \n \n За најнужније потребе за пијаћом водом обезбеђене су ауто-цистерне.\n\nМолимо потрошаче да припреме неопходну залиху воде за пиће и основне потребе.",
       "sourceUrl": "https://www.bvk.rs/planirani-radovi/"
+    },
+    {
+      "id": "14afcf6d04fa",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Умчарска 2",
+        "Калемарска 1. прилаз 21 – Јајинци",
+        "17. нова 11 – Зуце",
+        "Пут за Трешњу 58 – Рипањ"
+      ],
+      "reason": null,
+      "note": "Вождовац: Умчарска 2, Калемарска 1. прилаз 21 – Јајинци, 17. нова 11 – Зуце, Пут за Трешњу 58 – Рипањ",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
   "history": [
@@ -130,6 +115,11 @@
       "date": "2026-09-14",
       "electricityOutages": 1,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 0,
+      "waterOutages": 2
     }
   ]
 }

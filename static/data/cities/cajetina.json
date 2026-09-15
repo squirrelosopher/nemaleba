@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Смиљанићи Љубиш",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "0b2e45926044",
@@ -41,7 +41,7 @@
       ],
       "reason": null,
       "note": "Смиљански Закоси, Шаиновци, Саставци, Водице и Жупан Бара",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "c4b193e516e3",
@@ -60,7 +60,7 @@
       ],
       "reason": null,
       "note": "Кићаново брдо, Кобиља Глава, Масница и Стругара Рибница.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "f33a687785fe",
@@ -81,6 +81,30 @@
       ],
       "reason": null,
       "note": "Сирогојно засеоци - Бјеличићи, Лучићи, Стаматовићи Ћалдовићи, Млала, Бјеличићи и Митрићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "176887563462",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Новаковићи",
+        "Јевтовићи",
+        "Лазаревићи",
+        "Обарадовићи",
+        "Бачевци",
+        "Савичићи",
+        "Трнава",
+        "Ђедовићи и Клисура."
+      ],
+      "reason": null,
+      "note": "Новаковићи, Јевтовићи, Лазаревићи, Обарадовићи, Бачевци, Савичићи, Трнава, Ђедовићи и Клисура.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
@@ -148,6 +172,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

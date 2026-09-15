@@ -23,7 +23,7 @@
       ],
       "reason": null,
       "note": "Део Мале Плане код Циглане,Губетин,Сува Чесма и Тасић Коп",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5df31e1d65f7",
@@ -40,7 +40,7 @@
       ],
       "reason": null,
       "note": "Део ул Генерала Транијеа према центру",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -107,6 +107,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

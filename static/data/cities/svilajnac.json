@@ -5,25 +5,7 @@
     "nameLatin": "Svilajnac",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [
-    {
-      "id": "85b9aa34a776",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Свилајнац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Мишарска од бр. 1 до 37 и Милешевска од бр. 21 до 43"
-      ],
-      "reason": null,
-      "note": "Мишарска од бр. 1 до 37 и Милешевска од бр. 21 до 43",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-07",
@@ -53,6 +35,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

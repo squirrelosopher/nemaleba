@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "d5a1ebf7a8ae",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Тутин",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Месне заједнице: Црквине, Морани, Делимеђе и Мелаје."
-      ],
-      "reason": null,
-      "note": "Месне заједнице: Црквине, Морани, Делимеђе и Мелаје.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "cf2c997086ec",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,24 @@
       ],
       "reason": null,
       "note": "Месне заједнице: Црквине, Морани, Делимеђе и Мелаје.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f23dea50ccdf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Тутин",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Месне заједнице: Црквине, Морани, Делимеђе и Мелаје."
+      ],
+      "reason": null,
+      "note": "Месне заједнице: Црквине, Морани, Делимеђе и Мелаје.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -105,6 +105,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

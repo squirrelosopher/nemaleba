@@ -5,7 +5,28 @@
     "nameLatin": "Prijepolje",
     "branchCyrillic": "Ужице"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "731b3a11da15",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Пријепоље",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насеља Метаљка",
+        "део Суводола",
+        "део Калдрме",
+        "Јездовића Коса и Равни."
+      ],
+      "reason": null,
+      "note": "Насеља Метаљка, део Суводола, део Калдрме, Јездовића Коса и Равни.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
@@ -69,6 +90,11 @@
     },
     {
       "date": "2026-09-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
       "electricityOutages": 0,
       "waterOutages": 0
     }

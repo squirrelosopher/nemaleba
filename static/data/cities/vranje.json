@@ -7,18 +7,6 @@
   },
   "outages": [
     {
-      "id": "df592d7565fd",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-07",
-      "areaLabel": "Ранутовац",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у селу Ранутовац  без воде биће потрошачи тог села као и село Бресница и Моштаница до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/07-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
       "id": "6cefe1d61f5c",
       "utility": "water",
       "kind": "emergency",
@@ -41,6 +29,18 @@
       "reason": null,
       "note": "Због оштећења на водоводној мрежи у  улици Кнеза Милоша,   без воде биће потрошачи те улице и околне   до завршетка радова.",
       "sourceUrl": "https://vodovodvranje.rs/14-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "eaa622084403",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Врање",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у Видовданској улици,  без воде биће потрошачи те улице до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/15-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
     }
   ],
   "history": [
@@ -106,6 +106,11 @@
     },
     {
       "date": "2026-09-14",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-15",
       "electricityOutages": 0,
       "waterOutages": 1
     }

@@ -7,25 +7,6 @@
   },
   "outages": [
     {
-      "id": "dc6c2a40e71e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-14",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Мало Орашје",
-        "ул. Јована Рашковића",
-        "Крагујевачка"
-      ],
-      "reason": null,
-      "note": "Мало Орашје, ул. Јована Рашковића, Крагујевачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f76db562eb1b",
       "utility": "electricity",
       "kind": "planned",
@@ -48,7 +29,7 @@
       ],
       "reason": null,
       "note": "Коларски пут иза обилазнице, улаз у село од стране Смедерева, део села око вашаришта, ул. Смедеревска, 17.октобра, Народног фронта, 1. маја, Саве Грујића, Железнича",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b0ede80b05c3",
@@ -65,7 +46,7 @@
       ],
       "reason": null,
       "note": "\"Осипаоница: ул. Београдска 50-125, Хајдук Вељкова, 7. јули, Првог Српског устанка, Устаничка, Железничка и корисници око железничке станице\r\nЛугавчина: Петра Драпшина, 16. октобра 70-145\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "5fc026d51735",
@@ -82,6 +63,40 @@
       ],
       "reason": null,
       "note": "\"Лугавчина: ул. 16. октобра 167-217, Србина, Гробљанска, Ново насеље, Вука Караџића, Партизанска\r\nСараорци: улаз у село, ул. Краља Александра, Радета Марковића, Ђурђевданска\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "691de50bcc13",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Мала Крсна-ул. Слободана Вељковића"
+      ],
+      "reason": null,
+      "note": "Мала Крсна-ул. Слободана Вељковића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "f5cf28207447",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "11:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "ул. Чеховљева"
+      ],
+      "reason": null,
+      "note": "ул. Чеховљева",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
@@ -148,6 +163,11 @@
     },
     {
       "date": "2026-09-14",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-15",
       "electricityOutages": 1,
       "waterOutages": 0
     }

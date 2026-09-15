@@ -7,20 +7,37 @@
   },
   "outages": [
     {
-      "id": "2ce44d24009d",
+      "id": "889421673899",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
+      "areaLabel": "Савски венац",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Булевар кнеза Александра Карађорђевића бб"
+      ],
+      "reason": null,
+      "note": "Савски венац: Булевар кнеза Александра Карађорђевића бб",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "f10d499f7336",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
       "areaLabel": "Савски венац",
       "time": {
         "start": null,
         "end": "22:00"
       },
       "streets": [
-        "Савска 31"
+        "Незнаног јунака 32а"
       ],
       "reason": null,
-      "note": "Савски венац: Савска 31",
+      "note": "Савски венац: Незнаног јунака 32а",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
@@ -38,7 +55,7 @@
       ],
       "reason": null,
       "note": "Југ Богданова 12",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -106,6 +123,11 @@
       "date": "2026-09-14",
       "electricityOutages": 0,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 0,
+      "waterOutages": 2
     }
   ]
 }

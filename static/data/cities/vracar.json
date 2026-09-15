@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "a993a2552930",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-14",
-      "areaLabel": "Врачар",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Јована Рајића бб (угао Веле Нигринове)"
-      ],
-      "reason": null,
-      "note": "Врачар: Јована Рајића бб (угао Веле Нигринове)",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "e5af26532415",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "ГОЛСВОРДИЈЕВА: 20-36,40,13-13,21-29,35, ХАЏИ-ЂЕРИНА: 6-8,16-18,22-22,23,27, ХАЏИ-ПРОДАНОВА: 12-20,24-26,9,13-15,19-23, МОЛЕРОВА: 68-78,84,43,47-51,57,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "47f01c23cd48",
@@ -55,7 +38,24 @@
       ],
       "reason": null,
       "note": "МЕТОХИЈСКА: 2Б,14,34,11-13,17-19, НИКОЛЕ СТЕФАНОВИЋА: 2,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "df857f901982",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Врачар",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Београдска 24"
+      ],
+      "reason": null,
+      "note": "Врачар: Београдска 24",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
       "id": "af8b81b15173",
@@ -72,7 +72,7 @@
       ],
       "reason": null,
       "note": "БУЛЕВАР ОСЛОБОЂЕЊА: 1-7,11-13, СВЕТОГ САВЕ: 1, ТРГ СЛАВИЈА: ББ,ББ,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -139,6 +139,11 @@
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 2,
       "waterOutages": 1
     }
   ]

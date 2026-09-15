@@ -7,20 +7,6 @@
   },
   "outages": [
     {
-      "id": "60da350d9fcf",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-08",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Горња зона – прекид водоснабдевања и поправка кварова на водоводној мрежи"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Горња зона – прекид водоснабдевања и поправка кварова на водоводној мрежи Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-08-09-2026-god/"
-    },
-    {
       "id": "227a359d6c36",
       "utility": "water",
       "kind": "emergency",
@@ -65,6 +51,21 @@
       "reason": "Санација кварова на водоводној мрежи",
       "note": "Борско Језеро – квар на главној водоводној мрежи Металург Кварови на мерним местима – у шахтама",
       "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-ponedeljak-14-09-2026-god/"
+    },
+    {
+      "id": "c22b75a9b067",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Бањско Поље – Врањска улица број 8",
+        "Чокањица"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Бањско Поље – Врањска улица број 8 Чокањица Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-15-09-2026-god/"
     }
   ],
   "history": [
@@ -130,6 +131,11 @@
     },
     {
       "date": "2026-09-14",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-15",
       "electricityOutages": 0,
       "waterOutages": 1
     }

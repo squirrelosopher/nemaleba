@@ -7,20 +7,20 @@
   },
   "outages": [
     {
-      "id": "a41a70db3390",
+      "id": "52569c538566",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "areaLabel": "Гроцка",
       "time": {
         "start": null,
-        "end": "22:00"
+        "end": "15:00"
       },
       "streets": [
-        "Косовске девојке 2 – Винча"
+        "29. новембра 9 – Лештане"
       ],
       "reason": null,
-      "note": "Гроцка: Косовске девојке 2 – Винча",
+      "note": "Гроцка: 29. новембра 9 – Лештане",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "Насеље ВРЧИН: АУТОПУТ ЗА НИШ: ,ББ,1, БЕОГРАДСКА: 28Б,112-122,126-140Б,144-148А,152-152Б,156Б,83-101,105-107А,113-115,133, ЈАНКА КАТИЋА: 2-6,10,16,20,24,32-34,48-52,56,3-5,35-37,43-47, ОРЛОВИЧКА: 4-10,1,5-13, ОРЛОВИЧКА 1 ПРИЛАЗ: 10, ОРЛОВИЧКА 2.ДЕО: 2, ПУТ ЗА БОЛЕЧ: 3-7Б,15-15Ф,19, ПУТ ЗА СЕЛИШТЕ: 7-15,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -104,6 +104,11 @@
     },
     {
       "date": "2026-09-14",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-15",
       "electricityOutages": 0,
       "waterOutages": 1
     }

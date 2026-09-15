@@ -130,6 +130,50 @@
       "reason": null,
       "note": "Тренутно је у току санација квара на водоводној мрежи у Краљевачкој улици и Стејановачком путу у Руми.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-76/"
+    },
+    {
+      "id": "c447cd52bf19",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Врдник",
+      "time": null,
+      "streets": [
+        "Мирка Лаћарца",
+        "Новој колонији"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улици Мирка Лаћарца и Новој колонији у Врднику.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-vrdnik-66/"
+    },
+    {
+      "id": "2590cc7525ff",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Рума",
+      "time": null,
+      "streets": [
+        "Сремској улици",
+        "Иришком друму"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у Сремској улици и Иришком друму у Руми.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-77/"
+    },
+    {
+      "id": "9058ead2c941",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Стејановци",
+      "time": null,
+      "streets": [
+        "Васе Девића"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улици Васе Девића у Стејановцима.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-stejanovci-26/"
     }
   ],
   "history": [
@@ -197,6 +241,11 @@
       "date": "2026-09-14",
       "electricityOutages": 0,
       "waterOutages": 2
+    },
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 0,
+      "waterOutages": 3
     }
   ]
 }

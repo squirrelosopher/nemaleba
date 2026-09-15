@@ -63,6 +63,21 @@
       "reason": null,
       "note": "Тренутно је у току санација квара на водоводној мрежи у улици Иво лоле Рибара и Анке Матић у Иригу.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-38/"
+    },
+    {
+      "id": "01cb214f0c4d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Ириг",
+      "time": null,
+      "streets": [
+        "Небојше Јерковића",
+        "Анке Матић"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улици Небојше Јерковића и Анке Матић у Иригу.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-39/"
     }
   ],
   "history": [
@@ -128,6 +143,11 @@
     },
     {
       "date": "2026-09-14",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-15",
       "electricityOutages": 0,
       "waterOutages": 1
     }
