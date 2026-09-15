@@ -174,6 +174,23 @@
       "reason": null,
       "note": "Тренутно је у току санација квара на водоводној мрежи у улици Васе Девића у Стејановцима.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-stejanovci-26/"
+    },
+    {
+      "id": "02d3e551f0ab",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Рума",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "МЕСТО СТАРИ БАНОВЦИ\r\nУл. Грчка од бр.59/60 до краја улице\r\nУл.Стевана Тишме од ул.П.Шашић до краја улице"
+      ],
+      "reason": null,
+      "note": "МЕСТО СТАРИ БАНОВЦИ\r\nУл. Грчка од бр.59/60 до краја улице\r\nУл.Стевана Тишме од ул.П.Шашић до краја улице",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

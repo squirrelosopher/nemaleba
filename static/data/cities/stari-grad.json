@@ -7,20 +7,20 @@
   },
   "outages": [
     {
-      "id": "908305b5fb3f",
+      "id": "0b587bd68d46",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-15",
       "areaLabel": "Стари град",
       "time": {
         "start": null,
-        "end": "15:00"
+        "end": "22:00"
       },
       "streets": [
-        "Милорада Гавриловића 5"
+        "Дечанска бб"
       ],
       "reason": null,
-      "note": "Стари град: Милорада Гавриловића 5",
+      "note": "Стари град: Дечанска бб",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {

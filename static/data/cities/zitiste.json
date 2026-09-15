@@ -1,0 +1,34 @@
+{
+  "city": {
+    "id": "zitiste",
+    "nameCyrillic": "Житиште",
+    "nameLatin": "Žitište",
+    "branchCyrillic": "Зрењанин"
+  },
+  "outages": [
+    {
+      "id": "8f6474b4bdac",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Житиште",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "\"Житиште:\r\nдео Цара Душана (од Генерала Драпшина према Тргу Ослобођења)\r\nдео Трга Ослобођења\""
+      ],
+      "reason": null,
+      "note": "\"Житиште:\r\nдео Цара Душана (од Генерала Драпшина према Тргу Ослобођења)\r\nдео Трга Ослобођења\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-15",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

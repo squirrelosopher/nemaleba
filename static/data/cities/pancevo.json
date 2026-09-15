@@ -22,6 +22,34 @@
       "sourceUrl": "https://www.vodovodpa.rs/2026/09/08/8-9-2026/"
     },
     {
+      "id": "5244d60b7793",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Петра Прерадовића од Цара Лазара до улице Цара Душана"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остала Улица Петра Прерадовића од Цара Лазара до улице Цара Душана.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/09/15/15-9-2026-3/"
+    },
+    {
+      "id": "23c7ea6993e6",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "парна страна улице Жарка Зрењанина од Првомајске до Тозе Марковића"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остала парна страна улице Жарка Зрењанина од Првомајске до Тозе Марковића.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/09/15/15-9-2026-2/"
+    },
+    {
       "id": "045e9606c95f",
       "utility": "water",
       "kind": "emergency",
@@ -126,7 +154,7 @@
     {
       "date": "2026-09-15",
       "electricityOutages": 0,
-      "waterOutages": 1
+      "waterOutages": 3
     }
   ]
 }

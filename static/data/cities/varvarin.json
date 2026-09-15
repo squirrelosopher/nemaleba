@@ -5,7 +5,42 @@
     "nameLatin": "Varvarin",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "2b1019aa5d50",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Варварин",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Део насељеног места Бачина."
+      ],
+      "reason": null,
+      "note": "Део насељеног места Бачина.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "5551f888ff6a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Варварин",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део насељеног места Обреж (из ТС Обреж 3)"
+      ],
+      "reason": null,
+      "note": "Део насељеног места Обреж (из ТС Обреж 3)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-07",

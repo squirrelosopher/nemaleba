@@ -24,24 +24,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "7f6e9718c31e",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-15",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Булевар Арсенија Чарнојевића бб",
-        "Јурија Гагарина 128"
-      ],
-      "reason": null,
-      "note": "Нови Београд: Булевар Арсенија Чарнојевића бб, Јурија Гагарина 128",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "d9aed8bb8319",
       "utility": "electricity",
       "kind": "planned",
@@ -128,7 +110,7 @@
     {
       "date": "2026-09-15",
       "electricityOutages": 1,
-      "waterOutages": 1
+      "waterOutages": 0
     }
   ]
 }

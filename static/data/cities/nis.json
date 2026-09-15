@@ -765,6 +765,23 @@
       "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-295/"
     },
     {
+      "id": "fa012cba0930",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Доња Врежина",
+      "time": {
+        "start": null,
+        "end": "21:00"
+      },
+      "streets": [
+        "Зеле Вељковића"
+      ],
+      "reason": null,
+      "note": "ХАВАРИЈА У СЕЛУ ДОЊА ВРЕЖИНА след настанка хаварије на водоводној мрежи у улици Зеле Вељковића, водоснабдевање ће бити у прекиду до 21 час у поменутој улици као и у делу села Доња Врежина.",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%b2%d0%b0%d0%b6%d0%bd%d0%be-%d0%be%d0%b1%d0%b0%d0%b2%d0%b5%d1%88%d1%82%d0%b5%d1%9a%d0%b5-%d0%be-%d0%b2%d0%be%d0%b4%d0%be%d1%81%d0%bd%d0%b0%d0%b1%d0%b4%d0%b5%d0%b2%d0%b0%d1%9a%d1%83-7/"
+    },
+    {
       "id": "9dff73280fbc",
       "utility": "water",
       "kind": "emergency",
@@ -874,6 +891,79 @@
       "reason": null,
       "note": "РАДОВИ НА МРЕЖИ У СЕЛУ ПРВА КУТИНА оком дана вршиће се радови на водоводној мрежи у улици Светог Архангела Гаврила код броја 106. Због поправке водоводне мреже могући су краћи прекиди у водоснабдевању до 15 часова у поменутој улици",
       "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-295/"
+    },
+    {
+      "id": "153cf8f13bb9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:00",
+        "end": "12:30"
+      },
+      "streets": [
+        "делови Доњег Међурова",
+        "Бубањ села",
+        "Горњег Међурова;"
+      ],
+      "reason": null,
+      "note": "делови Доњег Међурова, Бубањ села, Горњег Међурова;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "647596874f2b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "делови улица Браће Вуксановић (23)",
+        "Делијски Вис (5-16",
+        "20",
+        "22",
+        "26)",
+        "Гаџинханска (1-10",
+        "бб);"
+      ],
+      "reason": null,
+      "note": "делови улица Браће Вуксановић (23), Делијски Вис (5-16,20,22,26), Гаџинханска (1-10,бб);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "6a3fb7a1e909",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "делови улица Димитрија Туцовића (35",
+        "39",
+        "41)",
+        "Димитровградска (1",
+        "4",
+        "6)",
+        "Ђуре Јакшића (1-57",
+        "бб)",
+        "Гоце Делчева (2-11",
+        "бб)",
+        "Мостарска (10-23)",
+        "Шантићева (35)",
+        "Војводе Бојовића (7",
+        "12-24)",
+        "Војводе Путника (36а);"
+      ],
+      "reason": null,
+      "note": "делови улица Димитрија Туцовића (35,39,41), Димитровградска (1,4,6), Ђуре Јакшића (1-57,бб), Гоце Делчева (2-11,бб), Мостарска (10-23), Шантићева (35), Војводе Бојовића (7, 12-24), Војводе Путника (36а);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -945,7 +1035,7 @@
     {
       "date": "2026-09-15",
       "electricityOutages": 4,
-      "waterOutages": 7
+      "waterOutages": 8
     }
   ]
 }

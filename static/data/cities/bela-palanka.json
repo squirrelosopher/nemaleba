@@ -5,7 +5,25 @@
     "nameLatin": "Bela Palanka",
     "branchCyrillic": "Пирот"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "bb2e18456b73",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Бела Паланка",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Кременица."
+      ],
+      "reason": null,
+      "note": "Кременица.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

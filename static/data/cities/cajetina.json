@@ -24,6 +24,25 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "c4b193e516e3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Кићаново брдо",
+        "Кобиља Глава",
+        "Масница и Стругара Рибница."
+      ],
+      "reason": null,
+      "note": "Кићаново брдо, Кобиља Глава, Масница и Стругара Рибница.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "0b2e45926044",
       "utility": "electricity",
       "kind": "planned",
@@ -41,25 +60,6 @@
       ],
       "reason": null,
       "note": "Смиљански Закоси, Шаиновци, Саставци, Водице и Жупан Бара",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "c4b193e516e3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-16",
-      "areaLabel": "Чајетина",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Кићаново брдо",
-        "Кобиља Глава",
-        "Масница и Стругара Рибница."
-      ],
-      "reason": null,
-      "note": "Кићаново брдо, Кобиља Глава, Масница и Стругара Рибница.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {

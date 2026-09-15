@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "889421673899",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-15",
-      "areaLabel": "Савски венац",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Булевар кнеза Александра Карађорђевића бб"
-      ],
-      "reason": null,
-      "note": "Савски венац: Булевар кнеза Александра Карађорђевића бб",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "f10d499f7336",
       "utility": "water",
       "kind": "emergency",
@@ -127,7 +110,7 @@
     {
       "date": "2026-09-15",
       "electricityOutages": 0,
-      "waterOutages": 2
+      "waterOutages": 1
     }
   ]
 }

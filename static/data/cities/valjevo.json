@@ -39,6 +39,44 @@
       "reason": null,
       "note": "Купци села С.Гора , Лелић,Богатић,Д.Лесковице,Г.Лесковице,Таор",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "537f1e786e12",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "купци дела села Стубо",
+        "Ровни",
+        "Мијачи",
+        "Поћута",
+        "Вујиновача"
+      ],
+      "reason": null,
+      "note": "купци дела села Стубо, Ровни , Мијачи, Поћута, Вујиновача",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "311a61db87e5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "11:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Купци дела Дивчибара (око Пламенца)"
+      ],
+      "reason": null,
+      "note": "Купци дела Дивчибара (око Пламенца)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

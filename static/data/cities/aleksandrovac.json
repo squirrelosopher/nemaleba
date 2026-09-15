@@ -5,7 +5,60 @@
     "nameLatin": "Aleksandrovac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "8e7d0074698b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Александровац",
+      "time": {
+        "start": "08:30",
+        "end": "10:00"
+      },
+      "streets": [
+        "Део насељеног места Дашница (Беговац",
+        "према Спектру)"
+      ],
+      "reason": null,
+      "note": "Део насељеног места Дашница (Беговац, према Спектру)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "cd2170e297e8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Александровац",
+      "time": {
+        "start": "10:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део насељрног места Тулеш (од трафостанице према школи)"
+      ],
+      "reason": null,
+      "note": "Део насељрног места Тулеш (од трафостанице према школи)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "5491344751db",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Александровац",
+      "time": {
+        "start": "12:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Део насеља Превоје (Смонице и Рачићи)"
+      ],
+      "reason": null,
+      "note": "Део насеља Превоје (Смонице и Рачићи)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

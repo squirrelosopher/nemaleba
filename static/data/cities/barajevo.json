@@ -7,24 +7,7 @@
   },
   "outages": [
     {
-      "id": "bf98591a7f29",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-15",
-      "areaLabel": "Барајево",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Ибарски пут 79 – Мељак"
-      ],
-      "reason": null,
-      "note": "Барајево: Ибарски пут 79 – Мељак",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "c570a0aaeefb",
+      "id": "404900699b8b",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-15",
@@ -34,10 +17,11 @@
         "end": "22:00"
       },
       "streets": [
-        "Мике Ћурчића бб"
+        "Мике Ћурчића бб",
+        "6. личке дивизије 32 – Баћевац"
       ],
       "reason": null,
-      "note": "Барајево: Мике Ћурчића бб",
+      "note": "Барајево: Мике Ћурчића бб, 6. личке дивизије 32 – Баћевац",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
@@ -110,7 +94,7 @@
     {
       "date": "2026-09-15",
       "electricityOutages": 0,
-      "waterOutages": 2
+      "waterOutages": 1
     }
   ]
 }

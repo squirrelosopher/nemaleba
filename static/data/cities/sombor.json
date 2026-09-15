@@ -90,6 +90,25 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "657adb2593bf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "08:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Карађорђева од броја 50-70 и 39-61",
+        "Краља Петра 1 од броја 6-18 и 3-39",
+        "Хероја Пинкија од броја 2-10 и 1-15"
+      ],
+      "reason": null,
+      "note": "Карађорђева од броја 50-70 и 39-61,Краља Петра 1 од броја 6-18 и 3-39,Хероја Пинкија од броја 2-10 и 1-15",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "a805e75284f3",
       "utility": "electricity",
       "kind": "planned",
@@ -170,6 +189,45 @@
       "reason": null,
       "note": "ЛУГОВО ОД РАСКРСНИЦЕ ЗА ЖАРКОВАЦ ПРЕМА СОМБОРУ ДЕСНО",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f466b2fad701",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "СОМБОР",
+        "УЛИЦЕ:ИЛИЈЕ ГАРАШАНИНА.А.ЦЕСАРЦА",
+        "НЕЗНАНОГ ЈУНАКА",
+        "ИВЕ АНДРИЋА",
+        "В.ПЕЛАГИЋА",
+        "А.ШЕНОЕ",
+        "ВЕНАЦ ПЕТРОВЕ ГОРЕ",
+        "Д.СТАНИЧКОВА",
+        "ШКОЛСКА",
+        "СОНЋАНСКИ ПУТ",
+        "РОЗЕ ЛУКСЕМБУРГ",
+        "Б.РИБНИКАРА",
+        "Ћ.ДАНИЧИЋА",
+        "Ј.ПОПОВИЋА",
+        "В.МИТРОВИЋ",
+        "ДАЛМАТИНСКА",
+        "ДУЈЕ МАРКОВИЋА",
+        "Ж.Ј.ШПАНЦА",
+        "СТЕВАНА МОКРАЊЦА ЛИПОВ ЛАД",
+        "Р.СИМОНОВИЋА",
+        "А.ШЕНОЕ",
+        "САНКА РАДОСАВЉЕВИЋА",
+        "Б.НУШИЋА"
+      ],
+      "reason": null,
+      "note": "СОМБОР, УЛИЦЕ:ИЛИЈЕ ГАРАШАНИНА.А.ЦЕСАРЦА,НЕЗНАНОГ ЈУНАКА,ИВЕ АНДРИЋА,В.ПЕЛАГИЋА,А.ШЕНОЕ,ВЕНАЦ ПЕТРОВЕ ГОРЕ,Д.СТАНИЧКОВА,ШКОЛСКА,СОНЋАНСКИ ПУТ,РОЗЕ ЛУКСЕМБУРГ,Б.РИБНИКАРА,Ћ.ДАНИЧИЋА,Ј.ПОПОВИЋА,В.МИТРОВИЋ,ДАЛМАТИНСКА,ДУЈЕ МАРКОВИЋА,Ж.Ј.ШПАНЦА,СТЕВАНА МОКРАЊЦА ЛИПОВ ЛАД,Р.СИМОНОВИЋА,А.ШЕНОЕ,САНКА РАДОСАВЉЕВИЋА,Б.НУШИЋА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

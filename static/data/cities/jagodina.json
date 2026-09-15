@@ -76,23 +76,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "72176b9565f1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Јагодина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Ружице Милановић"
-      ],
-      "reason": null,
-      "note": "Ружице Милановић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
-    },
-    {
       "id": "76512c00956e",
       "utility": "electricity",
       "kind": "planned",
@@ -107,6 +90,23 @@
       ],
       "reason": null,
       "note": "Део села Милошево",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "72176b9565f1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Јагодина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Ружице Милановић"
+      ],
+      "reason": null,
+      "note": "Ружице Милановић",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],

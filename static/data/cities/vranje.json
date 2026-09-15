@@ -41,6 +41,50 @@
       "reason": null,
       "note": "Због оштећења на водоводној мрежи у Видовданској улици,  без воде биће потрошачи те улице до завршетка радова.",
       "sourceUrl": "https://vodovodvranje.rs/15-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "ca867338e52d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Врање",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део насеља Рашка",
+        "и део Сувог дола"
+      ],
+      "reason": null,
+      "note": "део насеља Рашка, и део Сувог дола",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "ed21739c4a1b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-16",
+      "areaLabel": "Врање",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део Боре Станковића",
+        "део Дунавске",
+        "део Доситејеве",
+        "Лењинова",
+        "Баба Златина",
+        "Оца Јустина Поповића",
+        "део Јована Јовановића Лунге",
+        "део Бранислава Нушића",
+        "Љубљанска",
+        "део Моше Пијаде."
+      ],
+      "reason": null,
+      "note": "Део Боре Станковића, део Дунавске, део Доситејеве, Лењинова, Баба Златина, Оца Јустина Поповића, део Јована Јовановића Лунге, део Бранислава Нушића, Љубљанска, део Моше Пијаде.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

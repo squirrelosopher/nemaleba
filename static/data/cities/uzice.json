@@ -25,6 +25,24 @@
       "reason": null,
       "note": "Потрошачи из Караклића, Церовића брда, Ђерића , Јоцића као и део потрошача из Дубаца",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "507cb6430464",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Потрошачи из улице Међај",
+        "бројеви од 19 до 45"
+      ],
+      "reason": null,
+      "note": "Потрошачи из улице Међај, бројеви од 19 до 45",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
