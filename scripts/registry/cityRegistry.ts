@@ -28,7 +28,9 @@ export class CityRegistry {
     }
 
     for (const city of previous?.cities ?? []) {
-      this.add(city);
+      if (this.carriesForward(city)) {
+        this.add(city);
+      }
     }
   }
 
@@ -83,6 +85,23 @@ export class CityRegistry {
     }
 
     return placeNamed(name, branch)?.nameCyrillic ?? name;
+  }
+
+  // A page outlives the outage that created it, so a city with nothing scheduled still
+  // answers instead of disappearing and a name cannot flicker between runs. The cost used
+  // to be that a name admitted once was admitted for good: Чикарица, BVK's misspelling of
+  // Чукарица, kept a Belgrade page and its own daily history for as long as the registry
+  // was carried forward, and deleting the page only had it written again next run.
+  //
+  // So a page is carried forward only while something still vouches for its name. The
+  // register is that, for everywhere this site discovered rather than wrote down; the
+  // branches and municipalities written down are seeded above and recognised here as
+  // already ours, which is what keeps Београд and Ниш -- the two cities made of
+  // municipalities, which no register names.
+  private carriesForward(city: City): boolean {
+    return (
+      this.cities.has(city.id) || placeNamed(city.nameCyrillic, city.branchCyrillic) !== undefined
+    );
   }
 
   // First writer wins, which is what keeps a seeded spelling from being replaced by a
