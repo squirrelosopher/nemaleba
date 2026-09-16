@@ -3,6 +3,8 @@ export interface Environment {
   ALLOWED_ORIGIN: string;
   ADMIN_TOKEN: string;
   COMMENT_SALT: string;
+  GITHUB_REPOSITORY: string;
+  GITHUB_TOKEN: string;
 }
 
 const HTTP_OK = 200;
@@ -461,6 +463,58 @@ async function handlePostComment(
   return json({ ok: true }, headers);
 }
 
+// GitHub's `schedule` trigger is best-effort, and on this repository it was dropping
+// roughly three scheduled runs in five -- silently. On 16 September 2026 five consecutive
+// morning slots never fired, and that day's Kragujevac announcement sat uncollected for
+// three hours while the site showed nothing. Cloudflare's scheduler keeps time, so it
+// keeps the hours here and GitHub is merely asked to do the work.
+//
+// refresh.yml keeps its own cron as a fallback, which costs nothing: it holds one run at a
+// time in its concurrency group, so a doubled trigger queues rather than duplicating.
+const GITHUB_API = 'https://api.github.com';
+const GITHUB_API_VERSION = '2022-11-28';
+const REFRESH_WORKFLOW = 'refresh.yml';
+const REFRESH_REF = 'main';
+const DISPATCH_USER_AGENT = 'nemaleba-refresh';
+
+// The cron that sweeps expired comments, as written in wrangler.toml. Every other cron
+// there is a collection slot.
+const COMMENT_SWEEP_CRON = '17 * * * *';
+
+async function expireComments(environment: Environment): Promise<void> {
+  const since = Math.floor(Date.now() / 1000) - COMMENT_LIFETIME_SECONDS;
+
+  await environment.SUBSCRIPTIONS.prepare('DELETE FROM comments WHERE created_at <= ?')
+    .bind(since)
+    .run();
+}
+
+async function dispatchRefresh(environment: Environment): Promise<void> {
+  const url =
+    `${GITHUB_API}/repos/${environment.GITHUB_REPOSITORY}` +
+    `/actions/workflows/${REFRESH_WORKFLOW}/dispatches`;
+
+  const response = await fetch(url, {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${environment.GITHUB_TOKEN}`,
+      Accept: 'application/vnd.github+json',
+      'X-GitHub-Api-Version': GITHUB_API_VERSION,
+      'User-Agent': DISPATCH_USER_AGENT
+    },
+    body: JSON.stringify({ ref: REFRESH_REF })
+  });
+
+  if (response.status === HTTP_NO_CONTENT) {
+    return;
+  }
+
+  // Reported rather than thrown, because nothing here can retry it and a failed dispatch
+  // is not an outage of this worker. An expired token looks exactly like a stalled
+  // schedule, so what catches it is the freshness check on the next run that does happen.
+  console.error(`refresh dispatch refused: ${response.status} ${await response.text()}`);
+}
+
 export default {
   async fetch(request: Request, environment: Environment): Promise<Response> {
     const headers = corsHeaders(environment.ALLOWED_ORIGIN, request.headers.get('Origin'));
@@ -524,11 +578,15 @@ export default {
     }
   },
 
-  async scheduled(_event: ScheduledEvent, environment: Environment): Promise<void> {
-    const since = Math.floor(Date.now() / 1000) - COMMENT_LIFETIME_SECONDS;
+  // Two jobs on two cadences, told apart by the pattern that woke the worker: comments
+  // expire hourly, and the outage collector is dispatched on the hours the utilities
+  // actually publish.
+  async scheduled(event: ScheduledEvent, environment: Environment): Promise<void> {
+    if (event.cron === COMMENT_SWEEP_CRON) {
+      await expireComments(environment);
+      return;
+    }
 
-    await environment.SUBSCRIPTIONS.prepare('DELETE FROM comments WHERE created_at <= ?')
-      .bind(since)
-      .run();
+    await dispatchRefresh(environment);
   }
 };

@@ -4,9 +4,13 @@ compatibility_date = "2026-08-01"
 
 [vars]
 ALLOWED_ORIGIN = "https://nemaleba-6429d2.gitlab.io,https://nemaleba.rs"
+GITHUB_REPOSITORY = "squirrelosopher/nemaleba"
 
+# The first sweeps expired comments. The rest are the collection slots, mirroring the
+# publishing profile documented in .github/workflows/refresh.yml -- they live here because
+# Cloudflare's scheduler keeps the hours it is given and GitHub's drops them.
 [triggers]
-crons = ["17 * * * *"]
+crons = ["17 * * * *", "10 3-9 * * *", "10 10-20/2 * * *"]
 
 [[d1_databases]]
 binding = "SUBSCRIPTIONS"

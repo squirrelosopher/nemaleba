@@ -114,11 +114,13 @@ jobs:
   # about, so it can only be sent once the build carrying that row is being served --
   # sending earlier pointed readers at a page saying the outage had been archived.
   #
-  # Only the schedule sends. A code push has nothing to announce, and a push-triggered run
-  # would send alongside the scheduled one, both reading the ledger before either wrote.
+  # Every run sends except a code push. A push has nothing to announce, and a
+  # push-triggered run would send alongside a scheduled one, both reading the ledger
+  # before either wrote. Collection slots now arrive as workflow_dispatch from the worker
+  # cron rather than as `schedule`, and gating on the schedule alone silenced them.
   notify:
     needs: deploy
-    if: github.event_name == 'schedule'
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -202,3 +204,26 @@ jobs:
           path: static/data
 
       - run: npx tsx scripts/ci/checkLedger.ts static/data/unknown-places.json
+
+  # How long the collector has been quiet, read off the dataset committed by the previous
+  # run. A check inside the pipeline cannot notice the pipeline not running, so this
+  # reports the gap on the next run that does happen -- which, with the worker cron
+  # dispatching, is within the hour. It is what catches the worker stopping, or its token
+  # expiring, instead of the silence lasting until somebody happens to look at the site.
+  #
+  # Deliberately not given the dataset artifact: the point of comparison is the branch's
+  # own registry.json, written by the run before this one.
+  freshness:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - run: npx tsx scripts/ci/checkFreshness.ts
