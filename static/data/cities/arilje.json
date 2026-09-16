@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "841eed7e2368",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Ариље",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Насеља: Рашкова Бара, Миротин, Богојевићи (од Миротина до Црепане), Пајановац (Драгојевац)."
-      ],
-      "reason": null,
-      "note": "Насеља: Рашкова Бара, Миротин, Богојевићи (од Миротина до Црепане), Пајановац (Драгојевац).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "2d70ccca2107",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Села: Крушчица, Радошево, Висока и Палеж (Гривска).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

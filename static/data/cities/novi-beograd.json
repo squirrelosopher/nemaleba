@@ -7,21 +7,21 @@
   },
   "outages": [
     {
-      "id": "66bb5810ec1e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
+      "id": "a4345f6bc1e5",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-16",
       "areaLabel": "Нови Београд",
       "time": {
-        "start": "09:00",
-        "end": "12:00"
+        "start": null,
+        "end": "15:00"
       },
       "streets": [
-        "ПАРИСКЕ КОМУНЕ: 59-59б"
+        "Гандијева 191"
       ],
       "reason": null,
-      "note": "ПАРИСКЕ КОМУНЕ: 59-59б,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+      "note": "Нови Београд: Гандијева 191",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
       "id": "d9aed8bb8319",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "НАРОДНИХ ХЕРОЈА: 14-28,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -115,7 +115,7 @@
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

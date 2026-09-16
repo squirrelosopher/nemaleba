@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-15T22:51:57.088Z",
+  "generatedAt": "2026-09-16T08:32:58.814Z",
   "summary": {
     "date": "2026-09-16",
-    "electricityOutages": 208,
-    "waterOutages": 4,
+    "electricityOutages": 220,
+    "waterOutages": 33,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 24,
-        "waterOutages": 2
+        "electricityOutages": 35,
+        "waterOutages": 14
       },
       {
         "id": "subotica",
@@ -22,6 +22,18 @@
         "nameCyrillic": "Врбас",
         "electricityOutages": 13,
         "waterOutages": 0
+      },
+      {
+        "id": "kragujevac",
+        "nameCyrillic": "Крагујевац",
+        "electricityOutages": 4,
+        "waterOutages": 9
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 3,
+        "waterOutages": 7
       },
       {
         "id": "sombor",
@@ -84,12 +96,6 @@
         "waterOutages": 0
       },
       {
-        "id": "kragujevac",
-        "nameCyrillic": "Крагујевац",
-        "electricityOutages": 4,
-        "waterOutages": 0
-      },
-      {
         "id": "kula",
         "nameCyrillic": "Кула",
         "electricityOutages": 4,
@@ -144,8 +150,14 @@
         "waterOutages": 0
       },
       {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 0,
+        "waterOutages": 3
+      },
+      {
+        "id": "tutin",
+        "nameCyrillic": "Тутин",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -192,12 +204,6 @@
         "waterOutages": 0
       },
       {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 0,
-        "waterOutages": 2
-      },
-      {
         "id": "pozarevac",
         "nameCyrillic": "Пожаревац",
         "electricityOutages": 2,
@@ -206,12 +212,6 @@
       {
         "id": "rekovac",
         "nameCyrillic": "Рековац",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "tutin",
-        "nameCyrillic": "Тутин",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -422,8 +422,8 @@
     },
     {
       "date": "2026-09-16",
-      "electricityOutages": 89,
-      "waterOutages": 4
+      "electricityOutages": 90,
+      "waterOutages": 33
     }
   ],
   "providers": [

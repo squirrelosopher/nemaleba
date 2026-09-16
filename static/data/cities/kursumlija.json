@@ -5,59 +5,7 @@
     "nameLatin": "Kuršumlija",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [
-    {
-      "id": "64a00b577e75",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Косаничка Рача"
-      ],
-      "reason": null,
-      "note": "Косаничка Рача",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b740bd1b7c9e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Перуника"
-      ],
-      "reason": null,
-      "note": "Перуника",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "811efd1f3e5e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Жуч.Влахиња и Игриште"
-      ],
-      "reason": null,
-      "note": "Жуч.Влахиња и Игриште",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

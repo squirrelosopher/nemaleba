@@ -7,60 +7,6 @@
   },
   "outages": [
     {
-      "id": "ef1adf4b74da",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Део села Поточац"
-      ],
-      "reason": null,
-      "note": "Део села Поточац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f1ca7b3484af",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Део Мајора Марка преко пруге",
-        "део Војводе Степе",
-        "Пикулина",
-        "део Војводе Путника"
-      ],
-      "reason": null,
-      "note": "Део Мајора Марка преко пруге,део Војводе Степе,Пикулина,део Војводе Путника",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "05c779018503",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "10:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Део села Рашевица"
-      ],
-      "reason": null,
-      "note": "Део села Рашевица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "59a5dda660a8",
       "utility": "electricity",
       "kind": "planned",
@@ -76,7 +22,7 @@
       ],
       "reason": null,
       "note": "Село Бошњане , ЈП Србија Гас у Бошњану и део села Давидовац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "48d2f4522c0a",
@@ -93,7 +39,7 @@
       ],
       "reason": null,
       "note": "Део села Крежбинац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "df17700e07bc",
@@ -110,7 +56,7 @@
       ],
       "reason": null,
       "note": "Део села Бошњане",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "bd0ea3f59e0c",
@@ -127,7 +73,7 @@
       ],
       "reason": null,
       "note": "Део села Дреновац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "efdb6a6b783c",
@@ -144,7 +90,7 @@
       ],
       "reason": null,
       "note": "Део села Дреновац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "9edcd39be978",
@@ -164,7 +110,7 @@
       ],
       "reason": null,
       "note": "Део Мајора Марка преко пруге,део Војводе Степе,Пикулина,део Војводе Путника",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "fc5de471505c",
@@ -181,7 +127,7 @@
       ],
       "reason": null,
       "note": "Део села Ратаре",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "dec5d7223437",
@@ -198,7 +144,7 @@
       ],
       "reason": null,
       "note": "Део насеља Грза",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "edd616869588",
@@ -220,7 +166,7 @@
       ],
       "reason": null,
       "note": "Део Царице Милице,Свете Петке,Сопоћанска,Грачаничка,Љевишка,Жичка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

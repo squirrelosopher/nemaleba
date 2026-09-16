@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "0776bf6b89ee",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део Моравца у центру И према старом селу И део преко пруге код пружног прелаза"
-      ],
-      "reason": null,
-      "note": "Део Моравца у центру И према старом селу И део преко пруге код пружног прелаза",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "4b6355ac5643",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +22,7 @@
       ],
       "reason": null,
       "note": "Викенд насеље Бованско језеро, део од Брчке реке према Трубаревцу.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

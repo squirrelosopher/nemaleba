@@ -5,25 +5,7 @@
     "nameLatin": "Sokobanja",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "a2b2db01ed29",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Сокобања",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Сокобања ул. Светог Саве део од Општине до моста"
-      ],
-      "reason": null,
-      "note": "Сокобања ул. Светог Саве део од Општине до моста",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-01",

@@ -7,14 +7,14 @@
   },
   "outages": [
     {
-      "id": "0b587bd68d46",
+      "id": "98d01f99c54c",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "areaLabel": "Стари град",
       "time": {
         "start": null,
-        "end": "22:00"
+        "end": "15:00"
       },
       "streets": [
         "Дечанска бб"
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "ДОБРИЦЕ ЋОСИЋА: 6-10,14,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -115,7 +115,7 @@
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

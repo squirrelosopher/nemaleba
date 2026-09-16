@@ -7,14 +7,14 @@
   },
   "outages": [
     {
-      "id": "f10d499f7336",
+      "id": "d87c189f1f69",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "areaLabel": "Савски венац",
       "time": {
         "start": null,
-        "end": "22:00"
+        "end": "15:00"
       },
       "streets": [
         "Незнаног јунака 32а"
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "Југ Богданова 12",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -115,7 +115,7 @@
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

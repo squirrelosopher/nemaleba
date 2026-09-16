@@ -7,55 +7,20 @@
   },
   "outages": [
     {
-      "id": "7bac73b5c2a2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Раковица",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "КНЕЗА ВИШЕСЛАВА: 53-61Е, ПИЛОТА М ПЕТРОВИЋА: бб,ББ"
-      ],
-      "reason": null,
-      "note": "КНЕЗА ВИШЕСЛАВА: 53-61Е, ПИЛОТА М ПЕТРОВИЋА: бб,ББ,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "9b7bd510de5c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Раковица",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "СТАНКА ПАУНОВИЋА: 44-50,21, Насеље МИЉАКОВАЦ: ДИМИТРИЈА КОТУРОВИЋА: 54, ФРАНА ЛЕВСТИКА: 14,20,27-31"
-      ],
-      "reason": null,
-      "note": "СТАНКА ПАУНОВИЋА: 44-50,21, Насеље МИЉАКОВАЦ: ДИМИТРИЈА КОТУРОВИЋА: 54, ФРАНА ЛЕВСТИКА: 14,20,27-31,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c592bbd8ea0c",
+      "id": "1eee3786e2b7",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "areaLabel": "Раковица",
       "time": {
         "start": null,
-        "end": "22:00"
+        "end": "15:00"
       },
       "streets": [
-        "14. октобра 15",
-        "14. октобра 16"
+        "Сретена Младеновића Мике 14"
       ],
       "reason": null,
-      "note": "Раковица: 14. октобра 15, 14. октобра 16",
+      "note": "Раковица: Сретена Младеновића Мике 14",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
@@ -133,7 +98,7 @@
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

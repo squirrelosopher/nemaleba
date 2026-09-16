@@ -5,25 +5,7 @@
     "nameLatin": "Bogatić",
     "branchCyrillic": "Шабац"
   },
-  "outages": [
-    {
-      "id": "6935795fc526",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Богатић",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Без ел.енергије остаће у селу Дубљу улица Кнеза Милоша други део према брзој саобраћајници"
-      ],
-      "reason": null,
-      "note": "Без ел.енергије остаће у селу Дубљу улица Кнеза Милоша други део према брзој саобраћајници",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "3ce9dae40ff7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Бечеј",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Насеља Надаљ и Турија"
-      ],
-      "reason": null,
-      "note": "Насеља Надаљ и Турија",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "27cbb20492cd",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Надаљ : Улица Светозара Милетића од ул.Петра Драпшина до ул.Браће Јоцков , Улица Браће Пантић од ул.Светозара Милетића до ул.Бранка Радичевића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

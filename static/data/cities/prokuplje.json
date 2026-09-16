@@ -5,44 +5,7 @@
     "nameLatin": "Prokuplje",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [
-    {
-      "id": "702cb332c473",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Део Мале Плане код Циглане",
-        "Губетин",
-        "Сува Чесма и Тасић Коп"
-      ],
-      "reason": null,
-      "note": "Део Мале Плане код Циглане,Губетин,Сува Чесма и Тасић Коп",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5df31e1d65f7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Део ул Генерала Транијеа према центру"
-      ],
-      "reason": null,
-      "note": "Део ул Генерала Транијеа према центру",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

@@ -5,43 +5,7 @@
     "nameLatin": "Pirot",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "08cd35c8686e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Рагодеш",
-        "Орља."
-      ],
-      "reason": null,
-      "note": "Рагодеш,Орља.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "62e8fad43766",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "10:15",
-        "end": "12:00"
-      },
-      "streets": [
-        "део улице Драгољуба Миленковића."
-      ],
-      "reason": null,
-      "note": "део улице Драгољуба Миленковића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

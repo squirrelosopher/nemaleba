@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "a63029a85f43",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "БЕШКА: Део викенд зоне Калакача 1"
-      ],
-      "reason": null,
-      "note": "БЕШКА: Део викенд зоне Калакача 1",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b61872242837",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "БЕШКА: Део викенд зоне Калакача 1- испод моста десно",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f36fa080b501",
@@ -60,7 +43,7 @@
       ],
       "reason": null,
       "note": "\"ИНЂИЈА :Ул. Војводе Степе од бр.16 до бр.28 (парна старана)\r\nОТП Банка, Уникредит Банка , Социјално, ПИО Фонд, Пореска управа, ЈКП Комуналац\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "0863e94ffe83",
@@ -77,7 +60,7 @@
       ],
       "reason": null,
       "note": "СТАРИ СЛАНКАМЕН: место Стари Сланкамен И викенд зона Одушевци",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f3e461225a84",
@@ -94,7 +77,7 @@
       ],
       "reason": null,
       "note": "МЕСТО СТАРИ СЛАНКАМЕН",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "087919145cad",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Стара Пазова",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "СУРДУК: ВИКЕНД ЗОНА СУРДУКА- СЛАНКАМЕНАЧКИ"
-      ],
-      "reason": null,
-      "note": "СУРДУК: ВИКЕНД ЗОНА СУРДУКА- СЛАНКАМЕНАЧКИ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "524ebf7ee4ac",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "НОВА  ПАЗОВА: Ул. Кнез Михајла –непарна страна од бр.1 до ул.Црногорска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

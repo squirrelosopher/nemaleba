@@ -5,25 +5,7 @@
     "nameLatin": "Negotin",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "b576c9fe26f3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-15",
-      "areaLabel": "Неготин",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Малајница Дубрава и Малајница Перњец"
-      ],
-      "reason": null,
-      "note": "Малајница Дубрава и Малајница Перњец",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",
