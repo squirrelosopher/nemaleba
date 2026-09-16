@@ -7,20 +7,6 @@
   },
   "outages": [
     {
-      "id": "657578c08e62",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "areaLabel": "Сремска Митровица",
-      "time": null,
-      "streets": [
-        "у Кузмину"
-      ],
-      "reason": null,
-      "note": "У току је хитна интервенција на водоводној мрежи, због које су без воде остали потрошачи у Кузмину.",
-      "sourceUrl": "https://vodovodsm.rs/strana/10161"
-    },
-    {
       "id": "3578d138bbac",
       "utility": "water",
       "kind": "emergency",
@@ -217,6 +203,11 @@
     },
     {
       "date": "2026-09-16",
+      "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-17",
       "electricityOutages": 3,
       "waterOutages": 0
     }

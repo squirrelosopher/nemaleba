@@ -7,176 +7,6 @@
   },
   "outages": [
     {
-      "id": "e3d79f17cf89",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-09-09-2026/",
-      "areaLabel": "Пивара",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Чаретова"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Хаваријска искључења на дан 09.09.2026. \n \n Пивара, ул. Чаретова ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "fbe77e7cce07",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-09-09-2026/",
-      "areaLabel": "Сајмиште",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "“Шумадија Сајам”"
-      ],
-      "reason": "поправка хидранта",
-      "note": "Сајмиште, ул. “Шумадија Сајам” ( од 08:00 до 12:00 часова ), поправка хидранта."
-    },
-    {
-      "id": "895eb9cf9f25",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-09-09-2026/",
-      "areaLabel": "Станово",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Љубише Богдановића"
-      ],
-      "reason": "поправка затварача",
-      "note": "Станово, ул. Љубише Богдановића ( од 08:00 до 12:00 часова ), поправка затварача."
-    },
-    {
-      "id": "f3ab53d5bf29",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-09-09-2026/",
-      "areaLabel": "Центар",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Саве Ковачевића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Центар, ул. Саве Ковачевића ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "5df8402d151a",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-09-09-2026/",
-      "areaLabel": "Аеродром",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Милорада Драшковића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Аеродром, ул. Милорада Драшковића ( од 12:00 до 16:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "b8e9faa36d26",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-09-09-2026/",
-      "areaLabel": "Белошевац",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Ртањска"
-      ],
-      "reason": "поправка затварача",
-      "note": "Белошевац, ул. Ртањска ( од 12:00 до 16:00 часова ), поправка затварача."
-    },
-    {
-      "id": "1883aa0eb80a",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-09-09-2026/",
-      "areaLabel": "Пивара",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Симе Тепића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Пивара, ул. Симе Тепића ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "2f3af3179d99",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-09-09-2026/",
-      "areaLabel": "Белошевац",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Расинског одреда"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Белошевац, ул. Расинског одреда ( од 16:00 до 19:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "cf03e9374fe9",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-09-09-2026/",
-      "areaLabel": "Поскурице",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Поскурице бб"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Поскурице, ул. Поскурице бб ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "690318a8755a",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-09-09-2026/",
-      "areaLabel": "Спомен Парк “ШУМАРИЦЕ”",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Код сппоменика Наде Наумовић"
-      ],
-      "reason": "поправка цевовода 400мм",
-      "note": "Спомен Парк “ШУМАРИЦЕ”, ул. Код сппоменика Наде Наумовић ( од 16:00 до 19:00 часова ), поправка цевовода 400мм."
-    },
-    {
       "id": "f66309bdecd2",
       "utility": "water",
       "kind": "emergency",
@@ -1259,6 +1089,11 @@
       "date": "2026-09-16",
       "electricityOutages": 1,
       "waterOutages": 9
+    },
+    {
+      "date": "2026-09-17",
+      "electricityOutages": 3,
+      "waterOutages": 0
     }
   ]
 }

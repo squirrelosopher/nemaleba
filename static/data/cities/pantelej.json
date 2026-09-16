@@ -7,21 +7,6 @@
   },
   "outages": [
     {
-      "id": "e32f03114f37",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "ПОПРАВКA КВАРА У НАСЕЉУ ПАНТЕЛЕЈ оправка прикључне везе на углу улица Књажевачка и Васе Пелагић. Због поправке прикључне везе могући су прекиди у водоснабдевању до 15 часова на простору између улица Васе Пелагића и Пане Ђукић",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-291/"
-    },
-    {
       "id": "ea05b75d10c4",
       "utility": "water",
       "kind": "planned",
@@ -128,6 +113,11 @@
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-17",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

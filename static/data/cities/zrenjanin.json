@@ -7,36 +7,6 @@
   },
   "outages": [
     {
-      "id": "666cc39c5809",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "areaLabel": "Зрењанин",
-      "time": {
-        "start": "02:00",
-        "end": "18:30"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "Д2 (4. ЈУЛИ – ЗРЕЊАНИН) – санација квара на водоводној мрежи, прекид водоснабдевања на Д2 до 18:30 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-09-09-2026-godine/"
-    },
-    {
-      "id": "3b17a6bd7aed",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "areaLabel": "Јунака Милана Тепића",
-      "time": {
-        "start": null,
-        "end": "13:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "ЈУНАКА МИЛАНА ТЕПИЋА (ЗРЕЊАНИН) – санација квара на водоводној мрежи, прекид водоснабдевања у целој улици до 13 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-09-09-2026-godine/"
-    },
-    {
       "id": "6b7275203ff3",
       "utility": "water",
       "kind": "emergency",
@@ -284,6 +254,11 @@
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-17",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

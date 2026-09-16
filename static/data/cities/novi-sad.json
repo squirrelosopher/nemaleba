@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "1ac9d2d7b82d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "13:00"
-      },
-      "streets": [
-        "Балзакова улица (од Булевара цара Лазара до Народног фронта)"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Балзакова улица (од Булевара цара Лазара до Народног фронта).",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-9-9-2026/"
-    },
-    {
-      "id": "8ed1cd8c81b9",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "13:00"
-      },
-      "streets": [
-        "Горње Сајлово и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Горње Сајлово и околне улице.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-9-9-2026/"
-    },
-    {
-      "id": "6fec87b5a4d9",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-09",
-      "areaLabel": "Сремским Карловцима",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "улице Ивана Мажуранића, Прерадовићева, Дунавска и околне"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити улице Ивана Мажуранића, Прерадовићева, Дунавска и околне у Сремским Карловцима.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-9-9-2026/"
-    },
-    {
       "id": "164592c5ce8e",
       "utility": "water",
       "kind": "emergency",
@@ -347,6 +296,11 @@
       "date": "2026-09-16",
       "electricityOutages": 0,
       "waterOutages": 4
+    },
+    {
+      "date": "2026-09-17",
+      "electricityOutages": 3,
+      "waterOutages": 0
     }
   ]
 }
