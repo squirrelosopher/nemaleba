@@ -783,23 +783,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "2f716268ed9c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Бољковци - засеок Рањци према Буковачи"
-      ],
-      "reason": null,
-      "note": "Бољковци - засеок Рањци према Буковачи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
-    },
-    {
       "id": "6e04b426bb74",
       "utility": "electricity",
       "kind": "planned",
@@ -815,6 +798,23 @@
       ],
       "reason": null,
       "note": "Трбушница, засеок Црнишава",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "2f716268ed9c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Бољковци - засеок Рањци према Буковачи"
+      ],
+      "reason": null,
+      "note": "Бољковци - засеок Рањци према Буковачи",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
