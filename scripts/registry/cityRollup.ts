@@ -1,3 +1,4 @@
+import { placeNamed } from './rgzPlaces';
 import { SEED_BRANCHES } from './seedCities';
 
 interface CityGroup {
@@ -56,6 +57,78 @@ function asWritten(name: string): string {
   return WRITTEN.get(name.toLowerCase()) ?? name;
 }
 
+// The same names again, kept per branch, because that is the only scope in which a
+// misspelling can be judged: "Чикарица" is Belgrade's Чукарица and is nothing at all
+// anywhere else.
+const WRITTEN_BY_BRANCH = new Map<string, string[]>();
+
+for (const group of CITY_GROUPS) {
+  WRITTEN_BY_BRANCH.set(group.branch, [group.city, ...group.municipalities]);
+}
+
+for (const seed of SEED_BRANCHES) {
+  const written = WRITTEN_BY_BRANCH.get(seed.branch) ?? [];
+
+  WRITTEN_BY_BRANCH.set(seed.branch, [
+    ...new Set([...written, seed.branch, ...seed.municipalities])
+  ]);
+}
+
+// One substitution, insertion or deletion. Two is no longer a misspelling but a different
+// name, and the shortest place names here are five letters -- at two edits Ковин reaches
+// Ковач, and guessing between them is worse than not guessing.
+const EDIT_BUDGET = 1;
+
+// Whether two names are within the budget of each other. The distance itself is never
+// wanted, so the walk stops caring once the cheapest row exceeds the budget.
+function withinEditBudget(left: string, right: string): boolean {
+  if (Math.abs(left.length - right.length) > EDIT_BUDGET) {
+    return false;
+  }
+
+  let previous = Array.from({ length: right.length + 1 }, (_, index) => index);
+
+  for (let row = 1; row <= left.length; row++) {
+    const current = [row];
+
+    for (let column = 1; column <= right.length; column++) {
+      const substitution = previous[column - 1] + (left[row - 1] === right[column - 1] ? 0 : 1);
+
+      current[column] = Math.min(current[column - 1] + 1, previous[column] + 1, substitution);
+    }
+
+    if (Math.min(...current) > EDIT_BUDGET) {
+      return false;
+    }
+
+    previous = current;
+  }
+
+  return previous[right.length] <= EDIT_BUDGET;
+}
+
+// A name no register has heard of, one character away from a municipality this branch has
+// already written down, is that municipality misspelled. BVK published Чукарица as
+// "Чикарица" for a single day; the site gave the typo a city page of its own, and the
+// outage sat there where nobody looking at Чукарица would ever see it.
+//
+// Narrow on purpose, and the register being asked first is what does the work: fifty-odd
+// real Serbian places sit one edit from a municipality this site has written down --
+// Ковиљ beside Ковин, Раковац beside Рековац -- and every one of them has to stay
+// itself. A name within reach of two of the branch's own municipalities is left alone
+// rather than guessed at, so growing the lists costs at worst a correction not made.
+function corrected(branch: string, name: string): string {
+  if (placeNamed(name, branch) !== undefined) {
+    return name;
+  }
+
+  const candidates = (WRITTEN_BY_BRANCH.get(branch) ?? []).filter((written) =>
+    withinEditBudget(name.toLowerCase(), written.toLowerCase())
+  );
+
+  return candidates.length === 1 ? candidates[0] : name;
+}
+
 const PARENT_CITY = new Map(
   CITY_GROUPS.flatMap((group) =>
     group.municipalities.map((municipality) => [keyOf(group.branch, municipality), group.city])
@@ -79,8 +152,15 @@ function withoutBranch(branch: string, municipality: string): string {
   return QUALIFIER_MARKS.includes(head.at(-1) ?? '') ? head.slice(0, -1).trimEnd() : municipality;
 }
 
+// How a source's spelling of a place becomes this project's: the branch it may have
+// appended taken off, the capitals it disagrees about folded in, and a single mistyped
+// character forgiven.
+function bareName(branch: string, municipality: string): string {
+  return corrected(branch, asWritten(withoutBranch(branch, municipality)));
+}
+
 export function canonicalMunicipality(branch: string, municipality: string): string {
-  const bare = asWritten(withoutBranch(branch, municipality));
+  const bare = bareName(branch, municipality);
   const needsQualifier = AMBIGUOUS_NAMES.has(bare) && branch !== 'Београд';
 
   return needsQualifier ? `${bare} (${branch})` : bare;
@@ -99,7 +179,7 @@ export function municipalitiesOf(city: string): readonly string[] {
 // the qualifier off first is what lets Niš's Палилула roll up to Ниш the way Belgrade's
 // rolls up to Београд.
 export function parentCity(branch: string, municipality: string): string {
-  const bare = asWritten(withoutBranch(branch, municipality));
+  const bare = bareName(branch, municipality);
 
   return PARENT_CITY.get(keyOf(branch, bare)) ?? municipality;
 }

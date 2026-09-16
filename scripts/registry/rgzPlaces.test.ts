@@ -1,12 +1,17 @@
 import { describe, expect, it } from 'vitest';
 import { canonicalMunicipality } from './cityRollup';
-import { PlaceKind, placeNamed } from './rgzPlaces';
+import { PlaceKind, everyRegisteredName, placeNamed } from './rgzPlaces';
 import { SEED_BRANCHES } from './seedCities';
 
 // Београд and Ниш are cities made of municipalities, and the register holds the parts
 // rather than the whole. They are the only two names on this site that are not a place
 // the register knows, and both are deliberate.
 const CITIES_OF_MUNICIPALITIES = new Set(['Београд', 'Ниш']);
+
+// The name with any qualifier and every capital taken off it.
+function letters(name: string): string {
+  return name.replace(/\s*\([^)]*\)\s*$/, '').toLowerCase();
+}
 
 function seeded(): string[] {
   return SEED_BRANCHES.flatMap((seed) => [
@@ -30,6 +35,24 @@ describe('the seed lists against the Address Register', () => {
     for (const city of CITIES_OF_MUNICIPALITIES) {
       expect(placeNamed(city)).toBeUndefined();
     }
+  });
+
+  // The rollup forgives a mistyped character, which means it rewrites names -- so the one
+  // thing it must never do is rewrite a real one. Fifty-odd places in the register sit a
+  // single edit from a municipality written down here, Ковиљ beside Ковин among them, and
+  // the whole register is run past every branch to check that none of them moves.
+  //
+  // Only the letters are compared, because the two older rewrites are deliberate and both
+  // leave them alone: the qualifier that tells the two Палилулаs apart goes on or comes
+  // off, and the register prints Савски Венац where this site writes Савски венац.
+  it('never rewrites a name the register knows', () => {
+    const moved = everyRegisteredName().flatMap((name) =>
+      SEED_BRANCHES.map((seed) => canonicalMunicipality(seed.branch, name))
+        .filter((rolled) => letters(rolled) !== letters(name))
+        .map((rolled) => `${name} → ${rolled}`)
+    );
+
+    expect(moved).toEqual([]);
   });
 });
 

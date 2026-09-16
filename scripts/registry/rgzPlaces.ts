@@ -97,6 +97,12 @@ export function placeNamed(name: string, within?: string): RgzPlace | undefined 
   return bare ? places().get(key(bare)) : undefined;
 }
 
+// Every name the register prints, for the checks that have to hold against all of it
+// rather than against the handful of examples somebody thought of.
+export function everyRegisteredName(): string[] {
+  return [...new Set([...places().values()].map((place) => place.nameCyrillic))];
+}
+
 export function describePlace(place: RgzPlace): string {
   return `${place.kind} ${place.nameCyrillic} (${place.id})`;
 }

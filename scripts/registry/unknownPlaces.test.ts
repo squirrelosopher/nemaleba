@@ -36,13 +36,25 @@ describe('what counts as a finding', () => {
     expect(findUnknownPlaces([outage('Ниш', 'Алексинац')], {})).toEqual({});
   });
 
-  // What is left is the case the ledger was built for: a name no register knows is a
-  // spelling, and its outages are sitting on a page of their own.
+  // What is left is the case the ledger was built for: a name no register knows and
+  // nothing written down resembles, whose outages are sitting on a page of their own.
   it('reports a name no register knows', () => {
-    const found = findUnknownPlaces([outage('Ниш', 'Алексинацц')], {});
+    const found = findUnknownPlaces([outage('Ниш', 'Небиштан')], {});
 
-    expect(Object.keys(found)).toEqual(['Ниш|Алексинацц']);
-    expect(identify(found['Ниш|Алексинацц'])).toContain('not in the register');
+    expect(Object.keys(found)).toEqual(['Ниш|Небиштан']);
+    expect(identify(found['Ниш|Небиштан'])).toContain('not in the register');
+  });
+
+  // A mistyped character never reaches the ledger, because the rollup has already
+  // answered it: BVK's "Чикарица" is Чукарица, not a seventeenth Belgrade municipality
+  // with a page of its own.
+  it('says nothing about a name one character off a written one', () => {
+    const found = findUnknownPlaces(
+      [outage('Београд', 'Чикарица'), outage('Ниш', 'Алексинацц')],
+      {}
+    );
+
+    expect(found).toEqual({});
   });
 
   it('reports a branch this site does not read', () => {

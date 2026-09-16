@@ -8,6 +8,11 @@ import { SEED_BRANCHES } from './seedCities';
 
 const REPORT_PATH = 'static/data/unknown-places.json';
 
+// How long a name that has stopped arriving is kept. The report is a list of work to do,
+// and a source's one-off typo is not work: BVK misspelled Чукарица once and the entry
+// would otherwise have sat here for the life of the project, describing nothing.
+const RETAINED_DAYS = 30;
+
 // Every place the site expects to hear about is enumerated by hand, branches and their
 // municipalities alike, in the canonical spelling the rollup produces.
 const KNOWN = new Set(
@@ -30,6 +35,10 @@ export type UnknownPlaces = Record<string, UnknownPlace>;
 
 function keyOf(branch: string, municipality: string): string {
   return `${branch}|${municipality}`;
+}
+
+function daysBetween(from: string, to: string): number {
+  return Math.round((Date.parse(to) - Date.parse(from)) / 86_400_000);
 }
 
 // Nothing to answer for: the branch is one this site reads, and the place is either
@@ -66,8 +75,12 @@ export async function writeUnknownPlaces(places: UnknownPlaces): Promise<void> {
 // outage that named it, and reporting it only asked somebody to retype what the register
 // had already said -- four times in one afternoon, before this stopped.
 //
-// What is left is worth stopping for: a name no register knows is a spelling to correct,
-// and until it is corrected its outages sit on a page of their own that nobody visits.
+// Nor is a name a single character off one already written down, which the rollup has
+// answered before this sees it.
+//
+// What is left is worth stopping for: a name no register knows and no written one
+// explains has to be mapped by hand, and until it is its outages sit on a page of their
+// own that nobody visits.
 export function findUnknownPlaces(
   outages: RawOutage[],
   previous: UnknownPlaces
@@ -77,10 +90,13 @@ export function findUnknownPlaces(
   // rewrite the file whether or not the finding had changed.
   const now = isoDate(0);
 
-  // A name that has since been added to the lists stops being a finding, so the report
-  // empties itself as they are dealt with rather than keeping a record of settled ones.
+  // A name that has since been added to the lists stops being a finding, and so does one
+  // no source has sent in a month. The report empties itself as names are dealt with or
+  // abandoned rather than keeping a record of every one it ever saw.
   const places: UnknownPlaces = Object.fromEntries(
-    Object.entries(previous).filter(([, place]) => !settled(place.branch, place.municipality))
+    Object.entries(previous)
+      .filter(([, place]) => !settled(place.branch, place.municipality))
+      .filter(([, place]) => daysBetween(place.lastSeen, now) < RETAINED_DAYS)
   );
 
   const seenThisRun = new Set<string>();

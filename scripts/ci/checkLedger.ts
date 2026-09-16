@@ -14,6 +14,12 @@ import { isoDate } from '../time/serbianDate';
 // that gets ignored.
 const NAG_DAYS = 3;
 
+// And it says nothing at all about a name that has stopped arriving. BVK misspelled
+// Чукарица as "Чикарица" for one afternoon and corrected itself overnight; the check went
+// on failing the pipeline for two more days, over a name no source was sending any more,
+// with nothing left to fix and no way to go green but to wait.
+const ARRIVING_DAYS = 1;
+
 const LEDGER_PATH = process.argv[2] ?? 'public/data/unknown-places.json';
 
 function daysBetween(from: string, to: string): number {
@@ -37,6 +43,7 @@ async function run(): Promise<void> {
   // vouches for; those clear on the next run and are nobody's work in the meantime.
   const fresh = places
     .filter((place) => !settled(place.branch, place.municipality))
+    .filter((place) => daysBetween(place.lastSeen, today) < ARRIVING_DAYS)
     .filter((place) => daysBetween(place.firstSeen, today) < NAG_DAYS);
 
   if (fresh.length === 0) {
@@ -44,7 +51,7 @@ async function run(): Promise<void> {
     return;
   }
 
-  console.error(`${fresh.length} place name(s) outside the seed lists:\n`);
+  console.error(`${fresh.length} place name(s) arriving from outside the seed lists:\n`);
 
   for (const place of fresh) {
     console.error(`  ${place.branch} / ${place.municipality}`);
@@ -53,9 +60,11 @@ async function run(): Promise<void> {
     console.error(`    ${place.sourceUrl}\n`);
   }
 
-  console.error('The register knows none of these, so each is a spelling to correct in the');
-  console.error('parser that produced it -- until then its outages sit on a page of their');
-  console.error('own. A real place the register does know is never reported here.');
+  console.error('The register knows none of these, and the rollup has already forgiven the');
+  console.error('ones a single character explains -- so each is a name to map by hand, in');
+  console.error('the parser that produced it or in the seed lists. Until then its outages');
+  console.error('sit on a page of their own. A real place the register knows is never');
+  console.error('reported here, nor is a name that has stopped arriving.');
 
   process.exit(1);
 }
