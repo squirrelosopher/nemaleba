@@ -57,6 +57,40 @@
       "reason": null,
       "note": "РАДОВИ НА МРЕЖИ У НАСЕЉУ МЕДИЈАНА оком дана вршиће се радови на водоводној мрежи у улици Трг Учитељ Тасе код броја 4. Због поправке водоводне мреже могући су краћи прекиди у водоснабдевању до 15 часова у улицама Трг Учитеља Тасе и Љубићкој",
       "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-296/"
+    },
+    {
+      "id": "8c4083066732",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Медијана",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "део улице Љубе Дидића;"
+      ],
+      "reason": null,
+      "note": "део улице Љубе Дидића;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "59f0d8c8d169",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Медијана",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део улице 21. Маја;"
+      ],
+      "reason": null,
+      "note": "део улице 21. Маја;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,20 +7,21 @@
   },
   "outages": [
     {
-      "id": "a4345f6bc1e5",
+      "id": "ecbc3e05bb51",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-16",
       "areaLabel": "Нови Београд",
       "time": {
         "start": null,
-        "end": "15:00"
+        "end": "22:00"
       },
       "streets": [
-        "Гандијева 191"
+        "Булевар Арсенија Чарнојевића 169",
+        "Магеланова 16"
       ],
       "reason": null,
-      "note": "Нови Београд: Гандијева 191",
+      "note": "Нови Београд: Булевар Арсенија Чарнојевића 169, Магеланова 16",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {

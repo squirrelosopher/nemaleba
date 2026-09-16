@@ -68,6 +68,20 @@
       "reason": null,
       "note": "\"Панчево, Ул.Б.Јовановића од\r\nКарађорђеве до Синђелићеве,С.Саве од\r\nБ.Јовановића до С.Милетића и С.Саве од Б.Јовановића до З.Јовине-непарна страна,Карађорђева 17-21 и 12-20 и вртић Лептирић\"",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "a755e96cfe2e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-16",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Јаношикова од Добровољачке до Гробљанске"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остала Улица Јаношикова од Добровољачке до Гробљанске.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/09/16/16-9-2026/"
     }
   ],
   "history": [
@@ -144,7 +158,7 @@
     {
       "date": "2026-09-16",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

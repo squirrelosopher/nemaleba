@@ -41,22 +41,39 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "0f348141e3d3",
+      "id": "909af3b41781",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-16",
       "areaLabel": "Палилула",
       "time": {
         "start": null,
-        "end": "15:00"
+        "end": "22:00"
       },
       "streets": [
-        "1. маја 22 – Сланци",
-        "Заге Маливук 2. улица 15в – Крњача"
+        "27. марта бб (угао Мајора Илића)",
+        "Карловачке митрополије 26 – Борча"
       ],
       "reason": null,
-      "note": "Палилула: 1. маја 22 – Сланци, Заге Маливук 2. улица 15в – Крњача",
+      "note": "Палилула: 27. марта бб (угао Мајора Илића), Карловачке митрополије 26 – Борча",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "ea02a086339d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-19",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "БУЛ. ДЕСПОТА СТЕФАНА: 118,109-111"
+      ],
+      "reason": null,
+      "note": "БУЛ. ДЕСПОТА СТЕФАНА: 118,109-111,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

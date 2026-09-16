@@ -5,7 +5,29 @@
     "nameLatin": "Osečina",
     "branchCyrillic": "Ваљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "0475b85e4c7e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Осечина",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Купци села Осечине",
+        "део села Плужац",
+        "Бодуша",
+        "Коњуша",
+        "Црниљево"
+      ],
+      "reason": null,
+      "note": "Купци села Осечине , део села Плужац, Бодуша, Коњуша,Црниљево",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

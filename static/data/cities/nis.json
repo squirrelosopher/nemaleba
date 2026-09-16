@@ -876,6 +876,23 @@
       "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-296/"
     },
     {
+      "id": "a28b48a2cdf0",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-16",
+      "areaLabel": "Паси Пољана",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Браће Мрњавчевић бб"
+      ],
+      "reason": null,
+      "note": "ПОПРАВКА КВАРА У НАСЕЉУ ПАСИ ПОЉАНА току је ископ због поправке на водоводној мрежи у улици Браће Мрњавчевић бб. Због поправке водоводне мреже у прекиду ће бити водоснабдевање до 15 часова у поменутој улици.",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%b4%d0%be%d0%bf%d1%83%d0%bd%d0%b0-%d1%81%d0%b0%d0%be%d0%bf%d1%88%d1%82%d0%b5%d1%9a%d0%b0-%d0%be-%d0%b2%d0%be%d0%b4%d0%be%d1%81%d0%bd%d0%b0%d0%b1%d0%b4%d0%b5%d0%b2%d0%b0%d1%9a%d1%83-38/"
+    },
+    {
       "id": "83d9ba83a531",
       "utility": "water",
       "kind": "emergency",
@@ -891,6 +908,92 @@
       "reason": null,
       "note": "ИНТЕРВЕНЦИЈЕ У НАСЕЉУ ЧАЛИЈЕ бог радова на водоводној мрежи потребни су ископи у улици Душана Животића код бројева 10 и 15. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 сати у поменутој улици, као и на простору насеља Чалије",
       "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-296/"
+    },
+    {
+      "id": "8c4083066732",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Медијана",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "део улице Љубе Дидића;"
+      ],
+      "reason": null,
+      "note": "део улице Љубе Дидића;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "92bc3fe19650",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "део Насеља 9. Мај;"
+      ],
+      "reason": null,
+      "note": "део Насеља 9. Мај;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f62de8f057de",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Нишка бања",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део Насеља Островице",
+        "Островица и Равни До;"
+      ],
+      "reason": null,
+      "note": "део Насеља Островице, Островица и Равни До;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f687b6175151",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "део Доњег Матејевца и Насеља Стружиште;"
+      ],
+      "reason": null,
+      "note": "део Доњег Матејевца и Насеља Стружиште;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "59f0d8c8d169",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Медијана",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део улице 21. Маја;"
+      ],
+      "reason": null,
+      "note": "део улице 21. Маја;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -967,7 +1070,7 @@
     {
       "date": "2026-09-16",
       "electricityOutages": 3,
-      "waterOutages": 7
+      "waterOutages": 8
     }
   ]
 }

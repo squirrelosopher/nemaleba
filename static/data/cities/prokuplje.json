@@ -5,7 +5,80 @@
     "nameLatin": "Prokuplje",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "84a4f37edce4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Део Мале Плане код Циглане",
+        "Губетин",
+        "Сува Чесма и Тасић Коп"
+      ],
+      "reason": null,
+      "note": "Део Мале Плане код Циглане,Губетин,Сува Чесма и Тасић Коп",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "4526d5eee177",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Вуковарска",
+        "Део Хорватовићеве",
+        "Босанска и део Ратка Павловићакод мале пијаце"
+      ],
+      "reason": null,
+      "note": "Вуковарска,Део Хорватовићеве,Босанска и део Ратка Павловићакод мале пијаце",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "da81d2e0259d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Трг Топличких јунака зграда бр.22"
+      ],
+      "reason": null,
+      "note": "Трг Топличких јунака зграда бр.22",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "624089fbd1d3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-17",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "10:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Милентија Поповића и Радивоја Увалића Бате"
+      ],
+      "reason": null,
+      "note": "Милентија Поповића и Радивоја Увалића Бате",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
