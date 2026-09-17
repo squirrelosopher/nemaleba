@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T14:17:02.901Z",
+  "generatedAt": "2026-09-17T14:27:20.192Z",
   "summary": {
     "date": "2026-09-17",
     "electricityOutages": 217,
@@ -9,7 +9,7 @@
         "id": "beograd",
         "nameCyrillic": "Београд",
         "electricityOutages": 27,
-        "waterOutages": 12
+        "waterOutages": 13
       },
       {
         "id": "nis",
@@ -322,12 +322,6 @@
         "nameCyrillic": "Житиште",
         "electricityOutages": 1,
         "waterOutages": 0
-      },
-      {
-        "id": "zemun-branka",
-        "nameCyrillic": "Земун: Бранка",
-        "electricityOutages": 0,
-        "waterOutages": 1
       },
       {
         "id": "kladovo",
@@ -1502,12 +1496,6 @@
       "id": "zemun",
       "nameCyrillic": "Земун",
       "nameLatin": "Zemun",
-      "branchCyrillic": "Београд"
-    },
-    {
-      "id": "zemun-branka",
-      "nameCyrillic": "Земун: Бранка",
-      "nameLatin": "Zemun: Branka",
       "branchCyrillic": "Београд"
     },
     {

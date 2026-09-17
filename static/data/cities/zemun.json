@@ -24,6 +24,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "4dc3170e011b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Земун",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Бранка Пешића бб (угао Угриновачке)"
+      ],
+      "reason": null,
+      "note": "Земун: Бранка Пешића бб (угао Угриновачке)",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
       "id": "8b6de8b4d0d1",
       "utility": "electricity",
       "kind": "planned",
@@ -120,7 +137,7 @@
     {
       "date": "2026-09-17",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

@@ -336,6 +336,23 @@
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
+      "id": "4dc3170e011b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Земун",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Бранка Пешића бб (угао Угриновачке)"
+      ],
+      "reason": null,
+      "note": "Земун: Бранка Пешића бб (угао Угриновачке)",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
       "id": "289b7ffd2294",
       "utility": "water",
       "kind": "emergency",
@@ -810,7 +827,7 @@
     {
       "date": "2026-09-17",
       "electricityOutages": 11,
-      "waterOutages": 12
+      "waterOutages": 13
     }
   ]
 }
