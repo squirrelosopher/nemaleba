@@ -8,11 +8,6 @@ import { SEED_BRANCHES } from './seedCities';
 
 const REPORT_PATH = 'static/data/unknown-places.json';
 
-// How long a name that has stopped arriving is kept. The report is a list of work to do,
-// and a source's one-off typo is not work: BVK misspelled Чукарица once and the entry
-// would otherwise have sat here for the life of the project, describing nothing.
-const RETAINED_DAYS = 30;
-
 // Every place the site expects to hear about is enumerated by hand, branches and their
 // municipalities alike, in the canonical spelling the rollup produces.
 const KNOWN = new Set(
@@ -35,10 +30,6 @@ export type UnknownPlaces = Record<string, UnknownPlace>;
 
 function keyOf(branch: string, municipality: string): string {
   return `${branch}|${municipality}`;
-}
-
-function daysBetween(from: string, to: string): number {
-  return Math.round((Date.parse(to) - Date.parse(from)) / 86_400_000);
 }
 
 // Nothing to answer for: the branch is one this site reads, and the place is either
@@ -90,14 +81,13 @@ export function findUnknownPlaces(
   // rewrite the file whether or not the finding had changed.
   const now = isoDate(0);
 
-  // A name that has since been added to the lists stops being a finding, and so does one
-  // no source has sent in a month. The report empties itself as names are dealt with or
-  // abandoned rather than keeping a record of every one it ever saw.
-  const places: UnknownPlaces = Object.fromEntries(
-    Object.entries(previous)
-      .filter(([, place]) => !settled(place.branch, place.municipality))
-      .filter(([, place]) => daysBetween(place.lastSeen, now) < RETAINED_DAYS)
-  );
+  // Built from this run alone, so the report says what is arriving now rather than what
+  // ever arrived. Carrying entries forward until they aged out meant a name that stopped
+  // coming an hour ago still counted as arriving -- BVK's misplaced </strong> put "Земун:
+  // Бранка" in one afternoon's page and the check went on failing after the page, and the
+  // parser, had both moved on. Only `firstSeen` survives from earlier runs, which is the
+  // one thing a single run cannot know.
+  const places: UnknownPlaces = {};
 
   const seenThisRun = new Set<string>();
 
@@ -122,7 +112,7 @@ export function findUnknownPlaces(
       municipality,
       entries,
       sourceUrl: outage.sourceUrl,
-      firstSeen: recorded?.firstSeen ?? now,
+      firstSeen: previous[key]?.firstSeen ?? now,
       lastSeen: now
     };
   }
