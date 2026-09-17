@@ -3,7 +3,7 @@ import type { RawOutage } from '../../src/lib/domain/outage';
 import type { Provider } from '../../src/lib/domain/provider';
 import { Utility } from '../../src/lib/domain/utility';
 import { parseLeskovacNotices } from '../parsing/vodovodLeskovac';
-import { BROWSER_USER_AGENT, fetchText } from './httpClient';
+import { fetchText } from './httpClient';
 import { warn } from './sourceLog';
 
 const NOTICES_URL = 'https://www.vodovodle.rs/servisne-informacije.php';
@@ -25,7 +25,7 @@ export class VodovodLeskovacSource implements OutageSource {
 
   async collect(): Promise<RawOutage[]> {
     try {
-      const page = await fetchText(NOTICES_URL, { userAgent: BROWSER_USER_AGENT });
+      const page = await fetchText(NOTICES_URL);
 
       return parseLeskovacNotices(page, NOTICES_URL);
     } catch (error) {

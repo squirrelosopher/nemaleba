@@ -1,5 +1,5 @@
 import { mkdir, writeFile } from 'node:fs/promises';
-import { BROWSER_USER_AGENT, fetchText } from '../sources/httpClient';
+import { fetchText } from '../sources/httpClient';
 
 const DIRECTORY = 'data/fixtures';
 const WORDPRESS_FIELDS = 'link,date,title,content';
@@ -7,7 +7,6 @@ const WORDPRESS_FIELDS = 'link,date,title,content';
 interface Capture {
   name: string;
   url: string;
-  userAgent?: string;
 }
 
 function wordPress(endpoint: string, category: number, perPage: number): string {
@@ -31,13 +30,11 @@ const CAPTURES: Capture[] = [
   { name: 'bvk-planned.html', url: 'https://www.bvk.rs/planirani-radovi/' },
   {
     name: 'leskovac.html',
-    url: 'https://www.vodovodle.rs/servisne-informacije.php',
-    userAgent: BROWSER_USER_AGENT
+    url: 'https://www.vodovodle.rs/servisne-informacije.php'
   },
   {
     name: 'pozarevac.html',
-    url: 'https://vodovod012.rs/vesti',
-    userAgent: BROWSER_USER_AGENT
+    url: 'https://vodovod012.rs/vesti'
   },
 
   { name: 'naissus-nis.json', url: wordPress('https://jkpnaissus.co.rs/wp-json/wp/v2/posts', 42, 15) },
@@ -83,20 +80,18 @@ const CAPTURES: Capture[] = [
   // what keeps a fixture the bytes its parser will actually be handed.
   {
     name: 'valjevo.json',
-    url: wordPress('https://vodovodva.co.rs/wp-json/wp/v2/posts', 1, 15),
-    userAgent: BROWSER_USER_AGENT
+    url: wordPress('https://vodovodva.co.rs/wp-json/wp/v2/posts', 1, 15)
   },
 
   {
     name: 'bor.json',
-    url: wordPress('https://vodovodbor.com/wp-json/wp/v2/posts', 22, 6),
-    userAgent: BROWSER_USER_AGENT
+    url: wordPress('https://vodovodbor.com/wp-json/wp/v2/posts', 22, 6)
   }
 ];
 
-async function capture({ name, url, userAgent }: Capture): Promise<boolean> {
+async function capture({ name, url }: Capture): Promise<boolean> {
   try {
-    const body = await fetchText(url, { userAgent });
+    const body = await fetchText(url);
     await writeFile(`${DIRECTORY}/${name}`, body, 'utf-8');
     console.log(`  ${name} (${body.length} bytes)`);
 

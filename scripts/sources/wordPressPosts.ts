@@ -1,4 +1,4 @@
-import { fetchJson, type FetchOptions } from './httpClient';
+import { fetchJson } from './httpClient';
 import { warn } from './sourceLog';
 
 export interface WordPressPost {
@@ -13,13 +13,12 @@ const FIELDS = 'link,date,title,content';
 export async function fetchPosts(
   endpoint: string,
   category: number,
-  perPage: number,
-  options: FetchOptions = {}
+  perPage: number
 ): Promise<WordPressPost[]> {
   const url = `${endpoint}?categories=${category}&per_page=${perPage}&_fields=${FIELDS}`;
 
   try {
-    return await fetchJson<WordPressPost[]>(url, options);
+    return await fetchJson<WordPressPost[]>(url);
   } catch (error) {
     warn(`  skipped ${url}: ${(error as Error).message}`);
     return [];

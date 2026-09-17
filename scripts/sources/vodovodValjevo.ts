@@ -2,7 +2,6 @@ import type { OutageSource } from './OutageSource';
 import type { RawOutage } from '../../src/lib/domain/outage';
 import type { Provider } from '../../src/lib/domain/provider';
 import { Utility } from '../../src/lib/domain/utility';
-import { BROWSER_USER_AGENT } from './httpClient';
 import { parseValjevoAnnouncement } from '../parsing/vodovodValjevo';
 import { fetchPosts } from './wordPressPosts';
 
@@ -25,9 +24,7 @@ export class VodovodValjevoSource implements OutageSource {
   };
 
   async collect(): Promise<RawOutage[]> {
-    const posts = await fetchPosts(ENDPOINT, NEWS_CATEGORY, POSTS, {
-      userAgent: BROWSER_USER_AGENT
-    });
+    const posts = await fetchPosts(ENDPOINT, NEWS_CATEGORY, POSTS);
 
     return posts.flatMap((post) =>
       parseValjevoAnnouncement(post.title.rendered, post.content.rendered, post.date, post.link)

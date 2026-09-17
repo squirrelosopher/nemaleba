@@ -3,7 +3,6 @@ import type { RawOutage } from '../../src/lib/domain/outage';
 import type { Provider } from '../../src/lib/domain/provider';
 import { Utility } from '../../src/lib/domain/utility';
 import { parseBorWorkPlan } from '../parsing/vodovodBor';
-import { BROWSER_USER_AGENT } from './httpClient';
 import { fetchPosts } from './wordPressPosts';
 
 const ENDPOINT = 'https://vodovodbor.com/wp-json/wp/v2/posts';
@@ -25,9 +24,7 @@ export class VodovodBorSource implements OutageSource {
   };
 
   async collect(): Promise<RawOutage[]> {
-    const posts = await fetchPosts(ENDPOINT, DAILY_WORKS_CATEGORY, POSTS, {
-      userAgent: BROWSER_USER_AGENT
-    });
+    const posts = await fetchPosts(ENDPOINT, DAILY_WORKS_CATEGORY, POSTS);
 
     return posts.flatMap((post) =>
       parseBorWorkPlan(post.title.rendered, post.content.rendered, post.date, post.link)
