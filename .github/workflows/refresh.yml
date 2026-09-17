@@ -114,13 +114,17 @@ jobs:
   # about, so it can only be sent once the build carrying that row is being served --
   # sending earlier pointed readers at a page saying the outage had been archived.
   #
-  # Every run sends except a code push. A push has nothing to announce, and a
-  # push-triggered run would send alongside a scheduled one, both reading the ledger
-  # before either wrote. Collection slots now arrive as workflow_dispatch from the worker
-  # cron rather than as `schedule`, and gating on the schedule alone silenced them.
+  # Every run writes the dataset back, including a code push, because `generatedAt` in it
+  # is how the freshness check knows when outages were last collected. Skipping the whole
+  # job on pushes left that timestamp standing still through runs that had collected
+  # perfectly well, so the check reported the site as hours stale while it was serving
+  # data forty minutes old -- and no push could ever clear it.
+  #
+  # Only the sending is held back, which is what the skip was protecting: a push has
+  # nothing to announce, and a push-triggered run sending alongside a scheduled one would
+  # have both reading the ledger before either wrote.
   notify:
     needs: deploy
-    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -170,6 +174,7 @@ jobs:
         run: npm run await:deploy
 
       - name: Send notifications
+        if: github.event_name != 'push'
         env:
           PUBLIC_VAPID_KEY: ${{ secrets.PUBLIC_VAPID_KEY }}
           VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
@@ -178,8 +183,12 @@ jobs:
           PUSH_ADMIN_TOKEN: ${{ secrets.PUSH_ADMIN_TOKEN }}
         run: npm run notify
 
-      # Whatever was sent has to be written down, or the next run sends it again. A push
-      # that cannot be made fails the job rather than passing quietly.
+      # Whatever was sent has to be written down, or the next run sends it again, and the
+      # collection has to be dated whether or not anything was sent. The commit carries
+      # `[skip ci]`, which is what lets it run on a push without the push it makes
+      # starting another run.
+      #
+      # A push that cannot be made fails the job rather than passing quietly.
       - name: Commit the dataset
         run: bash scripts/ci/persist-dataset.sh
 
