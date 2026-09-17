@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "38357c0084c4",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-10",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Стевана Сремца код ОШ „Краљ Петар Први“"
-      ],
-      "reason": null,
-      "note": "ИНТЕРВЕНЦИЈА У НАСЕЉУ ПАЛИЛУЛА оправка прикључне везе у улици Стевана Сремца код ОШ „Краљ Петар Први“. Због поправке прикључне везе биће у прекиду водоснабдевањe до 15 сати у поменутој улици као и у ОШ „Краљ Петар Први“",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-292/"
-    },
-    {
-      "id": "cd5ef416b8a7",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-10",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Станоја Главаша код броја 92"
-      ],
-      "reason": null,
-      "note": "ПОПРАВКA КВАРА У НАСЕЉУ ПАЛИЛУЛА оправка прикључне везе у улици Станоја Главаша код броја 92. Због поправке прикључне везе могући су прекиди у водоснабдевању до 15 часова у поменутој улици",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-292/"
-    },
-    {
-      "id": "6acfff2a4f7a",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-10",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Војводе Путника бб код насеља Нови Ниш"
-      ],
-      "reason": null,
-      "note": "РАДОВИ НА МРЕЖИ У НАСЕЉУ ПАЛИЛУЛА оправка квара на водоводној мрежи у улици Војводе Путника бб код насеља Нови Ниш. Због поправке водоводне мреже у прекиду ће бити водоснабдевање до 15 часова у делу наведене улице код другог кружног тока",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-292/"
-    },
-    {
       "id": "99c6645aec2d",
       "utility": "water",
       "kind": "emergency",
@@ -350,6 +299,11 @@
       "date": "2026-09-17",
       "electricityOutages": 1,
       "waterOutages": 2
+    },
+    {
+      "date": "2026-09-18",
+      "electricityOutages": 3,
+      "waterOutages": 0
     }
   ]
 }

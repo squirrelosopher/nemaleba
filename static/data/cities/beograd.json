@@ -646,6 +646,40 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "7d9b89c7145a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Растка Петровића 47"
+      ],
+      "reason": null,
+      "note": "Вождовац:  Растка Петровића 47",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "b5f533274d2d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Звездара",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Милана Предића 41 – Мали Мокри Луг"
+      ],
+      "reason": null,
+      "note": "Звездара:  Милана Предића 41 – Мали Мокри Луг",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
       "id": "ef300b184d6a",
       "utility": "water",
       "kind": "emergency",
@@ -659,7 +693,7 @@
         "Липа 15 – Церак"
       ],
       "reason": null,
-      "note": "Чукарица: Липа 15 – Церак",
+      "note": "Чукарица:  Липа 15 – Церак",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
@@ -845,6 +879,11 @@
       "date": "2026-09-17",
       "electricityOutages": 11,
       "waterOutages": 13
+    },
+    {
+      "date": "2026-09-18",
+      "electricityOutages": 10,
+      "waterOutages": 3
     }
   ]
 }

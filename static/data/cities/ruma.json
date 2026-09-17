@@ -7,34 +7,6 @@
   },
   "outages": [
     {
-      "id": "10c3ff1d5718",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-10",
-      "areaLabel": "Вогањ",
-      "time": null,
-      "streets": [
-        "Митровачкој улици"
-      ],
-      "reason": null,
-      "note": "Тренутно је у току санација квара на водоводној мрежи у Митровачкој улици у Вогњу.",
-      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-voganj-5/"
-    },
-    {
-      "id": "341f527fa296",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-10",
-      "areaLabel": "Стејановци",
-      "time": null,
-      "streets": [
-        "Миканова"
-      ],
-      "reason": null,
-      "note": "Тренутно је у току санација квара на водоводној мрежи у улицама Миканова, Фрушкогорска и на Стејановачком путу .",
-      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-stejanovci-24/"
-    },
-    {
       "id": "b865802a4698",
       "utility": "water",
       "kind": "emergency",
@@ -248,6 +220,11 @@
     {
       "date": "2026-09-17",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-18",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

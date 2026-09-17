@@ -7,66 +7,6 @@
   },
   "outages": [
     {
-      "id": "6b7275203ff3",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-10",
-      "areaLabel": "Дуваника",
-      "time": {
-        "start": null,
-        "end": "13:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "ДУВАНИКА (ЗРЕЊАНИН) – санација два квара на водоводној мрежи у Железничкој улици, прекид водоснабдевања у делу насеља Дуваника, односно у следећим улицама: потез Железничка – Елемирски друм до Гомекса, Приштинска, Кикиндска, Церска, Студеничка, Милутина Суботина и Кумановачког одреда до 13 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-10-09-2026-godine/"
-    },
-    {
-      "id": "eea8b45da289",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-10",
-      "areaLabel": "Елемир",
-      "time": {
-        "start": null,
-        "end": "13:30"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "ЕЛЕМИР – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 13:30 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-10-09-2026-godine/"
-    },
-    {
-      "id": "4ea3dc0c3025",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-10",
-      "areaLabel": "Пере Добриновића",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "ПЕРЕ ДОБРИНОВИЋА (ЗРЕЊАНИН) – санација квара на мрежи, прекид водоснабдевања у улицама Пере Добриновића и Уроша Предића до 15 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-10-09-2026-godine/"
-    },
-    {
-      "id": "fd3a093d7c3b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-10",
-      "areaLabel": "Tомашевац",
-      "time": {
-        "start": null,
-        "end": "18:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "TОМАШЕВАЦ – санација два квара на водоводној мрежи у Иве Лоле Рибара код броја 172а и Маршала Тита код броја 38, прекид водоснабдевања у целом насељеном месту до 18 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-10-09-2026-godine/"
-    },
-    {
       "id": "c761bdc63048",
       "utility": "water",
       "kind": "emergency",
@@ -275,6 +215,11 @@
       "date": "2026-09-17",
       "electricityOutages": 2,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-09-18",
+      "electricityOutages": 2,
+      "waterOutages": 0
     }
   ]
 }

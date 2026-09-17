@@ -23,6 +23,23 @@
       "reason": null,
       "note": "Вождовац: Никшићка 28, Ново насеље 21 – Рипањ",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "7d9b89c7145a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Растка Петровића 47"
+      ],
+      "reason": null,
+      "note": "Вождовац:  Растка Петровића 47",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
   "history": [
@@ -103,6 +120,11 @@
     },
     {
       "date": "2026-09-17",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-09-18",
       "electricityOutages": 0,
       "waterOutages": 1
     }
