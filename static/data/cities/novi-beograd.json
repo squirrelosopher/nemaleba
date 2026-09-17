@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "ecbc3e05bb51",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Булевар Арсенија Чарнојевића 169",
-        "Магеланова 16"
-      ],
-      "reason": null,
-      "note": "Нови Београд: Булевар Арсенија Чарнојевића 169, Магеланова 16",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "d9aed8bb8319",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +21,7 @@
       ],
       "reason": null,
       "note": "НАРОДНИХ ХЕРОЈА: 14-28,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -30,41 +30,6 @@
       "sourceUrl": "https://www.bvk.rs/planirani-radovi/"
     },
     {
-      "id": "0d91bb2a9d27",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-16",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље ЖАРКОВО: БРЕЗА: 2,1-5, ЈАСЕНОВА: 2-16,1-13, КЕСТЕНОВА: 2-6,1-11"
-      ],
-      "reason": null,
-      "note": "Насеље ЖАРКОВО: БРЕЗА: 2,1-5, ЈАСЕНОВА: 2-16,1-13, КЕСТЕНОВА: 2-6,1-11,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "65a3e021de11",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Бело врело 34 – Беле воде",
-        "Вука Караџића бб – Остружница"
-      ],
-      "reason": null,
-      "note": "Чукарица: Бело врело 34 – Беле воде, Вука Караџића бб – Остружница",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "4f6490461df8",
       "utility": "electricity",
       "kind": "planned",
@@ -79,7 +44,26 @@
       ],
       "reason": null,
       "note": "АНЕ АХМАТОВЕ: 1-5, БРЕХТОВА: 1-3, КНЕЗА ВИШЕСЛАВА: 130-140, СЛОБОДАНА АЛИГРУДИЋА: 3-5, СЛОБОДАНА ПЕРОВИЋА: 6-8,1-7, СТАНИСЛАВСКОГ: 2-4,3, Насеље ЖАРКОВО: АЉЕХИНОВА: 2-6,1-5, АРЧИБАЛДА РАЈСА: 64-80,90,51-55, ИЛИЈЕ СТОЈАДИНОВИЋА: 2-4,18-20, ЈАБЛАНИЧКА: 182, РАТКА МИТРОВИЋА: 128,136-138,148-160,163-165,183-189,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "74c8dd04ecac",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Бело врело 34 – Беле воде",
+        "Белових јаруга 8 – Сремчица",
+        "Бориса Кидрича 9 – Умка"
+      ],
+      "reason": null,
+      "note": "Чукарица: Бело врело 34 – Беле воде, Белових јаруга 8 – Сремчица, Бориса Кидрича 9 – Умка",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
       "id": "7e86abe83d46",
@@ -96,7 +80,24 @@
       ],
       "reason": null,
       "note": "Насеље ЖАРКОВО: ВИНОГРАДСКИ ВЕНАЦ: 2-40А,1-31,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c4a4649ac4e8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-20",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "РАДНИЧКА: 8"
+      ],
+      "reason": null,
+      "note": "РАДНИЧКА: 8,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -178,7 +179,7 @@
     {
       "date": "2026-09-17",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

@@ -5,25 +5,7 @@
     "nameLatin": "Stara Pazova",
     "branchCyrillic": "Рума"
   },
-  "outages": [
-    {
-      "id": "524ebf7ee4ac",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-16",
-      "areaLabel": "Стара Пазова",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "НОВА  ПАЗОВА: Ул. Кнез Михајла –непарна страна од бр.1 до ул.Црногорска"
-      ],
-      "reason": null,
-      "note": "НОВА  ПАЗОВА: Ул. Кнез Михајла –непарна страна од бр.1 до ул.Црногорска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

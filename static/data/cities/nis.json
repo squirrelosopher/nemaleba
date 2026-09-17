@@ -567,79 +567,6 @@
       "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-295/"
     },
     {
-      "id": "153cf8f13bb9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-16",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "08:00",
-        "end": "12:30"
-      },
-      "streets": [
-        "делови Доњег Међурова",
-        "Бубањ села",
-        "Горњег Међурова;"
-      ],
-      "reason": null,
-      "note": "делови Доњег Међурова, Бубањ села, Горњег Међурова;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "647596874f2b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-16",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "08:30",
-        "end": "11:00"
-      },
-      "streets": [
-        "делови улица Браће Вуксановић (23)",
-        "Делијски Вис (5-16",
-        "20",
-        "22",
-        "26)",
-        "Гаџинханска (1-10",
-        "бб);"
-      ],
-      "reason": null,
-      "note": "делови улица Браће Вуксановић (23), Делијски Вис (5-16,20,22,26), Гаџинханска (1-10,бб);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6a3fb7a1e909",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-16",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "делови улица Димитрија Туцовића (35",
-        "39",
-        "41)",
-        "Димитровградска (1",
-        "4",
-        "6)",
-        "Ђуре Јакшића (1-57",
-        "бб)",
-        "Гоце Делчева (2-11",
-        "бб)",
-        "Мостарска (10-23)",
-        "Шантићева (35)",
-        "Војводе Бојовића (7",
-        "12-24)",
-        "Војводе Путника (36а);"
-      ],
-      "reason": null,
-      "note": "делови улица Димитрија Туцовића (35,39,41), Димитровградска (1,4,6), Ђуре Јакшића (1-57,бб), Гоце Делчева (2-11,бб), Мостарска (10-23), Шантићева (35), Војводе Бојовића (7, 12-24), Војводе Путника (36а);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "109e3e42ec0d",
       "utility": "water",
       "kind": "emergency",
@@ -796,7 +723,7 @@
       ],
       "reason": null,
       "note": "део улице Љубе Дидића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "92bc3fe19650",
@@ -813,7 +740,7 @@
       ],
       "reason": null,
       "note": "део Насеља 9. Мај;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f62de8f057de",
@@ -831,7 +758,7 @@
       ],
       "reason": null,
       "note": "део Насеља Островице, Островица и Равни До;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f687b6175151",
@@ -848,7 +775,7 @@
       ],
       "reason": null,
       "note": "део Доњег Матејевца и Насеља Стружиште;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "59f0d8c8d169",
@@ -865,7 +792,167 @@
       ],
       "reason": null,
       "note": "део улице 21. Маја;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "4bf28b4c7a31",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Горњи Матејевац",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Николе Пашића код броја 2",
+        "Краља Александра код броја 78"
+      ],
+      "reason": null,
+      "note": "ИНТЕРВЕНЦИЈЕ У СЕЛУ ГОРЊИ МАТЕЈЕВАЦ адови на водоводној мрежи у улицама Николе Пашића код броја 2 и Краља Александра код броја 78. Због радова на водоводној мрежи могућ је прекид у водоснабдевању до 15 сати у поменутим улицама као и у околним улицама",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-297/"
+    },
+    {
+      "id": "1cfb6d905106",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Љуберађа",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Горњомалска"
+      ],
+      "reason": null,
+      "note": "РАДОВИ У СЕЛУ ЉУБЕРАЂА оком дана вршиће се радови на водоводној мрежи у улици Горњомалска. Због радова на водоводној мрежи биће у прекиду водоснабдевање до 15 часова на простору села Љуберађа",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-297/"
+    },
+    {
+      "id": "b8f77d7bbe72",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Медошевац",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "НАСТАВАК РАДОВА НА МРЕЖИ У СЕЛУ МЕДОШЕВАЦ астављају се радови на водоводној мрежи у Поповачкој улици. Због поправке водоводне мреже могући су краћи прекиди у водоснабдевању до 15 часова у поменутој улици",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-297/"
+    },
+    {
+      "id": "44c2b28b54ca",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Ниш",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Васе Албанца",
+        "Драгише Цветковића 36",
+        "Палилулска 4",
+        "у селу Мезграја – Пеке Дапчевић 7",
+        "у Бубањ Селу – Првомајска",
+        "у Сићеву – Река Црвеница",
+        "у селу Суповац – Ђуре Даничића 34",
+        "у насељу Горњи Комрен – Браће Стојановић бб"
+      ],
+      "reason": null,
+      "note": "ПОПРАВКЕ КВАРОВА НА ПРВИМ ВЕНТИЛИМА оком дана обављаће се радови на поправкама првих вентила у улицама Васе Албанца, Драгише Цветковића 36, Палилулска 4 и 6, у селу Мезграја – Пеке Дапчевић 7, у Бубањ Селу – Првомајска, у Сићеву – Река Црвеница, у селу Суповац – Ђуре Даничића 34, у насељу Горњи Комрен – Браће Стојановић бб. Због интервенција могућ је прекид водоснабдевања на поменутим локацијама до 15 часова.",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-297/"
+    },
+    {
+      "id": "b2b274f9cef6",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Нишка Бања",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Ивана Горана Ковачића код броја 32"
+      ],
+      "reason": null,
+      "note": "ИНТЕРВЕНЦИЈА У НАСЕЉУ НИШКА БАЊА отребан је ископ у улици Ивана Горана Ковачића код броја 32. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 сати у поменутој улици",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-297/"
+    },
+    {
+      "id": "182912c2b209",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Васе Смајевића",
+        "Ратка Софијенића"
+      ],
+      "reason": null,
+      "note": "РАДОВИ У НАСЕЉУ ПАЛИЛУЛА след квара на водоводној мрежи потребан је ископ у улици Васе Смајевића код броја 8 и 10. Због радова на водоводној мрежи биће прекид у водоснабдевању до 15 сати у улицама Васе Смајевића и Ратка Софијенића",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-297/"
+    },
+    {
+      "id": "55cfed54034c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Војводе Путника бб"
+      ],
+      "reason": null,
+      "note": "РАДОВИ НА МРЕЖИ У НАСЕЉУ ПАЛИЛУЛА оправка квара на водоводној мрежи у улици Војводе Путника бб. Због поправке водоводне мреже у прекиду ће бити водоснабдевање до 15 часова у делу наведене улице до другог кружног тока",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-297/"
+    },
+    {
+      "id": "dbc503ab28bd",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Паси Пољана",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Учитеља Спиридона код броја 53"
+      ],
+      "reason": null,
+      "note": "ИНТЕРВЕНЦИЈА У НАСЕЉУ ПАСИ ПОЉАНА адови на водоводној мрежи у улици Учитеља Спиридона код броја 53. Због радова на водоводној мрежи могућ је прекид у водоснабдевању до 15 сати у делу насеља Паси Пољана",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-297/"
+    },
+    {
+      "id": "2443004155f9",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Паси Пољана",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Браће Мрњавчевић бб"
+      ],
+      "reason": null,
+      "note": "РАДОВИ НА МРЕЖИ У НАСЕЉУ ПАСИ ПОЉАНА току је ископ због поправке на водоводној мрежи у улици Браће Мрњавчевић бб. Због поправке водоводне мреже у прекиду ће бити водоснабдевање до 15 часова у поменутој улици",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-297/"
     }
   ],
   "history": [
@@ -947,7 +1034,7 @@
     {
       "date": "2026-09-17",
       "electricityOutages": 5,
-      "waterOutages": 0
+      "waterOutages": 9
     }
   ]
 }

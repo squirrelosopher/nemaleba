@@ -7,37 +7,20 @@
   },
   "outages": [
     {
-      "id": "af8b81b15173",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-16",
-      "areaLabel": "Врачар",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "БУЛЕВАР ОСЛОБОЂЕЊА: 1-7,11-13, СВЕТОГ САВЕ: 1, ТРГ СЛАВИЈА: ББ,ББ"
-      ],
-      "reason": null,
-      "note": "БУЛЕВАР ОСЛОБОЂЕЊА: 1-7,11-13, СВЕТОГ САВЕ: 1, ТРГ СЛАВИЈА: ББ,ББ,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8152e985fb7e",
+      "id": "6d553e2d3481",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "areaLabel": "Врачар",
       "time": {
         "start": null,
-        "end": "22:00"
+        "end": "15:00"
       },
       "streets": [
-        "Ђорђа Вјферта бб"
+        "Мутапова 25"
       ],
       "reason": null,
-      "note": "Врачар: Ђорђа Вјферта бб",
+      "note": "Врачар: Мутапова 25",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
@@ -120,7 +103,7 @@
     {
       "date": "2026-09-17",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

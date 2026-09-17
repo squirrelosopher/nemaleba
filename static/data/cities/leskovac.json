@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "16ecc298b59a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-16",
-      "areaLabel": "Лесковац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Бричевље и Сушевље"
-      ],
-      "reason": null,
-      "note": "Бричевље и Сушевље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "290db221f1c2",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +24,7 @@
       ],
       "reason": null,
       "note": "насеље Обрада Лучића, код Пољопривредне школе, део Чифлук Мире, Богојевце и Навалин",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

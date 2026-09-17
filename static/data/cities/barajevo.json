@@ -7,21 +7,20 @@
   },
   "outages": [
     {
-      "id": "96161cc45f43",
+      "id": "46c6c7babc8c",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "areaLabel": "Барајево",
       "time": {
         "start": null,
-        "end": "22:00"
+        "end": "15:00"
       },
       "streets": [
-        "Марка Тодоровића бб – Шиљаковац",
-        "Братства и јединства 109 – Баћевац"
+        "Космајских Партизана 206 – Вранић"
       ],
       "reason": null,
-      "note": "Барајево: Марка Тодоровића бб – Шиљаковац, Братства и јединства 109 – Баћевац",
+      "note": "Барајево: Космајских Партизана 206 – Вранић",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
@@ -104,7 +103,7 @@
     {
       "date": "2026-09-17",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

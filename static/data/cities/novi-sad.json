@@ -155,7 +155,7 @@
       ],
       "reason": null,
       "note": "\"\r\n Насеље Буковац: Улице Карађорђева од 2-30 и 1-21\r\n,Горња Барања од 4-38 и 1-21,\r\nДоња Барања од 2-54 и 1-57\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "7dc565c3b854",
@@ -173,7 +173,7 @@
       ],
       "reason": null,
       "note": "Улица Хероја Пинкија 2 , Лазе Лазаревића од 6-14 и 3-11",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e05f0a2cd76a",
@@ -193,7 +193,75 @@
       ],
       "reason": null,
       "note": "Улице Капетана Берића од 12-20 и 13-15 , Милана Савића од 2-62 и 1-57 , Петефи Шандора од 144-194 и 127-203 , Ивана Горана Ковачића од 4-10",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "a3ef7f960789",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Ветерник",
+      "time": {
+        "start": null,
+        "end": "13:00"
+      },
+      "streets": [
+        "улице Радивоја Кораћа и Адиђарска"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити улице Радивоја Кораћа и Адиђарска у Ветернику.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-17-9-2026/"
+    },
+    {
+      "id": "8354184f6b63",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Каћ, Будисава и Ковиљ"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Каћ, Будисава и Ковиљ.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-17-9-2026/"
+    },
+    {
+      "id": "5abc68feabf8",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Улица Ружин венац и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Ружин венац и околне улице у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-17-9-2026/"
+    },
+    {
+      "id": "8c6b86f22cb1",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Улица Светозара Марковића и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Светозара Марковића и околне улице у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-17-9-2026/"
     },
     {
       "id": "834121c6d07c",
@@ -218,7 +286,7 @@
       ],
       "reason": null,
       "note": "Место Темерин улица Перцел Мора,Болманска,Брезова,Петефи Бригаде од Перцел Мора до Брезове,Ади Ендреа од П.Мора до кбр 30,Ракоци Ференца од М.Орешковића до кбр 38,Николе Пашића од П.Мора до Змај Јовине,Кошут Лајоша од Н.Пашића до Новосадске,Петефи Шандора од Ади Ендреа до Николе Пашића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -300,7 +368,7 @@
     {
       "date": "2026-09-17",
       "electricityOutages": 3,
-      "waterOutages": 0
+      "waterOutages": 4
     }
   ]
 }

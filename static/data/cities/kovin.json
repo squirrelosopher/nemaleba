@@ -5,26 +5,7 @@
     "nameLatin": "Kovin",
     "branchCyrillic": "Панчево"
   },
-  "outages": [
-    {
-      "id": "d4c9ab497879",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-16",
-      "areaLabel": "Ковин",
-      "time": {
-        "start": "09:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Долово",
-        "део села од долине ка Мраморку"
-      ],
-      "reason": null,
-      "note": "Долово, део села од долине ка Мраморку",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

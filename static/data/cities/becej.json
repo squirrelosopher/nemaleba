@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "27cbb20492cd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-16",
-      "areaLabel": "Бечеј",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Надаљ : Улица Светозара Милетића од ул.Петра Драпшина до ул.Браће Јоцков , Улица Браће Пантић од ул.Светозара Милетића до ул.Бранка Радичевића"
-      ],
-      "reason": null,
-      "note": "Надаљ : Улица Светозара Милетића од ул.Петра Драпшина до ул.Браће Јоцков , Улица Браће Пантић од ул.Светозара Милетића до ул.Бранка Радичевића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7a7d51f5f590",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Улица Зелена бројеви 50-52",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

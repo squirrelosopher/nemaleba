@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "d5e4eb6fc329",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-16",
-      "areaLabel": "Мали Зворник",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Због реконструкције далековода и земени стубова без напона остају две трафостанице: Баре 1 и Баре 2."
-      ],
-      "reason": null,
-      "note": "Због реконструкције далековода и земени стубова без напона остају две трафостанице: Баре 1 и Баре 2.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "61c5af6ad5d9",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Због реконструкције далековода и земени стубова на далеководу без напона остају све трафостанице у Брасини.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

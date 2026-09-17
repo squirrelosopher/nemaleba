@@ -7,27 +7,6 @@
   },
   "outages": [
     {
-      "id": "0033dba11b94",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-16",
-      "areaLabel": "Голубац",
-      "time": {
-        "start": "08:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "Барич",
-        "Бикиње",
-        "Радошевац",
-        "Сладинац",
-        "Винци и Усије"
-      ],
-      "reason": null,
-      "note": "Барич, Бикиње, Радошевац, Сладинац, Винци и Усије",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "425495fa3fc9",
       "utility": "electricity",
       "kind": "planned",
@@ -49,7 +28,7 @@
       ],
       "reason": null,
       "note": "Малешево, Малешево Расадник, Двориште, Кривача, Војилово, Кудреш, Житковица, Снеготин",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "0b3746d37b42",
@@ -67,7 +46,7 @@
       ],
       "reason": null,
       "note": "Браничево, Пониква",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -21,7 +21,25 @@
       ],
       "reason": null,
       "note": "ДОБРИЦЕ ЋОСИЋА: 6-10,14,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "635507fe7d69",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Стари град",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Нушићева 7",
+        "Влајковићева 8"
+      ],
+      "reason": null,
+      "note": "Стари град: Нушићева 7, Влајковићева 8",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
   "history": [
@@ -103,7 +121,7 @@
     {
       "date": "2026-09-17",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

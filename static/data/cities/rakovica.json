@@ -7,21 +7,20 @@
   },
   "outages": [
     {
-      "id": "ec7cddf55667",
+      "id": "a1b79762b556",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "areaLabel": "Раковица",
       "time": {
         "start": null,
-        "end": "22:00"
+        "end": "15:00"
       },
       "streets": [
-        "Пере Велимировића 17",
-        "Милана Благојевића Шпанца 14"
+        "Славка Родића 2т"
       ],
       "reason": null,
-      "note": "Раковица: Пере Велимировића 17, Милана Благојевића Шпанца 14",
+      "note": "Раковица: Славка Родића 2т",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
@@ -104,7 +103,7 @@
     {
       "date": "2026-09-17",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

@@ -831,23 +831,6 @@
       "note": "Шумарице, угао Иве Андрића – Ударних бригада ( од 08:00 до 12:00 часова ), поправка затварача."
     },
     {
-      "id": "5c1e277646e1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-16",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Љубичевац"
-      ],
-      "reason": null,
-      "note": "Љубичевац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1a42e0bb447f",
       "utility": "water",
       "kind": "emergency",
@@ -948,6 +931,57 @@
       "note": "Станово, ул. Светоандрејске скупштине ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
     },
     {
+      "id": "d0e97bc6f94e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-17-09-2026/",
+      "areaLabel": "Ћава",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Владе Недељковића"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "\" Хаваријска искључења на дан 17.09.2026. \n \n Ћава, ул. Владе Недељковића ( од 08:00 до 12:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "39a36623b460",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-17-09-2026/",
+      "areaLabel": "Централна радионица",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Спасеније Цане Бабовић"
+      ],
+      "reason": "поправка затварача",
+      "note": "Централна радионица, ул. Спасеније Цане Бабовић ( од 08:00 до 12:00 часова ), поправка затварача."
+    },
+    {
+      "id": "d8e4b713fcd2",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-17-09-2026/",
+      "areaLabel": "Шумарице",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Симе Матавуља"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Шумарице, ул. Симе Матавуља ( од 08:00 до 12:00 часова ), поправка уличне линије."
+    },
+    {
       "id": "77a5d9d355e5",
       "utility": "electricity",
       "kind": "planned",
@@ -973,7 +1007,7 @@
       ],
       "reason": null,
       "note": "Ресник, Нови Милановац, Петровац - Викенд насеље, Цветојевац - Јовановићи, Никшић, Милатовац - Осојак, Прњавор, Ботуње, Корман - Игралиште, Доње Комарице, Жировница , Бадњевац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2fe3deb218c9",
@@ -990,7 +1024,7 @@
       ],
       "reason": null,
       "note": "19 октобра 2",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a96113986687",
@@ -1011,7 +1045,109 @@
       ],
       "reason": null,
       "note": "Десимировац, Поскурице, Драча, Дивостин, Прекопеча",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "6bc5b0a7112c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-17-09-2026/",
+      "areaLabel": "Баточина",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Милана Обреновића"
+      ],
+      "reason": "квар у шахти",
+      "note": "Баточина, ул. Милана Обреновића ( од 12:00 до 16:00 часова ), квар у шахти."
+    },
+    {
+      "id": "72a3983dbab2",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-17-09-2026/",
+      "areaLabel": "Илићево",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Милутина Гођевца"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Илићево, ул. Милутина Гођевца ( од 12:00 до 16:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "db2399dd38a7",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-17-09-2026/",
+      "areaLabel": "Шумарице",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "угао Иве Андрића – Ударних бригада"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Шумарице, угао Иве Андрића – Ударних бригада ( од 12:00 до 16:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "c6bfa9aeb61a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-17-09-2026/",
+      "areaLabel": "Баточина",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Железничка"
+      ],
+      "reason": "квар у шахти",
+      "note": "Баточина, ул. Железничка ( од 16:00 до 19:00 часова ), квар у шахти."
+    },
+    {
+      "id": "efe060c60c01",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-17-09-2026/",
+      "areaLabel": "Ердоглија",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Даничићева"
+      ],
+      "reason": "поправка прикључка",
+      "note": "Ердоглија, ул. Даничићева ( од 16:00 до 19:00 часова ), поправка прикључка."
+    },
+    {
+      "id": "c330220273df",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-17-09-2026/",
+      "areaLabel": "Индустријска зона",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Складишни центар"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Индустријска зона, ул. Складишни центар ( од 16:00 до 19:00 часова ), поправка уличне линије."
     }
   ],
   "history": [
@@ -1093,7 +1229,7 @@
     {
       "date": "2026-09-17",
       "electricityOutages": 3,
-      "waterOutages": 0
+      "waterOutages": 9
     }
   ]
 }
