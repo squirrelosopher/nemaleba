@@ -24,14 +24,14 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "bdfb74dd1c2d",
+      "id": "196c2d5bba55",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-17",
       "areaLabel": "Савски венац",
       "time": {
         "start": null,
-        "end": "15:00"
+        "end": "22:00"
       },
       "streets": [
         "Незнаног јунака 32а"
@@ -39,6 +39,23 @@
       "reason": null,
       "note": "Савски венац: Незнаног јунака 32а",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "98f6253e080e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Савски венац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "БУЛЕВАР ОСЛОБОЂЕЊА: 16А-18"
+      ],
+      "reason": null,
+      "note": "БУЛЕВАР ОСЛОБОЂЕЊА: 16А-18,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

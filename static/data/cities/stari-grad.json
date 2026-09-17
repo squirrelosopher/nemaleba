@@ -24,21 +24,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "635507fe7d69",
+      "id": "ec7efde2a27f",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-17",
       "areaLabel": "Стари град",
       "time": {
         "start": null,
-        "end": "15:00"
+        "end": "22:00"
       },
       "streets": [
-        "Нушићева 7",
-        "Влајковићева 8"
+        "Косовска бб (угао Влајковићеве)"
       ],
       "reason": null,
-      "note": "Стари град: Нушићева 7, Влајковићева 8",
+      "note": "Стари град: Косовска бб (угао Влајковићеве)",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],

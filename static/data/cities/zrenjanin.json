@@ -146,6 +146,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "9e1c2fda942e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Багљаш",
+      "time": {
+        "start": null,
+        "end": "18:30"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "БАГЉАШ (ЗРЕЊАНИН) – санација квара на углу улица Хероја Пинкија и Гоце Делчев, прекид водоснабдевања у поменутим и околним улицама до 18:30 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-17-09-2026-godine/"
+    },
+    {
       "id": "2bb93f7a8733",
       "utility": "electricity",
       "kind": "planned",
@@ -259,7 +274,7 @@
     {
       "date": "2026-09-17",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

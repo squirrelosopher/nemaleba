@@ -22,6 +22,23 @@
       "reason": null,
       "note": "НАРОДНИХ ХЕРОЈА: 14-28,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "289b7ffd2294",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Генерала Михаила Недељковића 169"
+      ],
+      "reason": null,
+      "note": "Нови Београд: Генерала Михаила Недељковића 169",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
   "history": [
@@ -103,7 +120,7 @@
     {
       "date": "2026-09-17",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "city": {
+    "id": "zemun-branka",
+    "nameCyrillic": "Земун: Бранка",
+    "nameLatin": "Zemun: Branka",
+    "branchCyrillic": "Београд"
+  },
+  "outages": [
+    {
+      "id": "ecb602bf7e1d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Земун: Бранка",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Пешића бб (угао Угриновачке)"
+      ],
+      "reason": null,
+      "note": "Земун: Бранка Пешића бб (угао Угриновачке)",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-17",
+      "electricityOutages": 0,
+      "waterOutages": 1
+    }
+  ]
+}

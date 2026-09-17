@@ -41,6 +41,23 @@
       "reason": null,
       "note": "Због оштећења на водоводној мрежи у селу Стропско, без воде биће потрошачи тог села као и село Дубница до завршетка радова.",
       "sourceUrl": "https://vodovodvranje.rs/17-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "2a071e4da9fe",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Врање",
+      "time": {
+        "start": "08:30",
+        "end": "09:30"
+      },
+      "streets": [
+        "Ристовац са околином"
+      ],
+      "reason": null,
+      "note": "Ристовац са околином",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

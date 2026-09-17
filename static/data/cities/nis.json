@@ -953,6 +953,109 @@
       "reason": null,
       "note": "РАДОВИ НА МРЕЖИ У НАСЕЉУ ПАСИ ПОЉАНА току је ископ због поправке на водоводној мрежи у улици Браће Мрњавчевић бб. Због поправке водоводне мреже у прекиду ће бити водоснабдевање до 15 часова у поменутој улици",
       "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-297/"
+    },
+    {
+      "id": "90c84d7d2e97",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Дурмиторска (57",
+        "70",
+        "бб)",
+        "Куршумлијска (непарни бр. 11-23",
+        "парни бр. 18-30)",
+        "Лоле Стојановића (1-13",
+        "70)",
+        "делови Љубише Поповића Славка",
+        "Слободана Пенезића Крцуна прилаз (непарни бр. 1-11",
+        "2",
+        "6)",
+        "Солунска (36б);"
+      ],
+      "reason": null,
+      "note": "Дурмиторска (57,70,бб), Куршумлијска (непарни бр. 11-23, парни бр. 18-30), Лоле Стојановића (1-13,70), делови Љубише Поповића Славка, Слободана Пенезића Крцуна прилаз (непарни бр. 1-11,2,6), Солунска (36б);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "983dc23d0d53",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "делови Паси Пољане;"
+      ],
+      "reason": null,
+      "note": "делови Паси Пољане;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "753caf252364",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "део Доњег Међурова;"
+      ],
+      "reason": null,
+      "note": "део Доњег Међурова;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "b933333c1708",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Нишка бања",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Насеље Никола Тесла - делови улица Радикински пут",
+        "Радикински пут прилаз један (1-5)",
+        "Радикински пут прилаз два (1-10)",
+        "Хусињска (1-14)",
+        "Недељка Симовића (непарни бр. 1-9",
+        "15)",
+        "Пасјачког одреда (1-8)",
+        "Заплањска (бб);"
+      ],
+      "reason": null,
+      "note": "Насеље Никола Тесла - делови улица Радикински пут,Радикински пут прилаз један (1-5), Радикински пут прилаз два (1-10), Хусињска (1-14), Недељка Симовића (непарни бр. 1-9,15), Пасјачког одреда (1-8), Заплањска (бб);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2d5c786af9f9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "део Горњег Матејевца;"
+      ],
+      "reason": null,
+      "note": "део Горњег Матејевца;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

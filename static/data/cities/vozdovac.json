@@ -7,21 +7,21 @@
   },
   "outages": [
     {
-      "id": "22df51c7da5b",
+      "id": "a53b9cc7f937",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-17",
       "areaLabel": "Вождовац",
       "time": {
         "start": null,
-        "end": "15:00"
+        "end": "22:00"
       },
       "streets": [
-        "Војводе Ђуровића 10а",
-        "Кумодрашка 115"
+        "Никшићка 28",
+        "Ново насеље 21 – Рипањ"
       ],
       "reason": null,
-      "note": "Вождовац: Војводе Ђуровића 10а, Кумодрашка 115",
+      "note": "Вождовац: Никшићка 28, Ново насеље 21 – Рипањ",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],

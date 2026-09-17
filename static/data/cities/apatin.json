@@ -5,7 +5,27 @@
     "nameLatin": "Apatin",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "43538349d4b0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Апатин",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "АПАТИН",
+        "УЛИЦЕ:НОВА",
+        "ДЕИ ПРИГРЕВАЧКЕ И М.ОРЕШКОВИЋА"
+      ],
+      "reason": null,
+      "note": "АПАТИН,УЛИЦЕ:НОВА,ДЕИ ПРИГРЕВАЧКЕ И М.ОРЕШКОВИЋА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

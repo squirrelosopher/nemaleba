@@ -58,23 +58,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "e76c3d73d193",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Бајина Башта",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Насеља: Луково, Бушино, Зауглине, Малишевац"
-      ],
-      "reason": null,
-      "note": "Насеља: Луково, Бушино, Зауглине, Малишевац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "4d8427abafc1",
       "utility": "electricity",
       "kind": "planned",
@@ -89,6 +72,23 @@
       ],
       "reason": null,
       "note": "Насеља: Љештанско",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e76c3d73d193",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Бајина Башта",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеља: Луково, Бушино, Зауглине, Малишевац"
+      ],
+      "reason": null,
+      "note": "Насеља: Луково, Бушино, Зауглине, Малишевац",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {

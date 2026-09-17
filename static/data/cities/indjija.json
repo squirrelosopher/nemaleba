@@ -24,23 +24,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "f3e461225a84",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "МЕСТО СТАРИ СЛАНКАМЕН"
-      ],
-      "reason": null,
-      "note": "МЕСТО СТАРИ СЛАНКАМЕН",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "8b20538158d4",
       "utility": "electricity",
       "kind": "planned",
@@ -55,6 +38,23 @@
       ],
       "reason": null,
       "note": "МЕСТО СТАРИ СЛАНКАМЕН\r\nВикенд зоне: Почента 1, Почента 2, Почента 3, Почента  4",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f3e461225a84",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "МЕСТО СТАРИ СЛАНКАМЕН"
+      ],
+      "reason": null,
+      "note": "МЕСТО СТАРИ СЛАНКАМЕН",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],

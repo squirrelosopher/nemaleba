@@ -22,6 +22,40 @@
       "reason": null,
       "note": "Зајечар улица Косовска од бр. 2 до бр. 22",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "14b2a48bd2b7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Зајечар",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Зајечар улице: Павла Илића Вељка од бр.1 до бр.14, Бранка Перића, Влачићева, Ивана Милутиновића од бр.11 до бр.51, Златиборска, Ђердапска, Бокељска, Сомборска."
+      ],
+      "reason": null,
+      "note": "Зајечар улице: Павла Илића Вељка од бр.1 до бр.14, Бранка Перића, Влачићева, Ивана Милутиновића од бр.11 до бр.51, Златиборска, Ђердапска, Бокељска, Сомборска.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f9f738ec45e4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-18",
+      "areaLabel": "Зајечар",
+      "time": {
+        "start": "09:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Део Грљана (око Вртића)"
+      ],
+      "reason": null,
+      "note": "Део Грљана (око Вртића)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
