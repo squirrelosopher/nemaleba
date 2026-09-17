@@ -30,6 +30,7 @@ import {
   readUnknownPlaces,
   writeUnknownPlaces
 } from './registry/unknownPlaces';
+import { SourceUnreachable } from './sources/httpClient';
 import { BvkBeogradSource } from './sources/bvkBeograd';
 import { EpsDistribucijaSource } from './sources/epsDistribucija';
 import { JedinstvoKladovoSource } from './sources/jedinstvoKladovo';
@@ -93,18 +94,37 @@ interface SourceRunResult {
   source: OutageSource;
   outages: RawOutage[];
   lines: string[];
+  unreadable: string[];
 }
 
 // Every source is a different host, so waiting for each in turn spent the run idle: the
 // eighteen of them answer in seventeen seconds one after another and in three at once.
-// A throw still fails the whole run, as it did before, but now says which source threw.
+//
+// A source that cannot be reached no longer fails the run. Niš refused the collector's
+// user agent with 403 for a day and a half, which left it looking like a source that had
+// stopped returning data, and the publish was abandoned -- taking the other seventeen
+// sources and every city page with it. A host that will not answer is unreadable, not
+// regressed, and the rest of the country is still worth publishing.
+//
+// What it must not do is pass for a quiet day, so the failure is recorded against the
+// source, `lastComplete` stops advancing, and the check below reads it.
+//
+// Only the host is forgiven this way. A parser throwing is a bug rather than a bad
+// afternoon, and it still fails the run naming the source it came from -- otherwise this
+// would have turned every such bug into one quietly missing city.
 async function collectFrom(source: OutageSource): Promise<SourceRunResult> {
   try {
     const { result, lines } = await captured(() => source.collect());
 
-    return { source, outages: result, lines };
+    return { source, outages: result, lines, unreadable: source.unreadableFeeds?.() ?? [] };
   } catch (error) {
-    throw new Error(`${source.id}: ${(error as Error).message}`, { cause: error });
+    if (!(error instanceof SourceUnreachable)) {
+      throw new Error(`${source.id}: ${(error as Error).message}`, { cause: error });
+    }
+
+    const reason = error.message;
+
+    return { source, outages: [], lines: [`  unreadable: ${reason}`], unreadable: [reason] };
   }
 }
 
@@ -117,12 +137,12 @@ async function collectAll(): Promise<RawOutage[]> {
 
   // Reported and concatenated in the order SOURCES declares rather than the order they
   // happened to finish, so the log reads the same way every run and so does the dataset.
-  for (const { source, outages, lines } of runs) {
+  for (const { source, outages, lines, unreadable } of runs) {
     console.log(`fetching ${source.label}`);
     lines.forEach((line) => console.warn(line));
     console.log(`  ${outages.length} entries`);
 
-    current[source.id] = record(previous, source.id, outages.length, source.unreadableFeeds?.());
+    current[source.id] = record(previous, source.id, outages.length, unreadable);
     collected.push(...outages);
   }
 
@@ -137,8 +157,9 @@ async function collectAll(): Promise<RawOutage[]> {
   if (regressions.length > 0 && !isOverridden()) {
     console.error('\nrefusing to publish — a source stopped returning data:');
     regressions.forEach((line) => console.error(`  ${line}`));
-    console.error('\nCheck the parsers against the live pages. Set ALLOW_EMPTY_SOURCES=1');
-    console.error('to publish anyway if the silence is genuine.');
+    console.error('\nEach of these was read without trouble and yielded nothing, so check');
+    console.error('the parsers against the live pages. Set ALLOW_EMPTY_SOURCES=1 to');
+    console.error('publish anyway if the silence is genuine.');
     process.exit(1);
   }
 

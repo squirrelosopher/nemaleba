@@ -9,6 +9,16 @@ const USER_AGENT =
 
 const REQUEST_TIMEOUT_MS = 30_000;
 
+// A host that could not be read, as distinct from a fault in the code that reads it. The
+// collector publishes through the first and still fails loudly on the second, so the two
+// must not share an error type: a refused request costs one city its page for the day,
+// where a parser throwing is a bug that has to stop the run.
+//
+// Everything the network can do belongs here -- a status the server chose, a connection
+// that never opened, a timeout, and a body that is not the JSON it claimed, which is how
+// a firewall's block page arrives.
+export class SourceUnreachable extends Error {}
+
 export async function fetchText(url: string): Promise<string> {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
@@ -20,16 +30,29 @@ export async function fetchText(url: string): Promise<string> {
     });
 
     if (!response.ok) {
-      throw new Error(`${response.status} ${response.statusText} for ${url}`);
+      throw new SourceUnreachable(`${response.status} ${response.statusText} for ${url}`);
     }
 
     const buffer = await response.arrayBuffer();
     return new TextDecoder('utf-8').decode(buffer).replace(/^﻿/, '');
+  } catch (error) {
+    if (error instanceof SourceUnreachable) {
+      throw error;
+    }
+
+    // fetch rejects on DNS, TLS and connection failures, and on the timeout above.
+    throw new SourceUnreachable(`${(error as Error).message} for ${url}`);
   } finally {
     clearTimeout(timeout);
   }
 }
 
 export async function fetchJson<T>(url: string): Promise<T> {
-  return JSON.parse(await fetchText(url)) as T;
+  const body = await fetchText(url);
+
+  try {
+    return JSON.parse(body) as T;
+  } catch {
+    throw new SourceUnreachable(`response was not JSON for ${url}`);
+  }
 }

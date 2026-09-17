@@ -59,6 +59,12 @@ export function record(
  *
  * Sources that only speak up when something happens are exempt: for them a silent run
  * is the ordinary case, and failing on it would let one quiet town stop the country.
+ *
+ * So is a source nothing could be read from, which is a different fault with a different
+ * answer. Niš refused the collector's user agent with 403, produced no rows for it, and
+ * stopped the whole country publishing for a day and a half over a parser that was fine.
+ * A page that cannot be fetched says nothing about the code that reads it, and the gap it
+ * leaves is already recorded in `unreadable` and `lastComplete`.
  */
 export function findRegressions(
   previous: SourceHealth,
@@ -67,6 +73,7 @@ export function findRegressions(
 ): string[] {
   return Object.entries(current)
     .filter(([id]) => !allowedToFallSilent.has(id))
+    .filter(([, run]) => !run.unreadable?.length)
     .filter(([id, run]) => run.entries === 0 && (previous[id]?.entries ?? 0) > 0)
     .map(([id]) => `${id} returned 0 entries, previously ${previous[id].entries}`);
 }
