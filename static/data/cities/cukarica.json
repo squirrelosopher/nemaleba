@@ -82,6 +82,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "ef300b184d6a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Липа 15 – Церак"
+      ],
+      "reason": null,
+      "note": "Чукарица: Липа 15 – Церак",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
       "id": "c4a4649ac4e8",
       "utility": "electricity",
       "kind": "planned",
