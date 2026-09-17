@@ -9,6 +9,13 @@ const TOGGLE = /data-title="([^"]+)"[\s\S]*?class='toggle_content[^']*'[^>]*>([\
 const DOTTED_DATE = /(\d{1,2})\.(\d{1,2})\.(\d{4})/;
 const UNTIL_HEADING = /<h1[^>]*>[\s\S]*?ДО\s*(\d{1,2}):(\d{2})[\s\S]*?<\/h1>/g;
 const LIST_ITEM = /<li[^>]*>\s*<strong[^>]*>([^<]+?)\s*:?\s*<\/strong>\s*:?\s*([\s\S]*?)<\/li>/g;
+
+// What the bold label holds: the municipality, a colon, and -- when the closing tag is
+// not where the colon is -- the start of the street list. BVK published
+// "<strong>Земун: Бранка </strong>Пешића бб", which filed the outage under a municipality
+// called "Земун: Бранка" and left the street as "Пешића бб", short of the name it began
+// with. The colon is what separates the two, so the colon is what the split follows.
+const LABEL = /^([^:]+?)\s*:\s*([\s\S]*)$/;
 const MUNICIPALITY_IN_TITLE = /општини\s+([\p{Lu}\p{Ll}\s]+?)(?:\s*$|,)/u;
 const PERIOD = /од\s*(\d{1,2})[.:](\d{2})\s*до\s*(\d{1,2})[.:](\d{2})/;
 const AFFECTED = /без воде[^.]*?потрошачи у\s+([\s\S]*?)\./;
@@ -27,8 +34,12 @@ function pad(value: string): string {
   return value.padStart(2, '0');
 }
 
+function readable(html: string): string {
+  return collapseWhitespace(decodeEntities(stripTags(html)));
+}
+
 function splitStreets(value: string): string[] {
-  return collapseWhitespace(decodeEntities(stripTags(value)))
+  return value
     .split(',')
     .map((street) => street.trim())
     .filter((street) => street.length > 1);
@@ -70,7 +81,13 @@ export function parseBvkFaults(html: string, sourceUrl: string): RawOutage[] {
       LIST_ITEM.lastIndex = 0;
 
       for (const item of content.slice(start, end).matchAll(LIST_ITEM)) {
-        const municipality = collapseWhitespace(decodeEntities(item[1])).replace(/:$/, '');
+        const label = readable(item[1]);
+        const labelled = label.match(LABEL);
+        const municipality = labelled?.[1] ?? label;
+
+        // Whatever the label held past the colon is street text the markup misplaced, and
+        // it belongs at the head of the list rather than on the end of the city's name.
+        const stray = labelled?.[2] ?? '';
 
         outages.push({
           utility: Utility.Water,
@@ -80,7 +97,7 @@ export function parseBvkFaults(html: string, sourceUrl: string): RawOutage[] {
           branchCyrillic: BRANCH,
           areaLabel: municipality,
           time,
-          streets: splitStreets(item[2]),
+          streets: splitStreets([stray, readable(item[2])].filter(Boolean).join(' ')),
           reason: null,
           note: collapseWhitespace(decodeEntities(stripTags(item[0]))) || null,
           sourceUrl
