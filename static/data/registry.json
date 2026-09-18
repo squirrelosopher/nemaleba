@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-18T14:11:03.111Z",
+  "generatedAt": "2026-09-18T14:22:47.564Z",
   "summary": {
     "date": "2026-09-18",
-    "electricityOutages": 177,
-    "waterOutages": 43,
+    "electricityOutages": 179,
+    "waterOutages": 45,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 22,
+        "electricityOutages": 24,
         "waterOutages": 13
       },
       {
@@ -132,6 +132,12 @@
         "waterOutages": 0
       },
       {
+        "id": "zrenjanin",
+        "nameCyrillic": "Зрењанин",
+        "electricityOutages": 2,
+        "waterOutages": 1
+      },
+      {
         "id": "indjija",
         "nameCyrillic": "Инђија",
         "electricityOutages": 3,
@@ -188,12 +194,6 @@
       {
         "id": "zajecar",
         "nameCyrillic": "Зајечар",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "zrenjanin",
-        "nameCyrillic": "Зрењанин",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -310,6 +310,12 @@
         "nameCyrillic": "Голубац",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "gornji-milanovac",
+        "nameCyrillic": "Горњи Милановац",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "jagodina",
@@ -451,7 +457,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 106,
-      "waterOutages": 37
+      "waterOutages": 39
     }
   ],
   "providers": [

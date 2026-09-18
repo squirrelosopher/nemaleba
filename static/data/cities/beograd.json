@@ -443,6 +443,40 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
+      "id": "1e5e3dab6a52",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-20",
+      "areaLabel": "Сурчин",
+      "time": {
+        "start": "07:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насеље СУРЧИН: ТРГ ЗОРАНА ЂИНЂИЋА: 99-119А"
+      ],
+      "reason": null,
+      "note": "Насеље СУРЧИН: ТРГ ЗОРАНА ЂИНЂИЋА: 99-119А,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "9c89d38cc5bd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-20",
+      "areaLabel": "Савски венац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "САВСКА: 25"
+      ],
+      "reason": null,
+      "note": "САВСКА: 25,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
       "id": "c4a4649ac4e8",
       "utility": "electricity",
       "kind": "planned",

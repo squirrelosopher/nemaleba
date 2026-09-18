@@ -99,6 +99,21 @@
       "reason": null,
       "note": "\"Зрењанин:\r\n- део 9. јануара (од Меше Селимовића до Здравка Челара)\r\n- део Меше Селимовића\"",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "c63d140f6390",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Eчка",
+      "time": {
+        "start": null,
+        "end": "19:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "EЧКА – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 19 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-18-09-2026-godine/"
     }
   ],
   "history": [
@@ -185,7 +200,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
