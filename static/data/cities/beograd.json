@@ -408,7 +408,24 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "d667af56c341",
+      "id": "e2acb763e251",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-19",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Радована Симића Циге 21"
+      ],
+      "reason": null,
+      "note": "Вождовац: Радована Симића Циге 21",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "172bdbc309b6",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-19",
@@ -419,10 +436,11 @@
       },
       "streets": [
         "Горичка 83а – Сремчица",
-        "Хитрих косача 7 – Сремчица"
+        "Хитрих косача 7 – Сремчица",
+        "Миће Радовановића бб (угао Раде Спасојевића) – Рушањ"
       ],
       "reason": null,
-      "note": "Чукарица: Горичка 83а – Сремчица, Хитрих косача 7 – Сремчица",
+      "note": "Чукарица: Горичка 83а – Сремчица, Хитрих косача 7 – Сремчица, Миће Радовановића бб (угао Раде Спасојевића) – Рушањ",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {

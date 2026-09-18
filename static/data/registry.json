@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T19:00:12.175Z",
+  "generatedAt": "2026-09-18T20:11:07.796Z",
   "summary": {
     "date": "2026-09-18",
     "electricityOutages": 179,
@@ -9,7 +9,7 @@
         "id": "beograd",
         "nameCyrillic": "Београд",
         "electricityOutages": 24,
-        "waterOutages": 13
+        "waterOutages": 14
       },
       {
         "id": "nis",
@@ -312,12 +312,6 @@
         "waterOutages": 0
       },
       {
-        "id": "gornji-milanovac",
-        "nameCyrillic": "Горњи Милановац",
-        "electricityOutages": 0,
-        "waterOutages": 1
-      },
-      {
         "id": "jagodina",
         "nameCyrillic": "Јагодина",
         "electricityOutages": 1,
@@ -457,7 +451,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 106,
-      "waterOutages": 39
+      "waterOutages": 38
     }
   ],
   "providers": [
