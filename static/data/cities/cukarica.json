@@ -30,24 +30,6 @@
       "sourceUrl": "https://www.bvk.rs/planirani-radovi/"
     },
     {
-      "id": "398d9bb3500b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Бело врело 37 – Беле воде",
-        "Обреновића 3 – Сремчица"
-      ],
-      "reason": null,
-      "note": "Чукарица: Бело врело 37 – Беле воде, Обреновића 3 – Сремчица",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "7e86abe83d46",
       "utility": "electricity",
       "kind": "planned",
@@ -65,7 +47,7 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "ef300b184d6a",
+      "id": "0d209d898696",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-18",
@@ -75,10 +57,12 @@
         "end": "15:00"
       },
       "streets": [
-        "Липа 15 – Церак"
+        "Липа 15 – Церак",
+        "Београдска 429/3 – Сремчица",
+        "Златних везиља 7 – Сремчица"
       ],
       "reason": null,
-      "note": "Чукарица:  Липа 15 – Церак",
+      "note": "Чукарица: Липа 15 – Церак, Београдска 429/3 – Сремчица, Златних везиља 7 – Сремчица",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {

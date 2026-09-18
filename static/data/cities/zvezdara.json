@@ -36,25 +36,6 @@
       "sourceUrl": "https://www.bvk.rs/planirani-radovi/"
     },
     {
-      "id": "4f9c7e7cc87f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Звездара",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Лазе Костића 18а",
-        "Прешевска бб (угао Учитеља Милоша Јанковића)",
-        "Аврама Петронијевића 12 – Велики Мокри Луг"
-      ],
-      "reason": null,
-      "note": "Звездара: Лазе Костића 18а, Прешевска бб (угао Учитеља Милоша Јанковића), Аврама Петронијевића 12 – Велики Мокри Луг",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "9ce01b51227a",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +53,7 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "b5f533274d2d",
+      "id": "adf8528db21f",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-18",
@@ -82,10 +63,11 @@
         "end": "15:00"
       },
       "streets": [
-        "Милана Предића 41 – Мали Мокри Луг"
+        "Ђевђелијска 3",
+        "Црвена звезда 4 – Мали Мокри Луг"
       ],
       "reason": null,
-      "note": "Звездара:  Милана Предића 41 – Мали Мокри Луг",
+      "note": "Звездара: Ђевђелијска 3,  Црвена звезда 4 – Мали Мокри Луг",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],

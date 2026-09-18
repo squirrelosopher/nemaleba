@@ -200,6 +200,58 @@
       "reason": null,
       "note": "део Доњег Међурова;",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "977349df7341",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Васе Смајевића",
+        "Ратка Софијенића"
+      ],
+      "reason": null,
+      "note": "НАСТАВАК РАДОВА У НАСЕЉУ ПАЛИЛУЛА аставља се са радовима на водоводној мрежи у улици Васе Смајевића код броја 8 и 10. Због радова на водоводној мрежи биће прекид у водоснабдевању до 15 сати у улицама Васе Смајевића и Ратка Софијенића",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-298/"
+    },
+    {
+      "id": "233cf0cbef03",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Димитрија Туцовића код броја 155"
+      ],
+      "reason": null,
+      "note": "ИНТЕРВЕНЦИЈА У НАСЕЉУ ПАЛИЛУЛА адови на водоводној мрежи у улици Димитрија Туцовића код броја 155. Због радова на водоводној мрежи могућ је прекид у водоснабдевању до 15 сати у поменутој улици",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-298/"
+    },
+    {
+      "id": "87ec6bff1c9c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Војводе Путника бб"
+      ],
+      "reason": null,
+      "note": "НАСТАВАК РАДОВА У НАСЕЉУ ПАЛИЛУЛА оком дана наставак радова на водоводној мрежи у улици Војводе Путника бб. Због поправке водоводне мреже у прекиду ће бити водоснабдевање до 15 часова у делу наведене улице до другог кружног тока",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-298/"
     }
   ],
   "history": [
@@ -286,7 +338,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 3,
-      "waterOutages": 0
+      "waterOutages": 3
     }
   ]
 }

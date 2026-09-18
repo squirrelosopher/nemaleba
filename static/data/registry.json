@@ -1,21 +1,27 @@
 {
-  "generatedAt": "2026-09-18T06:12:42.401Z",
+  "generatedAt": "2026-09-18T07:11:05.252Z",
   "summary": {
     "date": "2026-09-18",
     "electricityOutages": 140,
-    "waterOutages": 16,
+    "waterOutages": 35,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
         "electricityOutages": 24,
-        "waterOutages": 4
+        "waterOutages": 13
       },
       {
         "id": "subotica",
         "nameCyrillic": "Суботица",
         "electricityOutages": 15,
         "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 5,
+        "waterOutages": 8
       },
       {
         "id": "kragujevac",
@@ -32,12 +38,6 @@
       {
         "id": "vrbas",
         "nameCyrillic": "Врбас",
-        "electricityOutages": 5,
-        "waterOutages": 0
-      },
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
         "electricityOutages": 5,
         "waterOutages": 0
       },
@@ -118,6 +118,12 @@
         "nameCyrillic": "Алексинац",
         "electricityOutages": 2,
         "waterOutages": 0
+      },
+      {
+        "id": "vranje",
+        "nameCyrillic": "Врање",
+        "electricityOutages": 1,
+        "waterOutages": 1
       },
       {
         "id": "dimitrovgrad",
@@ -240,12 +246,6 @@
         "waterOutages": 0
       },
       {
-        "id": "vranje",
-        "nameCyrillic": "Врање",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "vrsac",
         "nameCyrillic": "Вршац",
         "electricityOutages": 1,
@@ -262,6 +262,12 @@
         "nameCyrillic": "Голубац",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "gornji-milanovac",
+        "nameCyrillic": "Горњи Милановац",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "zitiste",
@@ -403,7 +409,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 107,
-      "waterOutages": 16
+      "waterOutages": 35
     }
   ],
   "providers": [

@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "5cf86635dfee",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Гроцка",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Драгољуба Стојановића  2. леви прилаз 15 – Калуђерица",
-        "Херцеговачка 38 – Калуђерица"
-      ],
-      "reason": null,
-      "note": "Гроцка: Драгољуба Стојановића  2. леви прилаз 15 – Калуђерица, Херцеговачка 38 – Калуђерица",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "21e3fc6fb3a8",
       "utility": "electricity",
       "kind": "planned",
@@ -42,7 +24,7 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "40118d2f972d",
+      "id": "a8993bbe037e",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-18",
@@ -52,10 +34,10 @@
         "end": "15:00"
       },
       "streets": [
-        "Призренска 5 – Врчин"
+        "Драгољуба Стојановића 7 – Калуђерица"
       ],
       "reason": null,
-      "note": "Гроцка:  Призренска 5 – Врчин",
+      "note": "Гроцка: Драгољуба Стојановића 7 – Калуђерица",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],

@@ -7,25 +7,7 @@
   },
   "outages": [
     {
-      "id": "a53b9cc7f937",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Никшићка 28",
-        "Ново насеље 21 – Рипањ"
-      ],
-      "reason": null,
-      "note": "Вождовац: Никшићка 28, Ново насеље 21 – Рипањ",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "7d9b89c7145a",
+      "id": "02a531009e0c",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-18",
@@ -35,10 +17,11 @@
         "end": "15:00"
       },
       "streets": [
-        "Растка Петровића 47"
+        "Растка Петровића 47",
+        "Гуњак 32 – Кумодраж"
       ],
       "reason": null,
-      "note": "Вождовац:  Растка Петровића 47",
+      "note": "Вождовац:  Растка Петровића 47, Гуњак 32 – Кумодраж",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],

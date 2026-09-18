@@ -59,234 +59,6 @@
       "sourceUrl": "https://www.bvk.rs/planirani-radovi/"
     },
     {
-      "id": "926da1ca3d95",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Барајево",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Костадина Богдановића 9 – Велики Борак"
-      ],
-      "reason": null,
-      "note": "Барајево: Костадина Богдановића 9 – Велики Борак",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "a53b9cc7f937",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Никшићка 28",
-        "Ново насеље 21 – Рипањ"
-      ],
-      "reason": null,
-      "note": "Вождовац: Никшићка 28, Ново насеље 21 – Рипањ",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "140cd896a918",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Врачар",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Војводе Шупљикца бб (угао Ватрослава Јагића)"
-      ],
-      "reason": null,
-      "note": "Врачар: Војводе Шупљикца бб (угао Ватрослава Јагића)",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "5cf86635dfee",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Гроцка",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Драгољуба Стојановића  2. леви прилаз 15 – Калуђерица",
-        "Херцеговачка 38 – Калуђерица"
-      ],
-      "reason": null,
-      "note": "Гроцка: Драгољуба Стојановића  2. леви прилаз 15 – Калуђерица, Херцеговачка 38 – Калуђерица",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "4f9c7e7cc87f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Звездара",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Лазе Костића 18а",
-        "Прешевска бб (угао Учитеља Милоша Јанковића)",
-        "Аврама Петронијевића 12 – Велики Мокри Луг"
-      ],
-      "reason": null,
-      "note": "Звездара: Лазе Костића 18а, Прешевска бб (угао Учитеља Милоша Јанковића), Аврама Петронијевића 12 – Велики Мокри Луг",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "4dc3170e011b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Земун",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Бранка Пешића бб (угао Угриновачке)"
-      ],
-      "reason": null,
-      "note": "Земун: Бранка Пешића бб (угао Угриновачке)",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "289b7ffd2294",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Генерала Михаила Недељковића 169"
-      ],
-      "reason": null,
-      "note": "Нови Београд: Генерала Михаила Недељковића 169",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "8ab5e27aeb0d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Османа Ђикића 5",
-        "Слободана Јовановића 8 – Вишњичка бања",
-        "Карловачке митрополије 26 – Борча"
-      ],
-      "reason": null,
-      "note": "Палилула: Османа Ђикића 5, Слободана Јовановића 8 – Вишњичка бања, Карловачке митрополије 26 – Борча",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "6c78197799cb",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Раковица",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "14. октобра 12"
-      ],
-      "reason": null,
-      "note": "Раковица: 14. октобра 12",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "196c2d5bba55",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Савски венац",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Незнаног јунака 32а"
-      ],
-      "reason": null,
-      "note": "Савски венац: Незнаног јунака 32а",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "ec7efde2a27f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Стари град",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Косовска бб (угао Влајковићеве)"
-      ],
-      "reason": null,
-      "note": "Стари град: Косовска бб (угао Влајковићеве)",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "6f396587e89f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Сурчин",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Трг Зорана Ђинђића 25"
-      ],
-      "reason": null,
-      "note": "Сурчин: Трг Зорана Ђинђића 25",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "398d9bb3500b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Бело врело 37 – Беле воде",
-        "Обреновића 3 – Сремчица"
-      ],
-      "reason": null,
-      "note": "Чукарица: Бело врело 37 – Беле воде, Обреновића 3 – Сремчица",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "21e3fc6fb3a8",
       "utility": "electricity",
       "kind": "planned",
@@ -458,7 +230,25 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "7d9b89c7145a",
+      "id": "e440d5bdeac7",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Барајево",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Средњи крај 10",
+        "Моше Пијаде 31б – Мељак"
+      ],
+      "reason": null,
+      "note": "Барајево: Средњи крај 10, Моше Пијаде 31б – Мељак",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "02a531009e0c",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-18",
@@ -468,14 +258,32 @@
         "end": "15:00"
       },
       "streets": [
-        "Растка Петровића 47"
+        "Растка Петровића 47",
+        "Гуњак 32 – Кумодраж"
       ],
       "reason": null,
-      "note": "Вождовац:  Растка Петровића 47",
+      "note": "Вождовац:  Растка Петровића 47, Гуњак 32 – Кумодраж",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
-      "id": "40118d2f972d",
+      "id": "fc07acc84061",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Врачар",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Војводе Шупљикца бб (угао Ватрослава Јагића)"
+      ],
+      "reason": null,
+      "note": "Врачар: Војводе Шупљикца бб (угао Ватрослава Јагића)",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "a8993bbe037e",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-18",
@@ -485,14 +293,14 @@
         "end": "15:00"
       },
       "streets": [
-        "Призренска 5 – Врчин"
+        "Драгољуба Стојановића 7 – Калуђерица"
       ],
       "reason": null,
-      "note": "Гроцка:  Призренска 5 – Врчин",
+      "note": "Гроцка: Драгољуба Стојановића 7 – Калуђерица",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
-      "id": "b5f533274d2d",
+      "id": "adf8528db21f",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-18",
@@ -502,14 +310,136 @@
         "end": "15:00"
       },
       "streets": [
-        "Милана Предића 41 – Мали Мокри Луг"
+        "Ђевђелијска 3",
+        "Црвена звезда 4 – Мали Мокри Луг"
       ],
       "reason": null,
-      "note": "Звездара:  Милана Предића 41 – Мали Мокри Луг",
+      "note": "Звездара: Ђевђелијска 3,  Црвена звезда 4 – Мали Мокри Луг",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
-      "id": "ef300b184d6a",
+      "id": "3dac46d2a648",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Земун",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Николе Тесле 4",
+        "Бургерових 25 – Земун поље"
+      ],
+      "reason": null,
+      "note": "Земун: Николе Тесле 4, Бургерових 25 – Земун поље",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "ff4db7bc2978",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Милентија Поповића 5в"
+      ],
+      "reason": null,
+      "note": "Нови Београд: Милентија Поповића 5в",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "e8ee8211ccd0",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Слободана Јовановића 8 – Вишњичка бања",
+        "Тјентиште 4 – Котеж"
+      ],
+      "reason": null,
+      "note": "Палилула: Слободана Јовановића 8 – Вишњичка бања, Тјентиште 4 – Котеж",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "47ee483f0ff1",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Раковица",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Љубомира Ивковића Шуце 10"
+      ],
+      "reason": null,
+      "note": "Раковица: Љубомира Ивковића Шуце 10",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "b329129aa0ba",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Савски венац",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Незнаног јунака 21а"
+      ],
+      "reason": null,
+      "note": "Савски венац: Незнаног јунака 21а",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "150325a4b195",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Стари град",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Солунска 18"
+      ],
+      "reason": null,
+      "note": "Стари град: Солунска 18",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "b5256267a240",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Сурчин",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Војвођанска бб (угао Мајаковског)"
+      ],
+      "reason": null,
+      "note": "Сурчин: Војвођанска бб (угао Мајаковског)",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "0d209d898696",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-18",
@@ -519,10 +449,12 @@
         "end": "15:00"
       },
       "streets": [
-        "Липа 15 – Церак"
+        "Липа 15 – Церак",
+        "Београдска 429/3 – Сремчица",
+        "Златних везиља 7 – Сремчица"
       ],
       "reason": null,
-      "note": "Чукарица:  Липа 15 – Церак",
+      "note": "Чукарица: Липа 15 – Церак, Београдска 429/3 – Сремчица, Златних везиља 7 – Сремчица",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
@@ -849,7 +781,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 10,
-      "waterOutages": 4
+      "waterOutages": 13
     }
   ]
 }

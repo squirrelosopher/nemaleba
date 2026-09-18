@@ -7,14 +7,14 @@
   },
   "outages": [
     {
-      "id": "140cd896a918",
+      "id": "fc07acc84061",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "areaLabel": "Врачар",
       "time": {
         "start": null,
-        "end": "22:00"
+        "end": "15:00"
       },
       "streets": [
         "Војводе Шупљикца бб (угао Ватрослава Јагића)"
@@ -108,7 +108,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

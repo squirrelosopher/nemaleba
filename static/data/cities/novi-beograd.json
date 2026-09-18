@@ -7,20 +7,20 @@
   },
   "outages": [
     {
-      "id": "289b7ffd2294",
+      "id": "ff4db7bc2978",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "areaLabel": "Нови Београд",
       "time": {
         "start": null,
-        "end": "22:00"
+        "end": "15:00"
       },
       "streets": [
-        "Генерала Михаила Недељковића 169"
+        "Милентија Поповића 5в"
       ],
       "reason": null,
-      "note": "Нови Београд: Генерала Михаила Недељковића 169",
+      "note": "Нови Београд: Милентија Поповића 5в",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
@@ -108,7 +108,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

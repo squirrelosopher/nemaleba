@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "4dc3170e011b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Земун",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Бранка Пешића бб (угао Угриновачке)"
-      ],
-      "reason": null,
-      "note": "Земун: Бранка Пешића бб (угао Угриновачке)",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "8b6de8b4d0d1",
       "utility": "electricity",
       "kind": "planned",
@@ -39,6 +22,24 @@
       "reason": null,
       "note": "ЦАРА ДУШАНА: 115-117,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "3dac46d2a648",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Земун",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Николе Тесле 4",
+        "Бургерових 25 – Земун поље"
+      ],
+      "reason": null,
+      "note": "Земун: Николе Тесле 4, Бургерових 25 – Земун поље",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
       "id": "446b183a3ae3",
@@ -159,7 +160,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
