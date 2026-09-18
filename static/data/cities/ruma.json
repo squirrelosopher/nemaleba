@@ -119,6 +119,20 @@
       "reason": null,
       "note": "Тренутно је у току санација квара на водоводној мрежи у Партизанској улици у Врднику.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-vrdnik-67/"
+    },
+    {
+      "id": "e6b6ee7fd4ed",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Рума",
+      "time": null,
+      "streets": [
+        "Сремској"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улицама Сремској, Иво Лоле Рибара, Пашка Ромца и Виноградској у Руми.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-78/"
     }
   ],
   "history": [
@@ -205,7 +219,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 0,
-      "waterOutages": 1
+      "waterOutages": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T08:11:20.671Z",
+  "generatedAt": "2026-09-18T08:12:50.426Z",
   "summary": {
     "date": "2026-09-18",
     "electricityOutages": 140,
@@ -162,6 +162,12 @@
         "waterOutages": 0
       },
       {
+        "id": "ruma",
+        "nameCyrillic": "Рума",
+        "electricityOutages": 0,
+        "waterOutages": 2
+      },
+      {
         "id": "smederevo",
         "nameCyrillic": "Смедерево",
         "electricityOutages": 2,
@@ -264,12 +270,6 @@
         "waterOutages": 0
       },
       {
-        "id": "gornji-milanovac",
-        "nameCyrillic": "Горњи Милановац",
-        "electricityOutages": 0,
-        "waterOutages": 1
-      },
-      {
         "id": "zitiste",
         "nameCyrillic": "Житиште",
         "electricityOutages": 1,
@@ -316,12 +316,6 @@
         "nameCyrillic": "Пријепоље",
         "electricityOutages": 1,
         "waterOutages": 0
-      },
-      {
-        "id": "ruma",
-        "nameCyrillic": "Рума",
-        "electricityOutages": 0,
-        "waterOutages": 1
       },
       {
         "id": "cacak",
