@@ -663,6 +663,23 @@
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
+      "id": "40118d2f972d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Гроцка",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Призренска 5 – Врчин"
+      ],
+      "reason": null,
+      "note": "Гроцка:  Призренска 5 – Врчин",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
       "id": "b5f533274d2d",
       "utility": "water",
       "kind": "emergency",
@@ -883,7 +900,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 10,
-      "waterOutages": 3
+      "waterOutages": 4
     }
   ]
 }

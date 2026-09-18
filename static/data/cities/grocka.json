@@ -57,6 +57,23 @@
       "reason": null,
       "note": "Насеље КАЛУЂЕРИЦА: ДУШКА ТРИФУНОВИЋА: 2-6,1-11, КОСОВСКИХ БОЖУРА: 2-8,3-5, КРАГУЈЕВАЧКА: 2,6,3-9, НЕГОТИНСКА: 4,1-7, УЖИЧКА: 1-1X, ВИШЊИЋЕВА ДРУГА ЛЕВИ ПРИЛАЗ: ББ,8,1-13,29Б-35, ЗАГЕ МАЛИВУК: 16-24,28-34,13-21,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "40118d2f972d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Гроцка",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Призренска 5 – Врчин"
+      ],
+      "reason": null,
+      "note": "Гроцка:  Призренска 5 – Врчин",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
   "history": [
@@ -143,7 +160,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
