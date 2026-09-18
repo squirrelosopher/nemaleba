@@ -248,6 +248,23 @@
       "reason": null,
       "note": "\"БУКОВАЦ: Улице Карађорђева од 46-96 и 47-95\r\nСветозара Милетића од 12-52 и 3-55\r\nСтражиловска од 2-14 и 1-19\r\nБранка Радичевића од 2-46 и 1-29\r\nДоситеја Обрадовића од 1-7\r\nХероја Пинкија од 2-10 и 1-15\r\nЛазе Костића \r\nКосовска\r\nВука Караџића\r\nКестењара\r\nПотез Бели камен\"",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "66d2e1bc7b44",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "улице Јернеја Копитара, Хероја Пинкија (од Лазе Лазаревића до Морнарске) и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити улице Јернеја Копитара, Хероја Пинкија (од Лазе Лазаревића до Морнарске) и околне улице.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-petak-18-9-2026/"
     }
   ],
   "history": [
@@ -334,7 +351,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 3,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

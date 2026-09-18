@@ -10,12 +10,12 @@
     "lastComplete": "2026-09-18"
   },
   "bvk-beograd": {
-    "entries": 15,
+    "entries": 13,
     "lastNonEmpty": "2026-09-18",
     "lastComplete": "2026-09-18"
   },
   "jkp-vik-novi-sad": {
-    "entries": 42,
+    "entries": 43,
     "lastNonEmpty": "2026-09-18",
     "lastComplete": "2026-09-18"
   },
@@ -25,8 +25,11 @@
     "lastComplete": "2026-09-18"
   },
   "jkp-vodovod-pancevo": {
-    "entries": 9,
+    "entries": 0,
     "lastNonEmpty": "2026-09-18",
+    "unreadable": [
+      "This operation was aborted for https://www.vodovodpa.rs/wp-json/wp/v2/posts?categories=7&per_page=15&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-09-18"
   },
   "jkp-vodovod-sremska-mitrovica": {
