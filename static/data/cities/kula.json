@@ -7,96 +7,6 @@
   },
   "outages": [
     {
-      "id": "41c53f62eecf",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Кула",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "БЕЗДАН",
-        "УЛИЦЕ:ПРОЛЕТЕРСКА",
-        "ЦВЕТНА",
-        "ЛАКАТНА",
-        "ГРОБЉАНСКА",
-        "КАНАЛСКА ОБАЛА",
-        "СОМБОРСКИ ПУТ",
-        "ЖРТАВА фАШИЗМА",
-        "МАЛА",
-        "РУЖИНА",
-        "П.ШАНДОРА",
-        "ПУСТА",
-        "НОВОГРАДСКА",
-        "АДИ ЕНДРЕ",
-        "Б.ЈЕДИНСТВА",
-        "КАМЕНОРЕЗАЦ",
-        "ДОМ КУЛТУРЕ."
-      ],
-      "reason": null,
-      "note": "БЕЗДАН,УЛИЦЕ:ПРОЛЕТЕРСКА,ЦВЕТНА,ЛАКАТНА,ГРОБЉАНСКА,КАНАЛСКА ОБАЛА,СОМБОРСКИ ПУТ,ЖРТАВА фАШИЗМА,МАЛА,РУЖИНА,П.ШАНДОРА,ПУСТА,НОВОГРАДСКА,АДИ ЕНДРЕ,Б.ЈЕДИНСТВА,КАМЕНОРЕЗАЦ,ДОМ КУЛТУРЕ.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "3baff69fd0c1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Кула",
-      "time": {
-        "start": "08:30",
-        "end": "09:30"
-      },
-      "streets": [
-        "КУЦУРСКИ ПУТ ББ",
-        "ДОЖА ЂЕРЂА 57-61",
-        "ГАЛ ЛАСЛА 1-3 И 4-10",
-        "П.ШАНДОРА 2-24 И 3-13",
-        "Р.МИКЛОША 1-43 И 2-34 И ББ",
-        "САЛАШ 208",
-        "САВИНОСЕЛСКИ ПУТ ББ"
-      ],
-      "reason": null,
-      "note": "КУЦУРСКИ ПУТ ББ,ДОЖА ЂЕРЂА 57-61,ГАЛ ЛАСЛА 1-3 И 4-10,П.ШАНДОРА 2-24 И 3-13,Р.МИКЛОША 1-43 И 2-34 И ББ,САЛАШ 208,САВИНОСЕЛСКИ ПУТ ББ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6b16d1995aa9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Кула",
-      "time": {
-        "start": "08:30",
-        "end": "09:30"
-      },
-      "streets": [
-        "КУЦУРСКИ ПУТ ББ\r\nДОЖА ЂЕРЂА 57-61\r\nГАЛ ЛАСЛА 1-3 И 4-10\r\nП.ШАНДОРА 2-24 И 3-13\r\nР.МИКЛОША 1-43 И 2-34 И ББ\r\nСАЛАШ 208\r\nСАВИНОСЕЛСКИ ПУТ ББ"
-      ],
-      "reason": null,
-      "note": "КУЦУРСКИ ПУТ ББ\r\nДОЖА ЂЕРЂА 57-61\r\nГАЛ ЛАСЛА 1-3 И 4-10\r\nП.ШАНДОРА 2-24 И 3-13\r\nР.МИКЛОША 1-43 И 2-34 И ББ\r\nСАЛАШ 208\r\nСАВИНОСЕЛСКИ ПУТ ББ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f27e8fb78926",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Кула",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "7.ЈУЛИ 2-42 И 3-73 И ББ\r\n29.НОВ 12-64 И 19-61 \r\nВИНОГРАДСКА 27 И ББ\r\nРАДНИЧКА 1-39 И 2-46\r\nВ.НАЗОРА 2-10 И 9"
-      ],
-      "reason": null,
-      "note": "7.ЈУЛИ 2-42 И 3-73 И ББ\r\n29.НОВ 12-64 И 19-61 \r\nВИНОГРАДСКА 27 И ББ\r\nРАДНИЧКА 1-39 И 2-46\r\nВ.НАЗОРА 2-10 И 9",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "9415a07143b7",
       "utility": "electricity",
       "kind": "planned",
@@ -126,7 +36,32 @@
       ],
       "reason": null,
       "note": "СИВАЦ,УЛИЦЕ:ДРУГЕ ДАЛМАТИНСКЕ БРИГАДЕ,ТРШОВА,Ж.ЗРЕЊАНИНА,СВ.МИЛЕТИЋА,И.Л.РИБАРА,М.ПИЈАДЕ,Х.ВЕЉКА,ЈНА,М.ЈЕЛИЋА,М.ТИТА,СПОРТСКА ХАЛА,ПРВЕ ВОЈВОЂАНСКЕ БРИГАДЕ,Б.ЂИЛАСА,Т.ЖИЖИЋА,ЛАКАТНА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "7c947b2c2755",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Кула",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "ФРУШКОГОРСКА 1-47 И4-62 И XX",
+        "М.ТИТА 2-62 И 1-55 И 87",
+        "ШАЈКАШКОГ ОДРЕДА 2-6 И 1-5",
+        "Б.КИДРИЧА 1-25 И 2-24",
+        "И.Л.РИБАРА 2-52 И 3-57",
+        "КАНАЛСКА 2-22 И 1",
+        "ПАРТИЗАНСКА 1-11 И 2-10",
+        "ИРИНЕ ПРОВЧИ 1-107 И 2-6 И ББ",
+        "САЛАШ ЛАЛИЋ 2"
+      ],
+      "reason": null,
+      "note": "ФРУШКОГОРСКА 1-47 И4-62 И XX,М.ТИТА 2-62 И 1-55 И 87,ШАЈКАШКОГ ОДРЕДА 2-6 И 1-5,Б.КИДРИЧА 1-25 И 2-24,И.Л.РИБАРА 2-52 И 3-57,КАНАЛСКА 2-22 И 1,ПАРТИЗАНСКА 1-11 И 2-10,ИРИНЕ ПРОВЧИ 1-107 И 2-6 И ББ,САЛАШ ЛАЛИЋ 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

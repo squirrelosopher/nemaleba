@@ -7,27 +7,6 @@
   },
   "outages": [
     {
-      "id": "f33a687785fe",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Чајетина",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Сирогојно засеоци - Бјеличићи",
-        "Лучићи",
-        "Стаматовићи Ћалдовићи",
-        "Млала",
-        "Бјеличићи и Митрићи"
-      ],
-      "reason": null,
-      "note": "Сирогојно засеоци - Бјеличићи, Лучићи, Стаматовићи Ћалдовићи, Млала, Бјеличићи и Митрићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "176887563462",
       "utility": "electricity",
       "kind": "planned",
@@ -49,7 +28,24 @@
       ],
       "reason": null,
       "note": "Новаковићи, Јевтовићи, Лазаревићи, Обарадовићи, Бачевци, Савичићи, Трнава, Ђедовићи и Клисура.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "dca544eed0f7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Краткотрајни наизменични прекиди у напајању конзима Златибор"
+      ],
+      "reason": null,
+      "note": "Краткотрајни наизменични прекиди у напајању конзима Златибор",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

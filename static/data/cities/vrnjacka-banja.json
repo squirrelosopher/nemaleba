@@ -22,7 +22,7 @@
       ],
       "reason": null,
       "note": "Део насеља Ново Село око стругаре и део Мезграје од Пајићког забрана до Борине кафане а два пута по пола сата за време трајања манипулације део Новог Села испод пруге,и од Молове пумпе до Буренцета.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "91c62c037c02",
@@ -39,7 +39,25 @@
       ],
       "reason": null,
       "note": "Део насеља Врњци од рпружног прелаза Станчић код золошког врта све то ауто пута.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "f23583c99fa8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Врњачка Бања",
+      "time": {
+        "start": "11:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Насеља Станишинци",
+        "Гоч и Гарешница"
+      ],
+      "reason": null,
+      "note": "Насеља Станишинци,Гоч и Гарешница",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

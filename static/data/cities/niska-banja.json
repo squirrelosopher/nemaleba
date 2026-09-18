@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "f62de8f057de",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Нишка бања",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део Насеља Островице",
-        "Островица и Равни До;"
-      ],
-      "reason": null,
-      "note": "део Насеља Островице, Островица и Равни До;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b2b274f9cef6",
       "utility": "water",
       "kind": "emergency",
@@ -63,7 +45,7 @@
       ],
       "reason": null,
       "note": "Насеље Никола Тесла - делови улица Радикински пут,Радикински пут прилаз један (1-5), Радикински пут прилаз два (1-10), Хусињска (1-14), Недељка Симовића (непарни бр. 1-9,15), Пасјачког одреда (1-8), Заплањска (бб);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

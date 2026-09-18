@@ -5,60 +5,7 @@
     "nameLatin": "Šabac",
     "branchCyrillic": "Шабац"
   },
-  "outages": [
-    {
-      "id": "77a1c5c7ec0e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "МНН из ТС10/ 0",
-        "4 kV „Центар„ ул Железничка у Петловачи"
-      ],
-      "reason": null,
-      "note": "МНН из ТС10/ 0,4 kV „Центар„ ул Железничка у Петловачи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "009e0e12761a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Без ел.енергије остаће купци у Орашцу и Мрђеновцу"
-      ],
-      "reason": null,
-      "note": "Без ел.енергије остаће купци у Орашцу и Мрђеновцу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b50bbd4f3103",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:15",
-        "end": "13:00"
-      },
-      "streets": [
-        "Без ел. енергије остаје село Јевремовац"
-      ],
-      "reason": null,
-      "note": "Без ел. енергије остаје село Јевремовац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

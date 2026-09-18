@@ -79,7 +79,60 @@
       ],
       "reason": null,
       "note": "Због отклањања предхаваријског стања без ел.енергије биће корисници система у ближој околини Гимназије, старе Поште и око Дајмонда!",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "d3a63abd6fd3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Долово:Део Долова од улаза из правца Панчева до ул.Жарка Зрењанина",
+        "викенд насеље Ушће"
+      ],
+      "reason": null,
+      "note": "Долово:Део Долова од улаза из правца Панчева до ул.Жарка Зрењанина, викенд насеље Ушће",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "f277bd9eb74b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "Омољица:Војводе Живојина Мишића од Јосифа Панчића до Дунавске",
+        "Стефана Немање од Поњавичке до Цара Душана"
+      ],
+      "reason": null,
+      "note": "Омољица:Војводе Живојина Мишића од Јосифа Панчића до Дунавске, Стефана Немање од Поњавичке до Цара Душана",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "90a6b914dadc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "11:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Панчево:Мите Петровића од Др.Борислава Јанкулова ка Иве Курјачког"
+      ],
+      "reason": null,
+      "note": "Панчево:Мите Петровића од Др.Борислава Јанкулова ка Иве Курјачког",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

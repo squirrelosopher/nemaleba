@@ -5,26 +5,7 @@
     "nameLatin": "Užice",
     "branchCyrillic": "Ужице"
   },
-  "outages": [
-    {
-      "id": "507cb6430464",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "11:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Потрошачи из улице Међај",
-        "бројеви од 19 до 45"
-      ],
-      "reason": null,
-      "note": "Потрошачи из улице Међај, бројеви од 19 до 45",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

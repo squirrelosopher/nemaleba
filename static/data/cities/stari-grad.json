@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "5fe5cd014418",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Стари град",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "ДОБРИЦЕ ЋОСИЋА: 6-10,14"
-      ],
-      "reason": null,
-      "note": "ДОБРИЦЕ ЋОСИЋА: 6-10,14,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ec7efde2a27f",
       "utility": "water",
       "kind": "emergency",

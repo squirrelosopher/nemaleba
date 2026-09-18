@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "69578ef92e37",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Шљнкара Катун и викенд насеље Катун(око цркве светог Прокопијау Катуну)"
-      ],
-      "reason": null,
-      "note": "Шљнкара Катун и викенд насеље Катун(око цркве светог Прокопијау Катуну)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7dcfece55cc1",
       "utility": "electricity",
       "kind": "planned",
@@ -43,7 +26,7 @@
       ],
       "reason": null,
       "note": "У Алексинцу, улице у близини НИС бензиске станице део Шуматовачке, део Моравичке , део Максима Горког, део Озренске, део Петра Зеца и део 7. Јули.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ebe5979a051e",
@@ -65,7 +48,7 @@
       ],
       "reason": null,
       "note": "У Алексинцу улице око Дома за незбринуту децу, део Таушановићеве, Руже Лериц, део Тихомира Ђорђевића, део Партизанске, део Нове Буцекове и део Љупчета Николића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,25 +5,7 @@
     "nameLatin": "Bečej",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [
-    {
-      "id": "7a7d51f5f590",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Бечеј",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Улица Зелена бројеви 50-52"
-      ],
-      "reason": null,
-      "note": "Улица Зелена бројеви 50-52",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

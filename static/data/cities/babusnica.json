@@ -7,60 +7,6 @@
   },
   "outages": [
     {
-      "id": "aaa6be659785",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "08:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "Нашушковица",
-        "Куса Врана."
-      ],
-      "reason": null,
-      "note": "Нашушковица,Куса Врана.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "41cde0771dba",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "део села Стрелац",
-        "Савинци",
-        "Студена."
-      ],
-      "reason": null,
-      "note": "део села Стрелац,Савинци,Студена.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "edc1cfda73c7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-17",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "12:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Берин Извор."
-      ],
-      "reason": null,
-      "note": "Берин Извор.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8e6905d6abf4",
       "utility": "electricity",
       "kind": "planned",
@@ -77,7 +23,7 @@
       ],
       "reason": null,
       "note": "Део села Драгинац, Јасенов Дел, Пресека",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4a4e302f2e11",
@@ -94,7 +40,7 @@
       ],
       "reason": null,
       "note": "Део села Савинци",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "474550a85b75",
@@ -111,7 +57,7 @@
       ],
       "reason": null,
       "note": "Део села Горчинце",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

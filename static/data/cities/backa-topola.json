@@ -5,7 +5,25 @@
     "nameLatin": "Bačka Topola",
     "branchCyrillic": "Суботица"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "ab135c06b08d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "15:00",
+        "end": "18:00"
+      },
+      "streets": [
+        "у насељу Стара Моравица у улицама и деловима улица са околином: Михаља Танчића бр. (1-46), Пачирски пут бр. 3, Ст. Ковач Ђуле 1."
+      ],
+      "reason": null,
+      "note": "у насељу Стара Моравица у улицама и деловима улица са околином: Михаља Танчића бр. (1-46), Пачирски пут бр. 3, Ст. Ковач Ђуле 1.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-08",
