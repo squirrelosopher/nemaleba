@@ -82,6 +82,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "f2925491847a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "10:00",
+        "end": null
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи, од 10 часова без воде је део насеља Стрелиште, и то следеће улице:\n\nМанасијска\n\nДечанска\n\nЦвијићева, од Стевана Сремца до Милешевске\n\nМилешевска, од Цвијићеве до Дечанске\n\nЕкипе ЈКП „Водовод и канализација“ су на терену, а санација хаварије је у току.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/09/18/18-9-2026/"
+    },
+    {
       "id": "d3a63abd6fd3",
       "utility": "electricity",
       "kind": "planned",
@@ -219,7 +234,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

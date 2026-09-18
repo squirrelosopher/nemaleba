@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T08:12:50.426Z",
+  "generatedAt": "2026-09-18T09:11:02.069Z",
   "summary": {
     "date": "2026-09-18",
     "electricityOutages": 140,
-    "waterOutages": 37,
+    "waterOutages": 38,
     "affected": [
       {
         "id": "beograd",
@@ -42,6 +42,12 @@
         "waterOutages": 0
       },
       {
+        "id": "pancevo",
+        "nameCyrillic": "Панчево",
+        "electricityOutages": 4,
+        "waterOutages": 1
+      },
+      {
         "id": "kursumlija",
         "nameCyrillic": "Куршумлија",
         "electricityOutages": 4,
@@ -52,12 +58,6 @@
         "nameCyrillic": "Нови Сад",
         "electricityOutages": 3,
         "waterOutages": 1
-      },
-      {
-        "id": "pancevo",
-        "nameCyrillic": "Панчево",
-        "electricityOutages": 4,
-        "waterOutages": 0
       },
       {
         "id": "paracin",
@@ -409,7 +409,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 107,
-      "waterOutages": 37
+      "waterOutages": 38
     }
   ],
   "providers": [
