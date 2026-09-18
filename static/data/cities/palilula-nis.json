@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "99c6645aec2d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-11",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Здравке Вучковић"
-      ],
-      "reason": null,
-      "note": "НАСТАВАК РАДОВА У НАСЕЉУ ПАЛИЛУЛА бог санације квара на водоводној мрежи потребан је ископ на углу улица Здравке Вучковић и Сутјеска. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 сати у улици Здравке Вучковић",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-293/"
-    },
-    {
       "id": "db2e13150c32",
       "utility": "water",
       "kind": "emergency",
@@ -397,6 +380,11 @@
       "date": "2026-09-18",
       "electricityOutages": 3,
       "waterOutages": 3
+    },
+    {
+      "date": "2026-09-19",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }
