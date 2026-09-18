@@ -931,6 +931,193 @@
       ],
       "reason": "поправка уличне линије",
       "note": "Индустријска зона, ул. Складишни центар ( од 16:00 до 19:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "a650f3da7f7a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-18-09-2026/",
+      "areaLabel": "Ердоглија",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Копаоничка"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "\" Хаваријска искључења на дан 18.09.2026. \n \n Ердоглија, ул. Копаоничка ( од 08:00 до 11:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "c29f83520fe9",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-18-09-2026/",
+      "areaLabel": "Илићево",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Складишни центар"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Илићево, ул. Складишни центар ( од 08:00 до 11:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "739b42168c86",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-18-09-2026/",
+      "areaLabel": "Осојак",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Код Коњара"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Осојак, ул. Код Коњара ( од 08:00 до 11:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "43e4ea39eb85",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-18-09-2026/",
+      "areaLabel": "Баточина",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Српска"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Баточина, ул. Српска ( од 11:00 до 12:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "68e3feb465df",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-18-09-2026/",
+      "areaLabel": "Илићево",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Милутина Гођевца"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Илићево, ул. Милутина Гођевца ( од 11:00 до 13:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "925fa761e9db",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-18-09-2026/",
+      "areaLabel": "Станово",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Овчарска"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Станово, ул. Овчарска ( од 11:00 до 13:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "e9155628ee54",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-18-09-2026/",
+      "areaLabel": "Баточина",
+      "time": {
+        "start": "12:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Цара Душана"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Баточина, ул. Цара Душана ( од 12:00 до 15:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "75ec30768dc9",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-18-09-2026/",
+      "areaLabel": "Илићево",
+      "time": {
+        "start": "13:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Стевана Милосављевића"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Илићево, ул. Стевана Милосављевића ( од 13:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "6ca44c1ef499",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-18-09-2026/",
+      "areaLabel": "Пчелице",
+      "time": {
+        "start": "13:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Задругарска"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "М.Пчелице, ул. Задругарска ( од 13:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "eb38f9f561ef",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-18-09-2026/",
+      "areaLabel": "Баточина",
+      "time": {
+        "start": "15:00",
+        "end": "18:00"
+      },
+      "streets": [
+        "Војвођанска"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Баточина, ул. Војвођанска ( од 15:00 до 18:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "70da97ccfb1d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-18-09-2026/",
+      "areaLabel": "Сунчани Брег",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Пријатељства"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Сунчани Брег, ул. Пријатељства ( од 16:00 до 19:00 часова ), поправка уличне линије."
     }
   ],
   "history": [
@@ -1017,7 +1204,7 @@
     {
       "date": "2026-09-18",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 11
     }
   ]
 }
