@@ -252,6 +252,64 @@
       "reason": null,
       "note": "НАСТАВАК РАДОВА У НАСЕЉУ ПАЛИЛУЛА оком дана наставак радова на водоводној мрежи у улици Војводе Путника бб. Због поправке водоводне мреже у прекиду ће бити водоснабдевање до 15 часова у делу наведене улице до другог кружног тока",
       "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-298/"
+    },
+    {
+      "id": "9a0a7bfa8a97",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "делови улица Војводе Путника",
+        "Подгоричке",
+        "Никодија Стојановића Татка",
+        "Јове Тошића",
+        "Требињске",
+        "Космајске",
+        "Бубањске долине",
+        "делови Насеља Милке Протић и Паси Пољане;"
+      ],
+      "reason": null,
+      "note": "делови улица Војводе Путника, Подгоричке, Никодија Стојановића Татка, Јове Тошића, Требињске, Космајске, Бубањске долине, делови Насеља Милке Протић и Паси Пољане;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "f35a4b49d313",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "део Насеља Делијски Вис;"
+      ],
+      "reason": null,
+      "note": "део Насеља Делијски Вис;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "fbac26f26f01",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "део Мокрањчеве улице;"
+      ],
+      "reason": null,
+      "note": "део Мокрањчеве улице;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

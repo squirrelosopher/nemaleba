@@ -5,7 +5,25 @@
     "nameLatin": "Raška",
     "branchCyrillic": "Краљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "8b1b0644a5c5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Рашка",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "ТС 10/04 Пискања-1 НН Излаз према прузи."
+      ],
+      "reason": null,
+      "note": "ТС 10/04 Пискања-1 НН Излаз према прузи.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

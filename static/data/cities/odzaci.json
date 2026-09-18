@@ -5,7 +5,25 @@
     "nameLatin": "Odžaci",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "dcabfdb1bac9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Оџаци",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "БАЧ: улице део Братсва-Јединства и ЈНА"
+      ],
+      "reason": null,
+      "note": "БАЧ: улице део Братсва-Јединства и ЈНА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

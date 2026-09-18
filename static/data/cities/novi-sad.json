@@ -282,6 +282,57 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 15 сати бити улице Јернеја Копитара, Хероја Пинкија (од Лазе Лазаревића до Морнарске) и околне улице.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-petak-18-9-2026/"
+    },
+    {
+      "id": "b5351a3ee1cc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Буковац:\r\n\"Улице : Кестењара од 2-32 и 1-33\r\nПинкијева од 14а-18 и 23-51\r\nСветозара Марковића Тозе од 1-23\r\nМилице Стојадиновић Српкиње од 2-14 и 1-13\r\nКарађођева од 5-11\r\n\""
+      ],
+      "reason": null,
+      "note": "Буковац:\r\n\"Улице : Кестењара од 2-32 и 1-33\r\nПинкијева од 14а-18 и 23-51\r\nСветозара Марковића Тозе од 1-23\r\nМилице Стојадиновић Српкиње од 2-14 и 1-13\r\nКарађођева од 5-11\r\n\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "7ea7ee4f29e7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Руменка>\r\n\"Улице: Кисачки пут \r\nНова 4\r\nФирме : Агросервис Максић\r\nПрофесионал\r\nАгромин 1 и Агромин 2\r\nГМРС\r\nМеталум\r\nАсвалтна база\r\nБетонска база\r\nСилоси\r\nАрм Стил\r\n\""
+      ],
+      "reason": null,
+      "note": "Руменка>\r\n\"Улице: Кисачки пут \r\nНова 4\r\nФирме : Агросервис Максић\r\nПрофесионал\r\nАгромин 1 и Агромин 2\r\nГМРС\r\nМеталум\r\nАсвалтна база\r\nБетонска база\r\nСилоси\r\nАрм Стил\r\n\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "ac7552a370c3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "\"Улице: Беле Њиве од 43-45\r\nФилипа Вишњића од 34-48 и 39-51\r\nАрсенија Чарнојевића 24 \r\n\""
+      ],
+      "reason": null,
+      "note": "\"Улице: Беле Њиве од 43-45\r\nФилипа Вишњића од 34-48 и 39-51\r\nАрсенија Чарнојевића 24 \r\n\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,21 +7,20 @@
   },
   "outages": [
     {
-      "id": "e440d5bdeac7",
+      "id": "4e932942008e",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-18",
       "areaLabel": "Барајево",
       "time": {
         "start": null,
-        "end": "15:00"
+        "end": "22:00"
       },
       "streets": [
-        "Средњи крај 10",
-        "Моше Пијаде 31б – Мељак"
+        "Хајдук Вељкова 1 – Гунцате"
       ],
       "reason": null,
-      "note": "Барајево: Средњи крај 10, Моше Пијаде 31б – Мељак",
+      "note": "Барајево: Хајдук Вељкова 1 – Гунцате",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],

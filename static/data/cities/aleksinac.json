@@ -49,6 +49,41 @@
       "reason": null,
       "note": "У Алексинцу улице око Дома за незбринуту децу, део Таушановићеве, Руже Лериц, део Тихомира Ђорђевића, део Партизанске, део Нове Буцекове и део Љупчета Николића",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "ea32c59c09fc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Алексинац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део Трњана",
+        "улаз из Д.Адровца и део према цркви Свете Петке"
+      ],
+      "reason": null,
+      "note": "Део Трњана, улаз из Д.Адровца и део према цркви Свете Петке",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "f173068d2d73",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Алексинац",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Житковачки Пут-Индустриска Зона"
+      ],
+      "reason": null,
+      "note": "Житковачки Пут-Индустриска Зона",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

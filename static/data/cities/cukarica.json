@@ -24,22 +24,39 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "0d209d898696",
+      "id": "b99f6b176187",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-18",
       "areaLabel": "Чукарица",
       "time": {
         "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Краљевачких жртава 47 – Жарково",
+        "Београдска 429/3 – Сремчица"
+      ],
+      "reason": null,
+      "note": "Чукарица: Краљевачких жртава 47 – Жарково, Београдска 429/3 – Сремчица,",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "d667af56c341",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-19",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": null,
         "end": "15:00"
       },
       "streets": [
-        "Липа 15 – Церак",
-        "Београдска 429/3 – Сремчица",
-        "Златних везиља 7 – Сремчица"
+        "Горичка 83а – Сремчица",
+        "Хитрих косача 7 – Сремчица"
       ],
       "reason": null,
-      "note": "Чукарица: Липа 15 – Церак, Београдска 429/3 – Сремчица, Златних везиља 7 – Сремчица",
+      "note": "Чукарица: Горичка 83а – Сремчица, Хитрих косача 7 – Сремчица",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {

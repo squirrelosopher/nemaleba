@@ -24,6 +24,42 @@
       "reason": null,
       "note": "Сибница, Пребреза, Чучале и Џепница",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "903b3c433531",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Блаце",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Села Сибница",
+        "Пребреза",
+        "Чучале и Ђепница."
+      ],
+      "reason": null,
+      "note": "Села Сибница ,Пребреза ,Чучале и Ђепница.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "e614a4f61d5c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-21",
+      "areaLabel": "Блаце",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Село Чунгула и део Сувог Дола."
+      ],
+      "reason": null,
+      "note": "Село Чунгула и део Сувог Дола.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
