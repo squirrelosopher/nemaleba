@@ -7,75 +7,6 @@
   },
   "outages": [
     {
-      "id": "c1b1debad5cd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Спанце"
-      ],
-      "reason": null,
-      "note": "Спанце",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "764503fac51e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део Куршумлијске Бање - засеок Недићи"
-      ],
-      "reason": null,
-      "note": "Део Куршумлијске Бање - засеок Недићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2b88182943ab",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Косаничка рача"
-      ],
-      "reason": null,
-      "note": "Косаничка рача",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "348e0cd038bb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Петра Драпшина",
-        "28. Август и део ул.Вука Караџића 18"
-      ],
-      "reason": null,
-      "note": "Петра Драпшина, 28. Август и део ул.Вука Караџића 18",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "0cb5344706f7",
       "utility": "electricity",
       "kind": "planned",
@@ -90,7 +21,7 @@
       ],
       "reason": null,
       "note": "Село Пепељевац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

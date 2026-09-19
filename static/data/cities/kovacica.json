@@ -5,25 +5,7 @@
     "nameLatin": "Kovačica",
     "branchCyrillic": "Панчево"
   },
-  "outages": [
-    {
-      "id": "81c4ed6186a7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Ковачица",
-      "time": {
-        "start": "09:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Ковачица: ЈНА ос М.Тита до Хјезославове, део Ж.Зрењанина"
-      ],
-      "reason": null,
-      "note": "Ковачица: ЈНА ос М.Тита до Хјезославове, део Ж.Зрењанина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-04",

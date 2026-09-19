@@ -5,59 +5,7 @@
     "nameLatin": "Bajina Bašta",
     "branchCyrillic": "Ужице"
   },
-  "outages": [
-    {
-      "id": "4d8427abafc1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Бајина Башта",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Насеља: Љештанско"
-      ],
-      "reason": null,
-      "note": "Насеља: Љештанско",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e76c3d73d193",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Бајина Башта",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Насеља: Луково, Бушино, Зауглине, Малишевац"
-      ],
-      "reason": null,
-      "note": "Насеља: Луково, Бушино, Зауглине, Малишевац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "10afb54f41a0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Бајина Башта",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Насеља: Јасик, Ружићи, Гвоздачка планина, Бакићи у Гвосцу"
-      ],
-      "reason": null,
-      "note": "Насеља: Јасик, Ружићи, Гвоздачка планина, Бакићи у Гвосцу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

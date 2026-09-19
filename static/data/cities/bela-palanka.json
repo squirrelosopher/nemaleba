@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "2a74afd207a1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Бела Паланка",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део села Доња Коритница"
-      ],
-      "reason": null,
-      "note": "Део села Доња Коритница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "dee0529b1554",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +22,7 @@
       ],
       "reason": null,
       "note": "Белановац,Вргудинац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

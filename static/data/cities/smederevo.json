@@ -7,38 +7,23 @@
   },
   "outages": [
     {
-      "id": "691de50bcc13",
+      "id": "17ca446fe774",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-18",
+      "date": "2026-09-22",
       "areaLabel": "Смедерево",
       "time": {
         "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Мала Крсна-ул. Слободана Вељковића"
-      ],
-      "reason": null,
-      "note": "Мала Крсна-ул. Слободана Вељковића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f5cf28207447",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "11:00",
         "end": "14:00"
       },
       "streets": [
-        "ул. Чеховљева"
+        "Потез Шешковац",
+        "Парлози",
+        "Гушће и Колари"
       ],
       "reason": null,
-      "note": "ул. Чеховљева",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+      "note": "Потез Шешковац, Парлози, Гушће и Колари",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,7 +5,26 @@
     "nameLatin": "Rača",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "6b598919f2cb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Рача",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Општина Рача",
+        "осим насеља Сараново и Сепци - Поља"
+      ],
+      "reason": null,
+      "note": "Општина Рача, осим насеља Сараново и Сепци - Поља",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-12",

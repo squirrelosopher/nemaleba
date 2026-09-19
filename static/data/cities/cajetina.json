@@ -7,30 +7,6 @@
   },
   "outages": [
     {
-      "id": "176887563462",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Чајетина",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Новаковићи",
-        "Јевтовићи",
-        "Лазаревићи",
-        "Обарадовићи",
-        "Бачевци",
-        "Савичићи",
-        "Трнава",
-        "Ђедовићи и Клисура."
-      ],
-      "reason": null,
-      "note": "Новаковићи, Јевтовићи, Лазаревићи, Обарадовићи, Бачевци, Савичићи, Трнава, Ђедовићи и Клисура.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "dca544eed0f7",
       "utility": "electricity",
       "kind": "planned",
@@ -45,6 +21,40 @@
       ],
       "reason": null,
       "note": "Краткотрајни наизменични прекиди у напајању конзима Златибор",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "82298c90b05d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Краткотрајни наизменични прекиди у напајању конзима Златибор"
+      ],
+      "reason": null,
+      "note": "Краткотрајни наизменични прекиди у напајању конзима Златибор",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "627bd8aa5823",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "09:00",
+        "end": "18:00"
+      },
+      "streets": [
+        "Део стамбеног насеља ВИП Богић"
+      ],
+      "reason": null,
+      "note": "Део стамбеног насеља ВИП Богић",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],

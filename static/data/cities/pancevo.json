@@ -7,22 +7,76 @@
   },
   "outages": [
     {
-      "id": "cd66cb3d75a1",
-      "utility": "electricity",
-      "kind": "planned",
+      "id": "5244d60b7793",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Петра Прерадовића од Цара Лазара до улице Цара Душана"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остала Улица Петра Прерадовића од Цара Лазара до улице Цара Душана.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/09/15/15-9-2026-3/"
+    },
+    {
+      "id": "23c7ea6993e6",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "парна страна улице Жарка Зрењанина од Првомајске до Тозе Марковића"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остала парна страна улице Жарка Зрењанина од Првомајске до Тозе Марковића.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/09/15/15-9-2026-2/"
+    },
+    {
+      "id": "045e9606c95f",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Баваништански пут",
+        "на потезу од пруге до краја улице"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остала Улица Баваништански пут, на потезу од пруге до краја улице.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/09/15/15-9-2026/"
+    },
+    {
+      "id": "a755e96cfe2e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-16",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Јаношикова од Добровољачке до Гробљанске"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остала Улица Јаношикова од Добровољачке до Гробљанске.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/09/16/16-9-2026/"
+    },
+    {
+      "id": "f2925491847a",
+      "utility": "water",
+      "kind": "emergency",
       "date": "2026-09-18",
       "areaLabel": "Панчево",
       "time": {
-        "start": "05:00",
-        "end": "06:00"
+        "start": "10:00",
+        "end": null
       },
-      "streets": [
-        "Због отклањања предхаваријског стања без ел.енергије биће корисници система у ближој околини Гимназије",
-        "старе Поште и око Дајмонда!"
-      ],
+      "streets": [],
       "reason": null,
-      "note": "Због отклањања предхаваријског стања без ел.енергије биће корисници система у ближој околини Гимназије, старе Поште и око Дајмонда!",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "Због хаварије на водоводној мрежи, од 10 часова без воде је део насеља Стрелиште, и то следеће улице:\n\nМанасијска\n\nДечанска\n\nЦвијићева, од Стевана Сремца до Милешевске\n\nМилешевска, од Цвијићеве до Дечанске\n\nЕкипе ЈКП „Водовод и канализација“ су на терену, а санација хаварије је у току.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/09/18/18-9-2026/"
     },
     {
       "id": "3950bc9e1e5e",
@@ -43,7 +97,7 @@
       ],
       "reason": null,
       "note": "\"Панчево: Ул. Штросмајерова 4 и 6, В.Караџића 1,2 и 2Б, Трг Мученика 6,Стара пошта, Косовска(парна страна),Ђуре Јакшића, Игњата Барајевца, Николе Ђурковића,Гимназија, Банка Интеза, Тамиш- Дунав,\r\nУл.Мученичка од И.Барајевца до Н.Тесле, Косовска, ТВ Панчево,\r\nБензинска пумпа Леди,Трг Мученика,\r\n\r\n\r\nЛењинова непарна страна од 1 до 15, Др.Касапиновића од П.Бојовића до Ж.Зрењанина,\r\n\r\nН.Тесле.\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "d3a63abd6fd3",
@@ -61,7 +115,7 @@
       ],
       "reason": null,
       "note": "Долово:Део Долова од улаза из правца Панчева до ул.Жарка Зрењанина, викенд насеље Ушће",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "f277bd9eb74b",
@@ -79,7 +133,7 @@
       ],
       "reason": null,
       "note": "Омољица:Војводе Живојина Мишића од Јосифа Панчића до Дунавске, Стефана Немање од Поњавичке до Цара Душана",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "90a6b914dadc",
@@ -96,6 +150,40 @@
       ],
       "reason": null,
       "note": "Панчево:Мите Петровића од Др.Борислава Јанкулова ка Иве Курјачког",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "240d3b0f658f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Старчево :Од улице Вука Караџића и 7-ог јула ка Омољици комплетан део насеља без Радничког насеља!"
+      ],
+      "reason": null,
+      "note": "Старчево :Од улице Вука Караџића и 7-ог јула ка Омољици комплетан део насеља без Радничког насеља!",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "e785156c7775",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "12:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Бан.Брестовац:Викенд Насеље и камп Јабуков Цвет!"
+      ],
+      "reason": null,
+      "note": "Бан.Брестовац:Викенд Насеље и камп Јабуков Цвет!",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

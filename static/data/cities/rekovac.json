@@ -5,42 +5,7 @@
     "nameLatin": "Rekovac",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [
-    {
-      "id": "a76b4adb1273",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Рековац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Села: Велика Крушевица, Драгово , Малешево ,Жупањевац ,Богалинац ,Надрље, Баре, Сиљевица,Комаране и Мотрић"
-      ],
-      "reason": null,
-      "note": "Села: Велика Крушевица, Драгово , Малешево ,Жупањевац ,Богалинац ,Надрље, Баре, Сиљевица,Комаране и Мотрић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "9fa9379727c5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Рековац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Села: Цикот , Слатина , Старо Село и Ратковић"
-      ],
-      "reason": null,
-      "note": "Села: Цикот , Слатина , Старо Село и Ратковић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-01",

@@ -5,25 +5,7 @@
     "nameLatin": "Varvarin",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [
-    {
-      "id": "5551f888ff6a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Варварин",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део насељеног места Обреж (из ТС Обреж 3)"
-      ],
-      "reason": null,
-      "note": "Део насељеног места Обреж (из ТС Обреж 3)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-07",

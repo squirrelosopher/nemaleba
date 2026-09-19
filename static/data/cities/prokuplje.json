@@ -7,62 +7,6 @@
   },
   "outages": [
     {
-      "id": "b4366a349d83",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "08:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Доситејева",
-        "Новоселска",
-        "Појатска",
-        "Пољопривредна школа и Дом ученика"
-      ],
-      "reason": null,
-      "note": "Доситејева, Новоселска, Појатска, Пољопривредна школа и Дом ученика",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a142db95e544",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Ћуковац",
-        "Бела Вода",
-        "Водице и Војна База"
-      ],
-      "reason": null,
-      "note": "Ћуковац, Бела Вода, Водице и Војна База",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "aeb8b4361895",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Бранка Радичевића и Ђуре Ђаковића"
-      ],
-      "reason": null,
-      "note": "Бранка Радичевића и Ђуре Ђаковића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c5abc1e58815",
       "utility": "electricity",
       "kind": "planned",
@@ -77,7 +21,7 @@
       ],
       "reason": null,
       "note": "Село Ђушница.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "98f6253e080e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Савски венац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "БУЛЕВАР ОСЛОБОЂЕЊА: 16А-18"
-      ],
-      "reason": null,
-      "note": "БУЛЕВАР ОСЛОБОЂЕЊА: 16А-18,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a2da31eb6825",
       "utility": "water",
       "kind": "emergency",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "САВСКА: 25,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "bee0d7035f9b",
@@ -72,7 +55,7 @@
       ],
       "reason": null,
       "note": "ПИВЉАНИНА БАЈА: 83,87,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "6c5860feb47c",

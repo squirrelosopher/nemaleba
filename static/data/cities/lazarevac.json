@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "2f716268ed9c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Бољковци - засеок Рањци према Буковачи"
-      ],
-      "reason": null,
-      "note": "Бољковци - засеок Рањци према Буковачи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6e04b426bb74",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Трбушница",
-        "засеок Црнишава"
-      ],
-      "reason": null,
-      "note": "Трбушница, засеок Црнишава",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7e70ae58d989",
       "utility": "electricity",
       "kind": "planned",
@@ -57,7 +22,7 @@
       ],
       "reason": null,
       "note": "Крушевица - засеок Дом, Игралиште\r\nДудовица - засеок Околац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "6cdc84d6a6c8",
@@ -74,6 +39,57 @@
       ],
       "reason": null,
       "note": "Бољковци - Засеок Рањци према Буковачи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "b9355204ef98",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Брајковац - засеок Петровићи"
+      ],
+      "reason": null,
+      "note": "Брајковац - засеок Петровићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "23c6cb4a6b95",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Општина Лајковац: насеље Бајевац - засеок према Мургашу"
+      ],
+      "reason": null,
+      "note": "Општина Лајковац: насеље Бајевац - засеок према Мургашу",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "315f7915916e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Општина Љиг: насеље Бабајић - засеок Цвијовићи према Гламочу"
+      ],
+      "reason": null,
+      "note": "Општина Љиг: насеље Бабајић - засеок Цвијовићи према Гламочу",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],

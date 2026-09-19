@@ -5,25 +5,7 @@
     "nameLatin": "Mali Zvornik",
     "branchCyrillic": "Лозница"
   },
-  "outages": [
-    {
-      "id": "61c5af6ad5d9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Мали Зворник",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Због реконструкције далековода и земени стубова на далеководу без напона остају све трафостанице у Брасини."
-      ],
-      "reason": null,
-      "note": "Због реконструкције далековода и земени стубова на далеководу без напона остају све трафостанице у Брасини.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

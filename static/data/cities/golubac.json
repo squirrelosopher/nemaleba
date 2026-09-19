@@ -5,26 +5,7 @@
     "nameLatin": "Golubac",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [
-    {
-      "id": "0b3746d37b42",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Голубац",
-      "time": {
-        "start": "08:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "Браничево",
-        "Пониква"
-      ],
-      "reason": null,
-      "note": "Браничево, Пониква",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

@@ -7,62 +7,6 @@
   },
   "outages": [
     {
-      "id": "fc5de471505c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део села Ратаре"
-      ],
-      "reason": null,
-      "note": "Део села Ратаре",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "dec5d7223437",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део насеља Грза"
-      ],
-      "reason": null,
-      "note": "Део насеља Грза",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "edd616869588",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "13:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део Царице Милице",
-        "Свете Петке",
-        "Сопоћанска",
-        "Грачаничка",
-        "Љевишка",
-        "Жичка"
-      ],
-      "reason": null,
-      "note": "Део Царице Милице,Свете Петке,Сопоћанска,Грачаничка,Љевишка,Жичка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a224f36029af",
       "utility": "electricity",
       "kind": "planned",
@@ -77,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део села Рашевица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "6a552bcc36e6",
@@ -94,6 +38,27 @@
       ],
       "reason": null,
       "note": "Део села Дреновац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "a60e31c10ba7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Део Руђера Бошковића",
+        "део Проте Матеје Ненадовића",
+        "Колубарска",
+        "Студеничка",
+        "Романијска."
+      ],
+      "reason": null,
+      "note": "Део Руђера Бошковића,део Проте Матеје Ненадовића,Колубарска,Студеничка,Романијска.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],

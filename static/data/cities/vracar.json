@@ -22,6 +22,23 @@
       "reason": null,
       "note": "Врачар: Војводе Шупљикца бб (угао Ватрослава Јагића)",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "8dce68f11085",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Врачар",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "НЕБОЈШИНА: 27-31, РАНКЕОВА: 2-2,3, СКЕРЛИЋЕВА: 2,6-8,12-12А,22"
+      ],
+      "reason": null,
+      "note": "НЕБОЈШИНА: 27-31, РАНКЕОВА: 2-2,3, СКЕРЛИЋЕВА: 2,6-8,12-12А,22,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

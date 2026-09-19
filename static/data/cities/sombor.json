@@ -5,7 +5,42 @@
     "nameLatin": "Sombor",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "559aaabd59a6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "СОМБОР: НАСЕЉЕ ЦЕНТРАЛА, Апатински пут од Дома старих према Апатину, Шпехар и Дом за негу"
+      ],
+      "reason": null,
+      "note": "СОМБОР: НАСЕЉЕ ЦЕНТРАЛА, Апатински пут од Дома старих према Апатину, Шпехар и Дом за негу",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "398fe8e7d6cf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "БАЧКИ МОНОШТОР: И.Л.Рибара, Петра Драпшина, Зелена, Баштованска ,Безданска, Загребачка, Блок Плана"
+      ],
+      "reason": null,
+      "note": "БАЧКИ МОНОШТОР: И.Л.Рибара, Петра Драпшина, Зелена, Баштованска ,Безданска, Загребачка, Блок Плана",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

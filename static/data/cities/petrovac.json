@@ -1,0 +1,51 @@
+{
+  "city": {
+    "id": "petrovac",
+    "nameCyrillic": "Петровац",
+    "nameLatin": "Petrovac",
+    "branchCyrillic": "Пожаревац"
+  },
+  "outages": [
+    {
+      "id": "62edc371d2d1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Петровац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део насеља Буровац према Бусуру"
+      ],
+      "reason": null,
+      "note": "део насеља Буровац према Бусуру",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "2d4670179742",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Петровац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Народног фронта од реке Млаве до раскрснице са улицом Петра Добрњца"
+      ],
+      "reason": null,
+      "note": "Народног фронта од реке Млаве до раскрснице са улицом Петра Добрњца",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-19",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

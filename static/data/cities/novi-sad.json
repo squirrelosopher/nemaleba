@@ -7,63 +7,222 @@
   },
   "outages": [
     {
-      "id": "ce538a8ab8b2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
+      "id": "c0932b68c481",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-14",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Булевар краља Петра Првог и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Булевар краља Петра Првог и околне улице.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-14-9-2026/"
+    },
+    {
+      "id": "d8620651a051",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-14",
+      "areaLabel": "Сремским Карловцима",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица Ивана Филиповића и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Ивана Филиповића и околне улице у Сремским Карловцима.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-14-9-2026/"
+    },
+    {
+      "id": "d0e349333589",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-16",
       "areaLabel": "Нови Сад",
       "time": {
         "start": "08:00",
-        "end": "10:00"
+        "end": "14:00"
       },
       "streets": [
-        "\"ВЕТЕРНИК: улице Железничка од 2-38\r\nМихајла Пупина од 2-30 и 1-31\r\nВука Караџића од 4-38 и 1-35\r\nШколска од 30-72 и 21-91\r\nЖртава фашизма од 2-46 и 1-45\r\nИве Андрића од 2-24 и 1-21\r\nОмладинска од 32-76 и 15\r\nНиколе Тесле од 14-28 и 15-29\r\nДалматинска од 2-42 и 1-39\r\nВојводе Степе од 2-40 и 1-37\r\nИве Лоле Рибара од 26а-30а \r\nБраће Токин од 2-32 и 1-41\""
+        "Улица Миколе Кочиша"
       ],
       "reason": null,
-      "note": "\"ВЕТЕРНИК: улице Железничка од 2-38\r\nМихајла Пупина од 2-30 и 1-31\r\nВука Караџића од 4-38 и 1-35\r\nШколска од 30-72 и 21-91\r\nЖртава фашизма од 2-46 и 1-45\r\nИве Андрића од 2-24 и 1-21\r\nОмладинска од 32-76 и 15\r\nНиколе Тесле од 14-28 и 15-29\r\nДалматинска од 2-42 и 1-39\r\nВојводе Степе од 2-40 и 1-37\r\nИве Лоле Рибара од 26а-30а \r\nБраће Токин од 2-32 и 1-41\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "Због планираних радова на водоводној мрежи без воде ће од 8 до 14 сати бити Улица Миколе Кочиша.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-16-9-2026/"
     },
     {
-      "id": "834121c6d07c",
-      "utility": "electricity",
-      "kind": "planned",
+      "id": "fa4ae191f93d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-16",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "улице Пут доктора Голдмана, Новосадска и околне улице"
+      ],
+      "reason": null,
+      "note": "Због планираних радова на водоводној мрежи без воде ће од 8 до 16 сати бити улице Пут доктора Голдмана, Новосадска и околне улице у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-16-9-2026/"
+    },
+    {
+      "id": "7d888524f48d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-16",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "16:00"
+      },
+      "streets": [
+        "Улица Ђорђа Никшића Јохана и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 16 сати бити Улица Ђорђа Никшића Јохана и околне улице.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-16-9-2026/"
+    },
+    {
+      "id": "eb5e1f84743a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-16",
+      "areaLabel": "Сремска Каменица",
+      "time": null,
+      "streets": [
+        "Улица Светозара Марковића и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 21 сат бити Улица Светозара Марковића и околне улице у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-16-9-2026/"
+    },
+    {
+      "id": "a3ef7f960789",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Ветерник",
+      "time": {
+        "start": null,
+        "end": "13:00"
+      },
+      "streets": [
+        "улице Радивоја Кораћа и Адиђарска"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити улице Радивоја Кораћа и Адиђарска у Ветернику.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-17-9-2026/"
+    },
+    {
+      "id": "281e6fa01b7b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "17:00"
+      },
+      "streets": [
+        "Каћ, Будисава и Ковиљ"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 17 сати бити Каћ, Будисава и Ковиљ.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-17-9-2026/"
+    },
+    {
+      "id": "5abc68feabf8",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Улица Ружин венац и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Ружин венац и околне улице у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-17-9-2026/"
+    },
+    {
+      "id": "8c6b86f22cb1",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Улица Светозара Марковића и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Светозара Марковића и околне улице у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-17-9-2026/"
+    },
+    {
+      "id": "93e92254d180",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Сремским Карловцима",
+      "time": {
+        "start": null,
+        "end": "20:00"
+      },
+      "streets": [
+        "Улица Доситеја Обрадовића, као и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 20 сати бити Улица Доситеја Обрадовића, као и околне улице у Сремским Карловцима.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-17-9-2026/"
+    },
+    {
+      "id": "21c08efb55ef",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Ковиљ",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица Змај Јове Јовановића"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Змај Јове Јовановића у Ковиљу.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-petak-18-9-2026/"
+    },
+    {
+      "id": "66d2e1bc7b44",
+      "utility": "water",
+      "kind": "emergency",
       "date": "2026-09-18",
       "areaLabel": "Нови Сад",
       "time": {
-        "start": "08:30",
-        "end": "14:30"
+        "start": null,
+        "end": "15:00"
       },
       "streets": [
-        "Место Темерин улица Перцел Мора",
-        "Болманска",
-        "Брезова",
-        "Петефи Бригаде од Перцел Мора до Брезове",
-        "Ади Ендреа од П.Мора до кбр 30",
-        "Ракоци Ференца од М.Орешковића до кбр 38",
-        "Николе Пашића од П.Мора до Змај Јовине",
-        "Кошут Лајоша од Н.Пашића до Новосадске",
-        "Петефи Шандора од Ади Ендреа до Николе Пашића."
+        "улице Јернеја Копитара, Хероја Пинкија (од Лазе Лазаревића до Морнарске) и околне улице"
       ],
       "reason": null,
-      "note": "Место Темерин улица Перцел Мора,Болманска,Брезова,Петефи Бригаде од Перцел Мора до Брезове,Ади Ендреа од П.Мора до кбр 30,Ракоци Ференца од М.Орешковића до кбр 38,Николе Пашића од П.Мора до Змај Јовине,Кошут Лајоша од Н.Пашића до Новосадске,Петефи Шандора од Ади Ендреа до Николе Пашића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f50fb1790455",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-18",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "11:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "\"БУКОВАЦ: Улице Карађорђева од 46-96 и 47-95\r\nСветозара Милетића од 12-52 и 3-55\r\nСтражиловска од 2-14 и 1-19\r\nБранка Радичевића од 2-46 и 1-29\r\nДоситеја Обрадовића од 1-7\r\nХероја Пинкија од 2-10 и 1-15\r\nЛазе Костића \r\nКосовска\r\nВука Караџића\r\nКестењара\r\nПотез Бели камен\""
-      ],
-      "reason": null,
-      "note": "\"БУКОВАЦ: Улице Карађорђева од 46-96 и 47-95\r\nСветозара Милетића од 12-52 и 3-55\r\nСтражиловска од 2-14 и 1-19\r\nБранка Радичевића од 2-46 и 1-29\r\nДоситеја Обрадовића од 1-7\r\nХероја Пинкија од 2-10 и 1-15\r\nЛазе Костића \r\nКосовска\r\nВука Караџића\r\nКестењара\r\nПотез Бели камен\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити улице Јернеја Копитара, Хероја Пинкија (од Лазе Лазаревића до Морнарске) и околне улице.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-petak-18-9-2026/"
     },
     {
       "id": "b5351a3ee1cc",
@@ -80,7 +239,7 @@
       ],
       "reason": null,
       "note": "Буковац:\r\n\"Улице : Кестењара од 2-32 и 1-33\r\nПинкијева од 14а-18 и 23-51\r\nСветозара Марковића Тозе од 1-23\r\nМилице Стојадиновић Српкиње од 2-14 и 1-13\r\nКарађођева од 5-11\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "7ea7ee4f29e7",
@@ -97,7 +256,7 @@
       ],
       "reason": null,
       "note": "Руменка>\r\n\"Улице: Кисачки пут \r\nНова 4\r\nФирме : Агросервис Максић\r\nПрофесионал\r\nАгромин 1 и Агромин 2\r\nГМРС\r\nМеталум\r\nАсвалтна база\r\nБетонска база\r\nСилоси\r\nАрм Стил\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "ac7552a370c3",
@@ -114,7 +273,7 @@
       ],
       "reason": null,
       "note": "\"Улице: Беле Њиве од 43-45\r\nФилипа Вишњића од 34-48 и 39-51\r\nАрсенија Чарнојевића 24 \r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,18 +7,6 @@
   },
   "outages": [
     {
-      "id": "c1296b22b172",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-14",
-      "areaLabel": "Ваљево",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због квара на водоводној мрежи, без воде су потрошачи у улици Јосипа Мајера. Нормализација у водоснабдевању се очекује сутра, односно 14.09.2026. године у преподневним часовима.",
-      "sourceUrl": "https://vodovodva.co.rs/josipamajera/"
-    },
-    {
       "id": "cbf11c5010bd",
       "utility": "electricity",
       "kind": "planned",
@@ -33,7 +21,7 @@
       ],
       "reason": null,
       "note": "Купци дела села Кланица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d1b1d4bb2051",
@@ -50,7 +38,7 @@
       ],
       "reason": null,
       "note": "Купци дела села Г.Брезовице (милавац брлог)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

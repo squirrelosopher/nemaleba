@@ -5,7 +5,25 @@
     "nameLatin": "Smederevska Palanka",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "962c0a1ee2cb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Смедеревска Паланка",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Село Стублина и део Азање, односно трафореони: Машићи, Срејићи, Уб, Стублина, Алуга, Иве, Њиве, Безевац, Пекићи, Предевац, Витићи, Бостаниште и Новаковићи"
+      ],
+      "reason": null,
+      "note": "Село Стублина и део Азање, односно трафореони: Машићи, Срејићи, Уб, Стублина, Алуга, Иве, Њиве, Безевац, Пекићи, Предевац, Витићи, Бостаниште и Новаковићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

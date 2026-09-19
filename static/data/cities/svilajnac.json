@@ -5,7 +5,127 @@
     "nameLatin": "Svilajnac",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "10051a453005",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Свилајнац",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "Део села Бобово"
+      ],
+      "reason": null,
+      "note": "Део села Бобово",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "289bd0310745",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Свилајнац",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Део села Бобово"
+      ],
+      "reason": null,
+      "note": "Део села Бобово",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "cf2c23ffc091",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Свилајнац",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Део села Рођевац"
+      ],
+      "reason": null,
+      "note": "Део села Рођевац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "949ae08d1d9b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Свилајнац",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део села Рођевац"
+      ],
+      "reason": null,
+      "note": "Део села Рођевац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "d3d0ab06ddd5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Свилајнац",
+      "time": {
+        "start": "12:00",
+        "end": "12:30"
+      },
+      "streets": [
+        "Део села Купиновац"
+      ],
+      "reason": null,
+      "note": "Део села Купиновац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "1455b0ded59a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Свилајнац",
+      "time": {
+        "start": "12:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "Део села Купиновац"
+      ],
+      "reason": null,
+      "note": "Део села Купиновац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "25041e5a2d08",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Свилајнац",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део села Ђуринац"
+      ],
+      "reason": null,
+      "note": "Део села Ђуринац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-07",
