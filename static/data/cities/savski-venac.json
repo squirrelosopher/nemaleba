@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "a2da31eb6825",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-18",
-      "areaLabel": "Савски венац",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Незнаног јунака 21а"
-      ],
-      "reason": null,
-      "note": "Савски венац: Незнаног јунака 21а",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "9c89d38cc5bd",
       "utility": "electricity",
       "kind": "planned",

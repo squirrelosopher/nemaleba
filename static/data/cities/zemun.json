@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "bac099d814a1",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-18",
-      "areaLabel": "Земун",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Милана Узелца 19",
-        "Фрање Крча 23 – Земун поље"
-      ],
-      "reason": null,
-      "note": "Земун: Милана Узелца 19, Фрање Крча 23 – Земун поље",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "24d1177217f0",
       "utility": "electricity",
       "kind": "planned",

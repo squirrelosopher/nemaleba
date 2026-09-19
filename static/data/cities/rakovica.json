@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "15c5029fc448",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-18",
-      "areaLabel": "Раковица",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Љубомира Ивковића Шуце 10"
-      ],
-      "reason": null,
-      "note": "Раковица: Љубомира Ивковића Шуце 10",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "4b1bae782862",
       "utility": "electricity",
       "kind": "planned",

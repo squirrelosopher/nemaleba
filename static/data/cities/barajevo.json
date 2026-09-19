@@ -5,25 +5,7 @@
     "nameLatin": "Barajevo",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "4e932942008e",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-18",
-      "areaLabel": "Барајево",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Хајдук Вељкова 1 – Гунцате"
-      ],
-      "reason": null,
-      "note": "Барајево: Хајдук Вељкова 1 – Гунцате",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "8c6ec31c8182",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-18",
-      "areaLabel": "Врачар",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Војводе Шупљикца бб (угао Ватрослава Јагића)"
-      ],
-      "reason": null,
-      "note": "Врачар: Војводе Шупљикца бб (угао Ватрослава Јагића)",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "8dce68f11085",
       "utility": "electricity",
       "kind": "planned",

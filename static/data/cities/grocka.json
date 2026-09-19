@@ -5,25 +5,7 @@
     "nameLatin": "Grocka",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "f7d5994174be",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-18",
-      "areaLabel": "Гроцка",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Ђуре Јакшића 1 – Калуђерица"
-      ],
-      "reason": null,
-      "note": "Гроцка: Ђуре Јакшића 1 – Калуђерица",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

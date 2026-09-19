@@ -5,44 +5,7 @@
     "nameLatin": "Voždovac",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "a588a5d63ed6",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-18",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Индире Ганди 9",
-        "Пека Павловића 73",
-        "Мали Степашиновац 11а – Рипањ"
-      ],
-      "reason": null,
-      "note": "Вождовац:  Индире Ганди 9, Пека Павловића 73, Мали Степашиновац 11а – Рипањ",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "e2acb763e251",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-19",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Радована Симића Циге 21"
-      ],
-      "reason": null,
-      "note": "Вождовац: Радована Симића Циге 21",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",
@@ -132,7 +95,7 @@
     {
       "date": "2026-09-19",
       "electricityOutages": 0,
-      "waterOutages": 1
+      "waterOutages": 0
     }
   ]
 }

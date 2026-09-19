@@ -7,43 +7,6 @@
   },
   "outages": [
     {
-      "id": "b99f6b176187",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-18",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Краљевачких жртава 47 – Жарково",
-        "Београдска 429/3 – Сремчица"
-      ],
-      "reason": null,
-      "note": "Чукарица: Краљевачких жртава 47 – Жарково, Београдска 429/3 – Сремчица,",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
-      "id": "fe612c579adb",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-19",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Горичка 83а – Сремчица",
-        "Хитрих косача 7 – Сремчица",
-        "Миће Радосављевића бб (угао Раде Спасојевића) – Рушањ"
-      ],
-      "reason": null,
-      "note": "Чукарица: Горичка 83а – Сремчица, Хитрих косача 7 – Сремчица, Миће Радосављевића бб (угао Раде Спасојевића) – Рушањ",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "c4a4649ac4e8",
       "utility": "electricity",
       "kind": "planned",
@@ -201,7 +164,7 @@
     {
       "date": "2026-09-19",
       "electricityOutages": 0,
-      "waterOutages": 1
+      "waterOutages": 0
     }
   ]
 }

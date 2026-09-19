@@ -7,6 +7,18 @@
   },
   "outages": [
     {
+      "id": "c1296b22b172",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-14",
+      "areaLabel": "Ваљево",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због квара на водоводној мрежи, без воде су потрошачи у улици Јосипа Мајера. Нормализација у водоснабдевању се очекује сутра, односно 14.09.2026. године у преподневним часовима.",
+      "sourceUrl": "https://vodovodva.co.rs/josipamajera/"
+    },
+    {
       "id": "cbf11c5010bd",
       "utility": "electricity",
       "kind": "planned",

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-19T06:11:03.119Z",
+  "generatedAt": "2026-09-19T07:11:06.347Z",
   "summary": {
     "date": "2026-09-19",
     "electricityOutages": 130,
-    "waterOutages": 9,
+    "waterOutages": 7,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
         "electricityOutages": 28,
-        "waterOutages": 5
+        "waterOutages": 2
       },
       {
         "id": "subotica",
@@ -58,6 +58,12 @@
         "nameCyrillic": "Параћин",
         "electricityOutages": 3,
         "waterOutages": 0
+      },
+      {
+        "id": "pozarevac",
+        "nameCyrillic": "Пожаревац",
+        "electricityOutages": 2,
+        "waterOutages": 1
       },
       {
         "id": "sremska-mitrovica",
@@ -134,12 +140,6 @@
       {
         "id": "petrovac",
         "nameCyrillic": "Петровац",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "pozarevac",
-        "nameCyrillic": "Пожаревац",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -354,7 +354,7 @@
     {
       "date": "2026-09-19",
       "electricityOutages": 7,
-      "waterOutages": 5
+      "waterOutages": 3
     }
   ],
   "providers": [

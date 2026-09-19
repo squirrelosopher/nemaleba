@@ -5,27 +5,7 @@
     "nameLatin": "Novi Beograd",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "d42ad328c4ff",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-18",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Милутина Миланковића  168",
-        "Тошин бунар 22",
-        "Семберијска 1т – Ледине"
-      ],
-      "reason": null,
-      "note": "Нови Београд: Милутина Миланковића  168, Тошин бунар 22, Семберијска 1т – Ледине",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",
