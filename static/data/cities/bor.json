@@ -5,66 +5,7 @@
     "nameLatin": "Bor",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "aa945be9917d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-14",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Борско Језеро – квар на главној водоводној мрежи",
-        "Металург"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Борско Језеро – квар на главној водоводној мрежи Металург Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-ponedeljak-14-09-2026-god/"
-    },
-    {
-      "id": "c22b75a9b067",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-15",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Бањско Поље – Врањска улица број 8",
-        "Чокањица"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Бањско Поље – Врањска улица број 8 Чокањица Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-15-09-2026-god/"
-    },
-    {
-      "id": "e6e85d249419",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Кривељски камен"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Кривељски камен Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-17-09-2026-god/"
-    },
-    {
-      "id": "400b2e6ce452",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-18",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Бор 2 – Прикључак на водоводну мрежу"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Бор 2 – Прикључак на водоводну мрежу Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-petak-18-09-2026-god/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",
