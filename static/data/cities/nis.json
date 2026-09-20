@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "fe47e3466aff",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-09-12",
-      "areaLabel": "Брзи Брод",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Владимира Роловића код броја 22"
-      ],
-      "reason": null,
-      "note": "ПЛАНИРАНИ РАДОВИ У НАСЕЉУ БРЗИ БРОД суботу 12. септембра планира се ископ у улици Владимира Роловића код броја 22. Због поправке водоводне мреже могућ је прекид у водоснабдевању од 8 до 15 часова на простору од центра Брзог Брода до археолошког налазишта Медијана",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%bf%d0%bb%d0%b0%d0%bd%d0%b8%d1%80%d0%b0%d0%bd%d0%b8-%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%98%d0%b5%d1%9b%d0%b8-%d0%b2%d0%b8%d0%ba%d0%b5-67/"
-    },
-    {
       "id": "ea05b75d10c4",
       "utility": "water",
       "kind": "planned",
@@ -962,6 +945,11 @@
       "date": "2026-09-19",
       "electricityOutages": 0,
       "waterOutages": 2
+    },
+    {
+      "date": "2026-09-20",
+      "electricityOutages": 0,
+      "waterOutages": 1
     }
   ]
 }
