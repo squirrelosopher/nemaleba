@@ -5,25 +5,7 @@
     "nameLatin": "Aranđelovac",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [
-    {
-      "id": "45d53b63abef",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-19",
-      "areaLabel": "Аранђеловац",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Врбица Каменар и Јоковића коса"
-      ],
-      "reason": null,
-      "note": "Врбица Каменар и Јоковића коса",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

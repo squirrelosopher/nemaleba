@@ -5,7 +5,59 @@
     "nameLatin": "Novi Beograd",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "b0416d167a1e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "08:30",
+        "end": "10:00"
+      },
+      "streets": [
+        "МИЛУТИНА МИЛАНКОВИЋА: 11, ОМЛАДИНСКИХ БРИГАДА: 86Н"
+      ],
+      "reason": null,
+      "note": "МИЛУТИНА МИЛАНКОВИЋА: 11, ОМЛАДИНСКИХ БРИГАДА: 86Н,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "6679beae7e8d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "10:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "ОМЛАДИНСКИХ БРИГАДА: 15Б-17а,31-33А"
+      ],
+      "reason": null,
+      "note": "ОМЛАДИНСКИХ БРИГАДА: 15Б-17а,31-33А,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "a0187c64793b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "12:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "МИЛУТИНА МИЛАНКОВИЋА: 94а-94Ц"
+      ],
+      "reason": null,
+      "note": "МИЛУТИНА МИЛАНКОВИЋА: 94а-94Ц,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
