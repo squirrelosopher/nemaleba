@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "c4a4649ac4e8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-20",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "РАДНИЧКА: 8"
-      ],
-      "reason": null,
-      "note": "РАДНИЧКА: 8,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d1e15a883b95",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "КНЕЗА ВИШЕСЛАВА: 86 б,88-90,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a00ee96398db",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Насеље ЖАРКОВО: ЦЕРСКИ ВЕНАЦ: 2-20,1-23, ЦРВЕНИХ ХРАСТОВА: 2-8,1-5, ЛИПА: 2-10,1-15,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "5321176e8407",
@@ -72,7 +55,7 @@
       ],
       "reason": null,
       "note": "АДА ЦИГАНЛИЈА: ББ,бб,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,ББ,2Д,1Д, ОБРЕНОВАЧКИ ДРУМ: ББ,бб,ББ,бб,бб,2,10А,14,1А-1А,7-27Ђ,33,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "f792567c9399",
@@ -89,7 +72,7 @@
       ],
       "reason": null,
       "note": "ЉУБИЦЕ ИВОШЕВИЋ-ДИМИТРОВ: 58-66,71-77Ф/8, Насеље ЖАРКОВО: ЈАБЛАНИЧКА: 22-96,106-122,148-178,184-184,9-43А, КАДИЊАЧА: 2-28,38-124,1-33,41-121, КОСМАЈСКА: 49-51, ЛИПАР: 22-42,23А-71, РАТКА МИТРОВИЋА: 130-134, ШАВНИЧКА: 60,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

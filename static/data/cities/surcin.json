@@ -5,25 +5,7 @@
     "nameLatin": "Surčin",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "1e5e3dab6a52",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-20",
-      "areaLabel": "Сурчин",
-      "time": {
-        "start": "07:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеље СУРЧИН: ТРГ ЗОРАНА ЂИНЂИЋА: 99-119А"
-      ],
-      "reason": null,
-      "note": "Насеље СУРЧИН: ТРГ ЗОРАНА ЂИНЂИЋА: 99-119А,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

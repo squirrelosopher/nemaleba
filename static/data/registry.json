@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-21T04:11:03.820Z",
+  "generatedAt": "2026-09-21T05:11:06.422Z",
   "summary": {
     "date": "2026-09-21",
-    "electricityOutages": 132,
-    "waterOutages": 2,
+    "electricityOutages": 136,
+    "waterOutages": 13,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 35,
+        "electricityOutages": 39,
         "waterOutages": 2
       },
       {
@@ -16,6 +16,12 @@
         "nameCyrillic": "Суботица",
         "electricityOutages": 15,
         "waterOutages": 0
+      },
+      {
+        "id": "kragujevac",
+        "nameCyrillic": "Крагујевац",
+        "electricityOutages": 0,
+        "waterOutages": 11
       },
       {
         "id": "svilajnac",
@@ -352,7 +358,7 @@
     {
       "date": "2026-09-21",
       "electricityOutages": 60,
-      "waterOutages": 1
+      "waterOutages": 12
     }
   ],
   "providers": [
