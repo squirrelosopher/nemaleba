@@ -34,6 +34,18 @@
       "reason": null,
       "note": "Купци дела села Г.Брезовице (милавац брлог)",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "cabf3282bb23",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-21",
+      "areaLabel": "Ваљево",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због поправке квара на водоводној мрежи у насељу Ослободиоци Ваљева, испред броја 67, без водоснабдевања ће остати потрошачи насеља Ослободиоци Ваљево у периоду од 08 ч. до 15 ч.\n\nМолимо кориснике за разумевање и стрпљење до завршетка радова.",
+      "sourceUrl": "https://vodovodva.co.rs/naselje_oslobodioci_valjeva-2/"
     }
   ],
   "history": [
@@ -135,7 +147,7 @@
     {
       "date": "2026-09-21",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

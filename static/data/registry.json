@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T06:10:58.717Z",
+  "generatedAt": "2026-09-21T07:10:58.485Z",
   "summary": {
     "date": "2026-09-21",
     "electricityOutages": 136,
-    "waterOutages": 14,
+    "waterOutages": 28,
     "affected": [
       {
         "id": "beograd",
@@ -18,6 +18,12 @@
         "waterOutages": 0
       },
       {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 5,
+        "waterOutages": 7
+      },
+      {
         "id": "kragujevac",
         "nameCyrillic": "Крагујевац",
         "electricityOutages": 0,
@@ -30,10 +36,10 @@
         "waterOutages": 0
       },
       {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 5,
-        "waterOutages": 0
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 3,
+        "waterOutages": 2
       },
       {
         "id": "pancevo",
@@ -54,16 +60,16 @@
         "waterOutages": 0
       },
       {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 3,
-        "waterOutages": 1
-      },
-      {
         "id": "paracin",
         "nameCyrillic": "Параћин",
         "electricityOutages": 3,
         "waterOutages": 0
+      },
+      {
+        "id": "ruma",
+        "nameCyrillic": "Рума",
+        "electricityOutages": 0,
+        "waterOutages": 3
       },
       {
         "id": "sremska-mitrovica",
@@ -100,6 +106,12 @@
         "nameCyrillic": "Блаце",
         "electricityOutages": 2,
         "waterOutages": 0
+      },
+      {
+        "id": "valjevo",
+        "nameCyrillic": "Ваљево",
+        "electricityOutages": 1,
+        "waterOutages": 1
       },
       {
         "id": "velika-plana",
@@ -168,16 +180,22 @@
         "waterOutages": 0
       },
       {
-        "id": "valjevo",
-        "nameCyrillic": "Ваљево",
-        "electricityOutages": 1,
-        "waterOutages": 0
+        "id": "bor",
+        "nameCyrillic": "Бор",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "vrbas",
         "nameCyrillic": "Врбас",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "gornji-milanovac",
+        "nameCyrillic": "Горњи Милановац",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "dimitrovgrad",
@@ -358,7 +376,7 @@
     {
       "date": "2026-09-21",
       "electricityOutages": 60,
-      "waterOutages": 13
+      "waterOutages": 27
     }
   ],
   "providers": [

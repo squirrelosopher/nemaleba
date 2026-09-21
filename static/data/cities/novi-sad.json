@@ -291,6 +291,23 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Лукијана Мушицког (од бр.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informacie-za-21-9-2026/"
+    },
+    {
+      "id": "0a117a7726b8",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-21",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Фрушкорски пут"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Фрушкорски пут у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informacie-za-21-9-2026/"
     }
   ],
   "history": [
@@ -392,7 +409,7 @@
     {
       "date": "2026-09-21",
       "electricityOutages": 3,
-      "waterOutages": 1
+      "waterOutages": 2
     }
   ]
 }
