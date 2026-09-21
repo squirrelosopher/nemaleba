@@ -276,6 +276,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "2d4652e0c9f7",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-21",
+      "areaLabel": "Ветерник",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица Соње Маринковић, од Улице Петра Кочића до Београдске улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Соње Маринковић, од Улице Петра Кочића до Београдске улице у Ветернику.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informacie-za-21-9-2026/"
+    },
+    {
       "id": "f68ec73870ac",
       "utility": "water",
       "kind": "emergency",
@@ -306,7 +323,7 @@
         "Фрушкорски пут"
       ],
       "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Фрушкорски пут у Сремској Каменици.",
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Партизанска улица у Руменки, као и насеља Кисач и Степановићево \n\n\n\n Због радова на санацији хаварије без воде ће до 14 сати бити Фрушкорски пут у Сремској Каменици.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informacie-za-21-9-2026/"
     }
   ],
@@ -409,7 +426,7 @@
     {
       "date": "2026-09-21",
       "electricityOutages": 3,
-      "waterOutages": 2
+      "waterOutages": 3
     }
   ]
 }

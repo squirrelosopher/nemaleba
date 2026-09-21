@@ -146,6 +146,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "84520da76c3b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-21",
+      "areaLabel": "Старчево",
+      "time": null,
+      "streets": [
+        "насеље Шумице"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остало насеље Шумице у Старчеву.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/09/21/21-9-2026/"
+    },
+    {
       "id": "240d3b0f658f",
       "utility": "electricity",
       "kind": "planned",
@@ -279,7 +293,7 @@
     {
       "date": "2026-09-21",
       "electricityOutages": 3,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
