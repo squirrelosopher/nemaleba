@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T08:11:10.432Z",
+  "generatedAt": "2026-09-21T08:53:09.384Z",
   "summary": {
     "date": "2026-09-21",
     "electricityOutages": 136,
-    "waterOutages": 29,
+    "waterOutages": 31,
     "affected": [
       {
         "id": "beograd",
@@ -21,7 +21,7 @@
         "id": "nis",
         "nameCyrillic": "Ниш",
         "electricityOutages": 5,
-        "waterOutages": 7
+        "waterOutages": 8
       },
       {
         "id": "kragujevac",
@@ -190,6 +190,12 @@
         "nameCyrillic": "Врбас",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "gornji-milanovac",
+        "nameCyrillic": "Горњи Милановац",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "dimitrovgrad",
@@ -370,7 +376,7 @@
     {
       "date": "2026-09-21",
       "electricityOutages": 60,
-      "waterOutages": 28
+      "waterOutages": 30
     }
   ],
   "providers": [

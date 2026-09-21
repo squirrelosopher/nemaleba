@@ -870,6 +870,23 @@
       "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-299/"
     },
     {
+      "id": "af35133e9bd7",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-21",
+      "areaLabel": "Доњи Комрен",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Драгољуба Ристића код броја 12"
+      ],
+      "reason": null,
+      "note": "Потребан је ископ у улици Драгољуба Ристића код броја 12. Због поправке водоводне мреже биће у прекиду водоснабдевање до 15 часова у поменутој улици.",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d1%83-%d0%bd%d0%b0%d1%81%d0%b5%d1%99%d1%83-%d0%b4%d0%be%d1%9a%d0%b8-%d0%ba%d0%be%d0%bc%d1%80%d0%b5%d0%bd/"
+    },
+    {
       "id": "68e442618fa2",
       "utility": "water",
       "kind": "emergency",
@@ -1057,7 +1074,7 @@
     {
       "date": "2026-09-21",
       "electricityOutages": 5,
-      "waterOutages": 7
+      "waterOutages": 8
     }
   ]
 }
