@@ -24,6 +24,57 @@
       "reason": null,
       "note": "Потез Шешковац, Парлози, Гушће и Колари",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "45eff5942595",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Трафореони Стражевица и Јовановићи у Кусатку"
+      ],
+      "reason": null,
+      "note": "Трафореони Стражевица и Јовановићи у Кусатку",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "1585653525a4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Технички преглед - Драговић на ковинском путу"
+      ],
+      "reason": null,
+      "note": "Технички преглед - Драговић на ковинском путу",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ebfe159bad8c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сараорци"
+      ],
+      "reason": null,
+      "note": "Сараорци",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -22,6 +22,40 @@
       "reason": null,
       "note": "БАЧ: улице део Братсва-Јединства и ЈНА",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "f49ffd221bd9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Оџаци",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Дероње: цело насеље"
+      ],
+      "reason": null,
+      "note": "Дероње: цело насеље",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "333043bf4b7b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Оџаци",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "СЕЛЕНЧА: улице М.Тита, 17.Октобра, 51.Дивизије, Чмелникова,, Масарикова, Војашкехо, Хвездослава, Слатковићева, Словенска, Генерала Виеста, Штросмајерова,Марчакова, Чајакова"
+      ],
+      "reason": null,
+      "note": "СЕЛЕНЧА: улице М.Тита, 17.Октобра, 51.Дивизије, Чмелникова,, Масарикова, Војашкехо, Хвездослава, Слатковићева, Словенска, Генерала Виеста, Штросмајерова,Марчакова, Чајакова",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -1,0 +1,34 @@
+{
+  "city": {
+    "id": "srbobran",
+    "nameCyrillic": "Србобран",
+    "nameLatin": "Srbobran",
+    "branchCyrillic": "Нови Сад"
+  },
+  "outages": [
+    {
+      "id": "1914451b4d7c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Србобран",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Насељена места Турија и Надаљ"
+      ],
+      "reason": null,
+      "note": "Насељена места Турија и Надаљ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-21",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

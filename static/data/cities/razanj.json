@@ -5,7 +5,25 @@
     "nameLatin": "Ražanj",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "4f12c9bc2b90",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Ражањ",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део насељрног места Расинска Браљина"
+      ],
+      "reason": null,
+      "note": "Део насељрног места Расинска Браљина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-08",

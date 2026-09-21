@@ -22,6 +22,57 @@
       "reason": null,
       "note": "Село Пепељевац.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "da0cee3b4382",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Куршумлија",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Део Села Пепељевац"
+      ],
+      "reason": null,
+      "note": "Део Села Пепељевац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "48be3c1e052a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Куршумлија",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део Села Влахиња"
+      ],
+      "reason": null,
+      "note": "Део Села Влахиња",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "eea360100c7b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Куршумлија",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део Села Спанце"
+      ],
+      "reason": null,
+      "note": "Део Села Спанце",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

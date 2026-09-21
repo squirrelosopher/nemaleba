@@ -5,7 +5,26 @@
     "nameLatin": "Mionica",
     "branchCyrillic": "Ваљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "fa66346e4135",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Мионица",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Купци дела села Паштрић",
+        "Попадић"
+      ],
+      "reason": null,
+      "note": "Купци дела села Паштрић, Попадић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

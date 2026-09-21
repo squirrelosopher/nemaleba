@@ -5,7 +5,104 @@
     "nameLatin": "Kraljevo",
     "branchCyrillic": "Краљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f8ae37cd1095",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Рудник Стрмужак"
+      ],
+      "reason": null,
+      "note": "Рудник Стрмужак",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "3f5ba7261932",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "У Змајевцу пре метлара"
+      ],
+      "reason": null,
+      "note": "У Змајевцу пре метлара",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7dd9a4720cd8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "У Пекчаници Ђорђевићи и Воштинићи"
+      ],
+      "reason": null,
+      "note": "У Пекчаници Ђорђевићи и Воштинићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "56bd6e57e4a3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Самаила бели Дудови"
+      ],
+      "reason": null,
+      "note": "Самаила бели Дудови",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "6705e93e871b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "07:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "У Ковачима код самоуслуге",
+        "Еуро лим",
+        "ул.Јесењинова",
+        "иза Твина",
+        "Вожд у Жичи ка Зимовнику",
+        "Јанићи",
+        "Ђуђа",
+        "Павловићи",
+        "код Записа",
+        "код Бековца",
+        "код Жупањаца",
+        "код Игралишта и Рибњака"
+      ],
+      "reason": null,
+      "note": "У Ковачима код самоуслуге, Еуро лим, ул.Јесењинова, иза Твина,Вожд у Жичи ка Зимовнику, Јанићи, Ђуђа, Павловићи, код Записа, код Бековца, код Жупањаца, код Игралишта и Рибњака",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

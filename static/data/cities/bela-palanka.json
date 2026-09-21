@@ -23,6 +23,25 @@
       "reason": null,
       "note": "Белановац,Вргудинац.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "39f3a67c6ad2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Бела Паланка",
+      "time": {
+        "start": "07:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Црвена Река",
+        "Шпај",
+        "Врандол."
+      ],
+      "reason": null,
+      "note": "Црвена Река,Шпај,Врандол.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

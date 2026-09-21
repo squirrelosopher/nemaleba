@@ -5,7 +5,43 @@
     "nameLatin": "Lučani",
     "branchCyrillic": "Чачак"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "34d46a5f4002",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Лучани",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Каона-Пајовићи",
+        "Стојковићи.Ливаде"
+      ],
+      "reason": null,
+      "note": "Каона-Пајовићи,Стојковићи.Ливаде",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "20349a1d4a53",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Лучани",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Горњи Дубац -Луке"
+      ],
+      "reason": null,
+      "note": "Горњи Дубац -Луке",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

@@ -5,7 +5,25 @@
     "nameLatin": "Osečina",
     "branchCyrillic": "Ваљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "cb79d825e47b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Осечина",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Купци дела села Белотић (према белој цркви)"
+      ],
+      "reason": null,
+      "note": "Купци дела села Белотић (према белој цркви)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

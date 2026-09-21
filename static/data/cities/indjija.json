@@ -5,7 +5,76 @@
     "nameLatin": "Inđija",
     "branchCyrillic": "Рума"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "6825b2835458",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "\"МЕСТО БЕШКА\r\n-Део викенд зоне Калакача 1- испод моста десно\""
+      ],
+      "reason": null,
+      "note": "\"МЕСТО БЕШКА\r\n-Део викенд зоне Калакача 1- испод моста десно\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "5bc555a0f133",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "\"МЕСТО БЕШКА\r\n-Део викенд зоне Калакача 1- испод моста десно\""
+      ],
+      "reason": null,
+      "note": "\"МЕСТО БЕШКА\r\n-Део викенд зоне Калакача 1- испод моста десно\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "bc220ead810b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "\"МЕСТО КРЧЕДИН\r\nНАСЕЉЕНО МЕСТО КРЧЕДИН БЕЗ ВИКЕНД ЗОНА\""
+      ],
+      "reason": null,
+      "note": "\"МЕСТО КРЧЕДИН\r\nНАСЕЉЕНО МЕСТО КРЧЕДИН БЕЗ ВИКЕНД ЗОНА\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "a8f4da74aef1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "\"МЕСТО СУРДУК\r\nВИКЕНД ЗОНА  СУРДУКА- СЛАНКАМЕНАЧКИ ПУТ\""
+      ],
+      "reason": null,
+      "note": "\"МЕСТО СУРДУК\r\nВИКЕНД ЗОНА  СУРДУКА- СЛАНКАМЕНАЧКИ ПУТ\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

@@ -325,6 +325,96 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Партизанска улица у Руменки, као и насеља Кисач и Степановићево \n\n\n\n Због радова на санацији хаварије без воде ће до 14 сати бити Фрушкорски пут у Сремској Каменици.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informacie-za-21-9-2026/"
+    },
+    {
+      "id": "383377fc5af0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "\"Буковац: Бранка Радичевића\r\nСтражиловска\""
+      ],
+      "reason": null,
+      "note": "\"Буковац: Бранка Радичевића\r\nСтражиловска\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "ab408a18a617",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "09:15"
+      },
+      "streets": [
+        "\"Железничка 4 – 30",
+        "5 – 13\r\nВасе Стајића 22",
+        "22 А",
+        "22 Б",
+        "22 Ц\r\nВОЈВОЂАНСКА БАНКА\r\nНАРОДНА БАНКА\r\nСОЦИЕТЕ ВГЕНЕРАЛИ БАНКА\r\nДДОР\""
+      ],
+      "reason": null,
+      "note": "\"Железничка 4 – 30, 5 – 13\r\nВасе Стајића 22, 22 А, 22 Б, 22 Ц\r\nВОЈВОЂАНСКА БАНКА\r\nНАРОДНА БАНКА\r\nСОЦИЕТЕ ВГЕНЕРАЛИ БАНКА\r\nДДОР\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "08d10c2ca197",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Руменка: цело село до канала"
+      ],
+      "reason": null,
+      "note": "Руменка: цело село до канала",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "27ff180907b9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "\"Трг Марије Трандафил\r\nЂуре Јакшића 7 – 15\r\nМатице Српска 2 – 20\r\nНиколе Пашића 15 – 25",
+        "20 – 38\r\nСкерлићева 1 и 2\""
+      ],
+      "reason": null,
+      "note": "\"Трг Марије Трандафил\r\nЂуре Јакшића 7 – 15\r\nМатице Српска 2 – 20\r\nНиколе Пашића 15 – 25, 20 – 38\r\nСкерлићева 1 и 2\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "4e7ca2ddbd32",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "11:45",
+        "end": "12:30"
+      },
+      "streets": [
+        "\"Булевар Ослобођења 69\r\nШТАМПАРИЈА ПРОСВЕТА\""
+      ],
+      "reason": null,
+      "note": "\"Булевар Ослобођења 69\r\nШТАМПАРИЈА ПРОСВЕТА\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

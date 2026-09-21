@@ -56,6 +56,57 @@
       "reason": null,
       "note": "МИЛУТИНА МИЛАНКОВИЋА: 94а-94Ц,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "6a1fed2b493e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "08:30",
+        "end": "10:00"
+      },
+      "streets": [
+        "БУЛЕВАР НИКОЛЕ ТЕСЛЕ: 2"
+      ],
+      "reason": null,
+      "note": "БУЛЕВАР НИКОЛЕ ТЕСЛЕ: 2,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "5137297dc857",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "08:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "ЏОНА КЕНЕДИЈА: 55-57, ИЗЛЕТНИЧКИ ПУТ: 2,12-14,18,24-24Ф/8,5, РАДОЈА ДАКИЋА: 9-13Б,21-23, ТОШИН БУНАР: 94,112-134а,83-91,95-115,119, ЗЕЛЕНГОРСКА: 4-8,1"
+      ],
+      "reason": null,
+      "note": "ЏОНА КЕНЕДИЈА: 55-57, ИЗЛЕТНИЧКИ ПУТ: 2,12-14,18,24-24Ф/8,5, РАДОЈА ДАКИЋА: 9-13Б,21-23, ТОШИН БУНАР: 94,112-134а,83-91,95-115,119, ЗЕЛЕНГОРСКА: 4-8,1,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "0826fc1c9d46",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "ЏОНА КЕНЕДИЈА: бб"
+      ],
+      "reason": null,
+      "note": "ЏОНА КЕНЕДИЈА: бб,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

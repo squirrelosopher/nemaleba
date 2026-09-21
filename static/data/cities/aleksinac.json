@@ -40,6 +40,40 @@
       "reason": null,
       "note": "Житковачки Пут-Индустриска Зона",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "0fec3590c17e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Алексинац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Горња Пешчаница"
+      ],
+      "reason": null,
+      "note": "Горња Пешчаница",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "eec2cd7dc873",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Алексинац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део насеља Моравц преко пруге и у центру око школе; Старо Село"
+      ],
+      "reason": null,
+      "note": "део насеља Моравц преко пруге и у центру око школе; Старо Село",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

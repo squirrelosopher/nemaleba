@@ -35,6 +35,23 @@
       "reason": null,
       "note": "EЧКА – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 19 часова.",
       "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-18-09-2026-godine/"
+    },
+    {
+      "id": "e194f3025814",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "\"Книћанин:\r\n- део Војводе Стевана Книћанина (од Соње Маринковић до Жарка Зрењанина)\r\n- део Карађорђеве (од Цара Душана до Партизанске)\""
+      ],
+      "reason": null,
+      "note": "\"Книћанин:\r\n- део Војводе Стевана Книћанина (од Соње Маринковић до Жарка Зрењанина)\r\n- део Карађорђеве (од Цара Душана до Партизанске)\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

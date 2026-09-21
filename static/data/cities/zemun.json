@@ -56,6 +56,57 @@
       "reason": null,
       "note": "АУТОПУТ ЗА НОВИ САД: 1Б, ПАЗОВАЧКИ ПУТ: 34,40-46Б,37-47,53, Насеље АЛТИНА: АБЕБЕ БИКИЛЕ : 2-12,1-11, ДРАГИШЕ ВАСИЋА : 4,8-14в,18,1-15, ЏЕСИЈА ОВЕНСА : 2,1-5,9-11, ХЕМИНГВЕЈЕВА : 2-8,3-9, РАТАРСКИ ПУТ: 28-30А,27-29, СЕРВАНТЕСОВА : 1-7, СИМЕОНА КОНЧАРЕВИЋА : 2,8,12-16,20-28А,1-7,11-15, УГРИНОВАЧКИ ПУТ: 10-18,32-48Ц,23-25,31,37,43-47,53,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "312255a48945",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "08:30",
+        "end": "10:00"
+      },
+      "streets": [
+        "БУЛЕВАР НИКОЛЕ ТЕСЛЕ : ББ"
+      ],
+      "reason": null,
+      "note": "БУЛЕВАР НИКОЛЕ ТЕСЛЕ : ББ,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "24de0647a0a5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "08:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "МАЈЕВИЧКА: 2-6,10А-10Г,36,1,7,19,23, ЗЕЛЕНГОРСКА: 2-10А,14-14а,1-5Е/7,83"
+      ],
+      "reason": null,
+      "note": "МАЈЕВИЧКА: 2-6,10А-10Г,36,1,7,19,23, ЗЕЛЕНГОРСКА: 2-10А,14-14а,1-5Е/7,83,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "c2b7cd074b45",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "ЏОНА КЕНЕДИЈА: 2Д,10Д-10Р"
+      ],
+      "reason": null,
+      "note": "ЏОНА КЕНЕДИЈА: 2Д,10Д-10Р,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

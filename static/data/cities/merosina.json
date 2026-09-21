@@ -5,7 +5,76 @@
     "nameLatin": "Merošina",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "fc86d23734ec",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Део Села Градиште петља"
+      ],
+      "reason": null,
+      "note": "Део Села Градиште петља",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a5c9b7a088e8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део села Александровои Фирма Техногас"
+      ],
+      "reason": null,
+      "note": "Део села Александровои Фирма Техногас",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "6bba4d72e1f9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "10:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Део Села Градиште"
+      ],
+      "reason": null,
+      "note": "Део Села Градиште",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a762581d57c0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "12:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Део Села Јовановац"
+      ],
+      "reason": null,
+      "note": "Део Села Јовановац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

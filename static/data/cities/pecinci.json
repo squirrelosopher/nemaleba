@@ -1,0 +1,68 @@
+{
+  "city": {
+    "id": "pecinci",
+    "nameCyrillic": "Пећинци",
+    "nameLatin": "Pećinci",
+    "branchCyrillic": "Рума"
+  },
+  "outages": [
+    {
+      "id": "0f0ea9b6993b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-22",
+      "areaLabel": "Пећинци",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "МЕСТО Ашања"
+      ],
+      "reason": null,
+      "note": "МЕСТО Ашања",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "d4928de0933d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Пећинци",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Купиново комплет без струје"
+      ],
+      "reason": null,
+      "note": "Купиново комплет без струје",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "784e38aae483",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Пећинци",
+      "time": {
+        "start": "08:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "\"МЕСТО РУМА:\r\nул.С.П.Крцуна од ул.И.Андрића до ул.Н.Тесла\r\nул.Н.Тесла од ул.С.П.Крцуна до ул.Нова Школска\r\nул.Н.Школска бр.122\""
+      ],
+      "reason": null,
+      "note": "\"МЕСТО РУМА:\r\nул.С.П.Крцуна од ул.И.Андрића до ул.Н.Тесла\r\nул.Н.Тесла од ул.С.П.Крцуна до ул.Нова Школска\r\nул.Н.Школска бр.122\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-21",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}
