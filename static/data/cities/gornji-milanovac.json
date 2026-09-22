@@ -39,6 +39,23 @@
       "reason": null,
       "note": "Због радова на поправци цевовода без воде до 13 часова биће потрошачи у улицама Браће Радојевића и Рудничке војске, као и у насељу Ражаник",
       "sourceUrl": "https://jkpgm.rs/2026/09/21/servisne-informacije-30/"
+    },
+    {
+      "id": "fd92bbf85b33",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "areaLabel": "Горњи Милановац",
+      "time": {
+        "start": null,
+        "end": "11:00"
+      },
+      "streets": [
+        "другом делу Улице Свете Поповића"
+      ],
+      "reason": null,
+      "note": "Због радова на поправци водоводне цеви, без воде ће до 11 часова бити потрошачи у другом делу Улице Свете Поповића",
+      "sourceUrl": "https://jkpgm.rs/2026/09/22/servisne-informacije-22-09-2026-godine/"
     }
   ],
   "history": [
@@ -145,7 +162,7 @@
     {
       "date": "2026-09-22",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

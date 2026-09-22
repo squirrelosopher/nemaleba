@@ -332,6 +332,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "6e563a486255",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Булевар ослобођења (бр"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Булевар ослобођења (бр.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-22-9-2026/"
+    },
+    {
       "id": "d9794ce1b248",
       "utility": "water",
       "kind": "emergency",
@@ -502,7 +519,7 @@
     {
       "date": "2026-09-22",
       "electricityOutages": 5,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
