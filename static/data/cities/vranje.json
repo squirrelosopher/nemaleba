@@ -5,7 +5,44 @@
     "nameLatin": "Vranje",
     "branchCyrillic": "Врање"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "eaa622084403",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-15",
+      "areaLabel": "Врање",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у Видовданској улици,  без воде биће потрошачи те улице до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/15-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "783bb47f07b1",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-17",
+      "areaLabel": "Стропско",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у селу Стропско, без воде биће потрошачи тог села као и село Дубница до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/17-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "af8658ee59f1",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-18",
+      "areaLabel": "Чеде Стајића",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у улици Чеде Стајића без воде биће потрошачи те улице до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/18-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

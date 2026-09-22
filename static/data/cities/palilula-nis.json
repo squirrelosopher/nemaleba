@@ -207,6 +207,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "c78430084ca4",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "18:00"
+      },
+      "streets": [
+        "Гаврила Принципа код броја 17"
+      ],
+      "reason": null,
+      "note": "РАДОВИ НА МРЕЖИ У ОПШТИНИ ПАЛИЛУЛА след сложеног квара обавља се интервенција у улици Гаврила Принципа код броја 17. Због квара на водоводној мрежи остаје у прекиду водоснабдевање до 18 часова у поменутој улици, као и у околним улицама: Бранка Радичевића, Чарнојевићева, Јована Бабунског и у Рудничкој улици.",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%bd%d0%be%d0%b2%d0%be-%d1%81%d0%b0%d0%be%d0%bf%d1%88%d1%82%d0%b5%d1%9a%d0%b5-%d0%be-%d0%b2%d0%be%d0%b4%d0%be%d1%81%d0%bd%d0%b0%d0%b1%d0%b4%d0%b5%d0%b2%d0%b0%d1%9a%d1%83-22/"
+    },
+    {
       "id": "80ed962b7b3b",
       "utility": "water",
       "kind": "emergency",
@@ -362,7 +379,7 @@
     {
       "date": "2026-09-22",
       "electricityOutages": 2,
-      "waterOutages": 3
+      "waterOutages": 4
     }
   ]
 }
