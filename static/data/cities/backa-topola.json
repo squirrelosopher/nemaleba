@@ -90,6 +90,41 @@
       "reason": null,
       "note": "у Старој Моравици у улицама и деловима улица са околином: Ђепсел,Золд Јожефа,Дожа Ђерђа,Петефи Шандора.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "111e6b413c6a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Б. Топола - део ПетеФи Сандора",
+        "део Моравицког пута"
+      ],
+      "reason": null,
+      "note": "Б. Топола - део ПетеФи Сандора, део Моравицког пута",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "4d9b9a85e9ac",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Његосево - део Ловценске"
+      ],
+      "reason": null,
+      "note": "Његосево - део Ловценске",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

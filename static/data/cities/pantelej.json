@@ -22,6 +22,59 @@
       "reason": null,
       "note": "РАДОВИ НА МРЕЖИ У НАСЕЉУ ПАНТЕЛЕЈ адови на водоводној мрежи у улици Илије Гарашанина код броја 27. Због радова на водоводној мрежи могућ је прекид у водоснабдевању до 15 сати у поменутој улици као и у околним улицама",
       "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-298/"
+    },
+    {
+      "id": "5e8177810152",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део Каменице;"
+      ],
+      "reason": null,
+      "note": "део Каменице;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "4e54e3be846a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "део улице Студеничке (48",
+        "50);"
+      ],
+      "reason": null,
+      "note": "део улице Студеничке (48,50);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "657561daa209",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "10:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "делови улица Дубровачке",
+        "Колубарске и Мавровске;"
+      ],
+      "reason": null,
+      "note": "делови улица Дубровачке, Колубарске и Мавровске;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -931,6 +931,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "d9e9aac2e11d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "areaLabel": "Горња Врежина",
+      "time": {
+        "start": null,
+        "end": "17:00"
+      },
+      "streets": [
+        "Михаила Шолохова код броја 31"
+      ],
+      "reason": null,
+      "note": "РАДОВИ НА МРЕЖИ У СЕЛУ ГОРЊА ВРЕЖИНА след сложеног квара продужавају се радови у улици Михаила Шолохова код броја 31. Због квара на водоводној мрежи остаје у прекиду водоснабдевање до 17 часова на простору села Горња Врежина.",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%bd%d0%be%d0%b2%d0%be-%d1%81%d0%b0%d0%be%d0%bf%d1%88%d1%82%d0%b5%d1%9a%d0%b5-%d0%be-%d0%b2%d0%be%d0%b4%d0%be%d1%81%d0%bd%d0%b0%d0%b1%d0%b4%d0%b5%d0%b2%d0%b0%d1%9a%d1%83-ii/"
+    },
+    {
       "id": "7c7ac1dbdd80",
       "utility": "water",
       "kind": "emergency",
@@ -1138,6 +1155,134 @@
       "reason": null,
       "note": "РАДОВИ НА МРЕЖИ У НАСЕЉУ ПАЛИЛУЛА оком дана обаваљаће се превезивање новоизграђене на постојећу водоводну мрежу у улици Светолика Ранковића – прилаз. Због радова могућ је прекид водоснабдевања до 15 часова у поменутој улици",
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-179/"
+    },
+    {
+      "id": "5e8177810152",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део Каменице;"
+      ],
+      "reason": null,
+      "note": "део Каменице;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "70be0e812272",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Црвени крст",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "делови улица Суповачке",
+        "Славише Цекића",
+        "Сечаничке",
+        "Пуковника Миљка Танасијевића и Бујмирске;"
+      ],
+      "reason": null,
+      "note": "делови улица Суповачке, Славише Цекића, Сечаничке, Пуковника Миљка Танасијевића и Бујмирске;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "0dc86b03fbd4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Медијана",
+      "time": {
+        "start": "08:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "делови улица Драгише Цветковића",
+        "Пастерове (15) и Уроша Предића (1);"
+      ],
+      "reason": null,
+      "note": "делови улица Драгише Цветковића, Пастерове (15) и Уроша Предића (1);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "17464bcd78c2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "део Насеља Доње Власе;"
+      ],
+      "reason": null,
+      "note": "део Насеља Доње Власе;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "6733dd03c903",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "део улице Димитрија Туцовића (190",
+        "220",
+        "222",
+        "242);"
+      ],
+      "reason": null,
+      "note": "део улице Димитрија Туцовића (190, 220, 222, 242);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "4e54e3be846a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "део улице Студеничке (48",
+        "50);"
+      ],
+      "reason": null,
+      "note": "део улице Студеничке (48,50);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "657561daa209",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "10:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "делови улица Дубровачке",
+        "Колубарске и Мавровске;"
+      ],
+      "reason": null,
+      "note": "делови улица Дубровачке, Колубарске и Мавровске;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -1244,7 +1389,7 @@
     {
       "date": "2026-09-22",
       "electricityOutages": 5,
-      "waterOutages": 12
+      "waterOutages": 13
     }
   ]
 }

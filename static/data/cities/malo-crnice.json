@@ -1,0 +1,54 @@
+{
+  "city": {
+    "id": "malo-crnice",
+    "nameCyrillic": "Мало Црниће",
+    "nameLatin": "Malo Crniće",
+    "branchCyrillic": "Пожаревац"
+  },
+  "outages": [
+    {
+      "id": "5a8db4a52aca",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Мало Црниће",
+      "time": {
+        "start": "08:00",
+        "end": "14:30"
+      },
+      "streets": [
+        "Смољинац",
+        "Шапине",
+        "Забрега",
+        "део Смољинца према Пожаревцу"
+      ],
+      "reason": null,
+      "note": "Смољинац, Шапине, Забрега, део Смољинца према Пожаревцу",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "18d6a17b2181",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Мало Црниће",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "насеља Бресје и Таван"
+      ],
+      "reason": null,
+      "note": "насеља Бресје и Таван",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-22",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}
