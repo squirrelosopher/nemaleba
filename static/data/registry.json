@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T08:29:58.339Z",
+  "generatedAt": "2026-09-22T09:11:00.954Z",
   "summary": {
     "date": "2026-09-22",
     "electricityOutages": 247,
@@ -48,6 +48,12 @@
         "waterOutages": 5
       },
       {
+        "id": "pancevo",
+        "nameCyrillic": "Панчево",
+        "electricityOutages": 6,
+        "waterOutages": 1
+      },
+      {
         "id": "paracin",
         "nameCyrillic": "Параћин",
         "electricityOutages": 7,
@@ -62,12 +68,6 @@
       {
         "id": "indjija",
         "nameCyrillic": "Инђија",
-        "electricityOutages": 6,
-        "waterOutages": 0
-      },
-      {
-        "id": "pancevo",
-        "nameCyrillic": "Панчево",
         "electricityOutages": 6,
         "waterOutages": 0
       },
@@ -310,12 +310,6 @@
         "nameCyrillic": "Брус",
         "electricityOutages": 1,
         "waterOutages": 0
-      },
-      {
-        "id": "gornji-milanovac",
-        "nameCyrillic": "Горњи Милановац",
-        "electricityOutages": 0,
-        "waterOutages": 1
       },
       {
         "id": "despotovac",

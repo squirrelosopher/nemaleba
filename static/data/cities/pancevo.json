@@ -124,6 +124,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "7df795de94d2",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "парна страна улице Светог Саве од Моше Пијаде до Иве Курјачког"
+      ],
+      "reason": null,
+      "note": "Због радова на водоводној мрежи без воде је у 10 и 30 часова остала парна страна улице Светог Саве од Моше Пијаде до Иве Курјачког.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/09/22/22-9-2026/"
+    },
+    {
       "id": "92bd0ee660f9",
       "utility": "electricity",
       "kind": "planned",
@@ -318,7 +332,7 @@
     {
       "date": "2026-09-22",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
