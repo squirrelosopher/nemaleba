@@ -950,6 +950,55 @@
       "note": "Сунчани брег, ул. Пријатељства ( од 16:00 до 19:00 часова ), поправка уличне линије."
     },
     {
+      "id": "9c30c7b759ff",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-22-09-2026/",
+      "areaLabel": "Колонија",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Гружанска"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Колонија, ул. Гружанска ( од 08:00 до 11:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "596fa151b2da",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-22-09-2026/",
+      "areaLabel": "Октобра",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [],
+      "reason": "поправка кућног прикључка",
+      "note": "Хаваријска искључења на дан 22.09.2026. \n \n Илићево, ул. 19.Октобра ( од 08:00 до 11:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "0265e29ca54e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-22-09-2026/",
+      "areaLabel": "Сунчани Брег",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Пријатељства"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Сунчани Брег, ул. Пријатељства ( од 08:00 до 11:00 часова ), поправка уличне линије."
+    },
+    {
       "id": "b3d04dc18b33",
       "utility": "electricity",
       "kind": "planned",
@@ -965,6 +1014,123 @@
       "reason": null,
       "note": "насеље Маршић",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "18772a938c05",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-22-09-2026/",
+      "areaLabel": "Бресница",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Словенска"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Бресница, ул. Словенска ( од 11:00 до 13:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "b3a962faecbb",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-22-09-2026/",
+      "areaLabel": "Милорадовића",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [],
+      "reason": "поправка уличне линије",
+      "note": "Илићево, угао 19.октобра и М.Милорадовића ( од 11:00 до 13:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "269d4b06aa86",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-22-09-2026/",
+      "areaLabel": "Шумарице",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "угао Иве Андрића и Ударних Бригада"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Шумарице, угао Иве Андрића и Ударних Бригада ( од 11:00 до 13:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "c45f79c02622",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-22-09-2026/",
+      "areaLabel": "Бресница",
+      "time": {
+        "start": "13:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Кадињача"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Бресница, ул. Кадињача ( од 13:00 до 16:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "6cfec43dbe13",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-22-09-2026/",
+      "areaLabel": "Колонија",
+      "time": {
+        "start": "13:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Скопљанска"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Колонија, ул. Скопљанска ( од 13:00 до 16:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "418521474f08",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-22-09-2026/",
+      "areaLabel": "Пчелице",
+      "time": {
+        "start": "13:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Гиљевска"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "М.Пчелице, ул. Гиљевска ( од 13:00 до 16:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "2e9c97267f3a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-22-09-2026/",
+      "areaLabel": "Пчелице",
+      "time": {
+        "start": "16:00",
+        "end": "18:00"
+      },
+      "streets": [
+        "Љубомира Јовановића"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "М.Пчелице, ул. Љубомира Јовановића ( од 16:00 до 18:00 часова ), поправка уличне линије."
     },
     {
       "id": "df0ad38d7cf5",
@@ -1116,7 +1282,7 @@
     {
       "date": "2026-09-22",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 10
     }
   ]
 }
