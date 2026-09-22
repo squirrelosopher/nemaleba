@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Због реконструкције далековода и земени стубова на ДВ 10 kV из ТС 35/10 kV „Мали Зворник“ извод Брасина.Искључење на линијском растављачу на ТС Пумпа.Без напона остаје део Брсине који се напаја са ТС Пумпе и ТС Вискоза мода.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "662b51ad21bc",
@@ -44,7 +44,7 @@
       ],
       "reason": null,
       "note": "Због реконструкције далековода и земени стубова на ДВ 10 kV из ТС 35/10 kV „Крупањ“ извод Столице.Искључење на линијском растављачу у Церови.Без напона остају 4 ТС-е и то Грбићи Пешићи, Ковачевићи, Алуге, Мишковићи.ТС у Горњој Бадањи и то Горња Бадања 1, Дубравац, Југовићи 1 и Југовићи 2, као и ТС-е Рибарица 1 и Рибарица 2.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "ed87c14b80e9",
@@ -62,7 +62,7 @@
       ],
       "reason": null,
       "note": "Због реконструкције далековода и земени стубова на ДВ 10 kV из ТС 35/10 kV „Мали Зворник 2“ извод Радаљ, огранак од ТС Радаљ Бања према Липовом Брду. Без напона остају ТС Липово Брдо 1 и Липово Брдо 2.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "293bd3352df4",
@@ -79,6 +79,27 @@
       ],
       "reason": null,
       "note": "Због реконструкције далековода и земени стубова на ДВ 10 kV из ТС 35/10 kV „Мали Зворник 2“ извод Радаљ, искључити на линијском растављачу Радаљ Дом. Без напајања ће бити трафостанице: Лазићи, Мали Радаљ, Радаљ Бања, Липово Брдо 1, Липово Брдо 2, Каменолом Станковић и МХЕ Радаљ.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "704b21d7bcf6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Мали Зворник",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Због реконструкције далековода и земени стубова на ДВ 10 kV из ТС 35/10 kV „Мали Зворник“ извод Брасина. Без напона остају ТС Речани 1",
+        "Речани 2",
+        "Костићи",
+        "Мишићи",
+        "Вискоза мода и Пумпе – цело конзмно подручје Брасине."
+      ],
+      "reason": null,
+      "note": "Због реконструкције далековода и земени стубова на ДВ 10 kV из ТС 35/10 kV „Мали Зворник“ извод Брасина. Без напона остају ТС Речани 1,Речани 2,Костићи,Мишићи,Вискоза мода и Пумпе – цело конзмно подручје Брасине.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],

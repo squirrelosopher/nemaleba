@@ -5,42 +5,7 @@
     "nameLatin": "Grocka",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "dba2197e9e05",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Гроцка",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље КАЛУЂЕРИЦА: САВЕ КОВАЧЕВИЋА: 11"
-      ],
-      "reason": null,
-      "note": "Насеље КАЛУЂЕРИЦА: САВЕ КОВАЧЕВИЋА: 11,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
-    },
-    {
-      "id": "998d65581566",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Гроцка",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље ЛЕШТАНЕ: КНИНСКА: 8-10,14-16,24,34,1-3, МАРШАЛА ТИТА: ББ,1-3Ђ, САВЕ КОВАЧЕВИЋА: 136Е-136В,156-160"
-      ],
-      "reason": null,
-      "note": "Насеље ЛЕШТАНЕ: КНИНСКА: 8-10,14-16,24,34,1-3, МАРШАЛА ТИТА: ББ,1-3Ђ, САВЕ КОВАЧЕВИЋА: 136Е-136В,156-160,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

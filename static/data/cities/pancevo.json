@@ -93,59 +93,6 @@
       "sourceUrl": "https://www.vodovodpa.rs/2026/09/19/19-9-2026/"
     },
     {
-      "id": "d3a63abd6fd3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-21",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Долово:Део Долова од улаза из правца Панчева до ул.Жарка Зрењанина",
-        "викенд насеље Ушће"
-      ],
-      "reason": null,
-      "note": "Долово:Део Долова од улаза из правца Панчева до ул.Жарка Зрењанина, викенд насеље Ушће",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f277bd9eb74b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-21",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "09:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "Омољица:Војводе Живојина Мишића од Јосифа Панчића до Дунавске",
-        "Стефана Немање од Поњавичке до Цара Душана"
-      ],
-      "reason": null,
-      "note": "Омољица:Војводе Живојина Мишића од Јосифа Панчића до Дунавске, Стефана Немање од Поњавичке до Цара Душана",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "90a6b914dadc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-21",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "11:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Панчево:Мите Петровића од Др.Борислава Јанкулова ка Иве Курјачког"
-      ],
-      "reason": null,
-      "note": "Панчево:Мите Петровића од Др.Борислава Јанкулова ка Иве Курјачког",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "84520da76c3b",
       "utility": "water",
       "kind": "emergency",
@@ -174,7 +121,7 @@
       ],
       "reason": null,
       "note": "Бан.Брестовац:Викенд Насеље и камп Јабуков Цвет!",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "92bd0ee660f9",
@@ -194,7 +141,7 @@
       ],
       "reason": null,
       "note": "Панчево:Ул.М.Обилића, Б.Југовић, Косанчић И., Топлице М.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "0615110fa15e",
@@ -213,7 +160,7 @@
       ],
       "reason": null,
       "note": "Качарево:Ул.ЈНА од 4-ог октобра до Босанске,Гробљанска, Народног Фронта од Гробљанске до Војвођанске ул!",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "3058a38058d6",
@@ -230,7 +177,7 @@
       ],
       "reason": null,
       "note": "Качарево: Ул. 4.Октобра од Р.Павловића до Фискултурне, Македонска од Омладинске до Н.Фронта, Фискултурна од Омладинске до стадиона, Р.Павловића од 4.Октобра до Србијанске",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "422d61d533d9",
@@ -247,6 +194,23 @@
       ],
       "reason": null,
       "note": "Јабука: Ул. Г.Делчева од Радничке до Вардарске, Влахова од М.Тита до В.Караџића, Омладинска од Радничке до Вардарске, Вардарска од Омладинске до Г.Делчева",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "c22c57e6a169",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Дебељача - цело насеље!"
+      ],
+      "reason": null,
+      "note": "Дебељача - цело насеље!",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

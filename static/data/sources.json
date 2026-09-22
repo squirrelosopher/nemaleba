@@ -1,6 +1,6 @@
 {
   "eps-distribucija": {
-    "entries": 293,
+    "entries": 247,
     "lastNonEmpty": "2026-09-22",
     "lastComplete": "2026-09-22"
   },
@@ -50,12 +50,9 @@
     "lastComplete": "2026-09-22"
   },
   "jkp-gornji-milanovac": {
-    "entries": 0,
-    "lastNonEmpty": "2026-09-21",
-    "unreadable": [
-      "fetch failed for https://jkpgm.rs/wp-json/wp/v2/posts?categories=23&per_page=10&_fields=link,date,title,content"
-    ],
-    "lastComplete": "2026-09-21"
+    "entries": 2,
+    "lastNonEmpty": "2026-09-22",
+    "lastComplete": "2026-09-22"
   },
   "jkp-vik-zrenjanin": {
     "entries": 20,
@@ -88,11 +85,8 @@
     "lastComplete": "2026-09-22"
   },
   "jkp-vodovod-cacak": {
-    "entries": 0,
+    "entries": 3,
     "lastNonEmpty": "2026-09-22",
-    "unreadable": [
-      "fetch failed for https://vodovodca.rs/wp-json/wp/v2/posts?categories=3&per_page=12&_fields=link,date,title,content"
-    ],
     "lastComplete": "2026-09-22"
   }
 }

@@ -5,25 +5,7 @@
     "nameLatin": "Prokuplje",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [
-    {
-      "id": "c5abc1e58815",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-21",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Село Ђушница."
-      ],
-      "reason": null,
-      "note": "Село Ђушница.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

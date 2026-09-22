@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "ea32c59c09fc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-21",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део Трњана",
-        "улаз из Д.Адровца и део према цркви Свете Петке"
-      ],
-      "reason": null,
-      "note": "Део Трњана, улаз из Д.Адровца и део према цркви Свете Петке",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f173068d2d73",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-21",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Житковачки Пут-Индустриска Зона"
-      ],
-      "reason": null,
-      "note": "Житковачки Пут-Индустриска Зона",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "0fec3590c17e",
       "utility": "electricity",
       "kind": "planned",
@@ -56,7 +21,7 @@
       ],
       "reason": null,
       "note": "Горња Пешчаница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "eec2cd7dc873",
@@ -73,7 +38,7 @@
       ],
       "reason": null,
       "note": "део насеља Моравц преко пруге и у центру око школе; Старо Село",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

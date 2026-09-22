@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "bee0d7035f9b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-21",
-      "areaLabel": "Савски венац",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "ПИВЉАНИНА БАЈА: 83,87"
-      ],
-      "reason": null,
-      "note": "ПИВЉАНИНА БАЈА: 83,87,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "6c5860feb47c",
       "utility": "water",
       "kind": "planned",

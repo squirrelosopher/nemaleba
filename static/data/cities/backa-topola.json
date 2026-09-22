@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "ab135c06b08d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-21",
-      "areaLabel": "Бачка Топола",
-      "time": {
-        "start": "15:00",
-        "end": "18:00"
-      },
-      "streets": [
-        "у насељу Стара Моравица у улицама и деловима улица са околином: Михаља Танчића бр. (1-46), Пачирски пут бр. 3, Ст. Ковач Ђуле 1."
-      ],
-      "reason": null,
-      "note": "у насељу Стара Моравица у улицама и деловима улица са околином: Михаља Танчића бр. (1-46), Пачирски пут бр. 3, Ст. Ковач Ђуле 1.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "095d28b76c78",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "у Бајши у улицама: Калвариа са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "45d71e159d9e",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "у Бајши у улицама: Пролетерска,Кратка са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1e6e90296e45",
@@ -72,7 +55,7 @@
       ],
       "reason": null,
       "note": "Бајши у улицама: Средњи салаш - улице западно од Лењинове",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "64e150803afd",
@@ -89,7 +72,7 @@
       ],
       "reason": null,
       "note": "Бачка Топола у улицама : Задрузна, део Саве Ковацевица, део Ракоци Ференца",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "a5a74033ea36",
@@ -106,7 +89,7 @@
       ],
       "reason": null,
       "note": "у Старој Моравици у улицама и деловима улица са околином: Ђепсел,Золд Јожефа,Дожа Ђерђа,Петефи Шандора.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

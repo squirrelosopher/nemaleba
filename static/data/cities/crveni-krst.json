@@ -5,25 +5,7 @@
     "nameLatin": "Crveni krst",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "e4670f11bdb9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-21",
-      "areaLabel": "Црвени крст",
-      "time": {
-        "start": "15:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "део Медошевца;"
-      ],
-      "reason": null,
-      "note": "део Медошевца;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

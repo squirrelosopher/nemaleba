@@ -5,35 +5,7 @@
     "nameLatin": "Dimitrovgrad",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "e177e6f0d95f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-21",
-      "areaLabel": "Димитровград",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Невља",
-        "Голеш",
-        "Барије",
-        "Скрвеница",
-        "Драговита",
-        "Мирчина Падина",
-        "Врапча",
-        "Петачинци",
-        "Шаркова Махала",
-        "Пометковиц",
-        "Искаровци."
-      ],
-      "reason": null,
-      "note": "Невља,Голеш,Барије,Скрвеница,Драговита,Мирчина Падина,Врапча,Петачинци,Шаркова Махала,Пометковиц,Искаровци.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

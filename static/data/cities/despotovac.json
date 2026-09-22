@@ -5,7 +5,25 @@
     "nameLatin": "Despotovac",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "8619de89036f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Деспотовац",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "село Суботица и део села Роанда"
+      ],
+      "reason": null,
+      "note": "село Суботица и део села Роанда",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

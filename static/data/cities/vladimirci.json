@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "9dd1f402eb5e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-21",
-      "areaLabel": "Владимирци",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Без ел.енергије остаће село БЕЉИН"
-      ],
-      "reason": null,
-      "note": "Без ел.енергије остаће село БЕЉИН",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f0f87ddc8c40",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Без ел.енергије остаће село БЕЉИН",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "16270d9a72c2",
@@ -56,7 +39,7 @@
       ],
       "reason": null,
       "note": "Без ел.енергије остаће купци у селу МЕСАРЦИ, СУВО СЕЛО И ДЕО ВЛАСАНИЦЕ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "01e4776f4f44",
@@ -74,6 +57,23 @@
       ],
       "reason": null,
       "note": "Без ел.енергије остаће купци у селу МЕСАРЦИ, СУВО СЕЛО И ДЕО ВЛАСАНИЦЕ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "e01606474c62",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Владимирци",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Без ел.енергије остаће село БЕЉИН"
+      ],
+      "reason": null,
+      "note": "Без ел.енергије остаће село БЕЉИН",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
