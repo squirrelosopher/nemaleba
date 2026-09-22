@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T07:10:56.810Z",
+  "generatedAt": "2026-09-22T08:11:13.922Z",
   "summary": {
     "date": "2026-09-22",
     "electricityOutages": 247,
@@ -45,7 +45,7 @@
         "id": "novi-sad",
         "nameCyrillic": "Нови Сад",
         "electricityOutages": 6,
-        "waterOutages": 4
+        "waterOutages": 5
       },
       {
         "id": "paracin",
@@ -310,12 +310,6 @@
         "nameCyrillic": "Брус",
         "electricityOutages": 1,
         "waterOutages": 0
-      },
-      {
-        "id": "gornji-milanovac",
-        "nameCyrillic": "Горњи Милановац",
-        "electricityOutages": 0,
-        "waterOutages": 1
       },
       {
         "id": "despotovac",

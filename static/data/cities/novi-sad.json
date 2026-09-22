@@ -349,6 +349,23 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-22-9-2026/"
     },
     {
+      "id": "5ecef0c7f376",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "areaLabel": "Сремским Карловцима",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Пинкијева и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Пинкијева и околне улице у Сремским Карловцима.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-22-9-2026/"
+    },
+    {
       "id": "d9794ce1b248",
       "utility": "water",
       "kind": "emergency",
@@ -519,7 +536,7 @@
     {
       "date": "2026-09-22",
       "electricityOutages": 5,
-      "waterOutages": 1
+      "waterOutages": 2
     }
   ]
 }
