@@ -7,18 +7,6 @@
   },
   "outages": [
     {
-      "id": "3167cd6ec450",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-14",
-      "areaLabel": "Кнеза Милоша",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у  улици Кнеза Милоша,   без воде биће потрошачи те улице и околне   до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/14-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
       "id": "eaa622084403",
       "utility": "water",
       "kind": "emergency",
@@ -153,6 +141,11 @@
     },
     {
       "date": "2026-09-21",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-22",
       "electricityOutages": 0,
       "waterOutages": 0
     }

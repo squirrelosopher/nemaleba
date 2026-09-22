@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "c0932b68c481",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-14",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [
-        "Булевар краља Петра Првог и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Булевар краља Петра Првог и околне улице.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-14-9-2026/"
-    },
-    {
-      "id": "d8620651a051",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-14",
-      "areaLabel": "Сремским Карловцима",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Улица Ивана Филиповића и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Ивана Филиповића и околне улице у Сремским Карловцима.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-14-9-2026/"
-    },
-    {
       "id": "d0e349333589",
       "utility": "water",
       "kind": "emergency",
@@ -517,6 +483,11 @@
       "date": "2026-09-21",
       "electricityOutages": 3,
       "waterOutages": 3
+    },
+    {
+      "date": "2026-09-22",
+      "electricityOutages": 5,
+      "waterOutages": 0
     }
   ]
 }
