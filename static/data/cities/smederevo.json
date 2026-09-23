@@ -7,25 +7,6 @@
   },
   "outages": [
     {
-      "id": "17ca446fe774",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Потез Шешковац",
-        "Парлози",
-        "Гушће и Колари"
-      ],
-      "reason": null,
-      "note": "Потез Шешковац, Парлози, Гушће и Колари",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "45eff5942595",
       "utility": "electricity",
       "kind": "planned",
@@ -40,7 +21,7 @@
       ],
       "reason": null,
       "note": "Трафореони Стражевица и Јовановићи у Кусатку",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1585653525a4",
@@ -57,7 +38,7 @@
       ],
       "reason": null,
       "note": "Технички преглед - Драговић на ковинском путу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ebfe159bad8c",
@@ -74,7 +55,7 @@
       ],
       "reason": null,
       "note": "Сараорци",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "debb1bebb1a4",
@@ -91,7 +72,7 @@
       ],
       "reason": null,
       "note": "Вучак-Вучачка са попречним улицама и Карађорђева са попречним улицама - улаз у Вучак и прилаз Вучаку од Царине",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

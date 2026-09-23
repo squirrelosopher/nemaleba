@@ -7,31 +7,6 @@
   },
   "outages": [
     {
-      "id": "daeaece6fd66",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Рашка",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Пусто пље",
-        "Попова река",
-        "Рудњак",
-        "Равни",
-        "Борова",
-        "Предоле",
-        "Међуречје",
-        "Добра буква",
-        "Стефановићи и Подковачица."
-      ],
-      "reason": null,
-      "note": "Пусто пље,Попова река,Рудњак,Равни,Борова,Предоле,Међуречје,Добра буква,Стефановићи и Подковачица.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "9a80f91e14e9",
       "utility": "electricity",
       "kind": "planned",
@@ -46,7 +21,7 @@
       ],
       "reason": null,
       "note": "ТС 10/04 КВ Пискања-1 НН излаз према Лештанима.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "7f1cc534b174",
@@ -63,7 +38,7 @@
       ],
       "reason": null,
       "note": "ТС 10/04 Пискања-1 НН излази према Медаревићима и Столовићима.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

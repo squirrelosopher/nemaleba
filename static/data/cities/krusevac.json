@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "a3468e391e36",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "Део насељеног места Церова (ТС Церова 1",
-        "према школи)"
-      ],
-      "reason": null,
-      "note": "Део насељеног места Церова (ТС Церова 1, према школи)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b4222c2c8004",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "11:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део насељеног места Дољане (према гробљу)"
-      ],
-      "reason": null,
-      "note": "Део насељеног места Дољане (према гробљу)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "4b4304e02ffa",
       "utility": "electricity",
       "kind": "planned",
@@ -56,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Дедина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

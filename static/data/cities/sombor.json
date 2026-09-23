@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "398fe8e7d6cf",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "БАЧКИ МОНОШТОР: И.Л.Рибара, Петра Драпшина, Зелена, Баштованска ,Безданска, Загребачка, Блок Плана"
-      ],
-      "reason": null,
-      "note": "БАЧКИ МОНОШТОР: И.Л.Рибара, Петра Драпшина, Зелена, Баштованска ,Безданска, Загребачка, Блок Плана",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "559aaabd59a6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "СОМБОР: НАСЕЉЕ ЦЕНТРАЛА, Апатински пут од Дома старих према Апатину, Шпехар и Дом за негу"
-      ],
-      "reason": null,
-      "note": "СОМБОР: НАСЕЉЕ ЦЕНТРАЛА, Апатински пут од Дома старих према Апатину, Шпехар и Дом за негу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ea43bab06bd4",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "БАЧКИ МОНОШТОР: И.Л.Рибара, Петра Драпшина, Зелена, Баштованска ,Безданска, Загребачка. Блок Плана",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ab3e2e14b7b2",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "БАЧКИ МОНОШТОР: И.Л.Рибара, Петра Драпшина, Зелена, Баштованска ,Безданска, Загребачка, Блок Плана",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "abdb06a482eb",
@@ -89,7 +55,7 @@
       ],
       "reason": null,
       "note": "СОМБОР: Метеоролошка станица, Кофи центар, Руска радња на Кљајићевачком путу, станови код ТС Сомбор 1",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

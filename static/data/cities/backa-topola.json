@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "095d28b76c78",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Бачка Топола",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "у Бајши у улицама: Калвариа са околином."
-      ],
-      "reason": null,
-      "note": "у Бајши у улицама: Калвариа са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "45d71e159d9e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Бачка Топола",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "у Бајши у улицама: Пролетерска,Кратка са околином."
-      ],
-      "reason": null,
-      "note": "у Бајши у улицама: Пролетерска,Кратка са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1e6e90296e45",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Бачка Топола",
-      "time": {
-        "start": "13:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Бајши у улицама: Средњи салаш - улице западно од Лењинове"
-      ],
-      "reason": null,
-      "note": "Бајши у улицама: Средњи салаш - улице западно од Лењинове",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "64e150803afd",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +21,7 @@
       ],
       "reason": null,
       "note": "Бачка Топола у улицама : Задрузна, део Саве Ковацевица, део Ракоци Ференца",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a5a74033ea36",
@@ -89,7 +38,7 @@
       ],
       "reason": null,
       "note": "у Старој Моравици у улицама и деловима улица са околином: Ђепсел,Золд Јожефа,Дожа Ђерђа,Петефи Шандора.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "111e6b413c6a",
@@ -107,7 +56,7 @@
       ],
       "reason": null,
       "note": "Б. Топола - део ПетеФи Сандора, део Моравицког пута",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "4d9b9a85e9ac",
@@ -124,7 +73,7 @@
       ],
       "reason": null,
       "note": "Његосево - део Ловценске",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

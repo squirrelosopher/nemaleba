@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "8390d8daccaa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Сремска Митровица: ул. Краља Александра Карађорђевића од бр. 21-47 и 18-56"
-      ],
-      "reason": null,
-      "note": "Сремска Митровица: ул. Краља Александра Карађорђевића од бр. 21-47 и 18-56",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b497a7324e7e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "10:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "\"Сремска Митроица: Булевар Константина Великог од бр. 41-67 и бб\r\nУл. Ђуре Даничића бр. 2\r\nУл. Радничка бр. 2\""
-      ],
-      "reason": null,
-      "note": "\"Сремска Митроица: Булевар Константина Великог од бр. 41-67 и бб\r\nУл. Ђуре Даничића бр. 2\r\nУл. Радничка бр. 2\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "76bdf86c8bc6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "12:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Лаћарак: ул. Триве Витасовића од бр. 23-79 и 24-74"
-      ],
-      "reason": null,
-      "note": "Лаћарак: ул. Триве Витасовића од бр. 23-79 и 24-74",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "0b0dd1ba9b16",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +21,7 @@
       ],
       "reason": null,
       "note": "\"Лежимир: Ул. Фрушкогорска 7-35, 10-32\r\nУл. Новосадска 2\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d632b6f3b602",
@@ -89,7 +38,7 @@
       ],
       "reason": null,
       "note": "\"Чалма: Ул. Планинска 17-53, 14-52 и бб\r\nУл. 9. Новембра 13-21А, 10-22А\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

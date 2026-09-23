@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-09-23T04:10:59.843Z",
+  "generatedAt": "2026-09-23T05:11:04.353Z",
   "summary": {
     "date": "2026-09-23",
-    "electricityOutages": 199,
-    "waterOutages": 7,
+    "electricityOutages": 236,
+    "waterOutages": 16,
     "affected": [
+      {
+        "id": "beograd",
+        "nameCyrillic": "Београд",
+        "electricityOutages": 46,
+        "waterOutages": 4
+      },
       {
         "id": "subotica",
         "nameCyrillic": "Суботица",
@@ -12,10 +18,10 @@
         "waterOutages": 0
       },
       {
-        "id": "beograd",
-        "nameCyrillic": "Београд",
-        "electricityOutages": 10,
-        "waterOutages": 4
+        "id": "kragujevac",
+        "nameCyrillic": "Крагујевац",
+        "electricityOutages": 3,
+        "waterOutages": 9
       },
       {
         "id": "nis",
@@ -150,12 +156,6 @@
         "waterOutages": 0
       },
       {
-        "id": "kragujevac",
-        "nameCyrillic": "Крагујевац",
-        "electricityOutages": 3,
-        "waterOutages": 0
-      },
-      {
         "id": "odzaci",
         "nameCyrillic": "Оџаци",
         "electricityOutages": 3,
@@ -176,6 +176,12 @@
       {
         "id": "stara-pazova",
         "nameCyrillic": "Стара Пазова",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "tutin",
+        "nameCyrillic": "Тутин",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -260,12 +266,6 @@
       {
         "id": "sremska-mitrovica",
         "nameCyrillic": "Сремска Митровица",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "tutin",
-        "nameCyrillic": "Тутин",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -517,8 +517,8 @@
     },
     {
       "date": "2026-09-23",
-      "electricityOutages": 91,
-      "waterOutages": 4
+      "electricityOutages": 107,
+      "waterOutages": 13
     }
   ],
   "providers": [

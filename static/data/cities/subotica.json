@@ -7,142 +7,6 @@
   },
   "outages": [
     {
-      "id": "55baca9454fe",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "08:45",
-        "end": "10:15"
-      },
-      "streets": [
-        "у Суботици у улицама: Беле Габрића са околином"
-      ],
-      "reason": null,
-      "note": "у Суботици у улицама: Беле Габрића са околином",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "16708fc609cd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "у Суботици у улицама:Загорска",
-        "Сплитска:Радојке Лакић",
-        "Јесеничка",
-        "Исидоре Секулић",
-        "Титоградска",
-        "Радановац салаши",
-        "Мали Радановац салаши",
-        "Кирешка од бр.117 до 162",
-        "Јована Дучића",
-        "Јелене Ћетковић",
-        "10 Новембра",
-        "Северна",
-        "Ђевђелијска",
-        "Мајшански пут од 192-215 са околином."
-      ],
-      "reason": null,
-      "note": "у Суботици у улицама:Загорска,Сплитска:Радојке Лакић,Јесеничка,Исидоре Секулић,Титоградска,Радановац салаши,Мали Радановац салаши,Кирешка од бр.117 до 162,Јована Дучића,Јелене Ћетковић,10 Новембра,Северна,Ђевђелијска,Мајшански пут од 192-215 са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "099d7d9fd7f5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "у Ст.Моравици у улицама:Бачка",
-        "1 Мај",
-        "Тополски пут",
-        "ТелеФонска",
-        "Источна са околином."
-      ],
-      "reason": null,
-      "note": "у Ст.Моравици у улицама:Бачка, 1 Мај,Тополски пут,ТелеФонска,Источна са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d9a4cb21fcaa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "09:10",
-        "end": "11:30"
-      },
-      "streets": [
-        "на Палићу у улицама: Викенд насеље."
-      ],
-      "reason": null,
-      "note": "на Палићу у улицама: Викенд насеље.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "3f0651b3cedf",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "10:30",
-        "end": "12:00"
-      },
-      "streets": [
-        "у Суботици у улицама: угао 8 Марта и Матије Гупца са околином."
-      ],
-      "reason": null,
-      "note": "у Суботици у улицама: угао 8 Марта и Матије Гупца са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "252afbd8f2dc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "13:10",
-        "end": "14:10"
-      },
-      "streets": [
-        "у Суботици у улицама и деловима улица са околином: Бојанска бр. (2-19), франа Супила бр. (2, 19, 19/А, 21) са околином."
-      ],
-      "reason": null,
-      "note": "у Суботици у улицама и деловима улица са околином: Бојанска бр. (2-19), франа Супила бр. (2, 19, 19/А, 21) са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "3f29f8071e4f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-22",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "15:00",
-        "end": "18:00"
-      },
-      "streets": [
-        "у Ст.Моравици у улицама: Бајшански пут са околином."
-      ],
-      "reason": null,
-      "note": "у Ст.Моравици у улицама: Бајшански пут са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8a37a7c94fa1",
       "utility": "electricity",
       "kind": "planned",
@@ -157,7 +21,7 @@
       ],
       "reason": null,
       "note": "у Суботици у улицама:Соње Маринковић 50",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e57ce6bf630f",
@@ -174,7 +38,7 @@
       ],
       "reason": null,
       "note": "у Ст.Моравици у улицама: Хусарска,Жељезничка са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4ccdbc549b7c",
@@ -191,7 +55,7 @@
       ],
       "reason": null,
       "note": "у насељу Ђурђин у улици: Ђуре Ђаковића између бр.( 1 и 18 ).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ed16ad47f2fa",
@@ -208,7 +72,7 @@
       ],
       "reason": null,
       "note": "у насељима: Наумовићево,Горњи Верушић,Верушић,Шишковац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4b8ba74a99d4",
@@ -225,7 +89,7 @@
       ],
       "reason": null,
       "note": "у Суботици у улицама: Ивана Тургењева,Иђошка,Фекетићка,Жедничка,Београдски пут од 210 до 252,Мосорска,Митра Бакића,Ловћенска,Градишћанска,Адачка,Толминска са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e45c9dc97830",
@@ -242,7 +106,7 @@
       ],
       "reason": null,
       "note": "у насељу Носа у улицама и деловима улица у околини: Носа , Шупљак, Београдска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "7a7d0c7df3db",
@@ -259,7 +123,7 @@
       ],
       "reason": null,
       "note": "у Ст.Моравици у улицама: СТ.Ковач Ђуле,Кунмадарашка,Петефи Шандора,Карцаг,Данила Киша са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "71a497c3b399",
@@ -276,7 +140,7 @@
       ],
       "reason": null,
       "note": "у насељу Стари Жедник у улицама и деловима улица у околини: Максима Горког између бр.( 2 и 19 ), Ђуре Ђаковића између бр.( 10 и 34 ), Димитрија Туцовића бр.20, Салаши бр.( 341, 347, 347/А ).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a39765a387ec",
@@ -293,7 +157,7 @@
       ],
       "reason": null,
       "note": "у насељу Хајдуково: Хајдуково ( од бр.251 до 254 до 277 до 298,314 ),Палић салаш бр 284/Ц.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "6d73801466b7",
@@ -310,7 +174,7 @@
       ],
       "reason": null,
       "note": "у Суботици у улицама и деловима улица са околином: Ендреа Адија, Дежеа Костолањија, Алексе Дундића, Фредерика Шопена (између Бозе Шарчевића и Ђорђра Натошевића), Првог Устанка (између Бозе Шарчевића и Ђорђр Натошевића), Бозе Шарчевића (између Фредерика Шопена и Првог Устанка), Његошева (између Десанке Максимовић и Првог Устанка), Десанке Максимовић, Јосипа Еугена Томића, Марије Кири (између Раде Кончара и Фредерика Шопена), Ђорђа Натошевића (између Славонске и Фредерика Шопена), Раде Кончара и Славонска (од Јакшићеве до краја), Битољска, Шандора Олаха, Алберта Ајнштајна, Гелерта Перла, Јакшићева (између Алберта Ајнштајна и Требињске), Белоцркванска, Иштвана Кизура (између Јосипа Краша и Николе Тесле) и околини Ендреа Адија, Саве Ковачевића (између Белоцркванске и Јосипа Краша) и (између Ференца Киша и Ендреа Адија), Јосипа Краша (између Иштвана Кизура и Банијске), и Банијска између бр. (3 и 63), Ференца Киша (између Саве Ковачевића и Банијске), Требињска, Сегедински Пут бр. (53, 55, 57), Банијска Петрињска ББ у околини.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "f5cf8d6d17b1",
@@ -327,7 +191,7 @@
       ],
       "reason": null,
       "note": "у Суботици у улицама и деловима улица са околином: Део Теслине ( између Анте Парчетића и Саве Ковачевића ), део улице Кизур Иштвана ( између Николе Тесле и Аранђеловачке ), Анте Парчетића између ( Аранђеловачке и Јосипа Краша ), део Михајла Пупина ( између Јосипа Краша и Карла Битермана ), део Шантићеве ( између Анте Парчетића и Кизур Иштвана ), Раденска, Адолфа Сингера, Аранђеловачка, Буковачка, Хусинска, Марије Војнић Тошинице ( бр.14, 30 и 32 ), и Саве Ковачевића ( бр.37 и 39 ), Јосипа Краша ( бр.19 ), Јована Микића ( бр.6 ).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "daf219eb353f",
@@ -344,7 +208,7 @@
       ],
       "reason": null,
       "note": "у Суботици у улицама и деловима улица са околином: Београдски пут бр. (30, 104, 210--252), Иђошка бр. (1-22), Жеднишка бр. (14-24), Фекетићка бр. (3-41), Ивана Тургењева бр. (1-14), Рударска бр. (16), Чантавирски пут бр. (4, 14, ББ), Жедничка бр. (1-12), Милутина Бојића бр. (2-16), Плате Добројевић бр. (13-58), Станоја Главаша бр. (1-14), Маре Ђорђевић Малагурски бр. (1-20), Петра Хорватског бр. (53-124), Старине Новака бр. (7-112), Томе Рудић Браце бр. (19-28), Александрови салаши бр. (168), Јосипа Зелића бр. (29-82), Мурска бр. (1-17), Рударска бр. (1-13), Боривоја Мишића бр. (78-86), Јосипа Лихта бр. (49-84), Карела Направника бр. (17), Лоле Вохл бр. (31-63), Томе Рудић браце бр. (1-20), Боривоја Мишића бр. (51-77), Јосипа Шокчића бр. (1-19, 25, 27, 33), Карела Направника бр. (1-32), Аксентија Мародића бр. (54-73), Дечанска бр. (18-42), Јурија Гагарина бр. (19-41), Власеничка бр. (30, 33, 41).Петра Хорватског.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "987fb10c1a72",
@@ -361,7 +225,7 @@
       ],
       "reason": null,
       "note": "у Суботици у улици: Едеа Телча, Копаоничка, Бајмочка ( између Едеа Телча и Серво Михаља ), Баштованска, Зворничка и ( Јована Цвијића и Серво Михаља ) у околини наведених улица.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "be7fee9c190d",
@@ -378,7 +242,7 @@
       ],
       "reason": null,
       "note": "у Суботици у улицама: Огњена Прице са околином",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "5bf452c876c3",
@@ -395,7 +259,7 @@
       ],
       "reason": null,
       "note": "цело насеље Ђурђин",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "ef2b8fd3376a",
@@ -412,7 +276,7 @@
       ],
       "reason": null,
       "note": "у Суботици у улицама и деловима улица у околини: Генерала Кутузова између бр.( 2 и 6 ), Верушићка између бр.( 4 и 20 ).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "41cf02e82074",
@@ -429,7 +293,7 @@
       ],
       "reason": null,
       "note": "у Суботици у улицама: Метохијска ( до Стевана Мокрањца ) и делови ( Стевана Мокрањца и Стевана филиповића ) у околини.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "52de04bfd0ea",
@@ -446,7 +310,7 @@
       ],
       "reason": null,
       "note": "у Чантавиру у улицама: Првомајска ( од бр.67 и 72 до 85 и 90 ), Маршала Тита ( од бр.37 и 46 до 81 и 82 ), Кањишка ( од бр.28 и 49 до 44 и 71 ), Трг ПетеФи бригаде ( од бр.8 до 16 ), Болманска ( од бр.42 и 49 до 60 и 65 ) и Кањишки пут ( 57 и 65 ).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "ee09e7856432",
@@ -463,7 +327,7 @@
       ],
       "reason": null,
       "note": "у Суботици у улицама: Доситејева, Ђуре Даничића, Банатска, Устаничка ( до бр.15 ), почетак Београдског пута ( парна страна- до Владимира Гортана, и непарна бр.9 и 13 ) и Беле Габрића ( стамбена зграда бр.23 ),Отона Жупанчића бр. 13-15/А.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "a801dbb1970a",
@@ -480,7 +344,7 @@
       ],
       "reason": null,
       "note": "у Суботици у улицама: Максима Горког 8,9,10",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "3358b4c73b09",
@@ -497,7 +361,7 @@
       ],
       "reason": null,
       "note": "Бајмок, у насељу Доњи Таванкут у улицама и деловима улица: Ивана Сарића, Дикановац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
