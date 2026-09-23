@@ -394,6 +394,38 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "95a76011321c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-23",
+      "areaLabel": "Буковцу",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица 22. августа"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица 22. августа у Буковцу.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-23-9-2026/"
+    },
+    {
+      "id": "4c0be82e557b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-23",
+      "areaLabel": "Ветерник",
+      "time": {
+        "start": null,
+        "end": "16:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 16 сати бити Улица Драгослава Срејовића (од угла са Улицом Данице Јовановић до Улице др Душана Поповића) и околне улице у Ветернику.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-23-9-2026/"
+    },
+    {
       "id": "8860da875b60",
       "utility": "water",
       "kind": "emergency",
@@ -426,6 +458,63 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Везирац и Улица Павла Ристића и околне улице у Петроварадину.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-23-9-2026/"
+    },
+    {
+      "id": "ae5fbc5e50b5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "13:45"
+      },
+      "streets": [
+        "Ченеј-\"\r\nРеље Савића\r\n\""
+      ],
+      "reason": null,
+      "note": "Ченеј-\"\r\nРеље Савића\r\n\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "ce14a4d68495",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Каћ-Светозара Марковића 35 – 77",
+        "36 – 70\r\nЂорђа Исакова 48 – 74",
+        "55 – 93\r\nМоше Пијаде 1 – 19",
+        "2 – 32 А\r\nЖелезничка пруга\r\nПартизанска од бр 46 према Будисави\r\nМихајла Пупина\r\nВојина Палексића 49 а – 75",
+        "54 – 80\r\nЖарка Јовића\r\nИ све остале улице дд улице Саве Малешева према Будисави.\r\nОЗЗ КАЋ\r\nБММ\r\nМАНАСТИР"
+      ],
+      "reason": null,
+      "note": "Каћ-Светозара Марковића 35 – 77, 36 – 70\r\nЂорђа Исакова 48 – 74, 55 – 93\r\nМоше Пијаде 1 – 19, 2 – 32 А\r\nЖелезничка пруга\r\nПартизанска од бр 46 према Будисави\r\nМихајла Пупина\r\nВојина Палексића 49 а – 75, 54 – 80\r\nЖарка Јовића\r\nИ све остале улице дд улице Саве Малешева према Будисави.\r\nОЗЗ КАЋ\r\nБММ\r\nМАНАСТИР",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e8941df73cda",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "12:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "\"\r\nОтокара Кершованија 1 – 23 А",
+        "2 – 30\r\nТемерински пут 15 – 55\r\nВука Мандушића\r\nДушана Шућова\r\nЦрвени Чот\r\nПовртарска 32 – 60",
+        "43 А – 61\r\nАУТО РАД\r\n\""
+      ],
+      "reason": null,
+      "note": "\"\r\nОтокара Кершованија 1 – 23 А, 2 – 30\r\nТемерински пут 15 – 55\r\nВука Мандушића\r\nДушана Шућова\r\nЦрвени Чот\r\nПовртарска 32 – 60, 43 А – 61\r\nАУТО РАД\r\n\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "cc42138b9c1e",
@@ -554,7 +643,7 @@
     {
       "date": "2026-09-23",
       "electricityOutages": 4,
-      "waterOutages": 5
+      "waterOutages": 7
     }
   ]
 }

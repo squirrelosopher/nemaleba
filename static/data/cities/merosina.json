@@ -22,6 +22,28 @@
       "reason": null,
       "note": "Девча 1 део Ђерен и Грчка мала",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "d3a4fd5bf95f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "села:Кованлук",
+        "Крајковац",
+        "Падина",
+        "Девча",
+        "Чубура",
+        "Мали Јастребац."
+      ],
+      "reason": null,
+      "note": "села:Кованлук,Крајковац,Падина,Девча,Чубура,Мали Јастребац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

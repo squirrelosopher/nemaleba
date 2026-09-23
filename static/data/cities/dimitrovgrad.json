@@ -32,6 +32,40 @@
       "reason": null,
       "note": "Невља,Голеш,Барије,Скрвеница,Драговита,Мирчина Падина,Врапча,Петачинци,Шаркова Махала,Пометковиц,Искаровци.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "b39825ede7bb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Димитровград",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Гацино."
+      ],
+      "reason": null,
+      "note": "Гацино.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "699f0041ffda",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Димитровград",
+      "time": {
+        "start": "10:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "Водовод."
+      ],
+      "reason": null,
+      "note": "Водовод.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -66,6 +66,43 @@
       "reason": null,
       "note": "Потрошачи са подручја центра Кремана, Амбуланте, Јанковића, Попова Поља, Поповића, Врачарића, Омара ОШ Богосав Јанковић у Кремнима.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "4c625bde1712",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Делови улица Јована Стерије Поповића",
+        "Љутомерска и Карађорђева"
+      ],
+      "reason": null,
+      "note": "Делови улица Јована Стерије Поповића ,Љутомерска и Карађорђева",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "744c43c0f200",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Потрошачи са подручја Стапара",
+        "Волујца",
+        "Беле Воде и Јелове Горе."
+      ],
+      "reason": null,
+      "note": "Потрошачи са подручја Стапара, Волујца, Беле Воде и Јелове Горе.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

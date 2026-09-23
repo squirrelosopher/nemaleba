@@ -5,7 +5,45 @@
     "nameLatin": "Ćićevac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "4a074a4f3338",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Ћићевац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насељено место Ћићевац",
+        "код дома здравља"
+      ],
+      "reason": null,
+      "note": "Насељено место Ћићевац,код дома здравља",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "1ac48982c5f3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Ћићевац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део насељеног места Појате и хасељена места Расинска Браљина",
+        "Стеванац",
+        "Мојсиње и Плочник."
+      ],
+      "reason": null,
+      "note": "Део насељеног места Појате и хасељена места Расинска Браљина, Стеванац, Мојсиње и Плочник.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-15",

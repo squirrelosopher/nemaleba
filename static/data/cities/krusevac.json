@@ -22,6 +22,46 @@
       "reason": null,
       "note": "Део насељеног места Дедина.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "4bbf26e611d6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насељено место Мајдево",
+        "нн извод према брани"
+      ],
+      "reason": null,
+      "note": "Насељено место Мајдево,нн извод према брани",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "5f9677ae07bb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Делови улица Стевана Сремца",
+        "Серафима Неготинца",
+        "Градачка",
+        "Косовке Девојке",
+        "Михизова",
+        "Тимочке буне"
+      ],
+      "reason": null,
+      "note": "Делови улица Стевана Сремца, Серафима Неготинца, Градачка, Косовке Девојке, Михизова, Тимочке буне",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
