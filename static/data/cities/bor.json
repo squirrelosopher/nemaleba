@@ -62,6 +62,21 @@
       "reason": "Санација кварова на водоводној мрежи",
       "note": "Бањско Поље – Прикључак Улица Бранка Ћопића Кварови на мерним местима – у шахтама",
       "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-22-09-2026-god/"
+    },
+    {
+      "id": "93bdd133d340",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-23",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Слатина – Железничка станица",
+        "Бор 2 – Прикључак"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Слатина – Железничка станица Бор 2 – Прикључак Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-sreda-23-09-2026-god/"
     }
   ],
   "history": [
@@ -173,7 +188,7 @@
     {
       "date": "2026-09-23",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
