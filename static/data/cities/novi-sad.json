@@ -7,71 +7,6 @@
   },
   "outages": [
     {
-      "id": "d0e349333589",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Улица Миколе Кочиша"
-      ],
-      "reason": null,
-      "note": "Због планираних радова на водоводној мрежи без воде ће од 8 до 14 сати бити Улица Миколе Кочиша.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-16-9-2026/"
-    },
-    {
-      "id": "fa4ae191f93d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "areaLabel": "Сремска Каменица",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "улице Пут доктора Голдмана, Новосадска и околне улице"
-      ],
-      "reason": null,
-      "note": "Због планираних радова на водоводној мрежи без воде ће од 8 до 16 сати бити улице Пут доктора Голдмана, Новосадска и околне улице у Сремској Каменици.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-16-9-2026/"
-    },
-    {
-      "id": "7d888524f48d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "16:00"
-      },
-      "streets": [
-        "Улица Ђорђа Никшића Јохана и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 16 сати бити Улица Ђорђа Никшића Јохана и околне улице.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-16-9-2026/"
-    },
-    {
-      "id": "eb5e1f84743a",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "areaLabel": "Сремска Каменица",
-      "time": null,
-      "streets": [
-        "Улица Светозара Марковића и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 21 сат бити Улица Светозара Марковића и околне улице у Сремској Каменици.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-16-9-2026/"
-    },
-    {
       "id": "a3ef7f960789",
       "utility": "water",
       "kind": "emergency",
@@ -644,6 +579,11 @@
       "date": "2026-09-23",
       "electricityOutages": 4,
       "waterOutages": 7
+    },
+    {
+      "date": "2026-09-24",
+      "electricityOutages": 3,
+      "waterOutages": 0
     }
   ]
 }

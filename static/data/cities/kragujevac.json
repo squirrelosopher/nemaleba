@@ -7,157 +7,6 @@
   },
   "outages": [
     {
-      "id": "665b75c9cbca",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-16-09-2026/",
-      "areaLabel": "Пивара",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Цара Константина"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "\" Хаваријска искључења на дан 16.09.2026. \n \n Пивара, ул. Цара Константина ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "7363a0bab9be",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-16-09-2026/",
-      "areaLabel": "Шумарице",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Крагујевачког Октобра"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Шумарице, ул. Крагујевачког Октобра ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "1c74e3e96f2e",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-16-09-2026/",
-      "areaLabel": "Шумарице",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "угао Иве Андрића – Ударних бригада"
-      ],
-      "reason": "поправка затварача",
-      "note": "Шумарице, угао Иве Андрића – Ударних бригада ( од 08:00 до 12:00 часова ), поправка затварача."
-    },
-    {
-      "id": "1a42e0bb447f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-16-09-2026/",
-      "areaLabel": "Бресница 3",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Кадињача"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Бресница 3, ул. Кадињача ( од 12:00 до 16:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "6ecc76e5b1db",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-16-09-2026/",
-      "areaLabel": "Јована Ристића",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [],
-      "reason": "квар у шахти",
-      "note": "Бресница , ул. Др.Јована Ристића ( од 12:00 до 16:00 часова ), квар у шахти."
-    },
-    {
-      "id": "e2cab1741ff8",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-16-09-2026/",
-      "areaLabel": "Станово",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Овчарска"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Станово, ул. Овчарска ( од 12:00 до 16:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "ce374637cad5",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-16-09-2026/",
-      "areaLabel": "Аеродром",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Атинска"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Аеродром, ул. Атинска ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "c24f837a1f4c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-16-09-2026/",
-      "areaLabel": "Бресница",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Луја Адамича"
-      ],
-      "reason": "квар у шахти",
-      "note": "Бресница, ул. Луја Адамича ( од 16:00 до 19:00 часова ), квар у шахти."
-    },
-    {
-      "id": "6ecd95bdd74b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-16",
-      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-16-09-2026/",
-      "areaLabel": "Станово",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Светоандрејске скупштине"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Станово, ул. Светоандрејске скупштине ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
-    },
-    {
       "id": "d0e97bc6f94e",
       "utility": "water",
       "kind": "emergency",
@@ -1197,6 +1046,11 @@
       "date": "2026-09-23",
       "electricityOutages": 1,
       "waterOutages": 9
+    },
+    {
+      "date": "2026-09-24",
+      "electricityOutages": 3,
+      "waterOutages": 0
     }
   ]
 }
