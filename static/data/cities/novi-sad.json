@@ -411,6 +411,23 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-23-9-2026/"
     },
     {
+      "id": "17d8c644ae1d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-23",
+      "areaLabel": "Петроварадин",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Везирац и Улица Павла Ристића и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Везирац и Улица Павла Ристића и околне улице у Петроварадину.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-23-9-2026/"
+    },
+    {
       "id": "cc42138b9c1e",
       "utility": "electricity",
       "kind": "planned",
@@ -537,7 +554,7 @@
     {
       "date": "2026-09-23",
       "electricityOutages": 4,
-      "waterOutages": 4
+      "waterOutages": 5
     }
   ]
 }
