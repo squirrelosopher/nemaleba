@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "dbe9c19fa43b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "насеље лесковац - засеок код Дома"
-      ],
-      "reason": null,
-      "note": "насеље лесковац - засеок код Дома",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c177f9959762",
       "utility": "electricity",
       "kind": "planned",
@@ -38,6 +21,23 @@
       ],
       "reason": null,
       "note": "насеље Јунковац - засеок Белаћевићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "dbe9c19fa43b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-23",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "насеље лесковац - засеок код Дома"
+      ],
+      "reason": null,
+      "note": "насеље лесковац - засеок код Дома",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
@@ -141,6 +141,23 @@
       "reason": null,
       "note": "Општина Горњи Милановац: насеље Бољковци (засеок Рањци-према Буковачи).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "c660ba3e6931",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-26",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "10:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Насеље Велики Црљени: засеок Колонија ТЕК 1, Колонија ТЕК 2, Телеком,Рударска колонија,Космај 2. Соколово."
+      ],
+      "reason": null,
+      "note": "Насеље Велики Црљени: засеок Колонија ТЕК 1, Колонија ТЕК 2, Телеком,Рударска колонија,Космај 2. Соколово.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

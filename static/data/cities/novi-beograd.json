@@ -107,6 +107,40 @@
       "reason": null,
       "note": "ЏОНА КЕНЕДИЈА: бб,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "ba1c205b5fad",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-26",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "БУЛЕВАР МИХАЈЛА ПУПИНА (Булевар Лењина): 12-14"
+      ],
+      "reason": null,
+      "note": "БУЛЕВАР МИХАЈЛА ПУПИНА (Булевар Лењина): 12-14,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "a06a06d502d1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-26",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "10:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "БУЛЕВАР АРСЕНИЈА ЧАРНОЈЕВИЋА: 175-189,207-225, МИЛУТИНА МИЛАНКОВИЋА: 148,156-160, НАРОДНИХ ХЕРОЈА: 42-60"
+      ],
+      "reason": null,
+      "note": "БУЛЕВАР АРСЕНИЈА ЧАРНОЈЕВИЋА: 175-189,207-225, МИЛУТИНА МИЛАНКОВИЋА: 148,156-160, НАРОДНИХ ХЕРОЈА: 42-60,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

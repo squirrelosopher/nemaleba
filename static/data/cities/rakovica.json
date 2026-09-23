@@ -7,6 +7,23 @@
   },
   "outages": [
     {
+      "id": "157c43d1e4f5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Раковица",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеље ПЕТЛОВО БРДО: МИЛОРАДА ДРАШКОВИЋА: 26-30В/6"
+      ],
+      "reason": null,
+      "note": "Насеље ПЕТЛОВО БРДО: МИЛОРАДА ДРАШКОВИЋА: 26-30В/6,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "8c45770c5fa8",
       "utility": "electricity",
       "kind": "planned",
