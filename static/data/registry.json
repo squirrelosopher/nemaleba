@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T08:32:13.643Z",
+  "generatedAt": "2026-09-23T09:11:01.006Z",
   "summary": {
     "date": "2026-09-23",
     "electricityOutages": 240,
-    "waterOutages": 28,
+    "waterOutages": 29,
     "affected": [
       {
         "id": "beograd",
@@ -21,7 +21,7 @@
         "id": "nis",
         "nameCyrillic": "Ниш",
         "electricityOutages": 7,
-        "waterOutages": 9
+        "waterOutages": 10
       },
       {
         "id": "kragujevac",
@@ -530,7 +530,7 @@
     {
       "date": "2026-09-23",
       "electricityOutages": 111,
-      "waterOutages": 25
+      "waterOutages": 26
     }
   ],
   "providers": [
