@@ -38,6 +38,58 @@
       "reason": null,
       "note": "Купци села Поћута ,тубравић, Вујиновача , Ребељ, и део села Брезовице",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "6fa15318b91e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Купци дела села Осеченице."
+      ],
+      "reason": null,
+      "note": "Купци дела села Осеченице.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "720a8a7232ba",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Купци дела села Брезовице милавац (брлог)"
+      ],
+      "reason": null,
+      "note": "Купци дела села Брезовице милавац (брлог)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7fae82edaabd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Купци ул. Градачка",
+        "и део радиног брда"
+      ],
+      "reason": null,
+      "note": "Купци ул. Градачка , и део радиног брда",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -153,7 +205,7 @@
     },
     {
       "date": "2026-09-24",
-      "electricityOutages": 1,
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

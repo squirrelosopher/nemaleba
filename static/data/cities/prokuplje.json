@@ -41,6 +41,23 @@
       "reason": null,
       "note": "Село Мачковац.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "7fc7ef0e1ddb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул.Пасјачка"
+      ],
+      "reason": null,
+      "note": "ул.Пасјачка",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -156,7 +173,7 @@
     },
     {
       "date": "2026-09-24",
-      "electricityOutages": 2,
+      "electricityOutages": 4,
       "waterOutages": 0
     }
   ]

@@ -7,6 +7,23 @@
   },
   "outages": [
     {
+      "id": "7e4ce9cde9ab",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. И. Добросављева од Ж. Кодранова до Ђ. Јакшића;"
+      ],
+      "reason": null,
+      "note": "ул. И. Добросављева од Ж. Кодранова до Ђ. Јакшића;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
       "id": "3a7447bcba73",
       "utility": "electricity",
       "kind": "planned",
@@ -41,6 +58,176 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "5032b126f8a2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Мике Антића"
+      ],
+      "reason": null,
+      "note": "Улица Мике Антића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "327e7d131996",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Светосавска 43 (сва три улаза) Идеа"
+      ],
+      "reason": null,
+      "note": "Улица Светосавска 43 (сва три улаза) Идеа",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "627227d0acd6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Иве Лоле Рибара од Светосавске до Браће Татића"
+      ],
+      "reason": null,
+      "note": "Улица Иве Лоле Рибара од Светосавске до Браће Татића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "7ed5203880c9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Ђуре Даничића од Масарикове до Сувачарске"
+      ],
+      "reason": null,
+      "note": "Улица Ђуре Даничића од Масарикове до Сувачарске",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "5acb2f586f42",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Масарикова"
+      ],
+      "reason": null,
+      "note": "Улица Масарикова",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "f593a1beedc5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Жарка Зрењанина од Немањине до Стерије Поповића"
+      ],
+      "reason": null,
+      "note": "Улица Жарка Зрењанина од Немањине до Стерије Поповића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "d960013a6d10",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Војводе Мишића од Моравске до Призренске"
+      ],
+      "reason": null,
+      "note": "Улица Војводе Мишића од Моравске до Призренске",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "07ffabeb1c42",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Призренска од Николе Француски до Војводе Мишића"
+      ],
+      "reason": null,
+      "note": "Улица Призренска од Николе Француски до Војводе Мишића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "eeb6bd4cbdbe",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Моравска од Стерије поповића до Војводе Мишића"
+      ],
+      "reason": null,
+      "note": "Улица Моравска од Стерије поповића до Војводе Мишића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "861b86f73aa5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Николе Француски од Моравске према Војина Зиројевића (пола улице)"
+      ],
+      "reason": null,
+      "note": "Улица Николе Француски од Моравске према Војина Зиројевића (пола улице)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
       "id": "53e8bb659ae4",
       "utility": "electricity",
       "kind": "planned",
@@ -55,6 +242,176 @@
       ],
       "reason": null,
       "note": "\"Улица Мике Антића\r\nУлица Крфска\r\nУлица Сутјеска од Уроша Предића до Србобранске\r\nУлица Сутјеска између два сокачета Стерија Поповића\r\nУлица Стерије Поповића од Призренске до сокачета к.бр. 88а Србобранска од кривине после дрваре до Албертове\r\nУлица Ивана Јакшића од Моравске према Војина Зиројевића (пола улице)\r\nУлица Николе Француски од Димитрије Туцовића до Моравске\r\nУлица Николе Француски од Моравске према Војина Зиројевића (пола улице)\r\nУлица Моравска од Стерије поповића до Војводе Мишића\r\nУлица Призренска од Николе Француски до Војводе Мишића\r\nУлица Војводе Мишића од Моравске до Призренске\r\nУлица Жарка Зрењанина од Немањине до Стерије Поповића\r\nУлица Масарикова\r\nУлица Ђуре Даничића од Масарикове до Сувачарске\r\nУлица Иве Лоле Рибара од Светосавске до Браће Татића\r\nУлица Светосавска 43 (сва три улаза) Идеа\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "e27e2db2a753",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Крфска"
+      ],
+      "reason": null,
+      "note": "Улица Крфска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "b978b77774c2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Сутјеска од Уроша Предића до Србобранске"
+      ],
+      "reason": null,
+      "note": "Улица Сутјеска од Уроша Предића до Србобранске",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "7761d698cbad",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Сутјеска између два сокачета Стерија Поповића"
+      ],
+      "reason": null,
+      "note": "Улица Сутјеска између два сокачета Стерија Поповића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "b1fc17ac3876",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Србобранска од кривине после дрваре до Албертове"
+      ],
+      "reason": null,
+      "note": "Улица Србобранска од кривине после дрваре до Албертове",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "b13e1a4bd490",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Стерије Поповића од Призренске до сокачета к.бр. 88"
+      ],
+      "reason": null,
+      "note": "Улица Стерије Поповића од Призренске до сокачета к.бр. 88",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "8a950037c6a9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Ивана Јакшића од Моравске према Војина Зиројевића (пола улице)"
+      ],
+      "reason": null,
+      "note": "Улица Ивана Јакшића од Моравске према Војина Зиројевића (пола улице)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "19ea0d01c2ec",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Николе Француски од Димитрије Туцовића до Моравске"
+      ],
+      "reason": null,
+      "note": "Улица Николе Француски од Димитрије Туцовића до Моравске",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "ccc148131a0d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "10:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Ул. Браће Арсенов од ул. Браће Богарошки до ул. Пере Сегединца"
+      ],
+      "reason": null,
+      "note": "Ул. Браће Арсенов од ул. Браће Богарошки до ул. Пере Сегединца",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "d2e99e38a7cb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "10:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Ул. Пере Сегединца од ул. Ивана Милутиновића до ул. Браће Арсенов."
+      ],
+      "reason": null,
+      "note": "Ул. Пере Сегединца од ул. Ивана Милутиновића до ул. Браће Арсенов.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "4a574b99fa2c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "10:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Ул. Доситеја Обрадовића од ул. Светог Саве до ул. Ј.Ј.Змаја."
+      ],
+      "reason": null,
+      "note": "Ул. Доситеја Обрадовића од ул. Светог Саве до ул. Ј.Ј.Змаја.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
@@ -75,6 +432,312 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "cbd598f89b5b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Т. Марковића од гробља до Ђ. Јакшића"
+      ],
+      "reason": null,
+      "note": "ул. Т. Марковића од гробља до Ђ. Јакшића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e30432f6e7a3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. В. Караџића од од Ж. Кодранова до Ђ. Јакшића"
+      ],
+      "reason": null,
+      "note": "ул. В. Караџића од од Ж. Кодранова до Ђ. Јакшића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "1055b6ad9d9f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Р. Трнића од пута за Кикинди до М. Маленчића"
+      ],
+      "reason": null,
+      "note": "ул. Р. Трнића од пута за Кикинди до М. Маленчића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "71d4bbf269d1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. В. Стајића од Д. Туцовића до М. Маленчића"
+      ],
+      "reason": null,
+      "note": "ул. В. Стајића од Д. Туцовића до М. Маленчића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "1e047f1611a9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. А. Ранковић; ул. Светог Саве од Д. Обрадовића до Ђ. Јакшића"
+      ],
+      "reason": null,
+      "note": "ул. А. Ранковић; ул. Светог Саве од Д. Обрадовића до Ђ. Јакшића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a06a4e8b2770",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. М. Антића; ул. Ј. Ј. Змаја од Д. Обрадовића до С. Милетића;"
+      ],
+      "reason": null,
+      "note": "ул. М. Антића; ул. Ј. Ј. Змаја од Д. Обрадовића до С. Милетића;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "9ee5c94906fb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Маркових од С. Милетића до Ђ. Ђаковића;"
+      ],
+      "reason": null,
+      "note": "ул. Маркових од С. Милетића до Ђ. Ђаковића;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "ef1948364c7e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. И. Милутиновића од Д. Обрадовића до С. Милетића"
+      ],
+      "reason": null,
+      "note": "ул. И. Милутиновића од Д. Обрадовића до С. Милетића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "67f855d1922d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. У. Кузманова од С. Милетића до Ђ. Ђаковића"
+      ],
+      "reason": null,
+      "note": "ул. У. Кузманова од С. Милетића до Ђ. Ђаковића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c4f966ca682e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Златна греда од Д. Обрадовића до Ђ. Јакшића"
+      ],
+      "reason": null,
+      "note": "ул. Златна греда од Д. Обрадовића до Ђ. Јакшића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "97d0c0748a54",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Р. Вујина; ул. Ж. Зрењанина; ул. Првомајска; ул. Железнички нови ред; ул. Београдска"
+      ],
+      "reason": null,
+      "note": "ул. Р. Вујина; ул. Ж. Зрењанина; ул. Првомајска; ул. Железнички нови ред; ул. Београдска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "9532bbe45928",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. М. Пупина; ул. Н. Тесле; ул С. Маринковић; ул. М. Кнежева"
+      ],
+      "reason": null,
+      "note": "ул. М. Пупина; ул. Н. Тесле; ул С. Маринковић; ул. М. Кнежева",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "288fc6392c19",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Д. Туцовића од Р. Трнића до Светог Саве; ул. Б. Бачулова"
+      ],
+      "reason": null,
+      "note": "ул. Д. Туцовића од Р. Трнића до Светог Саве; ул. Б. Бачулова",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "64323e590156",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Ж. Кодранова од И. Добросављева до Р. Трнића"
+      ],
+      "reason": null,
+      "note": "ул. Ж. Кодранова од И. Добросављева до Р. Трнића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e1740a8f13f1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Д. Обрадовића од И. Добросављева до Светог Саве"
+      ],
+      "reason": null,
+      "note": "ул. Д. Обрадовића од И. Добросављева до Светог Саве",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "be6027ae7597",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Бр. Томић; ул. С. Милетића; ул. Ђ. Ђаковића од Г. Драпшина до Маркових"
+      ],
+      "reason": null,
+      "note": "ул. Бр. Томић; ул. С. Милетића; ул. Ђ. Ђаковића од Г. Драпшина до Маркових",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "52a67accb684",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Трг 9. Јануар; ул. Ђ. Јакшића од Т. Марковића до Светог Саве"
+      ],
+      "reason": null,
+      "note": "Трг 9. Јануар; ул. Ђ. Јакшића од Т. Марковића до Светог Саве",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c14de03025ca",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул М. Маленчића од В. Карађића до Р. Трнића"
+      ],
+      "reason": null,
+      "note": "ул М. Маленчића од В. Карађића до Р. Трнића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "ccfadfe5f898",
       "utility": "electricity",
       "kind": "planned",
@@ -89,6 +752,23 @@
       ],
       "reason": null,
       "note": "ул. Т. Марковића од гробља до Ђ. Јакшића\r\nул. И. Добросављева од Ж. Кодранова до Ђ. Јакшића; \r\nул. В. Караџића од од Ж. Кодранова до Ђ. Јакшића\r\nул. Р. Трнића од пута за Кикинди до М. Маленчића\r\nул. В. Стајића од Д. Туцовића до М. Маленчића\r\nул. А. Ранковић; ул. Светог Саве од Д. Обрадовића до Ђ. Јакшића\r\nул. М. Антића; ул. Ј. Ј. Змаја од Д. Обрадовића до С. Милетића;\r\nул. Маркових од С. Милетића до Ђ. Ђаковића;\r\nул. И. Милутиновића од Д. Обрадовића до С. Милетића\r\nул. У. Кузманова од С. Милетића до Ђ. Ђаковића\r\nул. Златна греда од Д. Обрадовића до Ђ. Јакшића\r\nул. Р. Вујина; ул. Ж. Зрењанина; ул. Првомајска; ул. Железнички нови ред; ул. Београдска\r\nул. М. Пупина; ул. Н. Тесле; ул С. Маринковић; ул. М. Кнежева\r\nул. Д. Туцовића од Р. Трнића до Светог Саве; ул. Б. Бачулова\r\nул. Ж. Кодранова од И. Добросављева до Р. Трнића\r\nул. Д. Обрадовића од И. Добросављева до Светог Саве\r\nул. Бр. Томић; ул. С. Милетића; ул. Ђ. Ђаковића од Г. Драпшина до Маркових\r\nТрг 9. Јануар; ул. Ђ. Јакшића од Т. Марковића до Светог Саве\r\nул М. Маленчића од В. Карађића до Р. Трнића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "0311659e14ec",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "ул.Светосавска од ул.Жарка Зрењанина до ул. Призренске"
+      ],
+      "reason": null,
+      "note": "ул.Светосавска од ул.Жарка Зрењанина до ул. Призренске",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
@@ -110,6 +790,247 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "eead9086bb28",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "Зграде ГА - 3",
+        "ГА - 4"
+      ],
+      "reason": null,
+      "note": "Зграде ГА - 3, ГА - 4",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2ef7a847d5a3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "ул. Браће Татић од ул. Вука Караџића до ул. Иве Лоле Рибара"
+      ],
+      "reason": null,
+      "note": "ул. Браће Татић од ул. Вука Караџића до ул. Иве Лоле Рибара",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2e2892e4af6e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "ул. Иве Лоле Рибара од ул. Јове Јовановића Змаја до ул. Браће Татић"
+      ],
+      "reason": null,
+      "note": "ул. Иве Лоле Рибара од ул. Јове Јовановића Змаја до ул. Браће Татић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "8b0dab575aaa",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "ул. Угљеше Терзин од Иве Лоле Рибара до Косовске"
+      ],
+      "reason": null,
+      "note": "ул. Угљеше Терзин од Иве Лоле Рибара до Косовске",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e2361013ba9f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "ул. Светосавска од Иве Лоле Рибара до Косовске"
+      ],
+      "reason": null,
+      "note": "ул. Светосавска од Иве Лоле Рибара до Косовске",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f9f263a89c16",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "ул. Браће Татић од Иве Лоле Рибара до кућног броја 34"
+      ],
+      "reason": null,
+      "note": "ул. Браће Татић од Иве Лоле Рибара до кућног броја 34",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "3ea992e7aaa9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "ул. Браће Татића од ул. Иве Лоле Рибара до ул. Косовске"
+      ],
+      "reason": null,
+      "note": "ул. Браће Татића од ул. Иве Лоле Рибара до ул. Косовске",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2e92839594e9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Трг српских добровољаца од Немањине до кућног броја 2"
+      ],
+      "reason": null,
+      "note": "ул. Трг српских добровољаца од Немањине до кућног броја 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "8e4f335d882f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Ђоке Радака десна страна од Трга српских добровољаца до Војводе Мишића"
+      ],
+      "reason": null,
+      "note": "ул. Ђоке Радака десна страна од Трга српских добровољаца до Војводе Мишића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "0736198e66e3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Галадска"
+      ],
+      "reason": null,
+      "note": "Галадска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "69d022a58409",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Светосавска од Жарка Зрењанина до \" Галадске \""
+      ],
+      "reason": null,
+      "note": "ул. Светосавска од Жарка Зрењанина до \" Галадске \"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "3e2141460c71",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "трг Српских добровољаца зграде бр. 13",
+        "15",
+        "17"
+      ],
+      "reason": null,
+      "note": "трг Српских добровољаца зграде бр. 13,15,17",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "cc2a2d465797",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул.Жарка Зрењанина од Светосавске до Немањине"
+      ],
+      "reason": null,
+      "note": "ул.Жарка Зрењанина од Светосавске до Немањине",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "9410a6e63a20",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Немањина од ул. Ђоке Радака до ул. Жарка Зрењанина"
+      ],
+      "reason": null,
+      "note": "ул. Немањина од ул. Ђоке Радака до ул. Жарка Зрењанина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "21345530cb05",
       "utility": "electricity",
       "kind": "planned",
@@ -126,6 +1047,57 @@
       ],
       "reason": null,
       "note": "ул. Немањина од Ђоке Радака до Димитрија Туцовића;\r\nул. Ђоке Радака десна страна од Трга српских добровољаца до Војводе Мишића\r\nул. Трг српских добровољаца од Немањине до кућног броја 2\r\nтрг Српских добровољаца зграде бр. 13,15,17\r\nул. Немањина од ул. Ђоке Радака до ул. Жарка Зрењанина\r\nул. Војводе Мишића од ул. Ђоке Радака до ул. Жарка Зрењанина\r\nул. Ђоке Радака лева страна од ул. Немањине до ул. Војводе Мишића \r\nул.Жарка Зрењанина од Светосавске до Немањине\r\nул. Светосавска од Жарка Зрењанина до \" Галадске \"\r\nГаладска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "8f0b39c417d8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Војводе Мишића од ул. Ђоке Радака до ул. Жарка Зрењанина"
+      ],
+      "reason": null,
+      "note": "ул. Војводе Мишића од ул. Ђоке Радака до ул. Жарка Зрењанина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "58aa2e31b3b4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Ђоке Радака лева страна од ул. Немањине до ул. Војводе Мишића"
+      ],
+      "reason": null,
+      "note": "ул. Ђоке Радака лева страна од ул. Немањине до ул. Војводе Мишића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a43134c826d7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ул. Немањина од Ђоке Радака до Димитрија Туцовића;"
+      ],
+      "reason": null,
+      "note": "ул. Немањина од Ђоке Радака до Димитрија Туцовића;",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
@@ -242,7 +1214,7 @@
     },
     {
       "date": "2026-09-24",
-      "electricityOutages": 4,
+      "electricityOutages": 26,
       "waterOutages": 0
     }
   ]

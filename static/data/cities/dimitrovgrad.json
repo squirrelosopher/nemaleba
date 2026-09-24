@@ -39,6 +39,28 @@
       "reason": null,
       "note": "Водовод.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "fd8ffae3ea3b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Димитровград",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Бански До",
+        "Поганово",
+        "Селиште",
+        "Боровско Поље",
+        "Прача",
+        "Било."
+      ],
+      "reason": null,
+      "note": "Бански До,Поганово,Селиште,Боровско Поље,Прача,Било.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -154,7 +176,7 @@
     },
     {
       "date": "2026-09-24",
-      "electricityOutages": 2,
+      "electricityOutages": 4,
       "waterOutages": 0
     }
   ]

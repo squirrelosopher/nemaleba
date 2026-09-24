@@ -80,6 +80,24 @@
       "reason": null,
       "note": "Алексе Ненадовића, Бојничка бр. 6 и 22, Боре Пиксле од бр. 9 до бр. 90, Дубочица од бр. 66 до бр. 107, Глигорија Диклића, Херцеговачка бр. 1, Иве Андрића, Пусторечка бр. 64 А, 66 и 70, Светислава Стоиљковића Лудајке, Раданска бр. 60 Б, 60 Д, 62 и 64 од бр. 207 до бр. 277, Раде Свилара, Светозара Марковића од бр. 13 до бр. 106, Хајдук Станка бр. 77, Мокрањчева од бр. 1 до бр. 58, Првомајска, Раде Жунића од бр. 1 до бр. 79, Војвођанска од бр. 11 до бр. 37 (непарна страна), Ђуре Салаја бр. 1 и 2, Јабланичка и Станоја Главаша од бр. 1 до бр. 61",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "5c952cf55386",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Лесковац",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Дубочица 103",
+        "105 и 107"
+      ],
+      "reason": null,
+      "note": "Дубочица 103, 105 и 107",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -195,7 +213,7 @@
     },
     {
       "date": "2026-09-24",
-      "electricityOutages": 2,
+      "electricityOutages": 4,
       "waterOutages": 0
     }
   ]

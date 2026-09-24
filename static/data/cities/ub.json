@@ -1,0 +1,34 @@
+{
+  "city": {
+    "id": "ub",
+    "nameCyrillic": "Уб",
+    "nameLatin": "Ub",
+    "branchCyrillic": "Ваљево"
+  },
+  "outages": [
+    {
+      "id": "81286cf70e3a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Уб",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Купци дела ул.Свете Поповић (УБ)"
+      ],
+      "reason": null,
+      "note": "Купци дела ул.Свете Поповић (УБ)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-24",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

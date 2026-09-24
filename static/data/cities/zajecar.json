@@ -5,7 +5,63 @@
     "nameLatin": "Zaječar",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "0858f9f2ff09",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Зајечар",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Хајдук Вељкова од бр.1-36 и Проте Матеје"
+      ],
+      "reason": null,
+      "note": "Хајдук Вељкова од бр.1-36 и Проте Матеје",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "928dbfad285d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Зајечар",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Црвене армије горњи део од бр.1-42",
+        "Бачка и Новице Поповића"
+      ],
+      "reason": null,
+      "note": "Црвене армије горњи део од бр.1-42, Бачка и Новице Поповића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "98416db41062",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Зајечар",
+      "time": {
+        "start": "11:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Плавска",
+        "Шавничка",
+        "С.Пенезића",
+        "Дрварска и горњи део Шљиварског пута"
+      ],
+      "reason": null,
+      "note": "Плавска, Шавничка, С.Пенезића, Дрварска и горњи део Шљиварског пута",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

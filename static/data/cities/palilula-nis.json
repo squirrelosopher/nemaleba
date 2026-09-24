@@ -267,6 +267,23 @@
       "reason": null,
       "note": "делови улица Бабички одред, Јована Апела (10а,18,20,28,30,34,37,бб), Мокрањчева (14,75,104,105,118,120,122,бб), Срђана Цветковића (7,10б,16,18);",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "a1380897f534",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-25",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "део Божидарчеве улице;"
+      ],
+      "reason": null,
+      "note": "део Божидарчеве улице;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -382,7 +399,7 @@
     },
     {
       "date": "2026-09-24",
-      "electricityOutages": 2,
+      "electricityOutages": 4,
       "waterOutages": 0
     }
   ]

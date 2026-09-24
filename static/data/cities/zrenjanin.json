@@ -84,6 +84,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "ce765ccea532",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Зрењанин:\r\n12. Војвођанске Бригаде, Благоја Паровића, Др Ђорђа Јоановића, део Жабаљска, део Здравка Челара, Ивана Аћина, Лазе Никина, део Мите Ђорђевића, Филипа Филиповића, 7 Секретара Ској-А"
+      ],
+      "reason": null,
+      "note": "Зрењанин:\r\n12. Војвођанске Бригаде, Благоја Паровића, Др Ђорђа Јоановића, део Жабаљска, део Здравка Челара, Ивана Аћина, Лазе Никина, део Мите Ђорђевића, Филипа Филиповића, 7 Секретара Ској-А",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
       "id": "2e32959dc5dd",
       "utility": "water",
       "kind": "emergency",
@@ -227,7 +244,7 @@
     },
     {
       "date": "2026-09-24",
-      "electricityOutages": 1,
+      "electricityOutages": 2,
       "waterOutages": 2
     }
   ]
