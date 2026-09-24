@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "570dd4df26e3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Апатин",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "СОНТА: цело село"
-      ],
-      "reason": null,
-      "note": "СОНТА: цело село",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "da6d52ac175a",
       "utility": "electricity",
       "kind": "planned",
@@ -59,7 +42,7 @@
       ],
       "reason": null,
       "note": "СОНТА,УЛИЦЕ:МАЂАРСКА,МАНДИНОВЦИ,МИХАЉЕВ,КРАИШКА,БУБИЈА,ЕКОНОМИЈА,М.ТИТА,М.ОРЕШКОВИЋА,ВАГА,МАГАЦИН,ЖЕЉЕЗНИЧКА,ВАШАРИШТЕ,ЛАЗЕ КОСТИЋА,ВОДОВОД,ЈУГОСЛОВЕНСКА,ГРОБЉАНСКА,ЛЕЊИНОВА,Н.ТЕСЛЕ,НАРОДНЕ ОДБРАНЕ,БЕОГРАДСКА,В.КАРАЏИЋА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b74335fd8018",
@@ -76,7 +59,7 @@
       ],
       "reason": null,
       "note": "СОНТА: улице Мађарска, Мандиновци, Марка Орешковића, Железничка, Маршала Тита, Лазе Костића, Југословенска, Николе Тесле, Лењинова, Гробљанска, Вашариште, ЈНА, Београдска,Крајишка, Бубија и Силос и сушара",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

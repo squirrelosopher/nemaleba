@@ -7,33 +7,6 @@
   },
   "outages": [
     {
-      "id": "bafbf0381178",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Димитровград",
-      "time": {
-        "start": "08:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Невља",
-        "Голеш",
-        "Барије",
-        "Скрвеница",
-        "Драговита",
-        "Мирчина Падина",
-        "Врапча",
-        "Петачинци",
-        "Шаркова Махала",
-        "Пометковиц",
-        "Искаровци."
-      ],
-      "reason": null,
-      "note": "Невља,Голеш,Барије,Скрвеница,Драговита,Мирчина Падина,Врапча,Петачинци,Шаркова Махала,Пометковиц,Искаровци.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b39825ede7bb",
       "utility": "electricity",
       "kind": "planned",
@@ -48,7 +21,7 @@
       ],
       "reason": null,
       "note": "Гацино.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "699f0041ffda",
@@ -65,7 +38,7 @@
       ],
       "reason": null,
       "note": "Водовод.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

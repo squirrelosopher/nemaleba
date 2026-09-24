@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "b0c1391ddf6a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": "15:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Насеље БЕЛИ ПОТОК: БРАЋЕ ЈАКОВЉЕВИЋ: 2-16,1-7А, САВЕЗА БОРАЦА: 2-10В,34А,1-7Ј,39Ц, ВАСЕ ЧАРАПИЋА: 56,60-66,80-90,53-89"
-      ],
-      "reason": null,
-      "note": "Насеље БЕЛИ ПОТОК: БРАЋЕ ЈАКОВЉЕВИЋ: 2-16,1-7А, САВЕЗА БОРАЦА: 2-10В,34А,1-7Ј,39Ц, ВАСЕ ЧАРАПИЋА: 56,60-66,80-90,53-89,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "bcd3157fe7b0",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "РАДА НЕИМАРА: 21,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

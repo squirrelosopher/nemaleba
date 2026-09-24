@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "64e150803afd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Бачка Топола",
-      "time": {
-        "start": "13:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Бачка Топола у улицама : Задрузна, део Саве Ковацевица, део Ракоци Ференца"
-      ],
-      "reason": null,
-      "note": "Бачка Топола у улицама : Задрузна, део Саве Ковацевица, део Ракоци Ференца",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a5a74033ea36",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "у Старој Моравици у улицама и деловима улица са околином: Ђепсел,Золд Јожефа,Дожа Ђерђа,Петефи Шандора.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "111e6b413c6a",
@@ -56,7 +39,7 @@
       ],
       "reason": null,
       "note": "Б. Топола - део ПетеФи Сандора, део Моравицког пута",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "4d9b9a85e9ac",
@@ -73,7 +56,7 @@
       ],
       "reason": null,
       "note": "Његосево - део Ловценске",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

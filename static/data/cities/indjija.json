@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "5bc555a0f133",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "\"МЕСТО БЕШКА\r\n-Део викенд зоне Калакача 1- испод моста десно\""
-      ],
-      "reason": null,
-      "note": "\"МЕСТО БЕШКА\r\n-Део викенд зоне Калакача 1- испод моста десно\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "bc220ead810b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "\"МЕСТО КРЧЕДИН\r\nНАСЕЉЕНО МЕСТО КРЧЕДИН БЕЗ ВИКЕНД ЗОНА\""
-      ],
-      "reason": null,
-      "note": "\"МЕСТО КРЧЕДИН\r\nНАСЕЉЕНО МЕСТО КРЧЕДИН БЕЗ ВИКЕНД ЗОНА\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a8f4da74aef1",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "\"МЕСТО СУРДУК\r\nВИКЕНД ЗОНА  СУРДУКА- СЛАНКАМЕНАЧКИ ПУТ\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "91da1286ca19",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "\"МЕСТО МАРАДИК\r\n• Ул. Вука Караџића од ул.\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "c8491b1e78b0",
@@ -89,7 +55,7 @@
       ],
       "reason": null,
       "note": "МЕСТО Н. КАРЛОВЦИ: Комплет насеље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "2605ee43ec3d",
@@ -106,7 +72,7 @@
       ],
       "reason": null,
       "note": "\"МЕСТО МАРАДИК\r\n- Ул. Вука Караџића од ул.\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "408669969c40",
@@ -123,7 +89,7 @@
       ],
       "reason": null,
       "note": "МЕСТО Н. КАРЛОВЦИ : - Цело насеље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

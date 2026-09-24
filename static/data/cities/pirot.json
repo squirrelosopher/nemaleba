@@ -5,62 +5,7 @@
     "nameLatin": "Pirot",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "2163154d29f5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "11:00"
-      },
-      "streets": [
-        "део улице Косте Абрашевића",
-        "Миливоја Манића",
-        "Сењска."
-      ],
-      "reason": null,
-      "note": "део улице Косте Абрашевића,Миливоја Манића,Сењска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "39f185b296e6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "викенд насеље код Сопотске Петље",
-        "Пребијен Дел."
-      ],
-      "reason": null,
-      "note": "викенд насеље код Сопотске Петље,Пребијен Дел.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "57736c1d3a09",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "11:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Велики Јовановац."
-      ],
-      "reason": null,
-      "note": "Велики Јовановац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

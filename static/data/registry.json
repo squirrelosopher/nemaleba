@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T05:11:05.559Z",
+  "generatedAt": "2026-09-24T06:11:18.900Z",
   "summary": {
     "date": "2026-09-24",
     "electricityOutages": 197,
-    "waterOutages": 15,
+    "waterOutages": 17,
     "affected": [
       {
         "id": "beograd",
@@ -34,6 +34,12 @@
         "nameCyrillic": "Панчево",
         "electricityOutages": 7,
         "waterOutages": 0
+      },
+      {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 4,
+        "waterOutages": 2
       },
       {
         "id": "bajina-basta",
@@ -74,12 +80,6 @@
       {
         "id": "kursumlija",
         "nameCyrillic": "Куршумлија",
-        "electricityOutages": 4,
-        "waterOutages": 0
-      },
-      {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
         "electricityOutages": 4,
         "waterOutages": 0
       },
@@ -529,7 +529,7 @@
     {
       "date": "2026-09-24",
       "electricityOutages": 120,
-      "waterOutages": 14
+      "waterOutages": 16
     }
   ],
   "providers": [

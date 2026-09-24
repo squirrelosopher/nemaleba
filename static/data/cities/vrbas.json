@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "badcd007360f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Врбас",
-      "time": {
-        "start": "09:00",
-        "end": "12:30"
-      },
-      "streets": [
-        "\"ВОЈВОЂАНСКА 1-89 И 2-102\r\n1.МАЈ 2-26 И 1-41\r\nПАРТИЗАНСКА 1 И 2-18\r\nП.ШАНДОРА 1-21 И 2-18\r\nРАДНИЧКА 1-17 И 4-48\r\nИ.Л.РИБАРА 1-21 И 2-22 И 50 И ББ\r\nИ.МИЛУТИНОВИЋА 30-58 И 25-51\r\nМ.ТИТА 30-56 И 27-49\r\nП.ДРАПШИНА 25-49 И 34-68\r\nЛЕЊИНОВА 14-84 И 39-87 И ББ\r\nМИЛАНКОВА 1-9 И 2-28 И ББ\r\nС.ВУКОСАВЉЕВА 1-21 И 2-10\r\nСРБОБРАНСКИ ПУТ 21\r\nТУРИНСКИ ПУТ 1-15 И 2-10\r\nВРБАШКИ ПУТ ББ\""
-      ],
-      "reason": null,
-      "note": "\"ВОЈВОЂАНСКА 1-89 И 2-102\r\n1.МАЈ 2-26 И 1-41\r\nПАРТИЗАНСКА 1 И 2-18\r\nП.ШАНДОРА 1-21 И 2-18\r\nРАДНИЧКА 1-17 И 4-48\r\nИ.Л.РИБАРА 1-21 И 2-22 И 50 И ББ\r\nИ.МИЛУТИНОВИЋА 30-58 И 25-51\r\nМ.ТИТА 30-56 И 27-49\r\nП.ДРАПШИНА 25-49 И 34-68\r\nЛЕЊИНОВА 14-84 И 39-87 И ББ\r\nМИЛАНКОВА 1-9 И 2-28 И ББ\r\nС.ВУКОСАВЉЕВА 1-21 И 2-10\r\nСРБОБРАНСКИ ПУТ 21\r\nТУРИНСКИ ПУТ 1-15 И 2-10\r\nВРБАШКИ ПУТ ББ\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b5338e90046c",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "\"И.СЕКИЦКОГ 1-31 И 2-36 И ББ\r\nЊЕГОШЕВА 15-27 И 24-32 И ББ\r\nС.МАРКОВИЋА 2-36 И 1-33 И ББ\r\nБАЧКА 31-53 И 56-74\r\nД.СТЕФАНА 17-35\r\nН.ФРОНТА 95-109 И 96-114\r\nГ.КРКЛЕЦА 1\r\nПАНОНСКА 1-27 И 2-44\r\nЈНА 30-54\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

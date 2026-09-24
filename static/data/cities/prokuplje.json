@@ -7,80 +7,6 @@
   },
   "outages": [
     {
-      "id": "fb15fc2df9b9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Село Вича."
-      ],
-      "reason": null,
-      "note": "Село Вича.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "bac770f1bf44",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "ул.Југбогданова"
-      ],
-      "reason": null,
-      "note": "ул.Југбогданова",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "99a0c124997c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Дреновац",
-        "Бресничић",
-        "Кончић",
-        "Мађаре",
-        "Прекопуце",
-        "Крњиград",
-        "Део Здравиња"
-      ],
-      "reason": null,
-      "note": "Дреновац,Бресничић,Кончић,Мађаре,Прекопуце,Крњиград,Део Здравиња",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ac995713aa14",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "ул.Зорана Радмиловића"
-      ],
-      "reason": null,
-      "note": "ул.Зорана Радмиловића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "41589ace0ea2",
       "utility": "electricity",
       "kind": "planned",
@@ -97,7 +23,7 @@
       ],
       "reason": null,
       "note": "Вуковарска,Хорватовићева,Босанска и део Ратка Павловића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9b4c147ac2ca",
@@ -114,7 +40,7 @@
       ],
       "reason": null,
       "note": "Село Мачковац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

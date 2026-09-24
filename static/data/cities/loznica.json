@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "b11b7f7a4fe8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-23",
-      "areaLabel": "Лозница",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "МБТС 10/0",
-        "4 kV „Шуловача“"
-      ],
-      "reason": null,
-      "note": "МБТС 10/0,4 kV „Шуловача“",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "5bc73d2e3c1b",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +23,7 @@
       ],
       "reason": null,
       "note": "Због реконструкције Изв. МНН из ТС 10/0,4 kV „Руњани 2“ у ул. Жикице Јовановић Шпанац (деоница од ТС, правац према Југовом гатеру) у Руњанима.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
