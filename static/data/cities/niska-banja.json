@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "b2b274f9cef6",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Нишка Бања",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Ивана Горана Ковачића код броја 32"
-      ],
-      "reason": null,
-      "note": "ИНТЕРВЕНЦИЈА У НАСЕЉУ НИШКА БАЊА отребан је ископ у улици Ивана Горана Ковачића код броја 32. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 сати у поменутој улици",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-297/"
-    },
-    {
       "id": "315fbf92abb8",
       "utility": "water",
       "kind": "emergency",
@@ -137,6 +120,11 @@
     },
     {
       "date": "2026-09-24",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-25",
       "electricityOutages": 0,
       "waterOutages": 0
     }

@@ -7,18 +7,6 @@
   },
   "outages": [
     {
-      "id": "783bb47f07b1",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-17",
-      "areaLabel": "Стропско",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у селу Стропско, без воде биће потрошачи тог села као и село Дубница до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/17-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
       "id": "af8658ee59f1",
       "utility": "water",
       "kind": "emergency",
@@ -156,6 +144,11 @@
     },
     {
       "date": "2026-09-24",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-25",
       "electricityOutages": 0,
       "waterOutages": 0
     }
