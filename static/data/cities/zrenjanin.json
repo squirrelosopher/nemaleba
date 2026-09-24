@@ -82,6 +82,36 @@
       "reason": null,
       "note": "\"\r\nЗрењанин:\r\n12. Војвођанске Бригаде, Благоја Паровића, Др Ђорђа Јоановића, део Жабаљска, део Здравка Челара, Ивана Аћина, Лазе Никина, део Мите Ђорђевића, Филипа Филиповића, 7 Секретара Ској-А\r\n\"",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "2e32959dc5dd",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "areaLabel": "Меленци",
+      "time": {
+        "start": null,
+        "end": "12:30"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "МЕЛЕНЦИ – санација квара на водоводној мрежи, прекид водоснабдевања у целом нсељеном месту до 12:30 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-24-09-2026-godine/"
+    },
+    {
+      "id": "b14f99dbafd7",
+      "utility": "water",
+      "kind": "planned",
+      "date": "2026-09-24",
+      "areaLabel": "Перлез",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "ПЕРЛЕЗ – радови на изворишту, пад притиска у мрежи у насељеном месту до 14:00 часова",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-24-09-2026-godine/"
     }
   ],
   "history": [
@@ -198,7 +228,7 @@
     {
       "date": "2026-09-24",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 2
     }
   ]
 }

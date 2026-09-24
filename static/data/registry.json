@@ -1,21 +1,27 @@
 {
-  "generatedAt": "2026-09-24T07:11:05.395Z",
+  "generatedAt": "2026-09-24T08:11:03.575Z",
   "summary": {
     "date": "2026-09-24",
     "electricityOutages": 197,
-    "waterOutages": 19,
+    "waterOutages": 32,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
         "electricityOutages": 36,
-        "waterOutages": 3
+        "waterOutages": 4
       },
       {
         "id": "kragujevac",
         "nameCyrillic": "Крагујевац",
         "electricityOutages": 3,
         "waterOutages": 12
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 3,
+        "waterOutages": 9
       },
       {
         "id": "subotica",
@@ -108,14 +114,14 @@
         "waterOutages": 0
       },
       {
-        "id": "mali-zvornik",
-        "nameCyrillic": "Мали Зворник",
-        "electricityOutages": 3,
-        "waterOutages": 0
+        "id": "zrenjanin",
+        "nameCyrillic": "Зрењанин",
+        "electricityOutages": 1,
+        "waterOutages": 2
       },
       {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
+        "id": "mali-zvornik",
+        "nameCyrillic": "Мали Зворник",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -330,12 +336,6 @@
         "waterOutages": 0
       },
       {
-        "id": "zrenjanin",
-        "nameCyrillic": "Зрењанин",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "kladovo",
         "nameCyrillic": "Кладово",
         "electricityOutages": 1,
@@ -418,6 +418,12 @@
         "nameCyrillic": "Србобран",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "sremska-mitrovica",
+        "nameCyrillic": "Сремска Митровица",
+        "electricityOutages": 0,
+        "waterOutages": 1
       }
     ]
   },
@@ -535,7 +541,7 @@
     {
       "date": "2026-09-24",
       "electricityOutages": 120,
-      "waterOutages": 18
+      "waterOutages": 30
     }
   ],
   "providers": [
