@@ -888,6 +888,74 @@
       "note": "Милатовац, ул. Видовданска ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
     },
     {
+      "id": "7732224d313c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-24-09-2026/",
+      "areaLabel": "Аеродром",
+      "time": {
+        "start": "06:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Другог Српског устанка"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Аеродром, ул. Другог Српског устанка ( од 06:00 до 12:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "51b63ed97da5",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-24-09-2026/",
+      "areaLabel": "Лепеница",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Браће Пољаковић"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Лепеница, ул. Браће Пољаковић ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "1324af4e254a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-24-09-2026/",
+      "areaLabel": "Мала вага",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Гружанска"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Хаваријска искључења на дан 24.09.2026. \n \n Мала вага, ул. Гружанска ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "91b53de8d2b1",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-24-09-2026/",
+      "areaLabel": "Пивара",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Грге Јанкеза"
+      ],
+      "reason": "поправка затварача",
+      "note": "Пивара, ул. Грге Јанкеза ( од 08:00 до 12:00 часова ), поправка затварача."
+    },
+    {
       "id": "c84ebcf38377",
       "utility": "electricity",
       "kind": "planned",
@@ -934,6 +1002,142 @@
       "reason": null,
       "note": "Чеде Продановића, Драгана Плачковића, Мирка Тушака, Косте Малића, Пера Хансона, Рашида Хаџимешића, Шумаричка, Антонија Пљакића",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a019febc98c7",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-24-09-2026/",
+      "areaLabel": "Аеродром",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Атинска"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Аеродром, ул. Атинска ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "039492ebd52b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-24-09-2026/",
+      "areaLabel": "Лепеница",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Шумадијска"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Лепеница, ул. Шумадијска ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "b21c687ed443",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-24-09-2026/",
+      "areaLabel": "Лепеница",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Војислава Калановића"
+      ],
+      "reason": "квар у шахти",
+      "note": "Лепеница, ул. Војислава Калановића ( од 12:00 до 16:00 часова ), квар у шахти."
+    },
+    {
+      "id": "4339e61eddc9",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-24-09-2026/",
+      "areaLabel": "Мале Пчелице",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Гиљевска"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Мале Пчелице, ул. Гиљевска ( од 12:00 до 16:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "e9371e97ee6c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-24-09-2026/",
+      "areaLabel": "Бресница 3",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Кадињача"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Бресница 3, ул. Кадињача ( од 16:00 до 19:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "96cdabde79b6",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-24-09-2026/",
+      "areaLabel": "Ердеч",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Милеве Шарић"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Ердеч, ул. Милеве Шарић ( од 16:00 до 19:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "b3ed3fff6a98",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-24-09-2026/",
+      "areaLabel": "Мале Пчелице",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Љубомира Јовановића"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Мале Пчелице, ул. Љубомира Јовановића ( од 16:00 до 19:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "caf012e4b638",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-24-09-2026/",
+      "areaLabel": "Шумарице",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "угао Иве Андрића – Ударних бригада"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Шумарице, угао Иве Андрића – Ударних бригада ( од 16:00 до 19:00 часова ), поправка уличне линије."
     }
   ],
   "history": [
@@ -1050,7 +1254,7 @@
     {
       "date": "2026-09-24",
       "electricityOutages": 3,
-      "waterOutages": 0
+      "waterOutages": 12
     }
   ]
 }
