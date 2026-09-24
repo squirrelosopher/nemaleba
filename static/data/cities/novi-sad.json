@@ -383,6 +383,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "e49aeb9837fd",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Улица Владана Ђорђевића и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Владана Ђорђевића и околне улице.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-24-9-2026/"
+    },
+    {
       "id": "5dee5c1d06a5",
       "utility": "water",
       "kind": "emergency",
@@ -546,7 +563,7 @@
     {
       "date": "2026-09-24",
       "electricityOutages": 3,
-      "waterOutages": 2
+      "waterOutages": 3
     }
   ]
 }
