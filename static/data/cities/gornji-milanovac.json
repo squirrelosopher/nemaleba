@@ -5,59 +5,7 @@
     "nameLatin": "Gornji Milanovac",
     "branchCyrillic": "Чачак"
   },
-  "outages": [
-    {
-      "id": "cde28cac07f8",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-18",
-      "areaLabel": "Горњи Милановац",
-      "time": null,
-      "streets": [
-        "Крагујевачкој улици од \"Конфекције\" до краја улице"
-      ],
-      "reason": null,
-      "note": "Због радова на поправци цевовода без воде су потрошачи у Крагујевачкој улици од \"Конфекције\" до краја улице",
-      "sourceUrl": "https://jkpgm.rs/2026/09/18/servisne-informacije-18-09-2026/"
-    },
-    {
-      "id": "3f23a5011071",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-21",
-      "areaLabel": "Горњи Милановац",
-      "time": {
-        "start": null,
-        "end": "13:00"
-      },
-      "streets": [
-        "Браће Радојевића",
-        "Рудничке војске",
-        "као",
-        "насељу Ражаник"
-      ],
-      "reason": null,
-      "note": "Због радова на поправци цевовода без воде до 13 часова биће потрошачи у улицама Браће Радојевића и Рудничке војске, као и у насељу Ражаник",
-      "sourceUrl": "https://jkpgm.rs/2026/09/21/servisne-informacije-30/"
-    },
-    {
-      "id": "fd92bbf85b33",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-22",
-      "areaLabel": "Горњи Милановац",
-      "time": {
-        "start": null,
-        "end": "11:00"
-      },
-      "streets": [
-        "другом делу Улице Свете Поповића"
-      ],
-      "reason": null,
-      "note": "Због радова на поправци водоводне цеви, без воде ће до 11 часова бити потрошачи у другом делу Улице Свете Поповића",
-      "sourceUrl": "https://jkpgm.rs/2026/09/22/servisne-informacije-22-09-2026-godine/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",
