@@ -25,11 +25,8 @@
     "lastComplete": "2026-09-25"
   },
   "jkp-vodovod-pancevo": {
-    "entries": 0,
+    "entries": 11,
     "lastNonEmpty": "2026-09-25",
-    "unreadable": [
-      "This operation was aborted for https://www.vodovodpa.rs/wp-json/wp/v2/posts?categories=7&per_page=15&_fields=link,date,title,content"
-    ],
     "lastComplete": "2026-09-25"
   },
   "jkp-vodovod-sremska-mitrovica": {
@@ -53,8 +50,11 @@
     "lastComplete": "2026-09-25"
   },
   "jkp-gornji-milanovac": {
-    "entries": 3,
+    "entries": 0,
     "lastNonEmpty": "2026-09-25",
+    "unreadable": [
+      "fetch failed for https://jkpgm.rs/wp-json/wp/v2/posts?categories=23&per_page=10&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-09-25"
   },
   "jkp-vik-zrenjanin": {
@@ -88,8 +88,11 @@
     "lastComplete": "2026-09-25"
   },
   "jkp-vodovod-cacak": {
-    "entries": 2,
+    "entries": 0,
     "lastNonEmpty": "2026-09-25",
+    "unreadable": [
+      "fetch failed for https://vodovodca.rs/wp-json/wp/v2/posts?categories=3&per_page=12&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-09-25"
   }
 }
