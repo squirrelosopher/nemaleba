@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T07:11:04.433Z",
+  "generatedAt": "2026-09-25T08:11:04.655Z",
   "summary": {
     "date": "2026-09-25",
     "electricityOutages": 179,
-    "waterOutages": 23,
+    "waterOutages": 25,
     "affected": [
       {
         "id": "kikinda",
@@ -33,7 +33,7 @@
         "id": "novi-sad",
         "nameCyrillic": "Нови Сад",
         "electricityOutages": 7,
-        "waterOutages": 2
+        "waterOutages": 4
       },
       {
         "id": "subotica",
@@ -444,7 +444,7 @@
     {
       "date": "2026-09-25",
       "electricityOutages": 158,
-      "waterOutages": 22
+      "waterOutages": 24
     }
   ],
   "providers": [

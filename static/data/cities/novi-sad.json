@@ -463,6 +463,38 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 15 сати бити део Булевара цара Лазара (од Шекспирове до Балзакове улице) и околне улице.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/serv/"
+    },
+    {
+      "id": "2199e8657cea",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-25",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Рибњак и Петроварадинска тврђава"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Рибњак и Петроварадинска тврђава.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/serv/"
+    },
+    {
+      "id": "0bc2288f514c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-25",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити улице Новосадска, Институтски пут и околне, Војводе Путника и околне и Железничка и околне улице у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/serv/"
     }
   ],
   "history": [
@@ -584,7 +616,7 @@
     {
       "date": "2026-09-25",
       "electricityOutages": 7,
-      "waterOutages": 2
+      "waterOutages": 4
     }
   ]
 }
