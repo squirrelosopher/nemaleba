@@ -482,6 +482,23 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/serv/"
     },
     {
+      "id": "75c552d99b57",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-25",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "15:30"
+      },
+      "streets": [
+        "Улица 7. војвођанске бригаде"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15.30 сати бити Улица 7. војвођанске бригаде у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/serv/"
+    },
+    {
       "id": "0bc2288f514c",
       "utility": "water",
       "kind": "emergency",
@@ -616,7 +633,7 @@
     {
       "date": "2026-09-25",
       "electricityOutages": 7,
-      "waterOutages": 4
+      "waterOutages": 5
     }
   ]
 }
