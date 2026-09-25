@@ -429,6 +429,40 @@
       "reason": null,
       "note": "\"\r\nТрг Марије Трандафил\r\nЂуре Јакшића 7 – 15\r\nМатице Српска 2 – 20\r\nНиколе Пашића 15 – 25, 20 – 38\r\nСкерлићева 1 и 2\r\n\"",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "f9c971dd12de",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-25",
+      "areaLabel": "Буковцу",
+      "time": {
+        "start": null,
+        "end": "10:00"
+      },
+      "streets": [
+        "Улица 22. августа"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 10 сати бити Улица 22. августа у Буковцу.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/serv/"
+    },
+    {
+      "id": "34cc6f68c855",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-25",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "део Булевара цара Лазара (од Шекспирове до Балзакове улице) и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити део Булевара цара Лазара (од Шекспирове до Балзакове улице) и околне улице.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/serv/"
     }
   ],
   "history": [
@@ -550,7 +584,7 @@
     {
       "date": "2026-09-25",
       "electricityOutages": 7,
-      "waterOutages": 0
+      "waterOutages": 2
     }
   ]
 }

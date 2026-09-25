@@ -88,8 +88,11 @@
     "lastComplete": "2026-09-25"
   },
   "jkp-vodovod-cacak": {
-    "entries": 2,
+    "entries": 0,
     "lastNonEmpty": "2026-09-25",
+    "unreadable": [
+      "fetch failed for https://vodovodca.rs/wp-json/wp/v2/posts?categories=3&per_page=12&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-09-25"
   }
 }

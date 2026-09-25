@@ -191,6 +191,21 @@
       "reason": null,
       "note": "део Божидарчеве улице;",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "d37fbc1041bf",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-25",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "РАДОВИ НА МРЕЖИ У ОПШТИНИ ПАЛИЛУЛА ода на површини, нужан је ископ у Мокрањчевој улици, код броја 40. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 сати у делу Мокрањчеве улице, на простору од ул. Браће Игњатовић до ул. Јована Апела",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-182/"
     }
   ],
   "history": [
@@ -312,7 +327,7 @@
     {
       "date": "2026-09-25",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
