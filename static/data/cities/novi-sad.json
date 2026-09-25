@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "21c08efb55ef",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-18",
-      "areaLabel": "Ковиљ",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Улица Змај Јове Јовановића"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Змај Јове Јовановића у Ковиљу.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-petak-18-9-2026/"
-    },
-    {
-      "id": "66d2e1bc7b44",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-18",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "улице Јернеја Копитара, Хероја Пинкија (од Лазе Лазаревића до Морнарске) и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити улице Јернеја Копитара, Хероја Пинкија (од Лазе Лазаревића до Морнарске) и околне улице.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-petak-18-9-2026/"
-    },
-    {
       "id": "2d4652e0c9f7",
       "utility": "water",
       "kind": "emergency",
@@ -634,6 +600,11 @@
       "date": "2026-09-25",
       "electricityOutages": 7,
       "waterOutages": 5
+    },
+    {
+      "date": "2026-09-26",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }
