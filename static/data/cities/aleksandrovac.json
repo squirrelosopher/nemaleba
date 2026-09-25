@@ -5,25 +5,7 @@
     "nameLatin": "Aleksandrovac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [
-    {
-      "id": "0f4825e87c16",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Александровац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део насељеног места Плоче"
-      ],
-      "reason": null,
-      "note": "Део насељеног места Плоче",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

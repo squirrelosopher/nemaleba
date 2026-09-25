@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "361bf1243388",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "МИЛОЈА ЗАКИЋА: 2-22,1-7,11-33, Насеље БЕОГРАД: НЕБОЈШЕ ЂУКЕЛИЋА: 2-10,3-5, Насеље ЖАРКОВО: АРЧИБАЛДА РАЈСА: 2-8,12-18А,1-7,11-13Б, ДИМИТРИЈА АВРАМОВИЋА: 34-42,19-55, ВЛАДИМИРА РОЛОВИЋА: 99-99Б"
-      ],
-      "reason": null,
-      "note": "МИЛОЈА ЗАКИЋА: 2-22,1-7,11-33, Насеље БЕОГРАД: НЕБОЈШЕ ЂУКЕЛИЋА: 2-10,3-5, Насеље ЖАРКОВО: АРЧИБАЛДА РАЈСА: 2-8,12-18А,1-7,11-13Б, ДИМИТРИЈА АВРАМОВИЋА: 34-42,19-55, ВЛАДИМИРА РОЛОВИЋА: 99-99Б,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f0f61dc6fbc3",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "СОЛУНСКИХ БОРАЦА: 2-4, Насеље ЖАРКОВО: БИТОЉСКА: 2-6,10-20,1-19А, БРАЋЕ ВУЧКОВИЋ: 2-32А,1,5-27, ЈОСИПА КОЛУМБА: 12,3, КОПАОНИЧКА: 2А-2Б,8Б-8Ц,12-14Б,1-1А,13-15, ЛЕПОСАВЕ ВУЈОШЕВИЋ: 4-8,5-9, ОДАБАШИЋЕВА: 26А,30-32, ПРОТЕ МИЛОРАДА ПАВЛОВИЋА: 2,8,14-40,1-13,17-23а, ПРОВАЛИЈСКА: 38-40, РАДОВАНА МИЛОШЕВИЋА: 2-18А,3-19, РАЈКА РУЖИЋА: 34-38, ШАВНИЧКА: 4-26,1-31,35-37, СТОЈАНА МАТИЋА: 2-4А,7-13, ТРГОВАЧКА: 58А,64-68а,78,81-85Б, ВАЗНЕСЕЊСКА: 2-6,10,1-3, ЗДРАВКА ЈОВАНОВИЋА: 2-20,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "abe1d6bed212",
@@ -55,7 +38,24 @@
       ],
       "reason": null,
       "note": "ОБАЛСКИХ РАДНИКА: 41-41,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "24ba7581e5a9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насеље ЖАРКОВО: ВОДОВОДСКА: 158-158Г"
+      ],
+      "reason": null,
+      "note": "Насеље ЖАРКОВО: ВОДОВОДСКА: 158-158Г,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

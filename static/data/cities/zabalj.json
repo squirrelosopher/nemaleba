@@ -7,25 +7,6 @@
   },
   "outages": [
     {
-      "id": "93342ecebc81",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Жабаљ",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Место Ђурђево:ул.Русинска од К.П.Првог до Николе Тесле",
-        "Миколе Кочиша од Светосавске до С.Милетића",
-        "С.Милетића од М.Кочиша до Доситеја Обрадовића."
-      ],
-      "reason": null,
-      "note": "Место Ђурђево:ул.Русинска од К.П.Првог до Николе Тесле,Миколе Кочиша од Светосавске до С.Милетића,С.Милетића од М.Кочиша до Доситеја Обрадовића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e105be49507f",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +22,7 @@
       ],
       "reason": null,
       "note": "Место Жабаљ:ул.Николе Тесле од С.Добровољаца до С.Милетића,С.Милетића од Н.Тесле до Кратке.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,42 +7,6 @@
   },
   "outages": [
     {
-      "id": "41589ace0ea2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Вуковарска",
-        "Хорватовићева",
-        "Босанска и део Ратка Павловића."
-      ],
-      "reason": null,
-      "note": "Вуковарска,Хорватовићева,Босанска и део Ратка Павловића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "9b4c147ac2ca",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "12:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Село Мачковац."
-      ],
-      "reason": null,
-      "note": "Село Мачковац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7fc7ef0e1ddb",
       "utility": "electricity",
       "kind": "planned",
@@ -57,7 +21,7 @@
       ],
       "reason": null,
       "note": "ул.Пасјачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

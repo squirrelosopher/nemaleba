@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "0deebffb6168",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Без ел.енергије остаће КВАНТАШКА ПИЈАЦА У ШАПЦУ"
-      ],
-      "reason": null,
-      "note": "Без ел.енергије остаће КВАНТАШКА ПИЈАЦА У ШАПЦУ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6ad561613d85",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Без ел.енергије остаће купци у селу Криваја",
-        "мала Росуља"
-      ],
-      "reason": null,
-      "note": "Без ел.енергије остаће купци у селу Криваја, мала Росуља",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "eabb4bfd529e",
       "utility": "electricity",
       "kind": "planned",
@@ -58,7 +23,7 @@
       ],
       "reason": null,
       "note": "Без ел.енергије остају зграде у ул.Хиландарска 1, Косовска 7, П.Смиљанића 20 и 22 и део ул. Војводе Мишића од Хиландарске до П.Смиљанића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

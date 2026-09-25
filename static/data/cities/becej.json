@@ -5,25 +5,7 @@
     "nameLatin": "Bečej",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [
-    {
-      "id": "81fd38dfca1c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Бечеј",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Цело насеље и салаши између Бечеја и Бачког Градишта"
-      ],
-      "reason": null,
-      "note": "Цело насеље и салаши између Бечеја и Бачког Градишта",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

@@ -7,74 +7,6 @@
   },
   "outages": [
     {
-      "id": "2612b6136cb7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Мали Иђош",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Фекетиц - Јадранска"
-      ],
-      "reason": null,
-      "note": "Фекетиц - Јадранска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f1bf64d5e168",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Мали Иђош",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "у Фекетићу у улицама и деловима улица са околином:Јадранска."
-      ],
-      "reason": null,
-      "note": "у Фекетићу у улицама и деловима улица са околином:Јадранска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "aee90aa413c9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Мали Иђош",
-      "time": {
-        "start": "13:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Фекетиц - Дунавска"
-      ],
-      "reason": null,
-      "note": "Фекетиц - Дунавска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "10720003a064",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Мали Иђош",
-      "time": {
-        "start": "13:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "у Фекетићу у улицама и деловима улица са околином:Дунавска."
-      ],
-      "reason": null,
-      "note": "у Фекетићу у улицама и деловима улица са околином:Дунавска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "cfb2be6adaf9",
       "utility": "electricity",
       "kind": "planned",
@@ -90,7 +22,7 @@
       ],
       "reason": null,
       "note": "фекетиц - део Бецејског пута,део Херојске",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

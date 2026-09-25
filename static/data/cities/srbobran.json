@@ -5,26 +5,7 @@
     "nameLatin": "Srbobran",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [
-    {
-      "id": "966c5476485e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Србобран",
-      "time": {
-        "start": "14:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Улица Светог Саве парна страна од 64 до 126",
-        "непарана од 71-127"
-      ],
-      "reason": null,
-      "note": "Улица Светог Саве парна страна од 64 до 126, непарана од 71-127",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-21",

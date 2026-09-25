@@ -5,25 +5,7 @@
     "nameLatin": "Vrbas",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [
-    {
-      "id": "b5338e90046c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Врбас",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "\"И.СЕКИЦКОГ 1-31 И 2-36 И ББ\r\nЊЕГОШЕВА 15-27 И 24-32 И ББ\r\nС.МАРКОВИЋА 2-36 И 1-33 И ББ\r\nБАЧКА 31-53 И 56-74\r\nД.СТЕФАНА 17-35\r\nН.ФРОНТА 95-109 И 96-114\r\nГ.КРКЛЕЦА 1\r\nПАНОНСКА 1-27 И 2-44\r\nЈНА 30-54\""
-      ],
-      "reason": null,
-      "note": "\"И.СЕКИЦКОГ 1-31 И 2-36 И ББ\r\nЊЕГОШЕВА 15-27 И 24-32 И ББ\r\nС.МАРКОВИЋА 2-36 И 1-33 И ББ\r\nБАЧКА 31-53 И 56-74\r\nД.СТЕФАНА 17-35\r\nН.ФРОНТА 95-109 И 96-114\r\nГ.КРКЛЕЦА 1\r\nПАНОНСКА 1-27 И 2-44\r\nЈНА 30-54\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

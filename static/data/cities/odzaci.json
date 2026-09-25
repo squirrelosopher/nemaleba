@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "333043bf4b7b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Оџаци",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "СЕЛЕНЧА: улице М.Тита, 17.Октобра, 51.Дивизије, Чмелникова,, Масарикова, Војашкехо, Хвездослава, Слатковићева, Словенска, Генерала Виеста, Штросмајерова,Марчакова, Чајакова"
-      ],
-      "reason": null,
-      "note": "СЕЛЕНЧА: улице М.Тита, 17.Октобра, 51.Дивизије, Чмелникова,, Масарикова, Војашкехо, Хвездослава, Слатковићева, Словенска, Генерала Виеста, Штросмајерова,Марчакова, Чајакова",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "906953d25827",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "СЕЛЕНЧА: улице Марчакова, Шафарикова, Лењинова, Липа, Чајакова, Чмелникова, М.Тита, Штурова, Јаношикова, И.Л.Рибара, Водовод, Бенешова, Коларова",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

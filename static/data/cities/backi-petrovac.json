@@ -5,25 +5,7 @@
     "nameLatin": "Bački Petrovac",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [
-    {
-      "id": "d60be3e03d84",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Бачки Петровац",
-      "time": {
-        "start": "08:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "Улица Михала Пагача од Јана Хрубика до Масарикове"
-      ],
-      "reason": null,
-      "note": "Улица Михала Пагача од Јана Хрубика до Масарикове",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-22",

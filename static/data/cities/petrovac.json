@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "fdea97a3fba9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Петровац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део Кнежице према Рановцу"
-      ],
-      "reason": null,
-      "note": "део Кнежице према Рановцу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "44c76199c230",
       "utility": "electricity",
       "kind": "planned",
@@ -47,7 +30,7 @@
       ],
       "reason": null,
       "note": "Кучево, Каона, Турија, Колонија, Ракова Бара, Кучајна, Церовица, Равниште, Буковска, Плавчево и Церемошња",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,30 +5,7 @@
     "nameLatin": "Vrnjačka Banja",
     "branchCyrillic": "Краљево"
   },
-  "outages": [
-    {
-      "id": "1ffcb230b1d8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Врњачка Бања",
-      "time": {
-        "start": "10:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део насеља Рсовци засеок Мала река",
-        "Ивановићи",
-        "Мистопољци",
-        "Чеперковићи као и део Горњег Грачаца засеок Шућури",
-        "Костићи",
-        "Плањани и Чукар."
-      ],
-      "reason": null,
-      "note": "део насеља Рсовци засеок Мала река,Ивановићи,Мистопољци,Чеперковићи као и део Горњег Грачаца засеок Шућури,Костићи,Плањани и Чукар.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

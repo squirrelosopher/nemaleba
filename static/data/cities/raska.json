@@ -5,25 +5,7 @@
     "nameLatin": "Raška",
     "branchCyrillic": "Краљево"
   },
-  "outages": [
-    {
-      "id": "7f1cc534b174",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Рашка",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "ТС 10/04 Пискања-1 НН излази према Медаревићима и Столовићима."
-      ],
-      "reason": null,
-      "note": "ТС 10/04 Пискања-1 НН излази према Медаревићима и Столовићима.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

@@ -5,42 +5,7 @@
     "nameLatin": "Pećinci",
     "branchCyrillic": "Рума"
   },
-  "outages": [
-    {
-      "id": "d4928de0933d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Пећинци",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Купиново комплет без струје"
-      ],
-      "reason": null,
-      "note": "Купиново комплет без струје",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "784e38aae483",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Пећинци",
-      "time": {
-        "start": "08:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "\"МЕСТО РУМА:\r\nул.С.П.Крцуна од ул.И.Андрића до ул.Н.Тесла\r\nул.Н.Тесла од ул.С.П.Крцуна до ул.Нова Школска\r\nул.Н.Школска бр.122\""
-      ],
-      "reason": null,
-      "note": "\"МЕСТО РУМА:\r\nул.С.П.Крцуна од ул.И.Андрића до ул.Н.Тесла\r\nул.Н.Тесла од ул.С.П.Крцуна до ул.Нова Школска\r\nул.Н.Школска бр.122\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-21",

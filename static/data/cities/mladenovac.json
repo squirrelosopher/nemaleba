@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "5d2be5aaad4b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Младеновац",
-      "time": {
-        "start": "08:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Насеље КОВАЧЕВАЦ: КОВАЧЕВАЦ: 10А-12,16,24,46,7-7А,47,79А, НОВА 57: 24,40,70,57,75,83А,567А, НОВА 79: 6А,14,31А, НОВА 80: 14"
-      ],
-      "reason": null,
-      "note": "Насеље КОВАЧЕВАЦ: КОВАЧЕВАЦ: 10А-12,16,24,46,7-7А,47,79А, НОВА 57: 24,40,70,57,75,83А,567А, НОВА 79: 6А,14,31А, НОВА 80: 14,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d4ed0f9aa38b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Младеновац",
-      "time": {
-        "start": "11:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље КОВАЧЕВАЦ: КОВАЧЕВАЦ: 86, Насеље МЛАДЕНОВАЦ (ВАРОШ): ЉУБЕ ДАВИДОВИЋА: 96,49"
-      ],
-      "reason": null,
-      "note": "Насеље КОВАЧЕВАЦ: КОВАЧЕВАЦ: 86, Насеље МЛАДЕНОВАЦ (ВАРОШ): ЉУБЕ ДАВИДОВИЋА: 96,49,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "29b2c1ad1338",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље КОВАЧЕВАЦ: БРЕСТОВАЧКА: 6,12Б,27А-29, КОВАЧЕВАЦ: 70,688,732,748А,758А,774-776,782,798,828,838,129,749,781,785,799,807,811,849,871, ЛАЗАРА ЧОКИЋА: 56, МИРИНАЧКА: 5А, НОВА 49: 8,1А, НОВА 56: 1, НОВА 58: 7А, НОВА 60: ,1-1А,5, НОВА 62: 62Г,66,71А,85Б, НОВА 63: 8Б,13,29А, НОВА 85: 9Б, НОВА 86: 8,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

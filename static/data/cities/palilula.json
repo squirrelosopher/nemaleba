@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "0a99755cd120",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Насеље БОРЧА: ЗРЕЊАНИНСКИ ПУТ: 250"
-      ],
-      "reason": null,
-      "note": "Насеље БОРЧА: ЗРЕЊАНИНСКИ ПУТ: 250,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "71b05a15c330",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље БГ-КРЊАЧА: ЗРЕЊАНИНСКИ ПУТ: 103Т,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3a2e28d535f7",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "ПУТ ЗА АДА ХУЈУ: 9,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

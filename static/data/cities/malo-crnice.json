@@ -5,25 +5,7 @@
     "nameLatin": "Malo Crniće",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [
-    {
-      "id": "18d6a17b2181",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Мало Црниће",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "насеља Бресје и Таван"
-      ],
-      "reason": null,
-      "note": "насеља Бресје и Таван",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-22",

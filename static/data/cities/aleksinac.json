@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "7f6a90b9008c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део Житковца у ширем центру"
-      ],
-      "reason": null,
-      "note": "Део Житковца у ширем центру",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "671ac5d103fc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Горње Сухотно по деловима"
-      ],
-      "reason": null,
-      "note": "Горње Сухотно по деловима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ce8b5e7a0985",
       "utility": "electricity",
       "kind": "planned",
@@ -57,7 +23,7 @@
       ],
       "reason": null,
       "note": "Део Алексинца, део улица Тимочке Буне,Део МаксимаГорког и део Липовачке",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5b8635643b3a",
@@ -74,7 +40,7 @@
       ],
       "reason": null,
       "note": "Наплатна станица Алексинац на Аутопуту",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

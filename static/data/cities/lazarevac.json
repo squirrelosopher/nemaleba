@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "12375a0a4286",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Масеље Шушњар: Војводе Путника 36г-52,51б-71, Јелисавете Начић,Стефана Првовенчаног,Ђуре Даничића 14-30,Марка Тајчевића,Церови."
-      ],
-      "reason": null,
-      "note": "Масеље Шушњар: Војводе Путника 36г-52,51б-71, Јелисавете Начић,Стефана Првовенчаног,Ђуре Даничића 14-30,Марка Тајчевића,Церови.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "84fe26858b65",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "12:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеље Соколово: Соколовачки пут,Бељаничка,Јовањданска (засеок Центар)."
-      ],
-      "reason": null,
-      "note": "Насеље Соколово: Соколовачки пут,Бељаничка,Јовањданска (засеок Центар).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "630965ba46ec",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље Велики Црљени: део улице Андрићева,Радничка,Раце Терзића,Жикице Јовановића-Шпанца (засеок Луг).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a0da67badff9",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Општина Горњи Милановац: насеље Бољковци (засеок Рањци-према Буковачи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "c660ba3e6931",
@@ -89,7 +55,123 @@
       ],
       "reason": null,
       "note": "Насеље Велики Црљени: засеок Колонија ТЕК 1, Колонија ТЕК 2, Телеком,Рударска колонија,Космај 2. Соколово.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "572d550f727d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "08:30"
+      },
+      "streets": [
+        "Јанка Стајчића 15-25",
+        "2-36."
+      ],
+      "reason": null,
+      "note": "Јанка Стајчића 15-25, 2-36.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "263b88f53481",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Насеље Дрен (засеок Михаиловићи)."
+      ],
+      "reason": null,
+      "note": "Насеље Дрен (засеок Михаиловићи).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "170276154c0a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Стрмово (засеок Центар-према Придворици)."
+      ],
+      "reason": null,
+      "note": "Стрмово (засеок Центар-према Придворици).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "4ed88307ec39",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Димитрија Туцовића 1",
+        "1а",
+        "1б",
+        "1в",
+        "1д",
+        "Карађорђева 51",
+        "53",
+        "Дула Караклајића 30а",
+        "30б",
+        "30в",
+        "30г",
+        "32",
+        "32а",
+        "32б (код старе робне куће)."
+      ],
+      "reason": null,
+      "note": "Димитрија Туцовића 1,1а,1б,1в,1д, Карађорђева 51,53,Дула Караклајића 30а,30б,30в,30г,32,32а,32б (код старе робне куће).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "2163420ea9e4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Венчане (засеок Каменица)."
+      ],
+      "reason": null,
+      "note": "Венчане (засеок Каменица).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "d833697bea85",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Латковић (засеок Кула)."
+      ],
+      "reason": null,
+      "note": "Латковић (засеок Кула).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
