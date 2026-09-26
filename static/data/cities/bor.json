@@ -5,7 +5,84 @@
     "nameLatin": "Bor",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "2b45a1df7cc9",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-21",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Улица Николе Пашића број 36"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Улица Николе Пашића број 36 Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-ponedeljak-21-09-2026-god/"
+    },
+    {
+      "id": "f752c42e7c59",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-22",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Бањско Поље – Прикључак",
+        "Улица Бранка Ћопића"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Бањско Поље – Прикључак Улица Бранка Ћопића Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-22-09-2026-god/"
+    },
+    {
+      "id": "93bdd133d340",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-23",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Слатина – Железничка станица",
+        "Бор 2 – Прикључак"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Слатина – Железничка станица Бор 2 – Прикључак Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-sreda-23-09-2026-god/"
+    },
+    {
+      "id": "111394297650",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-24",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Бањско Поље – два прикључка",
+        "Улица Албанске Споменице број 11",
+        "Борско Језеро"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Бањско Поље – два прикључка Улица Албанске Споменице број 11 Борско Језеро Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-24-09-2026-god/"
+    },
+    {
+      "id": "60989a7b88d7",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-25",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Бањско Поље",
+        "Шарбановац",
+        "Слатински пут"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Бањско Поље Шарбановац Слатински пут Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-petak-25-09-2026-god/"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
