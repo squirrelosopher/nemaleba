@@ -7,20 +7,6 @@
   },
   "outages": [
     {
-      "id": "1bdd3b10ea37",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-19",
-      "areaLabel": "Панчево",
-      "time": null,
-      "streets": [
-        "Тамишка од Христјана Карпоша до Иве Лоле Рибара"
-      ],
-      "reason": null,
-      "note": "Због хаварије на водоводној мрежи без воде је у 18 и 30 часова у насељеном месту Јабука остала Улица Тамишка од Христјана Карпоша до Иве Лоле Рибара.",
-      "sourceUrl": "https://www.vodovodpa.rs/2026/09/19/19-9-2026/"
-    },
-    {
       "id": "84520da76c3b",
       "utility": "water",
       "kind": "emergency",
@@ -256,6 +242,11 @@
     {
       "date": "2026-09-26",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-27",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]
