@@ -5,7 +5,44 @@
     "nameLatin": "Svilajnac",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "da76c46fb8b1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Свилајнац",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Улица Цара Душана ка сметлишту"
+      ],
+      "reason": null,
+      "note": "Улица Цара Душана ка сметлишту",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "1b26cc1dffb1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Свилајнац",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Село Купиновац",
+        "Ђуринац",
+        "Роћевац и део села Бобово"
+      ],
+      "reason": null,
+      "note": "Село Купиновац,Ђуринац,Роћевац и део села Бобово",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-07",

@@ -5,7 +5,25 @@
     "nameLatin": "Nova Crnja",
     "branchCyrillic": "Зрењанин"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "7422c8c64af5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Нова Црња",
+      "time": {
+        "start": "11:00",
+        "end": "12:30"
+      },
+      "streets": [
+        "Српска Црња:\r\nВука Караџића, део Јакшићево, део Милете Јакшића, Михајла Пупина, Његошева"
+      ],
+      "reason": null,
+      "note": "Српска Црња:\r\nВука Караџића, део Јакшићево, део Милете Јакшића, Михајла Пупина, Његошева,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

@@ -19,56 +19,59 @@
       "sourceUrl": "https://vodovodva.co.rs/naselje_oslobodioci_valjeva-2/"
     },
     {
-      "id": "6fa15318b91e",
+      "id": "dcacc20a2127",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Ваљево",
       "time": {
         "start": "08:00",
-        "end": "17:00"
+        "end": "12:00"
       },
       "streets": [
-        "Купци дела села Осеченице."
+        "Купци дела Петог пука око (галерије )"
       ],
       "reason": null,
-      "note": "Купци дела села Осеченице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "Купци дела Петог пука око (галерије )",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "720a8a7232ba",
+      "id": "c94b464ce4e2",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Ваљево",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Купци дела села Брезовице милавац (брлог)"
-      ],
-      "reason": null,
-      "note": "Купци дела села Брезовице милавац (брлог)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "7fae82edaabd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Ваљево",
       "time": {
         "start": "08:30",
-        "end": "14:00"
+        "end": "12:30"
       },
       "streets": [
-        "Купци ул. Градачка",
-        "и део радиног брда"
+        "Купци дела Горића (код ферума)"
       ],
       "reason": null,
-      "note": "Купци ул. Градачка , и део радиног брда",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "Купци дела Горића (код ферума)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "03cf644cf2c3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "12:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Купци ул.Тиће Миловановић",
+        "Филипа",
+        "део Радничке",
+        "Петра Молера",
+        "др.Питовић."
+      ],
+      "reason": null,
+      "note": "Купци ул.Тиће Миловановић, Филипа, део Радничке, Петра Молера, др.Питовић.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

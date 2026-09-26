@@ -5,25 +5,7 @@
     "nameLatin": "Bačka Palanka",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [
-    {
-      "id": "f29c9329c830",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Бачка Паланка",
-      "time": {
-        "start": "08:30",
-        "end": "12:00"
-      },
-      "streets": [
-        "Херцеговачка од Патријаха Павла према атару поред спортске хале"
-      ],
-      "reason": null,
-      "note": "Херцеговачка од Патријаха Павла према атару поред спортске хале",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

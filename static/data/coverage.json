@@ -6,7 +6,7 @@
     "precision": "municipality"
   },
   "aleksinac": {
-    "outages": 457,
+    "outages": 458,
     "streetNamed": 88,
     "settlementNamed": 56,
     "precision": "municipality"
@@ -36,9 +36,9 @@
     "precision": "municipality"
   },
   "babusnica": {
-    "outages": 335,
+    "outages": 336,
     "streetNamed": 111,
-    "settlementNamed": 293,
+    "settlementNamed": 294,
     "precision": "settlement"
   },
   "backa-palanka": {
@@ -48,9 +48,9 @@
     "precision": "street"
   },
   "backa-topola": {
-    "outages": 529,
-    "streetNamed": 261,
-    "settlementNamed": 0,
+    "outages": 533,
+    "streetNamed": 264,
+    "settlementNamed": 1,
     "precision": "municipality"
   },
   "backi-petrovac": {
@@ -60,9 +60,9 @@
     "precision": "street"
   },
   "bajina-basta": {
-    "outages": 546,
-    "streetNamed": 317,
-    "settlementNamed": 317,
+    "outages": 550,
+    "streetNamed": 321,
+    "settlementNamed": 321,
     "precision": "municipality"
   },
   "barajevo": {
@@ -78,8 +78,8 @@
     "precision": "municipality"
   },
   "becej": {
-    "outages": 225,
-    "streetNamed": 13,
+    "outages": 226,
+    "streetNamed": 14,
     "settlementNamed": 0,
     "precision": "municipality"
   },
@@ -90,25 +90,25 @@
     "precision": "municipality"
   },
   "bela-palanka": {
-    "outages": 252,
-    "streetNamed": 0,
-    "settlementNamed": 207,
+    "outages": 255,
+    "streetNamed": 1,
+    "settlementNamed": 208,
     "precision": "settlement"
   },
   "beograd": {
-    "outages": 7938,
-    "streetNamed": 6817,
-    "settlementNamed": 2557,
+    "outages": 7969,
+    "streetNamed": 6844,
+    "settlementNamed": 2565,
     "precision": "street"
   },
   "blace": {
-    "outages": 234,
-    "streetNamed": 221,
-    "settlementNamed": 221,
+    "outages": 235,
+    "streetNamed": 222,
+    "settlementNamed": 222,
     "precision": "street"
   },
   "bogatic": {
-    "outages": 31,
+    "outages": 33,
     "streetNamed": 0,
     "settlementNamed": 0,
     "precision": "municipality"
@@ -120,9 +120,9 @@
     "precision": "municipality"
   },
   "bor": {
-    "outages": 810,
-    "streetNamed": 581,
-    "settlementNamed": 132,
+    "outages": 815,
+    "streetNamed": 584,
+    "settlementNamed": 134,
     "precision": "street"
   },
   "brus": {
@@ -132,13 +132,13 @@
     "precision": "municipality"
   },
   "bujanovac": {
-    "outages": 0,
-    "streetNamed": 0,
-    "settlementNamed": 0,
+    "outages": 1,
+    "streetNamed": 1,
+    "settlementNamed": 1,
     "precision": "municipality"
   },
   "cacak": {
-    "outages": 245,
+    "outages": 246,
     "streetNamed": 9,
     "settlementNamed": 21,
     "precision": "municipality"
@@ -162,13 +162,13 @@
     "precision": "municipality"
   },
   "cukarica": {
-    "outages": 810,
-    "streetNamed": 810,
+    "outages": 812,
+    "streetNamed": 812,
     "settlementNamed": 95,
     "precision": "street"
   },
   "cuprija": {
-    "outages": 83,
+    "outages": 84,
     "streetNamed": 0,
     "settlementNamed": 70,
     "precision": "settlement"
@@ -180,9 +180,9 @@
     "precision": "municipality"
   },
   "dimitrovgrad": {
-    "outages": 349,
+    "outages": 350,
     "streetNamed": 195,
-    "settlementNamed": 195,
+    "settlementNamed": 196,
     "precision": "municipality"
   },
   "doljevac": {
@@ -216,7 +216,7 @@
     "precision": "street"
   },
   "indjija": {
-    "outages": 668,
+    "outages": 670,
     "streetNamed": 195,
     "settlementNamed": 57,
     "precision": "municipality"
@@ -246,8 +246,8 @@
     "precision": "municipality"
   },
   "kikinda": {
-    "outages": 1673,
-    "streetNamed": 1264,
+    "outages": 1685,
+    "streetNamed": 1271,
     "settlementNamed": 0,
     "precision": "street"
   },
@@ -264,9 +264,9 @@
     "precision": "municipality"
   },
   "kosjeric": {
-    "outages": 167,
+    "outages": 168,
     "streetNamed": 46,
-    "settlementNamed": 46,
+    "settlementNamed": 47,
     "precision": "municipality"
   },
   "kostolac": {
@@ -288,9 +288,9 @@
     "precision": "municipality"
   },
   "kragujevac": {
-    "outages": 12064,
-    "streetNamed": 9278,
-    "settlementNamed": 782,
+    "outages": 12128,
+    "streetNamed": 9330,
+    "settlementNamed": 790,
     "precision": "street"
   },
   "kraljevo": {
@@ -300,15 +300,21 @@
     "precision": "municipality"
   },
   "krupanj": {
-    "outages": 755,
+    "outages": 758,
     "streetNamed": 27,
     "settlementNamed": 79,
     "precision": "municipality"
   },
   "krusevac": {
-    "outages": 538,
+    "outages": 539,
     "streetNamed": 204,
     "settlementNamed": 33,
+    "precision": "municipality"
+  },
+  "kucevo": {
+    "outages": 1,
+    "streetNamed": 0,
+    "settlementNamed": 1,
     "precision": "municipality"
   },
   "kula": {
@@ -318,9 +324,9 @@
     "precision": "municipality"
   },
   "kursumlija": {
-    "outages": 870,
+    "outages": 872,
     "streetNamed": 108,
-    "settlementNamed": 431,
+    "settlementNamed": 433,
     "precision": "municipality"
   },
   "lajkovac": {
@@ -330,9 +336,9 @@
     "precision": "municipality"
   },
   "lazarevac": {
-    "outages": 1253,
-    "streetNamed": 216,
-    "settlementNamed": 280,
+    "outages": 1260,
+    "streetNamed": 218,
+    "settlementNamed": 283,
     "precision": "municipality"
   },
   "lebane": {
@@ -354,9 +360,9 @@
     "precision": "municipality"
   },
   "loznica": {
-    "outages": 210,
+    "outages": 212,
     "streetNamed": 0,
-    "settlementNamed": 0,
+    "settlementNamed": 1,
     "precision": "municipality"
   },
   "lucani": {
@@ -372,9 +378,9 @@
     "precision": "municipality"
   },
   "mali-zvornik": {
-    "outages": 402,
+    "outages": 405,
     "streetNamed": 191,
-    "settlementNamed": 0,
+    "settlementNamed": 1,
     "precision": "municipality"
   },
   "malo-crnice": {
@@ -396,9 +402,9 @@
     "precision": "municipality"
   },
   "merosina": {
-    "outages": 241,
+    "outages": 243,
     "streetNamed": 0,
-    "settlementNamed": 187,
+    "settlementNamed": 188,
     "precision": "settlement"
   },
   "mionica": {
@@ -420,21 +426,21 @@
     "precision": "municipality"
   },
   "nis": {
-    "outages": 10753,
-    "streetNamed": 6341,
-    "settlementNamed": 3565,
+    "outages": 10817,
+    "streetNamed": 6372,
+    "settlementNamed": 3587,
     "precision": "municipality"
   },
   "niska-banja": {
-    "outages": 231,
+    "outages": 232,
     "streetNamed": 163,
     "settlementNamed": 16,
     "precision": "street"
   },
   "nova-crnja": {
-    "outages": 0,
-    "streetNamed": 0,
-    "settlementNamed": 0,
+    "outages": 1,
+    "streetNamed": 1,
+    "settlementNamed": 1,
     "precision": "municipality"
   },
   "novi-becej": {
@@ -444,8 +450,8 @@
     "precision": "street"
   },
   "novi-beograd": {
-    "outages": 516,
-    "streetNamed": 503,
+    "outages": 520,
+    "streetNamed": 507,
     "settlementNamed": 0,
     "precision": "street"
   },
@@ -456,21 +462,21 @@
     "precision": "street"
   },
   "novi-pazar": {
-    "outages": 0,
-    "streetNamed": 0,
-    "settlementNamed": 0,
+    "outages": 4,
+    "streetNamed": 2,
+    "settlementNamed": 1,
     "precision": "municipality"
   },
   "novi-sad": {
-    "outages": 3953,
-    "streetNamed": 2725,
-    "settlementNamed": 1815,
+    "outages": 3974,
+    "streetNamed": 2736,
+    "settlementNamed": 1824,
     "precision": "municipality"
   },
   "obrenovac": {
-    "outages": 853,
-    "streetNamed": 809,
-    "settlementNamed": 815,
+    "outages": 856,
+    "streetNamed": 812,
+    "settlementNamed": 818,
     "precision": "street"
   },
   "odzaci": {
@@ -492,26 +498,26 @@
     "precision": "municipality"
   },
   "palilula": {
-    "outages": 460,
+    "outages": 461,
     "streetNamed": 72,
     "settlementNamed": 0,
     "precision": "municipality"
   },
   "palilula-nis": {
-    "outages": 2504,
-    "streetNamed": 1729,
+    "outages": 2517,
+    "streetNamed": 1737,
     "settlementNamed": 17,
     "precision": "municipality"
   },
   "pancevo": {
-    "outages": 1940,
-    "streetNamed": 1208,
-    "settlementNamed": 617,
+    "outages": 1949,
+    "streetNamed": 1212,
+    "settlementNamed": 621,
     "precision": "municipality"
   },
   "pantelej": {
-    "outages": 655,
-    "streetNamed": 255,
+    "outages": 659,
+    "streetNamed": 257,
     "settlementNamed": 0,
     "precision": "municipality"
   },
@@ -522,21 +528,21 @@
     "precision": "settlement"
   },
   "pecinci": {
-    "outages": 151,
+    "outages": 152,
     "streetNamed": 62,
     "settlementNamed": 0,
     "precision": "municipality"
   },
   "petrovac": {
-    "outages": 361,
-    "streetNamed": 361,
+    "outages": 363,
+    "streetNamed": 363,
     "settlementNamed": 0,
     "precision": "street"
   },
   "pirot": {
-    "outages": 666,
-    "streetNamed": 436,
-    "settlementNamed": 283,
+    "outages": 670,
+    "streetNamed": 438,
+    "settlementNamed": 286,
     "precision": "municipality"
   },
   "plandiste": {
@@ -546,8 +552,8 @@
     "precision": "municipality"
   },
   "pozarevac": {
-    "outages": 730,
-    "streetNamed": 332,
+    "outages": 732,
+    "streetNamed": 333,
     "settlementNamed": 0,
     "precision": "municipality"
   },
@@ -576,8 +582,8 @@
     "precision": "municipality"
   },
   "prokuplje": {
-    "outages": 535,
-    "streetNamed": 433,
+    "outages": 536,
+    "streetNamed": 434,
     "settlementNamed": 223,
     "precision": "street"
   },
@@ -606,25 +612,25 @@
     "precision": "municipality"
   },
   "rekovac": {
-    "outages": 176,
+    "outages": 177,
     "streetNamed": 0,
     "settlementNamed": 150,
     "precision": "settlement"
   },
   "ruma": {
-    "outages": 1504,
-    "streetNamed": 389,
-    "settlementNamed": 534,
+    "outages": 1507,
+    "streetNamed": 390,
+    "settlementNamed": 536,
     "precision": "municipality"
   },
   "sabac": {
-    "outages": 434,
-    "streetNamed": 85,
+    "outages": 437,
+    "streetNamed": 87,
     "settlementNamed": 46,
     "precision": "municipality"
   },
   "savski-venac": {
-    "outages": 358,
+    "outages": 359,
     "streetNamed": 183,
     "settlementNamed": 0,
     "precision": "municipality"
@@ -636,8 +642,8 @@
     "precision": "municipality"
   },
   "sid": {
-    "outages": 696,
-    "streetNamed": 696,
+    "outages": 698,
+    "streetNamed": 698,
     "settlementNamed": 21,
     "precision": "street"
   },
@@ -648,14 +654,14 @@
     "precision": "municipality"
   },
   "smederevo": {
-    "outages": 473,
-    "streetNamed": 234,
-    "settlementNamed": 237,
+    "outages": 475,
+    "streetNamed": 235,
+    "settlementNamed": 238,
     "precision": "municipality"
   },
   "smederevska-palanka": {
-    "outages": 263,
-    "streetNamed": 167,
+    "outages": 266,
+    "streetNamed": 168,
     "settlementNamed": 69,
     "precision": "municipality"
   },
@@ -666,15 +672,15 @@
     "precision": "municipality"
   },
   "sombor": {
-    "outages": 576,
-    "streetNamed": 368,
+    "outages": 577,
+    "streetNamed": 369,
     "settlementNamed": 268,
     "precision": "municipality"
   },
   "sopot": {
-    "outages": 222,
-    "streetNamed": 222,
-    "settlementNamed": 222,
+    "outages": 224,
+    "streetNamed": 224,
+    "settlementNamed": 223,
     "precision": "street"
   },
   "srbobran": {
@@ -684,14 +690,14 @@
     "precision": "municipality"
   },
   "sremska-mitrovica": {
-    "outages": 608,
-    "streetNamed": 528,
-    "settlementNamed": 201,
+    "outages": 616,
+    "streetNamed": 536,
+    "settlementNamed": 202,
     "precision": "street"
   },
   "stara-pazova": {
-    "outages": 364,
-    "streetNamed": 261,
+    "outages": 366,
+    "streetNamed": 263,
     "settlementNamed": 96,
     "precision": "street"
   },
@@ -702,9 +708,9 @@
     "precision": "street"
   },
   "subotica": {
-    "outages": 3227,
-    "streetNamed": 2152,
-    "settlementNamed": 208,
+    "outages": 3243,
+    "streetNamed": 2163,
+    "settlementNamed": 211,
     "precision": "municipality"
   },
   "surcin": {
@@ -714,9 +720,9 @@
     "precision": "street"
   },
   "svilajnac": {
-    "outages": 792,
+    "outages": 794,
     "streetNamed": 13,
-    "settlementNamed": 626,
+    "settlementNamed": 627,
     "precision": "settlement"
   },
   "temerin": {
@@ -724,6 +730,12 @@
     "streetNamed": 80,
     "settlementNamed": 0,
     "precision": "street"
+  },
+  "titel": {
+    "outages": 2,
+    "streetNamed": 2,
+    "settlementNamed": 0,
+    "precision": "municipality"
   },
   "topola": {
     "outages": 13,
@@ -738,9 +750,9 @@
     "precision": "municipality"
   },
   "tutin": {
-    "outages": 370,
-    "streetNamed": 370,
-    "settlementNamed": 370,
+    "outages": 371,
+    "streetNamed": 371,
+    "settlementNamed": 371,
     "precision": "street"
   },
   "ub": {
@@ -750,14 +762,14 @@
     "precision": "municipality"
   },
   "uzice": {
-    "outages": 455,
+    "outages": 457,
     "streetNamed": 0,
     "settlementNamed": 0,
     "precision": "municipality"
   },
   "valjevo": {
-    "outages": 679,
-    "streetNamed": 53,
+    "outages": 683,
+    "streetNamed": 54,
     "settlementNamed": 175,
     "precision": "municipality"
   },
@@ -786,9 +798,9 @@
     "precision": "municipality"
   },
   "vladimirci": {
-    "outages": 313,
+    "outages": 315,
     "streetNamed": 0,
-    "settlementNamed": 0,
+    "settlementNamed": 1,
     "precision": "municipality"
   },
   "vlasotince": {
@@ -798,19 +810,19 @@
     "precision": "municipality"
   },
   "vozdovac": {
-    "outages": 233,
-    "streetNamed": 220,
-    "settlementNamed": 57,
+    "outages": 235,
+    "streetNamed": 222,
+    "settlementNamed": 58,
     "precision": "street"
   },
   "vracar": {
-    "outages": 330,
-    "streetNamed": 326,
+    "outages": 333,
+    "streetNamed": 329,
     "settlementNamed": 0,
     "precision": "street"
   },
   "vranje": {
-    "outages": 654,
+    "outages": 656,
     "streetNamed": 9,
     "settlementNamed": 0,
     "precision": "municipality"
@@ -839,6 +851,12 @@
     "settlementNamed": 0,
     "precision": "street"
   },
+  "zabari": {
+    "outages": 2,
+    "streetNamed": 2,
+    "settlementNamed": 0,
+    "precision": "municipality"
+  },
   "zajecar": {
     "outages": 172,
     "streetNamed": 126,
@@ -846,8 +864,8 @@
     "precision": "street"
   },
   "zemun": {
-    "outages": 702,
-    "streetNamed": 702,
+    "outages": 705,
+    "streetNamed": 705,
     "settlementNamed": 85,
     "precision": "street"
   },
@@ -858,20 +876,20 @@
     "precision": "street"
   },
   "zitoradja": {
-    "outages": 92,
+    "outages": 93,
     "streetNamed": 0,
-    "settlementNamed": 92,
+    "settlementNamed": 93,
     "precision": "settlement"
   },
   "zrenjanin": {
-    "outages": 1230,
-    "streetNamed": 278,
-    "settlementNamed": 485,
+    "outages": 1235,
+    "streetNamed": 279,
+    "settlementNamed": 488,
     "precision": "municipality"
   },
   "zvezdara": {
-    "outages": 617,
-    "streetNamed": 617,
+    "outages": 620,
+    "streetNamed": 620,
     "settlementNamed": 0,
     "precision": "street"
   }

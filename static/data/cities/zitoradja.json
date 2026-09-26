@@ -5,7 +5,25 @@
     "nameLatin": "Žitorađa",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "db00e465d4a4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Житорађа",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Села: Грудаш, Дебели Луг, Топоница, Коњарник, Дубово, Каре, Ширине, Асановац, Момчилово"
+      ],
+      "reason": null,
+      "note": "Села: Грудаш, Дебели Луг, Топоница, Коњарник, Дубово, Каре, Ширине, Асановац, Момчилово",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

@@ -80,41 +80,6 @@
       "sourceUrl": "https://www.vodovodpa.rs/2026/09/23/23-9-2026-2/"
     },
     {
-      "id": "6636cb2175f3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "07:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Долово",
-        "део пута за Мраморак"
-      ],
-      "reason": null,
-      "note": "Долово, део пута за Мраморак",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c22c57e6a169",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "08:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Дебељача - цело насеље!"
-      ],
-      "reason": null,
-      "note": "Дебељача - цело насеље!",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "886519fca634",
       "utility": "electricity",
       "kind": "planned",
@@ -130,7 +95,41 @@
       ],
       "reason": null,
       "note": "Долово, део пута за Мраморак",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "5de04e794757",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "08:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Старчево-комплетно насеље!"
+      ],
+      "reason": null,
+      "note": "Старчево-комплетно насеље!",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "69153151d807",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "08:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Качарево: Ул. Радничка од ЈНА до бр. 51/46а, Омладинска од ЈНА до бр. 41/44, 4.Октобра од ЈНА до бр. 13/14, ЈНА од 4.Октобра до Радничке, Првомајска од Н.Фронта до Радничке"
+      ],
+      "reason": null,
+      "note": "Качарево: Ул. Радничка од ЈНА до бр. 51/46а, Омладинска од ЈНА до бр. 41/44, 4.Октобра од ЈНА до бр. 13/14, ЈНА од 4.Октобра до Радничке, Првомајска од Н.Фронта до Радничке",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

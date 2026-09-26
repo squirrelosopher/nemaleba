@@ -17,6 +17,28 @@
       "reason": null,
       "note": "Због оштећења на водоводној мрежи у улици Милована Миловановића Лунета (Рашка) без воде биће потрошачи те улице и околне до завршетка радова.",
       "sourceUrl": "https://vodovodvranje.rs/23-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "46df8fd24e4f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Врање",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Бунушевац",
+        "Содерце",
+        "Стропско",
+        "Дубница",
+        "Катун",
+        "Миливојце"
+      ],
+      "reason": null,
+      "note": "Бунушевац, Содерце, Стропско, Дубница, Катун, Миливојце",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,41 +7,42 @@
   },
   "outages": [
     {
-      "id": "4c625bde1712",
+      "id": "ee91087d6d40",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Ужице",
       "time": {
         "start": "08:00",
-        "end": "11:00"
+        "end": "17:00"
       },
       "streets": [
-        "Делови улица Јована Стерије Поповића",
-        "Љутомерска и Карађорђева"
+        "Потрошачи са подручја Филиповића у Рибашевини",
+        "засеоци Филиповићи",
+        "Ивановићи и Јевтовићи."
       ],
       "reason": null,
-      "note": "Делови улица Јована Стерије Поповића ,Љутомерска и Карађорђева",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "Потрошачи са подручја Филиповића у Рибашевини, засеоци Филиповићи, Ивановићи и Јевтовићи.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "744c43c0f200",
+      "id": "ce7a2105b61f",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-29",
       "areaLabel": "Ужице",
       "time": {
-        "start": "09:00",
-        "end": "11:00"
+        "start": "08:00",
+        "end": "17:00"
       },
       "streets": [
-        "Потрошачи са подручја Стапара",
-        "Волујца",
-        "Беле Воде и Јелове Горе."
+        "Потрошачи са подручја Филиповића у Рибашевини",
+        "засеоци Филиповићи",
+        "Ивановићи и Јевтовићи."
       ],
       "reason": null,
-      "note": "Потрошачи са подручја Стапара, Волујца, Беле Воде и Јелове Горе.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "Потрошачи са подручја Филиповића у Рибашевини, засеоци Филиповићи, Ивановићи и Јевтовићи.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

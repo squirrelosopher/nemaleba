@@ -5,7 +5,80 @@
     "nameLatin": "Novi Pazar",
     "branchCyrillic": "Нови Пазар"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "6e10b58c5dd7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Нови Пазар",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Александра Ђукића",
+        "Глушци"
+      ],
+      "reason": null,
+      "note": "Александра Ђукића, Глушци",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "b8c3b93d839b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Нови Пазар",
+      "time": {
+        "start": "10:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Себечево 3"
+      ],
+      "reason": null,
+      "note": "Себечево 3",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ebafbba12063",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Пазар",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Конфекција",
+        "Марвел",
+        "Резни алат 1 и 2",
+        "Предионица"
+      ],
+      "reason": null,
+      "note": "Конфекција, Марвел, Резни алат 1 и 2, Предионица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "5bbd1610a5ae",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Пазар",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Глушци"
+      ],
+      "reason": null,
+      "note": "Глушци",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

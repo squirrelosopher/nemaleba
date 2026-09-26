@@ -7,25 +7,58 @@
   },
   "outages": [
     {
-      "id": "704b21d7bcf6",
+      "id": "9426467b2811",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Мали Зворник",
       "time": {
-        "start": "09:00",
-        "end": "17:00"
+        "start": "08:00",
+        "end": "16:00"
       },
       "streets": [
-        "Због реконструкције далековода и земени стубова на ДВ 10 kV из ТС 35/10 kV „Мали Зворник“ извод Брасина. Без напона остају ТС Речани 1",
-        "Речани 2",
-        "Костићи",
-        "Мишићи",
-        "Вискоза мода и Пумпе – цело конзмно подручје Брасине."
+        "Пумпе и Вискоза Мода Брасина"
       ],
       "reason": null,
-      "note": "Због реконструкције далековода и земени стубова на ДВ 10 kV из ТС 35/10 kV „Мали Зворник“ извод Брасина. Без напона остају ТС Речани 1,Речани 2,Костићи,Мишићи,Вискоза мода и Пумпе – цело конзмно подручје Брасине.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "Пумпе и Вискоза Мода Брасина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "124eaa518bca",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Мали Зворник",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Горњи и Доњи Читлук"
+      ],
+      "reason": null,
+      "note": "Горњи и Доњи Читлук",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "7f2aa3883a2b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Мали Зворник",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Велика Река",
+        "Црнча",
+        "Ребељ",
+        "Врањача"
+      ],
+      "reason": null,
+      "note": "Велика Река,Црнча , Ребељ, Врањача",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

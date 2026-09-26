@@ -5,26 +5,7 @@
     "nameLatin": "Jagodina",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [
-    {
-      "id": "cc804117516d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Јагодина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део села Милошево",
-        "од цркве на горе и ка школи"
-      ],
-      "reason": null,
-      "note": "Део села Милошево, од цркве на горе и ка школи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

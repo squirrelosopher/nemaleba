@@ -5,7 +5,25 @@
     "nameLatin": "Pećinci",
     "branchCyrillic": "Рума"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "e8b5660b1f19",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Пећинци",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сремски Михаљевци без струје"
+      ],
+      "reason": null,
+      "note": "Сремски Михаљевци без струје",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-21",

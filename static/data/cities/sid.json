@@ -7,38 +7,38 @@
   },
   "outages": [
     {
-      "id": "5c5393941116",
+      "id": "6c96fed4c1f5",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Шид",
       "time": {
         "start": "09:00",
         "end": "11:00"
       },
       "streets": [
-        "\"Шид: Ул. Васе Стајића 1,3 и 7\r\nУл. Масарикова 68 и 75\""
+        "Шид: Ул. Бранка Ерића 5,9 и бб"
       ],
       "reason": null,
-      "note": "\"Шид: Ул. Васе Стајића 1,3 и 7\r\nУл. Масарикова 68 и 75\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "Шид: Ул. Бранка Ерића 5,9 и бб",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "92d9bb57608e",
+      "id": "8942e6e09070",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Шид",
       "time": {
         "start": "12:00",
         "end": "14:00"
       },
       "streets": [
-        "Шид: Ул. Вељка Пауновића 3-19; 2-82 и бб"
+        "Шид: Ул. Бранка Ерића бб"
       ],
       "reason": null,
-      "note": "Шид: Ул. Вељка Пауновића 3-19; 2-82 и бб",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "Шид: Ул. Бранка Ерића бб",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

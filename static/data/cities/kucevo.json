@@ -1,0 +1,34 @@
+{
+  "city": {
+    "id": "kucevo",
+    "nameCyrillic": "Кучево",
+    "nameLatin": "Kučevo",
+    "branchCyrillic": "Пожаревац"
+  },
+  "outages": [
+    {
+      "id": "0c33b461257b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Кучево",
+      "time": {
+        "start": "10:00",
+        "end": "14:30"
+      },
+      "streets": [
+        "Мала Бресница"
+      ],
+      "reason": null,
+      "note": "Мала Бресница",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-26",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

@@ -7,27 +7,27 @@
   },
   "outages": [
     {
-      "id": "93307d93d65d",
+      "id": "72886d63ac36",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Бајина Башта",
       "time": {
         "start": "08:00",
         "end": "16:00"
       },
       "streets": [
-        "Насеља: Новаковићи на Митровцу и Ослуша"
+        "Насеља: Растиште, Јагоштица"
       ],
       "reason": null,
-      "note": "Насеља: Новаковићи на Митровцу и Ослуша",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "Насеља: Растиште, Јагоштица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "708bc1fbb5bd",
+      "id": "26284edab57b",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Бајина Башта",
       "time": {
         "start": "08:00",
@@ -38,24 +38,41 @@
       ],
       "reason": null,
       "note": "Насеља: Љештанско",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "fb357d081edd",
+      "id": "3758296f5d1e",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-29",
       "areaLabel": "Бајина Башта",
       "time": {
-        "start": "09:00",
-        "end": "15:00"
+        "start": "08:00",
+        "end": "16:00"
       },
       "streets": [
-        "Насеља: Растиште и Јагоштица"
+        "Насеља: Љештанско"
       ],
       "reason": null,
-      "note": "Насеља: Растиште и Јагоштица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "Насеља: Љештанско",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "3288a4d946b7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Бајина Башта",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеља: Растиште, Јагоштица"
+      ],
+      "reason": null,
+      "note": "Насеља: Растиште, Јагоштица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

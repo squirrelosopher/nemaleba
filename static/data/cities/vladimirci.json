@@ -7,21 +7,39 @@
   },
   "outages": [
     {
-      "id": "e01606474c62",
+      "id": "b043993e6e33",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Владимирци",
       "time": {
         "start": "08:00",
         "end": "17:00"
       },
       "streets": [
-        "Без ел.енергије остаће село БЕЉИН"
+        "Без ел.ен. Месарци",
+        "Суво село и део Власанице"
       ],
       "reason": null,
-      "note": "Без ел.енергије остаће село БЕЉИН",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "Без ел.ен. Месарци, Суво село и део Власанице",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "9e693ff35f24",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Владимирци",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Без напона ће бити: део Бељина (200 купаца)"
+      ],
+      "reason": null,
+      "note": "Без напона ће бити: део Бељина (200 купаца)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,21 +7,38 @@
   },
   "outages": [
     {
-      "id": "debb1bebb1a4",
+      "id": "d7ed21baf73e",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Смедерево",
       "time": {
-        "start": "08:00",
+        "start": "09:00",
         "end": "14:00"
       },
       "streets": [
-        "Вучак-Вучачка са попречним улицама и Карађорђева са попречним улицама - улаз у Вучак и прилаз Вучаку од Царине"
+        "Скобаљ и Осипаоница ( део села према Скобаљу)"
       ],
       "reason": null,
-      "note": "Вучак-Вучачка са попречним улицама и Карађорђева са попречним улицама - улаз у Вучак и прилаз Вучаку од Царине",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+      "note": "Скобаљ и Осипаоница ( део села према Скобаљу)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "95061a8691a7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Светог Саве и Карађорђева"
+      ],
+      "reason": null,
+      "note": "Светог Саве и Карађорђева",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

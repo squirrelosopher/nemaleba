@@ -7,22 +7,23 @@
   },
   "outages": [
     {
-      "id": "dcfa3cc5bfc6",
+      "id": "b2c39681cba8",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Бабушница",
       "time": {
         "start": "08:30",
         "end": "14:00"
       },
       "streets": [
-        "део села Врело",
-        "Берин Извор."
+        "Део села Мало Боњинце",
+        "Бердуј",
+        "Студена"
       ],
       "reason": null,
-      "note": "део села Врело,Берин Извор.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+      "note": "Део села Мало Боњинце, Бердуј, Студена",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

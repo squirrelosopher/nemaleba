@@ -1,0 +1,51 @@
+{
+  "city": {
+    "id": "titel",
+    "nameCyrillic": "Тител",
+    "nameLatin": "Titel",
+    "branchCyrillic": "Нови Сад"
+  },
+  "outages": [
+    {
+      "id": "4fd6404cec04",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Тител",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "Место Мошорин:ул Чарнојевићева од кбр 48 према Ђурђеву."
+      ],
+      "reason": null,
+      "note": "Место Мошорин:ул Чарнојевићева од кбр 48 према Ђурђеву.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "5941214c69ba",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Тител",
+      "time": {
+        "start": "10:45",
+        "end": "14:00"
+      },
+      "streets": [
+        "Место Мошорин:ул Обилићева."
+      ],
+      "reason": null,
+      "note": "Место Мошорин:ул Обилићева.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-26",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

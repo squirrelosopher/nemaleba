@@ -5,7 +5,36 @@
     "nameLatin": "Kosjerić",
     "branchCyrillic": "Ужице"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "228b5bc8a050",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Косјерић",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Села Скакавци",
+        "Мионица",
+        "Мушићи",
+        "Дреновци",
+        "Гајчани",
+        "Радановци",
+        "Делићи",
+        "Доњи Таор",
+        "Забава",
+        "Мрчићи",
+        "Каона",
+        "Подбукови и Лучића Ограде."
+      ],
+      "reason": null,
+      "note": "Села Скакавци, Мионица, Мушићи,Дреновци, Гајчани, Радановци, Делићи,Доњи Таор,Забава,Мрчићи,Каона,Подбукови и Лучића Ограде.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-14",

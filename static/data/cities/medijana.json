@@ -5,28 +5,7 @@
     "nameLatin": "Medijana",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "b220965a800f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "делови улица Слађане Станковић",
-        "Пусторечке",
-        "ПроФ. Др Бранимира Јанковића",
-        "Призренске и Јастребачке у Брзом Броду;"
-      ],
-      "reason": null,
-      "note": "делови улица Слађане Станковић, Пусторечке, ПроФ. Др Бранимира Јанковића, Призренске и Јастребачке у Брзом Броду;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

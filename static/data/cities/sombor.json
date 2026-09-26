@@ -7,21 +7,21 @@
   },
   "outages": [
     {
-      "id": "abdb06a482eb",
+      "id": "ff100170c93f",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-29",
       "areaLabel": "Сомбор",
       "time": {
-        "start": "08:30",
+        "start": "08:00",
         "end": "14:00"
       },
       "streets": [
-        "СОМБОР: Метеоролошка станица, Кофи центар, Руска радња на Кљајићевачком путу, станови код ТС Сомбор 1"
+        "НАСЕЉЕ ГОГЕ: улица Браће Миладинов и Павловић салаши"
       ],
       "reason": null,
-      "note": "СОМБОР: Метеоролошка станица, Кофи центар, Руска радња на Кљајићевачком путу, станови код ТС Сомбор 1",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "НАСЕЉЕ ГОГЕ: улица Браће Миладинов и Павловић салаши",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

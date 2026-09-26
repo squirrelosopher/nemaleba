@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "БУЛЕВАР МИХАЈЛА ПУПИНА (Булевар Лењина): 12-14,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a06a06d502d1",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "БУЛЕВАР АРСЕНИЈА ЧАРНОЈЕВИЋА: 175-189,207-225, МИЛУТИНА МИЛАНКОВИЋА: 148,156-160, НАРОДНИХ ХЕРОЈА: 42-60,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ee744a71317d",
@@ -55,6 +55,23 @@
       ],
       "reason": null,
       "note": "ТОШИН БУНАР: 153,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "d5af1f2edd34",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "БУЛЕВАР МИХАЈЛА ПУПИНА (Булевар Лењина): 169-171"
+      ],
+      "reason": null,
+      "note": "БУЛЕВАР МИХАЈЛА ПУПИНА (Булевар Лењина): 169-171,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],

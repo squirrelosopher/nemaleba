@@ -5,25 +5,7 @@
     "nameLatin": "Plandište",
     "branchCyrillic": "Панчево"
   },
-  "outages": [
-    {
-      "id": "a681dc9ed908",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Пландиште",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Насељено место Милетићево И Марковићево."
-      ],
-      "reason": null,
-      "note": "Насељено место Милетићево И Марковићево.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-03",

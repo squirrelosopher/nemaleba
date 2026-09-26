@@ -5,7 +5,42 @@
     "nameLatin": "Bogatić",
     "branchCyrillic": "Шабац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "6897a639daa4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Богатић",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "Без напона остају купци у селу БАДОВИНЦИ."
+      ],
+      "reason": null,
+      "note": "Без напона остају купци у селу БАДОВИНЦИ.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "7b24a01e925c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Богатић",
+      "time": {
+        "start": "10:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Без напона остају купци у селу РАВЊЕ."
+      ],
+      "reason": null,
+      "note": "Без напона остају купци у селу РАВЊЕ.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

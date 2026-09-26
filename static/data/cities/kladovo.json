@@ -5,25 +5,7 @@
     "nameLatin": "Kladovo",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "ae43c0958ae0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Кладово",
-      "time": {
-        "start": "10:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "село Мала Врбица и део Велике Врбице"
-      ],
-      "reason": null,
-      "note": "село Мала Врбица и део Велике Врбице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-01",

@@ -5,25 +5,7 @@
     "nameLatin": "Kula",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [
-    {
-      "id": "f539caac002b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Кула",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Кула: ДОЖА ЂЕРЂА 57-61\r\nГАЛ ЛАСЛА 1-3 И 4-10\r\nП.ШАНДОРА 2-24 И 3-13\r\nР.МИКЛОША 1-43 И 2-34 И ББ\r\nСАЛАШ 208\r\nКУЛСКИ ПУТ ББ\r\nСАВИНОСЕЛСКИ ПУТ ББ"
-      ],
-      "reason": null,
-      "note": "Кула: ДОЖА ЂЕРЂА 57-61\r\nГАЛ ЛАСЛА 1-3 И 4-10\r\nП.ШАНДОРА 2-24 И 3-13\r\nР.МИКЛОША 1-43 И 2-34 И ББ\r\nСАЛАШ 208\r\nКУЛСКИ ПУТ ББ\r\nСАВИНОСЕЛСКИ ПУТ ББ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-07",

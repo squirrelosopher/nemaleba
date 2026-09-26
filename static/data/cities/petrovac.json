@@ -7,30 +7,38 @@
   },
   "outages": [
     {
-      "id": "44c76199c230",
+      "id": "278bfaebf9f6",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Петровац",
       "time": {
-        "start": "08:00",
+        "start": "08:30",
         "end": "14:30"
       },
       "streets": [
-        "Кучево",
-        "Каона",
-        "Турија",
-        "Колонија",
-        "Ракова Бара",
-        "Кучајна",
-        "Церовица",
-        "Равниште",
-        "Буковска",
-        "Плавчево и Церемошња"
+        "Трафо области Бусур 2 и 3 (југозападни део Бусура)"
       ],
       "reason": null,
-      "note": "Кучево, Каона, Турија, Колонија, Ракова Бара, Кучајна, Церовица, Равниште, Буковска, Плавчево и Церемошња",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+      "note": "Трафо области Бусур 2 и 3 (југозападни део Бусура)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ab702256711b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Петровац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Дубочка Млава и Старчево"
+      ],
+      "reason": null,
+      "note": "Дубочка Млава и Старчево",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

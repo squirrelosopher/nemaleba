@@ -5,7 +5,28 @@
     "nameLatin": "Ćuprija",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "520f032b49d2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "купци на Деспотовачком путу",
+        "бензинска пумпа Авиа",
+        "водовод Мотерсон",
+        "плантажа Рубин"
+      ],
+      "reason": null,
+      "note": "купци на Деспотовачком путу,бензинска пумпа Авиа,водовод Мотерсон,плантажа Рубин",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

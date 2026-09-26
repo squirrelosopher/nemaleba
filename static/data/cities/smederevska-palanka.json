@@ -5,7 +5,60 @@
     "nameLatin": "Smederevska Palanka",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "d059aedf1348",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Смедеревска Паланка",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Трафореон Лозовик у Влашком Долу"
+      ],
+      "reason": null,
+      "note": "Трафореон Лозовик у Влашком Долу",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "c808dd726cdf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Смедеревска Паланка",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Трафореон Пластика",
+        "односно део Колоније зона око \"НИС\" бензинске пумпе укључујући бензинску пумпу и мегамаркет \"Идеа\""
+      ],
+      "reason": null,
+      "note": "Трафореон Пластика, односно део Колоније зона око \"НИС\" бензинске пумпе укључујући бензинску пумпу и мегамаркет \"Идеа\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "5fd182805791",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Смедеревска Паланка",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део Смед. Паланке трафореони: „Шулејићева 2“ и „Шулејићева 3“ (врх улице Шулејићеве), Језеро, Микуља, Равњак и Кленак као и потрошачи у селу Мала Плана."
+      ],
+      "reason": null,
+      "note": "Део Смед. Паланке трафореони: „Шулејићева 2“ и „Шулејићева 3“ (врх улице Шулејићеве), Језеро, Микуља, Равњак и Кленак као и потрошачи у селу Мала Плана.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

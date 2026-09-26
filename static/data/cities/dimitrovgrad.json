@@ -7,26 +7,22 @@
   },
   "outages": [
     {
-      "id": "fd8ffae3ea3b",
+      "id": "423c4b0213f0",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Димитровград",
       "time": {
         "start": "08:00",
         "end": "14:00"
       },
       "streets": [
-        "Бански До",
-        "Поганово",
-        "Селиште",
-        "Боровско Поље",
-        "Прача",
-        "Било."
+        "Бара",
+        "део села Жељуша"
       ],
       "reason": null,
-      "note": "Бански До,Поганово,Селиште,Боровско Поље,Прача,Било.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+      "note": "Бара, део села Жељуша",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

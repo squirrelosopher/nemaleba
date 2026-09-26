@@ -5,7 +5,33 @@
     "nameLatin": "Bujanovac",
     "branchCyrillic": "Врање"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f460acd3a157",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-27",
+      "areaLabel": "Бујановац",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Божињевац",
+        "Левосоје",
+        "подручје Самољица",
+        "Циглана",
+        "Миграциони Центар",
+        "Цепотина Војска",
+        "фабрика \"Симпо\"",
+        "Погон \"ЗАСТАВА\"",
+        "фабрика \"Светлост\"."
+      ],
+      "reason": null,
+      "note": "Божињевац, Левосоје, подручје Самољица, Циглана, Миграциони Центар, Цепотина Војска, фабрика \"Симпо\", Погон \"ЗАСТАВА\", фабрика \"Светлост\".",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

@@ -7,21 +7,22 @@
   },
   "outages": [
     {
-      "id": "7fc7ef0e1ddb",
+      "id": "9b52aff8bd1e",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Прокупље",
       "time": {
-        "start": "09:00",
-        "end": "13:00"
+        "start": "10:30",
+        "end": "11:30"
       },
       "streets": [
-        "ул.Пасјачка"
+        "Ул.Милентије Поповића",
+        "део ул. Озренска"
       ],
       "reason": null,
-      "note": "ул.Пасјачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+      "note": "Ул.Милентије Поповића, део ул. Озренска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

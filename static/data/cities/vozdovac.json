@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "bcd3157fe7b0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "РАДА НЕИМАРА: 21"
-      ],
-      "reason": null,
-      "note": "РАДА НЕИМАРА: 21,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "64055ec94145",
       "utility": "electricity",
       "kind": "planned",
@@ -38,6 +21,23 @@
       ],
       "reason": null,
       "note": "Насеље ЈАЈИНЦИ: ПАВЛА ЛАБАТА: 26,30-54,58-60,25,29,39А-43,73-73А,87А-95, САВЕ ЈОВАНОВИЋА: 68А,72-80,77-89,95-99, ЗАВОДСКА: ББ,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "34a6e182874e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": "08:30",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеље РИПАЊ: ПУТ ЗА ДРЕНОВАЦ: 4-8,3-7, ПУТ ЗА РАВНИ ГАЈ: 14-18,22,13-17"
+      ],
+      "reason": null,
+      "note": "Насеље РИПАЊ: ПУТ ЗА ДРЕНОВАЦ: 4-8,3-7, ПУТ ЗА РАВНИ ГАЈ: 14-18,22,13-17,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],

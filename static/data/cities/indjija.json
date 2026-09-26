@@ -7,89 +7,38 @@
   },
   "outages": [
     {
-      "id": "91da1286ca19",
+      "id": "1854fd777afa",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-29",
       "areaLabel": "Инђија",
       "time": {
-        "start": "09:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "\"МЕСТО МАРАДИК\r\n• Ул. Вука Караџића од ул.\""
-      ],
-      "reason": null,
-      "note": "\"МЕСТО МАРАДИК\r\n• Ул. Вука Караџића од ул.\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "408669969c40",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
+        "start": "08:30",
         "end": "14:00"
       },
       "streets": [
-        "МЕСТО Н. КАРЛОВЦИ : - Цело насеље"
+        "МЕСТО ЧОРТАНОВЦИ Викенд зона Железничка изнад Железничке станице"
       ],
       "reason": null,
-      "note": "МЕСТО Н. КАРЛОВЦИ : - Цело насеље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "МЕСТО ЧОРТАНОВЦИ Викенд зона Железничка изнад Железничке станице",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     },
     {
-      "id": "c8491b1e78b0",
+      "id": "c7e8ad1571eb",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-29",
       "areaLabel": "Инђија",
       "time": {
-        "start": "09:00",
-        "end": "14:00"
+        "start": "12:00",
+        "end": "13:00"
       },
       "streets": [
-        "МЕСТО Н. КАРЛОВЦИ: Комплет насеље"
+        "МЕСТО ЈАРКОВЦИ"
       ],
       "reason": null,
-      "note": "МЕСТО Н. КАРЛОВЦИ: Комплет насеље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "af04189e64c2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "МЕСТО МАРАДИК\r\n- Ул. Вука Караџића од ул."
-      ],
-      "reason": null,
-      "note": "МЕСТО МАРАДИК\r\n- Ул. Вука Караџића од ул.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2605ee43ec3d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "\"МЕСТО МАРАДИК\r\n- Ул. Вука Караџића од ул.\""
-      ],
-      "reason": null,
-      "note": "\"МЕСТО МАРАДИК\r\n- Ул. Вука Караџића од ул.\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "МЕСТО ЈАРКОВЦИ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,7 +5,59 @@
     "nameLatin": "Bela Palanka",
     "branchCyrillic": "Пирот"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "96601fc19af2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Бела Паланка",
+      "time": {
+        "start": "07:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Горњи Рињ"
+      ],
+      "reason": null,
+      "note": "Горњи Рињ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "05ef4cde577d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Бела Паланка",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Његошева"
+      ],
+      "reason": null,
+      "note": "Његошева",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "e9cd702e4aa7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Бела Паланка",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Стара Пошта"
+      ],
+      "reason": null,
+      "note": "Стара Пошта",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

@@ -5,25 +5,7 @@
     "nameLatin": "Odžaci",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [
-    {
-      "id": "906953d25827",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Оџаци",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "СЕЛЕНЧА: улице Марчакова, Шафарикова, Лењинова, Липа, Чајакова, Чмелникова, М.Тита, Штурова, Јаношикова, И.Л.Рибара, Водовод, Бенешова, Коларова"
-      ],
-      "reason": null,
-      "note": "СЕЛЕНЧА: улице Марчакова, Шафарикова, Лењинова, Липа, Чајакова, Чмелникова, М.Тита, Штурова, Јаношикова, И.Л.Рибара, Водовод, Бенешова, Коларова",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

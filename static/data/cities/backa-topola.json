@@ -7,39 +7,74 @@
   },
   "outages": [
     {
-      "id": "111e6b413c6a",
+      "id": "e9a494484b1c",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Бачка Топола",
       "time": {
-        "start": "09:00",
-        "end": "10:00"
+        "start": "11:00",
+        "end": "13:00"
       },
       "streets": [
-        "Б. Топола - део ПетеФи Сандора",
-        "део Моравицког пута"
+        "Б. Топола - Индустријска и јузно од Индустријске",
+        "Иствана Андреа и јузно од Иствана Андреа",
+        "део 1. маја уице и пијаца"
       ],
       "reason": null,
-      "note": "Б. Топола - део ПетеФи Сандора, део Моравицког пута",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "Б. Топола - Индустријска и јузно од Индустријске, Иствана Андреа и јузно од Иствана Андреа, део 1. маја уице и пијаца",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "4d9b9a85e9ac",
+      "id": "20ce275ba305",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "areaLabel": "Бачка Топола",
       "time": {
-        "start": "13:00",
-        "end": "14:00"
+        "start": "14:00",
+        "end": "18:00"
       },
       "streets": [
-        "Његосево - део Ловценске"
+        "Стара Моравица: Кароља Балинта, Бајшански пут са околином."
       ],
       "reason": null,
-      "note": "Његосево - део Ловценске",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "Стара Моравица: Кароља Балинта, Бајшански пут са околином.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "e7e9617b1cd3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "14:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Ст.Моравица: Бачка, 1.Маја,Грофа С.Иштвана,Миксата Калмана са околином."
+      ],
+      "reason": null,
+      "note": "Ст.Моравица: Бачка, 1.Маја,Грофа С.Иштвана,Миксата Калмана са околином.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "f333def5ddcc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "16:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "у Ст.Моравици у улицама: Тополски пут,Телефонска,Источна са околином."
+      ],
+      "reason": null,
+      "note": "у Ст.Моравици у улицама: Тополски пут,Телефонска,Источна са околином.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

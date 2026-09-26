@@ -5,26 +5,7 @@
     "nameLatin": "Leskovac",
     "branchCyrillic": "Лесковац"
   },
-  "outages": [
-    {
-      "id": "5c952cf55386",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-25",
-      "areaLabel": "Лесковац",
-      "time": {
-        "start": "10:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Дубочица 103",
-        "105 и 107"
-      ],
-      "reason": null,
-      "note": "Дубочица 103, 105 и 107",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",
