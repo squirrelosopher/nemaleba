@@ -7,20 +7,21 @@
   },
   "outages": [
     {
-      "id": "e8291c098bc6",
+      "id": "9b727acf0101",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-27",
       "areaLabel": "Сурчин",
       "time": {
         "start": null,
-        "end": "15:00"
+        "end": "22:00"
       },
       "streets": [
+        "Војвођанска 409",
         "Саве Ковачевића 34 – Бечмен"
       ],
       "reason": null,
-      "note": "Сурчин: Саве Ковачевића 34 – Бечмен",
+      "note": "Сурчин: Војвођанска 409, Саве Ковачевића 34 – Бечмен",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],

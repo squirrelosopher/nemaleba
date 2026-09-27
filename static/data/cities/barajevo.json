@@ -7,20 +7,20 @@
   },
   "outages": [
     {
-      "id": "20a2e4c4fd05",
+      "id": "90283a462b4c",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-27",
       "areaLabel": "Барајево",
       "time": {
         "start": null,
-        "end": "15:00"
+        "end": "22:00"
       },
       "streets": [
-        "Хајдук Вељкова 8 – Гунцате"
+        "Љубљанска 3б – Мељак"
       ],
       "reason": null,
-      "note": "Барајево: Хајдук Вељкова 8 – Гунцате",
+      "note": "Барајево: Љубљанска 3б – Мељак",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],

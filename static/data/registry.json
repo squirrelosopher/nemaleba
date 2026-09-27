@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-27T12:11:01.160Z",
+  "generatedAt": "2026-09-27T14:11:10.303Z",
   "summary": {
     "date": "2026-09-27",
     "electricityOutages": 165,
-    "waterOutages": 12,
+    "waterOutages": 9,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
         "electricityOutages": 31,
-        "waterOutages": 10
+        "waterOutages": 7
       },
       {
         "id": "subotica",
@@ -430,7 +430,7 @@
     {
       "date": "2026-09-27",
       "electricityOutages": 4,
-      "waterOutages": 11
+      "waterOutages": 8
     }
   ],
   "providers": [

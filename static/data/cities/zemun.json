@@ -29,24 +29,6 @@
       "sourceUrl": "https://www.bvk.rs/planirani-radovi/"
     },
     {
-      "id": "f019af71e760",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-27",
-      "areaLabel": "Земун",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Главна 12",
-        "Марије Бурсаћ 34"
-      ],
-      "reason": null,
-      "note": "Земун: Главна 12, Марије Бурсаћ 34",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "7a3b703e6aa5",
       "utility": "electricity",
       "kind": "planned",
@@ -244,7 +226,7 @@
     {
       "date": "2026-09-27",
       "electricityOutages": 0,
-      "waterOutages": 1
+      "waterOutages": 0
     }
   ]
 }
