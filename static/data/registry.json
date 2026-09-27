@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-27T20:11:01.109Z",
+  "generatedAt": "2026-09-27T22:57:49.278Z",
   "summary": {
-    "date": "2026-09-27",
-    "electricityOutages": 165,
-    "waterOutages": 10,
+    "date": "2026-09-28",
+    "electricityOutages": 161,
+    "waterOutages": 1,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
         "electricityOutages": 31,
-        "waterOutages": 8
+        "waterOutages": 1
       },
       {
         "id": "subotica",
@@ -30,15 +30,15 @@
         "waterOutages": 0
       },
       {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 7,
-        "waterOutages": 2
-      },
-      {
         "id": "sremska-mitrovica",
         "nameCyrillic": "Сремска Митровица",
         "electricityOutages": 7,
+        "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 6,
         "waterOutages": 0
       },
       {
@@ -56,12 +56,6 @@
       {
         "id": "novi-pazar",
         "nameCyrillic": "Нови Пазар",
-        "electricityOutages": 4,
-        "waterOutages": 0
-      },
-      {
-        "id": "pirot",
-        "nameCyrillic": "Пирот",
         "electricityOutages": 4,
         "waterOutages": 0
       },
@@ -156,6 +150,12 @@
         "waterOutages": 0
       },
       {
+        "id": "pirot",
+        "nameCyrillic": "Пирот",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
         "id": "svilajnac",
         "nameCyrillic": "Свилајнац",
         "electricityOutages": 2,
@@ -212,12 +212,6 @@
       {
         "id": "blace",
         "nameCyrillic": "Блаце",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "bujanovac",
-        "nameCyrillic": "Бујановац",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -431,6 +425,11 @@
       "date": "2026-09-27",
       "electricityOutages": 4,
       "waterOutages": 9
+    },
+    {
+      "date": "2026-09-28",
+      "electricityOutages": 87,
+      "waterOutages": 0
     }
   ],
   "providers": [

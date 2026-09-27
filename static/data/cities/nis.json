@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "3132494c2747",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-09-20",
-      "areaLabel": "Поповац",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Милета Ђурђановића код броја 98"
-      ],
-      "reason": null,
-      "note": "ПЛАНИРАНИ РАДОВИ У СЕЛУ ПОПОВАЦ недељу 20. септембра планиран је ископ у улици Милета Ђурђановића код броја 98. Због поправке водоводне мреже биће у прекиду водоснабдевањe од 8 до 15 сати на простору села Поповац.",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%bf%d0%bb%d0%b0%d0%bd%d0%b8%d1%80%d0%b0%d0%bd%d0%b8-%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%98%d0%b5%d1%9b%d0%b8-%d0%b2%d0%b8%d0%ba%d0%b5-68/"
-    },
-    {
       "id": "2b53f529838f",
       "utility": "water",
       "kind": "planned",
@@ -1180,6 +1163,11 @@
       "date": "2026-09-27",
       "electricityOutages": 1,
       "waterOutages": 2
+    },
+    {
+      "date": "2026-09-28",
+      "electricityOutages": 6,
+      "waterOutages": 0
     }
   ]
 }
