@@ -5,7 +5,25 @@
     "nameLatin": "Rakovica",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "cec5d391e862",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-27",
+      "areaLabel": "Раковица",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Видиковачки венац 108 б"
+      ],
+      "reason": null,
+      "note": "Раковица: Видиковачки венац 108 б",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
@@ -135,7 +153,7 @@
     {
       "date": "2026-09-27",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

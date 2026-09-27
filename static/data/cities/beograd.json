@@ -112,7 +112,24 @@
       "sourceUrl": "https://www.bvk.rs/planirani-radovi/"
     },
     {
-      "id": "fd210f673d71",
+      "id": "20a2e4c4fd05",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-27",
+      "areaLabel": "Барајево",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Хајдук Вељкова 8 – Гунцате"
+      ],
+      "reason": null,
+      "note": "Барајево: Хајдук Вељкова 8 – Гунцате",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "60ad1f7d4ed6",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-27",
@@ -122,10 +139,97 @@
         "end": "15:00"
       },
       "streets": [
+        "Пашманска 13",
         "Ђурђевданска бб (угао Михољске) – Кумодраж"
       ],
       "reason": null,
-      "note": "Вождовац: Ђурђевданска бб (угао Михољске) – Кумодраж",
+      "note": "Вождовац: Пашманска 13,Ђурђевданска бб (угао Михољске) – Кумодраж",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "f7aa30e5a23e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-27",
+      "areaLabel": "Врачар",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Крунска бб"
+      ],
+      "reason": null,
+      "note": "Врачар: Крунска бб",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "3e49d3451b4d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-27",
+      "areaLabel": "Звездара",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Двадесетог октобра 21 – Мали Мокри Луг"
+      ],
+      "reason": null,
+      "note": "Звездара: Двадесетог октобра 21 – Мали Мокри Луг",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "f019af71e760",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-27",
+      "areaLabel": "Земун",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Главна 12",
+        "Марије Бурсаћ 34"
+      ],
+      "reason": null,
+      "note": "Земун: Главна 12, Марије Бурсаћ 34",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "9ff06708610b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-27",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Карловачке митрополије 9 е – Борча"
+      ],
+      "reason": null,
+      "note": "Палилула: Карловачке митрополије 9 е – Борча",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "cec5d391e862",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-27",
+      "areaLabel": "Раковица",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Видиковачки венац 108 б"
+      ],
+      "reason": null,
+      "note": "Раковица: Видиковачки венац 108 б",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
@@ -694,7 +798,7 @@
     {
       "date": "2026-09-27",
       "electricityOutages": 0,
-      "waterOutages": 1
+      "waterOutages": 7
     }
   ]
 }
