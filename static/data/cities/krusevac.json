@@ -5,25 +5,7 @@
     "nameLatin": "Kruševac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [
-    {
-      "id": "a202262515bd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-26",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Део насељеног места Читлук."
-      ],
-      "reason": null,
-      "note": "Део насељеног места Читлук.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

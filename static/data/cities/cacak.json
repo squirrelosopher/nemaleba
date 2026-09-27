@@ -5,27 +5,7 @@
     "nameLatin": "Čačak",
     "branchCyrillic": "Чачак"
   },
-  "outages": [
-    {
-      "id": "75a6e1634981",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-26",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Потрошачи у делу Прељине",
-        "око АВИА пумпе",
-        "Божовића коса и Јовановићи."
-      ],
-      "reason": null,
-      "note": "Потрошачи у делу Прељине, око АВИА пумпе, Божовића коса и Јовановићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",
