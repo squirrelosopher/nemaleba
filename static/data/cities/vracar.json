@@ -7,7 +7,7 @@
   },
   "outages": [
     {
-      "id": "836bb882512b",
+      "id": "92bc8e244ef7",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-27",
@@ -17,10 +17,11 @@
         "end": "22:00"
       },
       "streets": [
-        "Церска 107"
+        "Церска 107",
+        "Јужни булевар 88"
       ],
       "reason": null,
-      "note": "Врачар: Церска 107",
+      "note": "Врачар: Церска 107, Јужни булевар 88",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
