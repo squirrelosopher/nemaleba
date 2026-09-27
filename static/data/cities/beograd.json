@@ -97,6 +97,23 @@
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
+      "id": "ef8f6d46120c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-27",
+      "areaLabel": "Звездара",
+      "time": {
+        "start": null,
+        "end": "22:00"
+      },
+      "streets": [
+        "Ђевђелијска 47"
+      ],
+      "reason": null,
+      "note": "Звездара: Ђевђелијска 47",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
       "id": "4faa59b90939",
       "utility": "water",
       "kind": "emergency",
@@ -833,7 +850,7 @@
     {
       "date": "2026-09-27",
       "electricityOutages": 0,
-      "waterOutages": 6
+      "waterOutages": 7
     }
   ]
 }
