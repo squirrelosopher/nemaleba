@@ -49,6 +49,35 @@
       "reason": null,
       "note": "Тренутно је у току санација квара на водоводној мрежи на Стејановачком путу и Краљевачкој улици у Руми.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-79/"
+    },
+    {
+      "id": "cd9376c99cc5",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-28",
+      "areaLabel": "Жарковац",
+      "time": null,
+      "streets": [
+        "Румској улици"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у Румској улици у Жарковцу.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-zarkovac-5/"
+    },
+    {
+      "id": "776d64fa74bc",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-28",
+      "areaLabel": "Рума",
+      "time": null,
+      "streets": [
+        "Младена Стојановића",
+        "на Стејановачком путу"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улици Младена Стојановића и на Стејановачком путу у Руми.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-81/"
     }
   ],
   "history": [
@@ -185,7 +214,7 @@
     {
       "date": "2026-09-28",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 2
     }
   ]
 }

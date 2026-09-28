@@ -5,7 +5,22 @@
     "nameLatin": "Irig",
     "branchCyrillic": "Рума"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "236bb390d3a9",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-28",
+      "areaLabel": "Ириг",
+      "time": null,
+      "streets": [
+        "Стевице Гудурића"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улици Стевице Гудурића у Иригу.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-42/"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
@@ -140,7 +155,7 @@
     {
       "date": "2026-09-28",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

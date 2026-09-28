@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T07:11:12.012Z",
+  "generatedAt": "2026-09-28T08:11:11.233Z",
   "summary": {
     "date": "2026-09-28",
-    "electricityOutages": 161,
-    "waterOutages": 25,
+    "electricityOutages": 164,
+    "waterOutages": 36,
     "affected": [
       {
         "id": "beograd",
@@ -24,6 +24,12 @@
         "waterOutages": 0
       },
       {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 6,
+        "waterOutages": 8
+      },
+      {
         "id": "kikinda",
         "nameCyrillic": "Кикинда",
         "electricityOutages": 12,
@@ -33,12 +39,6 @@
         "id": "sremska-mitrovica",
         "nameCyrillic": "Сремска Митровица",
         "electricityOutages": 7,
-        "waterOutages": 0
-      },
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 6,
         "waterOutages": 0
       },
       {
@@ -80,6 +80,12 @@
       {
         "id": "mali-zvornik",
         "nameCyrillic": "Мали Зворник",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -154,6 +160,12 @@
         "nameCyrillic": "Пирот",
         "electricityOutages": 2,
         "waterOutages": 0
+      },
+      {
+        "id": "ruma",
+        "nameCyrillic": "Рума",
+        "electricityOutages": 0,
+        "waterOutages": 2
       },
       {
         "id": "svilajnac",
@@ -244,6 +256,12 @@
         "nameCyrillic": "Зрењанин",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "irig",
+        "nameCyrillic": "Ириг",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "kosjeric",
@@ -434,8 +452,8 @@
     },
     {
       "date": "2026-09-28",
-      "electricityOutages": 87,
-      "waterOutages": 24
+      "electricityOutages": 90,
+      "waterOutages": 35
     }
   ],
   "providers": [
