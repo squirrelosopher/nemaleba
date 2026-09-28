@@ -166,23 +166,6 @@
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
-      "id": "263b88f53481",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-28",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Насеље Дрен (засеок Михаиловићи)."
-      ],
-      "reason": null,
-      "note": "Насеље Дрен (засеок Михаиловићи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "572d550f727d",
       "utility": "electricity",
       "kind": "planned",
@@ -198,7 +181,24 @@
       ],
       "reason": null,
       "note": "Јанка Стајчића 15-25, 2-36.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "263b88f53481",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Насеље Дрен (засеок Михаиловићи)."
+      ],
+      "reason": null,
+      "note": "Насеље Дрен (засеок Михаиловићи).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "38bc245182f7",
@@ -215,7 +215,7 @@
       ],
       "reason": null,
       "note": "ЦЕЉСКА: 3, ЦЕРСКА: 78-80, ДАНИЧАРЕВА: 24-34,42,33-35, ЈОВАНА РАЈИЋА: 16-18,22, САВЕ ТЕКЕЛИЈЕ: 4-10,1,5-9, САЗОНОВА: 64-66,46А,50-62,68-70,74-78,51,55-81, ТИМОЧКА: 6-10,11-15, ВЕЛЕ НИГРИНОВЕ: 2-10,1-3, ВЕЛИМИРА БАТЕ ЖИВОЈИНОВИЋА: 22-26,29, ВИЛОВСКОГ: 10-16, ВУКИЦЕ МИТРОВИЋ: 64,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9f14aa9d9552",
@@ -232,7 +232,7 @@
       ],
       "reason": null,
       "note": "ГОРНИЧЕВСКА: 2-8,12-20,1-23, ГОСПОДАРА ВУЧИЋА: 218-220,235-235, СУБОТИЧКА: 30,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "7a3b703e6aa5",
@@ -249,7 +249,7 @@
       ],
       "reason": null,
       "note": "БРАНКА ПЛЕЋАША: 2-16,20-20,1-23,35, ФИЛИПА КЉАЈИЋА: 2-12,1-13, ГЕТЕОВА: 8-8,12-12,24А-44Б,21-37, КРАЈИШКА: 16А-16Д,20-24,28-28А,32-32Б,29-45, КРАЊСКА: 2,1-5, САВЕ МИХИЋА: 4-10, ШЕВИНА : 28А-48,27-39а, СЛАВИШЕ ВАЈНЕРА: 6-8,1-17, ВОЈНИ ПУТ 2 : 6-10,18-24,32-34,25-25А,33-35,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "60df1984af05",
@@ -266,7 +266,7 @@
       ],
       "reason": null,
       "note": "Насеље КОНАТИЦЕ: БРОЧИШТЕ: ББ,10,102-102Ј,17А-19, ГОРЊИ КРАЈ: 127, Насеље ПОЉАНЕ: ЋОСИЋА КРАЈ: 148-148А,131-131,137,141А, ПАЈИЋА КРАЈ: 94,93-95,99,109, ПОЉАНЕ: 98,112,116-122,126-132,136-138,144,148-150,156,99,105,111-113,119,129,133-135,139,157,183, ПОЉАНЕ ДОЊИ КРАЈ: 31Ц, ПОЉАНЕ ГОРЊИ КРАЈ: 44,113,117-119,125,131Б,159-159А, СЕЛО: 156,93, ШКОЛА: 144А, СРЕДЊИ КРАЈ: 142,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1696173b8369",
@@ -283,7 +283,7 @@
       ],
       "reason": null,
       "note": "МИХАИЛА ШУШКАЛОВИЋА: 13, Насеље ЖАРКОВО: ВОДОВОДСКА: 158-158Г,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a735df55a750",
@@ -300,7 +300,24 @@
       ],
       "reason": null,
       "note": "ДИМИТРИЈА ТУЦОВИЋА: 19-21,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "170276154c0a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-28",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Стрмово (засеок Центар-према Придворици)."
+      ],
+      "reason": null,
+      "note": "Стрмово (засеок Центар-према Придворици).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4ed88307ec39",
@@ -330,24 +347,7 @@
       ],
       "reason": null,
       "note": "Димитрија Туцовића 1,1а,1б,1в,1д, Карађорђева 51,53,Дула Караклајића 30а,30б,30в,30г,32,32а,32б (код старе робне куће).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "170276154c0a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-28",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Стрмово (засеок Центар-према Придворици)."
-      ],
-      "reason": null,
-      "note": "Стрмово (засеок Центар-према Придворици).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "64055ec94145",
@@ -364,7 +364,7 @@
       ],
       "reason": null,
       "note": "Насеље ЈАЈИНЦИ: ПАВЛА ЛАБАТА: 26,30-54,58-60,25,29,39А-43,73-73А,87А-95, САВЕ ЈОВАНОВИЋА: 68А,72-80,77-89,95-99, ЗАВОДСКА: ББ,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2163420ea9e4",
@@ -381,7 +381,7 @@
       ],
       "reason": null,
       "note": "Венчане (засеок Каменица).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ee744a71317d",
@@ -398,7 +398,7 @@
       ],
       "reason": null,
       "note": "ТОШИН БУНАР: 153,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d833697bea85",
@@ -415,7 +415,7 @@
       ],
       "reason": null,
       "note": "Латковић (засеок Кула).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "bfe49eda7d0b",
@@ -432,7 +432,7 @@
       ],
       "reason": null,
       "note": "Насеље ДРЛУПА: ПАРТИЗАНСКИ ПУТ: 2-14,22-24,48,56,1-3А,7-15,23-25,49-51,55, РАТКА ЈЕВИЋА: 2-6,10А-16,20,28А-36,40-42,46-48,1-11,15-17,27-41,45-47, СЕДМОГ ЈУЛА: 2-40А,44-50,56-56Б,62-66А,76,1-25,29А-33А,37-41Б,45А-49А,53Б-55, ВЛАСТИМИРА ВЕСИЋА: 4-4А,8Б-10,14А-26,30-30Г,34-42,48-48А,52-56,60-64А,68-80,84-90,3-3А,7А-21,25-33,41-45,49А-51,57-63,67-71,75-87А, Насеље ДУЧИНА: БОГДАНА МИЛИЈАНОВИЋА: 4,12,16,3-5,9,13-15, ДРАГОСЛАВА МИШИЋА: 4-26,11А-23, ЉУБОМИРА ИВКОВИЋА-ШУЦЕ: 2-4,46А-46Б,52-60Ц,64-70,74А,90А16,1-13,19-21,25-37,41А, Насеље НЕМЕНИКУЋЕ: БРАНЕ АКСЕНТИЈЕВИЋА: 25, ЈАНКА КАТИЋА: , МИЛОВАНА ГЛИШИЋА: 16, Насеље ПАРЦАНИ: КОСМАЈСКА: 32А, Насеље РОГАЧА: АЛЕКСАНДРА НИКОЛИЋА: 2-14, АНДРИЈЕ ХАБУША: ,2-10,3-5,199, БОГОЉУБА ТОДОРОВИЋА: 4,8-16,30,1, БРАНЕ АКСЕНТИЈЕВИЋ: 2-4,16,34-38Б,46,52,62-62А,1,5-19,25,29,33-37,45, БРАТСТВА И ЈЕДИНСТВА: 2-28А,32-46,52-56,62-70,1-15,19-27А,31,35-43, ЧИЧИНА: 6,10,14,18-22,1-5, ЈАНКА КАТИЋА: ,2-12,20,24-28,32,36-38,42,94,5,9-11,15-23,99, КОСМАЈСКА: ,10А-14,18,22-30,34-36,40-52,56-70,76-78,82-92А,98-108,112-120,124-124А,128-132,136,140-150А,154А,158,168,426,15А-15Ц,35-37,43,47,51-63,67-69,73,77,81,87-93,97-99,105-115,123-127,131-141А,147-151,155-155Ц,163-171,175,179-183,193А,425, КОСМАЈСКИ ВЕНАЦ: 34-38А,42А-50Б,54,388,394,39,43,49-53,57А-61,69,83, КОСМАЈСКИХ ПАРТИЗАНА: 2,10-32,220,1-5,9-11,15, ЛОЛЕ РИБАРА: ,2-16,144,164,1-5,15-17А,23, МИЛОСАВА ВЛАЈИЋА: 2,6,10-12,20,250,5-9,15-19,251, ПРОЛЕТЕРСКА: 1-5,9,13, ПРВОМАЈСКА: 2-18,22-28,32-38,42-46,50,54,62,256А,348,376,3,7-11,17-19,27,33,37,41,45-51,55,63А,373-377,381, САВЕ КОВАЧЕВИЋА: 3-5,9-11, СЕДМОГ ЈУЛА: 2-16,32-36,46-48,56,62-66,260,282,294,302-304,1А-9,13,17-31,35-39,43,47-51,283,291,295,303,307, ВЕЉКА ВЛАХОВИЋА: 4-6,462А,3-7,11,15-23,403,421, Насеље СИБНИЦА: ДРАГОЉУБА СТАНИСАВЉЕВИЋА: 1,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "34a6e182874e",
@@ -449,7 +449,7 @@
       ],
       "reason": null,
       "note": "Насеље РИПАЊ: ПУТ ЗА ДРЕНОВАЦ: 4-8,3-7, ПУТ ЗА РАВНИ ГАЈ: 14-18,22,13-17,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "4f7018b26146",
@@ -466,7 +466,7 @@
       ],
       "reason": null,
       "note": "ДР З ИЛИЋ ОБРАДОВИЋ: 4-6, ГЛАСИНАЧКА: 6-12,23-31, МИЛИЋА РАКИЋА: 3-19, ОЛГЕ АЛКАЛАЈ: 2А , УСТАНИЧКА: 172, ВОЈИСЛАВА ИЛИЋА: 151З-151Ж, Насеље М.МОКРИ ЛУГ: МИХАИЛА ТОДОРОВИЋА: 12А-22В, ТЕОДОСИЈЕВА: 26-30,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "e76555ef680c",
@@ -483,7 +483,7 @@
       ],
       "reason": null,
       "note": "ЦАРА ДУШАНА: 3,7-17, ЧУНАРСКА: 1-17, ФРУШКОГОРСКА: 4-12,7-19В/2, ГАРДОШКА: 2-46,1-17, ГРОБЉАНСКА: 2-30,1-19, КЕЈ ОСЛОБОЂЕЊА: 47а-51,55-73Б, ЛАГУМСКА: 18-26,17-23, ЊЕГОШЕВА: 10-36,27-53, СИБИЊАНИН ЈАНКА: 2-24,1, СИНЂЕЛИЋЕВА: 2-48,1-13,19-47а, СТАРА: 2-20А,1-9А, СТРМА: 1-1А, ТЕСНА: 2,1, ВЕСЛАРСКА: 2-4,1, ВИСОКА: 2-40,1-39,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "47e09fb18048",
@@ -500,7 +500,7 @@
       ],
       "reason": null,
       "note": "Насеље ДРЕН: ГОСПОДАРА ВУЧИЋА: 4,18-20,26,32-36,44,48,52,1,13,17,23-31,37-41,47-49, Насеље Грабовац: ГРАБОВАЧКА: 364-366А,376-378,375,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "1b193407afdf",
@@ -517,7 +517,7 @@
       ],
       "reason": null,
       "note": "ЉУБИЦЕ ИВОШЕВИЋ-ДИМИТРОВ: 22-26,30,34-42,19-45, Насеље ЖАРКОВО: АНТОНА АШКЕРЦА: 21-25, ЕМИЛА ЗОЛЕ: 20-22А,30-30А,29-39а, ЈАБЛАНИЧКА: 124-146, МОЈКОВАЧКА: 60-62, ПЕТЕФИЈЕВА: 22,47-57, ПРИШТИНСКА: 10-22,28-44,48-58,19-25,31-49, САНЏАЧКА: 30-54,15-15Б,19-21,25-49, ШАВНИЧКА: 2-6,24,28-58А,5-7,23-23А,45Г-45Г, ВАСИЛИЈА ИВАНОВИЋА: 1,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "aa2c2d0f78a7",
@@ -534,7 +534,7 @@
       ],
       "reason": null,
       "note": "НЕБОЈШИНА: 27-31, РАНКЕОВА: 2-2,3, СКЕРЛИЋЕВА: 2-12А,20-22,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "d5af1f2edd34",
@@ -551,7 +551,7 @@
       ],
       "reason": null,
       "note": "БУЛЕВАР МИХАЈЛА ПУПИНА (Булевар Лењина): 169-171,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "0e342667ac22",
@@ -568,7 +568,7 @@
       ],
       "reason": null,
       "note": "Насеље ПИРОМАН: СВЕТОЗАРА СТАНОЈЕВИЋА-ПЕКА: 13, Насеље Стублине: АУТОБУСКА СТАНИЦА: 96,498, ДОМ: 98,474,504,1Б, ДОРЋОЛА: 114,150,564,117-119А,147-149Б,167Ц,565, КОД ЦРКВЕ: 472, КОД ПОШТЕ: 352,526А,351-351Д,507, КОД РАДИО СТАНИЦЕ: 0,132,103,121,131А,145,167А,177А,1111, КОД ШКОЛЕ: 1111ББ, КОД ЗДРАВСТВЕНЕ СТАНИЦЕ: 106Б,118,113А,117-119А,127,485, КОД ЖЕЛЕЗНИЧКЕ СТАНИЦЕ: 0,144,202-202Б,322-330Г,404,440,484-488,492А-492Ц,496-498,544-544А,1000,57,243,325,373,479А,485-485Г,493-499,521А,527-529Б,539-539, МУЗИЧКА КОЛОНИЈА: 420,495Ц, ПАНТЕЛИЋА КРАЈ: 98Г, СЕЛО: 410,125,129, СИМЕУНОВИЋА КРАЈ: 98Ц, ШКОЛА: 0, СТУБЛИНЕ: ББ,58,64,76-78,84,88,94,98-106А,122,130-136,142,172,182,194-194А,208,330,342,400,404-404,420,440,476,484-486,492,498-500Б,526,532,554-556,590,87,91-93,97-101,105-107,113-123,127,131,135,147,169,191,237,263А,327,377,425,449,473-477,485,491,497,517,521-523,529,555-561,585, Ваљевски пут: 81Ђ, ВАЉЕВСКИ ПУТ - ЦЕНТАР: 84-84А,90-94А,98-100А,106А-120Б,124А-128,132-134,156-156Г,162,178,350А-352А,480-482Б,498-502Б,508-510Е,520,526-526Д,584,1-1ББ,87-89,93А,99,103-105Е,111-119,123А-127,151Б-151Г,167Б,177Б-177Ц,351А-351Б,433,473-481А,495А,501,505-509Ђ,525-527А,543,563-563, ВЕЛИКО ПОЉЕ: 330А, ВУЈКОВИЋА КРАЈ: 147, Насеље Велико поље: КОД ЖЕЛЕЗНИЧКЕ СТАНИЦЕ: 326Б,330Е,342-344Ц,418,51Б,57, СТАМЕНИЋА КРАЈ 1. ДЕО: 322,330Б,342Б-342Г,243А,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "19d386c16ac5",
@@ -585,7 +585,7 @@
       ],
       "reason": null,
       "note": "Насеље СОПОТ: АМИНАЧКА: 4-24,1-11,19, КРАЉА ПЕТРА ПРВОГ: 48А,66,70-74,80,84-96,100-118А,122-126,47-81А,85, ЉУБИСАВА ЈЕРЕМИЋА: 4-10,14-18,22-32Б,270А,314А,7-29А,39-39Ц,333, МИЛОРАДА МАРКОВИЋА-МИЋЕ: 2-12,16,3, ПРОТЕ МАТЕЈЕ НЕНАДОВИЋА: бб,2-12А,1А-3Б,7-9,305, РАДА МАРИЧИЋА: 14А-24,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "83541644be78",
@@ -616,7 +616,7 @@
       ],
       "reason": null,
       "note": "Насеље АЛТИНА: АЛЕКСАНДРА ПОПОВИЋА : 4,12-18,22,1,5-9а,15,19, МУСОРГСКОГ : 4,10-12,3-7,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "beb32fe8990d",
@@ -633,7 +633,7 @@
       ],
       "reason": null,
       "note": "БЛАГАЈСКА: 4-12,13-15, ДАНИЦЕ МАРКОВИЋ: 15, ДЕСЕТ АВИЈАТИЧАРА: 19-25, ГОРЕЊСКА: 11-15, ЛУНЕТА МИЛОВАНОВИЋА: 24-42,46А,49-51, РУДО: 1, УСТАНИЧКА: 214-230,189,197А-197А, ЗИДАРСКА: 2-10,1-7,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "ec34d52f6848",
@@ -650,7 +650,7 @@
       ],
       "reason": null,
       "note": "ДУНАВСКИХ ВИРОВА: 4-14,18-38,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "b2d35a5fba52",
@@ -667,7 +667,7 @@
       ],
       "reason": null,
       "note": "Насеље Велико поље: ЈОВАНА МИЛИЋЕВИЧА: 220А, КОД ШКОЛЕ: 212, НЕМА НАЗИВА УЛИЦЕ: 72Ф,188-190,198,202,208-210,216-230,234,240,187-189,195,201,215,221-231,235, СРЕДЊИ КРАЈ 1. ДЕО: 196А-198,212А-216,220-222А,226-228А,232,27Б,201-201А,211А-213А,217А,221-223А,229Б,233А,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "bf1166e88d39",
@@ -684,7 +684,7 @@
       ],
       "reason": null,
       "note": "КНЕЗА ВИШЕСЛАВА: 142, МИЛОЈА ЗАКИЋА: 48-50, Насеље ЖАРКОВО: ИЛИЈЕ СТОЈАДИНОВИЋА: 6-16,26-28,51-91, РАТКА МИТРОВИЋА: 162-164,167-169,175-181В,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "3b965bb466e7",
@@ -701,7 +701,7 @@
       ],
       "reason": null,
       "note": "Насеље ОБРЕНОВАЦ: ЦАРА ЛАЗАРА: 76А, ЂАЧКОГ БАТАЉОНА: 18-20,42,48,58Д-60Г,66А,49, КОЖАРСКА: 17,21-23,27-29,33-37,43-45, МАЈДАНСКА: 2А,14,9,17,25,33А,37-39,43-45, МИЛОША ОБИЛИЋА: 18,24А-26,30-44,29-29, ОМЛАДИНСКА: 6А-12,106-106,1-5Б,9,13,19,23, ПОСАВСКИХ НОРВЕЖАНА: 38-40,44-68,76-84,25-25Б, ПОТИЋА ВОЋЕ 1.СОКАК: 10-18,1-7А,11,15,23, ПОТИЋА ВОЋЕ 2.СОКАК: 2-6,10,14,18-22Е,64,1-25, СТЕВАНА СИНЂЕЛИЋА: 4-6,20,24,28,38,50,62,27, Насеље ЗВЕЧКА: ПОТИЦА ВОЋЕ 2.ДЕО: 22А, ВОЋЕ ПОТИЋА: 4А,22Б,1111ББ,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "91a2b5805c38",
@@ -718,7 +718,7 @@
       ],
       "reason": null,
       "note": "ОРАХОВСКА: 19, Насеље БЕОГРАД: МАКСИМА ГОРКОГ: 30Е, Насеље Крњача: 16. АПРИЛА: ББ,ББ,28-46,52Б,74,41,49-55Б,65-67Б,71Б-73Б,85,101-103А,107А,111А,117А-117Б,123А, БУКУЉСКА: 1-5, ЦРКВИШТЕ: 42,82Б-82В, ЈАСЕНСКА: 10, ЉУДЕВИТА ШТУРА: 4-14,5А, МАКСИМА ГОРКОГ: 10-22П,60А,70,5А-7В,11Г-11Ј, МИЛИЦЕ ХРЕБЕЉАНОВИЋ: 15-17,43Г, ТИШКА: 8,12,20, Насеље ОВЧА: ЦРКВИШТЕ: 2-6,16Д-20В,26-36,48,60,68,72,76,86,1-7Ђ,21Б-23Е,29,37-37А,43,47А,51-51М,83, ЛИЧКА: 2-32, ЛОЛЕ РИБАРА: 0,10А-20,13А-17,25-41,45-51, ЊЕГОШЕВА: 2-8,22,1Д-33,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

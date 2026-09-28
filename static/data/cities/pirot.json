@@ -7,49 +7,6 @@
   },
   "outages": [
     {
-      "id": "bc70e477d21f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-27",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Залужје",
-        "Извор",
-        "Бериловац",
-        "Ђерам",
-        "насеље 4-ти Километар",
-        "Црни Врх",
-        "Басара",
-        "Планинарски Дом",
-        "ХЕ Пирот"
-      ],
-      "reason": null,
-      "note": "Залужје, Извор, Бериловац, Ђерам, насеље 4-ти Километар, Црни Врх, Басара, Планинарски Дом, ХЕ Пирот",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8b6718bc7dc2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-27",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Ћеримиџиница",
-        "Кубик Транс"
-      ],
-      "reason": null,
-      "note": "Ћеримиџиница, Кубик Транс",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1ab48b280b51",
       "utility": "electricity",
       "kind": "planned",
@@ -64,7 +21,7 @@
       ],
       "reason": null,
       "note": "Темска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1eccbfe5f9e9",
@@ -83,7 +40,7 @@
       ],
       "reason": null,
       "note": "Ореовица, Рудиње, Церова",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
