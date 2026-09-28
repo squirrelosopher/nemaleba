@@ -346,7 +346,7 @@
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
-      "id": "cee128e9d576",
+      "id": "bc1d85eb31ba",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-09-28",
@@ -356,13 +356,29 @@
         "end": "15:00"
       },
       "streets": [
-        "Гандијева 225",
         "Јована Стојисављевића 19 – Нова Галеника",
         "Шангајска 95 – Батајница",
         "Улица мира 58 – Бољевци"
       ],
       "reason": null,
-      "note": "Земун: Гандијева 225, Јована Стојисављевића 19 – Нова Галеника, Шангајска 95 – Батајница, Улица мира 58 – Бољевци",
+      "note": "Земун:  Јована Стојисављевића 19 – Нова Галеника, Шангајска 95 – Батајница, Улица мира 58 – Бољевци",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
+    },
+    {
+      "id": "0767b222a298",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-28",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Гандијева 225"
+      ],
+      "reason": null,
+      "note": "Нови Београд: Гандијева 225",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
@@ -895,7 +911,7 @@
     {
       "date": "2026-09-28",
       "electricityOutages": 14,
-      "waterOutages": 11
+      "waterOutages": 12
     }
   ]
 }
