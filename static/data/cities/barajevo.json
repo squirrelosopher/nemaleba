@@ -7,20 +7,20 @@
   },
   "outages": [
     {
-      "id": "90283a462b4c",
+      "id": "c459c4518a33",
       "utility": "water",
       "kind": "emergency",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "areaLabel": "Барајево",
       "time": {
         "start": null,
-        "end": "22:00"
+        "end": "15:00"
       },
       "streets": [
-        "Љубљанска 3б – Мељак"
+        "Марка Митровића 1 – Вранић"
       ],
       "reason": null,
-      "note": "Барајево: Љубљанска 3б – Мељак",
+      "note": "Барајево: Марка Митровића 1 – Вранић",
       "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     }
   ],
@@ -158,7 +158,7 @@
     {
       "date": "2026-09-28",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

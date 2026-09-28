@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "59c0890b6754",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-27",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Фредерика Шопена 2",
-        "Ђурђевданска бб (угао са Михољском)"
-      ],
-      "reason": null,
-      "note": "Вождовац: Фредерика Шопена 2, Ђурђевданска бб (угао са Михољском)",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "64055ec94145",
       "utility": "electricity",
       "kind": "planned",
@@ -40,6 +22,24 @@
       "reason": null,
       "note": "Насеље ЈАЈИНЦИ: ПАВЛА ЛАБАТА: 26,30-54,58-60,25,29,39А-43,73-73А,87А-95, САВЕ ЈОВАНОВИЋА: 68А,72-80,77-89,95-99, ЗАВОДСКА: ББ,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "74d928ea2349",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-28",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Војводе Степе 276",
+        "Војводе Степе бб – Бањица"
+      ],
+      "reason": null,
+      "note": "Вождовац: Војводе Степе 276, Војводе Степе бб – Бањица",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
       "id": "34a6e182874e",
@@ -193,7 +193,7 @@
     {
       "date": "2026-09-28",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

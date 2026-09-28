@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "ef8f6d46120c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-27",
-      "areaLabel": "Звездара",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Ђевђелијска 47"
-      ],
-      "reason": null,
-      "note": "Звездара: Ђевђелијска 47",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "9f14aa9d9552",
       "utility": "electricity",
       "kind": "planned",
@@ -56,6 +39,23 @@
       "reason": null,
       "note": "ДИМИТРИЈА ТУЦОВИЋА: 19-21,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "da6ed6efb02f",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-28",
+      "areaLabel": "Звездара",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Стевана Синђелића 46 – Мали Мокри Луг"
+      ],
+      "reason": null,
+      "note": "Звездара: Стевана Синђелића 46 – Мали Мокри Луг",
+      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
     },
     {
       "id": "4f7018b26146",
@@ -226,7 +226,7 @@
     {
       "date": "2026-09-28",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
