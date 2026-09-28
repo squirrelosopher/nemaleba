@@ -75,6 +75,91 @@
       "reason": null,
       "note": "у Ст.Моравици у улицама: Тополски пут,Телефонска,Источна са околином.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7e1c2dd226ff",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "00:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Бајша - део Србске"
+      ],
+      "reason": null,
+      "note": "Бајша - део Србске",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "510e12c0c236",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "00:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Торњос - Пусин салас и око њега саласи"
+      ],
+      "reason": null,
+      "note": "Торњос - Пусин салас и око њега саласи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "78cc3a8e8fa0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "08:30",
+        "end": "09:00"
+      },
+      "streets": [
+        "у Б.Соколцу у улицама: Колубарска.."
+      ],
+      "reason": null,
+      "note": "у Б.Соколцу у улицама: Колубарска..",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "b92125e5ff33",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "14:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "у Ст.Моравици у улицама:Петефи Шандора са околином."
+      ],
+      "reason": null,
+      "note": "у Ст.Моравици у улицама:Петефи Шандора са околином.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "baa7fbaa2a6e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "17:00",
+        "end": "18:00"
+      },
+      "streets": [
+        "у Ст.Моравици у улицама:Бајшански пут са околином."
+      ],
+      "reason": null,
+      "note": "у Ст.Моравици у улицама:Бајшански пут са околином.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -39,6 +39,40 @@
       "reason": null,
       "note": "Светог Саве и Карађорђева",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "ec215e79a460",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Осипаоница"
+      ],
+      "reason": null,
+      "note": "Осипаоница",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "af15a5fd7195",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Црвене Армије - од основне школе према економској школи"
+      ],
+      "reason": null,
+      "note": "Црвене Армије - од основне школе према економској школи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

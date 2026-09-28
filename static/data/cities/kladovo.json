@@ -5,7 +5,42 @@
     "nameLatin": "Kladovo",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "6c36f53eb54c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Кладово",
+      "time": {
+        "start": "07:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Засеоци Пропазешће и Велики Пепео"
+      ],
+      "reason": null,
+      "note": "Засеоци Пропазешће и Велики Пепео",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "79cde414610b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Кладово",
+      "time": {
+        "start": "08:30",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеља Стара Брза и Купузиште са припадајућим викенд насељима"
+      ],
+      "reason": null,
+      "note": "Насеља Стара Брза и Купузиште са припадајућим викенд насељима",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-01",

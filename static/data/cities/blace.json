@@ -22,6 +22,42 @@
       "reason": null,
       "note": "Села: Чучале, Пребреза, Сибница и Ђжепница",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "f25dd32109f4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Блаце",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Видовданска",
+        "Стевана Првовенчаног",
+        "Чика Јове Змаја и део Косте Војиновића."
+      ],
+      "reason": null,
+      "note": "Видовданска,Стевана Првовенчаног,Чика Јове Змаја и део Косте Војиновића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "3db12616a186",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Блаце",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Село Брежане."
+      ],
+      "reason": null,
+      "note": "Село Брежане.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

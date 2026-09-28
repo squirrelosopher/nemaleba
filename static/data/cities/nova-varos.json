@@ -1,0 +1,74 @@
+{
+  "city": {
+    "id": "nova-varos",
+    "nameCyrillic": "Нова Варош",
+    "nameLatin": "Nova Varoš",
+    "branchCyrillic": "Ужице"
+  },
+  "outages": [
+    {
+      "id": "7759d774db7a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Нова Варош",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "\"Потрошачи сеоских подручја Негбине",
+        "Сеништа и Драглице \r\n\""
+      ],
+      "reason": null,
+      "note": "\"Потрошачи сеоских подручја Негбине,Сеништа и Драглице \r\n\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "630508099d91",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Нова Варош",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "\"Потрошачи сеоских подручја Бурађе",
+        "Јасенова",
+        "Кућана",
+        "Ојковице",
+        "Јасеновачког Трудова",
+        "Беле Реке \r\n\""
+      ],
+      "reason": null,
+      "note": "\"Потрошачи сеоских подручја Бурађе, Јасенова, Кућана, Ојковице , Јасеновачког Трудова, Беле Реке \r\n\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "9f358a02dd2c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Нова Варош",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "\"Потрошачи сеоских подручја Сеништа \r\n\""
+      ],
+      "reason": null,
+      "note": "\"Потрошачи сеоских подручја Сеништа \r\n\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-28",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

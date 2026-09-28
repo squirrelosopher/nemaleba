@@ -5,7 +5,45 @@
     "nameLatin": "Paraćin",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "c8d7401d3693",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део села Ратаре"
+      ],
+      "reason": null,
+      "note": "Део села Ратаре",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "70aef0df45e7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Део Мајора Марка преко пруге",
+        "део Војводе Степе",
+        "Пикулина",
+        "део Војводе Путника"
+      ],
+      "reason": null,
+      "note": "Део Мајора Марка преко пруге,део Војводе Степе,Пикулина,део Војводе Путника,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

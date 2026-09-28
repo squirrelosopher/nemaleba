@@ -74,6 +74,43 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "b99db963c316",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "купци дела села Бачевци",
+        "Ластра."
+      ],
+      "reason": null,
+      "note": "купци дела села Бачевци ,Ластра.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "b1a4237f041a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Купци дела ул.Ђердапске",
+        "Димитрија Туцовића",
+        "Рађево село"
+      ],
+      "reason": null,
+      "note": "Купци дела ул.Ђердапске ,Димитрија Туцовића , Рађево село",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "2f7387de2cca",
       "utility": "water",
       "kind": "emergency",

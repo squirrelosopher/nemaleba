@@ -23,6 +23,62 @@
       "reason": null,
       "note": "Ул.Милентије Поповића, део ул. Озренска",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "f9d9cc6e3034",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "део Мале Плане-код циглане",
+        "Сува чесма",
+        "Губетин",
+        "фирма \"Тасић-коп\"."
+      ],
+      "reason": null,
+      "note": "део Мале Плане-код циглане,Сува чесма,Губетин,фирма \"Тасић-коп\".",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "100718c1de52",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "ул.Бранка Радичевића",
+        "Ђуре Ђаковића."
+      ],
+      "reason": null,
+      "note": "ул.Бранка Радичевића,Ђуре Ђаковића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "09280deffaca",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "ул.Браће Стојановић",
+        "Гарићка."
+      ],
+      "reason": null,
+      "note": "ул.Браће Стојановић,Гарићка.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

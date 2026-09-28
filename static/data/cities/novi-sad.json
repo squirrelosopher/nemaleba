@@ -407,6 +407,62 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "254b11dca320",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "Булевар Патријарха Павла 25 – 25 Б",
+        "Далматинска 27 – 33 А",
+        "Ћирила и Методија 38."
+      ],
+      "reason": null,
+      "note": "Булевар Патријарха Павла 25 – 25 Б, Далматинска 27 – 33 А, Ћирила и Методија 38.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "371033729936",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Ченеј: Косте Нађа, Ратарска 2, Матице Српске 17, 23, САЛАШИ 180, 185, 186, 188, 190,192."
+      ],
+      "reason": null,
+      "note": "Ченеј: Косте Нађа, Ратарска 2, Матице Српске 17, 23, САЛАШИ 180, 185, 186, 188, 190,192.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f700de0ce5cf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Кисач цело село",
+        "Ирмово",
+        "ИНСТИТУТ БАЧКИ ПЕТРОВАЦ",
+        "ЈУНА."
+      ],
+      "reason": null,
+      "note": "Кисач цело село, Ирмово, ИНСТИТУТ БАЧКИ ПЕТРОВАЦ, ЈУНА.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "adf851e461c6",
       "utility": "water",
       "kind": "emergency",
@@ -422,6 +478,146 @@
       "reason": null,
       "note": "Због планираних радова Електродистрибуције Нови Сад, без воде ће од 8.30 до 14.30 сати бити Кисач и Степановићево.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-utorak-29-9-2026/"
+    },
+    {
+      "id": "d1c922191009",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:45",
+        "end": "09:30"
+      },
+      "streets": [
+        "Митровачка 8 – 10 А",
+        "Которска 9 – 55."
+      ],
+      "reason": null,
+      "note": "Митровачка 8 – 10 А, Которска 9 – 55.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "836b81f43e29",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Цетињска 2",
+        "13",
+        "Шумска 12",
+        "12 А",
+        "12 Б",
+        "бб",
+        "Сопоћанска 9."
+      ],
+      "reason": null,
+      "note": "Цетињска 2, 13, Шумска 12, 12 А, 12 Б, бб, Сопоћанска 9.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "aed2d9d2084d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Анице Савић Ребац"
+      ],
+      "reason": null,
+      "note": "Анице Савић Ребац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "78a45f354435",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "10:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "ЛИДЛ на Новом насељу"
+      ],
+      "reason": null,
+      "note": "ЛИДЛ на Новом насељу",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "5fc71cd39a48",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Десанке Максимовић 13",
+        "15",
+        "Љубице Раваси 25 - 45."
+      ],
+      "reason": null,
+      "note": "Десанке Максимовић 13, 15, Љубице Раваси 25 - 45.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "d0fd2c24185b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "10:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Јована Поповића 8 Б – 24",
+        "13 – 29",
+        "Милана Кома 1 – 13",
+        "2 – 10 Б",
+        "Вршачка 28 А - 48",
+        "25 – 51",
+        "Неимарова",
+        "Рејмонтова 26",
+        "26 А",
+        "АМБУЛАНТА У ВРШАЧКОЈ",
+        "Г30",
+        "ИДЕА",
+        "РЕСТОРАН НИШ."
+      ],
+      "reason": null,
+      "note": "Јована Поповића 8 Б – 24, 13 – 29, Милана Кома 1 – 13, 2 – 10 Б, Вршачка 28 А - 48 , 25 – 51, Неимарова, Рејмонтова 26, 26 А, АМБУЛАНТА У ВРШАЧКОЈ, Г30, ИДЕА, РЕСТОРАН НИШ.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c411fca953cd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "11:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Симе Шолаје 11"
+      ],
+      "reason": null,
+      "note": "Симе Шолаје 11",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

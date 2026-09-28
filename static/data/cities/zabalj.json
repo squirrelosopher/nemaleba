@@ -5,7 +5,25 @@
     "nameLatin": "Žabalj",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "ee6a341e2454",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Жабаљ",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Жабаљ: Милоша Црњанског од Светозара Марковића до С.Милетића."
+      ],
+      "reason": null,
+      "note": "Жабаљ: Милоша Црњанског од Светозара Марковића до С.Милетића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-23",

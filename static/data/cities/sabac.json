@@ -24,6 +24,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "db208a12ef47",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Без напона остају купци на улазу у село Дреновац у трафо реонима ТС Дреновца 3 и Дреновца 10 - Ул. Кнеза Шобе"
+      ],
+      "reason": null,
+      "note": "Без напона остају купци на улазу у село Дреновац у трафо реонима ТС Дреновца 3 и Дреновца 10 - Ул. Кнеза Шобе",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "a19e7650c9ac",
       "utility": "electricity",
       "kind": "planned",
@@ -40,23 +57,6 @@
       ],
       "reason": null,
       "note": "Без напона остају зграде у ул. Хиландарска 1, Косовска 7, П.Смиљанића 20 и 22 и део Ул. В.Мишића од Хиландарске до П.Смиљанића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "db208a12ef47",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Без напона остају купци на улазу у село Дреновац у трафо реонима ТС Дреновца 3 и Дреновца 10 - Ул. Кнеза Шобе"
-      ],
-      "reason": null,
-      "note": "Без напона остају купци на улазу у село Дреновац у трафо реонима ТС Дреновца 3 и Дреновца 10 - Ул. Кнеза Шобе",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],

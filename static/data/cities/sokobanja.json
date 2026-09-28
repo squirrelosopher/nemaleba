@@ -5,7 +5,42 @@
     "nameLatin": "Sokobanja",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "78eb67481df3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Сокобања",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Сокобања ул. Миладина Живановића И Миће Панића"
+      ],
+      "reason": null,
+      "note": "Сокобања ул. Миладина Живановића И Миће Панића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "61289b60ca25",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Сокобања",
+      "time": {
+        "start": "10:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Села: Богдинац, Сесалац, Милушинац И Читлук"
+      ],
+      "reason": null,
+      "note": "Села: Богдинац, Сесалац, Милушинац И Читлук",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-01",

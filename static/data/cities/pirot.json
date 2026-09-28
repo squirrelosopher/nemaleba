@@ -41,6 +41,74 @@
       "reason": null,
       "note": "Ореовица, Рудиње, Церова",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "41d8185b16c2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "део Трга Републике и улице 7. Јули."
+      ],
+      "reason": null,
+      "note": "део Трга Републике и улице 7. Јули.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "40ebbed6d018",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Добри До."
+      ],
+      "reason": null,
+      "note": "Добри До.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a42da3b455b8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "11:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Копривштица."
+      ],
+      "reason": null,
+      "note": "Копривштица.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e22283a33464",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "12:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Рсовци."
+      ],
+      "reason": null,
+      "note": "Рсовци.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

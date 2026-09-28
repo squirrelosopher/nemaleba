@@ -5,7 +5,25 @@
     "nameLatin": "Žitište",
     "branchCyrillic": "Зрењанин"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f0720c34fc62",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Житиште",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Цела насељена места: Српски Итебеј, Нови Итебеј, Међа, Бегејци (Торак), Равни Тополовац и Банатско Вишњићево"
+      ],
+      "reason": null,
+      "note": "Цела насељена места: Српски Итебеј, Нови Итебеј, Међа, Бегејци (Торак), Равни Тополовац и Банатско Вишњићево",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-15",

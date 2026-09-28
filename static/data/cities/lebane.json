@@ -5,7 +5,25 @@
     "nameLatin": "Lebane",
     "branchCyrillic": "Лесковац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "16480c8f74a5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Лебане",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Територија општине Лебане, осим насељених места: Коњино, Ждеглово, Лугаре, Велико и Мало Војловце, Доње Врановце, Бошњаце, Пертате, Ћеновац, Цекавица и Тогачевце"
+      ],
+      "reason": null,
+      "note": "Територија општине Лебане, осим насељених места: Коњино, Ждеглово, Лугаре, Велико и Мало Војловце, Доње Врановце, Бошњаце, Пертате, Ћеновац, Цекавица и Тогачевце",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

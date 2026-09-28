@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "3850bebd5641",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Кикинда",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "ул. Краља Петра И од броја 34 до 50"
-      ],
-      "reason": null,
-      "note": "ул. Краља Петра И од броја 34 до 50",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "88bd1708e74d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Кикинда",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Трг Српских Добровољаца од броја 42 до броја 60"
-      ],
-      "reason": null,
-      "note": "Трг Српских Добровољаца од броја 42 до броја 60",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "480e8fcaaa2d",
       "utility": "electricity",
       "kind": "planned",
@@ -55,23 +21,6 @@
       ],
       "reason": null,
       "note": "Трг Српских Добровољаца од броја 28 до броја 34",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "be798a8112ec",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Кикинда",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "ул Петра Драпшина од ул. Милоша Великог до ул. Чанадске ( непарна страна )"
-      ],
-      "reason": null,
-      "note": "ул Петра Драпшина од ул. Милоша Великог до ул. Чанадске ( непарна страна )",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
@@ -211,6 +160,57 @@
       ],
       "reason": null,
       "note": "ул. Петра Драпшина ( парна страна ) од ул. Милоша Великог до ул.Саве Текелије",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "88bd1708e74d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Трг Српских Добровољаца од броја 42 до броја 60"
+      ],
+      "reason": null,
+      "note": "Трг Српских Добровољаца од броја 42 до броја 60",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "3850bebd5641",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "ул. Краља Петра И од броја 34 до 50"
+      ],
+      "reason": null,
+      "note": "ул. Краља Петра И од броја 34 до 50",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "be798a8112ec",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "ул Петра Драпшина од ул. Милоша Великог до ул. Чанадске ( непарна страна )"
+      ],
+      "reason": null,
+      "note": "ул Петра Драпшина од ул. Милоша Великог до ул. Чанадске ( непарна страна )",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {

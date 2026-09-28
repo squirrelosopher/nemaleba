@@ -1306,6 +1306,146 @@
       "reason": null,
       "note": "Каницова",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "d4107c9e9a85",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "10:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Чехова",
+        "Кнеза Михаила",
+        "Лицика",
+        "Мишарска",
+        "Зоре Радуловић"
+      ],
+      "reason": null,
+      "note": "Чехова, Кнеза Михаила, Лицика, Мишарска, Зоре Радуловић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "e665edd608ba",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "12:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "Хајдук Вељкова",
+        "Кнеза Михаила",
+        "Шантићева",
+        "Станоја Главаша",
+        "Тополиваца"
+      ],
+      "reason": null,
+      "note": "Хајдук Вељкова, Кнеза Михаила, Шантићева, Станоја Главаша, Тополиваца",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "1c5fde02e438",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "10:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Ћирила и Методија",
+        "Др. Јована Ристића",
+        "Др. Радосава Марковића",
+        "Кочићева",
+        "Мајаковског",
+        "Сарајлијина",
+        "Саве Немањића",
+        "Стојана Протића",
+        "Ускочка",
+        "Вишњићева"
+      ],
+      "reason": null,
+      "note": "Ћирила и Методија, Др. Јована Ристића, Др. Радосава Марковића, Кочићева, Мајаковског, Сарајлијина, Саве Немањића, Стојана Протића, Ускочка, Вишњићева",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "58e2d9924557",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "12:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "Атанасија Николића",
+        "Градимира Младеновића",
+        "Грге Јанкеза",
+        "Хаџи Проданова",
+        "Ивана Милутиновића",
+        "Капетана Лукића",
+        "Миодрага Урошевића Артема"
+      ],
+      "reason": null,
+      "note": "Атанасија Николића, Градимира Младеновића, Грге Јанкеза, Хаџи Проданова, Ивана Милутиновића, Капетана Лукића, Миодрага Урошевића Артема",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "7cdaa94a8ee2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "14:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "15 мајевичке бригаде",
+        "6 босанске бригаде",
+        "Авијатичара Петровића",
+        "Бококоторска",
+        "Бреснички до",
+        "Др. Јована Ристића",
+        "Др. Николе Велимировића",
+        "Драгише Лапчевића",
+        "Душана Зелца",
+        "Луја Адамича",
+        "Милића Радовановића",
+        "Миодрага Стефановића",
+        "Наде Наумовић"
+      ],
+      "reason": null,
+      "note": "15 мајевичке бригаде, 6 босанске бригаде, Авијатичара Петровића, Бококоторска, Бреснички до, Др. Јована Ристића, Др. Николе Велимировића, Драгише Лапчевића, Душана Зелца, Луја Адамича, Милића Радовановића, Миодрага Стефановића, Наде Наумовић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "4dabc74a14fd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "17:30",
+        "end": "18:00"
+      },
+      "streets": [
+        "Зорана Ђинђића",
+        "Кумановска",
+        "Саве Ковачевића",
+        "Трг Слободе"
+      ],
+      "reason": null,
+      "note": "Зорана Ђинђића, Кумановска, Саве Ковачевића, Трг Слободе",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

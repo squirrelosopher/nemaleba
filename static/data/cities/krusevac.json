@@ -5,7 +5,80 @@
     "nameLatin": "Kruševac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "0571ff16f857",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Без ел.енергије биће потрошачи насељеног места Оџаци који се напајају са ТС. број 7",
+        "8 и потрошачи насељеног места Горњи Рибник ТС. бро 1",
+        "2",
+        "3."
+      ],
+      "reason": null,
+      "note": "Без ел.енергије биће потрошачи насељеног места Оџаци који се напајају са ТС. број 7, 8 и потрошачи насељеног места Горњи Рибник ТС. бро 1, 2, 3.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "de985420c26b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Део насељеног места Дедина."
+      ],
+      "reason": null,
+      "note": "Део насељеног места Дедина.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "dbaef05b157f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Део насељеног места Паруновац",
+        "Гаглово и насељено место Капиџија."
+      ],
+      "reason": null,
+      "note": "Део насељеног места Паруновац,Гаглово и насељено место Капиџија.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "e2af2022e02d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насељена места Витановац и Јабланица."
+      ],
+      "reason": null,
+      "note": "Насељена места Витановац и Јабланица.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

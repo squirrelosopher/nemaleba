@@ -39,6 +39,27 @@
       "reason": null,
       "note": "Без напона остају купци у селу РАВЊЕ.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "a96b9d872fc2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Богатић",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Без ЕЕ остају купци у улици Дринска",
+        "Лазић промет",
+        "Царина",
+        "Дрина Ривер",
+        "Мачва градња и викенд насеље"
+      ],
+      "reason": null,
+      "note": "Без ЕЕ остају купци у улици Дринска, Лазић промет, Царина, Дрина Ривер, Мачва градња и викенд насеље",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
