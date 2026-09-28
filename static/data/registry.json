@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-28T10:11:04.861Z",
+  "generatedAt": "2026-09-28T12:11:17.995Z",
   "summary": {
     "date": "2026-09-28",
     "electricityOutages": 164,
-    "waterOutages": 39,
+    "waterOutages": 41,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
         "electricityOutages": 31,
-        "waterOutages": 13
+        "waterOutages": 14
       },
       {
         "id": "kragujevac",
@@ -60,6 +60,12 @@
         "waterOutages": 0
       },
       {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 3,
+        "waterOutages": 1
+      },
+      {
         "id": "bela-palanka",
         "nameCyrillic": "Бела Паланка",
         "electricityOutages": 3,
@@ -80,12 +86,6 @@
       {
         "id": "mali-zvornik",
         "nameCyrillic": "Мали Зворник",
-        "electricityOutages": 3,
-        "waterOutages": 0
-      },
-      {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
         "electricityOutages": 3,
         "waterOutages": 0
       },
