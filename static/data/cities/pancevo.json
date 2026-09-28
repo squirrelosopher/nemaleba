@@ -7,20 +7,6 @@
   },
   "outages": [
     {
-      "id": "84520da76c3b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-21",
-      "areaLabel": "Старчево",
-      "time": null,
-      "streets": [
-        "насеље Шумице"
-      ],
-      "reason": null,
-      "note": "Због хаварије на водоводној мрежи без воде је остало насеље Шумице у Старчеву.",
-      "sourceUrl": "https://www.vodovodpa.rs/2026/09/21/21-9-2026/"
-    },
-    {
       "id": "7df795de94d2",
       "utility": "water",
       "kind": "emergency",
@@ -370,6 +356,11 @@
     {
       "date": "2026-09-28",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-29",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

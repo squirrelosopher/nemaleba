@@ -7,18 +7,6 @@
   },
   "outages": [
     {
-      "id": "cabf3282bb23",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-21",
-      "areaLabel": "Ваљево",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због поправке квара на водоводној мрежи у насељу Ослободиоци Ваљева, испред броја 67, без водоснабдевања ће остати потрошачи насеља Ослободиоци Ваљево у периоду од 08 ч. до 15 ч.\n\nМолимо кориснике за разумевање и стрпљење до завршетка радова.",
-      "sourceUrl": "https://vodovodva.co.rs/naselje_oslobodioci_valjeva-2/"
-    },
-    {
       "id": "dcacc20a2127",
       "utility": "electricity",
       "kind": "planned",
@@ -258,6 +246,11 @@
       "date": "2026-09-28",
       "electricityOutages": 3,
       "waterOutages": 0
+    },
+    {
+      "date": "2026-09-29",
+      "electricityOutages": 2,
+      "waterOutages": 1
     }
   ]
 }
