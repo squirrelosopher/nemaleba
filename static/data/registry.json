@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-29T07:10:44.979Z",
+  "generatedAt": "2026-09-29T08:10:48.878Z",
   "summary": {
     "date": "2026-09-29",
-    "electricityOutages": 326,
+    "electricityOutages": 327,
     "waterOutages": 32,
     "affected": [
       {
@@ -48,16 +48,16 @@
         "waterOutages": 0
       },
       {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 10,
+        "waterOutages": 2
+      },
+      {
         "id": "sombor",
         "nameCyrillic": "Сомбор",
         "electricityOutages": 12,
         "waterOutages": 0
-      },
-      {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 10,
-        "waterOutages": 1
       },
       {
         "id": "pancevo",
@@ -120,6 +120,12 @@
         "waterOutages": 0
       },
       {
+        "id": "smederevo",
+        "nameCyrillic": "Смедерево",
+        "electricityOutages": 5,
+        "waterOutages": 0
+      },
+      {
         "id": "uzice",
         "nameCyrillic": "Ужице",
         "electricityOutages": 5,
@@ -158,12 +164,6 @@
       {
         "id": "pozarevac",
         "nameCyrillic": "Пожаревац",
-        "electricityOutages": 4,
-        "waterOutages": 0
-      },
-      {
-        "id": "smederevo",
-        "nameCyrillic": "Смедерево",
         "electricityOutages": 4,
         "waterOutages": 0
       },
@@ -334,12 +334,6 @@
         "nameCyrillic": "Брус",
         "electricityOutages": 1,
         "waterOutages": 0
-      },
-      {
-        "id": "gornji-milanovac",
-        "nameCyrillic": "Горњи Милановац",
-        "electricityOutages": 0,
-        "waterOutages": 1
       },
       {
         "id": "zabalj",
@@ -583,7 +577,7 @@
     },
     {
       "date": "2026-09-29",
-      "electricityOutages": 144,
+      "electricityOutages": 145,
       "waterOutages": 32
     }
   ],
