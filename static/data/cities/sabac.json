@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Петловача улица Железничка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "db208a12ef47",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "Без напона остају купци на улазу у село Дреновац у трафо реонима ТС Дреновца 3 и Дреновца 10 - Ул. Кнеза Шобе",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a19e7650c9ac",
@@ -57,7 +57,24 @@
       ],
       "reason": null,
       "note": "Без напона остају зграде у ул. Хиландарска 1, Косовска 7, П.Смиљанића 20 и 22 и део Ул. В.Мишића од Хиландарске до П.Смиљанића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "6c04e5c0dd26",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-02",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Без ел.енергије остаће купци у делу села Табановић у Ул. Пеке Дапчевић"
+      ],
+      "reason": null,
+      "note": "Без ел.енергије остаће купци у делу села Табановић у Ул. Пеке Дапчевић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

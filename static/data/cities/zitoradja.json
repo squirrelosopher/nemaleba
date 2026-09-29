@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "db00e465d4a4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-28",
-      "areaLabel": "Житорађа",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Села: Грудаш, Дебели Луг, Топоница, Коњарник, Дубово, Каре, Ширине, Асановац, Момчилово"
-      ],
-      "reason": null,
-      "note": "Села: Грудаш, Дебели Луг, Топоница, Коњарник, Дубово, Каре, Ширине, Асановац, Момчилово",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "fa89a487a0d2",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +24,7 @@
       ],
       "reason": null,
       "note": "села:Житорађа,Речица,Лукомир,Влахово.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "440ead4990fe",
@@ -58,7 +41,7 @@
       ],
       "reason": null,
       "note": "Речица(део села према Лукомиру)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

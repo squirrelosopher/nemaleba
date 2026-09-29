@@ -7,42 +7,6 @@
   },
   "outages": [
     {
-      "id": "da76c46fb8b1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-28",
-      "areaLabel": "Свилајнац",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Улица Цара Душана ка сметлишту"
-      ],
-      "reason": null,
-      "note": "Улица Цара Душана ка сметлишту",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1b26cc1dffb1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-28",
-      "areaLabel": "Свилајнац",
-      "time": {
-        "start": "10:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Село Купиновац",
-        "Ђуринац",
-        "Роћевац и део села Бобово"
-      ],
-      "reason": null,
-      "note": "Село Купиновац,Ђуринац,Роћевац и део села Бобово",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e52ebd00e78d",
       "utility": "electricity",
       "kind": "planned",
@@ -57,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део села Луковица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "c16b183c2d34",
@@ -74,7 +38,7 @@
       ],
       "reason": null,
       "note": "Део села Луковица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "81b8e16b0637",
@@ -91,7 +55,7 @@
       ],
       "reason": null,
       "note": "Део села Луковица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "f7928776a4e4",
@@ -108,7 +72,7 @@
       ],
       "reason": null,
       "note": "Део села Луковица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "afbe94a4abac",
@@ -125,7 +89,7 @@
       ],
       "reason": null,
       "note": "Део села Луковица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "20083bf715f5",
@@ -142,7 +106,7 @@
       ],
       "reason": null,
       "note": "Део села Луковица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

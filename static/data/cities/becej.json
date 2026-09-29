@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "49baedd32c3b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-28",
-      "areaLabel": "Бечеј",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Делови улица : Хуњади Јанош, Пролетерска,Трг Братства, Арањи Јаноша,Ударничка, Добровољачка,Срете Главашког,Партизанска,Петровоселски Пут,Потиска,Браће Стефановић,Болманска,Стевана Книћанина,Јована Поповића,Чарнојевићева,Синђелићева,Стевана Книћанина,Милош Црњански и Дожа Ђерђа."
-      ],
-      "reason": null,
-      "note": "Делови улица : Хуњади Јанош, Пролетерска,Трг Братства, Арањи Јаноша,Ударничка, Добровољачка,Срете Главашког,Партизанска,Петровоселски Пут,Потиска,Браће Стефановић,Болманска,Стевана Книћанина,Јована Поповића,Чарнојевићева,Синђелићева,Стевана Книћанина,Милош Црњански и Дожа Ђерђа.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "81cd89896d9e",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +22,7 @@
       ],
       "reason": null,
       "note": "Петровоселски пут од Бензинске пумпе према Бачком Петровом Селу са салашима, Тополски пут од Јожефа Атиле према Бачкој Тополи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "17f36bd9c084",
@@ -56,7 +39,7 @@
       ],
       "reason": null,
       "note": "Бачко Петрово село: Партизанска, Вука Караџића од Змај Јовине према Тиси, Теодора Илића Чешљара од Змај Јовине према Тиси, Душана Нонина, Омладинска од Змај Јовине према Тиси, Благоја Бранчића од Змај Јовине према Тиси, Трг Ослобођења, Др. Имре Киша од Имре Цироки Фетера према Тиси, Др. Петера Ђетваија, Гаврила Принципа, Светозара Марковића, Ади Ендре, Арпада Балажа, Пеце Ференца, Радничка, Алексе Шантића, Петефи Шандора, Јокаи Мора, Симе Пантића, Бицок Кароља, Браће Мајор, Димитрија Гагића, Речо Јаноша, Петра Ташина, Патријаха Вићентија Проданова, Дожа Ђерђа, Имре Цироки Фетера од Омладинске до Бранка Бајића и од Др. Имреа Киша до Светозара Марковића, Николе Тесле од Партизанске до Бранка Бајића и од Др. Петера Ђетваија до Арпада Балажа, Змај Јовина од Партизанске до Бранка Бајића и од Др. Петера Ђетваија до Арпада Балажа, Слободе од Др. Имре Киша до краја (према Молу), Владимира Назора од Др. Петера Ђетваија до Радничке, Лазе Костића од Др Имреа Киша до Арпад Балажа, Пушкинова од Гаврила Принципа до Арпада Балажа.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d936e0a85c45",
@@ -73,7 +56,7 @@
       ],
       "reason": null,
       "note": "-       улица Јожефа Атиле",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "6f78089fec70",
@@ -90,7 +73,7 @@
       ],
       "reason": null,
       "note": "-       улица Слободе од Вука Караџића до Др. Имреа Киша",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "fcc2228bb8ac",
@@ -107,7 +90,7 @@
       ],
       "reason": null,
       "note": "-       Владимира Назора од Теодора Илића Чешљара до Др. Петера Ђетваија",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "67d741a2f3a7",
@@ -124,7 +107,7 @@
       ],
       "reason": null,
       "note": "-       улица Пушкинова од Панте Поповића до Др. Петера Ђетваија",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "d70009c0ed31",
@@ -141,7 +124,7 @@
       ],
       "reason": null,
       "note": "-       улица Бранка Радичевића од Јожефа Атиле до Гаврила Принципа",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "da1489f25f09",
@@ -158,7 +141,7 @@
       ],
       "reason": null,
       "note": "улица Вука Караџића од Слободе до Змај Јовине",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "56f5964e4a73",
@@ -175,7 +158,7 @@
       ],
       "reason": null,
       "note": "-       улица Имреа Цироки Фетера од Благоја Бранчића до Др. Имреа Киша",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "e5184075d217",
@@ -192,7 +175,7 @@
       ],
       "reason": null,
       "note": "-       улица Николе Тесле од Благоја Бранчића до Др Петера Ђетваија",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "02e930a9495e",
@@ -209,7 +192,7 @@
       ],
       "reason": null,
       "note": "Бачко Петрово село:   Макади",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "dfe09d3d7607",
@@ -226,7 +209,7 @@
       ],
       "reason": null,
       "note": "-       улица Др. Имреа Киша од Имре Цироки Фетера до Макадија",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "d122a2a6cb70",
@@ -243,7 +226,7 @@
       ],
       "reason": null,
       "note": "-       улица Змај Јовина од Благоја Бранчића до Др. Петера Ђетваија",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "b1107c1405bb",
@@ -260,7 +243,7 @@
       ],
       "reason": null,
       "note": "-       улица Благоја Бранчића од Змај Јовине до Јаше Томића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "c6e51a01d4af",
@@ -277,7 +260,7 @@
       ],
       "reason": null,
       "note": "-       улица Панте Поповића од Слободе до Јаше Томића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "8f979f0fc187",
@@ -294,7 +277,7 @@
       ],
       "reason": null,
       "note": "-       улица Теодора Илића Чешљара од Змај Јовине до Шаму Михаља",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "75875ad3d0dd",
@@ -311,7 +294,7 @@
       ],
       "reason": null,
       "note": "-       улица Омладинска од Змај Јовине до Лазе Костића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "a5f75bfaee62",
@@ -343,7 +326,7 @@
       ],
       "reason": null,
       "note": "-       улице Шаму Михаља, Браће Мајшаи, Бранислава Нушића, Стевана Сремца, Његошева, Максима Горког, Јаше Томића, Ђуре Јакшића, Тиме Ковачева, Браће Мајшаи, Раб Ференца, Барањи Јаноша, Мајор Јаноша, Зупчик Јаноша, Стојана Воргића, Јована Поповића Републиканска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

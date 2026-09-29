@@ -22,7 +22,7 @@
       ],
       "reason": null,
       "note": "\"Потрошачи сеоских подручја Негбине,Сеништа и Драглице \r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "630508099d91",
@@ -44,7 +44,7 @@
       ],
       "reason": null,
       "note": "\"Потрошачи сеоских подручја Бурађе, Јасенова, Кућана, Ојковице , Јасеновачког Трудова, Беле Реке \r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "9f358a02dd2c",
@@ -61,6 +61,40 @@
       ],
       "reason": null,
       "note": "\"Потрошачи сеоских подручја Сеништа \r\n\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "96bc93133b58",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-02",
+      "areaLabel": "Нова Варош",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "\"Потрошачи сеоских подручја МЗ Радоиње и МЗ Рутоши \r\n\""
+      ],
+      "reason": null,
+      "note": "\"Потрошачи сеоских подручја МЗ Радоиње и МЗ Рутоши \r\n\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "3c7afbf3f56c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-02",
+      "areaLabel": "Нова Варош",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "\"Потрошачи сеоских подручја МЗ Амзићи \r\n\""
+      ],
+      "reason": null,
+      "note": "\"Потрошачи сеоских подручја МЗ Амзићи \r\n\"",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],

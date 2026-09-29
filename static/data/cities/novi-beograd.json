@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "ee744a71317d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-28",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": "10:00",
-        "end": "10:30"
-      },
-      "streets": [
-        "ТОШИН БУНАР: 153"
-      ],
-      "reason": null,
-      "note": "ТОШИН БУНАР: 153,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "3735b6b0e99c",
       "utility": "water",
       "kind": "emergency",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "БУЛЕВАР МИХАЈЛА ПУПИНА (Булевар Лењина): 169-171,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

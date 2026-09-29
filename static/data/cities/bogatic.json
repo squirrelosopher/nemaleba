@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "6897a639daa4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-28",
-      "areaLabel": "Богатић",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Без напона остају купци у селу БАДОВИНЦИ."
-      ],
-      "reason": null,
-      "note": "Без напона остају купци у селу БАДОВИНЦИ.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "7b24a01e925c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-28",
-      "areaLabel": "Богатић",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Без напона остају купци у селу РАВЊЕ."
-      ],
-      "reason": null,
-      "note": "Без напона остају купци у селу РАВЊЕ.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a96b9d872fc2",
       "utility": "electricity",
       "kind": "planned",
@@ -59,7 +25,7 @@
       ],
       "reason": null,
       "note": "Без ЕЕ остају купци у улици Дринска, Лазић промет, Царина, Дрина Ривер, Мачва градња и викенд насеље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
