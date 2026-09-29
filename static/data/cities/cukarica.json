@@ -7,25 +7,6 @@
   },
   "outages": [
     {
-      "id": "c7d53df56058",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-28",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Жарковачка бб (угао Благоја Паровића)",
-        "Новице Домазета 2 – Умка",
-        "Ђуре Даничића 17 – Умка"
-      ],
-      "reason": null,
-      "note": "Чукарица: Жарковачка бб (угао Благоја Паровића), Новице Домазета 2 – Умка, Ђуре Даничића 17 – Умка",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "1b193407afdf",
       "utility": "electricity",
       "kind": "planned",

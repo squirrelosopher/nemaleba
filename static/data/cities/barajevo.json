@@ -5,25 +5,7 @@
     "nameLatin": "Barajevo",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "65a59e0f9146",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-28",
-      "areaLabel": "Барајево",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Милосава Ђорића-Зоке 12 – Вранић"
-      ],
-      "reason": null,
-      "note": "Барајево: Милосава Ђорића-Зоке 12 – Вранић",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

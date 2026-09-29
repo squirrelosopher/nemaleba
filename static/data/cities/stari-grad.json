@@ -5,25 +5,7 @@
     "nameLatin": "Stari grad",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "d57e12a61405",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-28",
-      "areaLabel": "Стари град",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Палмотићева 28"
-      ],
-      "reason": null,
-      "note": "Стари град: Палмотићева 28",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "ffe8532a9c30",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-28",
-      "areaLabel": "Звездара",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Црвена звезда 4 – Мали Мокри Луг"
-      ],
-      "reason": null,
-      "note": "Звездара: Црвена звезда 4 – Мали Мокри Луг",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "4f7018b26146",
       "utility": "electricity",
       "kind": "planned",

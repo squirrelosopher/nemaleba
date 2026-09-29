@@ -5,25 +5,7 @@
     "nameLatin": "Savski venac",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "9874386c04b9",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-28",
-      "areaLabel": "Савски венац",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Рашка бб (код касарне Бањица) – Дедиње"
-      ],
-      "reason": null,
-      "note": "Савски венац:  Рашка бб (код касарне Бањица) – Дедиње",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

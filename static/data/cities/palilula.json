@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "a2a76819b653",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-28",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Слободана Јовановића 8 – Вишњичка бања",
-        "Преливачка бб (угао Братства и јединства) – Борча"
-      ],
-      "reason": null,
-      "note": "Палилула: Слободана Јовановића 8 – Вишњичка бања, Преливачка бб (угао Братства и јединства) – Борча",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "91a2b5805c38",
       "utility": "electricity",
       "kind": "planned",

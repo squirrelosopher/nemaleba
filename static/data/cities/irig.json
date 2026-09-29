@@ -19,6 +19,20 @@
       "reason": null,
       "note": "Тренутно је у току санација квара на водоводној мрежи у улици Стевице Гудурића у Иригу.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-42/"
+    },
+    {
+      "id": "0907d076018e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-29",
+      "areaLabel": "Ириг",
+      "time": null,
+      "streets": [
+        "Иво Лоле Рибара"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улици Иво Лоле Рибара у Иригу.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-43/"
     }
   ],
   "history": [
@@ -160,7 +174,7 @@
     {
       "date": "2026-09-29",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

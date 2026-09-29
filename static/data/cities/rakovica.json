@@ -5,26 +5,7 @@
     "nameLatin": "Rakovica",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "f79fccf85bf6",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-28",
-      "areaLabel": "Раковица",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Варешка бб (код кафане Кестен)",
-        "Ратка Софијанића 28 – Авала град"
-      ],
-      "reason": null,
-      "note": "Раковица:  Варешка бб (код кафане Кестен), Ратка Софијанића 28 – Авала град",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

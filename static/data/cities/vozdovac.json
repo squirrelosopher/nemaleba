@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "0ac3b05f0904",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-28",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Јакова Галуса 2 – Јајинци",
-        "Пут за Мандића крај 28 – Рипањ"
-      ],
-      "reason": null,
-      "note": "Вождовац: Јакова Галуса 2 – Јајинци, Пут за Мандића крај 28 – Рипањ",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "34a6e182874e",
       "utility": "electricity",
       "kind": "planned",

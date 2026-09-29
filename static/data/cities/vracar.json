@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "e111ae76240e",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-28",
-      "areaLabel": "Врачар",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Цара Николаја Другог 37"
-      ],
-      "reason": null,
-      "note": "Врачар: Цара Николаја Другог 37",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "aa2c2d0f78a7",
       "utility": "electricity",
       "kind": "planned",

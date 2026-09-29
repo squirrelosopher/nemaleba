@@ -5,25 +5,7 @@
     "nameLatin": "Grocka",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "9ad2673037ef",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-28",
-      "areaLabel": "Гроцка",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Палих бораца 105 – Винча"
-      ],
-      "reason": null,
-      "note": "Гроцка: Палих бораца 105 – Винча",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

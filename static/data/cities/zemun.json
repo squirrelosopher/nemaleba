@@ -7,25 +7,6 @@
   },
   "outages": [
     {
-      "id": "3be170dbadfc",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-28",
-      "areaLabel": "Земун",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Николе Тесле 4",
-        "Симеона Кончаревића 28а – Нова Галеника",
-        "Стојана Дечермића бб (угао Павла Вујисића)"
-      ],
-      "reason": null,
-      "note": "Земун: Николе Тесле 4, Симеона Кончаревића 28а – Нова Галеника, Стојана Дечермића бб (угао Павла Вујисића)",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    },
-    {
       "id": "e76555ef680c",
       "utility": "electricity",
       "kind": "planned",

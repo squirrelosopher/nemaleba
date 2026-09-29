@@ -5,25 +5,7 @@
     "nameLatin": "Surčin",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "3242f9b0bfee",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-28",
-      "areaLabel": "Сурчин",
-      "time": {
-        "start": null,
-        "end": "22:00"
-      },
-      "streets": [
-        "Рашина бара 20 – Прогар"
-      ],
-      "reason": null,
-      "note": "Сурчин: Рашина бара 20 – Прогар",
-      "sourceUrl": "https://www.bvk.rs/kvarovi-na-mrezi/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

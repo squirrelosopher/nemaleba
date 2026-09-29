@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T06:10:48.150Z",
+  "generatedAt": "2026-09-29T07:10:44.979Z",
   "summary": {
     "date": "2026-09-29",
     "electricityOutages": 326,
-    "waterOutages": 18,
+    "waterOutages": 32,
     "affected": [
       {
         "id": "kula",
@@ -34,6 +34,12 @@
         "nameCyrillic": "Суботица",
         "electricityOutages": 17,
         "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 6,
+        "waterOutages": 9
       },
       {
         "id": "kikinda",
@@ -86,12 +92,6 @@
       {
         "id": "mali-zvornik",
         "nameCyrillic": "Мали Зворник",
-        "electricityOutages": 6,
-        "waterOutages": 0
-      },
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
         "electricityOutages": 6,
         "waterOutages": 0
       },
@@ -210,6 +210,12 @@
         "waterOutages": 0
       },
       {
+        "id": "ruma",
+        "nameCyrillic": "Рума",
+        "electricityOutages": 0,
+        "waterOutages": 3
+      },
+      {
         "id": "smederevska-palanka",
         "nameCyrillic": "Смедеревска Паланка",
         "electricityOutages": 3,
@@ -318,6 +324,12 @@
         "waterOutages": 0
       },
       {
+        "id": "bor",
+        "nameCyrillic": "Бор",
+        "electricityOutages": 0,
+        "waterOutages": 1
+      },
+      {
         "id": "brus",
         "nameCyrillic": "Брус",
         "electricityOutages": 1,
@@ -352,6 +364,12 @@
         "nameCyrillic": "Зрењанин",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "irig",
+        "nameCyrillic": "Ириг",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "knjazevac",
@@ -566,7 +584,7 @@
     {
       "date": "2026-09-29",
       "electricityOutages": 144,
-      "waterOutages": 18
+      "waterOutages": 32
     }
   ],
   "providers": [
