@@ -5,7 +5,42 @@
     "nameLatin": "Jagodina",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "897e5bd80b9f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Јагодина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Од центра Ракитова према Кончареву"
+      ],
+      "reason": null,
+      "note": "Од центра Ракитова према Кончареву",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a215ebd5a1fb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Јагодина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део села Лозовик"
+      ],
+      "reason": null,
+      "note": "Део села Лозовик",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

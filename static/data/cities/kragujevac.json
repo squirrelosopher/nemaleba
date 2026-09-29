@@ -1327,6 +1327,40 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     },
     {
+      "id": "cb6309263c63",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-02",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Радови на трафостаници"
+      ],
+      "reason": null,
+      "note": "Радови на трафостаници",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "6d6f8f7a8ff1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-02",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Грошница - Дом"
+      ],
+      "reason": null,
+      "note": "Грошница - Дом",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
       "id": "ad30f35b65d9",
       "utility": "electricity",
       "kind": "planned",

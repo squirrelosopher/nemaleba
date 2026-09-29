@@ -535,6 +535,23 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-utorak-29-9-2026/"
     },
     {
+      "id": "cb639eeb73cd",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-29",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица Васе Стајића и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Васе Стајића и околне улице у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-utorak-29-9-2026/"
+    },
+    {
       "id": "70bc8d1af4f9",
       "utility": "water",
       "kind": "emergency",
@@ -691,7 +708,7 @@
     {
       "date": "2026-09-29",
       "electricityOutages": 10,
-      "waterOutages": 3
+      "waterOutages": 4
     }
   ]
 }

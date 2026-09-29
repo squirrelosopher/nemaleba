@@ -5,7 +5,79 @@
     "nameLatin": "Ćuprija",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "4ced33ca6b41",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "део Сења код мотела и игралишта",
+        "Манастир Раваница и викенд насеље Биковац"
+      ],
+      "reason": null,
+      "note": "део Сења код мотела и игралишта,Манастир Раваница и викенд насеље Биковац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "9cec72db8d84",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "18:00"
+      },
+      "streets": [
+        "део села Доњи Мајур према пружном прелазу",
+        "Гиљу и продавници."
+      ],
+      "reason": null,
+      "note": "део села Доњи Мајур према пружном прелазу,Гиљу и продавници.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "83376425f454",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "11:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Војни полигон Пасуљанске ливаде и ловачки дом на Брезовици"
+      ],
+      "reason": null,
+      "note": "Војни полигон Пасуљанске ливаде и ловачки дом на Брезовици",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "94a122520419",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "18:00"
+      },
+      "streets": [
+        "део села Доњи Мајур према пружном прелазу",
+        "Гиљу и продавници."
+      ],
+      "reason": null,
+      "note": "део села Доњи Мајур према пружном прелазу,Гиљу и продавници.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",

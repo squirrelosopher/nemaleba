@@ -1,6 +1,6 @@
 {
   "eps-distribucija": {
-    "entries": 327,
+    "entries": 374,
     "lastNonEmpty": "2026-09-29",
     "lastComplete": "2026-09-29"
   },
@@ -15,7 +15,7 @@
     "lastComplete": "2026-09-29"
   },
   "jkp-vik-novi-sad": {
-    "entries": 56,
+    "entries": 57,
     "lastNonEmpty": "2026-09-29",
     "lastComplete": "2026-09-29"
   },
@@ -88,11 +88,8 @@
     "lastComplete": "2026-09-29"
   },
   "jkp-vodovod-cacak": {
-    "entries": 0,
+    "entries": 2,
     "lastNonEmpty": "2026-09-29",
-    "unreadable": [
-      "fetch failed for https://vodovodca.rs/wp-json/wp/v2/posts?categories=3&per_page=12&_fields=link,date,title,content"
-    ],
     "lastComplete": "2026-09-29"
   }
 }

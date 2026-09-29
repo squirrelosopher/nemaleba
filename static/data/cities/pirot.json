@@ -73,6 +73,45 @@
       "reason": null,
       "note": "Рсовци.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "b794076abe19",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Буково",
+        "Врело",
+        "Брлог",
+        "Долкинце",
+        "Јеловица",
+        "Широке Луке"
+      ],
+      "reason": null,
+      "note": "Буково, Врело, Брлог, Долкинце, Јеловица, Широке Луке",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "0528a1cf715a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "11:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Део улице Козарачке"
+      ],
+      "reason": null,
+      "note": "Део улице Козарачке",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

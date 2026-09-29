@@ -173,6 +173,23 @@
       "reason": null,
       "note": "део улице Војводе Гојка;",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "bac460b439de",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део насеља Доње Власе"
+      ],
+      "reason": null,
+      "note": "Део насеља Доње Власе",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
