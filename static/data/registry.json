@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T09:10:49.429Z",
+  "generatedAt": "2026-09-29T09:46:34.490Z",
   "summary": {
     "date": "2026-09-29",
     "electricityOutages": 327,
-    "waterOutages": 32,
+    "waterOutages": 33,
     "affected": [
       {
         "id": "kula",
@@ -42,16 +42,16 @@
         "waterOutages": 9
       },
       {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 10,
+        "waterOutages": 3
+      },
+      {
         "id": "kikinda",
         "nameCyrillic": "Кикинда",
         "electricityOutages": 12,
         "waterOutages": 0
-      },
-      {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 10,
-        "waterOutages": 2
       },
       {
         "id": "sombor",
@@ -578,7 +578,7 @@
     {
       "date": "2026-09-29",
       "electricityOutages": 145,
-      "waterOutages": 32
+      "waterOutages": 33
     }
   ],
   "providers": [
