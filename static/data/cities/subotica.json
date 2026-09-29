@@ -143,20 +143,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "8544e1094bd6",
+      "id": "dd609bcba16d",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-09-30",
       "areaLabel": "Суботица",
       "time": {
         "start": "09:00",
-        "end": "12:00"
+        "end": "10:00"
       },
       "streets": [
-        "Кањижа: Љиљана,Козарска,Сенћанска (од Сплитске до Љиљана), Сплитска (од Барањске према риту),Расадник,Водовод,Зелени венац (од Војводе Путника до Бањског венца),Ливадска,Танчић Михаља,Нушићева,Боре Станковића,Хатерем."
+        "Мале Пијаце: Листова."
       ],
       "reason": null,
-      "note": "Кањижа: Љиљана,Козарска,Сенћанска (од Сплитске до Љиљана), Сплитска (од Барањске према риту),Расадник,Водовод,Зелени венац (од Војводе Путника до Бањског венца),Ливадска,Танчић Михаља,Нушићева,Боре Станковића,Хатерем.",
+      "note": "Мале Пијаце: Листова.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
@@ -177,23 +177,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "dd609bcba16d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Мале Пијаце: Листова."
-      ],
-      "reason": null,
-      "note": "Мале Пијаце: Листова.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "fb614a556e0e",
       "utility": "electricity",
       "kind": "planned",
@@ -208,6 +191,23 @@
       ],
       "reason": null,
       "note": "у Суботици у улициама: Загорска,Сплитска:Радојке Лакић,Јесеничка,Исидоре Секулић,Титоградска,Радановац салаши,Мали Радановац салаши,Кирешка од бр.117 до 162,Јована Дучића,Јелене Ћетковић,10 Новембра,Северна,Ђевђелијска,Мајшански пут од 192-215 са околином.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "8544e1094bd6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Суботица",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Кањижа: Љиљана,Козарска,Сенћанска (од Сплитске до Љиљана), Сплитска (од Барањске према риту),Расадник,Водовод,Зелени венац (од Војводе Путника до Бањског венца),Ливадска,Танчић Михаља,Нушићева,Боре Станковића,Хатерем."
+      ],
+      "reason": null,
+      "note": "Кањижа: Љиљана,Козарска,Сенћанска (од Сплитске до Љиљана), Сплитска (од Барањске према риту),Расадник,Водовод,Зелени венац (од Војводе Путника до Бањског венца),Ливадска,Танчић Михаља,Нушићева,Боре Станковића,Хатерем.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {

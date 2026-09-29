@@ -41,23 +41,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "3a76b9bb8976",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "М.ТИТА 126-148"
-      ],
-      "reason": null,
-      "note": "М.ТИТА 126-148",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
-    },
-    {
       "id": "1e30b5fa9806",
       "utility": "electricity",
       "kind": "planned",
@@ -106,6 +89,23 @@
       ],
       "reason": null,
       "note": "БАЧКА 15-29 И 22-54 И ББ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "3a76b9bb8976",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "М.ТИТА 126-148"
+      ],
+      "reason": null,
+      "note": "М.ТИТА 126-148",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {

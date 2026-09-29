@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T12:10:48.421Z",
+  "generatedAt": "2026-09-29T14:10:46.356Z",
   "summary": {
     "date": "2026-09-29",
-    "electricityOutages": 374,
-    "waterOutages": 35,
+    "electricityOutages": 385,
+    "waterOutages": 36,
     "affected": [
       {
         "id": "kula",
@@ -14,7 +14,7 @@
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 29,
+        "electricityOutages": 28,
         "waterOutages": 2
       },
       {
@@ -24,9 +24,15 @@
         "waterOutages": 11
       },
       {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 19,
+        "waterOutages": 4
+      },
+      {
         "id": "becej",
         "nameCyrillic": "Бечеј",
-        "electricityOutages": 18,
+        "electricityOutages": 19,
         "waterOutages": 0
       },
       {
@@ -40,12 +46,6 @@
         "nameCyrillic": "Суботица",
         "electricityOutages": 17,
         "waterOutages": 0
-      },
-      {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 10,
-        "waterOutages": 4
       },
       {
         "id": "kikinda",
@@ -270,6 +270,12 @@
         "waterOutages": 0
       },
       {
+        "id": "aleksinac",
+        "nameCyrillic": "Алексинац",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
         "id": "bela-palanka",
         "nameCyrillic": "Бела Паланка",
         "electricityOutages": 2,
@@ -278,6 +284,12 @@
       {
         "id": "zajecar",
         "nameCyrillic": "Зајечар",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "zrenjanin",
+        "nameCyrillic": "Зрењанин",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -318,12 +330,6 @@
         "waterOutages": 0
       },
       {
-        "id": "aleksinac",
-        "nameCyrillic": "Алексинац",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "backi-petrovac",
         "nameCyrillic": "Бачки Петровац",
         "electricityOutages": 1,
@@ -354,6 +360,12 @@
         "waterOutages": 0
       },
       {
+        "id": "gornji-milanovac",
+        "nameCyrillic": "Горњи Милановац",
+        "electricityOutages": 0,
+        "waterOutages": 1
+      },
+      {
         "id": "despotovac",
         "nameCyrillic": "Деспотовац",
         "electricityOutages": 1,
@@ -374,12 +386,6 @@
       {
         "id": "zitiste",
         "nameCyrillic": "Житиште",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "zrenjanin",
-        "nameCyrillic": "Зрењанин",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -595,8 +601,8 @@
     },
     {
       "date": "2026-09-29",
-      "electricityOutages": 145,
-      "waterOutages": 34
+      "electricityOutages": 144,
+      "waterOutages": 35
     }
   ],
   "providers": [
@@ -1347,6 +1353,12 @@
       "nameCyrillic": "Петровац",
       "nameLatin": "Petrovac",
       "branchCyrillic": "Пожаревац"
+    },
+    {
+      "id": "petrovaradin",
+      "nameCyrillic": "Петроварадин",
+      "nameLatin": "Petrovaradin",
+      "branchCyrillic": "Нови Сад"
     },
     {
       "id": "pirot",

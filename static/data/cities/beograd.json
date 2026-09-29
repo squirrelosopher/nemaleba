@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "24739f665173",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Насеље Велики Црљени: Рударско насеље,Ранка Никетића,Патријарха Павла,Царице Милице,део улице 13.Пролетерске (засеок Рудничка колонија)."
-      ],
-      "reason": null,
-      "note": "Насеље Велики Црљени: Рударско насеље,Ранка Никетића,Патријарха Павла,Царице Милице,део улице 13.Пролетерске (засеок Рудничка колонија).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e15ba5ce2199",
       "utility": "electricity",
       "kind": "planned",
@@ -38,6 +21,23 @@
       ],
       "reason": null,
       "note": "Насеље Шопић: Проте Чеде 1-59,2-44,Милутина Борисављевића 1-8,Станислава Сремечевића-Црног 1-7,2-40,Кошарска,Авалска,Пролећног цвећа, (засеок Црква).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "24739f665173",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Насеље Велики Црљени: Рударско насеље,Ранка Никетића,Патријарха Павла,Царице Милице,део улице 13.Пролетерске (засеок Рудничка колонија)."
+      ],
+      "reason": null,
+      "note": "Насеље Велики Црљени: Рударско насеље,Ранка Никетића,Патријарха Павла,Царице Милице,део улице 13.Пролетерске (засеок Рудничка колонија).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
@@ -130,23 +130,6 @@
       ],
       "reason": null,
       "note": "ЦАРА ДУШАНА: 3,7-17, ЧУНАРСКА: 1-17, ФРУШКОГОРСКА: 4-12,7-19В/2, ГАРДОШКА: 2-46,1-17, ГРОБЉАНСКА: 2-30,1-19, КЕЈ ОСЛОБОЂЕЊА: 47а-51,55-73Б, ЛАГУМСКА: 18-26,17-23, ЊЕГОШЕВА: 10-36,27-53, СИБИЊАНИН ЈАНКА: 2-24,1, СИНЂЕЛИЋЕВА: 2-48,1-13,19-47а, СТАРА: 2-20А,1-9А, СТРМА: 1-1А, ТЕСНА: 2,1, ВЕСЛАРСКА: 2-4,1, ВИСОКА: 2-40,1-39,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "47e09fb18048",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Обреновац",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеље ДРЕН: ГОСПОДАРА ВУЧИЋА: 4,18-20,26,32-36,44,48,52,1,13,17,23-31,37-41,47-49, Насеље Грабовац: ГРАБОВАЧКА: 364-366А,376-378,375"
-      ],
-      "reason": null,
-      "note": "Насеље ДРЕН: ГОСПОДАРА ВУЧИЋА: 4,18-20,26,32-36,44,48,52,1,13,17,23-31,37-41,47-49, Насеље Грабовац: ГРАБОВАЧКА: 364-366А,376-378,375,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
@@ -341,23 +324,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "31987f69f4ac",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Општина Лајковац Љиг: населеј Врачевић,(засеок Крговићи,Жировњак,Велимировићи,Нешковићи),Латковић:засеок Црква,Усек,Митровићи."
-      ],
-      "reason": null,
-      "note": "Општина Лајковац Љиг: населеј Врачевић,(засеок Крговићи,Жировњак,Велимировићи,Нешковићи),Латковић:засеок Црква,Усек,Митровићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "b37e7e41cf40",
       "utility": "electricity",
       "kind": "planned",
@@ -377,6 +343,23 @@
       ],
       "reason": null,
       "note": "Велики Црљени (засеок Асфалтна база,Девикс,Раскрсница,АБИ Инвест,Сумеђ,Каленић-Регионална депонија.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "31987f69f4ac",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Општина Лајковац Љиг: населеј Врачевић,(засеок Крговићи,Жировњак,Велимировићи,Нешковићи),Латковић:засеок Црква,Усек,Митровићи."
+      ],
+      "reason": null,
+      "note": "Општина Лајковац Љиг: населеј Врачевић,(засеок Крговићи,Жировњак,Велимировићи,Нешковићи),Латковић:засеок Црква,Усек,Митровићи.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
@@ -693,7 +676,7 @@
     },
     {
       "date": "2026-09-29",
-      "electricityOutages": 15,
+      "electricityOutages": 14,
       "waterOutages": 2
     }
   ]

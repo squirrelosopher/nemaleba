@@ -1,0 +1,52 @@
+{
+  "city": {
+    "id": "petrovaradin",
+    "nameCyrillic": "Петроварадин",
+    "nameLatin": "Petrovaradin",
+    "branchCyrillic": "Нови Сад"
+  },
+  "outages": [
+    {
+      "id": "58811a88469f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Петроварадин",
+      "time": {
+        "start": "08:30",
+        "end": "09:00"
+      },
+      "streets": [
+        "\"\r\nПрерадовићева 42 – 48 (50)\r\nМАРКА Орешковића 2 А - 8\""
+      ],
+      "reason": null,
+      "note": "\"\r\nПрерадовићева 42 – 48 (50)\r\nМАРКА Орешковића 2 А - 8\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7da229fa92db",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Петроварадин",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Сремска Каменица- Иве Лоле Рибара 1 – 17",
+        "2 – 16\r\nТрг Змај Јове 2"
+      ],
+      "reason": null,
+      "note": "Сремска Каменица- Иве Лоле Рибара 1 – 17, 2 – 16\r\nТрг Змај Јове 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-29",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

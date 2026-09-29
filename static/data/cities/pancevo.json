@@ -137,23 +137,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "0908f82da51f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Долово: делови улица А.Максимовића,29.новембра и М.Вукосављева и Дејана Бранка"
-      ],
-      "reason": null,
-      "note": "Долово: делови улица А.Максимовића,29.новембра и М.Вукосављева и Дејана Бранка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "e595616831fa",
       "utility": "electricity",
       "kind": "planned",
@@ -168,6 +151,23 @@
       ],
       "reason": null,
       "note": "Долово: Аксентије Максимовића од школе до Мите Вукосављева, 29.Новембра, Дејана Бранкова, Мите Вукосављева.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "0908f82da51f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Долово: делови улица А.Максимовића,29.новембра и М.Вукосављева и Дејана Бранка"
+      ],
+      "reason": null,
+      "note": "Долово: делови улица А.Максимовића,29.новембра и М.Вукосављева и Дејана Бранка",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {

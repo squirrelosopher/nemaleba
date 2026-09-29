@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "47e09fb18048",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Обреновац",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеље ДРЕН: ГОСПОДАРА ВУЧИЋА: 4,18-20,26,32-36,44,48,52,1,13,17,23-31,37-41,47-49, Насеље Грабовац: ГРАБОВАЧКА: 364-366А,376-378,375"
-      ],
-      "reason": null,
-      "note": "Насеље ДРЕН: ГОСПОДАРА ВУЧИЋА: 4,18-20,26,32-36,44,48,52,1,13,17,23-31,37-41,47-49, Насеље Грабовац: ГРАБОВАЧКА: 364-366А,376-378,375,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "0e342667ac22",
       "utility": "electricity",
       "kind": "planned",
@@ -213,7 +196,7 @@
     },
     {
       "date": "2026-09-29",
-      "electricityOutages": 2,
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]
