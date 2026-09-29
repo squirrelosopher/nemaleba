@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T16:10:48.051Z",
+  "generatedAt": "2026-09-29T16:28:30.211Z",
   "summary": {
     "date": "2026-09-29",
     "electricityOutages": 385,
-    "waterOutages": 36,
+    "waterOutages": 35,
     "affected": [
       {
         "id": "kula",
@@ -360,12 +360,6 @@
         "waterOutages": 0
       },
       {
-        "id": "gornji-milanovac",
-        "nameCyrillic": "Горњи Милановац",
-        "electricityOutages": 0,
-        "waterOutages": 1
-      },
-      {
         "id": "despotovac",
         "nameCyrillic": "Деспотовац",
         "electricityOutages": 1,
@@ -602,7 +596,7 @@
     {
       "date": "2026-09-29",
       "electricityOutages": 144,
-      "waterOutages": 35
+      "waterOutages": 34
     }
   ],
   "providers": [
