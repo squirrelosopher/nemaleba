@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T05:10:46.497Z",
+  "generatedAt": "2026-09-29T06:10:48.150Z",
   "summary": {
     "date": "2026-09-29",
     "electricityOutages": 326,
-    "waterOutages": 15,
+    "waterOutages": 18,
     "affected": [
       {
         "id": "kula",
@@ -228,6 +228,12 @@
         "waterOutages": 0
       },
       {
+        "id": "vranje",
+        "nameCyrillic": "Врање",
+        "electricityOutages": 0,
+        "waterOutages": 2
+      },
+      {
         "id": "dimitrovgrad",
         "nameCyrillic": "Димитровград",
         "electricityOutages": 2,
@@ -316,6 +322,12 @@
         "nameCyrillic": "Брус",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "gornji-milanovac",
+        "nameCyrillic": "Горњи Милановац",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "zabalj",
@@ -554,7 +566,7 @@
     {
       "date": "2026-09-29",
       "electricityOutages": 144,
-      "waterOutages": 15
+      "waterOutages": 18
     }
   ],
   "providers": [
