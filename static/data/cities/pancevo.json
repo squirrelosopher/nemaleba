@@ -7,20 +7,6 @@
   },
   "outages": [
     {
-      "id": "7df795de94d2",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-22",
-      "areaLabel": "Панчево",
-      "time": null,
-      "streets": [
-        "парна страна улице Светог Саве од Моше Пијаде до Иве Курјачког"
-      ],
-      "reason": null,
-      "note": "Због радова на водоводној мрежи без воде је у 10 и 30 часова остала парна страна улице Светог Саве од Моше Пијаде до Иве Курјачког.",
-      "sourceUrl": "https://www.vodovodpa.rs/2026/09/22/22-9-2026/"
-    },
-    {
       "id": "6569188ed72b",
       "utility": "water",
       "kind": "emergency",
@@ -344,6 +330,11 @@
     {
       "date": "2026-09-29",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-09-30",
+      "electricityOutages": 7,
       "waterOutages": 0
     }
   ]
