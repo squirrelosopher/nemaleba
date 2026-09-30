@@ -41,6 +41,42 @@
       "reason": null,
       "note": "Део Прокупља - улица Доситејева и део зграде Лепа Брена",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "83d2befe47e2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Мала Плана код циглане",
+        "Губетин",
+        "Сува чесма и ТС Тасић коп"
+      ],
+      "reason": null,
+      "note": "Мала Плана код циглане,Губетин , Сува чесма и ТС Тасић коп",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "400957784c85",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Део ул: Краљевића Марка и део ул: 21 Српске дивизије"
+      ],
+      "reason": null,
+      "note": "Део ул: Краљевића Марка и део ул: 21 Српске дивизије",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

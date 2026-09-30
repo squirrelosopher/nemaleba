@@ -78,6 +78,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "31987f69f4ac",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Општина Лајковац Љиг: населеј Врачевић,(засеок Крговићи,Жировњак,Велимировићи,Нешковићи),Латковић:засеок Црква,Усек,Митровићи."
+      ],
+      "reason": null,
+      "note": "Општина Лајковац Љиг: населеј Врачевић,(засеок Крговићи,Жировњак,Велимировићи,Нешковићи),Латковић:засеок Црква,Усек,Митровићи.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
       "id": "b37e7e41cf40",
       "utility": "electricity",
       "kind": "planned",
@@ -97,23 +114,6 @@
       ],
       "reason": null,
       "note": "Велики Црљени (засеок Асфалтна база,Девикс,Раскрсница,АБИ Инвест,Сумеђ,Каленић-Регионална депонија.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "31987f69f4ac",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Општина Лајковац Љиг: населеј Врачевић,(засеок Крговићи,Жировњак,Велимировићи,Нешковићи),Латковић:засеок Црква,Усек,Митровићи."
-      ],
-      "reason": null,
-      "note": "Општина Лајковац Љиг: населеј Врачевић,(засеок Крговићи,Жировњак,Велимировићи,Нешковићи),Латковић:засеок Црква,Усек,Митровићи.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
@@ -273,6 +273,23 @@
       "reason": null,
       "note": "Насеље ПАДИНСКА СКЕЛА: ПАДИНСКА СКЕЛА: ББ,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "682962fbd575",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Савски венац",
+      "time": {
+        "start": "10:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "ИЛИЧИЋЕВА: 2-2Ф/8,1-1Ц, КАЧАНИЧКА: 2-4,8,12-14"
+      ],
+      "reason": null,
+      "note": "ИЛИЧИЋЕВА: 2-2Ф/8,1-1Ц, КАЧАНИЧКА: 2-4,8,12-14,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "1ce721677a05",

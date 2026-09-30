@@ -5,7 +5,25 @@
     "nameLatin": "Temerin",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "ea788ed38925",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-03",
+      "areaLabel": "Темерин",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "Темерин: насеље Телеп."
+      ],
+      "reason": null,
+      "note": "Темерин: насеље Телеп.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-07",

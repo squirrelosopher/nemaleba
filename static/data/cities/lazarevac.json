@@ -7,6 +7,23 @@
   },
   "outages": [
     {
+      "id": "31987f69f4ac",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-09-30",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Општина Лајковац Љиг: населеј Врачевић,(засеок Крговићи,Жировњак,Велимировићи,Нешковићи),Латковић:засеок Црква,Усек,Митровићи."
+      ],
+      "reason": null,
+      "note": "Општина Лајковац Љиг: населеј Врачевић,(засеок Крговићи,Жировњак,Велимировићи,Нешковићи),Латковић:засеок Црква,Усек,Митровићи.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
       "id": "b37e7e41cf40",
       "utility": "electricity",
       "kind": "planned",
@@ -26,23 +43,6 @@
       ],
       "reason": null,
       "note": "Велики Црљени (засеок Асфалтна база,Девикс,Раскрсница,АБИ Инвест,Сумеђ,Каленић-Регионална депонија.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "31987f69f4ac",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Општина Лајковац Љиг: населеј Врачевић,(засеок Крговићи,Жировњак,Велимировићи,Нешковићи),Латковић:засеок Црква,Усек,Митровићи."
-      ],
-      "reason": null,
-      "note": "Општина Лајковац Љиг: населеј Врачевић,(засеок Крговићи,Жировњак,Велимировићи,Нешковићи),Латковић:засеок Црква,Усек,Митровићи.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {

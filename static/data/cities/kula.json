@@ -347,7 +347,7 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "d57f6ecfb3f2",
+      "id": "be65e45f85b6",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-02",
@@ -357,10 +357,10 @@
         "end": "09:30"
       },
       "streets": [
-        "М.ТИТА ББ"
+        "ИЂОШКИ ПУТ 36 И 41 И ББ"
       ],
       "reason": null,
-      "note": "М.ТИТА ББ",
+      "note": "ИЂОШКИ ПУТ 36 И 41 И ББ",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
@@ -381,7 +381,7 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "549890e3ddc5",
+      "id": "d57f6ecfb3f2",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-02",
@@ -391,10 +391,10 @@
         "end": "09:30"
       },
       "streets": [
-        "П.КОЧИЋА 2-38"
+        "М.ТИТА ББ"
       ],
       "reason": null,
-      "note": "П.КОЧИЋА 2-38",
+      "note": "М.ТИТА ББ",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
@@ -432,7 +432,7 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "be65e45f85b6",
+      "id": "549890e3ddc5",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-02",
@@ -442,44 +442,10 @@
         "end": "09:30"
       },
       "streets": [
-        "ИЂОШКИ ПУТ 36 И 41 И ББ"
+        "П.КОЧИЋА 2-38"
       ],
       "reason": null,
-      "note": "ИЂОШКИ ПУТ 36 И 41 И ББ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
-    },
-    {
-      "id": "312d25dcb35f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Кула",
-      "time": {
-        "start": "12:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "М.ТИТА ББ"
-      ],
-      "reason": null,
-      "note": "М.ТИТА ББ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
-    },
-    {
-      "id": "ea1584da43cf",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Кула",
-      "time": {
-        "start": "12:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "САЛАШ 18-42 И 19-39 И 126"
-      ],
-      "reason": null,
-      "note": "САЛАШ 18-42 И 19-39 И 126",
+      "note": "П.КОЧИЋА 2-38",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
@@ -531,6 +497,40 @@
       ],
       "reason": null,
       "note": "ИСЕ БАЈИЋА 66-100 И 121-173 И ББ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ea1584da43cf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-02",
+      "areaLabel": "Кула",
+      "time": {
+        "start": "12:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "САЛАШ 18-42 И 19-39 И 126"
+      ],
+      "reason": null,
+      "note": "САЛАШ 18-42 И 19-39 И 126",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "312d25dcb35f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-02",
+      "areaLabel": "Кула",
+      "time": {
+        "start": "12:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "М.ТИТА ББ"
+      ],
+      "reason": null,
+      "note": "М.ТИТА ББ",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {

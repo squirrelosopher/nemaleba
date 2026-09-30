@@ -531,6 +531,23 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Димитрија Сабова у Сремским Карловцима.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-30-9-2026/"
+    },
+    {
+      "id": "6dc29aa0c36f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Оље Ивањицки (Манасијска)."
+      ],
+      "reason": null,
+      "note": "Оље Ивањицки (Манасијска).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

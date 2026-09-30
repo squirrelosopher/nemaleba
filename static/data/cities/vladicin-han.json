@@ -5,7 +5,28 @@
     "nameLatin": "Vladičin Han",
     "branchCyrillic": "Врање"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "80b3c1b1a3f7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-01",
+      "areaLabel": "Владичин Хан",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Љутеж",
+        "Мањак",
+        "Дзеп",
+        "Гариње"
+      ],
+      "reason": null,
+      "note": "Љутеж, Мањак, Дзеп, Гариње",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
