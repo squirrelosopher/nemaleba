@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "c9c55410e860",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Богутовац центар и Село."
-      ],
-      "reason": null,
-      "note": "Богутовац центар и Село.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "79979950c8da",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "У Самаилима Предовићи."
-      ],
-      "reason": null,
-      "note": "У Самаилима Предовићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a6522cbd7cc9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Лазац Летиште."
-      ],
-      "reason": null,
-      "note": "Лазац Летиште.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "5e77568828b2",
       "utility": "electricity",
       "kind": "planned",
@@ -74,7 +23,7 @@
       ],
       "reason": null,
       "note": "У Метикошима код Дома, Стаменчићи, у Ратини код Млина и Драгосинци.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1fcc4b797a2e",
@@ -92,7 +41,7 @@
       ],
       "reason": null,
       "note": "У Прогорелици на лакту, Богутовац центар и Село.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "159ffbeebc7f",
@@ -109,7 +58,7 @@
       ],
       "reason": null,
       "note": "Хигијенски завод на брду из Војводе Степе.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,42 +5,7 @@
     "nameLatin": "Bela Palanka",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "0bc4dc2765b3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Бела Паланка",
-      "time": {
-        "start": "07:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Доњи Рињ."
-      ],
-      "reason": null,
-      "note": "Доњи Рињ.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d382257e4545",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Бела Паланка",
-      "time": {
-        "start": "08:00",
-        "end": "11:30"
-      },
-      "streets": [
-        "део села Црвена Река."
-      ],
-      "reason": null,
-      "note": "део села Црвена Река.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

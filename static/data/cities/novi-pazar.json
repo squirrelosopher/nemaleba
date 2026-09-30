@@ -7,43 +7,6 @@
   },
   "outages": [
     {
-      "id": "ebafbba12063",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Нови Пазар",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Конфекција",
-        "Марвел",
-        "Резни алат 1 и 2",
-        "Предионица"
-      ],
-      "reason": null,
-      "note": "Конфекција, Марвел, Резни алат 1 и 2, Предионица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5bbd1610a5ae",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Нови Пазар",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Глушци"
-      ],
-      "reason": null,
-      "note": "Глушци",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "fddc0c299c14",
       "utility": "electricity",
       "kind": "planned",
@@ -59,7 +22,7 @@
       ],
       "reason": null,
       "note": "Црвена Застава, ТК Рашка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "596b794b0138",
@@ -76,7 +39,7 @@
       ],
       "reason": null,
       "note": "Глушци",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

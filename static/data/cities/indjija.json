@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "1854fd777afa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "МЕСТО ЧОРТАНОВЦИ Викенд зона Железничка изнад Железничке станице"
-      ],
-      "reason": null,
-      "note": "МЕСТО ЧОРТАНОВЦИ Викенд зона Железничка изнад Железничке станице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c7e8ad1571eb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "12:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "МЕСТО ЈАРКОВЦИ"
-      ],
-      "reason": null,
-      "note": "МЕСТО ЈАРКОВЦИ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "eb957e48ca88",
       "utility": "electricity",
       "kind": "planned",
@@ -57,7 +23,7 @@
       ],
       "reason": null,
       "note": "Марадик:.В.Карадзића од бр 6/13 до краја улице, Гробљанска, Шуматовачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "78a6d615fc98",
@@ -74,7 +40,7 @@
       ],
       "reason": null,
       "note": "Каменова 1ц-7.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1f15f782aada",
@@ -92,7 +58,7 @@
       ],
       "reason": null,
       "note": "Цела места Марадик, Крушедол и Крушедол Прњавор",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

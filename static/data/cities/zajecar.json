@@ -5,48 +5,7 @@
     "nameLatin": "Zaječar",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "8b40c5862524",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Николичево",
-        "потез Алапин."
-      ],
-      "reason": null,
-      "note": "Николичево, потез Алапин.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "9cceeafeea2f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Зајечар улице:Славонска",
-        "Рудничка",
-        "Матије Губца",
-        "Невесињска",
-        "потез Бели Брег",
-        "потез Селиште."
-      ],
-      "reason": null,
-      "note": "Зајечар улице:Славонска, Рудничка, Матије Губца, Невесињска, потез Бели Брег, потез Селиште.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

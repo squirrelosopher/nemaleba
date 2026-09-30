@@ -5,25 +5,7 @@
     "nameLatin": "Petrovac",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [
-    {
-      "id": "ab702256711b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Петровац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Дубочка Млава и Старчево"
-      ],
-      "reason": null,
-      "note": "Дубочка Млава и Старчево",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-19",

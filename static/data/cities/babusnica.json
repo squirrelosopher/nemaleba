@@ -7,25 +7,6 @@
   },
   "outages": [
     {
-      "id": "c6a93cf59e53",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "део села Бердуј",
-        "Студена",
-        "Мало Боњинце."
-      ],
-      "reason": null,
-      "note": "део села Бердуј,Студена,Мало Боњинце.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "3d0eab8f44bc",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +22,7 @@
       ],
       "reason": null,
       "note": "Део села Дол, Студена",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "66d89e37dee3",
@@ -58,7 +39,7 @@
       ],
       "reason": null,
       "note": "Голубовићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "7710dd4fc90e",
@@ -75,7 +56,7 @@
       ],
       "reason": null,
       "note": "Модра Стена",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

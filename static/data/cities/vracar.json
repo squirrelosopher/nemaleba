@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "aa2c2d0f78a7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Врачар",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "НЕБОЈШИНА: 27-31, РАНКЕОВА: 2-2,3, СКЕРЛИЋЕВА: 2-12А,20-22"
-      ],
-      "reason": null,
-      "note": "НЕБОЈШИНА: 27-31, РАНКЕОВА: 2-2,3, СКЕРЛИЋЕВА: 2-12А,20-22,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "83541644be78",
       "utility": "water",
       "kind": "planned",

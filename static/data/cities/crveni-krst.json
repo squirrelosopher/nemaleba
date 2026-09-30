@@ -7,53 +7,6 @@
   },
   "outages": [
     {
-      "id": "1a25588b38d6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Црвени крст",
-      "time": {
-        "start": "09:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "делови улица Добричка (2-6)",
-        "Ђуке Динић (7)",
-        "Јадранска (11)",
-        "Кеј Мике Палигорића (2)",
-        "Шуматовачка (6",
-        "8);"
-      ],
-      "reason": null,
-      "note": "делови улица Добричка (2-6), Ђуке Динић (7), Јадранска (11), Кеј Мике Палигорића (2), Шуматовачка (6,8);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ec8a3c592a3a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Црвени крст",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "делови Булевара 12. фебруара",
-        "Сарајевске",
-        "Александра Медведева (15)",
-        "Моравска (непарни бр. 17-27а",
-        "парни бр. 40-52)",
-        "Винаверова (60",
-        "74",
-        "84",
-        "90);"
-      ],
-      "reason": null,
-      "note": "делови Булевара 12. фебруара, Сарајевске, Александра Медведева (15), Моравска (непарни бр. 17-27а, парни бр. 40-52), Винаверова (60,74,84,90);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "5287c75c7550",
       "utility": "electricity",
       "kind": "planned",
@@ -68,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део Церја",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

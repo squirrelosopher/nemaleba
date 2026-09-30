@@ -5,50 +5,7 @@
     "nameLatin": "Čajetina",
     "branchCyrillic": "Ужице"
   },
-  "outages": [
-    {
-      "id": "c673ce92f428",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Чајетина",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Новаковићи",
-        "Јевтовићи",
-        "Лазаревићи и Обарадовићи."
-      ],
-      "reason": null,
-      "note": "Новаковићи, Јевтовићи, Лазаревићи и Обарадовићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a6577d4b55ab",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Чајетина",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Јовановића",
-        "Чичкова",
-        "Марковићи",
-        "Филиповићи",
-        "Дренова",
-        "Крејовићи",
-        "Владаје и Никовићи"
-      ],
-      "reason": null,
-      "note": "Јовановића, Чичкова, Марковићи, Филиповићи, Дренова, Крејовићи, Владаје и Никовићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

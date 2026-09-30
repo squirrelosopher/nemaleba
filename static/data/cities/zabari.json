@@ -5,25 +5,7 @@
     "nameLatin": "Žabari",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [
-    {
-      "id": "005bef1746ec",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Жабари",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Симе Симића 78-150 и Ремењакова у Симићеву"
-      ],
-      "reason": null,
-      "note": "Симе Симића 78-150 и Ремењакова у Симићеву",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-26",

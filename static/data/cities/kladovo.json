@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "6c36f53eb54c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Кладово",
-      "time": {
-        "start": "07:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Засеоци Пропазешће и Велики Пепео"
-      ],
-      "reason": null,
-      "note": "Засеоци Пропазешће и Велики Пепео",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "79cde414610b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Кладово",
-      "time": {
-        "start": "08:30",
-        "end": "16:00"
-      },
-      "streets": [
-        "Насеља Стара Брза и Купузиште са припадајућим викенд насељима"
-      ],
-      "reason": null,
-      "note": "Насеља Стара Брза и Купузиште са припадајућим викенд насељима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ce97bfa4d2b5",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Засеоци Пропазешће и Велики Пепео",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "bd6c0c20fbfa",
@@ -75,7 +41,7 @@
       ],
       "reason": null,
       "note": "Насеља Грабовица , Велика Каменица , Љубичевац , Велесница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "21b137e9db18",
@@ -92,7 +58,7 @@
       ],
       "reason": null,
       "note": "Село Костол",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

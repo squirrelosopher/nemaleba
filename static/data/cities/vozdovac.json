@@ -5,25 +5,7 @@
     "nameLatin": "Voždovac",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "34a6e182874e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-29",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": "08:30",
-        "end": "16:00"
-      },
-      "streets": [
-        "Насеље РИПАЊ: ПУТ ЗА ДРЕНОВАЦ: 4-8,3-7, ПУТ ЗА РАВНИ ГАЈ: 14-18,22,13-17"
-      ],
-      "reason": null,
-      "note": "Насеље РИПАЊ: ПУТ ЗА ДРЕНОВАЦ: 4-8,3-7, ПУТ ЗА РАВНИ ГАЈ: 14-18,22,13-17,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",
