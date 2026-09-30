@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T05:11:20.422Z",
+  "generatedAt": "2026-09-30T06:11:08.655Z",
   "summary": {
     "date": "2026-09-30",
     "electricityOutages": 241,
-    "waterOutages": 10,
+    "waterOutages": 11,
     "affected": [
       {
         "id": "kula",
@@ -180,6 +180,12 @@
         "waterOutages": 0
       },
       {
+        "id": "vranje",
+        "nameCyrillic": "Врање",
+        "electricityOutages": 1,
+        "waterOutages": 1
+      },
+      {
         "id": "zrenjanin",
         "nameCyrillic": "Зрењанин",
         "electricityOutages": 2,
@@ -254,12 +260,6 @@
       {
         "id": "valjevo",
         "nameCyrillic": "Ваљево",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "vranje",
-        "nameCyrillic": "Врање",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -481,7 +481,7 @@
     {
       "date": "2026-09-30",
       "electricityOutages": 166,
-      "waterOutages": 10
+      "waterOutages": 11
     }
   ],
   "providers": [

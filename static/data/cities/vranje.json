@@ -58,6 +58,18 @@
       "reason": null,
       "note": "Насеље Огош",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "5ba0ecc7350f",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-30",
+      "areaLabel": "Вуле Антића",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због санације квара на водоводној мрежи у улици Вуле Антића , без воде биће потрошачи те улице и околне, до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/30-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
     }
   ],
   "history": [
@@ -204,7 +216,7 @@
     {
       "date": "2026-09-30",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
