@@ -514,6 +514,23 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Карађорђева и околне улице у Буковцу.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-30-9-2026/"
+    },
+    {
+      "id": "c3293bacf9e4",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-30",
+      "areaLabel": "Сремским Карловцима",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица Димитрија Сабова"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Димитрија Сабова у Сремским Карловцима.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-30-9-2026/"
     }
   ],
   "history": [
@@ -660,7 +677,7 @@
     {
       "date": "2026-09-30",
       "electricityOutages": 9,
-      "waterOutages": 1
+      "waterOutages": 2
     }
   ]
 }

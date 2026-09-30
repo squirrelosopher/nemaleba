@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T08:11:05.104Z",
+  "generatedAt": "2026-09-30T09:11:10.661Z",
   "summary": {
     "date": "2026-09-30",
     "electricityOutages": 242,
-    "waterOutages": 22,
+    "waterOutages": 23,
     "affected": [
       {
         "id": "kula",
@@ -39,7 +39,7 @@
         "id": "novi-sad",
         "nameCyrillic": "Нови Сад",
         "electricityOutages": 9,
-        "waterOutages": 1
+        "waterOutages": 2
       },
       {
         "id": "sombor",
@@ -487,7 +487,7 @@
     {
       "date": "2026-09-30",
       "electricityOutages": 166,
-      "waterOutages": 22
+      "waterOutages": 23
     }
   ],
   "providers": [
