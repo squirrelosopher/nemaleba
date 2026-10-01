@@ -7,36 +7,6 @@
   },
   "outages": [
     {
-      "id": "2e32959dc5dd",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-24",
-      "areaLabel": "Меленци",
-      "time": {
-        "start": null,
-        "end": "12:30"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "МЕЛЕНЦИ – санација квара на водоводној мрежи, прекид водоснабдевања у целом нсељеном месту до 12:30 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-24-09-2026-godine/"
-    },
-    {
-      "id": "b14f99dbafd7",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-09-24",
-      "areaLabel": "Перлез",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "ПЕРЛЕЗ – радови на изворишту, пад притиска у мрежи у насељеном месту до 14:00 часова",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-24-09-2026-godine/"
-    },
-    {
       "id": "47b426298624",
       "utility": "electricity",
       "kind": "planned",
@@ -61,11 +31,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-08-31",
-      "electricityOutages": 0,
-      "waterOutages": 2
-    },
     {
       "date": "2026-09-01",
       "electricityOutages": 1,
@@ -208,6 +173,11 @@
     },
     {
       "date": "2026-10-01",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-02",
       "electricityOutages": 0,
       "waterOutages": 0
     }
