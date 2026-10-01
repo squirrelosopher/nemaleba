@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-01T08:10:59.036Z",
+  "generatedAt": "2026-10-01T09:11:01.771Z",
   "summary": {
     "date": "2026-10-01",
     "electricityOutages": 110,
-    "waterOutages": 15,
+    "waterOutages": 18,
     "affected": [
       {
         "id": "kula",
@@ -120,6 +120,12 @@
         "waterOutages": 0
       },
       {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 1,
+        "waterOutages": 1
+      },
+      {
         "id": "prokuplje",
         "nameCyrillic": "Прокупље",
         "electricityOutages": 2,
@@ -136,6 +142,12 @@
         "nameCyrillic": "Бечеј",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "bor",
+        "nameCyrillic": "Бор",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "valjevo",
@@ -180,10 +192,10 @@
         "waterOutages": 0
       },
       {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 1,
-        "waterOutages": 0
+        "id": "pancevo",
+        "nameCyrillic": "Панчево",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "pirot",
@@ -372,7 +384,7 @@
     {
       "date": "2026-10-01",
       "electricityOutages": 52,
-      "waterOutages": 15
+      "waterOutages": 18
     }
   ],
   "providers": [

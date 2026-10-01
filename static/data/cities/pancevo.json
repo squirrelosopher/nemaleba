@@ -5,7 +5,23 @@
     "nameLatin": "Pančevo",
     "branchCyrillic": "Панчево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "4a630df39db1",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-01",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "08:00",
+        "end": null
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је у 8 часова остала Улица Др.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/10/01/1-10-2026/"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
@@ -155,7 +171,7 @@
     {
       "date": "2026-10-01",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
