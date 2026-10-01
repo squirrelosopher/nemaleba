@@ -7,6 +7,21 @@
   },
   "outages": [
     {
+      "id": "67a3b4b950db",
+      "utility": "water",
+      "kind": "planned",
+      "date": "2026-09-29",
+      "areaLabel": "Улица 6. Личка са бочним улицама",
+      "time": {
+        "start": "12:00",
+        "end": "13:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Обавештавамо Вас да ће дана 29.09.2026. године доћи до искључења воде због хитних радова на водоводној мрежи у улици 6. Личка са бочним улицама у периоду од 12 до 13 часова.",
+      "sourceUrl": "https://vodovod012.rs/vesti"
+    },
+    {
       "id": "cb3ea0725b87",
       "utility": "electricity",
       "kind": "planned",
