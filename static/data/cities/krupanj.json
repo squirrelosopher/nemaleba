@@ -7,53 +7,6 @@
   },
   "outages": [
     {
-      "id": "033f13b7d65f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Крупањ",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Брштица",
-        "Гајићи",
-        "Горња Дворска",
-        "Столице",
-        "Флотација",
-        "Долић",
-        "Вићентићи",
-        "Горња Мала",
-        "Сушара",
-        "Бурда",
-        "Мало Брдо и Нешковићи."
-      ],
-      "reason": null,
-      "note": "Брштица , Гајићи, Горња Дворска, Столице, Флотација, Долић, Вићентићи, Горња Мала, Сушара, Бурда, Мало Брдо и Нешковићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "050084808be6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Крупањ",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Горња Бадања",
-        "Дубравац",
-        "Југовићи",
-        "Рибарица"
-      ],
-      "reason": null,
-      "note": "Горња Бадања , Дубравац, Југовићи , Рибарица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b9f0b88ddf7f",
       "utility": "electricity",
       "kind": "planned",
@@ -70,7 +23,7 @@
       ],
       "reason": null,
       "note": "Горња Бадања , Дубравац, Југовићи Рибарица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "6353b2e6f976",
@@ -97,7 +50,7 @@
       ],
       "reason": null,
       "note": "Брштица , Гајићи, Горња Дворска, Столице, Флотација, Долић, Вићентићи, Горња Мала, Сушара, Бурда, Мало Брдо и Нешковићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "67be413986d4",
@@ -116,7 +69,7 @@
       ],
       "reason": null,
       "note": "Горња Бадања , Дубравац, Југовићи Рибарица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

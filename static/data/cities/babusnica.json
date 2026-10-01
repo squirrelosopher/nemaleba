@@ -5,60 +5,7 @@
     "nameLatin": "Babušnica",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "3d0eab8f44bc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део села Дол",
-        "Студена"
-      ],
-      "reason": null,
-      "note": "Део села Дол, Студена",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "66d89e37dee3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "08:30",
-        "end": "11:00"
-      },
-      "streets": [
-        "Голубовићи"
-      ],
-      "reason": null,
-      "note": "Голубовићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "7710dd4fc90e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "11:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Модра Стена"
-      ],
-      "reason": null,
-      "note": "Модра Стена",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

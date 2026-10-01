@@ -5,25 +5,7 @@
     "nameLatin": "Pećinci",
     "branchCyrillic": "Рума"
   },
-  "outages": [
-    {
-      "id": "b7d026c161b3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Пећинци",
-      "time": {
-        "start": "10:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "ЦеоКарловчић."
-      ],
-      "reason": null,
-      "note": "ЦеоКарловчић.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-21",

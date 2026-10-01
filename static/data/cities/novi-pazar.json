@@ -5,43 +5,7 @@
     "nameLatin": "Novi Pazar",
     "branchCyrillic": "Нови Пазар"
   },
-  "outages": [
-    {
-      "id": "fddc0c299c14",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Нови Пазар",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Црвена Застава",
-        "ТК Рашка"
-      ],
-      "reason": null,
-      "note": "Црвена Застава, ТК Рашка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "596b794b0138",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Нови Пазар",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Глушци"
-      ],
-      "reason": null,
-      "note": "Глушци",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

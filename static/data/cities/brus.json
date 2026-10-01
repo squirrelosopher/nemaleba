@@ -5,25 +5,7 @@
     "nameLatin": "Brus",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [
-    {
-      "id": "386df581c303",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Брус",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Део насељеног места Велика Грабовница."
-      ],
-      "reason": null,
-      "note": "Део насељеног места Велика Грабовница.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

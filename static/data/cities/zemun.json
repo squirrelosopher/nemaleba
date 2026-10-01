@@ -5,42 +5,7 @@
     "nameLatin": "Zemun",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "73de5a817112",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље АЛТИНА: АЛЕКСАНДРА ПОПОВИЋА : 4,12-18,22,1,5-9а,15,19, МУСОРГСКОГ : 4,10-12,3-7"
-      ],
-      "reason": null,
-      "note": "Насеље АЛТИНА: АЛЕКСАНДРА ПОПОВИЋА : 4,12-18,22,1,5-9а,15,19, МУСОРГСКОГ : 4,10-12,3-7,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ec34d52f6848",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "08:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "ДУНАВСКИХ ВИРОВА: 4-14,18-38"
-      ],
-      "reason": null,
-      "note": "ДУНАВСКИХ ВИРОВА: 4-14,18-38,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

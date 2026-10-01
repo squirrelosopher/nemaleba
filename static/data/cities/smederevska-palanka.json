@@ -5,25 +5,7 @@
     "nameLatin": "Smederevska Palanka",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [
-    {
-      "id": "a9f6655bd439",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Смедеревска Паланка",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Трафореон Голобачки пут у Грчцу"
-      ],
-      "reason": null,
-      "note": "Трафореон Голобачки пут у Грчцу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

@@ -5,44 +5,7 @@
     "nameLatin": "Blace",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [
-    {
-      "id": "67bc11627218",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Блаце",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Чучале",
-        "Пребреза",
-        "Сибница и Ђжепница"
-      ],
-      "reason": null,
-      "note": "Чучале, Пребреза, Сибница и Ђжепница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b4f0824efb73",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Блаце",
-      "time": {
-        "start": "09:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Чунгула и Суви До (Југовићи)"
-      ],
-      "reason": null,
-      "note": "Чунгула и Суви До (Југовићи)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-12",

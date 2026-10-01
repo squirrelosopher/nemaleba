@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "0daec3f120ba",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Пожаревац",
-      "time": {
-        "start": "08:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "Мајаковског од 69 и 62 према Чачалици"
-      ],
-      "reason": null,
-      "note": "Мајаковског од 69 и 62 према Чачалици",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1d06ea0b9f74",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Пожаревац",
-      "time": {
-        "start": "11:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "делови следећих улица до ватрогасног дома и полицијске станице: Партизанска, Лоле Рибара, Ћебина, Косанчићева, Стишка, Топличина, Ђурђа Бранковића и ОШ Вук Карџић"
-      ],
-      "reason": null,
-      "note": "делови следећих улица до ватрогасног дома и полицијске станице: Партизанска, Лоле Рибара, Ћебина, Косанчићева, Стишка, Топличина, Ђурђа Бранковића и ОШ Вук Карџић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "cb3ea0725b87",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "трећи део Цане Бабовић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e567cc67d823",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Петка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "ffe099156b9f",
@@ -89,7 +55,7 @@
       ],
       "reason": null,
       "note": "Кленовник",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

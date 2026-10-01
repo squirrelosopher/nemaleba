@@ -5,25 +5,7 @@
     "nameLatin": "Vranjska Banja",
     "branchCyrillic": "Врање"
   },
-  "outages": [
-    {
-      "id": "731f437eedb4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Врањска бања",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Насеље Огош"
-      ],
-      "reason": null,
-      "note": "Насеље Огош",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-29",

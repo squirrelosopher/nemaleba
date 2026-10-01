@@ -5,62 +5,7 @@
     "nameLatin": "Inđija",
     "branchCyrillic": "Рума"
   },
-  "outages": [
-    {
-      "id": "eb957e48ca88",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Марадик:.В.Карадзића од бр 6/13 до краја улице",
-        "Гробљанска",
-        "Шуматовачка"
-      ],
-      "reason": null,
-      "note": "Марадик:.В.Карадзића од бр 6/13 до краја улице, Гробљанска, Шуматовачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "78a6d615fc98",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Каменова 1ц-7."
-      ],
-      "reason": null,
-      "note": "Каменова 1ц-7.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1f15f782aada",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "10:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "Цела места Марадик",
-        "Крушедол и Крушедол Прњавор"
-      ],
-      "reason": null,
-      "note": "Цела места Марадик, Крушедол и Крушедол Прњавор",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

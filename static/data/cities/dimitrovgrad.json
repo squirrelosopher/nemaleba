@@ -5,25 +5,7 @@
     "nameLatin": "Dimitrovgrad",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "8e1f3f21b59e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Димитровград",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Белеш"
-      ],
-      "reason": null,
-      "note": "Белеш",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

@@ -5,25 +5,7 @@
     "nameLatin": "Despotovac",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [
-    {
-      "id": "7d16aea27492",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-09-30",
-      "areaLabel": "Деспотовац",
-      "time": {
-        "start": "11:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део Ресавице - 7. Јули и село Равна Река"
-      ],
-      "reason": null,
-      "note": "Део Ресавице - 7. Јули и село Равна Река",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-08-31",

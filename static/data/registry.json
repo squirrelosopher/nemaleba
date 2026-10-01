@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-01T04:11:18.489Z",
+  "generatedAt": "2026-10-01T05:11:09.500Z",
   "summary": {
     "date": "2026-10-01",
-    "electricityOutages": 108,
-    "waterOutages": 0,
+    "electricityOutages": 110,
+    "waterOutages": 6,
     "affected": [
       {
         "id": "kula",
@@ -12,15 +12,15 @@
         "waterOutages": 0
       },
       {
-        "id": "sombor",
-        "nameCyrillic": "Сомбор",
-        "electricityOutages": 10,
-        "waterOutages": 0
-      },
-      {
         "id": "kragujevac",
         "nameCyrillic": "Крагујевац",
         "electricityOutages": 9,
+        "waterOutages": 6
+      },
+      {
+        "id": "sombor",
+        "nameCyrillic": "Сомбор",
+        "electricityOutages": 10,
         "waterOutages": 0
       },
       {
@@ -45,6 +45,12 @@
         "id": "sremska-mitrovica",
         "nameCyrillic": "Сремска Митровица",
         "electricityOutages": 4,
+        "waterOutages": 0
+      },
+      {
+        "id": "beograd",
+        "nameCyrillic": "Београд",
+        "electricityOutages": 3,
         "waterOutages": 0
       },
       {
@@ -90,12 +96,6 @@
         "waterOutages": 0
       },
       {
-        "id": "beograd",
-        "nameCyrillic": "Београд",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
         "id": "bogatic",
         "nameCyrillic": "Богатић",
         "electricityOutages": 2,
@@ -116,6 +116,12 @@
       {
         "id": "prokuplje",
         "nameCyrillic": "Прокупље",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "sabac",
+        "nameCyrillic": "Шабац",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -206,12 +212,6 @@
       {
         "id": "cuprija",
         "nameCyrillic": "Ћуприја",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "sabac",
-        "nameCyrillic": "Шабац",
         "electricityOutages": 1,
         "waterOutages": 0
       }
@@ -366,7 +366,7 @@
     {
       "date": "2026-10-01",
       "electricityOutages": 52,
-      "waterOutages": 0
+      "waterOutages": 6
     }
   ],
   "providers": [
