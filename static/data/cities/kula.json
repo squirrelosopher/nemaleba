@@ -7,7 +7,7 @@
   },
   "outages": [
     {
-      "id": "be65e45f85b6",
+      "id": "d57f6ecfb3f2",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-02",
@@ -17,10 +17,27 @@
         "end": "09:30"
       },
       "streets": [
-        "ИЂОШКИ ПУТ 36 И 41 И ББ"
+        "М.ТИТА ББ"
       ],
       "reason": null,
-      "note": "ИЂОШКИ ПУТ 36 И 41 И ББ",
+      "note": "М.ТИТА ББ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "b107821eb30c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-02",
+      "areaLabel": "Кула",
+      "time": {
+        "start": "08:30",
+        "end": "09:30"
+      },
+      "streets": [
+        "ИСЕ БАЈИЋА 66-100 И 121-173 И ББ"
+      ],
+      "reason": null,
+      "note": "ИСЕ БАЈИЋА 66-100 И 121-173 И ББ",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
@@ -41,7 +58,7 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "d57f6ecfb3f2",
+      "id": "be65e45f85b6",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-02",
@@ -51,10 +68,10 @@
         "end": "09:30"
       },
       "streets": [
-        "М.ТИТА ББ"
+        "ИЂОШКИ ПУТ 36 И 41 И ББ"
       ],
       "reason": null,
-      "note": "М.ТИТА ББ",
+      "note": "ИЂОШКИ ПУТ 36 И 41 И ББ",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
@@ -72,23 +89,6 @@
       ],
       "reason": null,
       "note": "ИГМАНСКА 1-31 И 2-12",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "b107821eb30c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Кула",
-      "time": {
-        "start": "08:30",
-        "end": "09:30"
-      },
-      "streets": [
-        "ИСЕ БАЈИЋА 66-100 И 121-173 И ББ"
-      ],
-      "reason": null,
-      "note": "ИСЕ БАЈИЋА 66-100 И 121-173 И ББ",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {

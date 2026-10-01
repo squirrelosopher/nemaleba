@@ -62,25 +62,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "0f8e912ade04",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Филиповића у Рибашевини",
-        "засеоци Филиповићи",
-        "Ивановићи и Јевтовићи."
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Филиповића у Рибашевини, засеоци Филиповићи, Ивановићи и Јевтовићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "ebc941498a7e",
       "utility": "electricity",
       "kind": "planned",
@@ -97,6 +78,25 @@
       ],
       "reason": null,
       "note": "Војводе Бојовића, Милоша Божановића, Саве Јовановића Сирогојна и Радоја Домановића у Ужицу",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "0f8e912ade04",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-02",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Потрошачи са подручја Филиповића у Рибашевини",
+        "засеоци Филиповићи",
+        "Ивановићи и Јевтовићи."
+      ],
+      "reason": null,
+      "note": "Потрошачи са подручја Филиповића у Рибашевини, засеоци Филиповићи, Ивановићи и Јевтовићи.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {

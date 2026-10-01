@@ -290,6 +290,27 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Змајевац у Сремској Каменици.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-1-10-2026/"
+    },
+    {
+      "id": "b04b54663fbf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-02",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Војводе Мишића 1 – 19",
+        "2 – 12",
+        "Васе Стајића 1 – 7",
+        "2",
+        "2 А."
+      ],
+      "reason": null,
+      "note": "Војводе Мишића 1 – 19, 2 – 12, Васе Стајића 1 – 7, 2, 2 А.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

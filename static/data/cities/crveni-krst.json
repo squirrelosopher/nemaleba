@@ -5,7 +5,28 @@
     "nameLatin": "Crveni krst",
     "branchCyrillic": "Ниш"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "c135abe96072",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-02",
+      "areaLabel": "Црвени крст",
+      "time": {
+        "start": "09:00",
+        "end": "10:30"
+      },
+      "streets": [
+        "делови улица Прибојске",
+        "Мариборске",
+        "Чајничке",
+        "Тврђавске и Бојана Васиљковића;"
+      ],
+      "reason": null,
+      "note": "делови улица Прибојске, Мариборске, Чајничке, Тврђавске и Бојана Васиљковића;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-08-31",
