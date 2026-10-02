@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T09:42:53.827Z",
+  "generatedAt": "2026-10-02T10:11:04.212Z",
   "summary": {
     "date": "2026-10-02",
     "electricityOutages": 95,
-    "waterOutages": 18,
+    "waterOutages": 26,
     "affected": [
       {
         "id": "kula",
@@ -16,6 +16,12 @@
         "nameCyrillic": "Крагујевац",
         "electricityOutages": 6,
         "waterOutages": 11
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 2,
+        "waterOutages": 9
       },
       {
         "id": "sombor",
@@ -96,12 +102,6 @@
         "waterOutages": 0
       },
       {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
         "id": "nova-varos",
         "nameCyrillic": "Нова Варош",
         "electricityOutages": 2,
@@ -160,12 +160,6 @@
         "nameCyrillic": "Владимирци",
         "electricityOutages": 1,
         "waterOutages": 0
-      },
-      {
-        "id": "gornji-milanovac",
-        "nameCyrillic": "Горњи Милановац",
-        "electricityOutages": 0,
-        "waterOutages": 1
       },
       {
         "id": "zabalj",
@@ -402,7 +396,7 @@
     {
       "date": "2026-10-02",
       "electricityOutages": 73,
-      "waterOutages": 18
+      "waterOutages": 26
     }
   ],
   "providers": [
