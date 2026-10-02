@@ -5,7 +5,28 @@
     "nameLatin": "Bačka Palanka",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "a50bcb04b9f3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-05",
+      "areaLabel": "Бачка Паланка",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Мире Попаре од кућних бројева 53 и 46 до Железничке",
+        "Вардарска",
+        "Сутјеска од Вардарске до Железничке",
+        "Железничка."
+      ],
+      "reason": null,
+      "note": "Мире Попаре од кућних бројева 53 и 46 до Железничке, Вардарска, Сутјеска од Вардарске до Железничке, Железничка.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-01",

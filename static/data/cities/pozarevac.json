@@ -54,6 +54,23 @@
       "reason": null,
       "note": "Кленовник",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "8c90edb8e9b8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-05",
+      "areaLabel": "Пожаревац",
+      "time": {
+        "start": "07:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Касидол -Мариборска улица"
+      ],
+      "reason": null,
+      "note": "Касидол -Мариборска улица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

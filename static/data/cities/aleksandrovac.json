@@ -5,7 +5,25 @@
     "nameLatin": "Aleksandrovac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "76bb671fc977",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-05",
+      "areaLabel": "Александровац",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насељена места Горњи Ступањ и Гаревина. Делови насељених места Дашница и Доњи Ступањ"
+      ],
+      "reason": null,
+      "note": "Насељена места Горњи Ступањ и Гаревина. Делови насељених места Дашница и Доњи Ступањ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-01",

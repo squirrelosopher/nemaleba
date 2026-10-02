@@ -5,7 +5,26 @@
     "nameLatin": "Ub",
     "branchCyrillic": "Ваљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "e76aa6857f7f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-04",
+      "areaLabel": "Уб",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Купци дела села Совљака",
+        "део села Трлић"
+      ],
+      "reason": null,
+      "note": "Купци дела села Совљака , део села Трлић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-24",

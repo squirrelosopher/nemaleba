@@ -262,6 +262,56 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Воросово у Сремским Карловцима.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-2-10-2026/"
+    },
+    {
+      "id": "88235bfeef97",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-04",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Аутокаросерија."
+      ],
+      "reason": null,
+      "note": "Аутокаросерија.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "bf118164653b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-05",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "Др. Кетрин Макфел 3-41",
+        "28-56",
+        "Иве Андрића",
+        "Зеленгорска",
+        "Сремских Партизана 1 А",
+        "2",
+        "4",
+        "12",
+        "Ђурђевданска",
+        "Ливаде",
+        "Соње Маринковић 1-13 А",
+        "2-4 Б",
+        "Виноградарска",
+        "Болница",
+        "Универекспорт",
+        "Партизански пут",
+        "Грађара."
+      ],
+      "reason": null,
+      "note": "Др. Кетрин Макфел 3-41, 28-56, Иве Андрића, Зеленгорска, Сремских Партизана 1 А, 2, 4, 12, Ђурђевданска, Ливаде, Соње Маринковић 1-13 А, 2-4 Б, Виноградарска, Болница, Универекспорт, Партизански пут, Грађара.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
