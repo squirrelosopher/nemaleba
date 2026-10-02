@@ -7,22 +7,6 @@
   },
   "outages": [
     {
-      "id": "60989a7b88d7",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-25",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Бањско Поље",
-        "Шарбановац",
-        "Слатински пут"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Бањско Поље Шарбановац Слатински пут Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-petak-25-09-2026-god/"
-    },
-    {
       "id": "d28b28bdd354",
       "utility": "water",
       "kind": "emergency",
@@ -94,11 +78,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-01",
-      "electricityOutages": 0,
-      "waterOutages": 1
-    },
     {
       "date": "2026-09-02",
       "electricityOutages": 0,
@@ -243,6 +222,11 @@
       "date": "2026-10-02",
       "electricityOutages": 0,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-10-03",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }

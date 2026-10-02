@@ -7,89 +7,6 @@
   },
   "outages": [
     {
-      "id": "f9c971dd12de",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-25",
-      "areaLabel": "Буковцу",
-      "time": {
-        "start": null,
-        "end": "10:00"
-      },
-      "streets": [
-        "Улица 22. августа"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 10 сати бити Улица 22. августа у Буковцу.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/serv/"
-    },
-    {
-      "id": "34cc6f68c855",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-25",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "део Булевара цара Лазара (од Шекспирове до Балзакове улице) и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити део Булевара цара Лазара (од Шекспирове до Балзакове улице) и околне улице.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/serv/"
-    },
-    {
-      "id": "2199e8657cea",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-25",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Рибњак и Петроварадинска тврђава"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Рибњак и Петроварадинска тврђава.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/serv/"
-    },
-    {
-      "id": "75c552d99b57",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-25",
-      "areaLabel": "Сремска Каменица",
-      "time": {
-        "start": null,
-        "end": "15:30"
-      },
-      "streets": [
-        "Улица 7. војвођанске бригаде"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15.30 сати бити Улица 7. војвођанске бригаде у Сремској Каменици.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/serv/"
-    },
-    {
-      "id": "0bc2288f514c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-25",
-      "areaLabel": "Сремска Каменица",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити улице Новосадска, Институтски пут и околне, Војводе Путника и околне и Железничка и околне улице у Сремској Каменици.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/serv/"
-    },
-    {
       "id": "adf851e461c6",
       "utility": "water",
       "kind": "emergency",
@@ -316,11 +233,6 @@
   ],
   "history": [
     {
-      "date": "2026-09-01",
-      "electricityOutages": 0,
-      "waterOutages": 2
-    },
-    {
       "date": "2026-09-02",
       "electricityOutages": 0,
       "waterOutages": 2
@@ -464,6 +376,11 @@
       "date": "2026-10-02",
       "electricityOutages": 1,
       "waterOutages": 2
+    },
+    {
+      "date": "2026-10-03",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }
