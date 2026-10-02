@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T04:11:24.193Z",
+  "generatedAt": "2026-10-02T05:11:04.734Z",
   "summary": {
     "date": "2026-10-02",
     "electricityOutages": 83,
-    "waterOutages": 0,
+    "waterOutages": 11,
     "affected": [
       {
         "id": "kula",
@@ -15,7 +15,7 @@
         "id": "kragujevac",
         "nameCyrillic": "Крагујевац",
         "electricityOutages": 5,
-        "waterOutages": 0
+        "waterOutages": 11
       },
       {
         "id": "sremska-mitrovica",
@@ -360,7 +360,7 @@
     {
       "date": "2026-10-02",
       "electricityOutages": 73,
-      "waterOutages": 0
+      "waterOutages": 11
     }
   ],
   "providers": [
