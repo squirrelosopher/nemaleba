@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T09:10:59.302Z",
+  "generatedAt": "2026-10-02T09:42:53.827Z",
   "summary": {
     "date": "2026-10-02",
     "electricityOutages": 95,
-    "waterOutages": 26,
+    "waterOutages": 18,
     "affected": [
       {
         "id": "kula",
@@ -16,12 +16,6 @@
         "nameCyrillic": "Крагујевац",
         "electricityOutages": 6,
         "waterOutages": 11
-      },
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 2,
-        "waterOutages": 9
       },
       {
         "id": "sombor",
@@ -52,6 +46,12 @@
         "nameCyrillic": "Краљево",
         "electricityOutages": 3,
         "waterOutages": 0
+      },
+      {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 1,
+        "waterOutages": 2
       },
       {
         "id": "ruma",
@@ -96,16 +96,16 @@
         "waterOutages": 0
       },
       {
-        "id": "nova-varos",
-        "nameCyrillic": "Нова Варош",
+        "id": "nis",
+        "nameCyrillic": "Ниш",
         "electricityOutages": 2,
         "waterOutages": 0
       },
       {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 1,
-        "waterOutages": 1
+        "id": "nova-varos",
+        "nameCyrillic": "Нова Варош",
+        "electricityOutages": 2,
+        "waterOutages": 0
       },
       {
         "id": "osecina",
@@ -402,7 +402,7 @@
     {
       "date": "2026-10-02",
       "electricityOutages": 73,
-      "waterOutages": 26
+      "waterOutages": 18
     }
   ],
   "providers": [

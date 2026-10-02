@@ -230,6 +230,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "cffb2c5cd8a3",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-02",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "13:00"
+      },
+      "streets": [
+        "део Улице Петефи Шандора (од Улице Горана Ковачевића до Улице Милана Савића)"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити део Улице Петефи Шандора (од Улице Горана Ковачевића до Улице Милана Савића).",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-2-10-2026/"
+    },
+    {
       "id": "0ef984f6700d",
       "utility": "water",
       "kind": "emergency",
@@ -396,7 +413,7 @@
     {
       "date": "2026-10-02",
       "electricityOutages": 1,
-      "waterOutages": 1
+      "waterOutages": 2
     }
   ]
 }

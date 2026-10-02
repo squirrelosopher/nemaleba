@@ -15,13 +15,16 @@
     "lastComplete": "2026-10-02"
   },
   "jkp-vik-novi-sad": {
-    "entries": 54,
+    "entries": 55,
     "lastNonEmpty": "2026-10-02",
     "lastComplete": "2026-10-02"
   },
   "jkp-naissus-nis": {
-    "entries": 78,
+    "entries": 0,
     "lastNonEmpty": "2026-10-02",
+    "unreadable": [
+      "fetch failed for https://jkpnaissus.co.rs/wp-json/wp/v2/posts?categories=42&per_page=15&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-10-02"
   },
   "jkp-vodovod-pancevo": {
@@ -55,18 +58,27 @@
     "lastComplete": "2026-10-02"
   },
   "jkp-vik-zrenjanin": {
-    "entries": 15,
+    "entries": 0,
     "lastNonEmpty": "2026-10-02",
+    "unreadable": [
+      "fetch failed for https://vikzr.rs/wp-json/wp/v2/posts?categories=113&per_page=12&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-10-02"
   },
   "jkp-vodovod-valjevo": {
-    "entries": 14,
+    "entries": 0,
     "lastNonEmpty": "2026-10-02",
+    "unreadable": [
+      "fetch failed for https://vodovodva.co.rs/wp-json/wp/v2/posts?categories=1&per_page=15&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-10-02"
   },
   "jp-vodovod-vranje": {
-    "entries": 20,
+    "entries": 0,
     "lastNonEmpty": "2026-10-02",
+    "unreadable": [
+      "fetch failed for https://vodovodvranje.rs/wp-json/wp/v2/posts?categories=8&per_page=15&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-10-02"
   },
   "jkp-vodovod-leskovac": {
@@ -75,18 +87,24 @@
     "lastComplete": "2026-10-02"
   },
   "jkp-vodovod-pozarevac": {
-    "entries": 5,
+    "entries": 0,
     "lastNonEmpty": "2026-10-02",
     "lastComplete": "2026-10-02"
   },
   "jp-jedinstvo-kladovo": {
-    "entries": 2,
+    "entries": 0,
     "lastNonEmpty": "2026-10-02",
+    "unreadable": [
+      "fetch failed for https://jedinstvojp.rs/wp-json/wp/v2/posts?categories=14&per_page=12&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-10-02"
   },
   "jkp-vodovod-cacak": {
-    "entries": 1,
+    "entries": 0,
     "lastNonEmpty": "2026-10-02",
+    "unreadable": [
+      "fetch failed for https://vodovodca.rs/wp-json/wp/v2/posts?categories=3&per_page=12&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-10-02"
   }
 }
