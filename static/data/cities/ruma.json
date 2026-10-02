@@ -91,6 +91,45 @@
       "reason": null,
       "note": "Дана 30.09.2026. године у периоду од 9.00 до 12.00 часова, ради извођења радова на локалном изворишту, за време трајања радова без водоснабдевања остаће потрошачи у насељу Хртковци.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-hrtkovci-6/"
+    },
+    {
+      "id": "e6710a7017e6",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-02",
+      "areaLabel": "Врдник",
+      "time": null,
+      "streets": [
+        "Бриловој",
+        "Бошка Сремца"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у Бриловој и улици Бошка Сремца у Врднику.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-vrdnik-69/"
+    },
+    {
+      "id": "44a5564c83fb",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-02",
+      "areaLabel": "Краљевци",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи на Краљевачком воду са могућношћу пада притиска или потпуног прекида водонабедевања за време трајања радова.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-kraljevci-7/"
+    },
+    {
+      "id": "3254fdb0c965",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-02",
+      "areaLabel": "Рума",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи на Стејановачком путу у Руми.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-83/"
     }
   ],
   "history": [
@@ -242,7 +281,7 @@
     {
       "date": "2026-10-02",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 3
     }
   ]
 }

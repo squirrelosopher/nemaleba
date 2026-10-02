@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T06:11:11.512Z",
+  "generatedAt": "2026-10-02T07:10:59.218Z",
   "summary": {
     "date": "2026-10-02",
     "electricityOutages": 95,
-    "waterOutages": 13,
+    "waterOutages": 16,
     "affected": [
       {
         "id": "kula",
@@ -46,6 +46,12 @@
         "nameCyrillic": "Краљево",
         "electricityOutages": 3,
         "waterOutages": 0
+      },
+      {
+        "id": "ruma",
+        "nameCyrillic": "Рума",
+        "electricityOutages": 0,
+        "waterOutages": 3
       },
       {
         "id": "uzice",
@@ -396,7 +402,7 @@
     {
       "date": "2026-10-02",
       "electricityOutages": 73,
-      "waterOutages": 13
+      "waterOutages": 16
     }
   ],
   "providers": [
