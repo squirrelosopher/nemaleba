@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "b7c35cd1dcd3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Село Пепељевац."
-      ],
-      "reason": null,
-      "note": "Село Пепељевац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "eede98675a31",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Жуч и Игриште."
-      ],
-      "reason": null,
-      "note": "Жуч и Игриште.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "3b3dccf5a681",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Село Свињиште.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9267f4fd9f18",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Село Пепељевац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

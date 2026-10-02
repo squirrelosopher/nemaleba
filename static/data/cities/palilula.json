@@ -5,25 +5,7 @@
     "nameLatin": "Palilula",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "1ce721677a05",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": "22:00",
-        "end": "06:00"
-      },
-      "streets": [
-        "Насеље ПАДИНСКА СКЕЛА: ПАДИНСКА СКЕЛА: ББ"
-      ],
-      "reason": null,
-      "note": "Насеље ПАДИНСКА СКЕЛА: ПАДИНСКА СКЕЛА: ББ,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-01",

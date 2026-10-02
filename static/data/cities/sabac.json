@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Без ел.енергије остаће купци у делу села Табановић у Ул. Пеке Дапчевић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "0e27321365e3",
@@ -45,6 +45,24 @@
       ],
       "reason": null,
       "note": "Без ел.енергије остаће купци у индустријској зони града Шапца (МИНТ,ВЕСКОВИНИ,ВОПАЧЕЛ,ЈАЗАКИ, МОНДИ, ОТП МЕДИК, ФРУТИ ИТД, Извориште Шабац-водовод .",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "5aad0e714fa3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-05",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Без напна остју улица Хиландарска (од Дринске до Војислава Илића)",
+        "ул Норвешка (од Хиландарске до П.Смиљанића) и ул Дринска дивизије до Ж.Поповића."
+      ],
+      "reason": null,
+      "note": "Без напна остју улица Хиландарска (од Дринске до Војислава Илића) ,ул Норвешка (од Хиландарске до П.Смиљанића) и ул Дринска дивизије до Ж.Поповића.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],

@@ -5,25 +5,7 @@
     "nameLatin": "Savski venac",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "682962fbd575",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Савски венац",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "ИЛИЧИЋЕВА: 2-2Ф/8,1-1Ц, КАЧАНИЧКА: 2-4,8,12-14"
-      ],
-      "reason": null,
-      "note": "ИЛИЧИЋЕВА: 2-2Ф/8,1-1Ц, КАЧАНИЧКА: 2-4,8,12-14,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-01",

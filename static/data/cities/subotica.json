@@ -7,21 +7,21 @@
   },
   "outages": [
     {
-      "id": "f3fc562ad104",
+      "id": "f17a46c453e0",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-01",
+      "date": "2026-10-05",
       "areaLabel": "Суботица",
       "time": {
-        "start": "11:30",
-        "end": "13:30"
+        "start": "09:00",
+        "end": "12:00"
       },
       "streets": [
-        "Хоргош: Попова парна страна."
+        "у насељу Ором на Великом Путу од бр. 242 до бр. 262 и 263."
       ],
       "reason": null,
-      "note": "Хоргош: Попова парна страна.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "у насељу Ором на Великом Путу од бр. 242 до бр. 262 и 263.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

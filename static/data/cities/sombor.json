@@ -7,91 +7,6 @@
   },
   "outages": [
     {
-      "id": "c583f4dc7325",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "БАЧКИ МОНОШТОР, УЛИЦЕ: И.Л.РИБАРА 57-115 и 46-118, П.ДРАПШИНА 1-15 и 2-12А, БАШТОВАНСКА 1-25 и 2-4, ЗАГРЕБАЧКА 93-123 и 80-106"
-      ],
-      "reason": null,
-      "note": "БАЧКИ МОНОШТОР, УЛИЦЕ: И.Л.РИБАРА 57-115 и 46-118, П.ДРАПШИНА 1-15 и 2-12А, БАШТОВАНСКА 1-25 и 2-4, ЗАГРЕБАЧКА 93-123 и 80-106",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "61c465b100a0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "БАЧКА 15-29 И 22-54 И ББ"
-      ],
-      "reason": null,
-      "note": "БАЧКА 15-29 И 22-54 И ББ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "3a76b9bb8976",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "М.ТИТА 126-148"
-      ],
-      "reason": null,
-      "note": "М.ТИТА 126-148",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1e30b5fa9806",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "СРЕМСКА 1-39 И 2-48"
-      ],
-      "reason": null,
-      "note": "СРЕМСКА 1-39 И 2-48",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "bb62aa69fcc9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "И.МИЛУТИНОВИЋА 2-12 И 1-13"
-      ],
-      "reason": null,
-      "note": "И.МИЛУТИНОВИЋА 2-12 И 1-13",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "042f646bc15f",
       "utility": "electricity",
       "kind": "planned",
@@ -106,7 +21,7 @@
       ],
       "reason": null,
       "note": "ТС ЖТО ВРБАС НОВА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3c7d5195499d",
@@ -123,7 +38,7 @@
       ],
       "reason": null,
       "note": "Бездан: Кошут Лајоша, Родина 11-19 и 12-18, Пуста 1-27 и 2-22, Црквена, Колутска1-27 и 2-24, Малта.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "551c0f443d86",
@@ -140,7 +55,101 @@
       ],
       "reason": null,
       "note": "Сомбор: Домаћинства код ТС ''Сомбор 1''.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "8f5008322cf6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-05",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "08:30",
+        "end": "09:30"
+      },
+      "streets": [
+        "М.Тита 3-5",
+        "15-19",
+        "8-16",
+        "ББ",
+        "Н.фронта ББ",
+        "5.Пролетерске бригаде 1-3",
+        "И.Л.Рибара 36."
+      ],
+      "reason": null,
+      "note": "М.Тита 3-5, 15-19, 8-16, ББ, Н.фронта ББ, 5.Пролетерске бригаде 1-3, И.Л.Рибара 36.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "ac6a9d2d543e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-05",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "09:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "И.Л.Рибара 2-34",
+        "1-9",
+        "ББ",
+        "М.Тита 54-64",
+        "53-71",
+        "43",
+        "74",
+        "ББ",
+        "Н.фронта 23 И 30",
+        "Сарајевска 3 И 38-48."
+      ],
+      "reason": null,
+      "note": "И.Л.Рибара 2-34, 1-9, ББ, М.Тита 54-64, 53-71, 43, 74, ББ, Н.фронта 23 И 30, Сарајевска 3 И 38-48.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "58f3103e4102",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-05",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "11:15",
+        "end": "12:15"
+      },
+      "streets": [
+        "Виноградска 10-12",
+        "1-21",
+        "ББ",
+        "29. Новембра 1-17 И 4-8",
+        "4.Пролетерске бригаде 1-43 И 2-20",
+        "В.Назора 1-33 И 2-22."
+      ],
+      "reason": null,
+      "note": "Виноградска 10-12, 1-21, ББ, 29. Новембра 1-17 И 4-8, 4.Пролетерске бригаде 1-43 И 2-20, В.Назора 1-33 И 2-22.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "f900f0a35e0f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-05",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "12:15",
+        "end": "13:15"
+      },
+      "streets": [
+        "Виноградска 14-54",
+        "21-53",
+        "ББ",
+        "Ј.Панчића 1-13 И ББ",
+        "А.Пантовића 2",
+        "Београдска 1-3",
+        "ДР.М.Чекића 46."
+      ],
+      "reason": null,
+      "note": "Виноградска 14-54, 21-53, ББ, Ј.Панчића 1-13 И ББ, А.Пантовића 2, Београдска 1-3, ДР.М.Чекића 46.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

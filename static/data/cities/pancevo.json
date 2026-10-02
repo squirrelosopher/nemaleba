@@ -35,6 +35,23 @@
       "reason": null,
       "note": "Због хаварије на водоводној мрежи, око 11 часова без воде је остала Улица Светозара Милетића, на потезу од Радничке до Синђелићеве улице.",
       "sourceUrl": "https://www.vodovodpa.rs/2026/10/01/1-10-2026-2/"
+    },
+    {
+      "id": "1c3e544c9f5e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-05",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Долово: Викенд насеље Ушће преко канала ка Долову"
+      ],
+      "reason": null,
+      "note": "Долово: Викенд насеље Ушће преко канала ка Долову",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

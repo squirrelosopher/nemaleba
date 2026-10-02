@@ -7,42 +7,6 @@
   },
   "outages": [
     {
-      "id": "c19639210510",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Мали Зворник",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Амајић",
-        "Каменолом Амајић",
-        "Будишић и Горњи Будишић"
-      ],
-      "reason": null,
-      "note": "Амајић, Каменолом Амајић, Будишић и Горњи Будишић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e1ebc9c8e240",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Мали Зворник",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Горњи Читлук - насеље према репетитору"
-      ],
-      "reason": null,
-      "note": "Горњи Читлук - насеље према репетитору",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d17904caa902",
       "utility": "electricity",
       "kind": "planned",
@@ -60,7 +24,7 @@
       ],
       "reason": null,
       "note": "Цулине Дом, Цулине Острво, Ада, Вуковије и Цулине Табла",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

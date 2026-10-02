@@ -43,60 +43,6 @@
       "sourceUrl": "https://vodovodvranje.rs/30-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
     },
     {
-      "id": "70fc914d64d2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Врање",
-      "time": {
-        "start": "08:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Ристовац",
-        "Горњи Вртогош"
-      ],
-      "reason": null,
-      "note": "Ристовац, Горњи Вртогош",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "9391feff8ed5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Врање",
-      "time": {
-        "start": "08:15",
-        "end": "10:15"
-      },
-      "streets": [
-        "део села Ратаје"
-      ],
-      "reason": null,
-      "note": "део села Ратаје",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "62e588b6d86b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-01",
-      "areaLabel": "Врање",
-      "time": {
-        "start": "11:45",
-        "end": "14:00"
-      },
-      "streets": [
-        "Рашка ИИ",
-        "Горња Рашка",
-        "село Мечковац"
-      ],
-      "reason": null,
-      "note": "Рашка ИИ, Горња Рашка, село Мечковац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7ca05479d4e9",
       "utility": "electricity",
       "kind": "planned",
@@ -111,7 +57,7 @@
       ],
       "reason": null,
       "note": "Бунушевац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d6403e2364f0",
@@ -128,7 +74,7 @@
       ],
       "reason": null,
       "note": "део села Горњи Нерадовац (СИК)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f1b2287b30d0",
@@ -150,7 +96,7 @@
       ],
       "reason": null,
       "note": "Учитеља Вићентија, Пере Цветановића, Гњиланска, Ратка Павловића, Косовска, Томе Костића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
