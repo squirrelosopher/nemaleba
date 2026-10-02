@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T18:11:03.099Z",
+  "generatedAt": "2026-10-02T20:10:59.702Z",
   "summary": {
     "date": "2026-10-02",
     "electricityOutages": 135,
-    "waterOutages": 30,
+    "waterOutages": 29,
     "affected": [
       {
         "id": "kula",
@@ -200,12 +200,6 @@
       {
         "id": "bor",
         "nameCyrillic": "Бор",
-        "electricityOutages": 0,
-        "waterOutages": 1
-      },
-      {
-        "id": "gornji-milanovac",
-        "nameCyrillic": "Горњи Милановац",
         "electricityOutages": 0,
         "waterOutages": 1
       },
@@ -444,7 +438,7 @@
     {
       "date": "2026-10-02",
       "electricityOutages": 74,
-      "waterOutages": 27
+      "waterOutages": 26
     }
   ],
   "providers": [
