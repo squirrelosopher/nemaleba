@@ -5,7 +5,25 @@
     "nameLatin": "Alibunar",
     "branchCyrillic": "Панчево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "c4043168baeb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-06",
+      "areaLabel": "Алибунар",
+      "time": {
+        "start": "07:30",
+        "end": "17:00"
+      },
+      "streets": [
+        "Девојачки бунар: цело насеље."
+      ],
+      "reason": null,
+      "note": "Девојачки бунар: цело насеље.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-03",

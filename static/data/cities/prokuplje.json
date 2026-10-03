@@ -5,26 +5,7 @@
     "nameLatin": "Prokuplje",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [
-    {
-      "id": "0f61f79b9ed3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "села:Ћуковац",
-        "Бела Вода и Водице."
-      ],
-      "reason": null,
-      "note": "села:Ћуковац,Бела Вода и Водице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-02",

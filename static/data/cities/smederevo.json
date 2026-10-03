@@ -5,42 +5,7 @@
     "nameLatin": "Smederevo",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [
-    {
-      "id": "6d731f477ca6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "11:30"
-      },
-      "streets": [
-        "Михајловац-Вука Караџића"
-      ],
-      "reason": null,
-      "note": "Михајловац-Вука Караџића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d6a1fd6ac1bc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "11:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Чеховљева"
-      ],
-      "reason": null,
-      "note": "Чеховљева",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-02",

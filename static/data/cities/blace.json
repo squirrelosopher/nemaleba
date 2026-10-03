@@ -5,27 +5,7 @@
     "nameLatin": "Blace",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [
-    {
-      "id": "420684e97c69",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Блаце",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Села:Чучале",
-        "Пребреза",
-        "Сибница и Ђжепница."
-      ],
-      "reason": null,
-      "note": "Села:Чучале,Пребреза,Сибница и Ђжепница.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-12",

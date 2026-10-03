@@ -5,25 +5,7 @@
     "nameLatin": "Bela Palanka",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "cb273334e5e2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Бела Паланка",
-      "time": {
-        "start": "07:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Дражево."
-      ],
-      "reason": null,
-      "note": "Дражево.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-02",

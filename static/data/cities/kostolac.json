@@ -5,42 +5,7 @@
     "nameLatin": "Kostolac",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [
-    {
-      "id": "e567cc67d823",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Костолац",
-      "time": {
-        "start": "08:00",
-        "end": "10:30"
-      },
-      "streets": [
-        "Петка"
-      ],
-      "reason": null,
-      "note": "Петка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ffe099156b9f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Костолац",
-      "time": {
-        "start": "10:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Кленовник"
-      ],
-      "reason": null,
-      "note": "Кленовник",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-02",

@@ -5,25 +5,7 @@
     "nameLatin": "Mali Iđoš",
     "branchCyrillic": "Суботица"
   },
-  "outages": [
-    {
-      "id": "57425f75daca",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Мали Иђош",
-      "time": {
-        "start": "00:00",
-        "end": "11:30"
-      },
-      "streets": [
-        "М. Иђош: Бачка."
-      ],
-      "reason": null,
-      "note": "М. Иђош: Бачка.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-07",

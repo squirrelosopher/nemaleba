@@ -22,40 +22,6 @@
       "sourceUrl": "https://vodovod012.rs/vesti"
     },
     {
-      "id": "e567cc67d823",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Костолац",
-      "time": {
-        "start": "08:00",
-        "end": "10:30"
-      },
-      "streets": [
-        "Петка"
-      ],
-      "reason": null,
-      "note": "Петка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ffe099156b9f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Костолац",
-      "time": {
-        "start": "10:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Кленовник"
-      ],
-      "reason": null,
-      "note": "Кленовник",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8c90edb8e9b8",
       "utility": "electricity",
       "kind": "planned",
@@ -70,6 +36,40 @@
       ],
       "reason": null,
       "note": "Касидол -Мариборска улица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "33837ab75698",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-06",
+      "areaLabel": "Пожаревац",
+      "time": {
+        "start": "07:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Касидол -Стишка улица"
+      ],
+      "reason": null,
+      "note": "Касидол -Стишка улица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "8c5aa04c0c65",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-06",
+      "areaLabel": "Пожаревац",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "траФо област Берање 1"
+      ],
+      "reason": null,
+      "note": "траФо област Берање 1",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],

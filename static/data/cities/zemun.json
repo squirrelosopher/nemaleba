@@ -5,7 +5,25 @@
     "nameLatin": "Zemun",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "0ba7513fa185",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-06",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "10:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "АУТОПУТ ЗА ЗАГРЕБ: 20Г-22Е, ЦВИЈИЋЕВА: 55-61,69-71,77-79А,91-93,111,115-117, Насеље ПЛАВИ ХОРИЗОНТИ: МИЛАНА РЕШЕТАРА : 1Б"
+      ],
+      "reason": null,
+      "note": "АУТОПУТ ЗА ЗАГРЕБ: 20Г-22Е, ЦВИЈИЋЕВА: 55-61,69-71,77-79А,91-93,111,115-117, Насеље ПЛАВИ ХОРИЗОНТИ: МИЛАНА РЕШЕТАРА : 1Б,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-02",

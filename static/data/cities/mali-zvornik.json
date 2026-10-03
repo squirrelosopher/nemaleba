@@ -5,28 +5,7 @@
     "nameLatin": "Mali Zvornik",
     "branchCyrillic": "Лозница"
   },
-  "outages": [
-    {
-      "id": "d17904caa902",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Мали Зворник",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Цулине Дом",
-        "Цулине Острво",
-        "Ада",
-        "Вуковије и Цулине Табла"
-      ],
-      "reason": null,
-      "note": "Цулине Дом, Цулине Острво, Ада, Вуковије и Цулине Табла",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-02",

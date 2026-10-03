@@ -717,59 +717,6 @@
       "note": "Осојак, ул. Шумадијска ( од 08:00 до 12:00 часова ), поправка уличне линије."
     },
     {
-      "id": "cb6309263c63",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Радови на трафостаници"
-      ],
-      "reason": null,
-      "note": "Радови на трафостаници",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6d6f8f7a8ff1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Грошница - Дом"
-      ],
-      "reason": null,
-      "note": "Грошница - Дом",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ad30f35b65d9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "10:30",
-        "end": "11:00"
-      },
-      "streets": [
-        "Јована Петровића Ковача",
-        "Словачких побуњеника",
-        "Сутјеска"
-      ],
-      "reason": null,
-      "note": "Јована Петровића Ковача, Словачких побуњеника, Сутјеска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ff617d228294",
       "utility": "water",
       "kind": "emergency",
@@ -838,57 +785,6 @@
       "note": "Шумарице, ул. Бихорска ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
     },
     {
-      "id": "fb03bcb20e6e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "12:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "1 Маја",
-        "Црвеног крста",
-        "Змај Јовина"
-      ],
-      "reason": null,
-      "note": "1 Маја, Црвеног крста, Змај Јовина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "78a0488ce04d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "14:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Бихорска",
-        "Бранка Миљковића",
-        "Бруска",
-        "Драгојла Дудића",
-        "Горњомилановачка",
-        "Иве Андрића",
-        "Крајишких бригада",
-        "Мајевичка",
-        "Македонских бригада",
-        "Маљенска",
-        "Поскурички пут",
-        "Ратка Мазепа",
-        "Симе Матавуља",
-        "Валентина Водника",
-        "Војвођанских бригада",
-        "Вршачка"
-      ],
-      "reason": null,
-      "note": "Бихорска, Бранка Миљковића, Бруска, Драгојла Дудића, Горњомилановачка, Иве Андрића, Крајишких бригада, Мајевичка, Македонских бригада, Маљенска,Поскурички пут, Ратка Мазепа, Симе Матавуља, Валентина Водника, Војвођанских бригада, Вршачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "42514d749d5c",
       "utility": "water",
       "kind": "emergency",
@@ -955,6 +851,60 @@
       ],
       "reason": null,
       "note": "Димитрија Туцовића 27 - 29, Првослава Стојановића 16",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "832756594c7d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-06",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "2 српског устанка",
+        "Атинска",
+        "Цајгетова",
+        "Даринке Радовић",
+        "Др. Марка Крстића",
+        "Млатишумина",
+        "Јелене Карађорђевић",
+        "Лазара Мићуновића",
+        "Масарикова",
+        "Нобелова",
+        "Пријатељства",
+        "Радета Милосављевића",
+        "Симе Паштрмца",
+        "Сунчани Брег",
+        "Томе Роксандића",
+        "Војводе Петра Бојовића",
+        "Вукице Митровић"
+      ],
+      "reason": null,
+      "note": "2 српског устанка, Атинска, Цајгетова, Даринке Радовић, Др. Марка Крстића, Млатишумина, Јелене Карађорђевић, Лазара Мићуновића, Масарикова, Нобелова, Пријатељства, Радета Милосављевића, Симе Паштрмца, Сунчани Брег, Томе Роксандића, Војводе Петра Бојовића, Вукице Митровић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "350dff78cb78",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-06",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Станово - Циглана",
+        "Ћава - Доње Поље",
+        "Грошница",
+        "Вињишта",
+        "Трешњевак"
+      ],
+      "reason": null,
+      "note": "Станово - Циглана, Ћава - Доње Поље, Грошница, Вињишта, Трешњевак",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],

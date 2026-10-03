@@ -5,25 +5,7 @@
     "nameLatin": "Pirot",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "64725a617e8b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-02",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "викенд насеље Жуково."
-      ],
-      "reason": null,
-      "note": "викенд насеље Жуково.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-02",
