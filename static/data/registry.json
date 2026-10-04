@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-04T20:10:54.728Z",
+  "generatedAt": "2026-10-04T23:00:44.243Z",
   "summary": {
-    "date": "2026-10-04",
-    "electricityOutages": 93,
-    "waterOutages": 2,
+    "date": "2026-10-05",
+    "electricityOutages": 86,
+    "waterOutages": 0,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 20,
+        "electricityOutages": 19,
         "waterOutages": 0
       },
       {
@@ -30,12 +30,6 @@
         "waterOutages": 0
       },
       {
-        "id": "sabac",
-        "nameCyrillic": "Шабац",
-        "electricityOutages": 5,
-        "waterOutages": 0
-      },
-      {
         "id": "kragujevac",
         "nameCyrillic": "Крагујевац",
         "electricityOutages": 4,
@@ -48,14 +42,20 @@
         "waterOutages": 0
       },
       {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 3,
-        "waterOutages": 1
+        "id": "sabac",
+        "nameCyrillic": "Шабац",
+        "electricityOutages": 4,
+        "waterOutages": 0
       },
       {
         "id": "aleksinac",
         "nameCyrillic": "Алексинац",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -80,18 +80,6 @@
       {
         "id": "zrenjanin",
         "nameCyrillic": "Зрењанин",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "svilajnac",
-        "nameCyrillic": "Свилајнац",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -138,12 +126,6 @@
         "waterOutages": 0
       },
       {
-        "id": "kladovo",
-        "nameCyrillic": "Кладово",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "knic",
         "nameCyrillic": "Кнић",
         "electricityOutages": 1,
@@ -162,6 +144,12 @@
         "waterOutages": 0
       },
       {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
         "id": "osecina",
         "nameCyrillic": "Осечина",
         "electricityOutages": 1,
@@ -174,12 +162,6 @@
         "waterOutages": 0
       },
       {
-        "id": "ruma",
-        "nameCyrillic": "Рума",
-        "electricityOutages": 0,
-        "waterOutages": 1
-      },
-      {
         "id": "smederevska-palanka",
         "nameCyrillic": "Смедеревска Паланка",
         "electricityOutages": 1,
@@ -190,21 +172,10 @@
         "nameCyrillic": "Тутин",
         "electricityOutages": 1,
         "waterOutages": 0
-      },
-      {
-        "id": "ub",
-        "nameCyrillic": "Уб",
-        "electricityOutages": 1,
-        "waterOutages": 0
       }
     ]
   },
   "history": [
-    {
-      "date": "2026-09-03",
-      "electricityOutages": 33,
-      "waterOutages": 39
-    },
     {
       "date": "2026-09-04",
       "electricityOutages": 32,
@@ -349,6 +320,11 @@
       "date": "2026-10-04",
       "electricityOutages": 7,
       "waterOutages": 2
+    },
+    {
+      "date": "2026-10-05",
+      "electricityOutages": 45,
+      "waterOutages": 0
     }
   ],
   "providers": [
