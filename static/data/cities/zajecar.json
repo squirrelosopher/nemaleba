@@ -5,25 +5,7 @@
     "nameLatin": "Zaječar",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "872c71f563e3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-03",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Део села Вратарница (центар)."
-      ],
-      "reason": null,
-      "note": "Део села Вратарница (центар).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-03",

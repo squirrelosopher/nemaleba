@@ -5,25 +5,7 @@
     "nameLatin": "Petrovac",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [
-    {
-      "id": "03742a25ab7a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-03",
-      "areaLabel": "Петровац",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Витовница"
-      ],
-      "reason": null,
-      "note": "Витовница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-19",

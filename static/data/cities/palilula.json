@@ -5,7 +5,25 @@
     "nameLatin": "Palilula",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "b548c855be5c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "БУЛ КРАЉ.АЛЕКСАНДРА: 67А,71, КАРНЕЏИЈЕВА: 2"
+      ],
+      "reason": null,
+      "note": "БУЛ КРАЉ.АЛЕКСАНДРА: 67А,71, КАРНЕЏИЈЕВА: 2,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-03",

@@ -5,25 +5,7 @@
     "nameLatin": "Žabalj",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [
-    {
-      "id": "8a59d1e6ee91",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-03",
-      "areaLabel": "Жабаљ",
-      "time": {
-        "start": "08:00",
-        "end": "15:30"
-      },
-      "streets": [
-        "Комплет насеља: Ђурђево и Госпођинци."
-      ],
-      "reason": null,
-      "note": "Комплет насеља: Ђурђево и Госпођинци.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-23",

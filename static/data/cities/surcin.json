@@ -5,7 +5,25 @@
     "nameLatin": "Surčin",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "b59774269170",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Сурчин",
+      "time": {
+        "start": "10:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Насеље ДОБАНОВЦИ: ПАРТИЗАНСКА 5 ДЕО: 6-16,1-13,17-19, УГРИНОВАЧКА: ББ,ББ,202-202А,252-262Ф,266Б-270П,201-203А"
+      ],
+      "reason": null,
+      "note": "Насеље ДОБАНОВЦИ: ПАРТИЗАНСКА 5 ДЕО: 6-16,1-13,17-19, УГРИНОВАЧКА: ББ,ББ,202-202А,252-262Ф,266Б-270П,201-203А,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-03",

@@ -7,29 +7,6 @@
   },
   "outages": [
     {
-      "id": "47b426298624",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-03",
-      "areaLabel": "Зрењанин",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "викенд насеље Дукатар код Мошорина",
-        "викенд насеље Чикмеже",
-        "голф терени на путу ЗР-НС",
-        "ресторан „Дебели лад“ на путу ЗР-НС",
-        "бетоњерка (шљункара) на обали Тисе",
-        "код викенд насеља „Чикмеже“",
-        "рибњаци код Мошорина."
-      ],
-      "reason": null,
-      "note": "викенд насеље Дукатар код Мошорина, викенд насеље Чикмеже, голф терени на путу ЗР-НС, ресторан „Дебели лад“ на путу ЗР-НС, бетоњерка (шљункара) на обали Тисе, код викенд насеља „Чикмеже“, рибњаци код Мошорина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8a8dbcc7fcec",
       "utility": "electricity",
       "kind": "planned",
@@ -44,7 +21,7 @@
       ],
       "reason": null,
       "note": "Зрењанин: део Цара Душана (између Манастирске и Сарајевске).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "ef7407220ebf",
@@ -61,7 +38,7 @@
       ],
       "reason": null,
       "note": "Арадац: део Масарикове, део Јанка Чмелика, део Виноградске.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
