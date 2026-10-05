@@ -5,7 +5,59 @@
     "nameLatin": "Smederevo",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f84f49900190",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Трг Републике 10"
+      ],
+      "reason": null,
+      "note": "Трг Републике 10",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ea397acfd8c4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Сараорци - Милоша Милошевића"
+      ],
+      "reason": null,
+      "note": "Сараорци - Милоша Милошевића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "8ed709e6e549",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Вучачка са попречним улицама и Карађорђева са попречним улицама ( улаз у Вучак и прилаз Вучаку од Царине)"
+      ],
+      "reason": null,
+      "note": "Вучачка са попречним улицама и Карађорђева са попречним улицама ( улаз у Вучак и прилаз Вучаку од Царине)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-04",

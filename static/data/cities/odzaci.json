@@ -5,7 +5,25 @@
     "nameLatin": "Odžaci",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "83dee0a2e72a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Оџаци",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Селенча: Бенешова, Коларова, Штурова, Јаношикова и део М.Тита."
+      ],
+      "reason": null,
+      "note": "Селенча: Бенешова, Коларова, Штурова, Јаношикова и део М.Тита.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-04",

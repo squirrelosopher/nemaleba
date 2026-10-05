@@ -5,7 +5,25 @@
     "nameLatin": "Priboj",
     "branchCyrillic": "Ужице"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "1a85cc4c66c2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-06",
+      "areaLabel": "Прибој",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Без напајања ће бити потрошачи следећих насеља: Рача, Рабреновац, Подине, Борјанице и Мраморје"
+      ],
+      "reason": null,
+      "note": "Без напајања ће бити потрошачи следећих насеља: Рача, Рабреновац, Подине, Борјанице и Мраморје",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-04",

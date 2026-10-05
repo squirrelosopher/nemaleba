@@ -5,7 +5,25 @@
     "nameLatin": "Ražanj",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "77c0579babfd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-06",
+      "areaLabel": "Ражањ",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "ДЕО НАСЕЉЕНОГ МЕСТА РУЈИШТЕ"
+      ],
+      "reason": null,
+      "note": "ДЕО НАСЕЉЕНОГ МЕСТА РУЈИШТЕ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-08",

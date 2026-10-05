@@ -5,7 +5,29 @@
     "nameLatin": "Sokobanja",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "10bac209bdb2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-06",
+      "areaLabel": "Сокобања",
+      "time": {
+        "start": "10:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Насеља Чаир",
+        "Градашница",
+        "села Белипоток",
+        "Трговиште",
+        "Жучковац и индустријска зона"
+      ],
+      "reason": null,
+      "note": "Насеља Чаир, Градашница, села Белипоток, Трговиште, Жучковац и индустријска зона",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-04",

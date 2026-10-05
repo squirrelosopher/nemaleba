@@ -5,7 +5,44 @@
     "nameLatin": "Nova Varoš",
     "branchCyrillic": "Ужице"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "0bc973ac6a4d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Нова Варош",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Прекид напајања ће имати потрошачи приградског насеља Цвијетњака-Бабића Брдо",
+        "засеок Дражевићи Горње село"
+      ],
+      "reason": null,
+      "note": "Прекид напајања ће имати потрошачи приградског насеља Цвијетњака-Бабића Брдо, засеок Дражевићи Горње село ,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "073a5e57ac24",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Нова Варош",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Прекид напајања ће имати потрошачи приградског насеља Цвијетњака-Бабића Брдо",
+        "засеок Дражевићи Горње село"
+      ],
+      "reason": null,
+      "note": "Прекид напајања ће имати потрошачи приградског насеља Цвијетњака-Бабића Брдо, засеок Дражевићи Горње село ,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-28",

@@ -5,7 +5,45 @@
     "nameLatin": "Plandište",
     "branchCyrillic": "Панчево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "24f34ba2f6a8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Пландиште",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Милетићево",
+        "Марковићево."
+      ],
+      "reason": null,
+      "note": "Милетићево, Марковићево.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "3028f14b70d2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Пландиште",
+      "time": {
+        "start": "10:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насељена места - Хајдучица",
+        "Стари Лец",
+        "Капетаново и Дужине"
+      ],
+      "reason": null,
+      "note": "Насељена места - Хајдучица,Стари Лец ,Капетаново и Дужине",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-04",

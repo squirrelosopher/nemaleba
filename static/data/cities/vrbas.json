@@ -5,7 +5,58 @@
     "nameLatin": "Vrbas",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "8bd65bf08693",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "П.А.ИИИ Чарнојевића ББ",
+        "Кнегиње Милице ББ."
+      ],
+      "reason": null,
+      "note": "П.А.ИИИ Чарнојевића ББ, Кнегиње Милице ББ.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "bf1a547212fb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "К.Ф.Мире 33-47",
+        "10",
+        "бб",
+        "12.Вој. бригаде 2-36",
+        "3-43",
+        "Кулски пут бб",
+        "Петефи Бригаде 2-42",
+        "1-25",
+        "Б.Кидрича 1-35",
+        "2-28",
+        "Милетићева 4-20",
+        "Р.Марјанца 29-67",
+        "64-98",
+        "бб",
+        "Ћирпанов Ћире 1-37",
+        "2-34."
+      ],
+      "reason": null,
+      "note": "К.Ф.Мире 33-47, 10, бб, 12.Вој. бригаде 2-36, 3-43, Кулски пут бб, Петефи Бригаде 2-42, 1-25, Б.Кидрича 1-35, 2-28, Милетићева 4-20, Р.Марјанца 29-67, 64-98, бб, Ћирпанов Ћире 1-37, 2-34.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-04",

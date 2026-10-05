@@ -5,7 +5,59 @@
     "nameLatin": "Rača",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "07f4e677de48",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Рача",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Мало Крчмаре - Дракче"
+      ],
+      "reason": null,
+      "note": "Мало Крчмаре - Дракче",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "4a57d174329d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Рача",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Мало Крчмаре - Гробље"
+      ],
+      "reason": null,
+      "note": "Мало Крчмаре - Гробље",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "8ef87f4131f5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Рача",
+      "time": {
+        "start": "13:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Зелена Пијаца"
+      ],
+      "reason": null,
+      "note": "Зелена Пијаца",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-12",

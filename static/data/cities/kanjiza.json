@@ -5,7 +5,25 @@
     "nameLatin": "Kanjiža",
     "branchCyrillic": "Суботица"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "339a7862fe90",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Кањижа",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Кањижа: Новосадска, део Вука Караџића, Дугина, Нишка."
+      ],
+      "reason": null,
+      "note": "Кањижа: Новосадска, део Вука Караџића, Дугина, Нишка.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-04",
