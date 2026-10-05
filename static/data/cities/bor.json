@@ -5,7 +5,78 @@
     "nameLatin": "Bor",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "d28b28bdd354",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-28",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Чокањица"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Чокањица Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-ponedeljak-28-09-2026-god/"
+    },
+    {
+      "id": "f83a9ce870a0",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-29",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Улица Јована Дучића број 14"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Улица Јована Дучића број 14 Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-29-09-2026-god/"
+    },
+    {
+      "id": "4d6ef960a1ea",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-30",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Улица Јована Дучића број 14 – наставак радова"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Улица Јована Дучића број 14 – наставак радова Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-sreda-30-09-2026-god/"
+    },
+    {
+      "id": "f62107e941ad",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-01",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Улица Краљице Марије"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Улица Краљице Марије Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-01-10-2026-god/"
+    },
+    {
+      "id": "bfef0f4e0594",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-02",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Улица Јована Дучића"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Улица Јована Дучића Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-petak-02-10-2026-god/"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-04",
