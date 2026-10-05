@@ -208,6 +208,23 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 12 сати бити Улица Ђорђа Никшића Јохана.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-5-10-2026/"
+    },
+    {
+      "id": "dd8176b8afa3",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "11:30"
+      },
+      "streets": [
+        "Улица цара Лазара"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 11.30 сати бити Улица цара Лазара у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-5-10-2026/"
     }
   ],
   "history": [
@@ -359,7 +376,7 @@
     {
       "date": "2026-10-05",
       "electricityOutages": 1,
-      "waterOutages": 1
+      "waterOutages": 2
     }
   ]
 }
