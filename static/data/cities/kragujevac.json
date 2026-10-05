@@ -836,6 +836,74 @@
       "note": "Лепеница, ул. Браће Пољаковић ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
     },
     {
+      "id": "a1c86013bff9",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-10-2026/",
+      "areaLabel": "Бресница",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Слободана Пенезића Крцуна"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Бресница , ул. Слободана Пенезића Крцуна ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "0215284bbb4a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-10-2026/",
+      "areaLabel": "Бресница 3",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "угао Ситничке – Ужичке републике"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Хаваријска искључења на дан 05.10.2026. \n \n Бресница 3, угао Ситничке – Ужичке републике ( од 08:00 до 12:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "233e260fa05c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-10-2026/",
+      "areaLabel": "Вучковица",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Стари пут"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Вучковица, ул. Стари пут ( од 08:00 до 12:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "fe68730e8bdc",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-10-2026/",
+      "areaLabel": "Пивара",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Атанасија Николића"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Пивара, ул. Атанасија Николића ( од 08:00 до 12:00 часова ), поправка уличне линије."
+    },
+    {
       "id": "4f99de8df2f7",
       "utility": "electricity",
       "kind": "planned",
@@ -852,6 +920,142 @@
       "reason": null,
       "note": "Димитрија Туцовића 27 - 29, Првослава Стојановића 16",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7416812b4c8b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-10-2026/",
+      "areaLabel": "Вашариште",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Чика Матина"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Вашариште, ул. Чика Матина ( од 12:00 до 16:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "14ba5ac8f4bf",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-10-2026/",
+      "areaLabel": "Вучковица",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Стари пут за Равни Гај"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Вучковица, ул. Стари пут за Равни Гај ( од 12:00 до 16:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "95e79ac29256",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-10-2026/",
+      "areaLabel": "Илићево",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Комаричка"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Илићево, ул. Комаричка ( од 12:00 до 16:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "444b0091d2f9",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-10-2026/",
+      "areaLabel": "Илићево",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Лепосаве Михајловић"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Илићево, ул. Лепосаве Михајловић ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "1da10db4c4c1",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-10-2026/",
+      "areaLabel": "Драгобраћа",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Преко пута железничке станице"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Драгобраћа, ул. Преко пута железничке станице ( од 16:00 до 19:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "d13b31dedfdc",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-10-2026/",
+      "areaLabel": "Лепеница",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "угао Ђуре Јакшића – Браће Пољаковић"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Лепеница, угао Ђуре Јакшића – Браће Пољаковић ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "fdb330da7973",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-10-2026/",
+      "areaLabel": "Шумарице",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Спомен парк"
+      ],
+      "reason": "поправка цевовода 400мм",
+      "note": "Шумарице, ул. Спомен парк ( од 16:00 до 19:00 часова ), поправка цевовода 400мм."
+    },
+    {
+      "id": "3ec95ec47d22",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-10-2026/",
+      "areaLabel": "Шумарице",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Валентина Водника"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Шумарице, ул. Валентина Водника ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
     },
     {
       "id": "832756594c7d",
@@ -1057,7 +1261,7 @@
     {
       "date": "2026-10-05",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 12
     }
   ]
 }
