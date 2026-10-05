@@ -75,6 +75,21 @@
       "reason": "Санација кварова на водоводној мрежи",
       "note": "Улица Јована Дучића Кварови на мерним местима – у шахтама",
       "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-petak-02-10-2026-god/"
+    },
+    {
+      "id": "cadffae2735e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Шарбановац",
+        "Улица 7. Јули"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Шарбановац Улица 7. Јули Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-ponedeljak-05-10-2026-god/"
     }
   ],
   "history": [
@@ -226,7 +241,7 @@
     {
       "date": "2026-10-05",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

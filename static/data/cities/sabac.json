@@ -7,30 +7,6 @@
   },
   "outages": [
     {
-      "id": "0e27321365e3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-04",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "07:00",
-        "end": "08:00"
-      },
-      "streets": [
-        "Без ел.енергије остаће купци у индустријској зони града Шапца (МИНТ",
-        "ВЕСКОВИНИ",
-        "ВОПАЧЕЛ",
-        "ЈАЗАКИ",
-        "МОНДИ",
-        "ОТП МЕДИК",
-        "ФРУТИ ИТД",
-        "Извориште Шабац-водовод ."
-      ],
-      "reason": null,
-      "note": "Без ел.енергије остаће купци у индустријској зони града Шапца (МИНТ,ВЕСКОВИНИ,ВОПАЧЕЛ,ЈАЗАКИ, МОНДИ, ОТП МЕДИК, ФРУТИ ИТД, Извориште Шабац-водовод .",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "5aad0e714fa3",
       "utility": "electricity",
       "kind": "planned",
@@ -46,7 +22,7 @@
       ],
       "reason": null,
       "note": "Без напна остју улица Хиландарска (од Дринске до Војислава Илића) ,ул Норвешка (од Хиландарске до П.Смиљанића) и ул Дринска дивизије до Ж.Поповића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "c9df3d06c69a",
@@ -63,7 +39,7 @@
       ],
       "reason": null,
       "note": "Без напона остају купци у селу Букор и мала Бучје у Криваји.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

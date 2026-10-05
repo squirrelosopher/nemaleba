@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-05T05:11:15.380Z",
+  "generatedAt": "2026-10-05T06:11:00.978Z",
   "summary": {
     "date": "2026-10-05",
-    "electricityOutages": 86,
-    "waterOutages": 12,
+    "electricityOutages": 87,
+    "waterOutages": 13,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 19,
+        "electricityOutages": 20,
         "waterOutages": 0
       },
       {
@@ -118,6 +118,12 @@
         "nameCyrillic": "Бачка Паланка",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "bor",
+        "nameCyrillic": "Бор",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "jagodina",
@@ -324,7 +330,7 @@
     {
       "date": "2026-10-05",
       "electricityOutages": 45,
-      "waterOutages": 12
+      "waterOutages": 13
     }
   ],
   "providers": [
