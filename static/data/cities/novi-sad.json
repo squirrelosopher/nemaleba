@@ -191,6 +191,23 @@
       "reason": null,
       "note": "Др. Кетрин Макфел 3-41, 28-56, Иве Андрића, Зеленгорска, Сремских Партизана 1 А, 2, 4, 12, Ђурђевданска, Ливаде, Соње Маринковић 1-13 А, 2-4 Б, Виноградарска, Болница, Универекспорт, Партизански пут, Грађара.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "6970e67e8e8b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "12:00"
+      },
+      "streets": [
+        "Улица Ђорђа Никшића Јохана"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 12 сати бити Улица Ђорђа Никшића Јохана.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-5-10-2026/"
     }
   ],
   "history": [
@@ -342,7 +359,7 @@
     {
       "date": "2026-10-05",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

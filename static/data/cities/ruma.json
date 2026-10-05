@@ -142,6 +142,21 @@
       "reason": null,
       "note": "Због квара на магистралном цевоводу тренутно су без водоснабдевања потрошачи у насељу Врдник. Екипа за санацију квара је на терену, очекујемо нормализацију водоснабдевања око 15 часова.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-vrdnik-70/"
+    },
+    {
+      "id": "4bb567d8d9e5",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "areaLabel": "Рума",
+      "time": null,
+      "streets": [
+        "Гробљанској",
+        "Орловићевој улици"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у Гробљанској и Орловићевој улици у Руми.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-84/"
     }
   ],
   "history": [
@@ -293,7 +308,7 @@
     {
       "date": "2026-10-05",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

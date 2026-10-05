@@ -33,6 +33,20 @@
       "reason": null,
       "note": "Тренутно је у току санација квара на водоводној мрежи у улици Иво Лоле Рибара у Иригу.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-43/"
+    },
+    {
+      "id": "15564a5fad90",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "areaLabel": "Ириг",
+      "time": null,
+      "streets": [
+        "Ђоке Шундуковића"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улици Ђоке Шундуковића у Иригу.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-44/"
     }
   ],
   "history": [
@@ -184,7 +198,7 @@
     {
       "date": "2026-10-05",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
