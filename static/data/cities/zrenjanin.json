@@ -24,6 +24,36 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "f02f8adc6e80",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "areaLabel": "Ботош",
+      "time": {
+        "start": "12:00",
+        "end": "13:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "БОТОШ – санација квара на водоводмој мрежи у улици Ђурић Стевана код броја 44, прекид водоснабдевања у целом насељеном месту од 12 до 13 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-30-09-2026-godine/"
+    },
+    {
+      "id": "8f0118ac738b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "areaLabel": "Меленци",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "МЕЛЕНЦИ – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту од 12 до 14 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-30-09-2026-godine/"
+    },
+    {
       "id": "ef7407220ebf",
       "utility": "electricity",
       "kind": "planned",
@@ -190,7 +220,7 @@
     {
       "date": "2026-10-05",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 2
     }
   ]
 }

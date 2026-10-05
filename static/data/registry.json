@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-05T09:11:18.207Z",
+  "generatedAt": "2026-10-05T10:10:58.396Z",
   "summary": {
     "date": "2026-10-05",
     "electricityOutages": 87,
-    "waterOutages": 26,
+    "waterOutages": 28,
     "affected": [
       {
         "id": "beograd",
@@ -40,6 +40,12 @@
         "nameCyrillic": "Сремска Митровица",
         "electricityOutages": 7,
         "waterOutages": 0
+      },
+      {
+        "id": "zrenjanin",
+        "nameCyrillic": "Зрењанин",
+        "electricityOutages": 2,
+        "waterOutages": 2
       },
       {
         "id": "lapovo",
@@ -80,12 +86,6 @@
       {
         "id": "vladimirci",
         "nameCyrillic": "Владимирци",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "zrenjanin",
-        "nameCyrillic": "Зрењанин",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -342,7 +342,7 @@
     {
       "date": "2026-10-05",
       "electricityOutages": 45,
-      "waterOutages": 26
+      "waterOutages": 28
     }
   ],
   "providers": [
