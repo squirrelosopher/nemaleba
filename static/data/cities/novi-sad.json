@@ -247,6 +247,40 @@
       "reason": null,
       "note": "Кисачка 21 – 41, Војводе Шупљикца 34 – 50, 41 – 45, Центар за социјални рад, Семафор на углу Кисачле и Краља Петра 1.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "7bdc116f1d41",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-06",
+      "areaLabel": "Лединцима",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Улица браће Стајићан"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица браће Стајићан у Лединцима.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-6-10-2026/"
+    },
+    {
+      "id": "c73ffefb33dd",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-06",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Улица Сомборска рампа и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Сомборска рампа и околне улице.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-6-10-2026/"
     }
   ],
   "history": [
@@ -398,7 +432,7 @@
     {
       "date": "2026-10-06",
       "electricityOutages": 3,
-      "waterOutages": 0
+      "waterOutages": 2
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-06T06:11:05.628Z",
+  "generatedAt": "2026-10-06T07:11:01.904Z",
   "summary": {
     "date": "2026-10-06",
     "electricityOutages": 191,
-    "waterOutages": 10,
+    "waterOutages": 13,
     "affected": [
       {
         "id": "beograd",
@@ -64,6 +64,12 @@
         "nameCyrillic": "Косјерић",
         "electricityOutages": 5,
         "waterOutages": 0
+      },
+      {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 3,
+        "waterOutages": 2
       },
       {
         "id": "pozarevac",
@@ -132,12 +138,6 @@
         "waterOutages": 0
       },
       {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 3,
-        "waterOutages": 0
-      },
-      {
         "id": "pancevo",
         "nameCyrillic": "Панчево",
         "electricityOutages": 3,
@@ -166,6 +166,12 @@
         "nameCyrillic": "Алексинац",
         "electricityOutages": 2,
         "waterOutages": 0
+      },
+      {
+        "id": "valjevo",
+        "nameCyrillic": "Ваљево",
+        "electricityOutages": 1,
+        "waterOutages": 1
       },
       {
         "id": "varvarin",
@@ -268,12 +274,6 @@
         "nameCyrillic": "Бор",
         "electricityOutages": 0,
         "waterOutages": 1
-      },
-      {
-        "id": "valjevo",
-        "nameCyrillic": "Ваљево",
-        "electricityOutages": 1,
-        "waterOutages": 0
       },
       {
         "id": "irig",
@@ -534,7 +534,7 @@
     {
       "date": "2026-10-06",
       "electricityOutages": 63,
-      "waterOutages": 10
+      "waterOutages": 12
     }
   ],
   "providers": [
