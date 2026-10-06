@@ -7,42 +7,6 @@
   },
   "outages": [
     {
-      "id": "d41d6e4582b1",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-29",
-      "areaLabel": "Врање",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у Врањској Бањи, насеље Сагламци, без воде биће потрошачи тог насеља до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/29-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
-      "id": "89447a0ab813",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-29",
-      "areaLabel": "Стамена Јовановића",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због санације квара на водоводној мрежи у улици Стамена Јовановића , без воде биће потрошачи те улице и околне, до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/29-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
-      "id": "5ba0ecc7350f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-30",
-      "areaLabel": "Вуле Антића",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због санације квара на водоводној мрежи у улици Вуле Антића , без воде биће потрошачи те улице и околне, до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/30-09-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
       "id": "385f21a90333",
       "utility": "electricity",
       "kind": "planned",
