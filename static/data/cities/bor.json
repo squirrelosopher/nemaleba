@@ -7,20 +7,6 @@
   },
   "outages": [
     {
-      "id": "f83a9ce870a0",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-29",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Улица Јована Дучића број 14"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Улица Јована Дучића број 14 Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-29-09-2026-god/"
-    },
-    {
       "id": "4d6ef960a1ea",
       "utility": "water",
       "kind": "emergency",
@@ -94,11 +80,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-05",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-06",
       "electricityOutages": 0,
@@ -243,6 +224,11 @@
       "date": "2026-10-06",
       "electricityOutages": 0,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-10-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }

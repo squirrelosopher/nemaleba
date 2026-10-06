@@ -7,193 +7,6 @@
   },
   "outages": [
     {
-      "id": "a326bbef003f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-29",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-09-2026/",
-      "areaLabel": "Бубањ",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Саве Ковачевића"
-      ],
-      "reason": "поправка затварача",
-      "note": "Бубањ, ул. Саве Ковачевића ( од 08:00 до 12:00 часова ), поправка затварача."
-    },
-    {
-      "id": "98f8fc1fb699",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-29",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-09-2026/",
-      "areaLabel": "Лепеница",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Војислава Калановића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Хаваријска искључења на дан 29.09.2026. \n \n Лепеница, ул. Војислава Калановића ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "484622c31a75",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-29",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-09-2026/",
-      "areaLabel": "Осојак",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Код продавнице “ЋИРА”"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Осојак, ул. Код продавнице “ЋИРА” ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "d3d888a530be",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-29",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-09-2026/",
-      "areaLabel": "Шумарице",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Десанкин Венац"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Шумарице, ул. Десанкин Венац ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "0ce4bf084bfb",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-29",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-09-2026/",
-      "areaLabel": "Бресница",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Милунке Ђурић"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Бресница, ул. Милунке Ђурић ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "a6dffbaff8ab",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-29",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-09-2026/",
-      "areaLabel": "Виногради",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Мичуринова"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Виногради, ул. Мичуринова ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "c2c520c56bbe",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-29",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-09-2026/",
-      "areaLabel": "Ердоглија",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Мирослава Антића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Ердоглија, ул. Мирослава Антића ( од 12:00 до 16:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "1bd7abdaef21",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-29",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-09-2026/",
-      "areaLabel": "Осојак",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "пут према Ботуњу"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Осојак, ул. пут према Ботуњу ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "d11428ce718c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-29",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-09-2026/",
-      "areaLabel": "Белошевац",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Милоша Савковића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Белошевац, ул. Милоша Савковића ( од 16:00 до 19:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "f402076ed0fd",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-29",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-09-2026/",
-      "areaLabel": "Маршић",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Старе порте"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Маршић, ул. Старе порте ( од 16:00 до 19:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "af7de5c69b34",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-29",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-09-2026/",
-      "areaLabel": "Осојак",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Код Коњара"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Осојак, ул. Код Коњара ( од 16:00 до 19:00 часова ), поправка уличне линије."
-    },
-    {
       "id": "5e02186d9607",
       "utility": "water",
       "kind": "emergency",
@@ -1061,11 +874,6 @@
   ],
   "history": [
     {
-      "date": "2026-09-05",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
-    {
       "date": "2026-09-06",
       "electricityOutages": 0,
       "waterOutages": 0
@@ -1209,6 +1017,11 @@
       "date": "2026-10-06",
       "electricityOutages": 2,
       "waterOutages": 9
+    },
+    {
+      "date": "2026-10-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }
