@@ -26,6 +26,24 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "d91d4de3ac22",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "07:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Потрошачи са подручја Луновог Села на изводу за Антонијевиће",
+        "Пониковица и Антонијевићи."
+      ],
+      "reason": null,
+      "note": "Потрошачи са подручја Луновог Села на изводу за Антонијевиће, Пониковица и Антонијевићи.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "c294d028efc3",
       "utility": "electricity",
       "kind": "planned",

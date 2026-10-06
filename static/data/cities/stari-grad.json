@@ -5,7 +5,25 @@
     "nameLatin": "Stari grad",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "5d9dacf09ae1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Стари град",
+      "time": {
+        "start": "09:30",
+        "end": "17:00"
+      },
+      "streets": [
+        "ЧУМИЋЕВА: ББ, ДЕЧАНСКА: 8-8,12,19-19, НУШИЋЕВА: 9-11"
+      ],
+      "reason": null,
+      "note": "ЧУМИЋЕВА: ББ, ДЕЧАНСКА: 8-8,12,19-19, НУШИЋЕВА: 9-11,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-05",

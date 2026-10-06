@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "523226d07c0d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део насељеног места Јасика (ул. Стевана Поповића и Моравска)"
-      ],
-      "reason": null,
-      "note": "Део насељеног места Јасика (ул. Стевана Поповића и Моравска)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "35c33f239e96",
       "utility": "electricity",
       "kind": "planned",
@@ -40,6 +23,23 @@
       ],
       "reason": null,
       "note": "Делови улица Владимира Ћоровића, Багдалски венац, Мојковачке и улица Иве Андрића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "523226d07c0d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део насељеног места Јасика (ул. Стевана Поповића и Моравска)"
+      ],
+      "reason": null,
+      "note": "Део насељеног места Јасика (ул. Стевана Поповића и Моравска)",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],

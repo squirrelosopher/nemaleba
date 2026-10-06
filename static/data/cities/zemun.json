@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "0ba7513fa185",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-06",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "АУТОПУТ ЗА ЗАГРЕБ: 20Г-22Е, ЦВИЈИЋЕВА: 55-61,69-71,77-79А,91-93,111,115-117, Насеље ПЛАВИ ХОРИЗОНТИ: МИЛАНА РЕШЕТАРА : 1Б"
-      ],
-      "reason": null,
-      "note": "АУТОПУТ ЗА ЗАГРЕБ: 20Г-22Е, ЦВИЈИЋЕВА: 55-61,69-71,77-79А,91-93,111,115-117, Насеље ПЛАВИ ХОРИЗОНТИ: МИЛАНА РЕШЕТАРА : 1Б,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "0fcd891a6ce6",
       "utility": "electricity",
       "kind": "planned",
@@ -73,6 +56,23 @@
       "reason": null,
       "note": "ЦРНОГ ДУДА: ,6,5-7,11, ГОРЊОГРАДСКА : 61, СВЕТОТРОЈЧИНА : 18-22А, УГРИНОВАЧКА: 82-102А,93-117А,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "47da13fc7af4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Насеље БАТАЈНИЦА: ЦАРИЦЕ ЈЕЛЕНЕ : 2,18-26,13-27, ЈОВАНА БРАНКОВИЋА : 2-14,26,1-7А, КРАЉА РАДОСЛАВА : 6, ПУКОВНИКА МИЛЕНКА ПАВЛОВИЋА : 2-22,1-9А,13-15"
+      ],
+      "reason": null,
+      "note": "Насеље БАТАЈНИЦА: ЦАРИЦЕ ЈЕЛЕНЕ : 2,18-26,13-27, ЈОВАНА БРАНКОВИЋА : 2-14,26,1-7А, КРАЉА РАДОСЛАВА : 6, ПУКОВНИКА МИЛЕНКА ПАВЛОВИЋА : 2-22,1-9А,13-15,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -223,7 +223,7 @@
     },
     {
       "date": "2026-10-06",
-      "electricityOutages": 1,
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

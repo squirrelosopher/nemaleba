@@ -5,7 +5,25 @@
     "nameLatin": "Rakovica",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "e23115402442",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Раковица",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "БОРИВОЈА МИЛОЈЕВИЋА: 25-25А,31, Насеље КНЕЖЕВАЦ: СЕДАМНАЕСТОГ ОКТОБРА: 76-78А, Насеље ПЕТЛОВО БРДО: Љ ИВКОВИЋА ШУЦЕ: 6-8Б,3-9А"
+      ],
+      "reason": null,
+      "note": "БОРИВОЈА МИЛОЈЕВИЋА: 25-25А,31, Насеље КНЕЖЕВАЦ: СЕДАМНАЕСТОГ ОКТОБРА: 76-78А, Насеље ПЕТЛОВО БРДО: Љ ИВКОВИЋА ШУЦЕ: 6-8Б,3-9А,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-05",
