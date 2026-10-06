@@ -7,74 +7,6 @@
   },
   "outages": [
     {
-      "id": "89bd8e4bde2c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-05",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Сремска Митровица: Теодора Бекића 58-62 и б.б., Радиначки пут 147-185, 74-160 и б.б., Београдска 2."
-      ],
-      "reason": null,
-      "note": "Сремска Митровица: Теодора Бекића 58-62 и б.б., Радиначки пут 147-185, 74-160 и б.б., Београдска 2.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "28b5920a33f3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-05",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Лежимир: Фрушкогорска 7-35, 10-32, Новосадска 2."
-      ],
-      "reason": null,
-      "note": "Лежимир: Фрушкогорска 7-35, 10-32, Новосадска 2.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b1771a123f7d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-05",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "10:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "Чалма: Планинска 17-53, 14-52 и бб, 9. Новембра 13-21а, 10-22а."
-      ],
-      "reason": null,
-      "note": "Чалма: Планинска 17-53, 14-52 и бб, 9. Новембра 13-21а, 10-22а.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e5f38f4bc3a7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-05",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "12:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Сремска Митровица: Стари шор 87-91, Краља Петра првог 51, Ратарска 22."
-      ],
-      "reason": null,
-      "note": "Сремска Митровица: Стари шор 87-91, Краља Петра првог 51, Ратарска 22.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e30616d06958",
       "utility": "electricity",
       "kind": "planned",
@@ -89,7 +21,7 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Стевана Мокрањца, Фушкогорског одреда, Јосифа Панчића 6 и б.б., Планинска 5-57 и 4-70, Кувеждинска 1-5 и б.б., Стефана Ластавице 1-31 и 2-28, Сремског фронта 1-33 и 2-32.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ace6e6471b4f",
@@ -106,7 +38,7 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Фрушкогорска 73-113, 70-76 и б.б., Планинска 2, Милана Костића 1-3 и 4-38, Немањина, Железничка 29-51 и 16-62, Драгиње Никшић 1-25 и 4-24, Владимира Матијевића 100-102 и б.б., станови у жел. Станици.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "76e4a489c109",
@@ -123,7 +55,7 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Матије Хуђи 15-21 и 51-55, Максима Горког 1-39 и 2-38, Железничка 42.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b06152fa041b",
@@ -140,7 +72,7 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Др. Милана Костића 68-120, 9 и б.б., Атлетски стадион Др. Милана Костића б.б., Фрушкогорска б.б., Бањалучка 1-29 и б.б., Крајишка 1-17, 18-52, б.б., Петра Кочића 3, ВИ источно босанске бригаде 32а.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "2ffba786ca1b",
@@ -157,7 +89,7 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Насеље Матије Хуђи 1-13, 23-39, 65-71, 2-20, 48-58, 62 и бб, Краља Петра првог 82.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "233b63026ab4",
@@ -174,7 +106,7 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Ратарска 1а-5, 21-23, 29-37, 2-36, бр. 17 улази 1, 2 и 3, А. Чарнојевића 5-7, Насеље Матије Хуђи 64-68, Стари шор 121, 127 и 137.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -31,13 +31,40 @@
       ],
       "reason": null,
       "note": "део Брштице, Гајићи, Горња Дворска, Столице, Флотација, Долић, Вићентићи, Горња Мала, Сушара, Бурда, Мало Брдо и Нешковићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "0188ef5119ad",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-08",
+      "areaLabel": "Крупањ",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "део Брштице",
+        "Гајићи",
+        "Горња Дворска",
+        "Столице",
+        "Флотација",
+        "Долић",
+        "Вићентићи",
+        "Горња Мала",
+        "Сушара",
+        "Бурда",
+        "Мало Брдо и Нешковићи."
+      ],
+      "reason": null,
+      "note": "део Брштице, Гајићи, Горња Дворска, Столице, Флотација, Долић, Вићентићи, Горња Мала, Сушара, Бурда, Мало Брдо и Нешковићи.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "1e01fae4dd83",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
       "areaLabel": "Крупањ",
       "time": {
         "start": "09:00",

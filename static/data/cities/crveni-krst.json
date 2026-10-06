@@ -5,28 +5,7 @@
     "nameLatin": "Crveni krst",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "53031a9c9606",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-05",
-      "areaLabel": "Црвени крст",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "делови Шуматовачке",
-        "Анете Андрејевић (1-13а)",
-        "Добричка (1-3а)",
-        "Кеј Мике Палигорића (парни бр. 4-14);"
-      ],
-      "reason": null,
-      "note": "делови Шуматовачке, Анете Андрејевић (1-13а), Добричка (1-3а), Кеј Мике Палигорића (парни бр. 4-14);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-05",

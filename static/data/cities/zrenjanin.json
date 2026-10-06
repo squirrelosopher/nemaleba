@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "8a8dbcc7fcec",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-05",
-      "areaLabel": "Зрењанин",
-      "time": {
-        "start": "10:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "Зрењанин: део Цара Душана (између Манастирске и Сарајевске)."
-      ],
-      "reason": null,
-      "note": "Зрењанин: део Цара Душана (између Манастирске и Сарајевске).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f02f8adc6e80",
       "utility": "water",
       "kind": "emergency",
@@ -83,7 +66,7 @@
       ],
       "reason": null,
       "note": "Арадац: део Масарикове, део Јанка Чмелика, део Виноградске.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ec6eabf8c36c",
@@ -100,7 +83,7 @@
       ],
       "reason": null,
       "note": "Лукићево: део Чичине улице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

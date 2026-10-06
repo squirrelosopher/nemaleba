@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "bd885249b854",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-05",
-      "areaLabel": "Владимирци",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Без ел.ен. Месарци",
-        "Суво село и део Власанице"
-      ],
-      "reason": null,
-      "note": "Без ел.ен. Месарци, Суво село и део Власанице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "6389f63e30ac",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +21,7 @@
       ],
       "reason": null,
       "note": "Без напона ће бити: део Бељина (200 купаца)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b0d481f1a75d",
@@ -57,7 +39,7 @@
       ],
       "reason": null,
       "note": "Без ел.ен. Месарци, Суво село и део Власанице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -1,0 +1,41 @@
+{
+  "city": {
+    "id": "koceljeva",
+    "nameCyrillic": "Коцељева",
+    "nameLatin": "Koceljeva",
+    "branchCyrillic": "Шабац"
+  },
+  "outages": [
+    {
+      "id": "eebc8ac5b826",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Коцељева",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Без напона остају купци у реону ТС Каменица 1-центар",
+        "ТС Каменица 2-гробље",
+        "ТС Каменица 5-Јасиковац",
+        "ТС Голочело 5-Брда",
+        "ТС Голочело 6",
+        "ТС Голочело 1- школа",
+        "ТС Голочело 4-Дрен",
+        "ТС Градојевић 2-раскршће и село Ћуковине."
+      ],
+      "reason": null,
+      "note": "Без напона остају купци у реону ТС Каменица 1-центар,ТС Каменица 2-гробље,ТС Каменица 5-Јасиковац,ТС Голочело 5-Брда,ТС Голочело 6,ТС Голочело 1- школа,ТС Голочело 4-Дрен, ТС Градојевић 2-раскршће и село Ћуковине.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-10-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

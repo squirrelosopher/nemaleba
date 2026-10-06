@@ -37,23 +37,6 @@
       "sourceUrl": "https://www.vodovodpa.rs/2026/10/01/1-10-2026-2/"
     },
     {
-      "id": "1c3e544c9f5e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-05",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "09:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Долово: Викенд насеље Ушће преко канала ка Долову"
-      ],
-      "reason": null,
-      "note": "Долово: Викенд насеље Ушће преко канала ка Долову",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8cd0b2da82bf",
       "utility": "water",
       "kind": "emergency",
@@ -83,7 +66,41 @@
       ],
       "reason": null,
       "note": "Глогоњ: М.Тита од ЈНА до Б.Кидрича",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "9fc5052d0f01",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Старчево: Сремска, Омладинска од Виноградске до Сремске."
+      ],
+      "reason": null,
+      "note": "Старчево: Сремска, Омладинска од Виноградске до Сремске.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "5df2c094525b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "11:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "Старчево: М.Тита од Вука Караџића до Војвођанске, Вука Караџића од Бориса Кидрича до М.Тита."
+      ],
+      "reason": null,
+      "note": "Старчево: М.Тита од Вука Караџића до Војвођанске, Вука Караџића од Бориса Кидрича до М.Тита.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

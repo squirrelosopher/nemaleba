@@ -5,28 +5,7 @@
     "nameLatin": "Batočina",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [
-    {
-      "id": "57f1424ec2f4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-05",
-      "areaLabel": "Баточина",
-      "time": {
-        "start": "11:30",
-        "end": "12:00"
-      },
-      "streets": [
-        "14 октобра",
-        "Цара Душана",
-        "Краља Петра Првог",
-        "Танаска Рајића"
-      ],
-      "reason": null,
-      "note": "14 октобра, Цара Душана, Краља Петра Првог, Танаска Рајића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-07",
