@@ -7,6 +7,159 @@
   },
   "outages": [
     {
+      "id": "adf851e461c6",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Кисач и Степановићево"
+      ],
+      "reason": null,
+      "note": "Због планираних радова Електродистрибуције Нови Сад, без воде ће од 8.30 до 14.30 сати бити Кисач и Степановићево.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-utorak-29-9-2026/"
+    },
+    {
+      "id": "abd1ec784e02",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-29",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "17:00"
+      },
+      "streets": [
+        "насеље Горње ливаде"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 17 сати бити насеље Горње ливаде.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-utorak-29-9-2026/"
+    },
+    {
+      "id": "cb639eeb73cd",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-29",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица Васе Стајића и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Васе Стајића и околне улице у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-utorak-29-9-2026/"
+    },
+    {
+      "id": "70bc8d1af4f9",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-29",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Улица Владимира Назора"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Владимира Назора у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-utorak-29-9-2026/"
+    },
+    {
+      "id": "f2b477bd42a7",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-30",
+      "areaLabel": "Буковцу",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Карађорђева и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Карађорђева и околне улице у Буковцу.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-30-9-2026/"
+    },
+    {
+      "id": "c3293bacf9e4",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-09-30",
+      "areaLabel": "Сремским Карловцима",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица Димитрија Сабова"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Димитрија Сабова у Сремским Карловцима.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-30-9-2026/"
+    },
+    {
+      "id": "d271ec8bbb4e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-01",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица Змајевац"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Змајевац у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-1-10-2026/"
+    },
+    {
+      "id": "cffb2c5cd8a3",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-02",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "13:00"
+      },
+      "streets": [
+        "део Улице Петефи Шандора (од Улице Горана Ковачевића до Улице Милана Савића)"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити део Улице Петефи Шандора (од Улице Горана Ковачевића до Улице Милана Савића).",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-2-10-2026/"
+    },
+    {
+      "id": "0ef984f6700d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-02",
+      "areaLabel": "Сремским Карловцима",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Улица Воросово"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Воросово у Сремским Карловцима.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-2-10-2026/"
+    },
+    {
       "id": "bf118164653b",
       "utility": "electricity",
       "kind": "planned",
@@ -38,6 +191,40 @@
       "reason": null,
       "note": "Др. Кетрин Макфел 3-41, 28-56, Иве Андрића, Зеленгорска, Сремских Партизана 1 А, 2, 4, 12, Ђурђевданска, Ливаде, Соње Маринковић 1-13 А, 2-4 Б, Виноградарска, Болница, Универекспорт, Партизански пут, Грађара.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "6970e67e8e8b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "12:00"
+      },
+      "streets": [
+        "Улица Ђорђа Никшића Јохана"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 12 сати бити Улица Ђорђа Никшића Јохана.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-5-10-2026/"
+    },
+    {
+      "id": "dd8176b8afa3",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "11:30"
+      },
+      "streets": [
+        "Улица цара Лазара"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 11.30 сати бити Улица цара Лазара у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-5-10-2026/"
     },
     {
       "id": "31af70bcb5d8",
