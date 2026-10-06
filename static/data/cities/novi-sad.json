@@ -266,6 +266,23 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-6-10-2026/"
     },
     {
+      "id": "78e4b41176ef",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-06",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица Милована Глишића"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Милована Глишића.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-6-10-2026/"
+    },
+    {
       "id": "c73ffefb33dd",
       "utility": "water",
       "kind": "emergency",
@@ -281,6 +298,43 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Сомборска рампа и околне улице.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-6-10-2026/"
+    },
+    {
+      "id": "dd0a577dbef4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Провалије."
+      ],
+      "reason": null,
+      "note": "Провалије.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2ef11d8b7e56",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Руменачка 30 – 54",
+        "31 – 41",
+        "Здравка Челара 162 - 178",
+        "209 – 233."
+      ],
+      "reason": null,
+      "note": "Руменачка 30 – 54, 31 – 41, Здравка Челара 162 - 178, 209 – 233.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -432,7 +486,7 @@
     {
       "date": "2026-10-06",
       "electricityOutages": 3,
-      "waterOutages": 2
+      "waterOutages": 3
     }
   ]
 }

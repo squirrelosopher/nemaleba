@@ -5,7 +5,33 @@
     "nameLatin": "Vlasotince",
     "branchCyrillic": "Лесковац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "71b9a56a177f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Власотинце",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Страњево",
+        "Добровиш",
+        "Тегошница",
+        "Доње Гаре",
+        "Кречинове",
+        "Вус",
+        "Козило",
+        "Крстићево Добропољско",
+        "Добро Поље и Бистрица"
+      ],
+      "reason": null,
+      "note": "Страњево, Добровиш, Тегошница, Доње Гаре, Кречинове, Вус, Козило, Крстићево Добропољско, Добро Поље и Бистрица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-05",

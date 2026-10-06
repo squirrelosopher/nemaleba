@@ -25,6 +25,26 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "b75fb5e93fa0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Смиљански закоси",
+        "Крст",
+        "Шаиновци",
+        "део Водица"
+      ],
+      "reason": null,
+      "note": "Смиљански закоси, Крст, Шаиновци, део Водица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "ff4fd73faf4e",
       "utility": "electricity",
       "kind": "planned",
@@ -40,6 +60,45 @@
       "reason": null,
       "note": "Делови улица: Властимира Павловића и Васе Мићића",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "087ab5b5da58",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Борова глава",
+        "Зајмовина",
+        "Мањак",
+        "Доброселица",
+        "Точковица Стубло"
+      ],
+      "reason": null,
+      "note": "Борова глава, Зајмовина, Мањак, Доброселица, Точковица Стубло",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "cf88db3e9aef",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Ђуровића гробље",
+        "Јабланица"
+      ],
+      "reason": null,
+      "note": "Ђуровића гробље, Јабланица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

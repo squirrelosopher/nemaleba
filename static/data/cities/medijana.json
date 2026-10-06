@@ -41,6 +41,25 @@
       "reason": null,
       "note": "делови улица Вожда Карађорђа (непарни бр. 43-51) и Зеленгорске (30,32);",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "ed24e0795b8e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Медијана",
+      "time": {
+        "start": "10:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "Део улице Сремске (2",
+        "2а",
+        "4)"
+      ],
+      "reason": null,
+      "note": "Део улице Сремске (2,2а,4)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

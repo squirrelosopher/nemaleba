@@ -92,6 +92,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
+      "id": "8572a8e718f2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Мали Зворник",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Будишић"
+      ],
+      "reason": null,
+      "note": "Будишић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
       "id": "7616193f4b3c",
       "utility": "electricity",
       "kind": "planned",
@@ -108,23 +125,6 @@
       ],
       "reason": null,
       "note": "Мали Радаљ, Радаљ бања, Липово брдо",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
-    },
-    {
-      "id": "8572a8e718f2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Мали Зворник",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Будишић"
-      ],
-      "reason": null,
-      "note": "Будишић",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     },
     {

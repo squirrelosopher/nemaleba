@@ -92,23 +92,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "44c67817df81",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Бајина Башта",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеља: Бушино – на НН изводу за Лакендиће"
-      ],
-      "reason": null,
-      "note": "Насеља: Бушино – на НН изводу за Лакендиће",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
-    },
-    {
       "id": "f6aba0ef1647",
       "utility": "electricity",
       "kind": "planned",
@@ -123,6 +106,23 @@
       ],
       "reason": null,
       "note": "Насеља: Кузмани, Братићевићи, Јосиповићи и Љештанско",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "44c67817df81",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Бајина Башта",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насеља: Бушино – на НН изводу за Лакендиће"
+      ],
+      "reason": null,
+      "note": "Насеља: Бушино – на НН изводу за Лакендиће",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {

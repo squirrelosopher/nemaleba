@@ -1039,6 +1039,24 @@
       ],
       "reason": "поправка кућног прикључка",
       "note": "Шумарице, ул. Валентина Водника ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "1e70892acb04",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Димитрија Туцовића 27 - 29",
+        "Првослава Стојановића 16"
+      ],
+      "reason": null,
+      "note": "Димитрија Туцовића 27 - 29, Првослава Стојановића 16",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
