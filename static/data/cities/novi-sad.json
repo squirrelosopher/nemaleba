@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "f2b477bd42a7",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-30",
-      "areaLabel": "Буковцу",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [
-        "Карађорђева и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Карађорђева и околне улице у Буковцу.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-30-9-2026/"
-    },
-    {
-      "id": "c3293bacf9e4",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-09-30",
-      "areaLabel": "Сремским Карловцима",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Улица Димитрија Сабова"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Димитрија Сабова у Сремским Карловцима.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-30-9-2026/"
-    },
-    {
       "id": "d271ec8bbb4e",
       "utility": "water",
       "kind": "emergency",
@@ -318,11 +284,6 @@
   ],
   "history": [
     {
-      "date": "2026-09-06",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
-    {
       "date": "2026-09-07",
       "electricityOutages": 4,
       "waterOutages": 2
@@ -464,6 +425,11 @@
     },
     {
       "date": "2026-10-07",
+      "electricityOutages": 2,
+      "waterOutages": 2
+    },
+    {
+      "date": "2026-10-08",
       "electricityOutages": 2,
       "waterOutages": 2
     }
