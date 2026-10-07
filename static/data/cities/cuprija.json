@@ -5,7 +5,75 @@
     "nameLatin": "Ćuprija",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "40af3e51d82a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "11 Октобар од ТС ка болници",
+        "Пастерова",
+        "Млинска до Ј.Милосављевић",
+        "11 Октоба нова 1",
+        "БП",
+        "Кнез Петрол\"",
+        "ДОО Николић",
+        "трговина",
+        "Аман\""
+      ],
+      "reason": null,
+      "note": "11 Октобар од ТС ка болници,Пастерова,Млинска до Ј.Милосављевић,11 Октоба нова 1,БП,,Кнез Петрол\" , ДОО Николић,трговина,, Аман\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "d5c91c1cc31d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "део села Исакова рејон Брест"
+      ],
+      "reason": null,
+      "note": "део села Исакова рејон Брест",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "fb34031a8cdd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "11 Октобар од ТС ка болници",
+        "Пастерова",
+        "Млинска до Ј.Милосављевић",
+        "11 Октоба нова 1",
+        "БП",
+        "Кнез Петрол\"",
+        "ДОО Николић",
+        "трговина",
+        "Аман\""
+      ],
+      "reason": null,
+      "note": "11 Октобар од ТС ка болници,Пастерова,Млинска до Ј.Милосављевић,11 Октоба нова 1,БП,,Кнез Петрол\" , ДОО Николић,трговина,, Аман\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-06",

@@ -5,7 +5,32 @@
     "nameLatin": "Prijepolje",
     "branchCyrillic": "Ужице"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "820cb12581b6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Пријепоље",
+      "time": {
+        "start": "10:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Насеља Залуг",
+        "Луке",
+        "Бостани",
+        "Сељашница",
+        "део Коловрата (Аџина Њива...) и сеоског подручја Аљиновића",
+        "Косатице",
+        "Јабуке",
+        "Бабина."
+      ],
+      "reason": null,
+      "note": "Насеља Залуг, Луке, Бостани, Сељашница, део Коловрата (Аџина Њива...) и сеоског подручја Аљиновића, Косатице, Јабуке, Бабина.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-06",

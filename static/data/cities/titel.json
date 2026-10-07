@@ -5,7 +5,25 @@
     "nameLatin": "Titel",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "707556bcc8c7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Тител",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Вилово: 22 Октобра од Тиме Берара до кбр 53."
+      ],
+      "reason": null,
+      "note": "Вилово: 22 Октобра од Тиме Берара до кбр 53.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-26",

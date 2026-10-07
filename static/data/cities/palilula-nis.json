@@ -74,6 +74,23 @@
       "reason": null,
       "note": "Делови улица Симе Јоцића, Војислава Васе Станковића, Маршала Тита, Симе Крстовића у Сувом Долу",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "73e250620f24",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "део улице 1. у Насељу Милка Протић;"
+      ],
+      "reason": null,
+      "note": "део улице 1. у Насељу Милка Протић;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

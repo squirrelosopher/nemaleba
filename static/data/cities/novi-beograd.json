@@ -39,6 +39,23 @@
       "reason": null,
       "note": "ОМЛАДИНСКИХ БРИГАДА: 16А-18Б,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "bd76f348e2ae",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-10",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "08:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "САВСКИ НАСИП: 7"
+      ],
+      "reason": null,
+      "note": "САВСКИ НАСИП: 7,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

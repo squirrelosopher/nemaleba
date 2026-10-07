@@ -1,0 +1,43 @@
+{
+  "city": {
+    "id": "bosilegrad",
+    "nameCyrillic": "Босилеград",
+    "nameLatin": "Bosilegrad",
+    "branchCyrillic": "Лесковац"
+  },
+  "outages": [
+    {
+      "id": "25b474996b72",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Босилеград",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Рикачево",
+        "Бранковци",
+        "Бистар",
+        "Доње и Горње Тламино",
+        "Караманица",
+        "Голеш",
+        "Жеравино",
+        "Јарешник",
+        "Назарица",
+        "Доганица и Зли Дол"
+      ],
+      "reason": null,
+      "note": "Рикачево, Бранковци, Бистар, Доње и Горње Тламино, Караманица, Голеш, Жеравино, Јарешник, Назарица, Доганица и Зли Дол",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-10-07",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

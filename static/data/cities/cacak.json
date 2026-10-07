@@ -40,6 +40,41 @@
       "reason": null,
       "note": "Потрошачи у Бечњу из ТС Бечањ 2 Јасење извод за Штале",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "bf31bce99610",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Потрошачи у делу Ракове",
+        "Чарапићи и Мијаијловићи."
+      ],
+      "reason": null,
+      "note": "Потрошачи у делу Ракове,Чарапићи и Мијаијловићи.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "5a1931c0fcce",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Потрошачи у делу Катрге до Обрве и Тавника."
+      ],
+      "reason": null,
+      "note": "Потрошачи у делу Катрге до Обрве и Тавника.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -248,6 +248,23 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-7-10-2026/"
     },
     {
+      "id": "6b0c7d43b5fd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Сремска Каменица: Соње Маринковић, Сремских партизана, Плитвичка, Цветна, Планинска, Гогољева, Повртарска, Горњи пут, Доњи пут, Месечева, Потез Ливасе – Мали рај, Водовод."
+      ],
+      "reason": null,
+      "note": "Сремска Каменица: Соње Маринковић, Сремских партизана, Плитвичка, Цветна, Планинска, Гогољева, Повртарска, Горњи пут, Доњи пут, Месечева, Потез Ливасе – Мали рај, Водовод.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "532ed0300fc6",
       "utility": "water",
       "kind": "emergency",
@@ -263,6 +280,23 @@
       "reason": null,
       "note": "Због планираних радова Електродистрибуције Нови Сад, без воде ће од 8.30 до 13.30 сати бити насеље Чардак.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-cetvrtak-8-10-2026/"
+    },
+    {
+      "id": "d7a2a2a6d8ea",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Сремска Каменица: Иве Лоле Рибара 1 – 17, 2 – 16, Трг Змај Јове 2."
+      ],
+      "reason": null,
+      "note": "Сремска Каменица: Иве Лоле Рибара 1 – 17, 2 – 16, Трг Змај Јове 2.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "41025f4a0ad2",
