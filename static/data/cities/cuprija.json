@@ -5,28 +5,7 @@
     "nameLatin": "Ćuprija",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [
-    {
-      "id": "7929a8e99c85",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-06",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Крагујевачка до ул.Ј.Милосављевић",
-        "Ж.Станисављевић",
-        "11 Октобар од Млинске до аутопута",
-        "К.Абрашевић"
-      ],
-      "reason": null,
-      "note": "Крагујевачка до ул.Ј.Милосављевић,Ж.Станисављевић,11 Октобар од Млинске до аутопута,К.Абрашевић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-06",

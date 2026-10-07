@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "21508b5e29be",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-06",
-      "areaLabel": "Јагодина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље Ђурђево Брдо"
-      ],
-      "reason": null,
-      "note": "Насеље Ђурђево Брдо",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "47f7bde8dafb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-06",
-      "areaLabel": "Јагодина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Од цента Ракитова према Кончареву"
-      ],
-      "reason": null,
-      "note": "Од цента Ракитова према Кончареву",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "9e9991846ae0",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део села Багрдан",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ea7a9dcf4743",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Део села Драгоцвет",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "59b8a8c3fe27",
@@ -89,7 +55,7 @@
       ],
       "reason": null,
       "note": "Села Војска и Мачевац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "badbb642550a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-06",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "БУЛЕВАР АРСЕНИЈА ЧАРНОЈЕВИЋА: 130-130,134,146-154, БУЛЕВАР ЗОРАНА ЂИНЂИЋА : ББ, ОМЛАДИНСКИХ БРИГАДА: 20-36"
-      ],
-      "reason": null,
-      "note": "БУЛЕВАР АРСЕНИЈА ЧАРНОЈЕВИЋА: 130-130,134,146-154, БУЛЕВАР ЗОРАНА ЂИНЂИЋА : ББ, ОМЛАДИНСКИХ БРИГАДА: 20-36,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8e36be0f350b",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "БУЛЕВАР МИХАЈЛА ПУПИНА (Булевар Лењина): 167А, ОМЛАДИНСКИХ БРИГАДА: 2-4,2-6А, ПАРИСКЕ КОМУНЕ: 1-5,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "a6efdbabe75f",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "ОМЛАДИНСКИХ БРИГАДА: 16А-18Б,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

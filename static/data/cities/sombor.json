@@ -7,88 +7,6 @@
   },
   "outages": [
     {
-      "id": "5d1fd6f0b274",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-06",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "08:30",
-        "end": "09:30"
-      },
-      "streets": [
-        "Колонија Шећеране 4-22",
-        "1-23",
-        "ББ",
-        "Кулски пут 7",
-        "15-23",
-        "ББ",
-        "Шећерана 1."
-      ],
-      "reason": null,
-      "note": "Колонија Шећеране 4-22, 1-23, ББ, Кулски пут 7, 15-23, ББ, Шећерана 1.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "afac0307a0af",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-06",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "09:45",
-        "end": "10:45"
-      },
-      "streets": [
-        "Козарачка ББ."
-      ],
-      "reason": null,
-      "note": "Козарачка ББ.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "7527a8961936",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-06",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Палих бораца 9-11",
-        "М.Тита 87",
-        "91",
-        "95",
-        "ББ",
-        "Трг Н.Пашића ББ",
-        "Н.фронта 58-68",
-        "61-79."
-      ],
-      "reason": null,
-      "note": "Палих бораца 9-11, М.Тита 87, 91, 95, ББ, Трг Н.Пашића ББ, Н.фронта 58-68, 61-79.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a786568e646a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-06",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "12:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Палих бораца 9-11",
-        "М.Тита 87."
-      ],
-      "reason": null,
-      "note": "Палих бораца 9-11, М.Тита 87.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "30c1dbda9f43",
       "utility": "electricity",
       "kind": "planned",
@@ -103,7 +21,7 @@
       ],
       "reason": null,
       "note": "Сомбор: Х.Светића, Приједорска, Зрмањска, Балканска, Р.Кораћа, Б.Бухе, Сарајевска, Ђ.Салаја, Дунавска, Пинкијева 25-67А, 22-70, Н.Тесле 27-77, 18А-54, С.Мацуре, Солунских бораца 3-11, 2-24, Моношторска 35-45, 32-34, С.Матавуља 1-9.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4334f3b67d34",
@@ -120,7 +38,7 @@
       ],
       "reason": null,
       "note": "Сомбор: П.Драпшина, Пожаревачка, 12.Војвођ.ударне бригаде 11-29 и 2-24, Венац Р.Путника 11-17.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5faf4cf263c0",
@@ -137,7 +55,7 @@
       ],
       "reason": null,
       "note": "Сомбор: Моношторска 35-45А, 32-34, С.Матавуља 1-9, Солунских Бораца 2, Ђ.Салаја, Сарајевска, Н.Тесле 27-77, 18А-54, Пинкијева 37-45, 32-40.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "e7c0dbd3690f",
@@ -154,7 +72,7 @@
       ],
       "reason": null,
       "note": "Сомбор: Р.Марјанца, део Б.Вребалова, Љ.Одаџић, 7.Впјвођ.ударне бригаде, Д.Васиљева, Диогенова, део Браће Миладинов, М.Стричавића, Пролетерска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

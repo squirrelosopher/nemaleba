@@ -7,25 +7,6 @@
   },
   "outages": [
     {
-      "id": "56329e967ac5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-06",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи",
-        "Ивановићи",
-        "Јевтовићи)"
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи, Ивановићи, Јевтовићи)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d91d4de3ac22",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +22,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Луновог Села на изводу за Антонијевиће, Пониковица и Антонијевићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "c294d028efc3",
@@ -60,7 +41,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи, Ивановићи, Јевтовићи)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "359147f16bf8",
@@ -79,7 +60,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи, Ивановићи, Јевтовићи)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "c0dba1aa1044",
@@ -96,7 +77,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Доњих Дрчелића на Татинцу.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "71e147b8ac5e",
@@ -115,7 +96,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи, Ивановићи, Јевтовићи)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "4dd197fadb15",
@@ -135,7 +116,7 @@
       ],
       "reason": null,
       "note": "Насеља Црквари,Растова коса,Локва,Сарића осоје и део Мендиног брда",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "b3afc22ba75f",
@@ -152,6 +133,25 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Ћатића и Божића у Карану",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "9b1d156638fd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-10",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи",
+        "Ивановићи",
+        "Јевтовићи)"
+      ],
+      "reason": null,
+      "note": "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи, Ивановићи, Јевтовићи)",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],

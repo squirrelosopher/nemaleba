@@ -5,27 +5,7 @@
     "nameLatin": "Aranđelovac",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [
-    {
-      "id": "8e4166f2704a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-06",
-      "areaLabel": "Аранђеловац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "насеље око градске депоније",
-        "насеље Раниловић - Вуковићи",
-        "насеље Мисача - шатра"
-      ],
-      "reason": null,
-      "note": "насеље око градске депоније, насеље Раниловић - Вуковићи, насеље Мисача - шатра",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-06",
