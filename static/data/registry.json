@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T16:11:03.599Z",
+  "generatedAt": "2026-10-07T17:23:42.955Z",
   "summary": {
     "date": "2026-10-07",
     "electricityOutages": 251,
-    "waterOutages": 21,
+    "waterOutages": 22,
     "affected": [
       {
         "id": "beograd",
@@ -114,6 +114,12 @@
         "waterOutages": 0
       },
       {
+        "id": "valjevo",
+        "nameCyrillic": "Ваљево",
+        "electricityOutages": 3,
+        "waterOutages": 1
+      },
+      {
         "id": "zajecar",
         "nameCyrillic": "Зајечар",
         "electricityOutages": 4,
@@ -164,12 +170,6 @@
       {
         "id": "bela-palanka",
         "nameCyrillic": "Бела Паланка",
-        "electricityOutages": 3,
-        "waterOutages": 0
-      },
-      {
-        "id": "valjevo",
-        "nameCyrillic": "Ваљево",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -558,7 +558,7 @@
     {
       "date": "2026-10-07",
       "electricityOutages": 82,
-      "waterOutages": 19
+      "waterOutages": 20
     }
   ],
   "providers": [

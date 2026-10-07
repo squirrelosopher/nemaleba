@@ -25,6 +25,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "384d2b8fb9d3",
+      "utility": "water",
+      "kind": "planned",
+      "date": "2026-10-07",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": null,
+        "end": "17:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Због замене секторског затварача у улици Узун Мирковој, без водоснабдевања ће бити потрошачи у следећим улицама: Хајдук Вељковој, Карађорђевој (од улице Хајдук Вељкове до улице Узун Миркове, Узун Миркова, Владике Николаја (од Узун Миркове до краја), насеље Ослободиоци Ваљева, Ново насеље, Горић, Попучке, Лукавац, Забрдица, Дупљај, Дивци и Кланица, у среду, 07.10.2026. године, у периоду од 4 сата ујутру па све до 17 часова.",
+      "sourceUrl": "https://vodovodva.co.rs/zamena_sektorskog_zatvaraca/"
+    },
+    {
       "id": "8c3fbe9d3d0f",
       "utility": "electricity",
       "kind": "planned",
@@ -208,7 +223,7 @@
     {
       "date": "2026-10-07",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
