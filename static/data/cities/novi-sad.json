@@ -214,6 +214,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "a110ea32b84a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-07",
+      "areaLabel": "Ковиљ",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Улица Ада"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Ада у Ковиљу.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-7-10-2026/"
+    },
+    {
       "id": "41025f4a0ad2",
       "utility": "water",
       "kind": "emergency",
@@ -380,7 +397,7 @@
     {
       "date": "2026-10-07",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
