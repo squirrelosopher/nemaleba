@@ -77,6 +77,21 @@
       "reason": "Санација кварова на водоводној мрежи",
       "note": "Улица Васе Пелагића број 5 Лука Кварови на мерним местима – у шахтама",
       "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-06-10-2026-god/"
+    },
+    {
+      "id": "898e60742947",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-07",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Хомољска улица",
+        "Улица Николе Коперника"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Хомољска улица Улица Николе Коперника Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-sreda-07-10-2026-god/"
     }
   ],
   "history": [
@@ -228,7 +243,7 @@
     {
       "date": "2026-10-07",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
