@@ -32,11 +32,6 @@
   ],
   "history": [
     {
-      "date": "2026-09-07",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
-    {
       "date": "2026-09-08",
       "electricityOutages": 0,
       "waterOutages": 0
@@ -179,6 +174,11 @@
     {
       "date": "2026-10-08",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-09",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

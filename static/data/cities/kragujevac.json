@@ -7,106 +7,6 @@
   },
   "outages": [
     {
-      "id": "125306896cf2",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-01",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-01-10-2026/",
-      "areaLabel": "Багремар",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Илинденска"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Хаваријска искључења на дан 01.10.2026. \n \n Багремар, ул. Илинденска ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "80dfbf7cdccd",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-01",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-01-10-2026/",
-      "areaLabel": "Сушица",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Јанка Јанковића Осињака"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Сушица, ул. Јанка Јанковића Осињака ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "8a7ba31acdca",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-01",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-01-10-2026/",
-      "areaLabel": "Белошевац",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Милоша Савковића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Белошевац, ул. Милоша Савковића ( од 12:00 до 16:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "61f266512984",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-01",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-01-10-2026/",
-      "areaLabel": "Ердеч",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Милутина Јовановића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Ердеч, ул. Милутина Јовановића ( од 12:00 до 16:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "29182b7f69fb",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-01",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-01-10-2026/",
-      "areaLabel": "Јовановића",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [],
-      "reason": "поправка уличне линије",
-      "note": "Маршић, угао Старе порте – С.Јовановића ( од 16:00 до 19:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "f2fcd1d93521",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-01",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-01-10-2026/",
-      "areaLabel": "Центар",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Краља Петра првог"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Центар, ул. Краља Петра првог ( од 16:00 до 19:00 часова ), поправка уличне линије."
-    },
-    {
       "id": "cdd27617d3a8",
       "utility": "water",
       "kind": "emergency",
@@ -1066,11 +966,6 @@
   ],
   "history": [
     {
-      "date": "2026-09-07",
-      "electricityOutages": 2,
-      "waterOutages": 11
-    },
-    {
       "date": "2026-09-08",
       "electricityOutages": 2,
       "waterOutages": 11
@@ -1214,6 +1109,11 @@
       "date": "2026-10-08",
       "electricityOutages": 1,
       "waterOutages": 12
+    },
+    {
+      "date": "2026-10-09",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }

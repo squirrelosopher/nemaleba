@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "d271ec8bbb4e",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-01",
-      "areaLabel": "Сремска Каменица",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Улица Змајевац"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Змајевац у Сремској Каменици.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-1-10-2026/"
-    },
-    {
       "id": "cffb2c5cd8a3",
       "utility": "water",
       "kind": "emergency",
@@ -332,11 +315,6 @@
   ],
   "history": [
     {
-      "date": "2026-09-07",
-      "electricityOutages": 4,
-      "waterOutages": 2
-    },
-    {
       "date": "2026-09-08",
       "electricityOutages": 4,
       "waterOutages": 2
@@ -480,6 +458,11 @@
       "date": "2026-10-08",
       "electricityOutages": 2,
       "waterOutages": 3
+    },
+    {
+      "date": "2026-10-09",
+      "electricityOutages": 4,
+      "waterOutages": 0
     }
   ]
 }
