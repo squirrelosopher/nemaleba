@@ -7,66 +7,6 @@
   },
   "outages": [
     {
-      "id": "f02f8adc6e80",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-05",
-      "areaLabel": "Ботош",
-      "time": {
-        "start": "12:00",
-        "end": "13:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "БОТОШ – санација квара на водоводној мрежи у улици Ђурић Стевана код броја 44, прекид водоснабдевања у целом насељеном месту од 12 до 13 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-30-09-2026-godine/"
-    },
-    {
-      "id": "ea325cd151c2",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-05",
-      "areaLabel": "Меленци",
-      "time": {
-        "start": "12:00",
-        "end": "13:15"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "МЕЛЕНЦИ – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту од 12 до 13:15 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-30-09-2026-godine/"
-    },
-    {
-      "id": "ec1c523b5f44",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-05",
-      "areaLabel": "Aрадац",
-      "time": {
-        "start": null,
-        "end": "16:30"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "AРАДАЦ – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 16:30 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-30-09-2026-godine/"
-    },
-    {
-      "id": "33e44cffba0d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-06",
-      "areaLabel": "Дуваника",
-      "time": {
-        "start": null,
-        "end": "17:30"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "ДУВАНИКА (ЗРЕЊАНИН) – санација квара на водоводној мрежи, прекид водоснабдевања на Дуваници и у Бригадира Ристића до 17:30 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-06-10-2026-godine/"
-    },
-    {
       "id": "d19890bd5436",
       "utility": "electricity",
       "kind": "planned",
