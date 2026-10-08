@@ -243,6 +243,23 @@
       "reason": null,
       "note": "Због планираних радова на водоводној мрежи без воде ће од 10 до 16 сати бити улице Прерадовићева, Ивана Мажуранића, Карловачких учитеља и Дунавска у Сремским Карловцима.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-cetvrtak-8-10-2026/"
+    },
+    {
+      "id": "fe3939d7f2c4",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-08",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "11:00"
+      },
+      "streets": [
+        "Улица Ђорђа Рајковића"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 11 сати бити Улица Ђорђа Рајковића.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-cetvrtak-8-10-2026/"
     }
   ],
   "history": [
@@ -394,7 +411,7 @@
     {
       "date": "2026-10-08",
       "electricityOutages": 2,
-      "waterOutages": 2
+      "waterOutages": 3
     }
   ]
 }
