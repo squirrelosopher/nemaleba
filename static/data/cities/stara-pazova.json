@@ -5,25 +5,7 @@
     "nameLatin": "Stara Pazova",
     "branchCyrillic": "Рума"
   },
-  "outages": [
-    {
-      "id": "d531ff6dc15b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Стара Пазова",
-      "time": {
-        "start": "08:00",
-        "end": "08:30"
-      },
-      "streets": [
-        "Стари Бановци: Ј.Коцића."
-      ],
-      "reason": null,
-      "note": "Стари Бановци: Ј.Коцића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-07",

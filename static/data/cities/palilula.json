@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "b548c855be5c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "БУЛ КРАЉ.АЛЕКСАНДРА: 67А,71, КАРНЕЏИЈЕВА: 2"
-      ],
-      "reason": null,
-      "note": "БУЛ КРАЉ.АЛЕКСАНДРА: 67А,71, КАРНЕЏИЈЕВА: 2,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "5e6c271f64e2",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "ДР НИКА МИЉАНИЋА: 10-20,15-19, ДРАГОСЛАВА СРЕЈОВИЋА: 42-58а,70-74,169-171, ПРОМИНСКА: 2-12,1-27, САЛВАДОРА АЉЕНДЕА: 43, Насеље БЕОГРАД: ДР ДРАГЕ ЉОЧИЋ: 2-16,1-7,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

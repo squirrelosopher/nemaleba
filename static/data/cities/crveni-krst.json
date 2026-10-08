@@ -5,28 +5,7 @@
     "nameLatin": "Crveni krst",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "60f02769e9f5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Црвени крст",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Делови Хума",
-        "Рујника",
-        "Лесковика",
-        "Церја"
-      ],
-      "reason": null,
-      "note": "Делови Хума, Рујника, Лесковика, Церја",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-07",

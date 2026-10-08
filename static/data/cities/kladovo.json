@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "92f2dbb64eba",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Кладово",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Засеоци Пропазешће и Велики Пепео"
-      ],
-      "reason": null,
-      "note": "Засеоци Пропазешће и Велики Пепео",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "3d03fd90ba3b",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеља Стара Брза и Купузиште са припадајућим викенд насељима .",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9433cfddbd31",
@@ -62,7 +45,7 @@
       ],
       "reason": null,
       "note": "Кладово Зграда Суда, Зграда бившег Комитета, Зграда Поште, Зграда Комерцијалне банке, Зграда Банке Интеза, део Зелене пијаце, ул.Косанчићева, ул Лоле Рибара и околне улице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

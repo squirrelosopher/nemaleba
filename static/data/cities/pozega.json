@@ -5,7 +5,25 @@
     "nameLatin": "Požega",
     "branchCyrillic": "Ужице"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "8bd719d923ea",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-11",
+      "areaLabel": "Пожега",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Насеља: Татојевица, Ариљска Рампа,Расна,Речице.Сврачково,Роге,Горобиље,Милићево село,Пилатовићи,Годовик"
+      ],
+      "reason": null,
+      "note": "Насеља: Татојевица, Ариљска Рампа,Расна,Речице.Сврачково,Роге,Горобиље,Милићево село,Пилатовићи,Годовик",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-12",

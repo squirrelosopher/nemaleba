@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "ace1b70f554e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Без напона остају потрошачи у викенд насељу на Сави",
-        "фирма Југокоп и црпне станице на Сави."
-      ],
-      "reason": null,
-      "note": "Без напона остају потрошачи у викенд насељу на Сави ,фирма Југокоп и црпне станице на Сави.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1dcc62676cb3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Без напона остају купци на изводу за малу Росуља у Криваји."
-      ],
-      "reason": null,
-      "note": "Без напона остају купци на изводу за малу Росуља у Криваји.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "931debd489aa",
       "utility": "electricity",
       "kind": "planned",
@@ -57,7 +22,7 @@
       ],
       "reason": null,
       "note": "Без напона остају потрошачи у викенд насељу на Сави ,фирма Југокоп и црпне станице на Сави.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "631025a1c74e",
@@ -75,7 +40,7 @@
       ],
       "reason": null,
       "note": "Без напона остају потрошачи у викенд насељу на Сави ,фирма Југокоп и црпне станице на Сави.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

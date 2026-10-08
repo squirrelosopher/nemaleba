@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "БУЛЕВАР МИХАЈЛА ПУПИНА (Булевар Лењина): 167А, ОМЛАДИНСКИХ БРИГАДА: 2-4,2-6А, ПАРИСКЕ КОМУНЕ: 1-5,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a6efdbabe75f",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "ОМЛАДИНСКИХ БРИГАДА: 16А-18Б,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "bd76f348e2ae",
@@ -55,6 +55,23 @@
       ],
       "reason": null,
       "note": "САВСКИ НАСИП: 7,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "b8dd86bdf556",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-11",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "ОМЛАДИНСКИХ БРИГАДА: 23"
+      ],
+      "reason": null,
+      "note": "ОМЛАДИНСКИХ БРИГАДА: 23,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],

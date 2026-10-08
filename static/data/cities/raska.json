@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "0c63b50d536d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Рашка",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "У Јошаникој Бањи засеоци Марићи и Алексићи"
-      ],
-      "reason": null,
-      "note": "У Јошаникој Бањи засеоци Марићи и Алексићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "41e336f10e68",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "У Пискањи засеок Гркајци",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2ae8f6ec1796",
@@ -57,7 +40,7 @@
       ],
       "reason": null,
       "note": "Без напона ће да буду потрошачи који се напајају са ДВ 10 КВ Гњилица- Орахово засеоци села Гњилице- Кањићи, Биочин , Орахово И Луково .ДВ 10КВ Казновиће омча од ТС 10/04 Гњилица кула 10КВ Извод Орахово хитни радови на прокресу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

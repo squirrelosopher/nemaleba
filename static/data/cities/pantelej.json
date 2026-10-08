@@ -7,50 +7,6 @@
   },
   "outages": [
     {
-      "id": "80aaa7d6c4c5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Нозрина"
-      ],
-      "reason": null,
-      "note": "Нозрина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ef90f582fade",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "10:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Делови улица Књажевачке",
-        "Јелашничке",
-        "Васе Пелегића",
-        "Вовођанске",
-        "Др Војислава Вучковића",
-        "Виничке",
-        "Илије Бирчанина",
-        "Бојничке",
-        "Отона Жупанчића",
-        "Партизанске",
-        "Михаила Голубовића"
-      ],
-      "reason": null,
-      "note": "Делови улица Књажевачке, Јелашничке, Васе Пелегића, Вовођанске, Др Војислава Вучковића, Виничке, Илије Бирчанина, Бојничке, Отона Жупанчића, Партизанске, Михаила Голубовића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "4b44d5c311a7",
       "utility": "water",
       "kind": "emergency",
@@ -85,7 +41,7 @@
       ],
       "reason": null,
       "note": "делови улица Доњоврежинске, Јаниса Јанулиса, Мирисних врба, Момчила Миловановића, Николетине Бурсаћа, Синише Радића и Матејевачког пута;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

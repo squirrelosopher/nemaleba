@@ -7,64 +7,6 @@
   },
   "outages": [
     {
-      "id": "b84340d88981",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део улице Ћирила и Методија",
-        "Драгојева",
-        "Доситејева",
-        "Вука Карадзића",
-        "део села Гњилан"
-      ],
-      "reason": null,
-      "note": "Део улице Ћирила и Методија, Драгојева, Доситејева, Вука Карадзића, део села Гњилан",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "0514ab9eb9ae",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "Део улице Први Мај",
-        "Омладинске Бригаде",
-        "Народних Хероја",
-        "Козарачка"
-      ],
-      "reason": null,
-      "note": "Део улице Први Мај, Омладинске Бригаде, Народних Хероја, Козарачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a39576effe3d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Дојкинце"
-      ],
-      "reason": null,
-      "note": "Дојкинце",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b27073b6fd18",
       "utility": "electricity",
       "kind": "planned",
@@ -79,7 +21,7 @@
       ],
       "reason": null,
       "note": "Село Дојкинце",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,42 +5,7 @@
     "nameLatin": "Velika Plana",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [
-    {
-      "id": "27a26e56e2b0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Велика Плана",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Без напајања електричном енергијом ће бити корисници у Новом Селу и делу Марковца код млина."
-      ],
-      "reason": null,
-      "note": "Без напајања електричном енергијом ће бити корисници у Новом Селу и делу Марковца код млина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "af421a50ce6e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-07",
-      "areaLabel": "Велика Плана",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Без напајања електричном енергијом ће бити корисници у Ракинцу."
-      ],
-      "reason": null,
-      "note": "Без напајања електричном енергијом ће бити корисници у Ракинцу.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-07",
