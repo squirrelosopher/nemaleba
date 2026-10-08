@@ -91,6 +91,18 @@
       "reason": null,
       "note": "Тибужде, Брестовац",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "92923fea5059",
+      "utility": "water",
+      "kind": "planned",
+      "date": "2026-10-08",
+      "areaLabel": "Доктор Копше",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због израде водоводне мреже у улици Доктор Копше , без воде биће потрошачи те улице као и потрошачи улице Ћипре Станковића, Филипа Кљајића , и околне   до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/08-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
     }
   ],
   "history": [
@@ -242,7 +254,7 @@
     {
       "date": "2026-10-08",
       "electricityOutages": 5,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
