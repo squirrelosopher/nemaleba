@@ -56,6 +56,57 @@
       "reason": null,
       "note": "део улице 1. у Насељу Милка Протић;",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "9881384f9c39",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "делови Ђорђа Крстића",
+        "Авалска",
+        "Апеловац",
+        "Душана Поповића",
+        "Црвена Звезда",
+        "Габровачка",
+        "Игманска",
+        "Зетска",
+        "Расинска",
+        "Ртањска",
+        "Шабачка",
+        "Крсте Ђорђевића",
+        "Трстеничка",
+        "Илије Крстића Жутог",
+        "Триглавска",
+        "Трајка Јовановића",
+        "Вељка Миљковића;"
+      ],
+      "reason": null,
+      "note": "делови Ђорђа Крстића, Авалска, Апеловац, Душана Поповића, Црвена Звезда, Габровачка, Игманска, Зетска, Расинска, Ртањска, Шабачка, Крсте Ђорђевића, Трстеничка, Илије Крстића Жутог, Триглавска, Трајка Јовановића, Вељка Миљковића;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "b416952f7347",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "делови улица Мокрањчева (19-37)",
+        "Браће Цветковића (15);"
+      ],
+      "reason": null,
+      "note": "делови улица Мокрањчева (19-37), Браће Цветковића (15);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

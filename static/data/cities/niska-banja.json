@@ -5,7 +5,31 @@
     "nameLatin": "Niška Banja",
     "branchCyrillic": "Ниш"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f7db60588ef8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Нишка бања",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "делови Чегарске",
+        "Мојсија Михајловића Тошкета (43",
+        "43а",
+        "49",
+        "51",
+        "58)",
+        "Српских јунака (1);"
+      ],
+      "reason": null,
+      "note": "делови Чегарске, Мојсија Михајловића Тошкета (43,43а,49,51,58), Српских јунака (1);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-07",

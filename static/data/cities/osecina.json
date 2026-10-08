@@ -5,7 +5,44 @@
     "nameLatin": "Osečina",
     "branchCyrillic": "Ваљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "af7d3766c783",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Осечина",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Купци дела села Плужац ( (према Муњи)"
+      ],
+      "reason": null,
+      "note": "Купци дела села Плужац ( (према Муњи)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "3feddc18d297",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Осечина",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "КУпци села Комирић",
+        "Белотић",
+        "Плужац."
+      ],
+      "reason": null,
+      "note": "КУпци села Комирић ,Белотић, Плужац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-07",

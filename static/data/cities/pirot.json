@@ -22,6 +22,42 @@
       "reason": null,
       "note": "Село Дојкинце",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "9ac48c5828e3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Села Дојкинце",
+        "Брлог",
+        "Јеловица и ВН Врело"
+      ],
+      "reason": null,
+      "note": "Села Дојкинце,Брлог,Јеловица и ВН Врело",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "29f2a59ed84d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "11:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део с.Рагодеш"
+      ],
+      "reason": null,
+      "note": "део с.Рагодеш",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

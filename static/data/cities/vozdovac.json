@@ -5,25 +5,7 @@
     "nameLatin": "Voždovac",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "9e385e35002d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Насеље РИПАЊ: ЕРЧАНСКА: 76А-88,27А-31А,35,39-45, ПУТ ЗА ИЛИЋЕ: 2-6, ПУТ ЗА КАЛАЈЏИЋЕ: 12-14А, ПУТ ЗА НЕСТРОВИЋЕ: 2-20,24-26,1,5-9,13-31А, ПУТ ЗА ВОДИЦУ: бб,4-8,12-14А,34,1А-13,17,21-39"
-      ],
-      "reason": null,
-      "note": "Насеље РИПАЊ: ЕРЧАНСКА: 76А-88,27А-31А,35,39-45, ПУТ ЗА ИЛИЋЕ: 2-6, ПУТ ЗА КАЛАЈЏИЋЕ: 12-14А, ПУТ ЗА НЕСТРОВИЋЕ: 2-20,24-26,1,5-9,13-31А, ПУТ ЗА ВОДИЦУ: бб,4-8,12-14А,34,1А-13,17,21-39,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-07",
@@ -172,7 +154,7 @@
     },
     {
       "date": "2026-10-08",
-      "electricityOutages": 1,
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]
