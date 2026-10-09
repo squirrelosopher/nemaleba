@@ -58,23 +58,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "47da13fc7af4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Насеље БАТАЈНИЦА: ЦАРИЦЕ ЈЕЛЕНЕ : 2,18-26,13-27, ЈОВАНА БРАНКОВИЋА : 2-14,26,1-7А, КРАЉА РАДОСЛАВА : 6, ПУКОВНИКА МИЛЕНКА ПАВЛОВИЋА : 2-22,1-9А,13-15"
-      ],
-      "reason": null,
-      "note": "Насеље БАТАЈНИЦА: ЦАРИЦЕ ЈЕЛЕНЕ : 2,18-26,13-27, ЈОВАНА БРАНКОВИЋА : 2-14,26,1-7А, КРАЉА РАДОСЛАВА : 6, ПУКОВНИКА МИЛЕНКА ПАВЛОВИЋА : 2-22,1-9А,13-15,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a6efdbabe75f",
       "utility": "electricity",
       "kind": "planned",
@@ -177,6 +160,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "10c3be2e46ba",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-09",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "15:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеље БАТАЈНИЦА: ЦАРИЦЕ ЈЕЛЕНЕ : 2,18-26,13-27, ЈОВАНА БРАНКОВИЋА : 2-14,26,1-7А, КРАЉА РАДОСЛАВА : 6, ПУКОВНИКА МИЛЕНКА ПАВЛОВИЋА : 2-22,1-9А,13-15"
+      ],
+      "reason": null,
+      "note": "Насеље БАТАЈНИЦА: ЦАРИЦЕ ЈЕЛЕНЕ : 2,18-26,13-27, ЈОВАНА БРАНКОВИЋА : 2-14,26,1-7А, КРАЉА РАДОСЛАВА : 6, ПУКОВНИКА МИЛЕНКА ПАВЛОВИЋА : 2-22,1-9А,13-15,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
       "id": "4baff989b810",
       "utility": "electricity",
       "kind": "planned",
@@ -259,40 +259,6 @@
       ],
       "reason": null,
       "note": "Насеље БГ-КРЊАЧА: ГРГЕ АНДРИЈАНОВИЋА УЛИЦА 2: 33-57, ГРГЕ АНДРИЈАНОВИЋА УЛИЦА 3: 12-20,24-24Б, СЕБЕШ ОВЧАНСКИ: 10-22,52-54Б,1-17,21-29А, ЗАГЕ МАЛИВУК УЛИЦА 2: 2-12Д,17А-25, ЗАГЕ МАЛИВУК УЛИЦА 3: 2-24,28,1-13,21-23А, ЗАГЕ МАЛИВУК УЛИЦА 4: ББ,2-4,10А,14-22,58,1-15,21-23,53А,65, Насеље Крњача: ГРГЕ АНДРИЈАНОВИЋА УЛИЦА 2: 4,38-44, МАКСИМА ГОРКОГ: 10Б,24-42,54,9-29,51-51В, СЕБЕШ ОВЧАНСКИ: 0ББ-6,30-30А,59, ЗАГЕ МАЛИВУК: 8,9Г,17В, ЗАГЕ МАЛИВУК УЛИЦА 3: 50,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "a7164a5004fa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-10",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "10:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "ЦАРА ДУШАНА: 222-224,228-230А,254-264А,173-201, ФИЛИПА ВИШЊИЋА: 2, КАРЛОВАЧКА: 4-16,1-15, ПРЕГРЕВИЦА : 178В,191-193а, ПРИЗРЕНСКА: 22,26-42В/2,48-54,29-39, СКОПЉАНСКА: 2, ШУМАДИЈСКА: ББ,6,16,22-36,5-21,39-39,47-49, ЗАДУЖБИНСКА: 3-17"
-      ],
-      "reason": null,
-      "note": "ЦАРА ДУШАНА: 222-224,228-230А,254-264А,173-201, ФИЛИПА ВИШЊИЋА: 2, КАРЛОВАЧКА: 4-16,1-15, ПРЕГРЕВИЦА : 178В,191-193а, ПРИЗРЕНСКА: 22,26-42В/2,48-54,29-39, СКОПЉАНСКА: 2, ШУМАДИЈСКА: ББ,6,16,22-36,5-21,39-39,47-49, ЗАДУЖБИНСКА: 3-17,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "354381a0124c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-10",
-      "areaLabel": "Стари град",
-      "time": {
-        "start": "10:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "ПРИЗРЕНСКА: 44-46,37А"
-      ],
-      "reason": null,
-      "note": "ПРИЗРЕНСКА: 44-46,37А,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
@@ -523,6 +489,23 @@
       ],
       "reason": null,
       "note": "Насеље ЈАЈИНЦИ: ПАВЛА ЛАБАТА: 26,30-54,58-60,25,29,39А-43,73-73А,87А-95, САВЕ ЈОВАНОВИЋА: 68А,72-80,77-89,95-99, ЗАВОДСКА: ББ,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "3a1a434926c9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Сопот",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Насеље СОПОТ: ДРАГОМИРА ВЕЛИКИЋА: 25, ВАСЕ ЧАРАПИЋА: 4А,8А-10Б,14-18,30,80А,1-3А"
+      ],
+      "reason": null,
+      "note": "Насеље СОПОТ: ДРАГОМИРА ВЕЛИКИЋА: 25, ВАСЕ ЧАРАПИЋА: 4А,8А-10Б,14-18,30,80А,1-3А,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     },
     {

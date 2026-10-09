@@ -41,6 +41,58 @@
       "reason": null,
       "note": "Потрошачи у Зблаћу који се напајају са ТС Млин,ка Војиновића брду и око школе.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "b5f9368758d5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-11",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "11:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Потрошачи у Атеници и Трнави."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Атеници и Трнави.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ba87bb34d347",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Потрошачи у Миоковцима",
+        "ТС Миоковци брдо НН извод ка гробљу."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Миоковцима,ТС Миоковци брдо НН извод ка гробљу.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "2dc74664bebc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Потрошачи у Придворици и Јездини."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Придворици и Јездини.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,7 +5,43 @@
     "nameLatin": "Prokuplje",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "0910affb09d1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Белољин и Ђушница."
+      ],
+      "reason": null,
+      "note": "Белољин и Ђушница.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "3fc5c115878b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Арбанасце.Југбогдановац",
+        "ТЗР Рециклинг.Базна станица Мобтел и Телеком"
+      ],
+      "reason": null,
+      "note": "Арбанасце.Југбогдановац,ТЗР Рециклинг.Базна станица Мобтел и Телеком",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-08",

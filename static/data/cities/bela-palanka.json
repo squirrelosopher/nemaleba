@@ -5,7 +5,25 @@
     "nameLatin": "Bela Palanka",
     "branchCyrillic": "Пирот"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "782e11b3078b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-11",
+      "areaLabel": "Бела Паланка",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Општина Бела Паланка"
+      ],
+      "reason": null,
+      "note": "Општина Бела Паланка",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-08",

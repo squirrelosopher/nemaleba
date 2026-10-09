@@ -296,6 +296,58 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-9-10-2026/"
     },
     {
+      "id": "b18c89816e8f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-10",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Сремска Каменица: Фрупкогорски пут 109 – 153, 172 – 230, Староиришки пут, Ловачки дом."
+      ],
+      "reason": null,
+      "note": "Сремска Каменица: Фрупкогорски пут 109 – 153, 172 – 230, Староиришки пут, Ловачки дом.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e97768293c94",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-11",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Римски Шанчеви: Универекспорт."
+      ],
+      "reason": null,
+      "note": "Римски Шанчеви: Универекспорт.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "37c192a20c83",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-11",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Универекспорт на Зрењанинском путу",
+        "Каћка петља."
+      ],
+      "reason": null,
+      "note": "Универекспорт на Зрењанинском путу, Каћка петља.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
       "id": "8d327e14110f",
       "utility": "water",
       "kind": "emergency",
@@ -311,6 +363,97 @@
       "reason": null,
       "note": "Због планираних радова на водоводној мрежи без воде ће од 7 до 17 сати бити улице Милована Глишића и Земљане ћуприје.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-ponedeljak-12-10-2026/"
+    },
+    {
+      "id": "0bc2bec7cd25",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "10:30"
+      },
+      "streets": [
+        "Ченеј: Партизанска 84 - 116 , 97 – 115, Салаши, Специјална установа."
+      ],
+      "reason": null,
+      "note": "Ченеј: Партизанска 84 - 116 , 97 – 115, Салаши, Специјална установа.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "adffdf12859d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Ченеј: Међународни пут од скретања за Ченеј до Сирига, Цео Ченеј до Међународног пута и до Тенена, Манојловић, Агропром, Хмељарник, Неопланта заливни систем, Аеродром, Добросављев, Суботин, Мешаона, Мучибабић, Салаши према Кисачу."
+      ],
+      "reason": null,
+      "note": "Ченеј: Међународни пут од скретања за Ченеј до Сирига, Цео Ченеј до Међународног пута и до Тенена, Манојловић, Агропром, Хмељарник, Неопланта заливни систем, Аеродром, Добросављев, Суботин, Мешаона, Мучибабић, Салаши према Кисачу.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "3a9ca78e2676",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:00",
+        "end": "10:30"
+      },
+      "streets": [
+        "Олге Илић",
+        "Др. Душана Поповића",
+        "Марка Сервицког",
+        "Данила Лазовића",
+        "Нова",
+        "Добре Јовановића",
+        "Драгослава Срејовића 56 – 58 А."
+      ],
+      "reason": null,
+      "note": "Олге Илић, Др. Душана Поповића, Марка Сервицког, Данила Лазовића, Нова, Добре Јовановића, Драгослава Срејовића 56 – 58 А.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "4cbb079e8c0a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Петроварадин: Меше Селимовића 15, 19, 21, 23, 29, 28, 32, Нова 8- 4-14, 3-17, Нова 6- 2-14, 1-29, Милеве Поповић Барили 1-23, 6-20."
+      ],
+      "reason": null,
+      "note": "Петроварадин: Меше Селимовића 15, 19, 21, 23, 29, 28, 32, Нова 8- 4-14, 3-17, Нова 6- 2-14, 1-29, Милеве Поповић Барили 1-23, 6-20.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "97d49c4c4414",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "11:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Пејићеви салаши: Од пруге до расадника."
+      ],
+      "reason": null,
+      "note": "Пејићеви салаши: Од пруге до расадника.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -116,20 +116,22 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "83ff831e8cb3",
+      "id": "9b1d156638fd",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-10",
       "areaLabel": "Ужице",
       "time": {
         "start": "08:00",
-        "end": "15:00"
+        "end": "17:00"
       },
       "streets": [
-        "Потрошачи са подручја Алексића у Трнави Каранској.."
+        "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи",
+        "Ивановићи",
+        "Јевтовићи)"
       ],
       "reason": null,
-      "note": "Потрошачи са подручја Алексића у Трнави Каранској..",
+      "note": "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи, Ивановићи, Јевтовићи)",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
@@ -150,22 +152,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "9b1d156638fd",
+      "id": "83ff831e8cb3",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-10",
       "areaLabel": "Ужице",
       "time": {
         "start": "08:00",
-        "end": "17:00"
+        "end": "15:00"
       },
       "streets": [
-        "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи",
-        "Ивановићи",
-        "Јевтовићи)"
+        "Потрошачи са подручја Алексића у Трнави Каранској.."
       ],
       "reason": null,
-      "note": "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи, Ивановићи, Јевтовићи)",
+      "note": "Потрошачи са подручја Алексића у Трнави Каранској..",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {

@@ -63,6 +63,68 @@
       "reason": null,
       "note": "делови улица Књажевачка (103,103б), Раданска (2,4,6,10);",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "b9a7e3bdb536",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "део Малче",
+        "Јасеновика и Врела;"
+      ],
+      "reason": null,
+      "note": "део Малче, Јасеновика и Врела;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "5de0941c6725",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "10:00",
+        "end": "11:30"
+      },
+      "streets": [
+        "делови улица 8. Конгреса",
+        "Дубравске",
+        "Михајла Катанића",
+        "Божура",
+        "Џона Рида",
+        "Радмиле Савичевић",
+        "Шимшира",
+        "Тодора Станковића и Врежинског Булевара;"
+      ],
+      "reason": null,
+      "note": "делови улица 8. Конгреса, Дубравске, Михајла Катанића, Божура, Џона Рида, Радмиле Савичевић, Шимшира, Тодора Станковића и Врежинског Булевара;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "e02438497bf6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "12:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "делови улица Борачке",
+        "Дунавске",
+        "Каменичке",
+        "Лаповачке и Виноградарске;"
+      ],
+      "reason": null,
+      "note": "делови улица Борачке, Дунавске, Каменичке, Лаповачке и Виноградарске;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,7 +5,25 @@
     "nameLatin": "Golubac",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "bc07226f319b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Голубац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део насеља Кривача (трафо област 10/0.4kV Кривача 2 - Тилва)"
+      ],
+      "reason": null,
+      "note": "део насеља Кривача (трафо област 10/0.4kV Кривача 2 - Тилва)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-08",
