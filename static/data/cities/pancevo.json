@@ -56,6 +56,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "2ae62a06f4c5",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-09",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Виноградска као",
+        "Бориса Кидрича"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је у насељеном месту Качарево остала Улица Виноградска као и Улица Бориса Кидрича.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/10/09/9-10-2026/"
+    },
+    {
       "id": "ddbd2803dd2f",
       "utility": "electricity",
       "kind": "planned",
@@ -239,7 +254,7 @@
     {
       "date": "2026-10-09",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

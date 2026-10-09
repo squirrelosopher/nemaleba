@@ -294,6 +294,23 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Пударска и околне улице у Сремској Каменици.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-9-10-2026/"
+    },
+    {
+      "id": "8d327e14110f",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-12",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "07:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "улице Милована Глишића и Земљане ћуприје"
+      ],
+      "reason": null,
+      "note": "Због планираних радова на водоводној мрежи без воде ће од 7 до 17 сати бити улице Милована Глишића и Земљане ћуприје.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-ponedeljak-12-10-2026/"
     }
   ],
   "history": [
