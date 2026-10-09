@@ -79,6 +79,20 @@
       "reason": "Санација кварова на водоводној мрежи",
       "note": "Улица 3. Октобар – Палестинско насеље – замена дела водоводне мреже Кестенова улица број 14 Кварови на мерним местима – у шахтама",
       "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-08-10-2026-god/"
+    },
+    {
+      "id": "02d90a63d76b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-09",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Слатина – откоп и санација квара – мрежа фи 110"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Слатина – откоп и санација квара – мрежа фи 110 Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-petak-09-10-2026-god/"
     }
   ],
   "history": [
@@ -230,7 +244,7 @@
     {
       "date": "2026-10-09",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
