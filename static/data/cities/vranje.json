@@ -7,30 +7,6 @@
   },
   "outages": [
     {
-      "id": "92923fea5059",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Доктор Копше",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због израде водоводне мреже у улици Доктор Копше , без воде биће потрошачи те улице као и потрошачи улице Ћипре Станковића, Филипа Кљајића , и околне до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/08-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
-      "id": "8943a691274c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-08",
-      "areaLabel": "др. Симе Милошевића",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у улици др. Симе Милошевића, без воде биће потрошачи те улице и околне, до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/08-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
       "id": "319c9dffb571",
       "utility": "electricity",
       "kind": "planned",
@@ -99,42 +75,6 @@
       "reason": null,
       "note": "Кумаревска Чука",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "091f744f3cb7",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-09",
-      "areaLabel": "Бошка Ђорђевића у Врањској Бањи",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у улици Бошка Ђорђевића у Врањској Бањи , без воде биће потрошачи те улице и околне, до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/09-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
-      "id": "c8e7f5b77f02",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Доктор Копше",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због израде водоводне мреже у улици  Доктор Копше , без воде биће потрошачи те улице и околне   до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/09-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
-      "id": "7d8ab8c4940a",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-09",
-      "areaLabel": "др. Симе Милошевића",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у улици  др. Симе Милошевића,  без воде биће потрошачи те улице  до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/09-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
     }
   ],
   "history": [
@@ -286,7 +226,7 @@
     {
       "date": "2026-10-09",
       "electricityOutages": 4,
-      "waterOutages": 3
+      "waterOutages": 0
     }
   ]
 }

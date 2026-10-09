@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-09T10:11:02.472Z",
+  "generatedAt": "2026-10-09T10:29:37.759Z",
   "summary": {
     "date": "2026-10-09",
     "electricityOutages": 162,
-    "waterOutages": 24,
+    "waterOutages": 17,
     "affected": [
       {
         "id": "beograd",
@@ -42,22 +42,10 @@
         "waterOutages": 0
       },
       {
-        "id": "vranje",
-        "nameCyrillic": "Врање",
-        "electricityOutages": 4,
-        "waterOutages": 3
-      },
-      {
         "id": "subotica",
         "nameCyrillic": "Суботица",
         "electricityOutages": 7,
         "waterOutages": 0
-      },
-      {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 4,
-        "waterOutages": 2
       },
       {
         "id": "kovacica",
@@ -66,10 +54,22 @@
         "waterOutages": 0
       },
       {
+        "id": "vranje",
+        "nameCyrillic": "Врање",
+        "electricityOutages": 4,
+        "waterOutages": 0
+      },
+      {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 4,
+        "waterOutages": 0
+      },
+      {
         "id": "pancevo",
         "nameCyrillic": "Панчево",
         "electricityOutages": 4,
-        "waterOutages": 1
+        "waterOutages": 0
       },
       {
         "id": "ruma",
@@ -184,12 +184,6 @@
         "nameCyrillic": "Алексинац",
         "electricityOutages": 1,
         "waterOutages": 0
-      },
-      {
-        "id": "bor",
-        "nameCyrillic": "Бор",
-        "electricityOutages": 0,
-        "waterOutages": 1
       },
       {
         "id": "despotovac",
@@ -486,7 +480,7 @@
     {
       "date": "2026-10-09",
       "electricityOutages": 98,
-      "waterOutages": 23
+      "waterOutages": 17
     }
   ],
   "providers": [
