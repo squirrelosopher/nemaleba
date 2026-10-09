@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Лајковац,Љиг: место Латковић (засеок Кула).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "0b94253d0cc2",
@@ -38,7 +38,84 @@
       ],
       "reason": null,
       "note": "Лајковац: Димитрија Туцовића (према Колубари).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "f125df94734e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Јунковац (засеок Дом према Великим Црљенима.)"
+      ],
+      "reason": null,
+      "note": "Јунковац (засеок Дом према Великим Црљенима.)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "05d4e9c3bce1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Владике Николаја Велимировића 32-102",
+        "65-121",
+        "део улице Железничка",
+        "Печанска",
+        "Илије Гојковића",
+        "Хаџи Румивома",
+        "Радничка",
+        "Браће Југовића",
+        "Милована Глишића",
+        "Зорана Радмиловића (засеок Петка 2 испод Ластине гараже према Ракића сокаку)."
+      ],
+      "reason": null,
+      "note": "Владике Николаја Велимировића 32-102,65-121,део улице Железничка,Печанска,Илије Гојковића,Хаџи Румивома,Радничка,Браће Југовића,Милована Глишића,Зорана Радмиловића (засеок Петка 2 испод Ластине гараже према Ракића сокаку).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "1abac4a9edd6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Љиг: насеље Бранчић (засеок Маринковићи-према Росинци,према Ђурићу)."
+      ],
+      "reason": null,
+      "note": "Љиг: насеље Бранчић (засеок Маринковићи-према Росинци,према Ђурићу).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "7bf9cedd4319",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "4.Јула (насеље Шабац)."
+      ],
+      "reason": null,
+      "note": "4.Јула (насеље Шабац).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

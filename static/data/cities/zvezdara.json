@@ -7,38 +7,21 @@
   },
   "outages": [
     {
-      "id": "571d0072e163",
+      "id": "dd52e1dcba33",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-08",
+      "date": "2026-10-12",
       "areaLabel": "Звездара",
       "time": {
-        "start": "08:30",
-        "end": "16:00"
+        "start": "08:00",
+        "end": "13:00"
       },
       "streets": [
-        "ДР ДРАГЕ ЉОЧИЋ: 18-20,9-19, ДРАГОСЛАВА СРЕЈОВИЋА: 72Љ-76Ђ,169И,177В,187А, ГРАДИШТЕ: 40, МИРИЈЕВСКИ БУЛЕВАР: ББ,ББ,ББ,74А,86,41"
+        "МИРОСЛАВА КРЛЕЖЕ: 20"
       ],
       "reason": null,
-      "note": "ДР ДРАГЕ ЉОЧИЋ: 18-20,9-19, ДРАГОСЛАВА СРЕЈОВИЋА: 72Љ-76Ђ,169И,177В,187А, ГРАДИШТЕ: 40, МИРИЈЕВСКИ БУЛЕВАР: ББ,ББ,ББ,74А,86,41,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "07c29355f22a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Звездара",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "ДРАВСКА: 6,14,1,7, КАЈМАКЧАЛАНСКА: 38, ЖИЧКА: 13"
-      ],
-      "reason": null,
-      "note": "ДРАВСКА: 6,14,1,7, КАЈМАКЧАЛАНСКА: 38, ЖИЧКА: 13,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+      "note": "МИРОСЛАВА КРЛЕЖЕ: 20,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

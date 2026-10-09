@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "bf31bce99610",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Потрошачи у делу Ракове",
-        "Чарапићи и Мијаијловићи."
-      ],
-      "reason": null,
-      "note": "Потрошачи у делу Ракове,Чарапићи и Мијаијловићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5a1931c0fcce",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Потрошачи у делу Катрге до Обрве и Тавника."
-      ],
-      "reason": null,
-      "note": "Потрошачи у делу Катрге до Обрве и Тавника.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "162e238eea0a",
       "utility": "electricity",
       "kind": "planned",
@@ -57,7 +22,7 @@
       ],
       "reason": null,
       "note": "Потрошачи у Миоковцима,ТС Миоковци брдо НН извод ка гробљу.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d58cf586b6cd",
@@ -75,7 +40,7 @@
       ],
       "reason": null,
       "note": "Потрошачи у Зблаћу који се напајају са ТС Млин,ка Војиновића брду и око школе.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,55 +7,38 @@
   },
   "outages": [
     {
-      "id": "3ca8521236b0",
+      "id": "7e4a5fda137f",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Чортановци: Викенд зона Железничка изнад Железничке станице."
-      ],
-      "reason": null,
-      "note": "Чортановци: Викенд зона Железничка изнад Железничке станице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8fb169e3e41e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Инђија: К.Петра првог 61-113 непарна страна, Ластина 18-60, 19-67, Б.Радичевића 1-35, 2-32, Ј.Богдана 61-91, 78-110."
-      ],
-      "reason": null,
-      "note": "Инђија: К.Петра првог 61-113 непарна страна, Ластина 18-60, 19-67, Б.Радичевића 1-35, 2-32, Ј.Богдана 61-91, 78-110.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ac21e78de03e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
+      "date": "2026-10-12",
       "areaLabel": "Инђија",
       "time": {
         "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "\"МЕСТО ГЛАДНОШ\r\n• Део викенд зоне Б.Брег 1\r\n\""
+      ],
+      "reason": null,
+      "note": "\"МЕСТО ГЛАДНОШ\r\n• Део викенд зоне Б.Брег 1\r\n\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "b56f858f006b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "10:00",
         "end": "12:00"
       },
       "streets": [
-        "Инђија: Ул. К.Петра првог бр 9 жута зграда; Тржни центар Фонтана; Стамбене зграде у ул.Ј.Богдана бр 4,6,10,14 И 23; Стамбена зграда у ул.Митровданска бр 1а"
+        "\"МЕСТО ИНЂИЈА :\r\n• Ул. Цара Душана непарна страна од к.бр.107 до краја улице\r\n\""
       ],
       "reason": null,
-      "note": "Инђија: Ул. К.Петра првог бр 9 жута зграда; Тржни центар Фонтана; Стамбене зграде у ул.Ј.Богдана бр 4,6,10,14 И 23; Стамбена зграда у ул.Митровданска бр 1а",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "\"МЕСТО ИНЂИЈА :\r\n• Ул. Цара Душана непарна страна од к.бр.107 до краја улице\r\n\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

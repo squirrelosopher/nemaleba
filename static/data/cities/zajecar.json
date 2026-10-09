@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "a50ddb606e95",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Шљиварски пут (потез Превлака)."
-      ],
-      "reason": null,
-      "note": "Шљиварски пут (потез Превлака).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ae3389854072",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Део села Вратарница (Центар)."
-      ],
-      "reason": null,
-      "note": "Део села Вратарница (Центар).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e4026bacfebe",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "11:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Део села Шљивар (Лубничка река)."
-      ],
-      "reason": null,
-      "note": "Део села Шљивар (Лубничка река).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "500f5182ca80",
       "utility": "electricity",
       "kind": "planned",
@@ -79,7 +28,7 @@
       ],
       "reason": null,
       "note": "Зајечар стамбене зграде Николе Пашића 81, 83, 87, 110, 116, 120, стамбене зграде Тимочке буне 2 и 2А, Војводе Путника од бр.1 до бр.5.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "49a7558600d3",
@@ -96,7 +45,7 @@
       ],
       "reason": null,
       "note": "Део Лубнице - потез Селолице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

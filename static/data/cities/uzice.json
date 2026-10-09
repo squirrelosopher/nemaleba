@@ -7,60 +7,6 @@
   },
   "outages": [
     {
-      "id": "8badbb2de93a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "07:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Луновог Села на изводу за Антонијевиће",
-        "Пониковица и Антонијевићи."
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Луновог Села на изводу за Антонијевиће, Пониковица и Антонијевићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "359147f16bf8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи",
-        "Ивановићи",
-        "Јевтовићи)"
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи, Ивановићи, Јевтовићи)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c0dba1aa1044",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Доњих Дрчелића на Татинцу."
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Доњих Дрчелића на Татинцу.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a173b992cc2b",
       "utility": "electricity",
       "kind": "planned",
@@ -76,7 +22,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Луновог Села на изводу за Антонијевиће, Пониковица и Антонијевићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "71e147b8ac5e",
@@ -95,7 +41,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи, Ивановићи, Јевтовићи)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "33f1455e4063",
@@ -112,7 +58,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Јованетића и Збојштице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4dd197fadb15",
@@ -132,7 +78,7 @@
       ],
       "reason": null,
       "note": "Насеља Црквари,Растова коса,Локва,Сарића осоје и део Мендиног брда",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b3afc22ba75f",
@@ -149,7 +95,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Ћатића и Божића у Карану",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "0bbeefe3b9d8",
@@ -167,7 +113,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Луновог Села на изводу за Антонијевиће, Пониковица и Антонијевићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "83ff831e8cb3",
@@ -184,7 +130,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Алексића у Трнави Каранској..",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "66e7d7a66563",
@@ -201,7 +147,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Филиповића у Рибашевини.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "9b1d156638fd",
@@ -220,7 +166,24 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи, Ивановићи, Јевтовићи)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "4a7d81d2e2fb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Потрошачи са подручја Филиповића у Рибашевини"
+      ],
+      "reason": null,
+      "note": "Потрошачи са подручја Филиповића у Рибашевини",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

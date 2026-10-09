@@ -5,25 +5,7 @@
     "nameLatin": "Požarevac",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [
-    {
-      "id": "e78d678a3e05",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Пожаревац",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "траФо област Берање 2"
-      ],
-      "reason": null,
-      "note": "траФо област Берање 2",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-08",

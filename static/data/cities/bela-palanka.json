@@ -5,59 +5,7 @@
     "nameLatin": "Bela Palanka",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "5dfc51596af1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Бела Паланка",
-      "time": {
-        "start": "07:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Село Шљивовик."
-      ],
-      "reason": null,
-      "note": "Село Шљивовик.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "35356f6cba39",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Бела Паланка",
-      "time": {
-        "start": "08:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Улице: Петра Драпшина, Крсте Тошоћ, Николе Тесле, Танкосићева, Трг Ослобођења и Мало Курило."
-      ],
-      "reason": null,
-      "note": "Улице: Петра Драпшина, Крсте Тошоћ, Николе Тесле, Танкосићева, Трг Ослобођења и Мало Курило.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a171dd133aca",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Бела Паланка",
-      "time": {
-        "start": "11:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Улице: Николе Јовановић, Николе Соколовић и Николе Деспотовића."
-      ],
-      "reason": null,
-      "note": "Улице: Николе Јовановић, Николе Соколовић и Николе Деспотовића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-08",

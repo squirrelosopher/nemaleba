@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "339a7862fe90",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Кањижа: Новосадска, део Вука Караџића, Дугина, Нишка."
-      ],
-      "reason": null,
-      "note": "Кањижа: Новосадска, део Вука Караџића, Дугина, Нишка.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7d1aeee4f153",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Мартонош: Гробљанска, Шипош Иштвана (од Гробљанске до Петра Драпшина), Братства Јединства.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4239234543e5",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Мартонош: Петра Драпшина, Тенковска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e977bd7b2b42",
@@ -72,7 +55,7 @@
       ],
       "reason": null,
       "note": "Мартонош: Део Тенковске, Сутјеска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f79048dcd6e1",
@@ -89,7 +72,7 @@
       ],
       "reason": null,
       "note": "Мартонош: Пецин Исе.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "cd743c18800e",
@@ -106,7 +89,58 @@
       ],
       "reason": null,
       "note": "Мартонош: Трг Дожа Ђерђ, Моравска, Иво лола Рибара, Петрић Радивоја.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "bc0ff986e603",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Кањижа",
+      "time": {
+        "start": "08:30",
+        "end": "10:00"
+      },
+      "streets": [
+        "Кањижа: Новокнежевачки пут."
+      ],
+      "reason": null,
+      "note": "Кањижа: Новокнежевачки пут.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "ac2ddb022f01",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Кањижа",
+      "time": {
+        "start": "10:00",
+        "end": "11:30"
+      },
+      "streets": [
+        "Кањижа: Братства Јединства, Занатлијска, Бањски Венац, Бачка, Крфска, Шумска."
+      ],
+      "reason": null,
+      "note": "Кањижа: Братства Јединства, Занатлијска, Бањски Венац, Бачка, Крфска, Шумска.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "46439bc69a79",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Кањижа",
+      "time": {
+        "start": "11:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "Кањижа: Главна 2, 4, 6, 8 зграде"
+      ],
+      "reason": null,
+      "note": "Кањижа: Главна 2, 4, 6, 8 зграде",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

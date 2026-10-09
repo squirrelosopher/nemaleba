@@ -7,31 +7,6 @@
   },
   "outages": [
     {
-      "id": "40af3e51d82a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "11 Октобар од ТС ка болници",
-        "Пастерова",
-        "Млинска до Ј.Милосављевић",
-        "11 Октоба нова 1",
-        "БП",
-        "Кнез Петрол\"",
-        "ДОО Николић",
-        "трговина",
-        "Аман\""
-      ],
-      "reason": null,
-      "note": "11 Октобар од ТС ка болници,Пастерова,Млинска до Ј.Милосављевић,11 Октоба нова 1,БП,,Кнез Петрол\" , ДОО Николић,трговина,, Аман\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d5c91c1cc31d",
       "utility": "electricity",
       "kind": "planned",
@@ -46,7 +21,7 @@
       ],
       "reason": null,
       "note": "део села Исакова рејон Брест",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1e572cdcb3f9",
@@ -63,7 +38,7 @@
       ],
       "reason": null,
       "note": "део села Вирине ка Бигреници",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "fb34031a8cdd",
@@ -88,7 +63,24 @@
       ],
       "reason": null,
       "note": "11 Октобар од ТС ка болници,Пастерова,Млинска до Ј.Милосављевић,11 Октоба нова 1,БП,,Кнез Петрол\" , ДОО Николић,трговина,, Аман\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "dbefcd55af8b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део села Остриковца ка брду"
+      ],
+      "reason": null,
+      "note": "део села Остриковца ка брду",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

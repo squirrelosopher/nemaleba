@@ -7,92 +7,6 @@
   },
   "outages": [
     {
-      "id": "625f3a1277a5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Врање",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Уградња балансног мерења"
-      ],
-      "reason": null,
-      "note": "Уградња балансног мерења",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "4cd5edf2f2e5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Врање",
-      "time": {
-        "start": "09:30",
-        "end": "09:30"
-      },
-      "streets": [
-        "део села Ристовац"
-      ],
-      "reason": null,
-      "note": "део села Ристовац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1e8c11ba398b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Врање",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "део села Ћуковац (центар)"
-      ],
-      "reason": null,
-      "note": "део села Ћуковац (центар)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "db54d896b541",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Врање",
-      "time": {
-        "start": "12:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Златокоп"
-      ],
-      "reason": null,
-      "note": "Златокоп",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "de2685101387",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Врање",
-      "time": {
-        "start": "13:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Тибужде",
-        "Брестовац"
-      ],
-      "reason": null,
-      "note": "Тибужде, Брестовац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "92923fea5059",
       "utility": "water",
       "kind": "planned",
@@ -131,7 +45,7 @@
       ],
       "reason": null,
       "note": "подручје Крива феја",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "afb5138c6098",
@@ -150,7 +64,7 @@
       ],
       "reason": null,
       "note": "Корбевац, Себеврање, Клисурица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "65f3101bb856",
@@ -167,7 +81,7 @@
       ],
       "reason": null,
       "note": "Првонек и део центра Врањске Бање",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a86d137d7aa0",
@@ -184,7 +98,7 @@
       ],
       "reason": null,
       "note": "Кумаревска Чука",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

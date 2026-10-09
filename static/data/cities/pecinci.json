@@ -5,7 +5,25 @@
     "nameLatin": "Pećinci",
     "branchCyrillic": "Рума"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "b4370a384c63",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Пећинци",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "МЕСТО КУПИНОВО : КОМПЛЕТНО НАСЕЉЕНО МЕСТО КУПИНОВО"
+      ],
+      "reason": null,
+      "note": "МЕСТО КУПИНОВО : КОМПЛЕТНО НАСЕЉЕНО МЕСТО КУПИНОВО",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-21",

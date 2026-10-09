@@ -5,7 +5,42 @@
     "nameLatin": "Voždovac",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "bf0ea690461b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеље БЕОГРАД: ВОЈВОДЕ ВЛАХОВИЋА: 47Р"
+      ],
+      "reason": null,
+      "note": "Насеље БЕОГРАД: ВОЈВОДЕ ВЛАХОВИЋА: 47Р,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "10e6ad26e0a6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": "10:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насеље ЈАЈИНЦИ: ПАВЛА ЛАБАТА: 26,30-54,58-60,25,29,39А-43,73-73А,87А-95, САВЕ ЈОВАНОВИЋА: 68А,72-80,77-89,95-99, ЗАВОДСКА: ББ"
+      ],
+      "reason": null,
+      "note": "Насеље ЈАЈИНЦИ: ПАВЛА ЛАБАТА: 26,30-54,58-60,25,29,39А-43,73-73А,87А-95, САВЕ ЈОВАНОВИЋА: 68А,72-80,77-89,95-99, ЗАВОДСКА: ББ,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-08",

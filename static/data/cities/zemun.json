@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "1b4194e7451d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "ЦРНОГ ДУДА: ,6,5-7,11, ГОРЊОГРАДСКА : 61, СВЕТОТРОЈЧИНА : 18-22А, УГРИНОВАЧКА: 82-102А,93-117А"
-      ],
-      "reason": null,
-      "note": "ЦРНОГ ДУДА: ,6,5-7,11, ГОРЊОГРАДСКА : 61, СВЕТОТРОЈЧИНА : 18-22А, УГРИНОВАЧКА: 82-102А,93-117А,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "47da13fc7af4",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље БАТАЈНИЦА: ЦАРИЦЕ ЈЕЛЕНЕ : 2,18-26,13-27, ЈОВАНА БРАНКОВИЋА : 2-14,26,1-7А, КРАЉА РАДОСЛАВА : 6, ПУКОВНИКА МИЛЕНКА ПАВЛОВИЋА : 2-22,1-9А,13-15,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a7164a5004fa",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "ЦАРА ДУШАНА: 222-224,228-230А,254-264А,173-201, ФИЛИПА ВИШЊИЋА: 2, КАРЛОВАЧКА: 4-16,1-15, ПРЕГРЕВИЦА : 178В,191-193а, ПРИЗРЕНСКА: 22,26-42В/2,48-54,29-39, СКОПЉАНСКА: 2, ШУМАДИЈСКА: ББ,6,16,22-36,5-21,39-39,47-49, ЗАДУЖБИНСКА: 3-17,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "0a294ada1ec0",
@@ -72,6 +55,23 @@
       ],
       "reason": null,
       "note": "БАТАЈНИЧКИ ДРУМ: 289,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "2020a0daafd5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "АУТОПУТ ЗА ЗАГРЕБ: ББ,ББ,2б,20А-20б"
+      ],
+      "reason": null,
+      "note": "АУТОПУТ ЗА ЗАГРЕБ: ББ,ББ,2б,20А-20б,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],

@@ -5,44 +5,7 @@
     "nameLatin": "Raška",
     "branchCyrillic": "Краљево"
   },
-  "outages": [
-    {
-      "id": "41e336f10e68",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Рашка",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "У Пискањи засеок Гркајци"
-      ],
-      "reason": null,
-      "note": "У Пискањи засеок Гркајци",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2ae8f6ec1796",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Рашка",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Без напона ће да буду потрошачи који се напајају са ДВ 10 КВ Гњилица- Орахово засеоци села Гњилице- Кањићи",
-        "Биочин",
-        "Орахово И Луково .ДВ 10КВ Казновиће омча од ТС 10/04 Гњилица кула 10КВ Извод Орахово хитни радови на прокресу"
-      ],
-      "reason": null,
-      "note": "Без напона ће да буду потрошачи који се напајају са ДВ 10 КВ Гњилица- Орахово засеоци села Гњилице- Кањићи, Биочин , Орахово И Луково .ДВ 10КВ Казновиће омча од ТС 10/04 Гњилица кула 10КВ Извод Орахово хитни радови на прокресу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-08",

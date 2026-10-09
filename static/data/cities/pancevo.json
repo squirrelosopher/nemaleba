@@ -36,7 +36,7 @@
       ],
       "reason": null,
       "note": "Старчево: Сремска, Омладинска од Виноградске до Сремске.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5df2c094525b",
@@ -53,7 +53,7 @@
       ],
       "reason": null,
       "note": "Старчево: М.Тита од Вука Караџића до Војвођанске, Вука Караџића од Бориса Кидрича до М.Тита.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ddbd2803dd2f",
@@ -70,7 +70,24 @@
       ],
       "reason": null,
       "note": "Панчево: Његошева од Карађорђеве до Затвора (парна страна), В.Радомира Путника од В.Живојина Мишића до Основног Суда (непарна страна).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "d552013e01d7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Панчево: Марије и Лазара Драгићевића, Др.Јована Ердељановића, Светозара Милетића од Синђелићеве до Ружине (непарна страна), С.Милетића парна страна 70-88 и Ружина 14."
+      ],
+      "reason": null,
+      "note": "Панчево: Марије и Лазара Драгићевића, Др.Јована Ердељановића, Светозара Милетића од Синђелићеве до Ружине (непарна страна), С.Милетића парна страна 70-88 и Ружина 14.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

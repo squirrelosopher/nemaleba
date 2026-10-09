@@ -7,62 +7,6 @@
   },
   "outages": [
     {
-      "id": "03890d2d90de",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Ковачица",
-      "time": {
-        "start": "08:30",
-        "end": "09:30"
-      },
-      "streets": [
-        "Падина: И.Андрића и Б.Јединства од Ј.Колара до Првомајске, И.Л.Рибара од Ј.Колара до М.Кукучина, Ј.Колара од Б.Јединства до И.Л.Рибара, М.Кукучина од И.Андрића до И.Л.Рибара и Првомајска од Б.Јединства до И.Л.Рибара."
-      ],
-      "reason": null,
-      "note": "Падина: И.Андрића и Б.Јединства од Ј.Колара до Првомајске, И.Л.Рибара од Ј.Колара до М.Кукучина, Ј.Колара од Б.Јединства до И.Л.Рибара, М.Кукучина од И.Андрића до И.Л.Рибара и Првомајска од Б.Јединства до И.Л.Рибара.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "716ac6147d00",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Ковачица",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Падина: Спортска, В.Влаховића од Др.Холубека до М.Пупина, Ж.Зрењанина од Н.Тесле до М.Пупина, Доња Долина, Н.Тесле, 29-ог новембра, М.Пупина од Ж.Зрењанина до краја ка Ковачици."
-      ],
-      "reason": null,
-      "note": "Падина: Спортска, В.Влаховића од Др.Холубека до М.Пупина, Ж.Зрењанина од Н.Тесле до М.Пупина, Доња Долина, Н.Тесле, 29-ог новембра, М.Пупина од Ж.Зрењанина до краја ка Ковачици.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "4405b0c8332f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-08",
-      "areaLabel": "Ковачица",
-      "time": {
-        "start": "11:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "Падина:Ј.Чмелика од М.Пијаде до Хвјездославове",
-        "К.Маркса од А.Сладковића до Масарикове",
-        "Хвјездославова од М.Пијаде до Ловачке",
-        "М.Пијаде од Ј.Чмелика до К.Маркса",
-        "Масарикова од К.Маркса до Ловачке",
-        "В.Караџића и Војвођанска од Хвјездославове до Масарикове."
-      ],
-      "reason": null,
-      "note": "Падина:Ј.Чмелика од М.Пијаде до Хвјездославове, К.Маркса од А.Сладковића до Масарикове, Хвјездославова од М.Пијаде до Ловачке, М.Пијаде од Ј.Чмелика до К.Маркса, Масарикова од К.Маркса до Ловачке, В.Караџића и Војвођанска од Хвјездославове до Масарикове.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ef94071dcecf",
       "utility": "electricity",
       "kind": "planned",
@@ -77,7 +21,75 @@
       ],
       "reason": null,
       "note": "Црепаја цело насељено место",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "8128d5b09fc5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Ковачица",
+      "time": {
+        "start": "08:30",
+        "end": "10:00"
+      },
+      "streets": [
+        "Ковачица: Ул.Штурова до Ж.Зрењанина до М.Тита,М.Тита од ЈНА до Штурове,Јанка Чмелика од Хвјездославове до М.Тита."
+      ],
+      "reason": null,
+      "note": "Ковачица: Ул.Штурова до Ж.Зрењанина до М.Тита,М.Тита од ЈНА до Штурове,Јанка Чмелика од Хвјездославове до М.Тита.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "528ca1f77ef1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Ковачица",
+      "time": {
+        "start": "09:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Падина: Жарка Зрењанина од Др.Холубека до 29.Новембра, Николе Тесле од Вељка Влаховића ка Доњој долини"
+      ],
+      "reason": null,
+      "note": "Падина: Жарка Зрењанина од Др.Холубека до 29.Новембра, Николе Тесле од Вељка Влаховића ка Доњој долини",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "97c7a9d96e34",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Ковачица",
+      "time": {
+        "start": "09:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "Панчево: Новосељански пут од Зрна ка Банатском Новом Селу десна страна."
+      ],
+      "reason": null,
+      "note": "Панчево: Новосељански пут од Зрна ка Банатском Новом Селу десна страна.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "aec69b7c11b3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Ковачица",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Ковачица: Штурова од Жарка Зрењанина до Партизанске, Хвјездославова од Јанка Чмелика до Налепкове,Партизанска и Налепкова."
+      ],
+      "reason": null,
+      "note": "Ковачица: Штурова од Жарка Зрењанина до Партизанске, Хвјездославова од Јанка Чмелика до Налепкове,Партизанска и Налепкова.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
