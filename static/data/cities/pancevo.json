@@ -7,6 +7,21 @@
   },
   "outages": [
     {
+      "id": "8cd0b2da82bf",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-05",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "и Преспанска улица",
+        "од Новосељанског пута до Скадарске улице"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи, без воде су остале следеће улице:\n\nУлица Стевана Сремца, од Цвијићеве до Улице Иве Андрића;\n\nДечанска улица;\n\nМанасијска улица;\n\nЦвијићева улица, од Стевана Сремца до Милешевске улице;\n\nТакође је без воде остала и Преспанска улица, од Новосељанског пута до Скадарске улице.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/10/05/5-10-2026/"
+    },
+    {
       "id": "9fc5052d0f01",
       "utility": "electricity",
       "kind": "planned",
@@ -39,6 +54,21 @@
       "reason": null,
       "note": "Старчево: М.Тита од Вука Караџића до Војвођанске, Вука Караџића од Бориса Кидрича до М.Тита.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "2ae62a06f4c5",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-09",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Виноградска као",
+        "Бориса Кидрича"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је у насељеном месту Качарево остала Улица Виноградска као и Улица Бориса Кидрича.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/10/09/9-10-2026/"
     },
     {
       "id": "ddbd2803dd2f",
@@ -224,7 +254,7 @@
     {
       "date": "2026-10-09",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
