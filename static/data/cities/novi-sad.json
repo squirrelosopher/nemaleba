@@ -277,6 +277,23 @@
       "reason": null,
       "note": "Ченеј: Вука Караџића 314 – 348, 345 – 375, Вага.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "bb0ceba0cb1b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-09",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Пударска и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Пударска и околне улице у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-9-10-2026/"
     }
   ],
   "history": [
@@ -428,7 +445,7 @@
     {
       "date": "2026-10-09",
       "electricityOutages": 4,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

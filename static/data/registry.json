@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-09T08:11:16.984Z",
+  "generatedAt": "2026-10-09T09:11:01.495Z",
   "summary": {
     "date": "2026-10-09",
     "electricityOutages": 162,
-    "waterOutages": 21,
+    "waterOutages": 22,
     "affected": [
       {
         "id": "beograd",
@@ -63,7 +63,7 @@
         "id": "novi-sad",
         "nameCyrillic": "Нови Сад",
         "electricityOutages": 4,
-        "waterOutages": 0
+        "waterOutages": 1
       },
       {
         "id": "pancevo",
@@ -486,7 +486,7 @@
     {
       "date": "2026-10-09",
       "electricityOutages": 98,
-      "waterOutages": 21
+      "waterOutages": 22
     }
   ],
   "providers": [
