@@ -7,91 +7,6 @@
   },
   "outages": [
     {
-      "id": "7d1aeee4f153",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "08:30",
-        "end": "09:15"
-      },
-      "streets": [
-        "Мартонош: Гробљанска, Шипош Иштвана (од Гробљанске до Петра Драпшина), Братства Јединства."
-      ],
-      "reason": null,
-      "note": "Мартонош: Гробљанска, Шипош Иштвана (од Гробљанске до Петра Драпшина), Братства Јединства.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "4239234543e5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "09:30",
-        "end": "10:15"
-      },
-      "streets": [
-        "Мартонош: Петра Драпшина, Тенковска."
-      ],
-      "reason": null,
-      "note": "Мартонош: Петра Драпшина, Тенковска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e977bd7b2b42",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "10:30",
-        "end": "11:15"
-      },
-      "streets": [
-        "Мартонош: Део Тенковске, Сутјеска."
-      ],
-      "reason": null,
-      "note": "Мартонош: Део Тенковске, Сутјеска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f79048dcd6e1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "11:30",
-        "end": "12:15"
-      },
-      "streets": [
-        "Мартонош: Пецин Исе."
-      ],
-      "reason": null,
-      "note": "Мартонош: Пецин Исе.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "cd743c18800e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "12:30",
-        "end": "13:15"
-      },
-      "streets": [
-        "Мартонош: Трг Дожа Ђерђ, Моравска, Иво лола Рибара, Петрић Радивоја."
-      ],
-      "reason": null,
-      "note": "Мартонош: Трг Дожа Ђерђ, Моравска, Иво лола Рибара, Петрић Радивоја.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "bc0ff986e603",
       "utility": "electricity",
       "kind": "planned",
@@ -106,7 +21,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Новокнежевачки пут.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "ac2ddb022f01",
@@ -123,7 +38,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Братства Јединства, Занатлијска, Бањски Венац, Бачка, Крфска, Шумска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "46439bc69a79",
@@ -140,6 +55,40 @@
       ],
       "reason": null,
       "note": "Кањижа: Главна 2, 4, 6, 8 зграде",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "a57d6031704b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Кањижа",
+      "time": {
+        "start": "08:30",
+        "end": "10:00"
+      },
+      "streets": [
+        "Кањижа: Рибарски Трг, Тисина, Болничка, Суботички пут (од Болничке до почетка Тисине), Потиски венац."
+      ],
+      "reason": null,
+      "note": "Кањижа: Рибарски Трг, Тисина, Болничка, Суботички пут (од Болничке до почетка Тисине), Потиски венац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "5ea3da74cef0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Кањижа",
+      "time": {
+        "start": "11:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "Кањижа: Светог Јована, Карађорђева (од Суботичког пута до ватрогасаца), Владике Његоша ( почетни део улице према центру), Сутјеска (почетни део према центру), Шумадинска (почетни део према центру)."
+      ],
+      "reason": null,
+      "note": "Кањижа: Светог Јована, Карађорђева (од Суботичког пута до ватрогасаца), Владике Његоша ( почетни део улице према центру), Сутјеска (почетни део према центру), Шумадинска (почетни део према центру).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

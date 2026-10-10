@@ -7,65 +7,6 @@
   },
   "outages": [
     {
-      "id": "d5c91c1cc31d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "део села Исакова рејон Брест"
-      ],
-      "reason": null,
-      "note": "део села Исакова рејон Брест",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1e572cdcb3f9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део села Вирине ка Бигреници"
-      ],
-      "reason": null,
-      "note": "део села Вирине ка Бигреници",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "fb34031a8cdd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "11 Октобар од ТС ка болници",
-        "Пастерова",
-        "Млинска до Ј.Милосављевић",
-        "11 Октоба нова 1",
-        "БП",
-        "Кнез Петрол\"",
-        "ДОО Николић",
-        "трговина",
-        "Аман\""
-      ],
-      "reason": null,
-      "note": "11 Октобар од ТС ка болници,Пастерова,Млинска до Ј.Милосављевић,11 Октоба нова 1,БП,,Кнез Петрол\" , ДОО Николић,трговина,, Аман\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "dbefcd55af8b",
       "utility": "electricity",
       "kind": "planned",
@@ -80,7 +21,7 @@
       ],
       "reason": null,
       "note": "део села Остриковца ка брду",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "090d5bb0bec1",
@@ -124,6 +65,23 @@
       ],
       "reason": null,
       "note": "Крагујевачка до ул.Ј.Милосављевић,Ж.Станисављевић,11 Октобар од Млинске до аутопута,К.Абрашевић,Пастерова,Козарачка (од улице11.октобар до улице Животе Станисављевића),насеље преко ауто пута(поред пута за Супску),Млин Победа,пекара Победа,дечији вртић Невен,репетитор МУП-а,Бензинска пумпа Нуколић,радио релеј Хореум Марги,Рубин,т.с10/0,4kV Војвода,Велкомерц,Шумска секција,Авиа пумпа,Кафилерија,села Јовац,Остриковац,Доњи Мајур,обућа Стаменковић,Водоснабдевање,Стрелиште,МГ клуб,бетоњерка Гиље.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "51a232410bd0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део села Остриковца ка дома"
+      ],
+      "reason": null,
+      "note": "део села Остриковца ка дома",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],

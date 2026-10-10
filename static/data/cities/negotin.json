@@ -5,25 +5,7 @@
     "nameLatin": "Negotin",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "6abf713808a8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Неготин",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Села: Чубра, Карбулово. Јасеница, Викенд насеља Брестовац, Вражја бара, Пољопривредна школа"
-      ],
-      "reason": null,
-      "note": "Села: Чубра, Карбулово. Јасеница, Викенд насеља Брестовац, Вражја бара, Пољопривредна школа",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-09",

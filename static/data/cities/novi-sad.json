@@ -177,74 +177,6 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-cetvrtak-8-10-2026/"
     },
     {
-      "id": "907cf172380f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:30",
-        "end": "12:00"
-      },
-      "streets": [
-        "Стари Лединци: Вука Караџића 114 – 166, 105 – 155, Хоповска."
-      ],
-      "reason": null,
-      "note": "Стари Лединци: Вука Караџића 114 – 166, 105 – 155, Хоповска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "7c835ef2e58e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "Петроварадин: Насеље Садови, Градилиште моста са Петроварадинске стране."
-      ],
-      "reason": null,
-      "note": "Петроварадин: Насеље Садови, Градилиште моста са Петроварадинске стране.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "eb366bfc715a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Пејићеви салаши од месне канцеларије према Немановцима"
-      ],
-      "reason": null,
-      "note": "Пејићеви салаши од месне канцеларије према Немановцима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "67a61a32c0dd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Ченеј: Вука Караџића 314 – 348, 345 – 375, Вага."
-      ],
-      "reason": null,
-      "note": "Ченеј: Вука Караџића 314 – 348, 345 – 375, Вага.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "bb0ceba0cb1b",
       "utility": "water",
       "kind": "emergency",
@@ -279,41 +211,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "e97768293c94",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-11",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Римски Шанчеви: Универекспорт."
-      ],
-      "reason": null,
-      "note": "Римски Шанчеви: Универекспорт.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
-    },
-    {
-      "id": "37c192a20c83",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-11",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "12:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Универекспорт на Зрењанинском путу",
-        "Каћка петља."
-      ],
-      "reason": null,
-      "note": "Универекспорт на Зрењанинском путу, Каћка петља.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
-    },
-    {
       "id": "8d327e14110f",
       "utility": "water",
       "kind": "emergency",
@@ -345,7 +242,7 @@
       ],
       "reason": null,
       "note": "Ченеј: Партизанска 84 - 116 , 97 – 115, Салаши, Специјална установа.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "adffdf12859d",
@@ -362,7 +259,7 @@
       ],
       "reason": null,
       "note": "Ченеј: Међународни пут од скретања за Ченеј до Сирига, Цео Ченеј до Међународног пута и до Тенена, Манојловић, Агропром, Хмељарник, Неопланта заливни систем, Аеродром, Добросављев, Суботин, Мешаона, Мучибабић, Салаши према Кисачу.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "3a9ca78e2676",
@@ -385,7 +282,7 @@
       ],
       "reason": null,
       "note": "Олге Илић, Др. Душана Поповића, Марка Сервицког, Данила Лазовића, Нова, Добре Јовановића, Драгослава Срејовића 56 – 58 А.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "4cbb079e8c0a",
@@ -402,7 +299,7 @@
       ],
       "reason": null,
       "note": "Петроварадин: Меше Селимовића 15, 19, 21, 23, 29, 28, 32, Нова 8- 4-14, 3-17, Нова 6- 2-14, 1-29, Милеве Поповић Барили 1-23, 6-20.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "97d49c4c4414",
@@ -419,7 +316,7 @@
       ],
       "reason": null,
       "note": "Пејићеви салаши: Од пруге до расадника.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -570,7 +467,7 @@
     },
     {
       "date": "2026-10-10",
-      "electricityOutages": 1,
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

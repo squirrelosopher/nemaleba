@@ -7,22 +7,75 @@
   },
   "outages": [
     {
-      "id": "9cbc98340639",
+      "id": "ca48366e4322",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-09",
+      "date": "2026-10-13",
       "areaLabel": "Краљево",
       "time": {
         "start": "08:00",
-        "end": "14:00"
+        "end": "13:00"
       },
       "streets": [
-        "У Дракчићима код топа",
-        "у Јарчујку од топа десно и од дубоког потока десно."
+        "У Тавнику Рудник Бајовац."
       ],
       "reason": null,
-      "note": "У Дракчићима код топа,у Јарчујку од топа десно и од дубоког потока десно.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "У Тавнику Рудник Бајовац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "a8fb413e7d04",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "У Лопатници",
+        "Пекчаници",
+        "Роћевићима",
+        "и у Дедевцима у центар Села."
+      ],
+      "reason": null,
+      "note": "У Лопатници, Пекчаници, Роћевићима, и у Дедевцима у центар Села.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "8ddd6d6403e6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "У ул.Карађорђева Лидл."
+      ],
+      "reason": null,
+      "note": "У ул.Карађорђева Лидл.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "757a952fc36c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "У Краљеву у улици Карађорђевој трговина Лидл."
+      ],
+      "reason": null,
+      "note": "У Краљеву у улици Карађорђевој трговина Лидл.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

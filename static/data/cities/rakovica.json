@@ -7,21 +7,38 @@
   },
   "outages": [
     {
-      "id": "e23115402442",
+      "id": "18d488e38de5",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-09",
+      "date": "2026-10-13",
       "areaLabel": "Раковица",
       "time": {
         "start": "08:30",
-        "end": "14:00"
+        "end": "16:00"
       },
       "streets": [
-        "БОРИВОЈА МИЛОЈЕВИЋА: 25-25А,31, Насеље КНЕЖЕВАЦ: СЕДАМНАЕСТОГ ОКТОБРА: 76-78А, Насеље ПЕТЛОВО БРДО: Љ ИВКОВИЋА ШУЦЕ: 6-8Б,3-9А"
+        "Насеље РЕСНИК: АЛЕКСАНДРА ВОЈИНОВИЋА: 148,210-216,222,226,230,236-238,242,157А"
       ],
       "reason": null,
-      "note": "БОРИВОЈА МИЛОЈЕВИЋА: 25-25А,31, Насеље КНЕЖЕВАЦ: СЕДАМНАЕСТОГ ОКТОБРА: 76-78А, Насеље ПЕТЛОВО БРДО: Љ ИВКОВИЋА ШУЦЕ: 6-8Б,3-9А,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+      "note": "Насеље РЕСНИК: АЛЕКСАНДРА ВОЈИНОВИЋА: 148,210-216,222,226,230,236-238,242,157А,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "0531d73cc474",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Раковица",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насеље ПЕТЛОВО БРДО: ВЕЉКА РАМАДАНОВИЋА: 2-10"
+      ],
+      "reason": null,
+      "note": "Насеље ПЕТЛОВО БРДО: ВЕЉКА РАМАДАНОВИЋА: 2-10,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "10c3be2e46ba",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "15:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Насеље БАТАЈНИЦА: ЦАРИЦЕ ЈЕЛЕНЕ : 2,18-26,13-27, ЈОВАНА БРАНКОВИЋА : 2-14,26,1-7А, КРАЉА РАДОСЛАВА : 6, ПУКОВНИКА МИЛЕНКА ПАВЛОВИЋА : 2-22,1-9А,13-15"
-      ],
-      "reason": null,
-      "note": "Насеље БАТАЈНИЦА: ЦАРИЦЕ ЈЕЛЕНЕ : 2,18-26,13-27, ЈОВАНА БРАНКОВИЋА : 2-14,26,1-7А, КРАЉА РАДОСЛАВА : 6, ПУКОВНИКА МИЛЕНКА ПАВЛОВИЋА : 2-22,1-9А,13-15,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "0a294ada1ec0",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "БАТАЈНИЧКИ ДРУМ: 289,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "2020a0daafd5",
@@ -55,6 +38,40 @@
       ],
       "reason": null,
       "note": "АУТОПУТ ЗА ЗАГРЕБ: ББ,ББ,2б,20А-20б,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "a754d08f761a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "08:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "ЂОРЂА ЧУТУКОВИЋА : 2-24,3-9,13-13а, ХЕРЦЕГОВАЧКА: 4-36,40-46,1-31Ф, КРАЈИШКА: 2,1, ПРВОМАЈСКА: 96-112Ц,81-99, РАДЕ КОНЧАРА: 2В/1,1,5-5, ЖЕЛЕЗНИЧКА: 16-20,24-28,32-32Ц,23,29-57"
+      ],
+      "reason": null,
+      "note": "ЂОРЂА ЧУТУКОВИЋА : 2-24,3-9,13-13а, ХЕРЦЕГОВАЧКА: 4-36,40-46,1-31Ф, КРАЈИШКА: 2,1, ПРВОМАЈСКА: 96-112Ц,81-99, РАДЕ КОНЧАРА: 2В/1,1,5-5, ЖЕЛЕЗНИЧКА: 16-20,24-28,32-32Ц,23,29-57,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "73837a70f2ee",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "22 ОКТОБРА: 4-14, ДАНИЛА МЕДАКОВИЋА : 7-11"
+      ],
+      "reason": null,
+      "note": "22 ОКТОБРА: 4-14, ДАНИЛА МЕДАКОВИЋА : 7-11,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],

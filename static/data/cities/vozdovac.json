@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље БЕОГРАД: ВОЈВОДЕ ВЛАХОВИЋА: 47Р,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "10e6ad26e0a6",
@@ -38,6 +38,40 @@
       ],
       "reason": null,
       "note": "Насеље ЈАЈИНЦИ: ПАВЛА ЛАБАТА: 26,30-54,58-60,25,29,39А-43,73-73А,87А-95, САВЕ ЈОВАНОВИЋА: 68А,72-80,77-89,95-99, ЗАВОДСКА: ББ,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "6c5c6619bf7b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": "08:30",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеље ПИНОСАВА: НОВА 3: 210,216-222,230-230О,236,242-242О"
+      ],
+      "reason": null,
+      "note": "Насеље ПИНОСАВА: НОВА 3: 210,216-222,230-230О,236,242-242О,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "904f5c1e79eb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "КАПЕТАНА ЗАВИШИЋА: 4"
+      ],
+      "reason": null,
+      "note": "КАПЕТАНА ЗАВИШИЋА: 4,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],

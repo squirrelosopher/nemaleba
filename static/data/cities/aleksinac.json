@@ -5,29 +5,7 @@
     "nameLatin": "Aleksinac",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "cda24e27d0a7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "У Алексинцу",
-        "део улице Момчила Поповића(зграде Цитроена)",
-        "13.Октобар",
-        "Раше Милошевића",
-        "4.Јули и део Брдјакове."
-      ],
-      "reason": null,
-      "note": "У Алексинцу, део улице Момчила Поповића(зграде Цитроена) , 13.Октобар, Раше Милошевића, 4.Јули и део Брдјакове.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-09",

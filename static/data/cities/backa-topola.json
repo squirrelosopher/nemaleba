@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Његошево: Ловћенска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "835de4e4d816",
@@ -38,6 +38,40 @@
       ],
       "reason": null,
       "note": "Б. Топола: Дубровачка, Ловачка, део Бечејског пута, део Јаноша Гомбоша.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "46b37edb4b77",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Стара Моравица: Београдска, Јанка Сибињанина, Багремова, Шоја Кез са околином"
+      ],
+      "reason": null,
+      "note": "Стара Моравица: Београдска, Јанка Сибињанина, Багремова, Шоја Кез са околином",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "1c81312f8bbc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Пачир: Земљорадничка, Уска, Трг Републике, Српска, Козарачка, Кордунска, Фрушкогорска, Батинска, Змај Јовина, Трг Ослобођења, Таковска, Савска, Пољска, Косовска, Бранка Радичевића, Бакарска, Светозара Марковића, Радничка, Хрватска, Дунавска, Бајска, Чонопљанска, Трг М.Тита, Споредна, Масарикова, Лењинова, Дожа Ђерђа са околином."
+      ],
+      "reason": null,
+      "note": "Пачир: Земљорадничка, Уска, Трг Републике, Српска, Козарачка, Кордунска, Фрушкогорска, Батинска, Змај Јовина, Трг Ослобођења, Таковска, Савска, Пољска, Косовска, Бранка Радичевића, Бакарска, Светозара Марковића, Радничка, Хрватска, Дунавска, Бајска, Чонопљанска, Трг М.Тита, Споредна, Масарикова, Лењинова, Дожа Ђерђа са околином.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

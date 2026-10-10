@@ -7,59 +7,6 @@
   },
   "outages": [
     {
-      "id": "7616193f4b3c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Мали Зворник",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Мали Радаљ",
-        "Радаљ бања",
-        "Липово брдо"
-      ],
-      "reason": null,
-      "note": "Мали Радаљ, Радаљ бања, Липово брдо",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8572a8e718f2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Мали Зворник",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Будишић"
-      ],
-      "reason": null,
-      "note": "Будишић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2895d900827a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Мали Зворник",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Г.Читлук део према репетитору"
-      ],
-      "reason": null,
-      "note": "Г.Читлук део према репетитору",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "572412ec3799",
       "utility": "electricity",
       "kind": "planned",
@@ -68,6 +15,40 @@
       "time": {
         "start": "08:00",
         "end": "17:00"
+      },
+      "streets": [
+        "Горњи Читлук и Доњи Читлук."
+      ],
+      "reason": null,
+      "note": "Горњи Читлук и Доњи Читлук.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "c801ced8452a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Мали Зворник",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Сакар"
+      ],
+      "reason": null,
+      "note": "Сакар",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "0ca8769fdc45",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Мали Зворник",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
       },
       "streets": [
         "Горњи Читлук и Доњи Читлук."

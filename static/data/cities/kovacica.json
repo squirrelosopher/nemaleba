@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "ef94071dcecf",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Ковачица",
-      "time": {
-        "start": "08:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Црепаја цело насељено место"
-      ],
-      "reason": null,
-      "note": "Црепаја цело насељено место",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8128d5b09fc5",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Ковачица: Ул.Штурова до Ж.Зрењанина до М.Тита,М.Тита од ЈНА до Штурове,Јанка Чмелика од Хвјездославове до М.Тита.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "528ca1f77ef1",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Падина: Жарка Зрењанина од Др.Холубека до 29.Новембра, Николе Тесле од Вељка Влаховића ка Доњој долини",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "97c7a9d96e34",
@@ -72,7 +55,7 @@
       ],
       "reason": null,
       "note": "Панчево: Новосељански пут од Зрна ка Банатском Новом Селу десна страна.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "aec69b7c11b3",
@@ -89,7 +72,7 @@
       ],
       "reason": null,
       "note": "Ковачица: Штурова од Жарка Зрењанина до Партизанске, Хвјездославова од Јанка Чмелика до Налепкове,Партизанска и Налепкова.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

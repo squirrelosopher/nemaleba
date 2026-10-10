@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "a042317013ba",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Вуча и Трн."
-      ],
-      "reason": null,
-      "note": "Вуча и Трн.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ca631212385c",
       "utility": "electricity",
       "kind": "planned",
@@ -40,7 +23,7 @@
       ],
       "reason": null,
       "note": "Доктора Мелгарда,Видовданска,Иве Андрића и Цара Лазара.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "b21a2d0ea27a",
@@ -57,7 +40,7 @@
       ],
       "reason": null,
       "note": "Косаничка Рача (Гвозденовићи) и Трн.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

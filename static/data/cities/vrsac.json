@@ -7,26 +7,6 @@
   },
   "outages": [
     {
-      "id": "b54e17e85a3e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Вршац",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Трг Андрије Лукић 1-4",
-        "Поп Маринкова 29",
-        "32-52",
-        "Загорке Маливук 1-14 ."
-      ],
-      "reason": null,
-      "note": "Трг Андрије Лукић 1-4, Поп Маринкова 29, 32-52, Загорке Маливук 1-14 .",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e34e74cacd90",
       "utility": "electricity",
       "kind": "planned",
@@ -42,6 +22,42 @@
       ],
       "reason": null,
       "note": "Викенд насеље Јанова улаз из Вршца, лева страна до скретања за Велико Средиште.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "9795a110b2a0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Вршац",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Викенд насеље Јаново",
+        "правац ка Малом Средишту."
+      ],
+      "reason": null,
+      "note": "Викенд насеље Јаново, правац ка Малом Средишту.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "8ddfba82fc72",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Вршац",
+      "time": {
+        "start": "12:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Викенд насеље Јаново",
+        "правац ка Великом Средишту."
+      ],
+      "reason": null,
+      "note": "Викенд насеље Јаново, правац ка Великом Средишту.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

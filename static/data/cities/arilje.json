@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "6890a6f6c361",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Ариље",
-      "time": {
-        "start": "08:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Село: Радобуђа осим засеока Војиновићи. Засеоци: Лазине, Рзавац, Шљункара (Поглед) и Грабовик (Вране)."
-      ],
-      "reason": null,
-      "note": "Село: Радобуђа осим засеока Војиновићи. Засеоци: Лазине, Рзавац, Шљункара (Поглед) и Грабовик (Вране).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c8bd12e4f2f5",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "\"Насеља: Од салона намештаја „Стетекс“ до стоваришта „Рекс Транс“, од продавнице Алминеа до стоваришта „Рекс Транса“.\r\nФирме: Фабрика воде „Рзав“, \"\"Хидротехника\"\" (брана Сврачково), „Бомбина“, „Пролетер“, „ХиС“, „Ситара“, „Стетекс“, круг бивше фабрике „Колор“, „Зем. Задруга Ариље“, „Пироћанац“, „Алминеа“, кланица „Марсо“, „Стефан“, „Дане Транс“, „Амибо“, „Дечани“, „Фидбек“, „Парамун“, „АБМ керамика“ и „Рекс Транс“. Села: Вране, засеок Војиновићи (Радобуђа), Гривска, Северово, Крушчица, Радошево и Висока.\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "5385da0a37c3",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Насеља: Богојевићи, део Латвице од Црепане до Ступачког потока.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

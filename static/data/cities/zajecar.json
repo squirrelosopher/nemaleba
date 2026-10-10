@@ -5,49 +5,7 @@
     "nameLatin": "Zaječar",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "500f5182ca80",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "07:00",
-        "end": "08:00"
-      },
-      "streets": [
-        "Зајечар стамбене зграде Николе Пашића 81",
-        "83",
-        "87",
-        "110",
-        "116",
-        "120",
-        "стамбене зграде Тимочке буне 2 и 2А",
-        "Војводе Путника од бр.1 до бр.5."
-      ],
-      "reason": null,
-      "note": "Зајечар стамбене зграде Николе Пашића 81, 83, 87, 110, 116, 120, стамбене зграде Тимочке буне 2 и 2А, Војводе Путника од бр.1 до бр.5.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "49a7558600d3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "09:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део Лубнице - потез Селолице."
-      ],
-      "reason": null,
-      "note": "Део Лубнице - потез Селолице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-09",

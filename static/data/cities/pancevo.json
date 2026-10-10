@@ -22,40 +22,6 @@
       "sourceUrl": "https://www.vodovodpa.rs/2026/10/05/5-10-2026/"
     },
     {
-      "id": "9fc5052d0f01",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Старчево: Сремска, Омладинска од Виноградске до Сремске."
-      ],
-      "reason": null,
-      "note": "Старчево: Сремска, Омладинска од Виноградске до Сремске.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5df2c094525b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "11:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "Старчево: М.Тита од Вука Караџића до Војвођанске, Вука Караџића од Бориса Кидрича до М.Тита."
-      ],
-      "reason": null,
-      "note": "Старчево: М.Тита од Вука Караџића до Војвођанске, Вука Караџића од Бориса Кидрича до М.Тита.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "2ae62a06f4c5",
       "utility": "water",
       "kind": "emergency",
@@ -102,6 +68,40 @@
       ],
       "reason": null,
       "note": "Панчево: Марије и Лазара Драгићевића, Др.Јована Ердељановића, Светозара Милетића од Синђелићеве до Ружине (непарна страна), С.Милетића парна страна 70-88 и Ружина 14.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "4f24c144cd59",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Викенд насеље Девојачки Бунар"
+      ],
+      "reason": null,
+      "note": "Викенд насеље Девојачки Бунар",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "68f867970d1f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Панчево: С.Шупљикца 1-17 (непарна страна) и Ј.Рајића 15."
+      ],
+      "reason": null,
+      "note": "Панчево: С.Шупљикца 1-17 (непарна страна) и Ј.Рајића 15.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
@@ -253,7 +253,7 @@
     },
     {
       "date": "2026-10-10",
-      "electricityOutages": 1,
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

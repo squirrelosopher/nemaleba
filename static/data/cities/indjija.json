@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "\"МЕСТО ГЛАДНОШ\r\n• Део викенд зоне Б.Брег 1\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "b56f858f006b",
@@ -38,6 +38,57 @@
       ],
       "reason": null,
       "note": "\"МЕСТО ИНЂИЈА :\r\n• Ул. Цара Душана непарна страна од к.бр.107 до краја улице\r\n\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "a5dc3486c865",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "08:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "Инђија: С.Сремца од А.Шантића до Б.Нушића; А.Шантића; Б.Нушића од Карађорђеве до краја улице; М.Илића од бр 1/2 до Његошеве; 22.Октобра од Карађорђеве до Његошеве; Његошева од М.Илића до Омладинске; Карађорђева од 22.октобра до Б.Нушића; Голубиначка 33-53, 40-86а; Два земљака; Милетићева 35-93 непарна страна а парна страна од 64 до краја улице; Ј.Поповића 1-29, 2-36; К.Петра првог 21-63, 32-86; М.Горки 1-33, 2-26; Босанска; Ј.Богдана 18-76, 21-59; Ластина 1-21, 2-20; Д.Туцовића; Ж.Мишића; В.Караџића; Београдска 1-21, 2-20; Кратка."
+      ],
+      "reason": null,
+      "note": "Инђија: С.Сремца од А.Шантића до Б.Нушића; А.Шантића; Б.Нушића од Карађорђеве до краја улице; М.Илића од бр 1/2 до Његошеве; 22.Октобра од Карађорђеве до Његошеве; Његошева од М.Илића до Омладинске; Карађорђева од 22.октобра до Б.Нушића; Голубиначка 33-53, 40-86а; Два земљака; Милетићева 35-93 непарна страна а парна страна од 64 до краја улице; Ј.Поповића 1-29, 2-36; К.Петра првог 21-63, 32-86; М.Горки 1-33, 2-26; Босанска; Ј.Богдана 18-76, 21-59; Ластина 1-21, 2-20; Д.Туцовића; Ж.Мишића; В.Караџића; Београдска 1-21, 2-20; Кратка.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "70feb34ccb45",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Чортановци: Викенд зона Железничка изнад Железничке станице"
+      ],
+      "reason": null,
+      "note": "Чортановци: Викенд зона Железничка изнад Железничке станице",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "dd38d8ba7580",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Инђија: Церска од бр 3 до краја улице; Војвођанских бригада од Господарске до К.Јелене."
+      ],
+      "reason": null,
+      "note": "Инђија: Церска од бр 3 до краја улице; Војвођанских бригада од Господарске до К.Јелене.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

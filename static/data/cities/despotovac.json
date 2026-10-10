@@ -5,26 +5,7 @@
     "nameLatin": "Despotovac",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [
-    {
-      "id": "80664ca5dcc3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Деспотовац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "болница Деспотовац",
-        "водовод Деспотовац.Манастир Манасија"
-      ],
-      "reason": null,
-      "note": "болница Деспотовац,водовод Деспотовац.Манастир Манасија",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-09",
