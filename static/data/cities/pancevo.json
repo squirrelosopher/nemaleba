@@ -54,6 +54,36 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "0870deb2f9eb",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-12",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "део насељеног места Јабука",
+        "део Панчева"
+      ],
+      "reason": null,
+      "note": "Због хаварија на водоводној мрежи, без воде су остали део насељеног места Јабука и део Панчева.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/10/12/12-10-2026/"
+    },
+    {
+      "id": "3da1ede9db70",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-12",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Др.Светислава Касапиновића од Жарка Зрењанина до Цара Лазара",
+        "Цара Лазара од Др"
+      ],
+      "reason": null,
+      "note": "Такође је без воде остала Улица Др.Светислава Касапиновића од Жарка Зрењанина до Цара Лазара и Улица Цара Лазара од Др.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/10/12/12-10-2026/"
+    },
+    {
       "id": "4f24c144cd59",
       "utility": "electricity",
       "kind": "planned",
@@ -237,7 +267,7 @@
     {
       "date": "2026-10-12",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 2
     }
   ]
 }

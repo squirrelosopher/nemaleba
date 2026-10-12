@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T10:11:04.472Z",
+  "generatedAt": "2026-10-12T10:44:04.821Z",
   "summary": {
     "date": "2026-10-12",
     "electricityOutages": 161,
-    "waterOutages": 27,
+    "waterOutages": 29,
     "affected": [
       {
         "id": "beograd",
@@ -60,6 +60,12 @@
         "waterOutages": 0
       },
       {
+        "id": "pancevo",
+        "nameCyrillic": "Панчево",
+        "electricityOutages": 3,
+        "waterOutages": 2
+      },
+      {
         "id": "paracin",
         "nameCyrillic": "Параћин",
         "electricityOutages": 5,
@@ -110,12 +116,6 @@
       {
         "id": "mali-zvornik",
         "nameCyrillic": "Мали Зворник",
-        "electricityOutages": 3,
-        "waterOutages": 0
-      },
-      {
-        "id": "pancevo",
-        "nameCyrillic": "Панчево",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -426,7 +426,7 @@
     {
       "date": "2026-10-12",
       "electricityOutages": 83,
-      "waterOutages": 27
+      "waterOutages": 29
     }
   ],
   "providers": [
