@@ -21,24 +21,7 @@
       ],
       "reason": null,
       "note": "Јунковац (засеок Дом према Великим Црљенима.)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
-    },
-    {
-      "id": "1abac4a9edd6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Љиг: насеље Бранчић (засеок Маринковићи-према Росинци,према Ђурићу)."
-      ],
-      "reason": null,
-      "note": "Љиг: насеље Бранчић (засеок Маринковићи-према Росинци,према Ђурићу).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "05d4e9c3bce1",
@@ -64,7 +47,24 @@
       ],
       "reason": null,
       "note": "Владике Николаја Велимировића 32-102,65-121,део улице Железничка,Печанска,Илије Гојковића,Хаџи Румивома,Радничка,Браће Југовића,Милована Глишића,Зорана Радмиловића (засеок Петка 2 испод Ластине гараже према Ракића сокаку).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "1abac4a9edd6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-12",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Љиг: насеље Бранчић (засеок Маринковићи-према Росинци,према Ђурићу)."
+      ],
+      "reason": null,
+      "note": "Љиг: насеље Бранчић (засеок Маринковићи-према Росинци,према Ђурићу).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "7bf9cedd4319",
@@ -81,7 +81,7 @@
       ],
       "reason": null,
       "note": "4.Јула (насеље Шабац).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3b2deeb8b5d9",
@@ -167,6 +167,57 @@
       "reason": null,
       "note": "Насеље Јунковац (засеок Сајковац).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e4aaf15b5824",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Насеље Крушевица (засеок Игралиште)."
+      ],
+      "reason": null,
+      "note": "Насеље Крушевица (засеок Игралиште).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "660314d6c95e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Насеље Горња Топлица (засеок Цвејовићи)."
+      ],
+      "reason": null,
+      "note": "Насеље Горња Топлица (засеок Цвејовићи).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "50e11094dda0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Насеље Јунковац (засеок Белаћевићи)."
+      ],
+      "reason": null,
+      "note": "Насеље Јунковац (засеок Белаћевићи).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
