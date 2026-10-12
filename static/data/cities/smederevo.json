@@ -5,7 +5,48 @@
     "nameLatin": "Smederevo",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "99172c63d7bf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "ул. Шалиначка од Будућности до ЕПС-а (десна страна)",
+        "Делиблатска",
+        "Ливадска",
+        "Пешчарска"
+      ],
+      "reason": null,
+      "note": "ул. Шалиначка од Будућности до ЕПС-а (десна страна), Делиблатска, Ливадска, Пешчарска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "41b4eef1e66a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "ул. Гаје Чупића",
+        "Прилепска",
+        "Скопљанска",
+        "Суботичка"
+      ],
+      "reason": null,
+      "note": "ул. Гаје Чупића, Прилепска, Скопљанска, Суботичка",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-13",

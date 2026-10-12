@@ -5,7 +5,25 @@
     "nameLatin": "Žitište",
     "branchCyrillic": "Зрењанин"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "d4c81ddbb236",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Житиште",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Српски Итебеј: део Бранка Радичевића, део Итебејски Друм, део Милоша Црњанског, део Светозара Марковића, Трг Слободе."
+      ],
+      "reason": null,
+      "note": "Српски Итебеј: део Бранка Радичевића, део Итебејски Друм, део Милоша Црњанског, део Светозара Марковића, Трг Слободе.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-15",

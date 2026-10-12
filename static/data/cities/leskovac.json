@@ -28,6 +28,32 @@
       "reason": null,
       "note": "Предејане варош и село, Црвени Брег, Ново Село, Бричевље, Бакарни Поток, Сушевље, Кораћевац и Милијине Ливаде",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "6ba0b0d3e85a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Лесковац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Печењевац",
+        "Чекмин",
+        "Липовица",
+        "Брејановце",
+        "Чифлук Разгојнски",
+        "Разгојна",
+        "Доња и Горња Локошница",
+        "Грданица",
+        "Смрдан",
+        "Бабичко и Ново Село"
+      ],
+      "reason": null,
+      "note": "Печењевац, Чекмин, Липовица, Брејановце, Чифлук Разгојнски, Разгојна, Доња и Горња Локошница, Грданица, Смрдан, Бабичко и Ново Село",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

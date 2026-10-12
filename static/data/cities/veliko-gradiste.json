@@ -5,7 +5,42 @@
     "nameLatin": "Veliko Gradište",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "4af45a8e51df",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Велико Градиште",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Трафо област ''Број 2 Велико Градиште'': Доситејева, Кнеза Лазара, Светосавска, Жике Поповића"
+      ],
+      "reason": null,
+      "note": "Трафо област ''Број 2 Велико Градиште'': Доситејева, Кнеза Лазара, Светосавска, Жике Поповића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "823c88e195e1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Велико Градиште",
+      "time": {
+        "start": "09:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Кнеза Лазара"
+      ],
+      "reason": null,
+      "note": "Кнеза Лазара",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-13",

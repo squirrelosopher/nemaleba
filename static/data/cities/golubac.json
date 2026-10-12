@@ -22,6 +22,24 @@
       "reason": null,
       "note": "део насеља Кривача (трафо област 10/0.4kV Кривача 2 - Тилва)",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "dff872e35885",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Голубац",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Усије",
+        "Винци"
+      ],
+      "reason": null,
+      "note": "Усије, Винци",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

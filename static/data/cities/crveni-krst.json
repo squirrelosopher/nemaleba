@@ -5,7 +5,28 @@
     "nameLatin": "Crveni krst",
     "branchCyrillic": "Ниш"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "9edf7e24c955",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Црвени крст",
+      "time": {
+        "start": "10:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "делови улица Ратка Јовића",
+        "Бранка Бјеговића",
+        "Обрена Николића и Булевара 12. Фебруара (96",
+        "102)"
+      ],
+      "reason": null,
+      "note": "делови улица Ратка Јовића, Бранка Бјеговића, Обрена Николића и Булевара 12. Фебруара (96, 102)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-13",

@@ -58,23 +58,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "70feb34ccb45",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Чортановци: Викенд зона Железничка изнад Железничке станице"
-      ],
-      "reason": null,
-      "note": "Чортановци: Викенд зона Железничка изнад Железничке станице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "dd38d8ba7580",
       "utility": "electricity",
       "kind": "planned",
@@ -90,6 +73,57 @@
       "reason": null,
       "note": "Инђија: Церска од бр 3 до краја улице; Војвођанских бригада од Господарске до К.Јелене.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7ea39c149b78",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Марадик: В.Караџића од бр 6/13 до краја улице; Гробљанска; Шуматовачка."
+      ],
+      "reason": null,
+      "note": "Марадик: В.Караџића од бр 6/13 до краја улице; Гробљанска; Шуматовачка.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "57e9f94eca6a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Стари Сланкамен: Део викенд зоне Одушевац 2"
+      ],
+      "reason": null,
+      "note": "Стари Сланкамен: Део викенд зоне Одушевац 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "8dcb31930c44",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "\"Сланкаменачки Виногради: Цело место\r\nВикенд зона Јанда; Викенд зона Крст Ралица; Манера Н.Сланкамен\""
+      ],
+      "reason": null,
+      "note": "\"Сланкаменачки Виногради: Цело место\r\nВикенд зона Јанда; Викенд зона Крст Ралица; Манера Н.Сланкамен\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,7 +5,44 @@
     "nameLatin": "Požarevac",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "0ba4b7450342",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Пожаревац",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Живица",
+        "Брежане",
+        "Батовац и Дубравица"
+      ],
+      "reason": null,
+      "note": "Живица, Брежане, Батовац и Дубравица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "051ddf1b258d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Пожаревац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Светосавска 27-31"
+      ],
+      "reason": null,
+      "note": "Светосавска 27-31",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-13",

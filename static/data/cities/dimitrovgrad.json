@@ -5,7 +5,42 @@
     "nameLatin": "Dimitrovgrad",
     "branchCyrillic": "Пирот"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "99e9a095b5dc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Димитровград",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Стара Гумара."
+      ],
+      "reason": null,
+      "note": "Стара Гумара.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "8e11b68e361f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Димитровград",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Верзар."
+      ],
+      "reason": null,
+      "note": "Верзар.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-13",

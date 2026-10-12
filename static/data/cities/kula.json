@@ -5,7 +5,25 @@
     "nameLatin": "Kula",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "e25d3b7fd8c5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Кула",
+      "time": {
+        "start": "12:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "М.Тита ББ"
+      ],
+      "reason": null,
+      "note": "М.Тита ББ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-13",

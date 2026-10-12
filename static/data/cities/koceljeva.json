@@ -5,7 +5,45 @@
     "nameLatin": "Koceljeva",
     "branchCyrillic": "Шабац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "b0603a0c9e00",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Коцељева",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ КОЈИ СЕ НАПАЈАЈУ ИЗ ТС ДОЊЕ ЦРНИЉЕВО 5"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ КОЈИ СЕ НАПАЈАЈУ ИЗ ТС ДОЊЕ ЦРНИЉЕВО 5",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "2e1950aa7969",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Коцељева",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈУ У МЕСТУ КОЦЕЉЕВА УЛ. НЕМАЊИНА",
+        "КАРАЂОРЂЕВА",
+        "ЗГРАДА ОПШТИНЕ",
+        "СУД И ПОЛИЦИЈА"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈУ У МЕСТУ КОЦЕЉЕВА УЛ. НЕМАЊИНА, КАРАЂОРЂЕВА, ЗГРАДА ОПШТИНЕ, СУД И ПОЛИЦИЈА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-06",

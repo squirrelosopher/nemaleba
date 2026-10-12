@@ -5,7 +5,29 @@
     "nameLatin": "Preševo",
     "branchCyrillic": "Врање"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "e3c8eeaa44b6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Прешево",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "подручје око амбуланте-центар",
+        "Царина",
+        "Ораовица",
+        "Г.Шушаја",
+        "Д.Шушаја"
+      ],
+      "reason": null,
+      "note": "подручје око амбуланте-центар, Царина, Ораовица, Г.Шушаја, Д.Шушаја",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-13",

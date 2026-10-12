@@ -5,7 +5,59 @@
     "nameLatin": "Odžaci",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "7717da070cb1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Оџаци",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Каравуково: цело село"
+      ],
+      "reason": null,
+      "note": "Каравуково: цело село",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "3989620a582e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Оџаци",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Дероње: Караља Александра, део Краља Петра и део Виноградске."
+      ],
+      "reason": null,
+      "note": "Дероње: Караља Александра, део Краља Петра и део Виноградске.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "178174a044b4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Оџаци",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Оџаци: Косовска, Хиландарска, 4.Јула, С.Сремца, 29.Новембра, Дунавска, Жељезничка."
+      ],
+      "reason": null,
+      "note": "Оџаци: Косовска, Хиландарска, 4.Јула, С.Сремца, 29.Новембра, Дунавска, Жељезничка.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-13",

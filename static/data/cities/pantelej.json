@@ -82,6 +82,23 @@
       "reason": null,
       "note": "делови улица Борачке, Дунавске, Каменичке, Лаповачке и Виноградарске;",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "02bedd064561",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "део Горње Врежине;"
+      ],
+      "reason": null,
+      "note": "део Горње Врежине;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

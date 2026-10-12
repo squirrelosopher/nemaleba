@@ -5,7 +5,33 @@
     "nameLatin": "Raška",
     "branchCyrillic": "Краљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "8971614e0c87",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Рашка",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Насеље Баљевац",
+        "села Биорци",
+        "Лућице",
+        "Жижовци",
+        "Бојанићи",
+        "Лозно",
+        "Плана",
+        "Покрвеник",
+        "Баре"
+      ],
+      "reason": null,
+      "note": "Насеље Баљевац, села Биорци, Лућице, Жижовци, Бојанићи, Лозно, Плана , Покрвеник, Баре",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-13",

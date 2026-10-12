@@ -83,6 +83,46 @@
       "reason": null,
       "note": "део села Остриковца ка дома",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "0b04e72e1c01",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "улице:Миодрага Новаковића(од бр.33 до краја)",
+        "Бранка Ћопића",
+        "Капетана Коче(од бр.2 до бр.34)",
+        "Петра Кочића",
+        "Иванковачка(од улице Немањине до краја)",
+        "Бошка Ђуричића (од улице Немањине до краја)",
+        "локали испред болнице и Видовданска(од улице Немањине до краја)."
+      ],
+      "reason": null,
+      "note": "улице:Миодрага Новаковића(од бр.33 до краја),Бранка Ћопића,Капетана Коче(од бр.2 до бр.34),Петра Кочића,Иванковачка(од улице Немањине до краја),Бошка Ђуричића (од улице Немањине до краја),локали испред болнице и Видовданска(од улице Немањине до краја).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "65e15bfd35e8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "14:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Медицински центар Ћуприја и Завод за заштиту здравља."
+      ],
+      "reason": null,
+      "note": "Медицински центар Ћуприја и Завод за заштиту здравља.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
