@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T07:11:09.905Z",
+  "generatedAt": "2026-10-12T08:11:06.035Z",
   "summary": {
     "date": "2026-10-12",
     "electricityOutages": 148,
-    "waterOutages": 23,
+    "waterOutages": 24,
     "affected": [
       {
         "id": "beograd",
@@ -90,6 +90,12 @@
         "waterOutages": 0
       },
       {
+        "id": "vranje",
+        "nameCyrillic": "Врање",
+        "electricityOutages": 0,
+        "waterOutages": 3
+      },
+      {
         "id": "vrsac",
         "nameCyrillic": "Вршац",
         "electricityOutages": 3,
@@ -130,12 +136,6 @@
         "nameCyrillic": "Бабушница",
         "electricityOutages": 2,
         "waterOutages": 0
-      },
-      {
-        "id": "vranje",
-        "nameCyrillic": "Врање",
-        "electricityOutages": 0,
-        "waterOutages": 2
       },
       {
         "id": "pecinci",
@@ -426,7 +426,7 @@
     {
       "date": "2026-10-12",
       "electricityOutages": 83,
-      "waterOutages": 23
+      "waterOutages": 24
     }
   ],
   "providers": [
