@@ -7,47 +7,6 @@
   },
   "outages": [
     {
-      "id": "e7f8acf6a2f9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-11",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "11:00"
-      },
-      "streets": [
-        "Улице Трг Републике",
-        "7 Јули",
-        "део Таковске",
-        "део Николе Пашића",
-        "Паје Јовановић",
-        "Цетињска",
-        "Обилићева и Кнеза лазара"
-      ],
-      "reason": null,
-      "note": "Улице Трг Републике, 7 Јули, део Таковске, део Николе Пашића, Паје Јовановић, Цетињска, Обилићева и Кнеза лазара",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "459c976d2886",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-11",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "11:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Улице Цара Душана",
-        "Стојана Миладиновића и Обилићева"
-      ],
-      "reason": null,
-      "note": "Улице Цара Душана, Стојана Миладиновића и Обилићева",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "ac67fb0dbe06",
       "utility": "electricity",
       "kind": "planned",
@@ -62,7 +21,7 @@
       ],
       "reason": null,
       "note": "Викенд насеље Свети Јован",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5140aa348ccb",
@@ -79,7 +38,7 @@
       ],
       "reason": null,
       "note": "Село Јеловица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "c7eb1537edda",
@@ -98,7 +57,7 @@
       ],
       "reason": null,
       "note": "Улице Миливоја Манића, Косте Абрашевића, Сењска и Данила Киша",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

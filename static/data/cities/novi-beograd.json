@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "b8dd86bdf556",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-11",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": "08:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "ОМЛАДИНСКИХ БРИГАДА: 23"
-      ],
-      "reason": null,
-      "note": "ОМЛАДИНСКИХ БРИГАДА: 23,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "458bad15cb33",
       "utility": "electricity",
       "kind": "planned",

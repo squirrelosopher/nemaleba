@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "0a294ada1ec0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-11",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "13:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "БАТАЈНИЧКИ ДРУМ: 289"
-      ],
-      "reason": null,
-      "note": "БАТАЈНИЧКИ ДРУМ: 289,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "2020a0daafd5",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "ЂОРЂА ЧУТУКОВИЋА : 2-24,3-9,13-13а, ХЕРЦЕГОВАЧКА: 4-36,40-46,1-31Ф, КРАЈИШКА: 2,1, ПРВОМАЈСКА: 96-112Ц,81-99, РАДЕ КОНЧАРА: 2В/1,1,5-5, ЖЕЛЕЗНИЧКА: 16-20,24-28,32-32Ц,23,29-57,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "73837a70f2ee",
@@ -72,7 +55,7 @@
       ],
       "reason": null,
       "note": "22 ОКТОБРА: 4-14, ДАНИЛА МЕДАКОВИЋА : 7-11,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

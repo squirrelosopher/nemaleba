@@ -84,23 +84,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "959338e141b0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Љиг: насеље Бољковци (засеок Рањци-према Буковачки)."
-      ],
-      "reason": null,
-      "note": "Љиг: насеље Бољковци (засеок Рањци-према Буковачки).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
-    },
-    {
       "id": "3b2deeb8b5d9",
       "utility": "electricity",
       "kind": "planned",
@@ -115,7 +98,24 @@
       ],
       "reason": null,
       "note": "Љиг: насеље Велишевац (засеок Жеравац),Љиг (насеље Ћућин), Бабајић,Дучић.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "959338e141b0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-13",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Љиг: насеље Бољковци (засеок Рањци-према Буковачки)."
+      ],
+      "reason": null,
+      "note": "Љиг: насеље Бољковци (засеок Рањци-према Буковачки).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "8e669da308b3",
@@ -132,7 +132,7 @@
       ],
       "reason": null,
       "note": "Насеље Велики Црљени (засеок Космај 1).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "295af3fbbc9d",
@@ -149,7 +149,7 @@
       ],
       "reason": null,
       "note": "Насеље Јунковац (засеок Дом).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "171a03f500c9",
@@ -166,7 +166,7 @@
       ],
       "reason": null,
       "note": "Насеље Јунковац (засеок Сајковац).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

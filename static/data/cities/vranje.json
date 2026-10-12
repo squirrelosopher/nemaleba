@@ -65,6 +65,18 @@
       "reason": null,
       "note": "Због оштећења на водоводној мрежи у улици  др. Симе Милошевића,  без воде биће потрошачи те улице  до завршетка радова.",
       "sourceUrl": "https://vodovodvranje.rs/09-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "c3cd95ca67d8",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-12",
+      "areaLabel": "Јурице Рибара",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у улици  Јурице Рибара,  без воде биће потрошачи те улице и околне,  до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/12-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
     }
   ],
   "history": [
@@ -216,7 +228,7 @@
     {
       "date": "2026-10-12",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
