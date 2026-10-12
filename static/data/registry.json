@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T18:11:00.677Z",
+  "generatedAt": "2026-10-12T19:46:06.574Z",
   "summary": {
     "date": "2026-10-12",
     "electricityOutages": 309,
-    "waterOutages": 29,
+    "waterOutages": 30,
     "affected": [
       {
         "id": "beograd",
@@ -216,6 +216,12 @@
         "waterOutages": 0
       },
       {
+        "id": "valjevo",
+        "nameCyrillic": "Ваљево",
+        "electricityOutages": 1,
+        "waterOutages": 1
+      },
+      {
         "id": "veliko-gradiste",
         "nameCyrillic": "Велико Градиште",
         "electricityOutages": 2,
@@ -296,12 +302,6 @@
       {
         "id": "batocina",
         "nameCyrillic": "Баточина",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "valjevo",
-        "nameCyrillic": "Ваљево",
         "electricityOutages": 1,
         "waterOutages": 0
       },
