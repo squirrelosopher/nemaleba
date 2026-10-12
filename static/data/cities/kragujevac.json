@@ -866,67 +866,6 @@
       "note": "Корићани, ул. Краљевачког Батаљона ( од 16:00 до 19:00 часова ), поправка уличне линије."
     },
     {
-      "id": "b0179c6ec2ac",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-10",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:30",
-        "end": "10:00"
-      },
-      "streets": [
-        "Светозара Марковића 29",
-        "32",
-        "40 - 42"
-      ],
-      "reason": null,
-      "note": "Светозара Марковића 29, 32, 40 - 42",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ae49cb01f6f7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-10",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "13:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Чехова",
-        "Кнеза Михаила",
-        "Лицика",
-        "Мишарска",
-        "Зоре Радуловић"
-      ],
-      "reason": null,
-      "note": "Чехова, Кнеза Михаила, Лицика, Мишарска, Зоре Радуловић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "785b431db55e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-10",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "14:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Хајдук Вељкова",
-        "Кнеза Михаила",
-        "Шантићева",
-        "Станоја Главаша",
-        "Тополиваца"
-      ],
-      "reason": null,
-      "note": "Хајдук Вељкова, Кнеза Михаила, Шантићева, Станоја Главаша, Тополиваца",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "89c4271389ac",
       "utility": "electricity",
       "kind": "planned",
@@ -965,11 +904,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-12",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-13",
       "electricityOutages": 0,
@@ -1112,6 +1046,11 @@
     },
     {
       "date": "2026-10-11",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

@@ -194,23 +194,6 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-9-10-2026/"
     },
     {
-      "id": "b18c89816e8f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-10",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Сремска Каменица: Фрупкогорски пут 109 – 153, 172 – 230, Староиришки пут, Ловачки дом."
-      ],
-      "reason": null,
-      "note": "Сремска Каменица: Фрупкогорски пут 109 – 153, 172 – 230, Староиришки пут, Ловачки дом.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e97768293c94",
       "utility": "electricity",
       "kind": "planned",
@@ -356,11 +339,6 @@
   ],
   "history": [
     {
-      "date": "2026-09-12",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
-    {
       "date": "2026-09-13",
       "electricityOutages": 0,
       "waterOutages": 0
@@ -504,6 +482,11 @@
       "date": "2026-10-11",
       "electricityOutages": 2,
       "waterOutages": 0
+    },
+    {
+      "date": "2026-10-12",
+      "electricityOutages": 5,
+      "waterOutages": 1
     }
   ]
 }

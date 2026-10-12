@@ -37,23 +37,6 @@
       "sourceUrl": "https://www.vodovodpa.rs/2026/10/09/9-10-2026/"
     },
     {
-      "id": "ddbd2803dd2f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-10",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Панчево: Његошева од Карађорђеве до Затвора (парна страна), В.Радомира Путника од В.Живојина Мишића до Основног Суда (непарна страна)."
-      ],
-      "reason": null,
-      "note": "Панчево: Његошева од Карађорђеве до Затвора (парна страна), В.Радомира Путника од В.Живојина Мишића до Основног Суда (непарна страна).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d552013e01d7",
       "utility": "electricity",
       "kind": "planned",
@@ -106,11 +89,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-12",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-13",
       "electricityOutages": 0,
@@ -254,6 +232,11 @@
     {
       "date": "2026-10-11",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-12",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

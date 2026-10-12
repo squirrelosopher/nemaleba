@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "9deaab495b9e",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-10-04",
-      "areaLabel": "Поповац",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Војника Милована Јовановића"
-      ],
-      "reason": null,
-      "note": "ПЛАНИРАНИ РАДОВИ У СЕЛУ ПОПОВАЦ недељу 04. октобра планира се поправка квара у улици Војника Милована Јовановића, код броја 56. Због поправке водоводне мреже биће у прекиду водоснабдевањe од 8 до 15 часова у улици Војника Милована Јовановића, али је могућ прекид и на простору села Поповац.",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%bf%d0%bb%d0%b0%d0%bd%d0%b8%d1%80%d0%b0%d0%bd%d0%b8-%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%98%d0%b5%d1%9b%d0%b8-%d0%b2%d0%b8%d0%ba%d0%b5-70/"
-    },
-    {
       "id": "41b2627294d9",
       "utility": "water",
       "kind": "emergency",
@@ -768,11 +751,6 @@
   ],
   "history": [
     {
-      "date": "2026-09-12",
-      "electricityOutages": 1,
-      "waterOutages": 1
-    },
-    {
       "date": "2026-09-13",
       "electricityOutages": 0,
       "waterOutages": 1
@@ -916,6 +894,11 @@
       "date": "2026-10-11",
       "electricityOutages": 0,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-10-12",
+      "electricityOutages": 4,
+      "waterOutages": 0
     }
   ]
 }

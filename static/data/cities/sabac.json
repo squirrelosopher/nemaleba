@@ -5,32 +5,8 @@
     "nameLatin": "Šabac",
     "branchCyrillic": "Шабац"
   },
-  "outages": [
-    {
-      "id": "631025a1c74e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-10",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Без напона остају потрошачи у викенд насељу на Сави",
-        "фирма Југокоп и црпне станице на Сави."
-      ],
-      "reason": null,
-      "note": "Без напона остају потрошачи у викенд насељу на Сави ,фирма Југокоп и црпне станице на Сави.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-09-12",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-13",
       "electricityOutages": 0,
@@ -173,6 +149,11 @@
     },
     {
       "date": "2026-10-11",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }

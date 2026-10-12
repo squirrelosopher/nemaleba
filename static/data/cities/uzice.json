@@ -7,77 +7,6 @@
   },
   "outages": [
     {
-      "id": "0bbeefe3b9d8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-10",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "07:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Луновог Села на изводу за Антонијевиће",
-        "Пониковица и Антонијевићи."
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Луновог Села на изводу за Антонијевиће, Пониковица и Антонијевићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "9b1d156638fd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-10",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи",
-        "Ивановићи",
-        "Јевтовићи)"
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Филиповића у Рибашевини (засеок Филиповићи, Ивановићи, Јевтовићи)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "66e7d7a66563",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-10",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Филиповића у Рибашевини."
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Филиповића у Рибашевини.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "83ff831e8cb3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-10",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Алексића у Трнави Каранској.."
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Алексића у Трнави Каранској..",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "4a7d81d2e2fb",
       "utility": "electricity",
       "kind": "planned",
@@ -96,11 +25,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-12",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-13",
       "electricityOutages": 0,
@@ -244,6 +168,11 @@
     {
       "date": "2026-10-11",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-12",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]
