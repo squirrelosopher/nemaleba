@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T06:11:07.889Z",
+  "generatedAt": "2026-10-12T07:11:09.905Z",
   "summary": {
     "date": "2026-10-12",
     "electricityOutages": 148,
-    "waterOutages": 14,
+    "waterOutages": 23,
     "affected": [
       {
         "id": "beograd",
@@ -24,6 +24,12 @@
         "waterOutages": 0
       },
       {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 4,
+        "waterOutages": 7
+      },
+      {
         "id": "sremska-mitrovica",
         "nameCyrillic": "Сремска Митровица",
         "electricityOutages": 9,
@@ -39,7 +45,7 @@
         "id": "novi-sad",
         "nameCyrillic": "Нови Сад",
         "electricityOutages": 5,
-        "waterOutages": 1
+        "waterOutages": 2
       },
       {
         "id": "indjija",
@@ -74,12 +80,6 @@
       {
         "id": "kraljevo",
         "nameCyrillic": "Краљево",
-        "electricityOutages": 4,
-        "waterOutages": 0
-      },
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
         "electricityOutages": 4,
         "waterOutages": 0
       },
@@ -132,6 +132,12 @@
         "waterOutages": 0
       },
       {
+        "id": "vranje",
+        "nameCyrillic": "Врање",
+        "electricityOutages": 0,
+        "waterOutages": 2
+      },
+      {
         "id": "pecinci",
         "nameCyrillic": "Пећинци",
         "electricityOutages": 2,
@@ -172,12 +178,6 @@
         "nameCyrillic": "Брус",
         "electricityOutages": 1,
         "waterOutages": 0
-      },
-      {
-        "id": "vranje",
-        "nameCyrillic": "Врање",
-        "electricityOutages": 0,
-        "waterOutages": 1
       },
       {
         "id": "golubac",
@@ -426,7 +426,7 @@
     {
       "date": "2026-10-12",
       "electricityOutages": 83,
-      "waterOutages": 14
+      "waterOutages": 23
     }
   ],
   "providers": [
