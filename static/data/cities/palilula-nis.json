@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "f9edc0b61c5b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-06",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Марка Јовановића"
-      ],
-      "reason": null,
-      "note": "ПОПРАВКА КВАРА У НАСЕЉУ ПАЛИЛУЛА ода са улице отиче у шахту, потребан је ископ у улици Марка Јовановића, код броја 49. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 сати у сокаку и делу улицe Марка Јовановића",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-189/"
-    },
-    {
       "id": "584f1251f058",
       "utility": "electricity",
       "kind": "planned",
@@ -151,11 +134,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-14",
-      "electricityOutages": 3,
-      "waterOutages": 2
-    },
     {
       "date": "2026-09-15",
       "electricityOutages": 2,
@@ -299,6 +277,11 @@
     {
       "date": "2026-10-13",
       "electricityOutages": 4,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-14",
+      "electricityOutages": 3,
       "waterOutages": 0
     }
   ]
