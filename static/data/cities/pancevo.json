@@ -86,6 +86,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "b8113842c263",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-13",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "цело насеље Дубока бара"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водовоној мрежи без воде је остало цело насеље Дубока бара.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/10/13/13-10-2026/"
+    },
+    {
       "id": "eb3b4b324da5",
       "utility": "electricity",
       "kind": "planned",
@@ -252,7 +266,7 @@
     {
       "date": "2026-10-13",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

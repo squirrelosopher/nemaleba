@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-13T08:11:08.060Z",
+  "generatedAt": "2026-10-13T09:10:59.204Z",
   "summary": {
     "date": "2026-10-13",
     "electricityOutages": 267,
-    "waterOutages": 17,
+    "waterOutages": 18,
     "affected": [
       {
         "id": "beograd",
@@ -114,6 +114,12 @@
         "waterOutages": 0
       },
       {
+        "id": "pancevo",
+        "nameCyrillic": "Панчево",
+        "electricityOutages": 3,
+        "waterOutages": 1
+      },
+      {
         "id": "veliko-gradiste",
         "nameCyrillic": "Велико Градиште",
         "electricityOutages": 3,
@@ -134,12 +140,6 @@
       {
         "id": "odzaci",
         "nameCyrillic": "Оџаци",
-        "electricityOutages": 3,
-        "waterOutages": 0
-      },
-      {
-        "id": "pancevo",
-        "nameCyrillic": "Панчево",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -540,7 +540,7 @@
     {
       "date": "2026-10-13",
       "electricityOutages": 110,
-      "waterOutages": 17
+      "waterOutages": 18
     }
   ],
   "providers": [
