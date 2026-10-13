@@ -866,6 +866,23 @@
       "note": "Теферич, ул. Сипничка ( од 16:00 до 19:00 часова ), поправка уличне линије."
     },
     {
+      "id": "c0c3ee1d1576",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-13",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-10-2026/",
+      "areaLabel": "Ердеч",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Јована Шарића"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Хаваријска искључења на дан 13.10.2026. \n \n Ердеч, ул. Јована Шарића ( од 08:00 до 12:00 часова ), поправка уличне линије."
+    },
+    {
       "id": "89c4271389ac",
       "utility": "electricity",
       "kind": "planned",
@@ -886,6 +903,38 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "9b64a24ae03d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-13",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-10-2026/",
+      "areaLabel": "Марковића – Епископа Саве",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [],
+      "reason": "поправка уличне линије",
+      "note": "Бубањ, угао С.Марковића – Епископа Саве ( од 08:00 до 12:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "7705ecc67ac3",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-13",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-10-2026/",
+      "areaLabel": "Центар",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Кумановска"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Центар, ул. Кумановска ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
+    },
+    {
       "id": "466c669d3e53",
       "utility": "electricity",
       "kind": "planned",
@@ -901,6 +950,57 @@
       "reason": null,
       "note": "Ресавска",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "f9a4f28fe908",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-13",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-10-2026/",
+      "areaLabel": "Ердеч",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Милана Бабића"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Багремар, угао Д.Тодоровић – Миленка Јовановића ( од 12:00 до ??:?? часова ), поправка хидранта. \n Ердеч, ул. Милана Бабића ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "d87871f20ddd",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-13",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-10-2026/",
+      "areaLabel": "Петровац",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "угао Душана Ђорђевића – Алексиначка"
+      ],
+      "reason": "поправка хидранта",
+      "note": "Јовановац, ул. Саве Ковачевића ( од 12:00 до ??:?? часова ), поправка уличне линије. \n Петровац, угао Душана Ђорђевића – Алексиначка ( од 16:00 до 19:00 часова ), поправка хидранта."
+    },
+    {
+      "id": "93d686fbb4b8",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-13",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-10-2026/",
+      "areaLabel": "Теферич",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Ситничка"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Бресница, ул. Ужичке републике ( од 12:00 до ??:?? часова ), поправка кућног прикључка. \n Теферич, ул. Ситничка ( од 16:00 до 19:00 часова ), поправка уличне линије."
     },
     {
       "id": "f0fee3920d69",
@@ -1127,7 +1227,7 @@
     {
       "date": "2026-10-13",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 6
     }
   ]
 }
