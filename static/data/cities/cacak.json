@@ -40,6 +40,40 @@
       "reason": null,
       "note": "Потрошачи у Катрзи.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "8280d08e9b83",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Потрошачи у Придворици и Јездини."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Придворици и Јездини.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e4fc7f1aea20",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Потрошачи у улици Пиговој и делу улице Веселина Миликића од Пигове ка бедему."
+      ],
+      "reason": null,
+      "note": "Потрошачи у улици Пиговој и делу улице Веселина Миликића од Пигове ка бедему.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

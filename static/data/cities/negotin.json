@@ -5,7 +5,26 @@
     "nameLatin": "Negotin",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "81b09a5cbcdb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Неготин",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Село Радујевац",
+        "црпне пумпе Косно грло и Прахово пристаниште"
+      ],
+      "reason": null,
+      "note": "Село Радујевац, црпне пумпе Косно грло и Прахово пристаниште",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-14",

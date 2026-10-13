@@ -22,6 +22,40 @@
       "reason": null,
       "note": "Град Кладово (комплетно насење Дедиње) и део улице Рибарске (од Кружног тока ка Дедињу).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "734171c315ab",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Кладово",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Засеоци Пропазешће и Велики Пепео"
+      ],
+      "reason": null,
+      "note": "Засеоци Пропазешће и Велики Пепео",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "335aa5610aa6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Кладово",
+      "time": {
+        "start": "08:30",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеља Стара Брза и Купузиште са припадајућим викенд насељима ."
+      ],
+      "reason": null,
+      "note": "Насеља Стара Брза и Купузиште са припадајућим викенд насељима .",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

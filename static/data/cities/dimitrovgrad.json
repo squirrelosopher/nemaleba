@@ -39,6 +39,28 @@
       "reason": null,
       "note": "Верзар.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "8df93a2e035a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Димитровград",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Гојин Дол",
+        "Срећковац",
+        "Обреновац",
+        "Чиниглавци",
+        "Братаја",
+        "Градиште."
+      ],
+      "reason": null,
+      "note": "Гојин Дол,Срећковац,Обреновац,Чиниглавци,Братаја,Градиште.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

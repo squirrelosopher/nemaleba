@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "7ef72258fd7e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Сомбор: Штросмајерова 11-27, 4-26, С.Опсенице 3-19, 14, Ј.Цвијића, Стапарски Пут 13-15, Ј.Панчића, Б.Станковића 3, 4, Ф.Кљајића 17-41, 6-38, Светог Саве 1-7, 2-10, Банатска 25-53, 20-50, В.Секулића 37-51, 32-38."
-      ],
-      "reason": null,
-      "note": "Сомбор: Штросмајерова 11-27, 4-26, С.Опсенице 3-19, 14, Ј.Цвијића, Стапарски Пут 13-15, Ј.Панчића, Б.Станковића 3, 4, Ф.Кљајића 17-41, 6-38, Светог Саве 1-7, 2-10, Банатска 25-53, 20-50, В.Секулића 37-51, 32-38.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "73fa81e9fdf5",
       "utility": "electricity",
       "kind": "planned",
@@ -38,6 +21,23 @@
       ],
       "reason": null,
       "note": "СОМБОР, УЛИЦЕ: ВЕНАЦ С.СТЕПАНОВИЋА 1-7 и 8-22, МИРНА 3 И СОЊЕ МАРИНКОВИЋ ББ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7ef72258fd7e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Сомбор: Штросмајерова 11-27, 4-26, С.Опсенице 3-19, 14, Ј.Цвијића, Стапарски Пут 13-15, Ј.Панчића, Б.Станковића 3, 4, Ф.Кљајића 17-41, 6-38, Светог Саве 1-7, 2-10, Банатска 25-53, 20-50, В.Секулића 37-51, 32-38."
+      ],
+      "reason": null,
+      "note": "Сомбор: Штросмајерова 11-27, 4-26, С.Опсенице 3-19, 14, Ј.Цвијића, Стапарски Пут 13-15, Ј.Панчића, Б.Станковића 3, 4, Ф.Кљајића 17-41, 6-38, Светог Саве 1-7, 2-10, Банатска 25-53, 20-50, В.Секулића 37-51, 32-38.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
@@ -92,23 +92,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "46727b58cf6c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Сомбор: Стапарски пут 4-54."
-      ],
-      "reason": null,
-      "note": "Сомбор: Стапарски пут 4-54.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
-    },
-    {
       "id": "0dbba737fa10",
       "utility": "electricity",
       "kind": "planned",
@@ -126,6 +109,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
+      "id": "46727b58cf6c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "Сомбор: Стапарски пут 4-54."
+      ],
+      "reason": null,
+      "note": "Сомбор: Стапарски пут 4-54.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
       "id": "3a3b4d0db3e5",
       "utility": "electricity",
       "kind": "planned",
@@ -140,6 +140,23 @@
       ],
       "reason": null,
       "note": "Сомбор: Венац С.Степановића 1-7, 8-22, Мирна, А.Мразовића 7-9, 2-10, Краља Петра 1. 11-19.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "21202bada44f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Сомбор: Жарковац Салаши"
+      ],
+      "reason": null,
+      "note": "Сомбор: Жарковац Салаши",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {

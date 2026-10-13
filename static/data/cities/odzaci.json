@@ -24,6 +24,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "178174a044b4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Оџаци",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Оџаци: Косовска, Хиландарска, 4.Јула, С.Сремца, 29.Новембра, Дунавска, Жељезничка."
+      ],
+      "reason": null,
+      "note": "Оџаци: Косовска, Хиландарска, 4.Јула, С.Сремца, 29.Новембра, Дунавска, Жељезничка.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "3989620a582e",
       "utility": "electricity",
       "kind": "planned",
@@ -41,21 +58,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "178174a044b4",
+      "id": "7b7c796671b4",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-14",
+      "date": "2026-10-16",
       "areaLabel": "Оџаци",
       "time": {
-        "start": "09:00",
-        "end": "13:00"
+        "start": "08:00",
+        "end": "12:00"
       },
       "streets": [
-        "Оџаци: Косовска, Хиландарска, 4.Јула, С.Сремца, 29.Новембра, Дунавска, Жељезничка."
+        "Оџаци: Светозара Марковића 27А-41, 24-32."
       ],
       "reason": null,
-      "note": "Оџаци: Косовска, Хиландарска, 4.Јула, С.Сремца, 29.Новембра, Дунавска, Жељезничка.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "note": "Оџаци: Светозара Марковића 27А-41, 24-32.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

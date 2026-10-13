@@ -5,7 +5,26 @@
     "nameLatin": "Ivanjica",
     "branchCyrillic": "Чачак"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "90e6b8fbd85a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Ивањица",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Део Светице",
+        "Димитријевићи и Трње"
+      ],
+      "reason": null,
+      "note": "Део Светице, Димитријевићи и Трње",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-14",

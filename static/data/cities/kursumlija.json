@@ -26,6 +26,24 @@
       "reason": null,
       "note": "Куршумлијска бања,Крток,Црквиште,Врело,Дабиновац и Церово.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "11f61ec221f6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Куршумлија",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Зебице",
+        "Косаничка Рача (Гвозденовићи) и Трн."
+      ],
+      "reason": null,
+      "note": "Зебице,Косаничка Рача (Гвозденовићи) и Трн.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

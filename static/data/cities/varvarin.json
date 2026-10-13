@@ -5,7 +5,27 @@
     "nameLatin": "Varvarin",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "ca078886d793",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Варварин",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насељена места Село Варварин",
+        "Маскаре",
+        "Бошњане и Мрзеница"
+      ],
+      "reason": null,
+      "note": "Насељена места Село Варварин, Маскаре, Бошњане и Мрзеница",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-14",
