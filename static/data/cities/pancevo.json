@@ -7,21 +7,6 @@
   },
   "outages": [
     {
-      "id": "8cd0b2da82bf",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-05",
-      "areaLabel": "Панчево",
-      "time": null,
-      "streets": [
-        "и Преспанска улица",
-        "од Новосељанског пута до Скадарске улице"
-      ],
-      "reason": null,
-      "note": "Због хаварије на водоводној мрежи, без воде су остале следеће улице:\n\nУлица Стевана Сремца, од Цвијићеве до Улице Иве Андрића;\n\nДечанска улица;\n\nМанасијска улица;\n\nЦвијићева улица, од Стевана Сремца до Милешевске улице;\n\nТакође је без воде остала и Преспанска улица, од Новосељанског пута до Скадарске улице.",
-      "sourceUrl": "https://www.vodovodpa.rs/2026/10/05/5-10-2026/"
-    },
-    {
       "id": "2ae62a06f4c5",
       "utility": "water",
       "kind": "emergency",
@@ -136,11 +121,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-13",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-14",
       "electricityOutages": 0,
@@ -285,6 +265,11 @@
       "date": "2026-10-12",
       "electricityOutages": 1,
       "waterOutages": 2
+    },
+    {
+      "date": "2026-10-13",
+      "electricityOutages": 2,
+      "waterOutages": 0
     }
   ]
 }

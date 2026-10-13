@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "653b62534054",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-05",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Бабички одред"
-      ],
-      "reason": null,
-      "note": "ПОПРАВКА КВАРА У НАСЕЉУ ПАЛИЛУЛА ода на површини, потребан је ископ у улици Бабички одред, код броја 60. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 сати у улици Бабички одред",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-188/"
-    },
-    {
       "id": "f9edc0b61c5b",
       "utility": "water",
       "kind": "emergency",
@@ -128,11 +111,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-13",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-14",
       "electricityOutages": 3,
@@ -276,6 +254,11 @@
     {
       "date": "2026-10-12",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-13",
+      "electricityOutages": 4,
       "waterOutages": 0
     }
   ]
