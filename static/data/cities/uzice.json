@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "4a7d81d2e2fb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Филиповића у Рибашевини"
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Филиповића у Рибашевини",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "92b7948c773c",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја: Филиповићи у Рибашевини",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "7de0e77b6620",
@@ -58,7 +41,7 @@
       ],
       "reason": null,
       "note": "Ђуровића, Јелове Горе, Јованове Воде, Старчевића и Ивановића у Гостиници.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b55e0636c222",
@@ -75,7 +58,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја: Јелова Гора, Ђуровићи, Ивановићи, Јованова Вода и Старчевићи на Јеловој Гори.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "04f090efbb00",
@@ -97,7 +80,29 @@
       ],
       "reason": null,
       "note": "Врело,Гредица,Перишићи,Радојичићи Лукићи, Трнава Стапарска, Јевтићи и Ж.Станица Стапари.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c16ef67b412c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "08:30",
+        "end": "17:30"
+      },
+      "streets": [
+        "Синђића РАФ",
+        "Лукићи",
+        "Трнава Стапарска",
+        "Јевтићи Перишићи",
+        "Радојичићи",
+        "Ж.Станица Стапари и хладњача Јасике."
+      ],
+      "reason": null,
+      "note": "Синђића РАФ, Лукићи, Трнава Стапарска, Јевтићи Перишићи,Радојичићи , Ж.Станица Стапари и хладњача Јасике.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

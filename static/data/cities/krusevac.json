@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "89d328b16684",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "08:30",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део улице Видовданска код Нове пијаце"
-      ],
-      "reason": null,
-      "note": "Део улице Видовданска код Нове пијаце",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d5d399c135ad",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део улице Мајке Југовић"
-      ],
-      "reason": null,
-      "note": "Део улице Мајке Југовић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "dcf0f963d9c8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део улице Косовске и Грује Капетана."
-      ],
-      "reason": null,
-      "note": "Део улице Косовске и Грује Капетана.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ad1a83c65995",
       "utility": "electricity",
       "kind": "planned",
@@ -74,7 +23,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Липовац,Доњи Степош,Трмчаре.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1deb60a535dc",
@@ -91,7 +40,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Паруновац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

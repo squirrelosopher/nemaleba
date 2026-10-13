@@ -5,42 +5,7 @@
     "nameLatin": "Surčin",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "f7ccad07a925",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Сурчин",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Насеље ЈАКОВО: БРАЋЕ ПУТНИКОВИЋ: 68,76,88-92,81-85,89-89в"
-      ],
-      "reason": null,
-      "note": "Насеље ЈАКОВО: БРАЋЕ ПУТНИКОВИЋ: 68,76,88-92,81-85,89-89в,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "583018501f8a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Сурчин",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Насеље СУРЧИН: СТЕРИЈИНА: 49-51"
-      ],
-      "reason": null,
-      "note": "Насеље СУРЧИН: СТЕРИЈИНА: 49-51,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-14",

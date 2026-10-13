@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "bc0ff986e603",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "08:30",
-        "end": "10:00"
-      },
-      "streets": [
-        "Кањижа: Новокнежевачки пут."
-      ],
-      "reason": null,
-      "note": "Кањижа: Новокнежевачки пут.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ac2ddb022f01",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "10:00",
-        "end": "11:30"
-      },
-      "streets": [
-        "Кањижа: Братства Јединства, Занатлијска, Бањски Венац, Бачка, Крфска, Шумска."
-      ],
-      "reason": null,
-      "note": "Кањижа: Братства Јединства, Занатлијска, Бањски Венац, Бачка, Крфска, Шумска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "46439bc69a79",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "11:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "Кањижа: Главна 2, 4, 6, 8 зграде"
-      ],
-      "reason": null,
-      "note": "Кањижа: Главна 2, 4, 6, 8 зграде",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a57d6031704b",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +21,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Рибарски Трг, Тисина, Болничка, Суботички пут (од Болничке до почетка Тисине), Потиски венац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5ea3da74cef0",
@@ -89,7 +38,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Светог Јована, Карађорђева (од Суботичког пута до ватрогасаца), Владике Његоша ( почетни део улице према центру), Сутјеска (почетни део према центру), Шумадинска (почетни део према центру).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "62773adda6c1",
@@ -106,7 +55,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Беседеш Јожефа, Суботички пут (зграде)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "79a1b0483b26",
@@ -123,7 +72,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Босанска, Македонска, Арањ Јаноша, Франкопанска, Морнарска, Рибарска, Цигларска, Црепска, Гагарина, Кумановска, Суботички Пут (од Тисине до Гагарина), Јесенска (од Суботичког Пута до Сутјеске).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "eb3da7c96682",
@@ -140,7 +89,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Барањска (од Радничке до Латак Иштвана), Которска (од Барањске према риту), Жетелачка (од Барањске према риту), Сплитска (од Барањске до Народних Хероја).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "172553a14d1e",
@@ -157,7 +106,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Радничка (од Сенћанске до Народних Хероја), Метларска, Стевана Сремца, Октобарска (од Соколске до Радничке), Барањска (од Соколске до Радничке).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "684dc97e27a6",
@@ -174,7 +123,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Чарнојевића, Мачванска, Косовска, Бранка Радичевића, Брезе, Мала, Соколска, Сомборска, Сенћанска (од Класја до Љиљана).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

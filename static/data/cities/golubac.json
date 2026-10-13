@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "bc07226f319b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Голубац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део насеља Кривача (трафо област 10/0.4kV Кривача 2 - Тилва)"
-      ],
-      "reason": null,
-      "note": "део насеља Кривача (трафо област 10/0.4kV Кривача 2 - Тилва)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "dff872e35885",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +22,24 @@
       ],
       "reason": null,
       "note": "Усије, Винци",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "47bd9eff3d7d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Голубац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "зграда Месне заједнице Голубац"
+      ],
+      "reason": null,
+      "note": "зграда Месне заједнице Голубац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

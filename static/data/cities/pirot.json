@@ -7,59 +7,6 @@
   },
   "outages": [
     {
-      "id": "ac67fb0dbe06",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "Викенд насеље Свети Јован"
-      ],
-      "reason": null,
-      "note": "Викенд насеље Свети Јован",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5140aa348ccb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Село Јеловица"
-      ],
-      "reason": null,
-      "note": "Село Јеловица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c7eb1537edda",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "13:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Улице Миливоја Манића",
-        "Косте Абрашевића",
-        "Сењска и Данила Киша"
-      ],
-      "reason": null,
-      "note": "Улице Миливоја Манића, Косте Абрашевића, Сењска и Данила Киша",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "0a71b6eaead4",
       "utility": "electricity",
       "kind": "planned",
@@ -74,7 +21,7 @@
       ],
       "reason": null,
       "note": "део насеља Рогоз.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

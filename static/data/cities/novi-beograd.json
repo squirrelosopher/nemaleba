@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "458bad15cb33",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-12",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "Насеље Н БЕОГРАД: КВАНТАШКА ПИЈАЦА: 2А"
-      ],
-      "reason": null,
-      "note": "Насеље Н БЕОГРАД: КВАНТАШКА ПИЈАЦА: 2А,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c47bd8ed32e8",
       "utility": "electricity",
       "kind": "planned",
@@ -38,6 +21,23 @@
       ],
       "reason": null,
       "note": "БЕЖАНИЈСКА КОСА: 79, ГАНДИЈЕВА: 208А-210А,214А-216А,222-224Б,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c582f505c6a8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "БУЛЕВАР ЗОРАНА ЂИНЂИЋА : 152-152А, СТУДЕНТСКА: 2-14"
+      ],
+      "reason": null,
+      "note": "БУЛЕВАР ЗОРАНА ЂИНЂИЋА : 152-152А, СТУДЕНТСКА: 2-14,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
