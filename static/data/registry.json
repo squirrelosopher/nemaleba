@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-13T06:11:09.959Z",
+  "generatedAt": "2026-10-13T07:11:00.687Z",
   "summary": {
     "date": "2026-10-13",
     "electricityOutages": 267,
-    "waterOutages": 7,
+    "waterOutages": 16,
     "affected": [
       {
         "id": "beograd",
@@ -22,6 +22,12 @@
         "nameCyrillic": "Параћин",
         "electricityOutages": 21,
         "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 8,
+        "waterOutages": 8
       },
       {
         "id": "sabac",
@@ -44,12 +50,6 @@
       {
         "id": "backa-topola",
         "nameCyrillic": "Бачка Топола",
-        "electricityOutages": 8,
-        "waterOutages": 0
-      },
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
         "electricityOutages": 8,
         "waterOutages": 0
       },
@@ -280,6 +280,12 @@
         "nameCyrillic": "Бела Црква",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "bor",
+        "nameCyrillic": "Бор",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "brus",
@@ -534,7 +540,7 @@
     {
       "date": "2026-10-13",
       "electricityOutages": 110,
-      "waterOutages": 7
+      "waterOutages": 16
     }
   ],
   "providers": [
