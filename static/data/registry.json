@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T10:31:06.742Z",
+  "generatedAt": "2026-10-13T12:11:09.515Z",
   "summary": {
     "date": "2026-10-13",
     "electricityOutages": 267,
@@ -120,6 +120,12 @@
         "waterOutages": 1
       },
       {
+        "id": "smederevo",
+        "nameCyrillic": "Смедерево",
+        "electricityOutages": 4,
+        "waterOutages": 0
+      },
+      {
         "id": "veliko-gradiste",
         "nameCyrillic": "Велико Градиште",
         "electricityOutages": 3,
@@ -140,12 +146,6 @@
       {
         "id": "odzaci",
         "nameCyrillic": "Оџаци",
-        "electricityOutages": 3,
-        "waterOutages": 0
-      },
-      {
-        "id": "smederevo",
-        "nameCyrillic": "Смедерево",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -230,12 +230,6 @@
       {
         "id": "svilajnac",
         "nameCyrillic": "Свилајнац",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "smederevska-palanka",
-        "nameCyrillic": "Смедеревска Паланка",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -380,6 +374,12 @@
       {
         "id": "rekovac",
         "nameCyrillic": "Рековац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "smederevska-palanka",
+        "nameCyrillic": "Смедеревска Паланка",
         "electricityOutages": 1,
         "waterOutages": 0
       },
