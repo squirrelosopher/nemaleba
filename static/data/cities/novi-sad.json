@@ -349,6 +349,23 @@
       "reason": null,
       "note": "Буковац: Трг жртава геноцида, Ђуре Јакшића, Карађорђева 97 – 109, 100 – 104, Светозара Милетића 58 – 60, Репетитор, Гасовод.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "89367597a4d1",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-13",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "13:00"
+      },
+      "streets": [
+        "улице Суботичка, Далматинска и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити улице Суботичка, Далматинска и околне улице.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-13-10-2026/"
     }
   ],
   "history": [
@@ -500,7 +517,7 @@
     {
       "date": "2026-10-13",
       "electricityOutages": 7,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
