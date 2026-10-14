@@ -5,7 +5,42 @@
     "nameLatin": "Arilje",
     "branchCyrillic": "Ужице"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "280aa1ea918e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Ариље",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Село: Радобуђа. Засеоци: Лазине, Рзавац, Шљункара (Поглед) и Грабовик (Вране)."
+      ],
+      "reason": null,
+      "note": "Село: Радобуђа. Засеоци: Лазине, Рзавац, Шљункара (Поглед) и Грабовик (Вране).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "879147355639",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-17",
+      "areaLabel": "Ариље",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насеље: Кеј Народних хероја и Вилиман."
+      ],
+      "reason": null,
+      "note": "Насеље: Кеј Народних хероја и Вилиман.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-15",

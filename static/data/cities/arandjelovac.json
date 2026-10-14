@@ -5,7 +5,60 @@
     "nameLatin": "Aranđelovac",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "1590ad3edc4f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Аранђеловац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "улица Вожда Карађорђа од сервиса Вељовић до сервиса Марјановић"
+      ],
+      "reason": null,
+      "note": "улица Вожда Карађорђа од сервиса Вељовић до сервиса Марјановић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f37fc67f0519",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Аранђеловац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "улица Вожда Карађорђа од сервиса Вељовић до Сеничанског гробља"
+      ],
+      "reason": null,
+      "note": "улица Вожда Карађорђа од сервиса Вељовић до Сеничанског гробља",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "6048db92054e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Аранђеловац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "насеље Каменар",
+        "Јоковића Коса и ГЕА"
+      ],
+      "reason": null,
+      "note": "насеље Каменар, Јоковића Коса и ГЕА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-15",

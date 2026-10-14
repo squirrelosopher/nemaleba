@@ -92,23 +92,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "0dbba737fa10",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Гаково: цело село."
-      ],
-      "reason": null,
-      "note": "Гаково: цело село.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "46727b58cf6c",
       "utility": "electricity",
       "kind": "planned",
@@ -126,20 +109,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "3a3b4d0db3e5",
+      "id": "0dbba737fa10",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-15",
       "areaLabel": "Сомбор",
       "time": {
-        "start": "09:00",
-        "end": "11:00"
+        "start": "08:00",
+        "end": "14:00"
       },
       "streets": [
-        "Сомбор: Венац С.Степановића 1-7, 8-22, Мирна, А.Мразовића 7-9, 2-10, Краља Петра 1. 11-19."
+        "Гаково: цело село."
       ],
       "reason": null,
-      "note": "Сомбор: Венац С.Степановића 1-7, 8-22, Мирна, А.Мразовића 7-9, 2-10, Краља Петра 1. 11-19.",
+      "note": "Гаково: цело село.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
@@ -157,6 +140,23 @@
       ],
       "reason": null,
       "note": "Сомбор: Жарковац Салаши",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "3a3b4d0db3e5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Сомбор: Венац С.Степановића 1-7, 8-22, Мирна, А.Мразовића 7-9, 2-10, Краља Петра 1. 11-19."
+      ],
+      "reason": null,
+      "note": "Сомбор: Венац С.Степановића 1-7, 8-22, Мирна, А.Мразовића 7-9, 2-10, Краља Петра 1. 11-19.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {

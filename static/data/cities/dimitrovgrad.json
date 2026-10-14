@@ -27,6 +27,64 @@
       "reason": null,
       "note": "Гојин Дол,Срећковац,Обреновац,Чиниглавци,Братаја,Градиште.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "860151a6e5f6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Димитровград",
+      "time": {
+        "start": "08:00",
+        "end": "14:30"
+      },
+      "streets": [
+        "Чајаков Луг",
+        "Белеш",
+        "Жељуша",
+        "Планиница",
+        "Грапа",
+        "Бански До",
+        "Поганово",
+        "Боровско Поље",
+        "Селиште",
+        "Прача",
+        "Било."
+      ],
+      "reason": null,
+      "note": "Чајаков Луг,Белеш,Жељуша,Планиница,Грапа,Бански До,Поганово,Боровско Поље,Селиште,Прача,Било.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "195438ec5f66",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Димитровград",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Лукавица",
+        "Сливница",
+        "Верзар",
+        "Боровски Анови",
+        "Невља",
+        "Голеш",
+        "Барије",
+        "Скрвеница",
+        "Драговита",
+        "Мирчина Падина",
+        "Врапча",
+        "Петачинци",
+        "Шаркова Махала",
+        "Пометковиц",
+        "Искаровци."
+      ],
+      "reason": null,
+      "note": "Лукавица,Сливница,Верзар,Боровски Анови,Невља,Голеш,Барије,Скрвеница,Драговита,Мирчина Падина,Врапча,Петачинци,Шаркова Махала,Пометковиц,Искаровци.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

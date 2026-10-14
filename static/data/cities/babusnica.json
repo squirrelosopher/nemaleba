@@ -5,7 +5,43 @@
     "nameLatin": "Babušnica",
     "branchCyrillic": "Пирот"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "c06aad04604f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Бабушница",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Берин Извор",
+        "Црвена Јабука."
+      ],
+      "reason": null,
+      "note": "Берин Извор,Црвена Јабука.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "11eb084c1cdb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Бабушница",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Сурачево."
+      ],
+      "reason": null,
+      "note": "Сурачево.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-15",

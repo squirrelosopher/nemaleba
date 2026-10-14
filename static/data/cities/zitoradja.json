@@ -5,7 +5,26 @@
     "nameLatin": "Žitorađa",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "d5a3382b3cfc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Житорађа",
+      "time": {
+        "start": "09:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Доње Црнатово",
+        "Доњи и Горњи Дреновац"
+      ],
+      "reason": null,
+      "note": "Доње Црнатово,Доњи и Горњи Дреновац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-15",

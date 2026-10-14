@@ -5,7 +5,93 @@
     "nameLatin": "Kikinda",
     "branchCyrillic": "Зрењанин"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "b1b384265691",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Кикинда: Његошева од Иве Лоле Рибара до Косовске, Косовска од Његошеве до Тозе Марковића."
+      ],
+      "reason": null,
+      "note": "Кикинда: Његошева од Иве Лоле Рибара до Косовске, Косовска од Његошеве до Тозе Марковића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "62e5178d3a4f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сајан: део Ади Ендреа од Иве Андрића према Великој."
+      ],
+      "reason": null,
+      "note": "Сајан: део Ади Ендреа од Иве Андрића према Великој.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "3d2e85821e92",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "11:30"
+      },
+      "streets": [
+        "Кикинда: Карађорђева од Стевана Сремца до Пере Сегединца парна страна."
+      ],
+      "reason": null,
+      "note": "Кикинда: Карађорђева од Стевана Сремца до Пере Сегединца парна страна.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "9b2300307545",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Башаид: Бранислава Нушића од Раде Микалачког до Змај Јовине, Змај Јовина од Бранислава Нушића до Јове Јуришина."
+      ],
+      "reason": null,
+      "note": "Башаид: Бранислава Нушића од Раде Микалачког до Змај Јовине, Змај Јовина од Бранислава Нушића до Јове Јуришина.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "8f3fbe72c256",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-17",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "11:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Кикинда: Банатска, Водице, Пут за пристаниште."
+      ],
+      "reason": null,
+      "note": "Кикинда: Банатска, Водице, Пут за пристаниште.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-15",

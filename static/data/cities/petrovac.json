@@ -5,7 +5,25 @@
     "nameLatin": "Petrovac",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "0c490d97970d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-17",
+      "areaLabel": "Петровац",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "засеоци у Мелници: Дражилоње, Гршљана и Црвени Брег, Витовница, Мелница, Кладурово, Кладурово Велика Претржа, Брезовица"
+      ],
+      "reason": null,
+      "note": "засеоци у Мелници: Дражилоње, Гршљана и Црвени Брег, Витовница, Мелница, Кладурово, Кладурово Велика Претржа, Брезовица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-19",

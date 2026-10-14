@@ -41,6 +41,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "6f372790b1a5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-14",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": "10:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насеље ЈАЈИНЦИ: ПАВЛА ЛАБАТА: 26,30-54,58-60,25,29,39А-43,87А-95, САВЕ ЈОВАНОВИЋА: 68А,72-80,77-89,95-99"
+      ],
+      "reason": null,
+      "note": "Насеље ЈАЈИНЦИ: ПАВЛА ЛАБАТА: 26,30-54,58-60,25,29,39А-43,87А-95, САВЕ ЈОВАНОВИЋА: 68А,72-80,77-89,95-99,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
       "id": "6555096ba169",
       "utility": "electricity",
       "kind": "planned",
@@ -223,7 +240,7 @@
     },
     {
       "date": "2026-10-14",
-      "electricityOutages": 2,
+      "electricityOutages": 3,
       "waterOutages": 0
     }
   ]

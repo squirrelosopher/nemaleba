@@ -358,6 +358,92 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 12 сати бити Улица Јована Ђорђевића и околне улице.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-14-10-2026/"
+    },
+    {
+      "id": "1fda4b2db36e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Ченеј: Од Ченеја према аутопуту, Кузмановића салаши, Мучибабић."
+      ],
+      "reason": null,
+      "note": "Ченеј: Од Ченеја према аутопуту, Кузмановића салаши, Мучибабић.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "3756f72d72c6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Каћ: Део села од Омладинске до Светозара Марковића и до циглане, Циглана, ДИС Комерц."
+      ],
+      "reason": null,
+      "note": "Каћ: Део села од Омладинске до Светозара Марковића и до циглане, Циглана, ДИС Комерц.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "448c6d248bf9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "10:00"
+      },
+      "streets": [
+        "Алба."
+      ],
+      "reason": null,
+      "note": "Алба.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f1d9fecbad88",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "10:00"
+      },
+      "streets": [
+        "Ченејска 60 - 94."
+      ],
+      "reason": null,
+      "note": "Ченејска 60 - 94.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "1d68e1dd1d97",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Ђорђа Зличића 3",
+        "Кисачка 64 А."
+      ],
+      "reason": null,
+      "note": "Ђорђа Зличића 3, Кисачка 64 А.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

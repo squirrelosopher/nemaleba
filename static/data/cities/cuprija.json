@@ -24,23 +24,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "e53b11eb92c4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "викенд насеље Биковац."
-      ],
-      "reason": null,
-      "note": "викенд насеље Биковац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "1e74a5d32cc9",
       "utility": "electricity",
       "kind": "planned",
@@ -55,6 +38,23 @@
       ],
       "reason": null,
       "note": "Фабрика Минел (бивша цинкара)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e53b11eb92c4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "викенд насеље Биковац."
+      ],
+      "reason": null,
+      "note": "викенд насеље Биковац.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
@@ -96,6 +96,43 @@
       "reason": null,
       "note": "Медицински центар Ћуприја и Завод за заштиту здравља.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "4f9ee436b499",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део села Паљана ка Бигреници"
+      ],
+      "reason": null,
+      "note": "део села Паљана ка Бигреници",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "6eff1f18cee3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "ул. Немањина",
+        "Д. Илића",
+        "Б. Дамјановића",
+        "С. Здравковића"
+      ],
+      "reason": null,
+      "note": "ул. Немањина, Д. Илића, Б. Дамјановића, С. Здравковића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

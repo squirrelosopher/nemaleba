@@ -81,24 +81,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "e30392e552b2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ УЛИЦЕ У СЕЛУ МАОВИ",
-        "КРАЉА МИЛУТИНА И КАРАЂОРЂЕВА"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ УЛИЦЕ У СЕЛУ МАОВИ, КРАЉА МИЛУТИНА И КАРАЂОРЂЕВА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "dfae6321666a",
       "utility": "electricity",
       "kind": "planned",
@@ -134,6 +116,24 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ ЗГРАДЕ У УЛ.ХИЛАНДАРСКА 1, КОСОВСКА 7, П.СМИЉАНИЋА20 И 22 И ДЕО УЛ.ВОЈВОДЕ МИШИЋА ОД ХИЛАНДАРСКЕ ДО П.СМИЉАНИЋА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e30392e552b2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈУ УЛИЦЕ У СЕЛУ МАОВИ",
+        "КРАЉА МИЛУТИНА И КАРАЂОРЂЕВА"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈУ УЛИЦЕ У СЕЛУ МАОВИ, КРАЉА МИЛУТИНА И КАРАЂОРЂЕВА",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
@@ -208,23 +208,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
-      "id": "ea807eddcb8b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ЋЕ БИТИ ВИКЕНД НАСЕЉЕ У ДОБРИЋУ"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ЋЕ БИТИ ВИКЕНД НАСЕЉЕ У ДОБРИЋУ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
-    },
-    {
       "id": "56a5d47c0fc7",
       "utility": "electricity",
       "kind": "planned",
@@ -241,6 +224,23 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ЋЕ БИТИ ПОЧЕТАК УЛ.КРАЉА ПЕТРА (БР.2-6, ТОПЛАНА И ДУНАВ ОСИГУРАЊЕ), КНЕЗА МИЛОША 4 И ДР.АНДРЕ ЈОВАНОВИЋА БР.8 И 10",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ea807eddcb8b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ЋЕ БИТИ ВИКЕНД НАСЕЉЕ У ДОБРИЋУ"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ЋЕ БИТИ ВИКЕНД НАСЕЉЕ У ДОБРИЋУ",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
