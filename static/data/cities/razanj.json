@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "22134083f2d9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Ражањ",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Део насељеног места Мађере."
-      ],
-      "reason": null,
-      "note": "Део насељеног места Мађере.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "973350e45dca",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насељна места Церова и Малетина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

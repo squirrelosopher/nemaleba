@@ -7,31 +7,6 @@
   },
   "outages": [
     {
-      "id": "8971614e0c87",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Рашка",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Насеље Баљевац",
-        "села Биорци",
-        "Лућице",
-        "Жижовци",
-        "Бојанићи",
-        "Лозно",
-        "Плана",
-        "Покрвеник",
-        "Баре"
-      ],
-      "reason": null,
-      "note": "Насеље Баљевац, села Биорци, Лућице, Жижовци, Бојанићи, Лозно, Плана , Покрвеник, Баре",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "dddd4be429ef",
       "utility": "electricity",
       "kind": "planned",
@@ -47,7 +22,7 @@
       ],
       "reason": null,
       "note": "Без напона ће да буду потрошачи који се напајају са ДВ 10 КВ Брвеник -Пискања . Мештани села Жутице , Пискања И Корлаће",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

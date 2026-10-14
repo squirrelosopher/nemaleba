@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "46b37edb4b77",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Бачка Топола",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Стара Моравица: Београдска, Јанка Сибињанина, Багремова, Шоја Кез са околином"
-      ],
-      "reason": null,
-      "note": "Стара Моравица: Београдска, Јанка Сибињанина, Багремова, Шоја Кез са околином",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1c81312f8bbc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Бачка Топола",
-      "time": {
-        "start": "13:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Пачир: Земљорадничка, Уска, Трг Републике, Српска, Козарачка, Кордунска, Фрушкогорска, Батинска, Змај Јовина, Трг Ослобођења, Таковска, Савска, Пољска, Косовска, Бранка Радичевића, Бакарска, Светозара Марковића, Радничка, Хрватска, Дунавска, Бајска, Чонопљанска, Трг М.Тита, Споредна, Масарикова, Лењинова, Дожа Ђерђа са околином."
-      ],
-      "reason": null,
-      "note": "Пачир: Земљорадничка, Уска, Трг Републике, Српска, Козарачка, Кордунска, Фрушкогорска, Батинска, Змај Јовина, Трг Ослобођења, Таковска, Савска, Пољска, Косовска, Бранка Радичевића, Бакарска, Светозара Марковића, Радничка, Хрватска, Дунавска, Бајска, Чонопљанска, Трг М.Тита, Споредна, Масарикова, Лењинова, Дожа Ђерђа са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "5617273dfc48",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Н. Орахово: део Торњошког пута.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "858ed6b2cc67",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Н. Орахово: део Петефи Шандора.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "8bcbd87cd258",
@@ -89,7 +55,7 @@
       ],
       "reason": null,
       "note": "Н. Орахово: део Бориса Кидрича и део Тополске.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "61bfab0c3767",
@@ -106,7 +72,7 @@
       ],
       "reason": null,
       "note": "Богарош: цело насеље.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a0b7aec1e9ac",
@@ -123,7 +89,7 @@
       ],
       "reason": null,
       "note": "Мали Београд: део Станка опсенице и део безимене улице измеЂу М. Тита и Станка Опсенице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "e11af4a8f8c3",
@@ -140,7 +106,7 @@
       ],
       "reason": null,
       "note": "Б. Топола: Дурмиторска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "08f6676493ce",
@@ -157,7 +123,7 @@
       ],
       "reason": null,
       "note": "Н. Орахово: део Тополске и део ЈНА.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "4c7aa6625d82",
@@ -174,7 +140,7 @@
       ],
       "reason": null,
       "note": "Гунарош: део Едварда Кардеља, 25. маја.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

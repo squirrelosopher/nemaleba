@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "37402183fe28",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "АНЕ ФРАНК: 1-3, ДАНТЕОВА: 11Г, ГАРСИЈЕ ЛОРКЕ: 2А-2В, ХУСИНСКИХ РУДАРА: 4,12, МАРИЈАНЕ ГРЕГОРАН: 66-68,81, ПАТРИСА ЛУМУМБЕ: 86-86,63-63Г, СТЕВАНА ДУКИЋА: 4-14,20,13,17-19,23-31"
-      ],
-      "reason": null,
-      "note": "АНЕ ФРАНК: 1-3, ДАНТЕОВА: 11Г, ГАРСИЈЕ ЛОРКЕ: 2А-2В, ХУСИНСКИХ РУДАРА: 4,12, МАРИЈАНЕ ГРЕГОРАН: 66-68,81, ПАТРИСА ЛУМУМБЕ: 86-86,63-63Г, СТЕВАНА ДУКИЋА: 4-14,20,13,17-19,23-31,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ce8d2fbf4cd3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "ЦВИЈИЋЕВА: 130-134, РУЗВЕЛТОВА: 31А"
-      ],
-      "reason": null,
-      "note": "ЦВИЈИЋЕВА: 130-134, РУЗВЕЛТОВА: 31А,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "fc77d58de912",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "АЛБАНСКЕ СПОМЕНИЦЕ: 12-12, БИСТРИЧКА: 2-4,12-18,3-7,13, МИЛАНА ТАНКОСИЋА: 1-3,11, ПРИМОРСКА: 16,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "fd1992c5da2e",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "ПУТ ЗА АДА ХУЈУ: 9,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "a754d08f761a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "08:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "ЂОРЂА ЧУТУКОВИЋА : 2-24,3-9,13-13а, ХЕРЦЕГОВАЧКА: 4-36,40-46,1-31Ф, КРАЈИШКА: 2,1, ПРВОМАЈСКА: 96-112Ц,81-99, РАДЕ КОНЧАРА: 2В/1,1,5-5, ЖЕЛЕЗНИЧКА: 16-20,24-28,32-32Ц,23,29-57"
-      ],
-      "reason": null,
-      "note": "ЂОРЂА ЧУТУКОВИЋА : 2-24,3-9,13-13а, ХЕРЦЕГОВАЧКА: 4-36,40-46,1-31Ф, КРАЈИШКА: 2,1, ПРВОМАЈСКА: 96-112Ц,81-99, РАДЕ КОНЧАРА: 2В/1,1,5-5, ЖЕЛЕЗНИЧКА: 16-20,24-28,32-32Ц,23,29-57,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "73837a70f2ee",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "22 ОКТОБРА: 4-14, ДАНИЛА МЕДАКОВИЋА : 7-11"
-      ],
-      "reason": null,
-      "note": "22 ОКТОБРА: 4-14, ДАНИЛА МЕДАКОВИЋА : 7-11,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d3694c4a7dcb",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "КРАЊСКА: 4-8,7-15, КУМАНОВСКА: 2-18,1-17, МАЧВАНСКА: 2-2А,1-5, СЛАВИШЕ ВАЈНЕРА: 19-33, СОЛУНСКА: 6-10,7-11, ВОЈНИ ПУТ 1 : 24-26А,32-44,50-110,116-118,124-142,148-158,164-174,196А-198,25-27А,35-41,49-111,115-119,127-133А,137-143,147-157,163-175,197-199, ВОЈНИ ПУТ 2 : 26-30,36-80,84-90,98-100А,138а,27-31,37-81а,85-89,93,97,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e66a4af93b61",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "ДРАГАНА РАКИЋА: 2Б-2Д, ГОРЊОГРАДСКА : 50-56,7р,21А-21Ц,49-59,63-65, СВЕТОТРОЈЧИНА : 33, УГРИНОВАЧКА: 80-82,77-87А,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,75 +7,6 @@
   },
   "outages": [
     {
-      "id": "584f1251f058",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "08:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "део улице Васе Чарапића;"
-      ],
-      "reason": null,
-      "note": "део улице Васе Чарапића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "35d0dcf79c21",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "део Паси Пољане;"
-      ],
-      "reason": null,
-      "note": "део Паси Пољане;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "efb9b3d2fcfa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "делови улица Његошеве",
-        "Неготинске и Гостиварске;"
-      ],
-      "reason": null,
-      "note": "делови улица Његошеве, Неготинске и Гостиварске;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6f897e5b1e8a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "11:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "делови улица Кованлучке и Марка Јовановића;"
-      ],
-      "reason": null,
-      "note": "делови улица Кованлучке и Марка Јовановића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "124f403b9dae",
       "utility": "electricity",
       "kind": "planned",
@@ -91,7 +22,7 @@
       ],
       "reason": null,
       "note": "делови улица Кованлучке, Партизанских курира и Васе Смајевића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9a3eee6185e9",
@@ -112,7 +43,7 @@
       ],
       "reason": null,
       "note": "делови улица Дурмиторске, Куршумлијске, Љубише Поповића Славка, Лоле Стојановића, Слободана Пенезића – Крцуна и Солунске;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "7ec01229b9d5",
@@ -130,7 +61,7 @@
       ],
       "reason": null,
       "note": "делови улица Гаџиханске, Браће Вуксановић и Делијског Виса;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

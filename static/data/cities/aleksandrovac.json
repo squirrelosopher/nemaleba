@@ -7,26 +7,6 @@
   },
   "outages": [
     {
-      "id": "8dffeeac9fe3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Александровац",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Део насељеног места Доњи Ступањ",
-        "Горњи Ступањ",
-        "Гаревина",
-        "Дашница."
-      ],
-      "reason": null,
-      "note": "Део насељеног места Доњи Ступањ,Горњи Ступањ,Гаревина,Дашница.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "784dc986371b",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Вранштица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "095cda85fec4",
@@ -58,7 +38,7 @@
       ],
       "reason": null,
       "note": "Радови на далеководу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "9503e01a1397",
@@ -76,7 +56,7 @@
       ],
       "reason": null,
       "note": "Насељено место Капиџија,Прештип део Паруновца и Гаглова.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

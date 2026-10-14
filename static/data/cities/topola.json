@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "99a985bb5ca0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Топола",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Без напајања ће бити село Клока и Икубаторска станица у Наталинцима"
-      ],
-      "reason": null,
-      "note": "Без напајања ће бити село Клока и Икубаторска станица у Наталинцима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "4a02d1a2bb7e",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Без напајања ће бити село Клока и Икубаторска станица у Наталинцима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "67f614c0bf25",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Без напајања ће бити део села Г.Трнава од Витлине према Шумама",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

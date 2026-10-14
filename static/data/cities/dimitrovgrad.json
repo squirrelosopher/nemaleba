@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "99e9a095b5dc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Димитровград",
-      "time": {
-        "start": "08:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Стара Гумара."
-      ],
-      "reason": null,
-      "note": "Стара Гумара.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8e11b68e361f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Димитровград",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Верзар."
-      ],
-      "reason": null,
-      "note": "Верзар.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8df93a2e035a",
       "utility": "electricity",
       "kind": "planned",
@@ -60,7 +26,7 @@
       ],
       "reason": null,
       "note": "Гојин Дол,Срећковац,Обреновац,Чиниглавци,Братаја,Градиште.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

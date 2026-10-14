@@ -7,25 +7,6 @@
   },
   "outages": [
     {
-      "id": "f74bcc97d9a1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Свилајнац",
-      "time": {
-        "start": "08:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Села Грабовац",
-        "Седларе",
-        "Тропоње и Врлане"
-      ],
-      "reason": null,
-      "note": "Села Грабовац,Седларе,Тропоње и Врлане",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "32d6e2858790",
       "utility": "electricity",
       "kind": "planned",
@@ -42,7 +23,7 @@
       ],
       "reason": null,
       "note": "Села Роћевац, Ђуринац, Купиновац и део села Бобово",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

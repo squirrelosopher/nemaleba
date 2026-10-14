@@ -177,129 +177,6 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-ponedeljak-12-10-2026/"
     },
     {
-      "id": "3586da5b4714",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:00",
-        "end": "11:30"
-      },
-      "streets": [
-        "Буковац: Петра Кочића, Партизански пут."
-      ],
-      "reason": null,
-      "note": "Буковац: Петра Кочића, Партизански пут.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "90e70e729679",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "Сремска Каменица: Трешњина."
-      ],
-      "reason": null,
-      "note": "Сремска Каменица: Трешњина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "87327330a6da",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Ченеј: Међународни пут од Булаћа до аеродрома, Тенен, Влаовићи, Брзакови, Салаш Поповић, Ђурђевић."
-      ],
-      "reason": null,
-      "note": "Ченеј: Међународни пут од Булаћа до аеродрома, Тенен, Влаовићи, Брзакови, Салаш Поповић, Ђурђевић.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "9dfe459fcf0b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:30",
-        "end": "10:00"
-      },
-      "streets": [
-        "\"Војводе Шупљикца 41 – 45",
-        "34 – 50",
-        "Кисачка 23 – 37",
-        "Центар за социјални рад",
-        "Семафор испред Интеса банке.\""
-      ],
-      "reason": null,
-      "note": "\"Војводе Шупљикца 41 – 45, 34 – 50, Кисачка 23 – 37, Центар за социјални рад,\r\nСемафор испред Интеса банке.\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "19c3a29d3518",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Ветерник: Ивана Болдижара, ЛИпов Гај, Насеље Бошков, Новосадски пут 126, 128, Махи, Карин комерц."
-      ],
-      "reason": null,
-      "note": "Ветерник: Ивана Болдижара, ЛИпов Гај, Насеље Бошков, Новосадски пут 126, 128, Махи, Карин комерц.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "dbc6b3edfe15",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "09:30"
-      },
-      "streets": [
-        "Део улице Симе Милутиновића Сарајлије"
-      ],
-      "reason": null,
-      "note": "Део улице Симе Милутиновића Сарајлије",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "00a3073d28c8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "12:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Буковац: Трг жртава геноцида, Ђуре Јакшића, Карађорђева 97 – 109, 100 – 104, Светозара Милетића 58 – 60, Репетитор, Гасовод."
-      ],
-      "reason": null,
-      "note": "Буковац: Трг жртава геноцида, Ђуре Јакшића, Карађорђева 97 – 109, 100 – 104, Светозара Милетића 58 – 60, Репетитор, Гасовод.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "89367597a4d1",
       "utility": "water",
       "kind": "emergency",
@@ -331,7 +208,7 @@
       ],
       "reason": null,
       "note": "Ченеј: Марка Перичина, Вука Караџића 177 – 203, 339 – 343, 178 – 208, Ратарска, Салаш 225, ОФК Ченејац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "8b46607e370d",
@@ -348,7 +225,7 @@
       ],
       "reason": null,
       "note": "Управа Покрајина (Пере Попадића 40).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "fa97bc88098d",
@@ -365,7 +242,7 @@
       ],
       "reason": null,
       "note": "Будисава: Цела Будисава од изласка из Каћа до скретања према Ковиљу, Микротек оптика, Кокта, Вранић фарм, Телесониц, Вранић, Живинарство, Агронатали, Волан, Алтом, Конпро, Саинт Гобен, Водовод.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "79fdc6042cc8",
@@ -383,7 +260,7 @@
       ],
       "reason": null,
       "note": "Стојана Чупића, Призренска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "994e06ec20a7",
@@ -408,7 +285,7 @@
       ],
       "reason": null,
       "note": "Арсе Теодоровића, Стефана Стефановића, Сртевана Сремца 12 – 20, 17 – 27, Словачка 4 – 8, Масарикова 17, Пап Павла 8-18, 11, Водовод.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2abc6972fd17",
@@ -425,7 +302,7 @@
       ],
       "reason": null,
       "note": "Сремска Каменица: Дуњина, Лединачки пут 28 – 80, Зовина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "42a190e96552",
@@ -446,7 +323,7 @@
       ],
       "reason": null,
       "note": "Неимарова 10 – 14, 22, 22 А, 26, 26 А.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "4af45a8e51df",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-13",
-      "areaLabel": "Велико Градиште",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Трафо област ''Број 2 Велико Градиште'': Доситејева, Кнеза Лазара, Светосавска, Жике Поповића"
-      ],
-      "reason": null,
-      "note": "Трафо област ''Број 2 Велико Градиште'': Доситејева, Кнеза Лазара, Светосавска, Жике Поповића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "823c88e195e1",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Кнеза Лазара",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "7b86b3f2beab",
@@ -63,7 +46,7 @@
       ],
       "reason": null,
       "note": "Кумане, Тополовник, Кисиљево, Поповац, део Калиновца, Бискупље, Ђураково и Поповац, пећуркана Дуле, Тресетиште",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
