@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T06:11:36.990Z",
+  "generatedAt": "2026-10-14T07:11:36.617Z",
   "summary": {
     "date": "2026-10-14",
     "electricityOutages": 258,
-    "waterOutages": 12,
+    "waterOutages": 13,
     "affected": [
       {
         "id": "beograd",
@@ -216,6 +216,12 @@
         "waterOutages": 0
       },
       {
+        "id": "pancevo",
+        "nameCyrillic": "Панчево",
+        "electricityOutages": 1,
+        "waterOutages": 1
+      },
+      {
         "id": "prijepolje",
         "nameCyrillic": "Пријепоље",
         "electricityOutages": 2,
@@ -344,12 +350,6 @@
       {
         "id": "osecina",
         "nameCyrillic": "Осечина",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "pancevo",
-        "nameCyrillic": "Панчево",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -546,7 +546,7 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 116,
-      "waterOutages": 12
+      "waterOutages": 13
     }
   ],
   "providers": [
