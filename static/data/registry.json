@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T07:11:36.617Z",
+  "generatedAt": "2026-10-14T08:11:38.054Z",
   "summary": {
     "date": "2026-10-14",
     "electricityOutages": 258,
-    "waterOutages": 13,
+    "waterOutages": 21,
     "affected": [
       {
         "id": "beograd",
@@ -40,6 +40,12 @@
         "nameCyrillic": "Крушевац",
         "electricityOutages": 13,
         "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 5,
+        "waterOutages": 8
       },
       {
         "id": "sombor",
@@ -80,12 +86,6 @@
       {
         "id": "jagodina",
         "nameCyrillic": "Јагодина",
-        "electricityOutages": 5,
-        "waterOutages": 0
-      },
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
         "electricityOutages": 5,
         "waterOutages": 0
       },
@@ -546,7 +546,7 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 116,
-      "waterOutages": 13
+      "waterOutages": 21
     }
   ],
   "providers": [
