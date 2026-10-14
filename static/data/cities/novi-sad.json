@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "a110ea32b84a",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-07",
-      "areaLabel": "Ковиљ",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [
-        "Улица Ада"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Ада у Ковиљу.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-7-10-2026/"
-    },
-    {
-      "id": "28c18d62a679",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-07",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [
-        "Буковац"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Буковац.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-7-10-2026/"
-    },
-    {
       "id": "532ed0300fc6",
       "utility": "water",
       "kind": "emergency",
@@ -194,138 +160,6 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-13-10-2026/"
     },
     {
-      "id": "752f5ba67d7e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Ченеј: Марка Перичина, Вука Караџића 177 – 203, 339 – 343, 178 – 208, Ратарска, Салаш 225, ОФК Ченејац."
-      ],
-      "reason": null,
-      "note": "Ченеј: Марка Перичина, Вука Караџића 177 – 203, 339 – 343, 178 – 208, Ратарска, Салаш 225, ОФК Ченејац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8b46607e370d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Управа Покрајина (Пере Попадића 40)."
-      ],
-      "reason": null,
-      "note": "Управа Покрајина (Пере Попадића 40).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "fa97bc88098d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Будисава: Цела Будисава од изласка из Каћа до скретања према Ковиљу, Микротек оптика, Кокта, Вранић фарм, Телесониц, Вранић, Живинарство, Агронатали, Волан, Алтом, Конпро, Саинт Гобен, Водовод."
-      ],
-      "reason": null,
-      "note": "Будисава: Цела Будисава од изласка из Каћа до скретања према Ковиљу, Микротек оптика, Кокта, Вранић фарм, Телесониц, Вранић, Живинарство, Агронатали, Волан, Алтом, Конпро, Саинт Гобен, Водовод.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "79fdc6042cc8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Стојана Чупића",
-        "Призренска."
-      ],
-      "reason": null,
-      "note": "Стојана Чупића, Призренска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "994e06ec20a7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Арсе Теодоровића",
-        "Стефана Стефановића",
-        "Сртевана Сремца 12 – 20",
-        "17 – 27",
-        "Словачка 4 – 8",
-        "Масарикова 17",
-        "Пап Павла 8-18",
-        "11",
-        "Водовод."
-      ],
-      "reason": null,
-      "note": "Арсе Теодоровића, Стефана Стефановића, Сртевана Сремца 12 – 20, 17 – 27, Словачка 4 – 8, Масарикова 17, Пап Павла 8-18, 11, Водовод.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2abc6972fd17",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:30",
-        "end": "11:00"
-      },
-      "streets": [
-        "Сремска Каменица: Дуњина, Лединачки пут 28 – 80, Зовина."
-      ],
-      "reason": null,
-      "note": "Сремска Каменица: Дуњина, Лединачки пут 28 – 80, Зовина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "42a190e96552",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "10:00",
-        "end": "11:30"
-      },
-      "streets": [
-        "Неимарова 10 – 14",
-        "22",
-        "22 А",
-        "26",
-        "26 А."
-      ],
-      "reason": null,
-      "note": "Неимарова 10 – 14, 22, 22 А, 26, 26 А.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "2e9d57b425d6",
       "utility": "water",
       "kind": "emergency",
@@ -374,7 +208,7 @@
       ],
       "reason": null,
       "note": "Ченеј: Од Ченеја према аутопуту, Кузмановића салаши, Мучибабић.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3756f72d72c6",
@@ -391,7 +225,7 @@
       ],
       "reason": null,
       "note": "Каћ: Део села од Омладинске до Светозара Марковића и до циглане, Циглана, ДИС Комерц.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "448c6d248bf9",
@@ -408,7 +242,7 @@
       ],
       "reason": null,
       "note": "Алба.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f1d9fecbad88",
@@ -425,7 +259,7 @@
       ],
       "reason": null,
       "note": "Ченејска 60 - 94.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1d68e1dd1d97",
@@ -443,15 +277,10 @@
       ],
       "reason": null,
       "note": "Ђорђа Зличића 3, Кисачка 64 А.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 7,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -596,6 +425,11 @@
       "date": "2026-10-14",
       "electricityOutages": 7,
       "waterOutages": 2
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 5,
+      "waterOutages": 0
     }
   ]
 }

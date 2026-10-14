@@ -7,76 +7,6 @@
   },
   "outages": [
     {
-      "id": "1f42fa0a0470",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "викенд насеље код Тунела Сопот."
-      ],
-      "reason": null,
-      "note": "викенд насеље код Тунела Сопот.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1f5d565a9c5c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Рагодеш",
-        "Големи Дел."
-      ],
-      "reason": null,
-      "note": "Рагодеш,Големи Дел.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a1b7e2e9fe2e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "11:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Сопотски Хан."
-      ],
-      "reason": null,
-      "note": "Сопотски Хан.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b118905b5d69",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "11:45",
-        "end": "14:15"
-      },
-      "streets": [
-        "део улице Омладинске Бригаде",
-        "Војводе Степе."
-      ],
-      "reason": null,
-      "note": "део улице Омладинске Бригаде,Војводе Степе.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "31ec8e43ae9a",
       "utility": "electricity",
       "kind": "planned",
@@ -91,7 +21,7 @@
       ],
       "reason": null,
       "note": "део улице Бранка Радичевића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "53974ff3a859",
@@ -108,7 +38,7 @@
       ],
       "reason": null,
       "note": "део улице Предрага Бошковића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "762fb8e4a288",
@@ -125,7 +55,7 @@
       ],
       "reason": null,
       "note": "део села Темска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1cf5fe8bc486",
@@ -145,15 +75,10 @@
       ],
       "reason": null,
       "note": "Големи Дел,Рагодеш,Крушевица,Американац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -296,6 +221,11 @@
     },
     {
       "date": "2026-10-14",
+      "electricityOutages": 4,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
       "electricityOutages": 4,
       "waterOutages": 0
     }

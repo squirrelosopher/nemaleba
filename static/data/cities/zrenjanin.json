@@ -22,23 +22,6 @@
       "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-08-10-2026-godine/"
     },
     {
-      "id": "b3e25f8c6d7f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Зрењанин",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "\"Меленци:\r\nРадничко насеље, део Живе Брцанског, део Жарка Адамова\""
-      ],
-      "reason": null,
-      "note": "\"Меленци:\r\nРадничко насеље, део Живе Брцанског, део Жарка Адамова\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f2c7c3e060a3",
       "utility": "electricity",
       "kind": "planned",
@@ -53,7 +36,7 @@
       ],
       "reason": null,
       "note": "Арадац: део Масарикове (од Маршала Тита до Јанка Чмелика), део Јанка Чмелика (од Масарикове до Виноградске), део Виноградске, део Вука Караџића (од Масарикове до Танаска Рајића), део Танаска Рајића (од Вука Караџића до Капетана Налепке).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d9108c55eb25",
@@ -70,15 +53,10 @@
       ],
       "reason": null,
       "note": "Лукићево: део Чичине улице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -221,6 +199,11 @@
     },
     {
       "date": "2026-10-14",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
       "electricityOutages": 1,
       "waterOutages": 0
     }

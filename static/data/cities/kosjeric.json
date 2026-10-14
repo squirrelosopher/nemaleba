@@ -5,13 +5,35 @@
     "nameLatin": "Kosjerić",
     "branchCyrillic": "Ужице"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-09-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
+      "id": "4c9cce6aa4d1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-18",
+      "areaLabel": "Косјерић",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Цео град Косјерић",
+        "Тубићи",
+        "Бјелоперица",
+        "део Субјела",
+        "село Косјерић",
+        "Брајковићи",
+        "Гајеви",
+        "Галовићи",
+        "Дубница",
+        "Савићи"
+      ],
+      "reason": null,
+      "note": "Цео град Косјерић, Тубићи, Бјелоперица, део Субјела, село Косјерић, Брајковићи, Гајеви, Галовићи, Дубница, Савићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-09-16",
       "electricityOutages": 1,
@@ -154,6 +176,11 @@
     },
     {
       "date": "2026-10-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
       "electricityOutages": 0,
       "waterOutages": 0
     }

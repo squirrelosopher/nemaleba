@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "8c7b2e4eafe4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "СИЊСКА: бб,22-26А,30-34Б,38-40А,46-50,21,29-41Х,49-49В"
-      ],
-      "reason": null,
-      "note": "СИЊСКА: бб,22-26А,30-34Б,38-40А,46-50,21,29-41Х,49-49В,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e63d299cfaac",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "БУЛЕВАР ОСЛОБОЂЕЊА: ББ,351-353,379-381,385-387,391,399Б-401В, Насеље БАЊИЦА: ПОРОДИЦЕ ТРАЈКОВИЋ: 16А-24Н,30Ђ-30Г, Насеље ЈАЈИНЦИ: БУЛЕВАР ЈНА: бб,4-12,1-7,15-25А, КОЛОНИЈА: 2-20,26-38,44А,1-17,21, РАДОМИРА МАРКОВИЋА: 2-16,1-7, САВЕ ЈОВАНОВИЋА: 53А-53Ж, СЛОБОДАНА ЈОВИЋА: 2-26,30Ђ-32Е,40-44,1-33Ц,37-51"
-      ],
-      "reason": null,
-      "note": "БУЛЕВАР ОСЛОБОЂЕЊА: ББ,351-353,379-381,385-387,391,399Б-401В, Насеље БАЊИЦА: ПОРОДИЦЕ ТРАЈКОВИЋ: 16А-24Н,30Ђ-30Г, Насеље ЈАЈИНЦИ: БУЛЕВАР ЈНА: бб,4-12,1-7,15-25А, КОЛОНИЈА: 2-20,26-38,44А,1-17,21, РАДОМИРА МАРКОВИЋА: 2-16,1-7, САВЕ ЈОВАНОВИЋА: 53А-53Ж, СЛОБОДАНА ЈОВИЋА: 2-26,30Ђ-32Е,40-44,1-33Ц,37-51,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6f372790b1a5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": "10:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеље ЈАЈИНЦИ: ПАВЛА ЛАБАТА: 26,30-54,58-60,25,29,39А-43,87А-95, САВЕ ЈОВАНОВИЋА: 68А,72-80,77-89,95-99"
-      ],
-      "reason": null,
-      "note": "Насеље ЈАЈИНЦИ: ПАВЛА ЛАБАТА: 26,30-54,58-60,25,29,39А-43,87А-95, САВЕ ЈОВАНОВИЋА: 68А,72-80,77-89,95-99,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "6555096ba169",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље РИПАЊ: ПУТ ЗА БОШЊАКЕ: 8-12,18,22-36,74,78А,122-124,128,21А-35,85-85А,89-91, ПУТ ЗА ДРОБЊАКЕ: 4,8-18,1,7-9,15-19, ПУТ ЗА КРЕМЕНАЦ: 2-22,26-28,32-34,40-54,1-11,23-31,35-37, ПУТ ЗА ЛИПЕ: 183, ПУТ ЗА ПЕЋИНЕ: 10-28,32-38,3А-17,25-25А, ПУТ ЗА СКАДРИЋЕ: 2-8,1-9,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3c2f0956a571",
@@ -93,11 +42,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 0,
-      "waterOutages": 2
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -241,6 +185,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

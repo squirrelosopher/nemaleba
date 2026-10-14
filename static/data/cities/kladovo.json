@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "734171c315ab",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Кладово",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Засеоци Пропазешће и Велики Пепео"
-      ],
-      "reason": null,
-      "note": "Засеоци Пропазешће и Велики Пепео",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "335aa5610aa6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Кладово",
-      "time": {
-        "start": "08:30",
-        "end": "16:00"
-      },
-      "streets": [
-        "Насеља Стара Брза и Купузиште са припадајућим викенд насељима ."
-      ],
-      "reason": null,
-      "note": "Насеља Стара Брза и Купузиште са припадајућим викенд насељима .",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "fe82a126bd74",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Засеоци Пропазешће и Велики Пепео",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e2f4e549e513",
@@ -72,15 +38,10 @@
       ],
       "reason": null,
       "note": "Насеља Стара Брза и Купузиште са припадајућим викенд насељима .",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 1,
@@ -223,6 +184,11 @@
     },
     {
       "date": "2026-10-14",
+      "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
       "electricityOutages": 2,
       "waterOutages": 0
     }

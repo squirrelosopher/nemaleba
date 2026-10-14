@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Владимировац: Братства Јединства, Баштенска, колонија и Девојачки Бунар.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "eb30888c5afd",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "Владимировац: Цело насеље осим Б.Јединства, Баштенске и колоније.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e070044166fa",
@@ -55,7 +55,7 @@
       ],
       "reason": null,
       "note": "Јаношик и Локве: цела насеља.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "3cf01783b350",
@@ -72,15 +72,10 @@
       ],
       "reason": null,
       "note": "Јерменовци и Барице: цела насеља",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -224,6 +219,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

@@ -7,140 +7,6 @@
   },
   "outages": [
     {
-      "id": "f7e548d1e6ad",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-07",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-07-10-2026/",
-      "areaLabel": "Бресница",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Мокрањчева"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Хаваријска искључења на дан 07.10.2026. \n \n Бресница, ул. Мокрањчева ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "02d67098a961",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-07",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-07-10-2026/",
-      "areaLabel": "Шумарице",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "угао Иве Андрића – Ударних бригада"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Шумарице, угао Иве Андрића – Ударних бригада ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "bc6aa4541ebf",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-07",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-07-10-2026/",
-      "areaLabel": "Аеродром",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Босанска"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Аеродром, ул. Босанска ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "4cc2ac3dd9c1",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-07",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-07-10-2026/",
-      "areaLabel": "Јована Ристића",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [],
-      "reason": "поправка хидранта",
-      "note": "Бресница, угао Ивана Цанкара – Др.Јована Ристића ( од 12:00 до 16:00 часова ), поправка хидранта."
-    },
-    {
-      "id": "9682b87c64a9",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-07",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-07-10-2026/",
-      "areaLabel": "Станово",
-      "time": {
-        "start": "15:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Душана Шубакића"
-      ],
-      "reason": "замена вентила",
-      "note": "Станово, ул. Душана Шубакића ( од 15:00 до 17:00 часова ), замена вентила."
-    },
-    {
-      "id": "1b2c8c523f93",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-07",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-07-10-2026/",
-      "areaLabel": "Белошевац",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Тихомира Вуксановића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Белошевац, ул. Тихомира Вуксановића ( од 16:00 до 19:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "5ba14b558811",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-07",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-07-10-2026/",
-      "areaLabel": "Ердоглија",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Даничићева"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Ердоглија, ул. Даничићева ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "f4e02a5280cc",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-07",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-07-10-2026/",
-      "areaLabel": "Маршић",
-      "time": {
-        "start": "17:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Слободана Јовановића"
-      ],
-      "reason": "квар у шахти",
-      "note": "Маршић, ул. Слободана Јовановића ( од 17:00 до 19:00 часова ), квар у шахти."
-    },
-    {
       "id": "39d733a8b3bd",
       "utility": "water",
       "kind": "emergency",
@@ -851,26 +717,6 @@
       "note": "Хаваријска искључења на дан 14.10.2026. \n \n Ердеч, угао Партизанских курира – Хусињских рудара ( од 08:00 до 12:00 часова ), поправка уличне линије."
     },
     {
-      "id": "f0fee3920d69",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Ресник - Кула",
-        "Горња мала",
-        "Церјак",
-        "Нови Милановац - Павићевићи"
-      ],
-      "reason": null,
-      "note": "Ресник - Кула, Горња мала, Церјак, Нови Милановац - Павићевићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "926f16d78911",
       "utility": "water",
       "kind": "emergency",
@@ -903,23 +749,6 @@
       ],
       "reason": "поправка уличне линије",
       "note": "Пивара, ул. Стојана Протића 91 ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "d525f080115d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Митра Бакића"
-      ],
-      "reason": null,
-      "note": "Митра Бакића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2ff8cca06a89",
@@ -1073,7 +902,7 @@
       ],
       "reason": null,
       "note": "Ресник - Дубокић, Школа",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "89b1a6a30aab",
@@ -1090,7 +919,7 @@
       ],
       "reason": null,
       "note": "Даничићева 65 - 69",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5e38af79be57",
@@ -1114,7 +943,7 @@
       ],
       "reason": null,
       "note": "Божидара Максимовића, Боривоја Глишића, Епископа Михајла Урошевића, Маинићка, Миладина Прљевића, Слободана Принципа, Светолика Младеновића, Поскурички пут",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "36dc22830645",
@@ -1134,15 +963,10 @@
       ],
       "reason": null,
       "note": "Нови Милановац - Дом, Брадићи, Цветојевац - Јовановићи, Петровац - Викенд насеље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 2,
-      "waterOutages": 15
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 1,
@@ -1287,6 +1111,11 @@
       "date": "2026-10-14",
       "electricityOutages": 2,
       "waterOutages": 12
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 3,
+      "waterOutages": 0
     }
   ]
 }

@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Кикинда: Његошева од Иве Лоле Рибара до Косовске, Косовска од Његошеве до Тозе Марковића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "62e5178d3a4f",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "Сајан: део Ади Ендреа од Иве Андрића према Великој.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3d2e85821e92",
@@ -55,7 +55,7 @@
       ],
       "reason": null,
       "note": "Кикинда: Карађорђева од Стевана Сремца до Пере Сегединца парна страна.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "9b2300307545",
@@ -72,7 +72,7 @@
       ],
       "reason": null,
       "note": "Башаид: Бранислава Нушића од Раде Микалачког до Змај Јовине, Змај Јовина од Бранислава Нушића до Јове Јуришина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "8f3fbe72c256",
@@ -89,15 +89,10 @@
       ],
       "reason": null,
       "note": "Кикинда: Банатска, Водице, Пут за пристаниште.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -241,6 +236,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

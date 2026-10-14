@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Купци дела села Бањани (лукићи)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -128,6 +128,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

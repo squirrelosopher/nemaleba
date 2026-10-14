@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ КОЈИ СЕ НАПАЈАЈУ ИЗ ТС ДОЊЕ ЦРНИЉЕВО 5",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2e1950aa7969",
@@ -41,7 +41,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ У МЕСТУ КОЦЕЉЕВА УЛ. НЕМАЊИНА, КАРАЂОРЂЕВА, ЗГРАДА ОПШТИНЕ, СУД И ПОЛИЦИЈА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f475b79ff7d1",
@@ -58,7 +58,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ КОЈИ СЕ НАПАЈАЈУ ИЗ ТС СУБОТИЦА 4 И ТС ЉУТИЦЕ 2",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -105,6 +105,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

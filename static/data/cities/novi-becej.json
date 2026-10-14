@@ -5,25 +5,7 @@
     "nameLatin": "Novi Bečej",
     "branchCyrillic": "Зрењанин"
   },
-  "outages": [
-    {
-      "id": "78b466d39af0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Нови Бечеј",
-      "time": {
-        "start": "11:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "\"Нови Бечеј:\r\nдео улице Соње Маринковић\""
-      ],
-      "reason": null,
-      "note": "\"Нови Бечеј:\r\nдео улице Соње Маринковић\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-23",
@@ -133,6 +115,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

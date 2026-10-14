@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "e4aaf15b5824",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Насеље Крушевица (засеок Игралиште)."
-      ],
-      "reason": null,
-      "note": "Насеље Крушевица (засеок Игралиште).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "660314d6c95e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Насеље Горња Топлица (засеок Цвејовићи)."
-      ],
-      "reason": null,
-      "note": "Насеље Горња Топлица (засеок Цвејовићи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "50e11094dda0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Насеље Јунковац (засеок Белаћевићи)."
-      ],
-      "reason": null,
-      "note": "Насеље Јунковац (засеок Белаћевићи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d83e044fd016",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +21,24 @@
       ],
       "reason": null,
       "note": "Општина Мионица: насељено место Вировац (засеок Аксентијевићи-према Ђурићу).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "85690a69cd21",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Општина Љиг: насељено место Бољковци (засеок Рањци-према Буковачи)."
+      ],
+      "reason": null,
+      "note": "Општина Љиг: насељено место Бољковци (засеок Рањци-према Буковачи).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1dde93aa16a1",
@@ -96,24 +62,7 @@
       ],
       "reason": null,
       "note": "Насеље Брајковац (засеок Палеж,Палеж ИИ,Трбушнички пут,Јовичићи,Путно брдо,Дакићи,Трнавци,Кисела вода).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "85690a69cd21",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Општина Љиг: насељено место Бољковци (засеок Рањци-према Буковачи)."
-      ],
-      "reason": null,
-      "note": "Општина Љиг: насељено место Бољковци (засеок Рањци-према Буковачи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f170e398458f",
@@ -130,7 +79,7 @@
       ],
       "reason": null,
       "note": "Општина Љиг: насељено место Јајчић (засеок Васиљевићи,Јајчић ИИ, према Тулу).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ba682e484f2e",
@@ -185,11 +134,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 3,
@@ -333,6 +277,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 4,
       "waterOutages": 0
     }
   ]

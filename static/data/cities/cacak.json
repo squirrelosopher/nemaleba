@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "8280d08e9b83",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Потрошачи у Придворици и Јездини."
-      ],
-      "reason": null,
-      "note": "Потрошачи у Придворици и Јездини.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e4fc7f1aea20",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Потрошачи у улици Пиговој и делу улице Веселина Миликића од Пигове ка бедему."
-      ],
-      "reason": null,
-      "note": "Потрошачи у улици Пиговој и делу улице Веселина Миликића од Пигове ка бедему.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e02b3ad78daf",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Паковраће од Ћосића ка Чачку до моста",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9667a7cb0901",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Село Катрга",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "72455a3cf278",
@@ -89,7 +55,7 @@
       ],
       "reason": null,
       "note": "Потрошачи ку ул. Браће Станић и околним улицама који се напајају са ТС Браће Станић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9a3c8cfd381b",
@@ -106,7 +72,7 @@
       ],
       "reason": null,
       "note": "Улица Симе Сараге и део улице Кључке од Симе Сараге до Ремонта",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "00555d83e078",
@@ -123,15 +89,10 @@
       ],
       "reason": null,
       "note": "Коњевићи и Балуга Љубићска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -275,6 +236,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 5,
       "waterOutages": 0
     }
   ]

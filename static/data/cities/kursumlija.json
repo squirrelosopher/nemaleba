@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "11f61ec221f6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Зебице",
-        "Косаничка Рача (Гвозденовићи) и Трн."
-      ],
-      "reason": null,
-      "note": "Зебице,Косаничка Рача (Гвозденовићи) и Трн.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ee8244c06a3e",
       "utility": "electricity",
       "kind": "planned",
@@ -39,15 +21,10 @@
       ],
       "reason": null,
       "note": "Зебице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 3,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -190,6 +167,11 @@
     },
     {
       "date": "2026-10-14",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
       "electricityOutages": 1,
       "waterOutages": 0
     }

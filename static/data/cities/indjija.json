@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "7ea39c149b78",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Марадик: В.Караџића од бр 6/13 до краја улице; Гробљанска; Шуматовачка."
-      ],
-      "reason": null,
-      "note": "Марадик: В.Караџића од бр 6/13 до краја улице; Гробљанска; Шуматовачка.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "57e9f94eca6a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Стари Сланкамен: Део викенд зоне Одушевац 2"
-      ],
-      "reason": null,
-      "note": "Стари Сланкамен: Део викенд зоне Одушевац 2",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8dcb31930c44",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "\"Сланкаменачки Виногради: Цело место\r\nВикенд зона Јанда; Викенд зона Крст Ралица; Манера Н.Сланкамен\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e3c252a5aef2",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Стари Сланкамен: Део викенд зоне Почента 1 у Старом Сланкамену.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "a10bc7384f45",
@@ -90,15 +56,10 @@
       ],
       "reason": null,
       "note": "Цела места Марадик, Крушедол и Крушедол Прњавор.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 3,
@@ -242,6 +203,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

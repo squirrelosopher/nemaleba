@@ -7,35 +7,6 @@
   },
   "outages": [
     {
-      "id": "c72b50fb633d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Бојник",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Злата",
-        "Житни Поток",
-        "Бублица",
-        "Бреговина",
-        "Стари Ђуревац",
-        "Нови Ђуревац",
-        "Ранкова Река",
-        "Доњи Статовац",
-        "Горњи Статовац",
-        "Средњи Статовац",
-        "Богујевац",
-        "Кожинце",
-        "Гласовик"
-      ],
-      "reason": null,
-      "note": "Злата, Житни Поток, Бублица, Бреговина, Стари Ђуревац, Нови Ђуревац, Ранкова Река, Доњи Статовац, Горњи Статовац, Средњи Статовац, Богујевац, Кожинце, Гласовик",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "215e08df8e13",
       "utility": "electricity",
       "kind": "planned",
@@ -66,15 +37,10 @@
       ],
       "reason": null,
       "note": "Коплетно конзумно подручје општине Бојник, општина Лесковац насеље Доње Бријање, Војска Међа, општина Лебане насеље Ново Село, општина Прокупље насеља Злата, Житни Поток, Бублица, Бреговина, Стари Ђуревац, Нови Ђуревац, Ранкова Река, Доњи Статовац, Горњи Статовац, Средњи Статовац, Богујевац, Кожинце, Гласовик",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -217,6 +183,11 @@
     },
     {
       "date": "2026-10-14",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
       "electricityOutages": 1,
       "waterOutages": 0
     }

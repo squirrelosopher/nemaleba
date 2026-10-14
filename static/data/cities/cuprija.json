@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "c7a9849e063a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Фабрика Минел (бивша цинкара)"
-      ],
-      "reason": null,
-      "note": "Фабрика Минел (бивша цинкара)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1e74a5d32cc9",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Фабрика Минел (бивша цинкара)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e53b11eb92c4",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "викенд насеље Биковац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "0b04e72e1c01",
@@ -78,7 +61,7 @@
       ],
       "reason": null,
       "note": "улице:Миодрага Новаковића(од бр.33 до краја),Бранка Ћопића,Капетана Коче(од бр.2 до бр.34),Петра Кочића,Иванковачка(од улице Немањине до краја),Бошка Ђуричића (од улице Немањине до краја),локали испред болнице и Видовданска(од улице Немањине до краја).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "65e15bfd35e8",
@@ -95,7 +78,7 @@
       ],
       "reason": null,
       "note": "Медицински центар Ћуприја и Завод за заштиту здравља.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4f9ee436b499",
@@ -112,7 +95,7 @@
       ],
       "reason": null,
       "note": "део села Паљана ка Бигреници",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "6eff1f18cee3",
@@ -132,15 +115,10 @@
       ],
       "reason": null,
       "note": "ул. Немањина, Д. Илића, Б. Дамјановића, С. Здравковића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -284,6 +262,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 4,
       "waterOutages": 0
     }
   ]

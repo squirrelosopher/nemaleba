@@ -22,7 +22,7 @@
       ],
       "reason": null,
       "note": "Берин Извор,Црвена Јабука.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "11eb084c1cdb",
@@ -39,15 +39,10 @@
       ],
       "reason": null,
       "note": "Сурачево.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 3,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 1,
@@ -191,6 +186,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

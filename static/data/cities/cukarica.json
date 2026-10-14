@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље ЖАРКОВО: ЈАБЛАНИЧКА: 3А-3Ж, КОПАОНИЧКА: 52-58,57-63, КОСМАЈСКА: 46-58,62,35-45, ЉУБИЊСКА: 5-5А/1 , ПАРТИЗАНСКЕ ВОДЕ: 2-12Б,27-39, ПЕТЕФИЈЕВА: 6А-6А,15-21,25-35, ПРИМУЋУРА ЖАРКА: 8А-10, РАДОВАНА МИЛОШЕВИЋА: 20-24,21-29, СТОЈАНА МАТИЋА: 50-58,43-49, ТРГОВАЧКА: 74, ЗДРАВКА ЈОВАНОВИЋА: 22-32,29-39, ЖИТОМИСЛИЋКА: 4-48,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3a11ee2f5cb1",
@@ -42,11 +42,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 1,
-      "waterOutages": 1
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 1,
@@ -190,6 +185,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

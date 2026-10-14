@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "62773adda6c1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "08:30",
-        "end": "10:00"
-      },
-      "streets": [
-        "Кањижа: Беседеш Јожефа, Суботички пут (зграде)"
-      ],
-      "reason": null,
-      "note": "Кањижа: Беседеш Јожефа, Суботички пут (зграде)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "79a1b0483b26",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "11:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "Кањижа: Босанска, Македонска, Арањ Јаноша, Франкопанска, Морнарска, Рибарска, Цигларска, Црепска, Гагарина, Кумановска, Суботички Пут (од Тисине до Гагарина), Јесенска (од Суботичког Пута до Сутјеске)."
-      ],
-      "reason": null,
-      "note": "Кањижа: Босанска, Македонска, Арањ Јаноша, Франкопанска, Морнарска, Рибарска, Цигларска, Црепска, Гагарина, Кумановска, Суботички Пут (од Тисине до Гагарина), Јесенска (од Суботичког Пута до Сутјеске).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "eb3da7c96682",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Барањска (од Радничке до Латак Иштвана), Которска (од Барањске према риту), Жетелачка (од Барањске према риту), Сплитска (од Барањске до Народних Хероја).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "172553a14d1e",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Радничка (од Сенћанске до Народних Хероја), Метларска, Стевана Сремца, Октобарска (од Соколске до Радничке), Барањска (од Соколске до Радничке).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "684dc97e27a6",
@@ -89,7 +55,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Чарнојевића, Мачванска, Косовска, Бранка Радичевића, Брезе, Мала, Соколска, Сомборска, Сенћанска (од Класја до Љиљана).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "463a491d54ea",
@@ -106,7 +72,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Солунска, Вишњићева, Дринска, Класја, Мостарска (од Сенћанске до Октобарске), Мажуранићева, Ади Ендре, Озораи Арпада, Сенћанска (од Солунске до Класја), Саве Текелије (од Далматинске до Озораи Арпада).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "6499443c0336",
@@ -123,7 +89,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Наде, Водолијска, Атилина, Сенћанска (од Авалске до Солунске), Сибињанин Јанка (од Ади Ендре до Кошут Лајоша), Далматинска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "231e747e7094",
@@ -140,15 +106,10 @@
       ],
       "reason": null,
       "note": "Кањижа: Авалска, Банатска, Војводе Путника, Сабљарска, Тишине, Сибињанин Јанка (од Кошут Лајоша до Сабљарске), Саве Текелије (од Далматинске до Војводе Путника).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -292,6 +253,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 3,
       "waterOutages": 0
     }
   ]

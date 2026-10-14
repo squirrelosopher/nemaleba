@@ -5,31 +5,8 @@
     "nameLatin": "Smederevska Palanka",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [
-    {
-      "id": "b9d5e4b60251",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Смедеревска Паланка",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Село Башин"
-      ],
-      "reason": null,
-      "note": "Село Башин",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -173,6 +150,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

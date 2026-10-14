@@ -7,213 +7,6 @@
   },
   "outages": [
     {
-      "id": "1103f5c864a5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Део села Плана"
-      ],
-      "reason": null,
-      "note": "Део села Плана",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "175fd034ebef",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Део села Буљане"
-      ],
-      "reason": null,
-      "note": "Део села Буљане",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6130619dc32c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Део Цара Душана",
-        "Матије Гупца",
-        "део Церске и део Глождачког венца"
-      ],
-      "reason": null,
-      "note": "Део Цара Душана, Матије Гупца,део Церске и део Глождачког венца",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b4f5a15700b3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "08:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Димитрија Марјановића",
-        "Бранка Радичевића",
-        "део Врапчанске",
-        "део Тониног сокачета и део Илије Гарашанина."
-      ],
-      "reason": null,
-      "note": "Димитрија Марјановића,Бранка Радичевића,део Врапчанске,део Тониног сокачета и део Илије Гарашанина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2752a43b8e51",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Зграда Солитери",
-        "Део Николе Пашића и део краља Петра првог"
-      ],
-      "reason": null,
-      "note": "Зграда Солитери, Део Николе Пашића и део краља Петра првог",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "fbe1943d3981",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "09:00",
-        "end": "10:30"
-      },
-      "streets": [
-        "Део села Буљане"
-      ],
-      "reason": null,
-      "note": "Део села Буљане",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f821df7c3d31",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део Мајора Марка преко пруге",
-        "део Војводе Степе",
-        "Пикулина",
-        "део Војводе Путника"
-      ],
-      "reason": null,
-      "note": "Део Мајора Марка преко пруге,део Војводе Степе,Пикулина,део Војводе Путника,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "04276f57f677",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део села Буљане"
-      ],
-      "reason": null,
-      "note": "Део села Буљане",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2a82fb20dd4c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "12:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Део Проте Матеје Ненадовића",
-        "Уроша Предића",
-        "Милојка Лешјанина",
-        "део Милана Ракића",
-        "део Сутјеске",
-        "део Краља Драгутина",
-        "Илије Гојковића",
-        "део Сутјеске и део Димитрија Марјановића"
-      ],
-      "reason": null,
-      "note": "Део Проте Матеје Ненадовића,Уроша Предића,Милојка Лешјанина, део Милана Ракића,део Сутјеске,део Краља Драгутина,Илије Гојковића,део Сутјеске и део Димитрија Марјановића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f47108c2ec0e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "14:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Део села Горње Видово"
-      ],
-      "reason": null,
-      "note": "Део села Горње Видово",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "aab9be252fc4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "15:30",
-        "end": "16:30"
-      },
-      "streets": [
-        "Његошева",
-        "Белчева",
-        "део Томе Живановића",
-        "део Бранка Крсмановића",
-        "ПОШТА и ТЕЛЕКОМ"
-      ],
-      "reason": null,
-      "note": "Његошева,Белчева,део Томе Живановића,део Бранка Крсмановића , ПОШТА и ТЕЛЕКОМ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "6980da539e97",
       "utility": "electricity",
       "kind": "planned",
@@ -229,7 +22,7 @@
       ],
       "reason": null,
       "note": "Село Бошњане и село Давидовац, ЈП Србија Гас",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5b3ab164808b",
@@ -246,7 +39,7 @@
       ],
       "reason": null,
       "note": "Део слеа Крежбинац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2d287273a544",
@@ -263,7 +56,7 @@
       ],
       "reason": null,
       "note": "Део села Ратаре",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "87c1c55c50b2",
@@ -280,7 +73,7 @@
       ],
       "reason": null,
       "note": "Део села Мириловац и део села Лебина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "a37fc8c45b01",
@@ -297,15 +90,10 @@
       ],
       "reason": null,
       "note": "Лидл",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 3,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 3,
@@ -449,6 +237,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 11,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

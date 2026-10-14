@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Село: Радобуђа. Засеоци: Лазине, Рзавац, Шљункара (Поглед) и Грабовик (Вране).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "879147355639",
@@ -38,15 +38,10 @@
       ],
       "reason": null,
       "note": "Насеље: Кеј Народних хероја и Вилиман.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 1,
@@ -189,6 +184,11 @@
     },
     {
       "date": "2026-10-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
       "electricityOutages": 0,
       "waterOutages": 0
     }

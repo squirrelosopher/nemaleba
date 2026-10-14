@@ -5,13 +5,37 @@
     "nameLatin": "Požega",
     "branchCyrillic": "Ужице"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-09-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
+      "id": "15d6a2f5ab8a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-18",
+      "areaLabel": "Пожега",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Радовци",
+        "Роге",
+        "Узићи",
+        "Здравчићи",
+        "Глумач",
+        "Висибаба",
+        "Тврдићи",
+        "Врањани",
+        "Део Горњана",
+        "Белом",
+        "Кабекс",
+        "Материјалне резерве"
+      ],
+      "reason": null,
+      "note": "Радовци,,Роге,Узићи,Здравчићи,Глумач,Висибаба, Тврдићи,Врањани, Део Горњана, Белом, Кабекс, Материјалне резерве",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -154,6 +178,11 @@
     },
     {
       "date": "2026-10-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
       "electricityOutages": 0,
       "waterOutages": 0
     }

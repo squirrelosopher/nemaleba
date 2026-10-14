@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "d4c446e5b245",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "08:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Алексинац",
-        "стамбена зграда Душана Тривунца 82/1"
-      ],
-      "reason": null,
-      "note": "Алексинац,стамбена зграда Душана Тривунца 82/1",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e2c37d94159e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Прасковче"
-      ],
-      "reason": null,
-      "note": "Прасковче",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b565764c0250",
       "utility": "electricity",
       "kind": "planned",
@@ -56,7 +21,7 @@
       ],
       "reason": null,
       "note": "Горња Пешчаница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "fbc43f33e3eb",
@@ -73,15 +38,10 @@
       ],
       "reason": null,
       "note": "Љуптен",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 1,
@@ -224,6 +184,11 @@
     },
     {
       "date": "2026-10-14",
+      "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
       "electricityOutages": 2,
       "waterOutages": 0
     }

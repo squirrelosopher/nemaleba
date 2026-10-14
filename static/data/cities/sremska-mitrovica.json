@@ -7,27 +7,6 @@
   },
   "outages": [
     {
-      "id": "8897e9cd8b4b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-07",
-      "areaLabel": "Сремска Митровица",
-      "time": null,
-      "streets": [
-        "у граду: Петра Прерадовића",
-        "Драгиње Никшић",
-        "Русинској",
-        "Раваничкој",
-        "Лукијана Мушицког",
-        "Владимира Матијевића",
-        "Јована Дучића",
-        "Јосифа Рајачића са околним улицама ( прва фаза насеља Блок Б )"
-      ],
-      "reason": null,
-      "note": "У току је хитна интервенција на водоводној мрежи, због које су без воде остали потрошачи у следећим улицама у граду: Петра Прерадовића, Драгиње Никшић, Русинској, Раваничкој, Лукијана Мушицког, Владимира Матијевића, Јована Дучића и Јосифа Рајачића са околним улицама ( прва фаза насеља Блок Б ).",
-      "sourceUrl": "https://vodovodsm.rs/strana/10178"
-    },
-    {
       "id": "0faabc0e79f1",
       "utility": "electricity",
       "kind": "planned",
@@ -42,15 +21,10 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Булевар Арсенија Чарнојевића 31-33 (прве три зграде); Матије Хуђи 60, 70, 76, 97 и б.б.; Топлотне подстанице Матије Хуђи 60, 76, 97; Самопослуга “Мачак” - Матије Хуђи б.б.; Васе Стајића 1-29 и 2-40; Васе Пелагића 1-27 и 2-34; Петра Прерадовића 41; Ратарска 38; Владимира Матијевића 53-77 и 38а-48а.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 3,
@@ -193,6 +167,11 @@
     },
     {
       "date": "2026-10-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
       "electricityOutages": 0,
       "waterOutages": 0
     }

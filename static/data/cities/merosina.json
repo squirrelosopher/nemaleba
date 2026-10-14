@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "07953cebbb91",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Мерошина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део Мерошина код Електродистрибуције"
-      ],
-      "reason": null,
-      "note": "део Мерошина код Електродистрибуције",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "4df00d56dbd8",
       "utility": "electricity",
       "kind": "planned",
@@ -38,15 +21,10 @@
       ],
       "reason": null,
       "note": "Мали јастребац и Јасенове воде",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -189,6 +167,11 @@
     },
     {
       "date": "2026-10-14",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
       "electricityOutages": 1,
       "waterOutages": 0
     }

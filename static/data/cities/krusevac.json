@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "8bc29be034b3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део насељеног места Трмчари"
-      ],
-      "reason": null,
-      "note": "Део насељеног места Трмчари",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6ca14f627c40",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "Део улице Чолак Антина"
-      ],
-      "reason": null,
-      "note": "Део улице Чолак Антина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e8d5e53675ac",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "11:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део улице Михајла Живића"
-      ],
-      "reason": null,
-      "note": "Део улице Михајла Живића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f80eb27a5955",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део улице Јасички пут (од ЕПС - а до ЈКП Крушевац)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5b504691b31e",
@@ -89,7 +38,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Модрица (према Дворану)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "0e9a19dfe3ba",
@@ -106,7 +55,7 @@
       ],
       "reason": null,
       "note": "Насељено место Позлата и део насељеног места Сушица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b148ef236658",
@@ -123,7 +72,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Капиџија (део Гледићке улице)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e129f5deb6f8",
@@ -140,7 +89,7 @@
       ],
       "reason": null,
       "note": "Део улице Јасички пут (од пруге до Кнез Петрол бензинске станице)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ce0d705b9dab",
@@ -158,7 +107,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Пакашница,Дворане",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "733c4509abf1",
@@ -175,7 +124,7 @@
       ],
       "reason": null,
       "note": "Део улице Војислава Илића и Сликара Миловановића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "0c361443bb0e",
@@ -196,7 +145,7 @@
       ],
       "reason": null,
       "note": "Део улице Косовска,Јакшићева,В.Путника,Пећка,Страхинићева.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "0c2d1da0924c",
@@ -213,7 +162,7 @@
       ],
       "reason": null,
       "note": "Део улице Аедромска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "e89cb0c3e3c6",
@@ -230,15 +179,10 @@
       ],
       "reason": null,
       "note": "Део насељеног места Доњи и Горњи Степош",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 1,
@@ -382,6 +326,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 5,
       "waterOutages": 0
     }
   ]

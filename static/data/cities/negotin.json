@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "81b09a5cbcdb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Неготин",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Село Радујевац",
-        "црпне пумпе Косно грло и Прахово пристаниште"
-      ],
-      "reason": null,
-      "note": "Село Радујевац, црпне пумпе Косно грло и Прахово пристаниште",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "2fa769007c5f",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +21,7 @@
       ],
       "reason": null,
       "note": "Села: Кобишница, Буковче и Србово",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "8792ad6bbf29",
@@ -56,15 +38,10 @@
       ],
       "reason": null,
       "note": "Села: Милошево, Самариновац и Прахово",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 0,
@@ -208,6 +185,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

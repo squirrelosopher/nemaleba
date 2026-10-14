@@ -7,63 +7,6 @@
   },
   "outages": [
     {
-      "id": "124f403b9dae",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "делови улица Кованлучке",
-        "Партизанских курира и Васе Смајевића;"
-      ],
-      "reason": null,
-      "note": "делови улица Кованлучке, Партизанских курира и Васе Смајевића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "9a3eee6185e9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "делови улица Дурмиторске",
-        "Куршумлијске",
-        "Љубише Поповића Славка",
-        "Лоле Стојановића",
-        "Слободана Пенезића – Крцуна и Солунске;"
-      ],
-      "reason": null,
-      "note": "делови улица Дурмиторске, Куршумлијске, Љубише Поповића Славка, Лоле Стојановића, Слободана Пенезића – Крцуна и Солунске;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "7ec01229b9d5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-14",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "11:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "делови улица Гаџиханске",
-        "Браће Вуксановић и Делијског Виса;"
-      ],
-      "reason": null,
-      "note": "делови улица Гаџиханске, Браће Вуксановић и Делијског Виса;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f5435a330bb8",
       "utility": "electricity",
       "kind": "planned",
@@ -87,7 +30,7 @@
       ],
       "reason": null,
       "note": "делови улица Станоја Бунушевца (35, непарни бр. 49-75, 93,97,105,107,111,113) и Епископске (68,70,80);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "583b62b4b7e2",
@@ -108,15 +51,10 @@
       ],
       "reason": null,
       "note": "делови улица Стевана Сремца, Стевана Каћанског, Врбаске, Војводе Гојка, Јована Бабунског и Гаврила Принципа (1);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-15",
-      "electricityOutages": 2,
-      "waterOutages": 2
-    },
     {
       "date": "2026-09-16",
       "electricityOutages": 3,
@@ -260,6 +198,11 @@
     {
       "date": "2026-10-14",
       "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-15",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]
