@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T08:11:39.680Z",
+  "generatedAt": "2026-10-15T08:14:59.672Z",
   "summary": {
     "date": "2026-10-15",
     "electricityOutages": 216,
-    "waterOutages": 23,
+    "waterOutages": 24,
     "affected": [
       {
         "id": "beograd",
@@ -150,6 +150,12 @@
         "waterOutages": 0
       },
       {
+        "id": "ruma",
+        "nameCyrillic": "Рума",
+        "electricityOutages": 2,
+        "waterOutages": 1
+      },
+      {
         "id": "aleksandrovac",
         "nameCyrillic": "Александровац",
         "electricityOutages": 2,
@@ -236,12 +242,6 @@
       {
         "id": "prijepolje",
         "nameCyrillic": "Пријепоље",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "ruma",
-        "nameCyrillic": "Рума",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -576,7 +576,7 @@
     {
       "date": "2026-10-15",
       "electricityOutages": 131,
-      "waterOutages": 23
+      "waterOutages": 24
     }
   ],
   "providers": [
