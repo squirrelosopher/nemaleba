@@ -329,6 +329,23 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Блок 8 у Петроварадину.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-15-10-2026/"
+    },
+    {
+      "id": "8dcbbb5edc20",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-16",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "насеље Бегеч"
+      ],
+      "reason": null,
+      "note": "Због планираних радова Електродистрибуције Нови Сад, без воде ће од 8.30 до 14 сати бити насеље Бегеч.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-petak-16-10-2026/"
     }
   ],
   "history": [
