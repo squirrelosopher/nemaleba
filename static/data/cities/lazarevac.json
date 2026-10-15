@@ -24,23 +24,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "85690a69cd21",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Општина Љиг: насељено место Бољковци (засеок Рањци-према Буковачи)."
-      ],
-      "reason": null,
-      "note": "Општина Љиг: насељено место Бољковци (засеок Рањци-према Буковачи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1dde93aa16a1",
       "utility": "electricity",
       "kind": "planned",
@@ -62,6 +45,23 @@
       ],
       "reason": null,
       "note": "Насеље Брајковац (засеок Палеж,Палеж ИИ,Трбушнички пут,Јовичићи,Путно брдо,Дакићи,Трнавци,Кисела вода).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "85690a69cd21",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-15",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Општина Љиг: насељено место Бољковци (засеок Рањци-према Буковачи)."
+      ],
+      "reason": null,
+      "note": "Општина Љиг: насељено место Бољковци (засеок Рањци-према Буковачи).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {

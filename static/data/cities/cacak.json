@@ -90,6 +90,42 @@
       "reason": null,
       "note": "Коњевићи и Балуга Љубићска",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "7337728c90d6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Потрошачи у Придворици и Јездини."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Придворици и Јездини.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "de82c643f642",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Потрошачи у Чачку",
+        "улице Косовски венац",
+        "Синђелићева бр 25."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Чачку,улице Косовски венац,Синђелићева бр 25.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

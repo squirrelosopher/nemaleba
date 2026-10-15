@@ -5,7 +5,42 @@
     "nameLatin": "Loznica",
     "branchCyrillic": "Лозница"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "115b41786bf3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Доњи Добрић засеок Слатина"
+      ],
+      "reason": null,
+      "note": "Доњи Добрић засеок Слатина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "4020115686c1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-17",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Доњи Добрић засеок Слатина"
+      ],
+      "reason": null,
+      "note": "Доњи Добрић засеок Слатина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-16",

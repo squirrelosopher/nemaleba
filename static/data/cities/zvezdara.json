@@ -5,7 +5,25 @@
     "nameLatin": "Zvezdara",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "e4a97c4572ad",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Звездара",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "БУЛ КРАЉ.АЛЕКСАНДРА: 405Б"
+      ],
+      "reason": null,
+      "note": "БУЛ КРАЉ.АЛЕКСАНДРА: 405Б,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-16",

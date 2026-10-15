@@ -5,7 +5,45 @@
     "nameLatin": "Čajetina",
     "branchCyrillic": "Ужице"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "688485dd71fa",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Говеђача",
+        "Бјеличићи",
+        "Стаматовићи",
+        "Мала"
+      ],
+      "reason": null,
+      "note": "Говеђача, Бјеличићи, Стаматовићи, Мала",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "4aaf611765b5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-18",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Златиборац д.о.о."
+      ],
+      "reason": null,
+      "note": "Златиборац д.о.о.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-16",

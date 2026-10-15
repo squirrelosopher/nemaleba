@@ -76,6 +76,81 @@
       "reason": null,
       "note": "Големи Дел,Рагодеш,Крушевица,Американац.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "dadae092e824",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "део улице Јосифа Панчића",
+        "Петра Кочића",
+        "Војислава Вучковића."
+      ],
+      "reason": null,
+      "note": "део улице Јосифа Панчића,Петра Кочића,Војислава Вучковића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "1aaa019ba54f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Големи Дел",
+        "Рагодеш",
+        "Крушевица."
+      ],
+      "reason": null,
+      "note": "Големи Дел,Рагодеш,Крушевица.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "d8a3f542cd61",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део села Гњилан."
+      ],
+      "reason": null,
+      "note": "део села Гњилан.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "23d8b413aba3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-18",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "део Трга Републике",
+        "део улице 7. Јули",
+        "Николе Пашића",
+        "Таковска."
+      ],
+      "reason": null,
+      "note": "део Трга Републике,део улице 7. Јули,Николе Пашића,Таковска.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

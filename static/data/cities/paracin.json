@@ -59,23 +59,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "87c1c55c50b2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део села Мириловац и део села Лебина"
-      ],
-      "reason": null,
-      "note": "Део села Мириловац и део села Лебина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "a37fc8c45b01",
       "utility": "electricity",
       "kind": "planned",
@@ -90,6 +73,23 @@
       ],
       "reason": null,
       "note": "Лидл",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "87c1c55c50b2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "10:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део села Мириловац и део села Лебина"
+      ],
+      "reason": null,
+      "note": "Део села Мириловац и део села Лебина",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],

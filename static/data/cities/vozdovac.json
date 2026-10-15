@@ -39,6 +39,23 @@
       "reason": null,
       "note": "Насеље РИПАЊ: ПУТ ЗА ПЕЋИНЕ: 36-36В,40-42,50-50А,54-56,98-100,3А, ПУТ ЗА ПЕЋИНЕ2 ДЕО: 2,1-3,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "5b041e4257db",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-17",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "УСТАНИЧКА: 130"
+      ],
+      "reason": null,
+      "note": "УСТАНИЧКА: 130,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

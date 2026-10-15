@@ -96,6 +96,62 @@
       "reason": null,
       "note": "делови улица Гружанске, Гутенбергове, Солунских ратника и Изворске;",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "f01cef903f84",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "делови Боривоја Стевановића (46",
+        "бб)",
+        "Воривоја Стевановића први прилаз (1",
+        "25",
+        "бб)",
+        "Пролећна (1);"
+      ],
+      "reason": null,
+      "note": "делови Боривоја Стевановића (46,бб), Воривоја Стевановића први прилаз (1,25,бб), Пролећна (1);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "8785eefc3662",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "део Кнез Села;"
+      ],
+      "reason": null,
+      "note": "део Кнез Села;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7d0a43e98abe",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-16",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део Доњег Матејевца;"
+      ],
+      "reason": null,
+      "note": "део Доњег Матејевца;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
