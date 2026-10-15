@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T18:11:34.056Z",
+  "generatedAt": "2026-10-15T19:50:17.395Z",
   "summary": {
     "date": "2026-10-15",
     "electricityOutages": 265,
-    "waterOutages": 29,
+    "waterOutages": 30,
     "affected": [
       {
         "id": "beograd",
@@ -150,6 +150,12 @@
         "waterOutages": 0
       },
       {
+        "id": "pancevo",
+        "nameCyrillic": "Панчево",
+        "electricityOutages": 2,
+        "waterOutages": 2
+      },
+      {
         "id": "arandjelovac",
         "nameCyrillic": "Аранђеловац",
         "electricityOutages": 3,
@@ -184,12 +190,6 @@
         "nameCyrillic": "Мали Зворник",
         "electricityOutages": 3,
         "waterOutages": 0
-      },
-      {
-        "id": "pancevo",
-        "nameCyrillic": "Панчево",
-        "electricityOutages": 2,
-        "waterOutages": 1
       },
       {
         "id": "prijepolje",
@@ -624,7 +624,7 @@
     {
       "date": "2026-10-15",
       "electricityOutages": 131,
-      "waterOutages": 28
+      "waterOutages": 29
     }
   ],
   "providers": [
