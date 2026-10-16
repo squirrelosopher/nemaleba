@@ -887,6 +887,57 @@
       "note": "Шумарице, угао Иве Андрића и Ударних Бригада ( од 16:00 до 19:00 часова ), поправка затварача."
     },
     {
+      "id": "2a9d6116d105",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-10-2026/",
+      "areaLabel": "Белошевац",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Петра Јовановића"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Белошевац, ул. Петра Јовановића ( од 08:00 до 11:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "7200d0683f19",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-10-2026/",
+      "areaLabel": "Бресница",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Црногорска"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Бресница, ул. Црногорска ( од 08:00 до 11:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "ed8851b46924",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-10-2026/",
+      "areaLabel": "Ердоглија",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Даничићева"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Хаваријска искључења на дан 16.10.2026. \n \n Ердоглија, ул. Даничићева ( од 08:00 до 11:00 часова ), поправка уличне линије."
+    },
+    {
       "id": "36dc22830645",
       "utility": "electricity",
       "kind": "planned",
@@ -905,6 +956,159 @@
       "reason": null,
       "note": "Нови Милановац - Дом, Брадићи, Цветојевац - Јовановићи, Петровац - Викенд насеље",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "c1bc1c799db4",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-10-2026/",
+      "areaLabel": "Белошевац",
+      "time": {
+        "start": "11:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Светолика Јањића"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Белошевац, ул. Светолика Јањића ( од 11:00 до 14:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "af44e1940108",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-10-2026/",
+      "areaLabel": "Бресница",
+      "time": {
+        "start": "11:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Розе Луксенбург"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Бресница, ул. Розе Луксенбург ( од 11:00 до 14:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "385b4e60f9b6",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-10-2026/",
+      "areaLabel": "Ердоглија",
+      "time": {
+        "start": "11:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Даничићева"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Ердоглија, ул. Даничићева ( од 11:00 до 14:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "d980df35b323",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-10-2026/",
+      "areaLabel": "Белошевац",
+      "time": {
+        "start": "14:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Косте Цукића"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Белошевац, ул. Косте Цукића ( од 14:00 до 16:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "9ae882c53eac",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-10-2026/",
+      "areaLabel": "Бресница",
+      "time": {
+        "start": "14:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Мије Алексић"
+      ],
+      "reason": "поправка хидранта",
+      "note": "Бресница, ул. Мије Алексић ( од 14:00 до 16:00 часова ), поправка хидранта."
+    },
+    {
+      "id": "f51f55b751a5",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-10-2026/",
+      "areaLabel": "Мала Вага",
+      "time": {
+        "start": "14:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Станоја Главаша"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Мала Вага, ул. Станоја Главаша ( од 14:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "d2039d9aa557",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-10-2026/",
+      "areaLabel": "Белошевац",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Тихомира Вуксановића"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Белошевац, ул. Тихомира Вуксановића ( од 16:00 до 19:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "f8d9c8af4bab",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-10-2026/",
+      "areaLabel": "Голочело",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Голочелска"
+      ],
+      "reason": "поправка хидранта",
+      "note": "Голочело, ул. Голочелска ( од 16:00 до 19:00 часова ), поправка хидранта."
+    },
+    {
+      "id": "30768340f769",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-10-2026/",
+      "areaLabel": "Пчелице",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Милована Драгића"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Пчелице, ул. Милована Драгића ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
     }
   ],
   "history": [
@@ -1056,7 +1260,7 @@
     {
       "date": "2026-10-16",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 12
     }
   ]
 }
