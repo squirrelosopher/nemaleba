@@ -7,42 +7,6 @@
   },
   "outages": [
     {
-      "id": "091f744f3cb7",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-09",
-      "areaLabel": "Бошка Ђорђевића у Врањској Бањи",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у улици Бошка Ђорђевића у Врањској Бањи , без воде биће потрошачи те улице и околне, до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/09-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
-      "id": "c8e7f5b77f02",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-10-09",
-      "areaLabel": "Доктор Копше",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због израде водоводне мреже у улици  Доктор Копше , без воде биће потрошачи те улице и околне   до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/09-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
-      "id": "7d8ab8c4940a",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-09",
-      "areaLabel": "др. Симе Милошевића",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у улици  др. Симе Милошевића,  без воде биће потрошачи те улице  до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/09-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
       "id": "3ff7d9a80ab5",
       "utility": "water",
       "kind": "emergency",
@@ -174,11 +138,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-17",
-      "electricityOutages": 0,
-      "waterOutages": 1
-    },
     {
       "date": "2026-09-18",
       "electricityOutages": 1,
@@ -323,6 +282,11 @@
       "date": "2026-10-16",
       "electricityOutages": 0,
       "waterOutages": 2
+    },
+    {
+      "date": "2026-10-17",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }
