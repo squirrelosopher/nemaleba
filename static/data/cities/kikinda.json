@@ -56,6 +56,23 @@
       "reason": null,
       "note": "Кикинда: Банатска, Водице, Пут за пристаниште.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "9808d6d83f1a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-19",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Банатско Велико Село: Николе Тесле од Босанске до Стојана Матића, Стојана Матића од Симе Шолаје до Николе Тесле."
+      ],
+      "reason": null,
+      "note": "Банатско Велико Село: Николе Тесле од Босанске до Стојана Матића, Стојана Матића од Симе Шолаје до Николе Тесле.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -42,6 +42,23 @@
       "reason": null,
       "note": "Златиборац д.о.о.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "4c272331a5c9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-19",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "ДВ 10kV Кобиља глава - Реконструкција деонице ДВ 10kV"
+      ],
+      "reason": null,
+      "note": "ДВ 10kV Кобиља глава - Реконструкција деонице ДВ 10kV",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

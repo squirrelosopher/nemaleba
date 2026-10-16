@@ -132,23 +132,6 @@
       "sourceUrl": "https://www.vodovodpa.rs/2026/10/15/15-10-2026-2/"
     },
     {
-      "id": "f197dc073d79",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-18",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Панчево: Јабучки пут од Летње ка Јабуци до кружног тока са свим попречним улицама и просецима"
-      ],
-      "reason": null,
-      "note": "Панчево: Јабучки пут од Летње ка Јабуци до кружног тока са свим попречним улицама и просецима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
-    },
-    {
       "id": "6724b23a65e8",
       "utility": "electricity",
       "kind": "planned",
@@ -163,6 +146,23 @@
       ],
       "reason": null,
       "note": "Панчево:Јабучки пут од Летње ка Јабуци до кружног тока са свим попречним улицама и просецима",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "f197dc073d79",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-18",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Панчево: Јабучки пут од Летње ка Јабуци до кружног тока са свим попречним улицама и просецима"
+      ],
+      "reason": null,
+      "note": "Панчево: Јабучки пут од Летње ка Јабуци до кружног тока са свим попречним улицама и просецима",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],

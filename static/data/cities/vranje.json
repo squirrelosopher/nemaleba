@@ -113,6 +113,64 @@
       "reason": null,
       "note": "Због оштећења на водоводној мрежи у улици  Омладинске бригаде,  без воде биће потрошачи те улице   до завршетка радова.",
       "sourceUrl": "https://vodovodvranje.rs/16-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "652ee08ed402",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-18",
+      "areaLabel": "Врање",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Бунушевац",
+        "Содерце",
+        "Стропско",
+        "Дубница",
+        "Катун",
+        "Миливојце"
+      ],
+      "reason": null,
+      "note": "Бунушевац, Содерце, Стропско, Дубница, Катун, Миливојце",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "d80001212d78",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-18",
+      "areaLabel": "Врање",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Блок пошта-банка",
+        "део 29 новембар",
+        "део Лоле Рибара."
+      ],
+      "reason": null,
+      "note": "Блок пошта-банка,део 29 новембар, део Лоле Рибара.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "efce04a0e01c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-18",
+      "areaLabel": "Врање",
+      "time": {
+        "start": "12:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "део Карађорђеве ул. ; Блок пошта-банка"
+      ],
+      "reason": null,
+      "note": "део Карађорђеве ул. ; Блок пошта-банка",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

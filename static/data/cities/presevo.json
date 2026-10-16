@@ -5,7 +5,28 @@
     "nameLatin": "Preševo",
     "branchCyrillic": "Врање"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "3a5ec2a30e93",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-19",
+      "areaLabel": "Прешево",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Чукарка",
+        "Славујевац",
+        "Рељан",
+        "Ашане"
+      ],
+      "reason": null,
+      "note": "Чукарка, Славујевац, Рељан, Ашане",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-17",

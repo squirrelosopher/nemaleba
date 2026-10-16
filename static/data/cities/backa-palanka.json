@@ -5,7 +5,26 @@
     "nameLatin": "Bačka Palanka",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "d512b77831c0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-19",
+      "areaLabel": "Бачка Паланка",
+      "time": {
+        "start": "09:00",
+        "end": "14:30"
+      },
+      "streets": [
+        "Цело место Нови Мајур",
+        "Карађорђево и Младеново."
+      ],
+      "reason": null,
+      "note": "Цело место Нови Мајур, Карађорђево и Младеново.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-17",
