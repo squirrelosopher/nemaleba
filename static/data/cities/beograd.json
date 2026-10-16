@@ -296,6 +296,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "638d34433a26",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-18",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "15:00",
+        "end": "20:00"
+      },
+      "streets": [
+        "ТРШЋАНСКА: 21"
+      ],
+      "reason": null,
+      "note": "ТРШЋАНСКА: 21,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
       "id": "bfca65834776",
       "utility": "electricity",
       "kind": "planned",

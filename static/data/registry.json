@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-16T13:15:58.001Z",
+  "generatedAt": "2026-10-16T14:11:33.006Z",
   "summary": {
     "date": "2026-10-16",
-    "electricityOutages": 226,
+    "electricityOutages": 228,
     "waterOutages": 28,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 26,
+        "electricityOutages": 27,
         "waterOutages": 0
       },
       {
@@ -261,6 +261,12 @@
         "id": "pancevo",
         "nameCyrillic": "Панчево",
         "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "ada",
+        "nameCyrillic": "Ада",
+        "electricityOutages": 1,
         "waterOutages": 0
       },
       {
@@ -830,6 +836,12 @@
     }
   ],
   "cities": [
+    {
+      "id": "ada",
+      "nameCyrillic": "Ада",
+      "nameLatin": "Ada",
+      "branchCyrillic": "Нови Сад"
+    },
     {
       "id": "aleksandrovac",
       "nameCyrillic": "Александровац",
