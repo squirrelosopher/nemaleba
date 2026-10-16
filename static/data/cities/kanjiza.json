@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "eb3da7c96682",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "08:30",
-        "end": "09:15"
-      },
-      "streets": [
-        "Кањижа: Барањска (од Радничке до Латак Иштвана), Которска (од Барањске према риту), Жетелачка (од Барањске према риту), Сплитска (од Барањске до Народних Хероја)."
-      ],
-      "reason": null,
-      "note": "Кањижа: Барањска (од Радничке до Латак Иштвана), Которска (од Барањске према риту), Жетелачка (од Барањске према риту), Сплитска (од Барањске до Народних Хероја).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "172553a14d1e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "09:30",
-        "end": "11:00"
-      },
-      "streets": [
-        "Кањижа: Радничка (од Сенћанске до Народних Хероја), Метларска, Стевана Сремца, Октобарска (од Соколске до Радничке), Барањска (од Соколске до Радничке)."
-      ],
-      "reason": null,
-      "note": "Кањижа: Радничка (од Сенћанске до Народних Хероја), Метларска, Стевана Сремца, Октобарска (од Соколске до Радничке), Барањска (од Соколске до Радничке).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "684dc97e27a6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "11:00",
-        "end": "12:30"
-      },
-      "streets": [
-        "Кањижа: Чарнојевића, Мачванска, Косовска, Бранка Радичевића, Брезе, Мала, Соколска, Сомборска, Сенћанска (од Класја до Љиљана)."
-      ],
-      "reason": null,
-      "note": "Кањижа: Чарнојевића, Мачванска, Косовска, Бранка Радичевића, Брезе, Мала, Соколска, Сомборска, Сенћанска (од Класја до Љиљана).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "463a491d54ea",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +21,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Солунска, Вишњићева, Дринска, Класја, Мостарска (од Сенћанске до Октобарске), Мажуранићева, Ади Ендре, Озораи Арпада, Сенћанска (од Солунске до Класја), Саве Текелије (од Далматинске до Озораи Арпада).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "6499443c0336",
@@ -89,7 +38,7 @@
       ],
       "reason": null,
       "note": "Кањижа: Наде, Водолијска, Атилина, Сенћанска (од Авалске до Солунске), Сибињанин Јанка (од Ади Ендре до Кошут Лајоша), Далматинска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "231e747e7094",
@@ -106,7 +55,58 @@
       ],
       "reason": null,
       "note": "Кањижа: Авалска, Банатска, Војводе Путника, Сабљарска, Тишине, Сибињанин Јанка (од Кошут Лајоша до Сабљарске), Саве Текелије (од Далматинске до Војводе Путника).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "2a977c39d027",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-19",
+      "areaLabel": "Кањижа",
+      "time": {
+        "start": "08:30",
+        "end": "10:00"
+      },
+      "streets": [
+        "Кањижа: Латак Иштван, Жетелачка (од Пут Народних Хероја до Барањске), Которска (од Пут народних Хероја до Барањске), Пут Народних Хероја (од Латак Иштвана до Саве Текелије)."
+      ],
+      "reason": null,
+      "note": "Кањижа: Латак Иштван, Жетелачка (од Пут Народних Хероја до Барањске), Которска (од Пут народних Хероја до Барањске), Пут Народних Хероја (од Латак Иштвана до Саве Текелије).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "b75f0f68722c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-19",
+      "areaLabel": "Кањижа",
+      "time": {
+        "start": "10:00",
+        "end": "11:30"
+      },
+      "streets": [
+        "Кањижа: Цетинска, Дурмиторска, Милоша Димитријевића, Соколска (од Саве Текелије до Октобарске), Стевана Сремца (од Саве Текелије до Октобарске), Мостарска (од Саве Текелије до Октобарске)."
+      ],
+      "reason": null,
+      "note": "Кањижа: Цетинска, Дурмиторска, Милоша Димитријевића, Соколска (од Саве Текелије до Октобарске), Стевана Сремца (од Саве Текелије до Октобарске), Мостарска (од Саве Текелије до Октобарске).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "8e225cbc202b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-19",
+      "areaLabel": "Кањижа",
+      "time": {
+        "start": "11:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "Кањижа: Алеја Кестенова (од Хоргошког Пута до Хрватске и Рузвелтове), Широка, Дунавска, Мале Цркве (од Широке до Алаје Кестенова), Кошут Лајоша (од Алеје Кестенова до Саве Текелије)."
+      ],
+      "reason": null,
+      "note": "Кањижа: Алеја Кестенова (од Хоргошког Пута до Хрватске и Рузвелтове), Широка, Дунавска, Мале Цркве (од Широке до Алаје Кестенова), Кошут Лајоша (од Алеје Кестенова до Саве Текелије).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

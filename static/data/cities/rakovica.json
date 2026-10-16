@@ -5,25 +5,7 @@
     "nameLatin": "Rakovica",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "44e88db4a997",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Раковица",
-      "time": {
-        "start": "10:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "СТЕВАНА ЛУКОВИЋА: 2-4"
-      ],
-      "reason": null,
-      "note": "СТЕВАНА ЛУКОВИЋА: 2-4,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-17",

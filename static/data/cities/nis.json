@@ -560,70 +560,6 @@
       "sourceUrl": "https://jkpnaissus.co.rs/%d0%bd%d0%b0%d1%98%d0%b0%d0%b2%d0%b0-%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b0-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d1%83-%d1%86%d0%b5/"
     },
     {
-      "id": "b4cabaa007cc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "делови улица Станка Власотинчанина",
-        "Делиградске",
-        "Епископске (5",
-        "10)",
-        "Хиландарске (17) и Трга 14. Октобра (6);"
-      ],
-      "reason": null,
-      "note": "делови улица Станка Власотинчанина, Делиградске, Епископске (5,10), Хиландарске (17) и Трга 14. Октобра (6);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f5435a330bb8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "08:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "делови улица Станоја Бунушевца (35",
-        "непарни бр. 49-75",
-        "93",
-        "97",
-        "105",
-        "107",
-        "111",
-        "113) и Епископске (68",
-        "70",
-        "80);"
-      ],
-      "reason": null,
-      "note": "делови улица Станоја Бунушевца (35, непарни бр. 49-75, 93,97,105,107,111,113) и Епископске (68,70,80);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "bed65b201f55",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "део Булевара Св. Пантелејмона (91б);"
-      ],
-      "reason": null,
-      "note": "део Булевара Св. Пантелејмона (91б);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d33c181dba2f",
       "utility": "water",
       "kind": "emergency",
@@ -639,139 +575,6 @@
       "reason": null,
       "note": "ПРЕКИД САОБРАЋАЈА У СЕЛУ ПОПОВАЦ астављају се радови на канализационој мрежи и због њих се обуставља саобраћај у улици Милета Ђурђановића, на простору од подвожњака ка центру села. Радови се одвијајау целе недеље и за то време остаје обавештење о прекиду саобраћаја свакога дана од 8 до 15 часова на поменутој локацији",
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-196/"
-    },
-    {
-      "id": "94934cc616d3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Нишка бања",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Банцарево",
-        "Чукљеник",
-        "Горња и Доња Студена и Бојанине воде;"
-      ],
-      "reason": null,
-      "note": "Банцарево, Чукљеник, Горња и Доња Студена и Бојанине воде;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "583b62b4b7e2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "08:30",
-        "end": "10:00"
-      },
-      "streets": [
-        "делови улица Стевана Сремца",
-        "Стевана Каћанског",
-        "Врбаске",
-        "Војводе Гојка",
-        "Јована Бабунског и Гаврила Принципа (1);"
-      ],
-      "reason": null,
-      "note": "делови улица Стевана Сремца, Стевана Каћанског, Врбаске, Војводе Гојка, Јована Бабунског и Гаврила Принципа (1);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2eb5a7e72c75",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "део Раданске улице;"
-      ],
-      "reason": null,
-      "note": "део Раданске улице;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "621b8a8a93d1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "делови улица Боже Илића",
-        "Дринске и Врежинског Булевара;"
-      ],
-      "reason": null,
-      "note": "делови улица Боже Илића, Дринске и Врежинског Булевара;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ec27fefa23e9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "10:30",
-        "end": "12:00"
-      },
-      "streets": [
-        "делови улица Ђорђа Андрејевића – Куна",
-        "Јаниса Јанулиса",
-        "Жарка Зрењанина",
-        "Коче Капетана и Деспота Стефана;"
-      ],
-      "reason": null,
-      "note": "делови улица Ђорђа Андрејевића – Куна, Јаниса Јанулиса, Жарка Зрењанина, Коче Капетана и Деспота Стефана;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5434d84b49ec",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "11:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "делови улица Гружанске",
-        "Гутенбергове",
-        "Солунских ратника и Изворске;"
-      ],
-      "reason": null,
-      "note": "делови улица Гружанске, Гутенбергове, Солунских ратника и Изворске;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c81d51af109e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "11:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "делови улица 7. Јула",
-        "Лоле Рибара",
-        "Мачванске и Орловића Павла;"
-      ],
-      "reason": null,
-      "note": "делови улица 7. Јула, Лоле Рибара, Мачванске и Орловића Павла;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4d18afa427a3",
@@ -903,7 +706,7 @@
       ],
       "reason": null,
       "note": "делови Војводе Мишића, Бул. Др Зорана Ђинђића (2);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3eada32c0c8c",
@@ -920,7 +723,7 @@
       ],
       "reason": null,
       "note": "делови Бојаниних вода;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f01cef903f84",
@@ -942,7 +745,7 @@
       ],
       "reason": null,
       "note": "делови Боривоја Стевановића (46,бб), Воривоја Стевановића први прилаз (1,25,бб), Пролећна (1);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f53f7cdfe840",
@@ -959,7 +762,7 @@
       ],
       "reason": null,
       "note": "делови Његошеве (2-17);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "8785eefc3662",
@@ -976,7 +779,7 @@
       ],
       "reason": null,
       "note": "део Кнез Села;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "33cbee31cd97",
@@ -995,7 +798,7 @@
       ],
       "reason": null,
       "note": "делови Устаничке, 21. маја, Николе Коперника;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "7d0a43e98abe",
@@ -1012,7 +815,7 @@
       ],
       "reason": null,
       "note": "део Доњег Матејевца;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,42 +5,7 @@
     "nameLatin": "Negotin",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "2fa769007c5f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Неготин",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Села: Кобишница, Буковче и Србово"
-      ],
-      "reason": null,
-      "note": "Села: Кобишница, Буковче и Србово",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8792ad6bbf29",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Неготин",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Села: Милошево, Самариновац и Прахово"
-      ],
-      "reason": null,
-      "note": "Села: Милошево, Самариновац и Прахово",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-17",

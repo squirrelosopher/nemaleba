@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "8dcb31930c44",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "\"Сланкаменачки Виногради: Цело место\r\nВикенд зона Јанда; Викенд зона Крст Ралица; Манера Н.Сланкамен\""
-      ],
-      "reason": null,
-      "note": "\"Сланкаменачки Виногради: Цело место\r\nВикенд зона Јанда; Викенд зона Крст Ралица; Манера Н.Сланкамен\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e3c252a5aef2",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Стари Сланкамен: Део викенд зоне Почента 1 у Старом Сланкамену.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

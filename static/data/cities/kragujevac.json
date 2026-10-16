@@ -717,24 +717,6 @@
       "note": "Бубањ, ул. Првог Маја ( од 08:00 до 11:00 часова ), поправка кућног прикључка."
     },
     {
-      "id": "0e1ac238ca30",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Ресник - Дубокић",
-        "Школа"
-      ],
-      "reason": null,
-      "note": "Ресник - Дубокић, Школа",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c59eea296c37",
       "utility": "water",
       "kind": "emergency",
@@ -750,47 +732,6 @@
       ],
       "reason": "поправка уличне линије",
       "note": "Мала Вага, ул. Станоја Главаша ( од 08:00 до 11:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "89b1a6a30aab",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Даничићева 65 - 69"
-      ],
-      "reason": null,
-      "note": "Даничићева 65 - 69",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5e38af79be57",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Божидара Максимовића",
-        "Боривоја Глишића",
-        "Епископа Михајла Урошевића",
-        "Маинићка",
-        "Миладина Прљевића",
-        "Слободана Принципа",
-        "Светолика Младеновића",
-        "Поскурички пут"
-      ],
-      "reason": null,
-      "note": "Божидара Максимовића, Боривоја Глишића, Епископа Михајла Урошевића, Маинићка, Миладина Прљевића, Слободана Принципа, Светолика Младеновића, Поскурички пут",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "28fad167b577",
@@ -963,7 +904,7 @@
       ],
       "reason": null,
       "note": "Нови Милановац - Дом, Брадићи, Цветојевац - Јовановићи, Петровац - Викенд насеље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

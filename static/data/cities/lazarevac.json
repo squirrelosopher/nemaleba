@@ -7,81 +7,6 @@
   },
   "outages": [
     {
-      "id": "d83e044fd016",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Општина Мионица: насељено место Вировац (засеок Аксентијевићи-према Ђурићу)."
-      ],
-      "reason": null,
-      "note": "Општина Мионица: насељено место Вировац (засеок Аксентијевићи-према Ђурићу).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1dde93aa16a1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Насеље Брајковац (засеок Палеж",
-        "Палеж ИИ",
-        "Трбушнички пут",
-        "Јовичићи",
-        "Путно брдо",
-        "Дакићи",
-        "Трнавци",
-        "Кисела вода)."
-      ],
-      "reason": null,
-      "note": "Насеље Брајковац (засеок Палеж,Палеж ИИ,Трбушнички пут,Јовичићи,Путно брдо,Дакићи,Трнавци,Кисела вода).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "85690a69cd21",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Општина Љиг: насељено место Бољковци (засеок Рањци-према Буковачи)."
-      ],
-      "reason": null,
-      "note": "Општина Љиг: насељено место Бољковци (засеок Рањци-према Буковачи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f170e398458f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Општина Љиг: насељено место Јајчић (засеок Васиљевићи,Јајчић ИИ, према Тулу)."
-      ],
-      "reason": null,
-      "note": "Општина Љиг: насељено место Јајчић (засеок Васиљевићи,Јајчић ИИ, према Тулу).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ba682e484f2e",
       "utility": "electricity",
       "kind": "planned",
@@ -96,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље: Велики Црљени ( засеок Колонија ТЕК 1, Колонија ТЕК 2, Телеком )",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "293766ff4abc",
@@ -113,7 +38,7 @@
       ],
       "reason": null,
       "note": "Насеље: Барзиловица ( засеок Брајковачки пут ).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5e9b2a008d39",
@@ -130,7 +55,44 @@
       ],
       "reason": null,
       "note": "Насеље: Жупањац, Улица : Ибарски пут 420-531 ( од Протектирнице према Дому ), део улице Михаила Младеновића - Сеље, Колубарских ратника, засеок \" Лазаревићи \".",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "0454be64013e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-19",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насеље Латковић (засеок Јосиповићи",
+        "Кула)",
+        "Чибутковица",
+        "Жупањац."
+      ],
+      "reason": null,
+      "note": "Насеље Латковић (засеок Јосиповићи,Кула), Чибутковица,Жупањац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "6396309cd818",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-19",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Општина Љиг: насеље Белановица (насеље Качер-коп,Водовод,Дрењине)."
+      ],
+      "reason": null,
+      "note": "Општина Љиг: насеље Белановица (насеље Качер-коп,Водовод,Дрењине).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,133 +7,6 @@
   },
   "outages": [
     {
-      "id": "3f62115f8b88",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ У ВИКЕНД НАСЕЉУ",
-        "ФИРМА ЈУГОКОП И ЦРПНЕ СТАНИЦЕ"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ У ВИКЕНД НАСЕЉУ, ФИРМА ЈУГОКОП И ЦРПНЕ СТАНИЦЕ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "dfae6321666a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈЕ ПОЧЕТАК УЛ.ДР.АНДРЕ ЈОВАНОВИЋА НЕПАРНА СТРАНА (1",
-        "3",
-        "5)"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈЕ ПОЧЕТАК УЛ.ДР.АНДРЕ ЈОВАНОВИЋА НЕПАРНА СТРАНА (1, 3, 5)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "08e1230f759d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ ЗГРАДЕ У УЛ.ХИЛАНДАРСКА 1",
-        "КОСОВСКА 7",
-        "П.СМИЉАНИЋА20 И 22 И ДЕО УЛ.ВОЈВОДЕ МИШИЋА ОД ХИЛАНДАРСКЕ ДО П.СМИЉАНИЋА"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ ЗГРАДЕ У УЛ.ХИЛАНДАРСКА 1, КОСОВСКА 7, П.СМИЉАНИЋА20 И 22 И ДЕО УЛ.ВОЈВОДЕ МИШИЋА ОД ХИЛАНДАРСКЕ ДО П.СМИЉАНИЋА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e30392e552b2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ УЛИЦЕ У СЕЛУ МАОВИ",
-        "КРАЉА МИЛУТИНА И КАРАЂОРЂЕВА"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ УЛИЦЕ У СЕЛУ МАОВИ, КРАЉА МИЛУТИНА И КАРАЂОРЂЕВА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b98662db3d90",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "10:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "БЕЗ НАПАЈАЊА ОСТАЈЕ У СЕЛУ БОЈИЋ ЈАНКОВИЋА МАЛА"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПАЈАЊА ОСТАЈЕ У СЕЛУ БОЈИЋ ЈАНКОВИЋА МАЛА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ade8fb8c00e4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "11:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "БЕЗ НАПАЈАЊА ОСТАЈЕ У СЕЛУ МАОВИ УЛИЦЕ КРАЉА МИЛАНА И РАДНИЧКА"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПАЈАЊА ОСТАЈЕ У СЕЛУ МАОВИ УЛИЦЕ КРАЉА МИЛАНА И РАДНИЧКА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "36ec48df6228",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "12:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈЕ ПОЧЕТАК У.ДР.АНДРЕ ЈОВАНОВИЋА ПАРНА СТРАНА",
-        "ЗГРАДЕ У У.ЦАРА ДУШАНА 40 И КНЕЗА МИЛОША БР.1",
-        "3 И 5"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈЕ ПОЧЕТАК У.ДР.АНДРЕ ЈОВАНОВИЋА ПАРНА СТРАНА, ЗГРАДЕ У У.ЦАРА ДУШАНА 40 И КНЕЗА МИЛОША БР.1, 3 И 5",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "78c4199fd902",
       "utility": "electricity",
       "kind": "planned",
@@ -149,7 +22,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ У ВИКЕНД НАСЕЉУ, ФИРМА ЈУГОКОП И ЦРПНЕ СТАНИЦЕ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ea807eddcb8b",
@@ -166,7 +39,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ЋЕ БИТИ ВИКЕНД НАСЕЉЕ У ДОБРИЋУ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "56a5d47c0fc7",
@@ -185,7 +58,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ЋЕ БИТИ ПОЧЕТАК УЛ.КРАЉА ПЕТРА (БР.2-6, ТОПЛАНА И ДУНАВ ОСИГУРАЊЕ), КНЕЗА МИЛОША 4 И ДР.АНДРЕ ЈОВАНОВИЋА БР.8 И 10",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3cc990c38935",
@@ -202,7 +75,24 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ УЛ.ТРГ ЂАЧКОГ БАТАЉОНА И ДЕО ГОСПОДАР ЈЕВРЕМОВЕ (БР.20)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "717d651d69c9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-19",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "21:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈЕ САМО СТОП ШОП ТРЖНИ ЦЕНТАР."
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈЕ САМО СТОП ШОП ТРЖНИ ЦЕНТАР.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

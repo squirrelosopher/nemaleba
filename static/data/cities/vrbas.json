@@ -5,7 +5,31 @@
     "nameLatin": "Vrbas",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "8e1fc63935bf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-19",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "А.Пантовића 26-36",
+        "87",
+        "бб",
+        "С.Шупљикца 2-24",
+        "Задругарска бб",
+        "П.Драпшина 1",
+        "Виноградска коса бб."
+      ],
+      "reason": null,
+      "note": "А.Пантовића 26-36, 87, бб, С.Шупљикца 2-24, Задругарска бб, П.Драпшина 1, Виноградска коса бб.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-17",

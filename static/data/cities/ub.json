@@ -5,25 +5,7 @@
     "nameLatin": "Ub",
     "branchCyrillic": "Ваљево"
   },
-  "outages": [
-    {
-      "id": "40999527e821",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Уб",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Купци дела села Бањани (лукићи)"
-      ],
-      "reason": null,
-      "note": "Купци дела села Бањани (лукићи)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-24",

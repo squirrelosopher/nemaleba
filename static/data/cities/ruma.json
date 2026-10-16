@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "37ccdef09ae9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Рума",
-      "time": {
-        "start": "08:30",
-        "end": "12:00"
-      },
-      "streets": [
-        "Никинци: Лењинова 13-71."
-      ],
-      "reason": null,
-      "note": "Никинци: Лењинова 13-71.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "260e6fadda86",
       "utility": "water",
       "kind": "planned",
@@ -53,7 +36,7 @@
       ],
       "reason": null,
       "note": "Рума: Зграде Орловићева 1, 3 и 5; Зграде у В.Дугошевића 167-175; Зграде у 15.Маја 130-142.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

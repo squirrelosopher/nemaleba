@@ -21,7 +21,24 @@
       ],
       "reason": null,
       "note": "зграда Месне заједнице Голубац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "2b7314f8330b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-19",
+      "areaLabel": "Голубац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Трафо област ''Голубац 2'': Цара Душана, Дунавски кеј 2,3,4, Кнез Михајлова 5, 12-16, Синђелићева, Светозара Марковића, Војислава Илића, Вука Караџића, Занатска"
+      ],
+      "reason": null,
+      "note": "Трафо област ''Голубац 2'': Цара Душана, Дунавски кеј 2,3,4, Кнез Михајлова 5, 12-16, Синђелићева, Светозара Марковића, Војислава Илића, Вука Караџића, Занатска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

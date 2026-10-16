@@ -7,96 +7,6 @@
   },
   "outages": [
     {
-      "id": "3b4ad8f80ed9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље ка Сирчанској Бањи и Којићи."
-      ],
-      "reason": null,
-      "note": "Насеље ка Сирчанској Бањи и Којићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "abf77b5c98db",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Гуњићка мала."
-      ],
-      "reason": null,
-      "note": "Гуњићка мала.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "0e72a590acb8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Део потрошача поред магистрале и ка Железничкој станици."
-      ],
-      "reason": null,
-      "note": "Део потрошача поред магистрале и ка Железничкој станици.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "581ce1c024b9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:30",
-        "end": "17:30"
-      },
-      "streets": [
-        "Врело",
-        "Гредица",
-        "Перишићи",
-        "Радојичићи Лукићи",
-        "Трнава Стапарска",
-        "Јевтићи и Ж.Станица Стапари."
-      ],
-      "reason": null,
-      "note": "Врело,Гредица,Перишићи,Радојичићи Лукићи, Трнава Стапарска, Јевтићи и Ж.Станица Стапари.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "78420e2c3aab",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Насеље ка Катрги и ка Школи."
-      ],
-      "reason": null,
-      "note": "Насеље ка Катрги и ка Школи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8a1126289a2c",
       "utility": "electricity",
       "kind": "planned",
@@ -111,7 +21,7 @@
       ],
       "reason": null,
       "note": "У Буковици центар.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b7bf3da69d9b",
@@ -128,7 +38,7 @@
       ],
       "reason": null,
       "note": "У Сирчи Којићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3c62e87e34b0",
@@ -145,7 +55,7 @@
       ],
       "reason": null,
       "note": "У Борачком насељу.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

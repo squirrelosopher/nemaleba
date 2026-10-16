@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "aa0f9f4ccbd4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Алибунар",
-      "time": {
-        "start": "09:30",
-        "end": "10:00"
-      },
-      "streets": [
-        "Владимировац: Братства Јединства, Баштенска, колонија и Девојачки Бунар."
-      ],
-      "reason": null,
-      "note": "Владимировац: Братства Јединства, Баштенска, колонија и Девојачки Бунар.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "eb30888c5afd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Алибунар",
-      "time": {
-        "start": "10:15",
-        "end": "10:45"
-      },
-      "streets": [
-        "Владимировац: Цело насеље осим Б.Јединства, Баштенске и колоније."
-      ],
-      "reason": null,
-      "note": "Владимировац: Цело насеље осим Б.Јединства, Баштенске и колоније.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e070044166fa",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Јаношик и Локве: цела насеља.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3cf01783b350",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Јерменовци и Барице: цела насеља",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

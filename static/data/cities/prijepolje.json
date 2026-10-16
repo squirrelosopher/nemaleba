@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "28a6bb8c2190",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Пријепоље",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеље око ТС Пјескуша-Велика Жупа"
-      ],
-      "reason": null,
-      "note": "Насеље око ТС Пјескуша-Велика Жупа",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "959c910f70c4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Пријепоље",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Насеље око ТС Задружни дом-Велика Жупа",
-        "село Старо"
-      ],
-      "reason": null,
-      "note": "Насеље око ТС Задружни дом-Велика Жупа, село Старо",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "5cecd8e81d79",
       "utility": "electricity",
       "kind": "planned",
@@ -70,7 +35,7 @@
       ],
       "reason": null,
       "note": "Пријепоље центар, Хашимбеговића Поље, Шеховића Поље, Залуг, Шарампов, Луке, Бостани, Сељашница, део Коловрата (Аџина Њива...), Каменогорско насеље, подручје Аљиновића, Косатице, Толаца, Јабуке, Бабина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

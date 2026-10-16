@@ -5,25 +5,7 @@
     "nameLatin": "Novi Beograd",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "c582f505c6a8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "БУЛЕВАР ЗОРАНА ЂИНЂИЋА : 152-152А, СТУДЕНТСКА: 2-14"
-      ],
-      "reason": null,
-      "note": "БУЛЕВАР ЗОРАНА ЂИНЂИЋА : 152-152А, СТУДЕНТСКА: 2-14,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-17",

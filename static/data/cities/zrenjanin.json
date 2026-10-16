@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "f2c7c3e060a3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Зрењанин",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Арадац: део Масарикове (од Маршала Тита до Јанка Чмелика), део Јанка Чмелика (од Масарикове до Виноградске), део Виноградске, део Вука Караџића (од Масарикове до Танаска Рајића), део Танаска Рајића (од Вука Караџића до Капетана Налепке)."
-      ],
-      "reason": null,
-      "note": "Арадац: део Масарикове (од Маршала Тита до Јанка Чмелика), део Јанка Чмелика (од Масарикове до Виноградске), део Виноградске, део Вука Караџића (од Масарикове до Танаска Рајића), део Танаска Рајића (од Вука Караџића до Капетана Налепке).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d9108c55eb25",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Лукићево: део Чичине улице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4e696b6673d3",
@@ -55,7 +38,41 @@
       ],
       "reason": null,
       "note": "Зрењанин: део Војводе Петра Бојовића (од Саве Текелије до Бегејског реда), део Ђуре Јакшића (од Војводе Петра Бојовића до Др Корнела Радуловића), део Др Корнела Радуловића (од Ђуре Јакшића до Бегејског реда), Царице Милице (од Војводе Петра Бојовића према Бегеју), део Саве Текелије (од Војводе Петра Бојовића до Тоше Јовановића).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "f06229518abb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-19",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "Зрењанин: Меленачки друм, Жарка Зрењанина (од Зеленгорске према Меленцима), део Воје Танкосића (од Жарка Зрењанина до Меленачке улице), Кочина, део Милоша Црњанског."
+      ],
+      "reason": null,
+      "note": "Зрењанин: Меленачки друм, Жарка Зрењанина (од Зеленгорске према Меленцима), део Воје Танкосића (од Жарка Зрењанина до Меленачке улице), Кочина, део Милоша Црњанског.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "f69507218e7e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-19",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Зрењанин: део Тоше Јовановића (од Коче Колара до Николе Пашића)."
+      ],
+      "reason": null,
+      "note": "Зрењанин: део Тоше Јовановића (од Коче Колара до Николе Пашића).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

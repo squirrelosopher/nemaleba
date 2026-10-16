@@ -7,25 +7,6 @@
   },
   "outages": [
     {
-      "id": "c12e6ce326a9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Мионица",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Купци села Г.Лајковац",
-        "Струганик",
-        "Планиница"
-      ],
-      "reason": null,
-      "note": "Купци села Г.Лајковац , Струганик, Планиница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a0d4808a29d6",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +22,7 @@
       ],
       "reason": null,
       "note": "Купци села Крчмара, и део села Буковца",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,26 +7,6 @@
   },
   "outages": [
     {
-      "id": "41b4eef1e66a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "ул. Гаје Чупића",
-        "Прилепска",
-        "Скопљанска",
-        "Суботичка"
-      ],
-      "reason": null,
-      "note": "ул. Гаје Чупића, Прилепска, Скопљанска, Суботичка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c10f6bd2b242",
       "utility": "electricity",
       "kind": "planned",
@@ -42,7 +22,7 @@
       ],
       "reason": null,
       "note": "ул. Вучачка са попречним улицама, Карађорђева са попречним улицама (улаз у Вучак и прилаз Вучаку од Царине)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

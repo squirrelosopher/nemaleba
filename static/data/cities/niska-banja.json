@@ -7,25 +7,6 @@
   },
   "outages": [
     {
-      "id": "94934cc616d3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Нишка бања",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Банцарево",
-        "Чукљеник",
-        "Горња и Доња Студена и Бојанине воде;"
-      ],
-      "reason": null,
-      "note": "Банцарево, Чукљеник, Горња и Доња Студена и Бојанине воде;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "3eada32c0c8c",
       "utility": "electricity",
       "kind": "planned",
@@ -40,7 +21,7 @@
       ],
       "reason": null,
       "note": "делови Бојаниних вода;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
