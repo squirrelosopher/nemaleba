@@ -192,6 +192,23 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Блок 8 у Петроварадину.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-15-10-2026/"
+    },
+    {
+      "id": "67b4e9a3dc9c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-16",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица Милана Симовића"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Милана Симовића.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-16-10-2026/"
     }
   ],
   "history": [
@@ -343,7 +360,7 @@
     {
       "date": "2026-10-16",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
