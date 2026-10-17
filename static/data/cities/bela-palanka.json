@@ -5,44 +5,7 @@
     "nameLatin": "Bela Palanka",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "faceddd472a7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Бела Паланка",
-      "time": {
-        "start": "07:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "део села Клисура."
-      ],
-      "reason": null,
-      "note": "део села Клисура.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "870c44577151",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Бела Паланка",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Чајаков Луг",
-        "Расадник",
-        "Белеш."
-      ],
-      "reason": null,
-      "note": "Чајаков Луг,Расадник,Белеш.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-18",

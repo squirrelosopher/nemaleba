@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "9b2300307545",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Кикинда",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Башаид: Бранислава Нушића од Раде Микалачког до Змај Јовине, Змај Јовина од Бранислава Нушића до Јове Јуришина."
-      ],
-      "reason": null,
-      "note": "Башаид: Бранислава Нушића од Раде Микалачког до Змај Јовине, Змај Јовина од Бранислава Нушића до Јове Јуришина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "3d2e85821e92",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Кикинда",
-      "time": {
-        "start": "09:00",
-        "end": "11:30"
-      },
-      "streets": [
-        "Кикинда: Карађорђева од Стевана Сремца до Пере Сегединца парна страна."
-      ],
-      "reason": null,
-      "note": "Кикинда: Карађорђева од Стевана Сремца до Пере Сегединца парна страна.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8f3fbe72c256",
       "utility": "electricity",
       "kind": "planned",
@@ -55,13 +21,30 @@
       ],
       "reason": null,
       "note": "Кикинда: Банатска, Водице, Пут за пристаниште.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9808d6d83f1a",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-19",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Банатско Велико Село: Николе Тесле од Босанске до Стојана Матића, Стојана Матића од Симе Шолаје до Николе Тесле."
+      ],
+      "reason": null,
+      "note": "Банатско Велико Село: Николе Тесле од Босанске до Стојана Матића, Стојана Матића од Симе Шолаје до Николе Тесле.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "1fb63cc4624c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
       "areaLabel": "Кикинда",
       "time": {
         "start": "08:00",

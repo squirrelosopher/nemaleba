@@ -5,25 +5,7 @@
     "nameLatin": "Irig",
     "branchCyrillic": "Рума"
   },
-  "outages": [
-    {
-      "id": "48aff3661351",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Ириг",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Комплетно насељено место Велика Ремета."
-      ],
-      "reason": null,
-      "note": "Комплетно насељено место Велика Ремета.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-18",

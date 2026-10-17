@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "9c4e920bdb7b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Мерошина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Баличевац"
-      ],
-      "reason": null,
-      "note": "Баличевац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "030bce22ec4e",
       "utility": "electricity",
       "kind": "planned",
@@ -38,6 +21,40 @@
       ],
       "reason": null,
       "note": "Мали Јастребац и Јасенове воде",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "3fdd1b0b3d18",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Мали Јастребац и Јасенове воде"
+      ],
+      "reason": null,
+      "note": "Мали Јастребац и Јасенове воде",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "b761911036da",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Чубура"
+      ],
+      "reason": null,
+      "note": "Чубура",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "e3c252a5aef2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Стари Сланкамен: Део викенд зоне Почента 1 у Старом Сланкамену."
-      ],
-      "reason": null,
-      "note": "Стари Сланкамен: Део викенд зоне Почента 1 у Старом Сланкамену.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8ae932519920",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Нови Карловци: Део Главне око бр. 3.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "3d26f6324895",
@@ -55,6 +38,40 @@
       ],
       "reason": null,
       "note": "Гладнош: део Викенд зоне Б.Брег 1.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "56b7b15b9d13",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "09:00",
+        "end": "10:30"
+      },
+      "streets": [
+        "Чортановци: Т.Јовића од бр 1/2 до Железничке."
+      ],
+      "reason": null,
+      "note": "Чортановци: Т.Јовића од бр 1/2 до Железничке.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "72887811362b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "10:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Крчедин: Викенд зона Ада 2 ул.Банатска."
+      ],
+      "reason": null,
+      "note": "Крчедин: Викенд зона Ада 2 ул.Банатска.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

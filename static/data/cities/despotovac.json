@@ -5,7 +5,28 @@
     "nameLatin": "Despotovac",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "a009eab90999",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Деспотовац",
+      "time": {
+        "start": "08:00",
+        "end": "14:30"
+      },
+      "streets": [
+        "Викенд насеље Падалиште",
+        "Циглана Деспотовац",
+        "Фирма Ројал-Комерц",
+        "Бетоњерка Генга и село Бељајка."
+      ],
+      "reason": null,
+      "note": "Викенд насеље Падалиште,Циглана Деспотовац,Фирма Ројал-Комерц,Бетоњерка Генга и село Бељајка.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-18",

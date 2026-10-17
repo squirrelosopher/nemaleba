@@ -770,26 +770,6 @@
       "note": "Хаваријска искључења на дан 16.10.2026. \n \n Ердоглија, ул. Даничићева ( од 08:00 до 11:00 часова ), поправка уличне линије."
     },
     {
-      "id": "36dc22830645",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Нови Милановац - Дом",
-        "Брадићи",
-        "Цветојевац - Јовановићи",
-        "Петровац - Викенд насеље"
-      ],
-      "reason": null,
-      "note": "Нови Милановац - Дом, Брадићи, Цветојевац - Јовановићи, Петровац - Викенд насеље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c1bc1c799db4",
       "utility": "water",
       "kind": "emergency",

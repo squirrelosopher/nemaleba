@@ -5,25 +5,7 @@
     "nameLatin": "Senta",
     "branchCyrillic": "Суботица"
   },
-  "outages": [
-    {
-      "id": "2e5ed3284d60",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Сента",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Кеви: 5 реон - саласи"
-      ],
-      "reason": null,
-      "note": "Кеви: 5 реон - саласи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-18",

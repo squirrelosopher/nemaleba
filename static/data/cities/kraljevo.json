@@ -5,59 +5,7 @@
     "nameLatin": "Kraljevo",
     "branchCyrillic": "Краљево"
   },
-  "outages": [
-    {
-      "id": "8a1126289a2c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "У Буковици центар."
-      ],
-      "reason": null,
-      "note": "У Буковици центар.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b7bf3da69d9b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "У Сирчи Којићи."
-      ],
-      "reason": null,
-      "note": "У Сирчи Којићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "3c62e87e34b0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "У Борачком насељу."
-      ],
-      "reason": null,
-      "note": "У Борачком насељу.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-18",

@@ -7,25 +7,6 @@
   },
   "outages": [
     {
-      "id": "5a96ff018daf",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Осечина",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Купци села Комирић",
-        "Белотић",
-        "Плужац"
-      ],
-      "reason": null,
-      "note": "Купци села Комирић,Белотић,Плужац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "6415bbacb29c",
       "utility": "electricity",
       "kind": "planned",
@@ -43,7 +24,7 @@
       ],
       "reason": null,
       "note": "Купци села Бодуша ,Коњуша,Г.Црниљево,и део села Плужац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

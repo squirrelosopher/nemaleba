@@ -131,7 +131,7 @@
       ],
       "reason": null,
       "note": "Панчево:Јабучки пут од Летње ка Јабуци до кружног тока са свим попречним улицама и просецима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "f197dc073d79",
@@ -148,7 +148,24 @@
       ],
       "reason": null,
       "note": "Панчево: Јабучки пут од Летње ка Јабуци до кружног тока са свим попречним улицама и просецима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c444d29ad7fa",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "08:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Панчево: С.Милетића од Д.Туцовића до Карађорђеве, Б.Радичевића од С.Милетића до М.Пијаде, Карађорђева од Б.Јовановића до Св.Милетића и зграде у Б.Јовановића 29А и 31А."
+      ],
+      "reason": null,
+      "note": "Панчево: С.Милетића од Д.Туцовића до Карађорђеве, Б.Радичевића од С.Милетића до М.Пијаде, Карађорђева од Б.Јовановића до Св.Милетића и зграде у Б.Јовановића 29А и 31А.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

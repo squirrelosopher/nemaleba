@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "d93e95a2bd55",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део Вукање"
-      ],
-      "reason": null,
-      "note": "Део Вукање",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8b95dbac1bd7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Житковачки Пут - Индустриска зона"
-      ],
-      "reason": null,
-      "note": "Житковачки Пут - Индустриска зона",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "6812740d2f70",
       "utility": "electricity",
       "kind": "planned",
@@ -56,7 +22,7 @@
       ],
       "reason": null,
       "note": "Део Тешице , улаз из Лужана",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "a7738f9df457",
@@ -74,7 +40,7 @@
       ],
       "reason": null,
       "note": "Село Језеро, општина Соко Бања",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

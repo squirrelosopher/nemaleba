@@ -7,62 +7,6 @@
   },
   "outages": [
     {
-      "id": "f01cef903f84",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "08:30",
-        "end": "12:00"
-      },
-      "streets": [
-        "делови Боривоја Стевановића (46",
-        "бб)",
-        "Воривоја Стевановића први прилаз (1",
-        "25",
-        "бб)",
-        "Пролећна (1);"
-      ],
-      "reason": null,
-      "note": "делови Боривоја Стевановића (46,бб), Воривоја Стевановића први прилаз (1,25,бб), Пролећна (1);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8785eefc3662",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "део Кнез Села;"
-      ],
-      "reason": null,
-      "note": "део Кнез Села;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "7d0a43e98abe",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "13:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део Доњег Матејевца;"
-      ],
-      "reason": null,
-      "note": "део Доњег Матејевца;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "6c0ecb2a4a7b",
       "utility": "water",
       "kind": "planned",
@@ -92,7 +36,7 @@
       ],
       "reason": null,
       "note": "део Стружишта;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "99a247d8f213",
@@ -112,7 +56,7 @@
       ],
       "reason": null,
       "note": "делови Борске, Ђуре Ђаковића, Крфске, Горњоматејевачке;\r\n;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "d6933914e1f0",
@@ -131,6 +75,23 @@
       ],
       "reason": null,
       "note": "делови Раданске (парни бр. 2-10), Књажевачке (103,103б);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "8e49f70c3fe4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "део Булевара Медијане;"
+      ],
+      "reason": null,
+      "note": "део Булевара Медијане;",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],

@@ -5,26 +5,7 @@
     "nameLatin": "Smederevo",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [
-    {
-      "id": "c10f6bd2b242",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "ул. Вучачка са попречним улицама",
-        "Карађорђева са попречним улицама (улаз у Вучак и прилаз Вучаку од Царине)"
-      ],
-      "reason": null,
-      "note": "ул. Вучачка са попречним улицама, Карађорђева са попречним улицама (улаз у Вучак и прилаз Вучаку од Царине)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-18",

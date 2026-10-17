@@ -7,74 +7,6 @@
   },
   "outages": [
     {
-      "id": "fad48cbe5009",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Трнови Лаз."
-      ],
-      "reason": null,
-      "note": "Трнови Лаз.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "eadc0b5bf1df",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Цара Душана и Хајдук Вељкова"
-      ],
-      "reason": null,
-      "note": "Цара Душана и Хајдук Вељкова",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "648e6980a610",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "10:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "Хорватовићева"
-      ],
-      "reason": null,
-      "note": "Хорватовићева",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "016930c52b07",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "13:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Расинска"
-      ],
-      "reason": null,
-      "note": "Расинска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "aeb24193aa88",
       "utility": "electricity",
       "kind": "planned",
@@ -89,7 +21,7 @@
       ],
       "reason": null,
       "note": "Доња Топоница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "17986a35547a",
@@ -106,7 +38,7 @@
       ],
       "reason": null,
       "note": "Трнови Лаз.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "4882ff726b3e",
@@ -123,6 +55,43 @@
       ],
       "reason": null,
       "note": "Таковска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "305534582848",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Стефана Немање"
+      ],
+      "reason": null,
+      "note": "Стефана Немање",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "18517dc227a6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Ђушница",
+        "Пискаљ",
+        "Грабовац",
+        "Дрењак и Трнови Лаз."
+      ],
+      "reason": null,
+      "note": "Ђушница,Пискаљ,Грабовац,Дрењак и Трнови Лаз.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],

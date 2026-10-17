@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеља: Бурмази, Драксин, Кокошица, Пантелићи, Чолићи, Мала",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "3c1208bc4503",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "Насеља: Перућац поље, Симићи, Ђокићи, Љубош, Бесеровина до постројења",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "e3d9f5ec6282",
@@ -55,13 +55,47 @@
       ],
       "reason": null,
       "note": "Насеља: Меовача, Шарампов, Мијановићи, Чучковићи, део Раче",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "c709f2b93431",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-19",
+      "areaLabel": "Бајина Башта",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеља: Шљивовица на Тари"
+      ],
+      "reason": null,
+      "note": "Насеља: Шљивовица на Тари",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "941d56341f22",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Бајина Башта",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеља: Бушино - Потрошачи на НН изводу за Баштовановиће"
+      ],
+      "reason": null,
+      "note": "Насеља: Бушино - Потрошачи на НН изводу за Баштовановиће",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "aedea979315d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
       "areaLabel": "Бајина Башта",
       "time": {
         "start": "09:00",

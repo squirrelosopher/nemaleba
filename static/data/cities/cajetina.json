@@ -7,26 +7,6 @@
   },
   "outages": [
     {
-      "id": "688485dd71fa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Чајетина",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Говеђача",
-        "Бјеличићи",
-        "Стаматовићи",
-        "Мала"
-      ],
-      "reason": null,
-      "note": "Говеђача, Бјеличићи, Стаматовићи, Мала",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "4aaf611765b5",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +21,7 @@
       ],
       "reason": null,
       "note": "Златиборац д.о.о.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "4c272331a5c9",
@@ -58,6 +38,41 @@
       ],
       "reason": null,
       "note": "ДВ 10kV Кобиља глава - Реконструкција деонице ДВ 10kV",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "69ba74756c00",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Ђуровић гробље",
+        "Јабланица"
+      ],
+      "reason": null,
+      "note": "Ђуровић гробље, Јабланица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "50e55e75e99a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Део насеља Титова Вила"
+      ],
+      "reason": null,
+      "note": "Део насеља Титова Вила",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],

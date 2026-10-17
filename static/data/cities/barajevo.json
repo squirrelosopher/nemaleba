@@ -5,25 +5,7 @@
     "nameLatin": "Barajevo",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "8a12ce9ae0f9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Барајево",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеље МАНИЋ: КОСМАЈСКА: 57"
-      ],
-      "reason": null,
-      "note": "Насеље МАНИЋ: КОСМАЈСКА: 57,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-18",

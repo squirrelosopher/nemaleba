@@ -5,33 +5,7 @@
     "nameLatin": "Veliko Gradište",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [
-    {
-      "id": "7b86b3f2beab",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Велико Градиште",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Кумане",
-        "Тополовник",
-        "Кисиљево",
-        "Поповац",
-        "део Калиновца",
-        "Бискупље",
-        "Ђураково и Поповац",
-        "пећуркана Дуле",
-        "Тресетиште"
-      ],
-      "reason": null,
-      "note": "Кумане, Тополовник, Кисиљево, Поповац, део Калиновца, Бискупље, Ђураково и Поповац, пећуркана Дуле, Тресетиште",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-18",

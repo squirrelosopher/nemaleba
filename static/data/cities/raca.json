@@ -5,7 +5,25 @@
     "nameLatin": "Rača",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "c59cd53255a0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Рача",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Бошњане -Ненадићи"
+      ],
+      "reason": null,
+      "note": "Бошњане -Ненадићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-18",

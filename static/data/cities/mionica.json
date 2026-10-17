@@ -5,26 +5,7 @@
     "nameLatin": "Mionica",
     "branchCyrillic": "Ваљево"
   },
-  "outages": [
-    {
-      "id": "a0d4808a29d6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Мионица",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Купци села Крчмара",
-        "и део села Буковца"
-      ],
-      "reason": null,
-      "note": "Купци села Крчмара, и део села Буковца",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-18",

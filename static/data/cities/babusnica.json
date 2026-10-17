@@ -5,43 +5,7 @@
     "nameLatin": "Babušnica",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "2e54e22564fc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "део села Грнчар",
-        "Радосин."
-      ],
-      "reason": null,
-      "note": "део села Грнчар,Радосин.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e7a84f6f91fc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "10:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Трнски Одоровци Костол."
-      ],
-      "reason": null,
-      "note": "Трнски Одоровци Костол.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-18",

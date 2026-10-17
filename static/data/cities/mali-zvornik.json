@@ -7,21 +7,21 @@
   },
   "outages": [
     {
-      "id": "66f42cb68c6f",
+      "id": "6a26b3b48f80",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-16",
+      "date": "2026-10-20",
       "areaLabel": "Мали Зворник",
       "time": {
         "start": "08:00",
         "end": "16:00"
       },
       "streets": [
-        "Будишић и Горњи Будишић"
+        "Цулине"
       ],
       "reason": null,
-      "note": "Будишић и Горњи Будишић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "Цулине",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

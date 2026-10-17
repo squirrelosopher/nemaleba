@@ -5,31 +5,7 @@
     "nameLatin": "Knjaževac",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "c434cce95300",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Књажевац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Горње Поље у Кални",
-        "Стара Кална",
-        "Белевица",
-        "Коренатац",
-        "Габровница",
-        "Папратна и Причевац",
-        "Предајници Мобилних оператера и Емисионе Технике на брду Габровница."
-      ],
-      "reason": null,
-      "note": "Горње Поље у Кални, Стара Кална, Белевица, Коренатац, Габровница, Папратна и Причевац, Предајници Мобилних оператера и Емисионе Технике на брду Габровница.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-18",

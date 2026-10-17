@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "2d287273a544",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део села Ратаре"
-      ],
-      "reason": null,
-      "note": "Део села Ратаре",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a37fc8c45b01",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Лидл"
-      ],
-      "reason": null,
-      "note": "Лидл",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "87c1c55c50b2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део села Мириловац и део села Лебина"
-      ],
-      "reason": null,
-      "note": "Део села Мириловац и део села Лебина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b5c0f329a564",
       "utility": "electricity",
       "kind": "planned",
@@ -73,6 +22,75 @@
       ],
       "reason": null,
       "note": "Карађорђев венац, део Теслине",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "d8b2499fb81b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Карађорђев венац",
+        "део Теслине"
+      ],
+      "reason": null,
+      "note": "Карађорђев венац, део Теслине",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "9ca1e6a25314",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Део села Сикирица"
+      ],
+      "reason": null,
+      "note": "Део села Сикирица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "2aa33d17bae5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део села Поповац ка Забрези"
+      ],
+      "reason": null,
+      "note": "Део села Поповац ка Забрези",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "9042f8332802",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Део села Чепуре"
+      ],
+      "reason": null,
+      "note": "Део села Чепуре",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],

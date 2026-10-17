@@ -5,26 +5,7 @@
     "nameLatin": "Aleksandrovac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [
-    {
-      "id": "9503e01a1397",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-16",
-      "areaLabel": "Александровац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Насељено место Капиџија",
-        "Прештип део Паруновца и Гаглова."
-      ],
-      "reason": null,
-      "note": "Насељено место Капиџија,Прештип део Паруновца и Гаглова.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-18",

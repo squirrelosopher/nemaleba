@@ -5,7 +5,25 @@
     "nameLatin": "Apatin",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "144d1e37c243",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Апатин",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Апатин, Викенд Насеља: Пчела, Буџак, Вагони, Харчаш И Кучка."
+      ],
+      "reason": null,
+      "note": "Апатин, Викенд Насеља: Пчела, Буџак, Вагони, Харчаш И Кучка.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-18",
