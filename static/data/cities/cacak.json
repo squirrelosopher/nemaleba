@@ -5,42 +5,7 @@
     "nameLatin": "Čačak",
     "branchCyrillic": "Чачак"
   },
-  "outages": [
-    {
-      "id": "715af6c2cd03",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-17",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Потрошачи у Катрзи."
-      ],
-      "reason": null,
-      "note": "Потрошачи у Катрзи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "4501327b2eea",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-17",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Потрошачи у Прељини који се напајају са ТС Меридијан Фриго."
-      ],
-      "reason": null,
-      "note": "Потрошачи у Прељини који се напајају са ТС Меридијан Фриго.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-19",

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "5d1240e4061f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-17",
-      "areaLabel": "Кладово",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Засеоци Пропазешће и Велики Пепео"
-      ],
-      "reason": null,
-      "note": "Засеоци Пропазешће и Велики Пепео",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f9e59ee4beab",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Засеоци Пропазешће и Велики Пепео",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ab035228fb67",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Насеља: Стара Брза и Купузиште са припадајућим викенд насељима.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

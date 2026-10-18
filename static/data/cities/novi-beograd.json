@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "СУРЧИНСКА: ББ,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "aeac835bbd88",
@@ -38,6 +38,23 @@
       ],
       "reason": null,
       "note": "ПАЛМИРА ТОЉАТИЈА: 44-60,9а-11,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ee707332674f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-21",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "10:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "АУТОПУТ БГ-ШИД: 69А,73-73а"
+      ],
+      "reason": null,
+      "note": "АУТОПУТ БГ-ШИД: 69А,73-73а,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
