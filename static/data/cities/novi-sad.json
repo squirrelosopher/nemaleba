@@ -298,6 +298,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "1fd903b6c3b8",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-19",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Булевар патријарха Павла, од Сомборске улице до Футошког пута"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Булевар патријарха Павла, од Сомборске улице до Футошког пута.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-19-10-2026/"
+    },
+    {
       "id": "fa9e08e146d4",
       "utility": "water",
       "kind": "emergency",
@@ -464,7 +481,7 @@
     {
       "date": "2026-10-19",
       "electricityOutages": 5,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
