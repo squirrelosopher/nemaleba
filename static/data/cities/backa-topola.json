@@ -5,7 +5,25 @@
     "nameLatin": "Bačka Topola",
     "branchCyrillic": "Суботица"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "c9ba2a0746f8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-21",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Зобнатица: Нова улица"
+      ],
+      "reason": null,
+      "note": "Зобнатица: Нова улица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-20",

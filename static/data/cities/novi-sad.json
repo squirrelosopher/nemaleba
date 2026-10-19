@@ -315,6 +315,68 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-19-10-2026/"
     },
     {
+      "id": "205f970873a6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "07:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Родољуба Чолаковића парна страна 10-16",
+        "Стојана Новаковића 23-33 и 4-8",
+        "Ђорђа Никшића Јохана 7",
+        "9",
+        "11",
+        "13",
+        "15",
+        "17",
+        "23",
+        "25",
+        "27 и 26-30",
+        "Милана Јешића Ибре 1 и 3."
+      ],
+      "reason": null,
+      "note": "Родољуба Чолаковића парна страна 10-16, Стојана Новаковића 23-33 и 4-8, Ђорђа Никшића Јохана 7, 9, 11, 13, 15, 17, 23, 25, 27 и 26-30, Милана Јешића Ибре 1 и 3.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "907032e69cf6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "Народног Фронта 57 и 59."
+      ],
+      "reason": null,
+      "note": "Народног Фронта 57 и 59.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "8a781337fe16",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Ченеј: Кузмановића салаши, Раскршће, Ресторан Фамилија."
+      ],
+      "reason": null,
+      "note": "Ченеј: Кузмановића салаши, Раскршће, Ресторан Фамилија.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "fa9e08e146d4",
       "utility": "water",
       "kind": "emergency",
@@ -330,6 +392,121 @@
       "reason": null,
       "note": "Због планираних радова на водоводној мрежи без воде ће од 8 до 12 сати бити Улица Славка Родића у Сремској Каменици.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-utorak-20-10-2026/"
+    },
+    {
+      "id": "5587a3458cb2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Рибњак: Каменички пут 2 – 12 Б, Средњи пут 1 – 21 А, 2 – 22."
+      ],
+      "reason": null,
+      "note": "Рибњак: Каменички пут 2 – 12 Б, Средњи пут 1 – 21 А, 2 – 22.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e22733e5c949",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Сентандрејски пут 12 – 44",
+        "Шајкашка 17 Б – 37",
+        "42 – 52",
+        "Ужичка",
+        "Граничарска",
+        "Ђорђа Зличића 50 – 54",
+        "51 – 53 А",
+        "СУП Шајкашка",
+        "Средља школа Павле Савић",
+        "МЗ Салајка",
+        "Спортски центар Славија",
+        "Универ 021",
+        "Бентинска пумпа на Сентандрејском путу са десне стране",
+        "Семафор на углу Сентандрејског пута и Теодора Мандића."
+      ],
+      "reason": null,
+      "note": "Сентандрејски пут 12 – 44, Шајкашка 17 Б – 37, 42 – 52, Ужичка, Граничарска, Ђорђа Зличића 50 – 54, 51 – 53 А, СУП Шајкашка, Средља школа Павле Савић, МЗ Салајка, Спортски центар Славија, Универ 021, Бентинска пумпа на Сентандрејском путу са десне стране, Семафор на углу Сентандрејског пута и Теодора Мандића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "23e833f47457",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Ветерник: Новосадски пут 2 – 12 А, Иве Лоле Рибара, Книнска, Дом за децу, Геронтолошки центар, Црква, Домино, Термоелектро."
+      ],
+      "reason": null,
+      "note": "Ветерник: Новосадски пут 2 – 12 А, Иве Лоле Рибара, Книнска, Дом за децу, Геронтолошки центар, Црква, Домино, Термоелектро.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "0923de26f6bd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Футог: Део села од Новосадске до Цара Лазара и од Жарка Зрењанина до Дунава, ОШ Мирослав Антић, Кестен."
+      ],
+      "reason": null,
+      "note": "Футог: Део села од Новосадске до Цара Лазара и од Жарка Зрењанина до Дунава, ОШ Мирослав Антић, Кестен.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "3f362515a5e0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:00",
+        "end": "10:30"
+      },
+      "streets": [
+        "Будисава: Од центра према Шајкашу до скретања за Ковиљ, Конпро, Саинт Гобаин, Водовод, Алтом."
+      ],
+      "reason": null,
+      "note": "Будисава: Од центра према Шајкашу до скретања за Ковиљ, Конпро, Саинт Гобаин, Водовод, Алтом.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f13bd1033a4c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "\"\r\nОСНОВНА ШКОЛА ЂОРЂЕ НАТОШЕВИЋ\""
+      ],
+      "reason": null,
+      "note": "\"\r\nОСНОВНА ШКОЛА ЂОРЂЕ НАТОШЕВИЋ\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,7 +5,25 @@
     "nameLatin": "Dimitrovgrad",
     "branchCyrillic": "Пирот"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "5d0d5985d988",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Димитровград",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Горње Градиње."
+      ],
+      "reason": null,
+      "note": "Горње Градиње.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-20",

@@ -5,7 +5,61 @@
     "nameLatin": "Pirot",
     "branchCyrillic": "Пирот"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "608a84260eba",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Рагодеш",
+        "Крушевица",
+        "Американац."
+      ],
+      "reason": null,
+      "note": "Рагодеш,Крушевица,Американац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "8fc6de73e48d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Паклештица."
+      ],
+      "reason": null,
+      "note": "Паклештица.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "0fad44344ecb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Копривштица."
+      ],
+      "reason": null,
+      "note": "Копривштица.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-20",

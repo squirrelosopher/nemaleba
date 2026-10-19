@@ -5,7 +5,80 @@
     "nameLatin": "Novi Pazar",
     "branchCyrillic": "Нови Пазар"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "44d7b65885b1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Нови Пазар",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Беле воде",
+        "Јанча",
+        "Буче",
+        "Кошково",
+        "Мухово",
+        "Граб",
+        "Крће",
+        "Горње беле воде"
+      ],
+      "reason": null,
+      "note": "Беле воде, Јанча, Буче, Кошково, Мухово, Граб, Крће, Горње беле воде",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a601f1d08ee8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-21",
+      "areaLabel": "Нови Пазар",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Трнава",
+        "Чадориште",
+        "Брђани",
+        "Нетврђе",
+        "Рајетиће",
+        "Баре",
+        "Јавор",
+        "Гранични прелаз Кашаљ",
+        "Смилов лаз",
+        "Златаре",
+        "Војковиће"
+      ],
+      "reason": null,
+      "note": "Трнава, Чадориште, Брђани, Нетврђе, Рајетиће, Баре, Јавор, Гранични прелаз Кашаљ, Смилов лаз, Златаре, Војковиће",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "1368cf7cdbe3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Нови Пазар",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Муровци",
+        "Крушево",
+        "Комиње",
+        "Кожље",
+        "Сметлиште"
+      ],
+      "reason": null,
+      "note": "Муровци, Крушево, Комиње, Кожље, Сметлиште",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-20",

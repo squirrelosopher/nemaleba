@@ -5,7 +5,25 @@
     "nameLatin": "Pećinci",
     "branchCyrillic": "Рума"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "e2b0dae67d02",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-21",
+      "areaLabel": "Пећинци",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Обреж: комплетно насељено место."
+      ],
+      "reason": null,
+      "note": "Обреж: комплетно насељено место.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-21",

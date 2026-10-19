@@ -117,6 +117,23 @@
       "sourceUrl": "https://www.vodovodpa.rs/2026/10/15/15-10-2026-2/"
     },
     {
+      "id": "7a4221674bc9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "08:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Панчево: С.Милетића од Карађорђеве до Б.Радичевића (парна страна)."
+      ],
+      "reason": null,
+      "note": "Панчево: С.Милетића од Карађорђеве до Б.Радичевића (парна страна).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "c444d29ad7fa",
       "utility": "electricity",
       "kind": "planned",
@@ -132,6 +149,23 @@
       "reason": null,
       "note": "Панчево: С.Милетића од Д.Туцовића до Карађорђеве, Б.Радичевића од С.Милетића до М.Пијаде, Карађорђева од Б.Јовановића до Св.Милетића и зграде у Б.Јовановића 29А и 31А.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f6b35cbb407c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-21",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Долово: Пастирска од Соње Маринковић до Партизанске, Партизанска, Аксентија Максимовића од Детелинске до Саве Ковачевића."
+      ],
+      "reason": null,
+      "note": "Долово: Пастирска од Соње Маринковић до Партизанске, Партизанска, Аксентија Максимовића од Детелинске до Саве Ковачевића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

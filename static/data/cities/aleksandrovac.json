@@ -5,7 +5,25 @@
     "nameLatin": "Aleksandrovac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "3b1557c1d3d6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Александровац",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Део насељеног места Ботуње."
+      ],
+      "reason": null,
+      "note": "Део насељеног места Ботуње.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-20",

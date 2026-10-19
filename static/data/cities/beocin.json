@@ -1,0 +1,34 @@
+{
+  "city": {
+    "id": "beocin",
+    "nameCyrillic": "Беочин",
+    "nameLatin": "Beočin",
+    "branchCyrillic": "Нови Сад"
+  },
+  "outages": [
+    {
+      "id": "9995db0ae540",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Беочин",
+      "time": {
+        "start": "09:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Баноштор: Прљуша, Родошкут кленовац, Фрутекс."
+      ],
+      "reason": null,
+      "note": "Баноштор: Прљуша, Родошкут кленовац, Фрутекс.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-10-19",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

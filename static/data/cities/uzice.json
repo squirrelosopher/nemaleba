@@ -43,6 +43,40 @@
       "reason": null,
       "note": "Потрошачи са подручја: Рибашевина, Матијевића брдо, Јанковићи и Филиповићи",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2f46db2d7f17",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-21",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Потрошачи са подручја: Лазићи, Станчићи, Миловићи и Ћирино брдо у Карану"
+      ],
+      "reason": null,
+      "note": "Потрошачи са подручја: Лазићи, Станчићи, Миловићи и Ћирино брдо у Карану",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "e315d5ad7c7f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-21",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Потрошачи са подручја: Добродо у Луновом селу"
+      ],
+      "reason": null,
+      "note": "Потрошачи са подручја: Добродо у Луновом селу",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

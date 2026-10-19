@@ -5,7 +5,25 @@
     "nameLatin": "Zaječar",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "4710bb51e3bf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Зајечар",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Зајечар зграда у улици Ивана Милутиновића бр. 11"
+      ],
+      "reason": null,
+      "note": "Зајечар зграда у улици Ивана Милутиновића бр. 11",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-20",

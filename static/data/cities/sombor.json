@@ -24,6 +24,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "1a53792d1b23",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сомбор: Х.Светића, Приједорска, Зрмањска, Балканска, Р.Кораћа, Б.Бухе, Сарајевска, Ђ.Салаја, Дунавска, Пинкијева 25-67А, 22-70, Н.Тесле 27-77, 18А-54, С.Мацуре, Солунских Бораца 3-11, 2-24, Моношторска 35-45, 32-34, С.Матавуља 1-9."
+      ],
+      "reason": null,
+      "note": "Сомбор: Х.Светића, Приједорска, Зрмањска, Балканска, Р.Кораћа, Б.Бухе, Сарајевска, Ђ.Салаја, Дунавска, Пинкијева 25-67А, 22-70, Н.Тесле 27-77, 18А-54, С.Мацуре, Солунских Бораца 3-11, 2-24, Моношторска 35-45, 32-34, С.Матавуља 1-9.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "298739013f4b",
       "utility": "electricity",
       "kind": "planned",
@@ -41,21 +58,38 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "1a53792d1b23",
+      "id": "9bee415e6f5b",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "areaLabel": "Сомбор",
       "time": {
         "start": "09:00",
         "end": "14:00"
       },
       "streets": [
-        "Сомбор: Х.Светића, Приједорска, Зрмањска, Балканска, Р.Кораћа, Б.Бухе, Сарајевска, Ђ.Салаја, Дунавска, Пинкијева 25-67А, 22-70, Н.Тесле 27-77, 18А-54, С.Мацуре, Солунских Бораца 3-11, 2-24, Моношторска 35-45, 32-34, С.Матавуља 1-9."
+        "Сомбор: Моношторска 35-45А, 32+Бб, С.Матавуља 1-9, Ђ.Салаја, Пинкијева 25-53, 22-50, С.Мацуре и Солунских Бораца 3-11, 4-24."
       ],
       "reason": null,
-      "note": "Сомбор: Х.Светића, Приједорска, Зрмањска, Балканска, Р.Кораћа, Б.Бухе, Сарајевска, Ђ.Салаја, Дунавска, Пинкијева 25-67А, 22-70, Н.Тесле 27-77, 18А-54, С.Мацуре, Солунских Бораца 3-11, 2-24, Моношторска 35-45, 32-34, С.Матавуља 1-9.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "note": "Сомбор: Моношторска 35-45А, 32+Бб, С.Матавуља 1-9, Ђ.Салаја, Пинкијева 25-53, 22-50, С.Мацуре и Солунских Бораца 3-11, 4-24.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "9af663d783ff",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-21",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сомбор: део Гаковачког пута, Савска, Дравска и Багремова."
+      ],
+      "reason": null,
+      "note": "Сомбор: део Гаковачког пута, Савска, Дравска и Багремова.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

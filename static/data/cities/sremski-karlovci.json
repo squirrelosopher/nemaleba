@@ -1,0 +1,35 @@
+{
+  "city": {
+    "id": "sremski-karlovci",
+    "nameCyrillic": "Сремски Карловци",
+    "nameLatin": "Sremski Karlovci",
+    "branchCyrillic": "Нови Сад"
+  },
+  "outages": [
+    {
+      "id": "fcfc97c2dc7b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-20",
+      "areaLabel": "Сремски Карловци",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Нафта Хем",
+        "Нафтно складиште."
+      ],
+      "reason": null,
+      "note": "Нафта Хем, Нафтно складиште.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-10-19",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

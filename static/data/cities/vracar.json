@@ -5,7 +5,25 @@
     "nameLatin": "Vračar",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "c6a496d59870",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Врачар",
+      "time": {
+        "start": "09:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "БЈЕЛАНОВИЋЕВА: 2"
+      ],
+      "reason": null,
+      "note": "БЈЕЛАНОВИЋЕВА: 2,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-20",

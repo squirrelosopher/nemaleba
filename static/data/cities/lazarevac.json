@@ -182,6 +182,44 @@
       "reason": null,
       "note": "Стефана Немање 34а-66,25-41,Бојана Ступице,Велиборра Глигорића,Кривајска,Шест Авијатичара,Воје Ђурића,Др.Павла Чубровића,Бањичка,Дивчибарска,Зетска (насеље Загорке Драговић).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "d9686a89b3ce",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "11:30"
+      },
+      "streets": [
+        "Насеље Шопић",
+        "Проте Чеде",
+        "Пролећног цвећа",
+        "део улице Станислав Сремчевић-Црни",
+        "Кошарска (засеок код Цркве)."
+      ],
+      "reason": null,
+      "note": "Насеље Шопић,Проте Чеде,Пролећног цвећа,део улице Станислав Сремчевић-Црни,Кошарска (засеок код Цркве).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "60a5babef3a6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "12:00",
+        "end": "14:30"
+      },
+      "streets": [
+        "Насеље Дрен (засеок код школе)."
+      ],
+      "reason": null,
+      "note": "Насеље Дрен (засеок код школе).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
