@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "БРАЋЕ СРНИЋ: 10А-12Б,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4cc7b3c96197",
@@ -38,15 +38,10 @@
       ],
       "reason": null,
       "note": "Насеље РИПАЊ: ЕРСКЕ АЛУГЕ: 15, КРАГУЈЕВАЧКИ ПУТ: 74-76Б,82Е,86,96-114,222А, ПРВОМАЈСКА: 2-2А,6,14-20,7-7А,11-23,29, ПУТ ЗА АЛУГЕ: 4-8,12-22,52,62,70,78Б-80,1-7, ПУТ ЗА СТУБЛОВЕ: 6,12,1-11, ПУТ ЗА СТУБЛОВЕ 2 ДЕО: 2-2А,6-10,32,38,46-50,7-9,85,89, ПУТ ЗА СТУБЛОВЕ 4 ДЕО: 2,1-7,11-13, ПУТ ЗА СТУБЛОВЕ 5 ДЕО: 2-2А,12А-14А,20-20,24,28-30,11,17,21-21Б,25А-27Б,31-33, ПУТ ЗА СТУБЛОВЕ 6.ДЕО: 4-8,14-18,1, ПУТ ЗА ТРЕШЊУ: 52,78-86,65,79-81, ЗБЕГОВИШТЕ: 6,10-12,20-22,26-30,3-3И,15-21,27,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-19",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-20",
       "electricityOutages": 0,
@@ -190,6 +185,11 @@
     {
       "date": "2026-10-18",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-19",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

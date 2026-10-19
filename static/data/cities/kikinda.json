@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Банатско Велико Село: Николе Тесле од Босанске до Стојана Матића, Стојана Матића од Симе Шолаје до Николе Тесле.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1fb63cc4624c",
@@ -38,15 +38,10 @@
       ],
       "reason": null,
       "note": "Банатско Велико Село: Николе Тесле од Босанске до Стојана Матића, Стојана Матића од Симе Шолаје до Николе Тесле.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-19",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-20",
       "electricityOutages": 0,
@@ -190,6 +185,11 @@
     {
       "date": "2026-10-18",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-19",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

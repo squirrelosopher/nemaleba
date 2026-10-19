@@ -5,45 +5,8 @@
     "nameLatin": "Prijepolje",
     "branchCyrillic": "Ужице"
   },
-  "outages": [
-    {
-      "id": "5cecd8e81d79",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-18",
-      "areaLabel": "Пријепоље",
-      "time": {
-        "start": "12:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Пријепоље центар",
-        "Хашимбеговића Поље",
-        "Шеховића Поље",
-        "Залуг",
-        "Шарампов",
-        "Луке",
-        "Бостани",
-        "Сељашница",
-        "део Коловрата (Аџина Њива...)",
-        "Каменогорско насеље",
-        "подручје Аљиновића",
-        "Косатице",
-        "Толаца",
-        "Јабуке",
-        "Бабина."
-      ],
-      "reason": null,
-      "note": "Пријепоље центар, Хашимбеговића Поље, Шеховића Поље, Залуг, Шарампов, Луке, Бостани, Сељашница, део Коловрата (Аџина Њива...), Каменогорско насеље, подручје Аљиновића, Косатице, Толаца, Јабуке, Бабина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-09-19",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-20",
       "electricityOutages": 0,
@@ -187,6 +150,11 @@
     {
       "date": "2026-10-18",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-19",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

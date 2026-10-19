@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "a3bff98818f5",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-10-11",
-      "areaLabel": "Ниш",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Генерала Михајла Филиповића"
-      ],
-      "reason": null,
-      "note": "ПЛАНИРАНИ РАДОВИ НА ГАБРОВАЧКОМ ПУТУ II ДЕО недељу 11. октобра планира се више интервенција у улици Генерала Михајла Филиповића, код бројева 14, 21 и 23. Због поправке водоводне мреже биће у прекиду водоснабдевање од 8 до 15 часова у улици Генерала Михајла Филиповића.",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%bf%d0%bb%d0%b0%d0%bd%d0%b8%d1%80%d0%b0%d0%bd%d0%b8-%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%98%d0%b5%d1%9b%d0%b8-%d0%b2%d0%b8%d0%ba%d0%b5-71/"
-    },
-    {
       "id": "9d87dd704dac",
       "utility": "water",
       "kind": "emergency",
@@ -779,7 +762,7 @@
       ],
       "reason": null,
       "note": "делови Проте Гагулића, Љубе Илића Столета, Бранка Миљковића, Златка Балоковића, Филипа Филиповића, Марјана Бадела, Јосипа Краша, Милоја Закића, Јужноморавских бригада, 27. марта, Коче Рацина;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4001b7a2edf7",
@@ -797,7 +780,7 @@
       ],
       "reason": null,
       "note": "делови Димитрија Драговића (2-20), Филипа Филиповића (41);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "8ea748f6703f",
@@ -819,7 +802,7 @@
       ],
       "reason": null,
       "note": "делови Димтрија Туцовића, Корнелија Станковића, Лале Поповића Тање, Алексе Ненадовића, Бубањских хероја, Ледене Стене;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d699fd8ca71f",
@@ -836,7 +819,7 @@
       ],
       "reason": null,
       "note": "делови Горичке (7-39);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "0fe0627456ad",
@@ -855,7 +838,7 @@
       ],
       "reason": null,
       "note": "делови Браће Цветковића (11,15), Мокрањчеве (19-37);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "8686556a3b5a",
@@ -872,7 +855,7 @@
       ],
       "reason": null,
       "note": "део Стружишта;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "99a247d8f213",
@@ -892,7 +875,7 @@
       ],
       "reason": null,
       "note": "делови Борске, Ђуре Ђаковића, Крфске, Горњоматејевачке;\r\n;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d6933914e1f0",
@@ -911,7 +894,7 @@
       ],
       "reason": null,
       "note": "делови Раданске (парни бр. 2-10), Књажевачке (103,103б);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "39ca23a948e3",
@@ -929,7 +912,7 @@
       ],
       "reason": null,
       "note": "делови улица Неготинске, Његошеве и Гостиварске;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "a5721d123d96",
@@ -946,7 +929,7 @@
       ],
       "reason": null,
       "note": "део Села Бубањ;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "8e49f70c3fe4",
@@ -963,15 +946,10 @@
       ],
       "reason": null,
       "note": "део Булевара Медијане;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-19",
-      "electricityOutages": 0,
-      "waterOutages": 2
-    },
     {
       "date": "2026-09-20",
       "electricityOutages": 0,
@@ -1116,6 +1094,11 @@
       "date": "2026-10-18",
       "electricityOutages": 0,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-10-19",
+      "electricityOutages": 8,
+      "waterOutages": 0
     }
   ]
 }

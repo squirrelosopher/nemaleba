@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеља: Бурмази, Драксин, Кокошица, Пантелићи, Чолићи, Мала",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3c1208bc4503",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "Насеља: Перућац поље, Симићи, Ђокићи, Љубош, Бесеровина до постројења",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e3d9f5ec6282",
@@ -55,7 +55,7 @@
       ],
       "reason": null,
       "note": "Насеља: Меовача, Шарампов, Мијановићи, Чучковићи, део Раче",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "c709f2b93431",
@@ -72,7 +72,7 @@
       ],
       "reason": null,
       "note": "Насеља: Шљивовица на Тари",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "941d56341f22",
@@ -89,7 +89,7 @@
       ],
       "reason": null,
       "note": "Насеља: Бушино - Потрошачи на НН изводу за Баштовановиће",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "aedea979315d",
@@ -106,15 +106,10 @@
       ],
       "reason": null,
       "note": "Насеља: Шљивовица на Тари",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-19",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-20",
       "electricityOutages": 0,
@@ -258,6 +253,11 @@
     {
       "date": "2026-10-18",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-19",
+      "electricityOutages": 4,
       "waterOutages": 0
     }
   ]

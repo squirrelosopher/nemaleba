@@ -21,15 +21,10 @@
       ],
       "reason": null,
       "note": "Улица Рајићева од бр.17 до 27 и бр.29.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-19",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-20",
       "electricityOutages": 0,
@@ -173,6 +168,11 @@
     {
       "date": "2026-10-18",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-19",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

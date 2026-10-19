@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Војка: Р.Букурецког, Б.Радичевића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1382b508ab0d",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "Стари Бановци: Грчка од бр 59/60 до краја улице, С.Тишме од бр1/2 до Грчке.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "242d70ea456b",
@@ -55,7 +55,7 @@
       ],
       "reason": null,
       "note": "Стара Пазова: М.Филипа од бр. 1/2 до Ј.Чмелика, Ј.Чмелика 46-66, 47-67, Ј.Бака 1-9, 2-16.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "4cb5bcfb41ff",
@@ -72,7 +72,7 @@
       ],
       "reason": null,
       "note": "Стари Бановци: С.Ковачевића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "a63d1a4018a1",
@@ -89,7 +89,7 @@
       ],
       "reason": null,
       "note": "Нови Бановци: Део Београдске око бр.82.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "fce37c7df73b",
@@ -106,7 +106,7 @@
       ],
       "reason": null,
       "note": "Стара Пазова: Ћирила и Методија парна страна од бр 140 до краја улице, Железничка.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "37e5c8b51282",
@@ -123,15 +123,10 @@
       ],
       "reason": null,
       "note": "Стара Пазова: П.Нинковић од бр. 39/48 до краја улице, Грмечка, Банијска, Др.Вранића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-19",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-20",
       "electricityOutages": 0,
@@ -275,6 +270,11 @@
     {
       "date": "2026-10-18",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-19",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

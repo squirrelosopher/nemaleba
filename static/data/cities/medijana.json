@@ -48,7 +48,7 @@
       ],
       "reason": null,
       "note": "делови Проте Гагулића, Љубе Илића Столета, Бранка Миљковића, Златка Балоковића, Филипа Филиповића, Марјана Бадела, Јосипа Краша, Милоја Закића, Јужноморавских бригада, 27. марта, Коче Рацина;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4001b7a2edf7",
@@ -66,15 +66,10 @@
       ],
       "reason": null,
       "note": "делови Димитрија Драговића (2-20), Филипа Филиповића (41);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-19",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-20",
       "electricityOutages": 0,
@@ -218,6 +213,11 @@
     {
       "date": "2026-10-18",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-19",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

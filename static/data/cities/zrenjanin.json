@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Зрењанин: Меленачки друм, Жарка Зрењанина (од Зеленгорске према Меленцима), део Воје Танкосића (од Жарка Зрењанина до Меленачке улице), Кочина, део Милоша Црњанског.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f69507218e7e",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "Зрењанин: део Тоше Јовановића (од Коче Колара до Николе Пашића).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f0885bf55adf",
@@ -55,15 +55,10 @@
       ],
       "reason": null,
       "note": "Зрењанин: део ул. 9. Јануара, непарна страна (између Душана Васиљева и Милана Станивуковића)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-19",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-20",
       "electricityOutages": 0,
@@ -207,6 +202,11 @@
     {
       "date": "2026-10-18",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-19",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

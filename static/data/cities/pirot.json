@@ -5,34 +5,8 @@
     "nameLatin": "Pirot",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "23d8b413aba3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-18",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "део Трга Републике",
-        "део улице 7. Јули",
-        "Николе Пашића",
-        "Таковска."
-      ],
-      "reason": null,
-      "note": "део Трга Републике,део улице 7. Јули,Николе Пашића,Таковска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-09-19",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-20",
       "electricityOutages": 0,
@@ -176,6 +150,11 @@
     {
       "date": "2026-10-18",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-19",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

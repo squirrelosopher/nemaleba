@@ -211,23 +211,6 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-16-10-2026/"
     },
     {
-      "id": "e4f97cbd05a7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-18",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "СДК."
-      ],
-      "reason": null,
-      "note": "СДК.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1bdfcae6bbc1",
       "utility": "electricity",
       "kind": "planned",
@@ -242,7 +225,7 @@
       ],
       "reason": null,
       "note": "Ченеј: Партизанска од Међународног пута до Биоспина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "732b77292579",
@@ -259,7 +242,7 @@
       ],
       "reason": null,
       "note": "Футог: Део села од Спортске хале и Пољопривредне школе према Бегечу, Арома.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "46de7c9652ba",
@@ -276,7 +259,7 @@
       ],
       "reason": null,
       "note": "Петроварадин: Меше Селимовића 15, 19, 21, 23, 29, 28, 32, Нова 8- 4-14, 3-17, Нова 6- 2-14, 1-29, Милеве Поповић Барили 1-23, 6-20.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "dfd73becefc3",
@@ -294,7 +277,7 @@
       ],
       "reason": null,
       "note": "Митровачка 2Ц-16, 1А-15.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "175cf8827544",
@@ -312,15 +295,10 @@
       ],
       "reason": null,
       "note": "Дечанска, Краља Вукашина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-19",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-20",
       "electricityOutages": 0,
@@ -464,6 +442,11 @@
     {
       "date": "2026-10-18",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-19",
+      "electricityOutages": 5,
       "waterOutages": 0
     }
   ]

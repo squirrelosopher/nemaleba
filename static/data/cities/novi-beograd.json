@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "СУРЧИНСКА: ББ,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "aeac835bbd88",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "ПАЛМИРА ТОЉАТИЈА: 44-60,9а-11,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "ee707332674f",
@@ -55,15 +55,10 @@
       ],
       "reason": null,
       "note": "АУТОПУТ БГ-ШИД: 69А,73-73а,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-09-19",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-20",
       "electricityOutages": 0,
@@ -206,6 +201,11 @@
     },
     {
       "date": "2026-10-18",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-19",
       "electricityOutages": 0,
       "waterOutages": 0
     }
