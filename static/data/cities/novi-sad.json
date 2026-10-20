@@ -7,159 +7,6 @@
   },
   "outages": [
     {
-      "id": "89367597a4d1",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-13",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "13:00"
-      },
-      "streets": [
-        "улице Суботичка, Далматинска и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити улице Суботичка, Далматинска и околне улице.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-13-10-2026/"
-    },
-    {
-      "id": "2e9d57b425d6",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-14",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "16:00"
-      },
-      "streets": [
-        "Сомборска улица"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 16 сати бити Сомборска улица.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-14-10-2026/"
-    },
-    {
-      "id": "080b0de40005",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-14",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "12:00"
-      },
-      "streets": [
-        "Улица Јована Ђорђевића и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 12 сати бити Улица Јована Ђорђевића и околне улице.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-14-10-2026/"
-    },
-    {
-      "id": "acfc21de2969",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-15",
-      "areaLabel": "Буковцу",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [
-        "Улица Светозара Милетића"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Светозара Милетића у Буковцу.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-15-10-2026/"
-    },
-    {
-      "id": "66d0c2f9d1c0",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-15",
-      "areaLabel": "Каћ",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [
-        "Улица Петра Драпшина и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Петра Драпшина и околне улице у Каћу.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-15-10-2026/"
-    },
-    {
-      "id": "35215c462a83",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-15",
-      "areaLabel": "Петроварадин",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Блок 8"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Блок 8 у Петроварадину.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-15-10-2026/"
-    },
-    {
-      "id": "67b4e9a3dc9c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-16",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Улица Милана Симовића"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Милана Симовића.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-16-10-2026/"
-    },
-    {
-      "id": "278c829b67ec",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-16",
-      "areaLabel": "Сремска Каменица",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [
-        "Улица 22. октобра и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица 22. октобра и околне улице у Сремској Каменици.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-16-10-2026/"
-    },
-    {
-      "id": "1fd903b6c3b8",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-19",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Булевар патријарха Павла, од Сомборске улице до Футошког пута"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Булевар патријарха Павла, од Сомборске улице до Футошког пута.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-19-10-2026/"
-    },
-    {
       "id": "205f970873a6",
       "utility": "electricity",
       "kind": "planned",
@@ -220,23 +67,6 @@
       "reason": null,
       "note": "Ченеј: Кузмановића салаши, Раскршће, Ресторан Фамилија.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "fa9e08e146d4",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-20",
-      "areaLabel": "Сремска Каменица",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Улица Славка Родића"
-      ],
-      "reason": null,
-      "note": "Због планираних радова на водоводној мрежи без воде ће од 8 до 12 сати бити Улица Славка Родића у Сремској Каменици.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-utorak-20-10-2026/"
     },
     {
       "id": "5587a3458cb2",
@@ -525,7 +355,7 @@
     {
       "date": "2026-10-20",
       "electricityOutages": 9,
-      "waterOutages": 1
+      "waterOutages": 0
     }
   ]
 }
