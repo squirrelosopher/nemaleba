@@ -39,6 +39,23 @@
       "reason": null,
       "note": "ПАЛМИРА ТОЉАТИЈА: 44-60,9а-11,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "8cfaa038860e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "08:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "СТУДЕНТСКА: бб"
+      ],
+      "reason": null,
+      "note": "СТУДЕНТСКА: бб,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

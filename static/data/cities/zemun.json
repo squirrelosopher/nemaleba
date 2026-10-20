@@ -39,6 +39,23 @@
       "reason": null,
       "note": "ГОСПОДСКА : 14А-20,11-23, ЛАГУМСКА: 6,5, МАГИСТРАТСКИ ТРГ : 4-18, МАСАРИКОВ ТРГ: 1-17, ВЕЛИКИ ТРГ : 2,3-3А/1, ЗМАЈ ЈОВИНА: 16-20,9-27В/2,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "2c38e0803e13",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "08:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "ЦВИЈИЋЕВА: 1-19, ЈОЗЕ ШЋУРЛЕ: 2-50,54,1-49,55, КОЛОНИЈА Б ФАБРИКЕ ЗМАЈ: 2-18,1-17, КОРБИЗИЈЕОВА : 2-8,1-5"
+      ],
+      "reason": null,
+      "note": "ЦВИЈИЋЕВА: 1-19, ЈОЗЕ ШЋУРЛЕ: 2-50,54,1-49,55, КОЛОНИЈА Б ФАБРИКЕ ЗМАЈ: 2-18,1-17, КОРБИЗИЈЕОВА : 2-8,1-5,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

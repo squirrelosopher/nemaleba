@@ -73,6 +73,40 @@
       "reason": null,
       "note": "Банатско Велико Село: Половина Банатског Великог Села од центра према Накову",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c7920697c127",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-21",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "12:00",
+        "end": "12:30"
+      },
+      "streets": [
+        "Кикинда: Чанадска од Ђуре Јакшића до Браће Богарошки, Браће Богарошки од Чанадске до Саве Текелије."
+      ],
+      "reason": null,
+      "note": "Кикинда: Чанадска од Ђуре Јакшића до Браће Богарошки, Браће Богарошки од Чанадске до Саве Текелије.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e83bf75fdf87",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "13:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Наково: Симе Бајића од Здравка Челара до Младена Стојановића."
+      ],
+      "reason": null,
+      "note": "Наково: Симе Бајића од Здравка Челара до Младена Стојановића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

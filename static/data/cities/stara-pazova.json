@@ -109,23 +109,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     },
     {
-      "id": "9442bb34ea33",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Стара Пазова",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Стара Пазова: улица Доситејева"
-      ],
-      "reason": null,
-      "note": "Стара Пазова: улица Доситејева",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
-    },
-    {
       "id": "5afec08a2386",
       "utility": "electricity",
       "kind": "planned",
@@ -140,6 +123,23 @@
       ],
       "reason": null,
       "note": "Стари Бановци: Брилетова.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "9442bb34ea33",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Стара Пазова",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Стара Пазова: улица Доситејева"
+      ],
+      "reason": null,
+      "note": "Стара Пазова: улица Доситејева",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

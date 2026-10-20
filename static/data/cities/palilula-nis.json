@@ -57,6 +57,43 @@
       "reason": null,
       "note": "ПОПРАВКА КВАРА У ОПШТИНИ ПАЛИЛУЛА збија вода на површини, потребан је ископ у улици Војводе Гојка, код броја 12. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 сати у улици Војводе Гојка, али је могућ прекид и на ширем простору, у улицама: Јована Бабунског, Кумановској, Врбаској, Стевана Каћанског, Стевана Сремца",
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-199/"
+    },
+    {
+      "id": "e695f38c03b4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-21",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "део Крушца;"
+      ],
+      "reason": null,
+      "note": "део Крушца;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "5d1e32675598",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "делови Требињске",
+        "Војводе Путника",
+        "Космајске",
+        "Бубањске долине;"
+      ],
+      "reason": null,
+      "note": "делови Требињске, Војводе Путника, Космајске, Бубањске долине;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

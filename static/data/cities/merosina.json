@@ -39,6 +39,72 @@
       "reason": null,
       "note": "Чубура",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "d6fcff8304f2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-21",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Александрово 2"
+      ],
+      "reason": null,
+      "note": "Александрово 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "594b4e46a588",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Рожина",
+        "Облачина.Облачинско језеро",
+        "Биљег",
+        "Јовановац",
+        "Азбресница",
+        "Дудулајце",
+        "Кованлук",
+        "падина",
+        "Чубура",
+        "Девча",
+        "Крајковац",
+        "Мали Јастребац",
+        "Баличевац",
+        "Лепаја",
+        "Баличевачки пут",
+        "Брест и већи део Мерошине."
+      ],
+      "reason": null,
+      "note": "Рожина,Облачина.Облачинско језеро,Биљег,Јовановац,Азбресница,Дудулајце,Кованлук,падина,Чубура,Девча,Крајковац,Мали Јастребац,Баличевац,Лепаја,Баличевачки пут,Брест и већи део Мерошине.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "a21c618a01cf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Дешилово 2"
+      ],
+      "reason": null,
+      "note": "Дешилово 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -24,23 +24,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "acd1e928860c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-21",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": "10:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље М.МОКРИ ЛУГ: БРАЋЕ МИЛИЋ: 5"
-      ],
-      "reason": null,
-      "note": "Насеље М.МОКРИ ЛУГ: БРАЋЕ МИЛИЋ: 5,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "cc68638e09d7",
       "utility": "electricity",
       "kind": "planned",
@@ -56,6 +39,23 @@
       "reason": null,
       "note": "Насеље КУМОДРАЖ: ЗЕМЉОРАДНИЧКА: 18Б-18Ф,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "4dda1b603b21",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Насеље РИПАЊ: ЕРЧАНСКА: 76А-88,27А-31А,35,39-45, ПУТ ЗА ИЛИЋЕ: 2-6, ПУТ ЗА КАЛАЈЏИЋЕ: 12-14А, ПУТ ЗА НЕСТРОВИЋЕ: 2-20,24-26,1,5-9,13-31А, ПУТ ЗА ВОДИЦУ: бб,4-8,12-14А,34,1А-13,17,21-39"
+      ],
+      "reason": null,
+      "note": "Насеље РИПАЊ: ЕРЧАНСКА: 76А-88,27А-31А,35,39-45, ПУТ ЗА ИЛИЋЕ: 2-6, ПУТ ЗА КАЛАЈЏИЋЕ: 12-14А, ПУТ ЗА НЕСТРОВИЋЕ: 2-20,24-26,1,5-9,13-31А, ПУТ ЗА ВОДИЦУ: бб,4-8,12-14А,34,1А-13,17,21-39,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
