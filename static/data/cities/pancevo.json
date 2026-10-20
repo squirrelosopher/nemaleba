@@ -7,20 +7,6 @@
   },
   "outages": [
     {
-      "id": "b8113842c263",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-13",
-      "areaLabel": "Панчево",
-      "time": null,
-      "streets": [
-        "цело насеље Дубока бара"
-      ],
-      "reason": null,
-      "note": "Због хаварије на водовоној мрежи без воде је остало цело насеље Дубока бара.",
-      "sourceUrl": "https://www.vodovodpa.rs/2026/10/13/13-10-2026/"
-    },
-    {
       "id": "4337f596b775",
       "utility": "water",
       "kind": "emergency",
@@ -156,11 +142,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-21",
-      "electricityOutages": 3,
-      "waterOutages": 1
-    },
     {
       "date": "2026-09-22",
       "electricityOutages": 1,
@@ -304,6 +285,11 @@
     {
       "date": "2026-10-20",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-21",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

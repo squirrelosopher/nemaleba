@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "89367597a4d1",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-13",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "13:00"
-      },
-      "streets": [
-        "улице Суботичка, Далматинска и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити улице Суботичка, Далматинска и околне улице.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-13-10-2026/"
-    },
-    {
       "id": "2e9d57b425d6",
       "utility": "water",
       "kind": "emergency",
@@ -378,11 +361,6 @@
   ],
   "history": [
     {
-      "date": "2026-09-21",
-      "electricityOutages": 3,
-      "waterOutages": 3
-    },
-    {
       "date": "2026-09-22",
       "electricityOutages": 5,
       "waterOutages": 2
@@ -526,6 +504,11 @@
       "date": "2026-10-20",
       "electricityOutages": 9,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-10-21",
+      "electricityOutages": 1,
+      "waterOutages": 0
     }
   ]
 }
