@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T05:10:56.857Z",
+  "generatedAt": "2026-10-20T06:10:41.152Z",
   "summary": {
     "date": "2026-10-20",
     "electricityOutages": 256,
-    "waterOutages": 13,
+    "waterOutages": 14,
     "affected": [
       {
         "id": "beograd",
@@ -312,6 +312,12 @@
         "waterOutages": 0
       },
       {
+        "id": "bor",
+        "nameCyrillic": "Бор",
+        "electricityOutages": 0,
+        "waterOutages": 1
+      },
+      {
         "id": "dimitrovgrad",
         "nameCyrillic": "Димитровград",
         "electricityOutages": 1,
@@ -522,7 +528,7 @@
     {
       "date": "2026-10-20",
       "electricityOutages": 139,
-      "waterOutages": 13
+      "waterOutages": 14
     }
   ],
   "providers": [

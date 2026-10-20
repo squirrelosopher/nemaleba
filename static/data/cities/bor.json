@@ -35,6 +35,22 @@
       "reason": "Санација кварова на водоводној мрежи",
       "note": "Улица Генерала Павла Илића број 14 Кварови на мерним местима – у шахтама",
       "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-15-10-2026-god/"
+    },
+    {
+      "id": "28c576c4a38f",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-20",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Савача – Ведрина",
+        "Улица Николе Пашића",
+        "Улица Генерала Павла Илића број 14"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Савача – Ведрина Улица Николе Пашића Улица Генерала Павла Илића број 14 Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-20-10-2026-god/"
     }
   ],
   "history": [
@@ -186,7 +202,7 @@
     {
       "date": "2026-10-20",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
