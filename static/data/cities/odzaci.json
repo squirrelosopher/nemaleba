@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "c4859faef410",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-19",
-      "areaLabel": "Оџаци",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Бачки Брестовац: М.Тита 137-153А, 122-140, С.Узелца 31-41, 50-54."
-      ],
-      "reason": null,
-      "note": "Бачки Брестовац: М.Тита 137-153А, 122-140, С.Узелца 31-41, 50-54.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "4525979d5b4c",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Селенча: Јанашикова.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "6fa07c22c26a",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Селенча: Лењинова, Штефаникова, Марчокова, Чајакова, Чмелникова, Шафарикова, део М.Тита, Штурова, део Јаношикове.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "441b8716f310",
@@ -72,7 +55,7 @@
       ],
       "reason": null,
       "note": "Селенча: део М.Тита.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "bf9e71181490",
@@ -89,7 +72,7 @@
       ],
       "reason": null,
       "note": "Селенча: 51.Дивизије, Врбова, Масарикова, део С.Милетића, Д.Обрадовића, део Чмелникове, део Чајакове, Марчокова, Водна, Бачка, Штросмајерова, Тополова, 17.Октобра, Орахова, Челарева, Зелена, део М.Тита.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

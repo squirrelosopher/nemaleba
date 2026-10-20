@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "aeb24193aa88",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-19",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "10:30"
-      },
-      "streets": [
-        "Доња Топоница"
-      ],
-      "reason": null,
-      "note": "Доња Топоница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "17986a35547a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-19",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Трнови Лаз."
-      ],
-      "reason": null,
-      "note": "Трнови Лаз.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "4882ff726b3e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-19",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Таковска"
-      ],
-      "reason": null,
-      "note": "Таковска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "18517dc227a6",
       "utility": "electricity",
       "kind": "planned",
@@ -75,7 +24,7 @@
       ],
       "reason": null,
       "note": "Ђушница,Пискаљ,Грабовац,Дрењак и Трнови Лаз.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "305534582848",
@@ -92,7 +41,7 @@
       ],
       "reason": null,
       "note": "Стефана Немање",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5cf14ee4cf11",
@@ -109,7 +58,7 @@
       ],
       "reason": null,
       "note": "Дринска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

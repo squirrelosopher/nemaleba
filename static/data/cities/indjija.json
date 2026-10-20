@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "8ae932519920",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-19",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "08:00",
-        "end": "08:30"
-      },
-      "streets": [
-        "Нови Карловци: Део Главне око бр. 3."
-      ],
-      "reason": null,
-      "note": "Нови Карловци: Део Главне око бр. 3.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "3d26f6324895",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-19",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Гладнош: део Викенд зоне Б.Брег 1."
-      ],
-      "reason": null,
-      "note": "Гладнош: део Викенд зоне Б.Брег 1.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "56b7b15b9d13",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Чортановци: Т.Јовића од бр 1/2 до Железничке.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "72887811362b",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Крчедин: Викенд зона Ада 2 ул.Банатска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ce1ee43f8013",
@@ -89,7 +55,7 @@
       ],
       "reason": null,
       "note": "Инђија: Бановић Страхиње, Арсеније Чарнојевића, Краљице Јелене, Церска, Господарска, Војвођанских Бригада, Вртић Лабуд, Змај Јовина од бр.7/8 до краја улице, Марије Бурсаћа, Стевана Великог, Милоша Црњанског, Д.Радовића, Иве Андрича, Хиландарска, Јована Дучића, Данила Киша, Десанке Максимовић, Горчилова, Фрушкогорска о бр.51 до краја улице, Српскоцрквена од бр.54 а до краја улице, Новосадски пут од ресторана Сателит од лева и десна страна.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "a72a7a5ec3a4",
@@ -106,7 +72,7 @@
       ],
       "reason": null,
       "note": "Инђија: Цара Душана 72-120 и од бр.77 до краја улице, Стевана Сремца од бр.1/2 до ул.Милана Илића, Милана Илића од Њешошеве до краја улице, 22.Октобра од.Његошеве до краја улице, Његошева од бр.1/2 до М.Илића, Јанка Веселиновића од Његошеве до краја улице, Милутина Миланковића –први део, М.Антића, Лазе Костића, Краља Драгутина, Пионирска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "dd9e1b424353",
@@ -123,7 +89,7 @@
       ],
       "reason": null,
       "note": "Инђија: Личка, Сретенска, Мишарска, Солунска, Кордунашка, Милана Тепића, Стевана Синђелића од бр.21/30 до краја улице, Хајдук Стањка од бр.5/10 до краја улице, Царице Милице од бр.17/24 до краја улице, Првомајска од бр.37/54 до краја улице, К.Милоша, Б.Ћопића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "d71ff9f9f22d",
@@ -140,7 +106,7 @@
       ],
       "reason": null,
       "note": "Инђија: Бачка, Дринска, Банатска, Сремска од Николе Тесле до краја улице, Вељка Петровића, Каменаова од бр.1 ц до краја улице, Виноградарска од бр.67/56 до краја улице, Д.Обрадовића, Занатлијска од бр.37/48 до краја улице, Јадранска, Моравска, Шумадијска, Вардарска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "db185b9114b6",
@@ -157,6 +123,23 @@
       ],
       "reason": null,
       "note": "Инђија: Д.Иванчевића, Филипа Вишњића, Светог Сава од бр.48/69 до краја улице, Новосадска 57, 40-46, Милана Ракића, Српских добровољаца, Душана Вукасовића од бр.1/2 до Душана Јерковића, Бошко Бухе, Душана Јековића од Виноградарска до краја улице, Жарка Зрењанина, Зграда Велебит, Новосадски пут од старог гробља до базена, Базен, Ресторан Монограм, Ђорђа Војиновића и викенд зона Крчевине.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "33d7463ecdd8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Сланкаменачки Виногради: цело место Сланкаменачки Виногради, Викенд зона Јанда, Викенд зона Крст Ралица, Манера Н.Сланкамен."
+      ],
+      "reason": null,
+      "note": "Сланкаменачки Виногради: цело место Сланкаменачки Виногради, Викенд зона Јанда, Викенд зона Крст Ралица, Манера Н.Сланкамен.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

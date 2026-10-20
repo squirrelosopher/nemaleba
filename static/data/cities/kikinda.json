@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "9808d6d83f1a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-19",
-      "areaLabel": "Кикинда",
-      "time": {
-        "start": "08:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Банатско Велико Село: Николе Тесле од Босанске до Стојана Матића, Стојана Матића од Симе Шолаје до Николе Тесле."
-      ],
-      "reason": null,
-      "note": "Банатско Велико Село: Николе Тесле од Босанске до Стојана Матића, Стојана Матића од Симе Шолаје до Николе Тесле.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1fb63cc4624c",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Банатско Велико Село: Николе Тесле од Босанске до Стојана Матића, Стојана Матића од Симе Шолаје до Николе Тесле.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "85bdb62f74b9",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Иђош: Светосавска део улице од Ђуре Јакшића према Сајану, Николе Француског део улице од Миливоја Оморца до Светосавске, Јована Ђурђулова цела, Жарка Зрењанина цела, Светозара Милетића цела, Лазе Костића цела.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "49e5a9f1048a",
@@ -72,7 +55,7 @@
       ],
       "reason": null,
       "note": "Мокрин: Златна греда цела, део Соње Маринковић од Жарка Зрењанина до Златне Греде.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "cca6eabac9d2",
@@ -89,7 +72,7 @@
       ],
       "reason": null,
       "note": "Банатско Велико Село: Половина Банатског Великог Села од центра према Накову",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

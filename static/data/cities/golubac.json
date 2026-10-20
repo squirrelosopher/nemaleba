@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "7db140c9566e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-19",
-      "areaLabel": "Голубац",
-      "time": {
-        "start": "09:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Барич",
-        "Бикиње"
-      ],
-      "reason": null,
-      "note": "Барич, Бикиње",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2b7314f8330b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-19",
-      "areaLabel": "Голубац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Трафо област ''Голубац 2'': Цара Душана, Дунавски кеј 2,3,4, Кнез Михајлова 5, 12-16, Синђелићева, Светозара Марковића, Војислава Илића, Вука Караџића, Занатска"
-      ],
-      "reason": null,
-      "note": "Трафо област ''Голубац 2'': Цара Душана, Дунавски кеј 2,3,4, Кнез Михајлова 5, 12-16, Синђелићева, Светозара Марковића, Војислава Илића, Вука Караџића, Занатска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "109d7a16f16c",
       "utility": "electricity",
       "kind": "planned",
@@ -57,7 +22,7 @@
       ],
       "reason": null,
       "note": "Барич, Бикиње",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "177d76e558ba",
@@ -75,7 +40,7 @@
       ],
       "reason": null,
       "note": "Барич, Бикиње",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

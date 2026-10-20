@@ -7,27 +7,6 @@
   },
   "outages": [
     {
-      "id": "6eb8958c7609",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-19",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Зорине кафане",
-        "хладњаче \"МОМО\"",
-        "Алексића",
-        "Ружића",
-        "Трнаве-Каранске и Границе."
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Зорине кафане, хладњаче \"МОМО\", Алексића, Ружића, Трнаве-Каранске и Границе.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "32eba2d8a315",
       "utility": "electricity",
       "kind": "planned",
@@ -42,7 +21,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја: Рибашевина, Матијевића брдо, Јанковићи и Филиповићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2f46db2d7f17",
@@ -59,7 +38,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја: Лазићи, Станчићи, Миловићи и Ћирино брдо у Карану",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "e315d5ad7c7f",
@@ -76,7 +55,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја: Добродо у Луновом селу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

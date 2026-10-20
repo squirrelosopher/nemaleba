@@ -7,64 +7,6 @@
   },
   "outages": [
     {
-      "id": "8ea748f6703f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-19",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "08:30",
-        "end": "11:00"
-      },
-      "streets": [
-        "делови Димтрија Туцовића",
-        "Корнелија Станковића",
-        "Лале Поповића Тање",
-        "Алексе Ненадовића",
-        "Бубањских хероја",
-        "Ледене Стене;"
-      ],
-      "reason": null,
-      "note": "делови Димтрија Туцовића, Корнелија Станковића, Лале Поповића Тање, Алексе Ненадовића, Бубањских хероја, Ледене Стене;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d699fd8ca71f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-19",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "делови Горичке (7-39);"
-      ],
-      "reason": null,
-      "note": "делови Горичке (7-39);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "0fe0627456ad",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-19",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "делови Браће Цветковића (11",
-        "15)",
-        "Мокрањчеве (19-37);"
-      ],
-      "reason": null,
-      "note": "делови Браће Цветковића (11,15), Мокрањчеве (19-37);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "39ca23a948e3",
       "utility": "electricity",
       "kind": "planned",
@@ -80,7 +22,7 @@
       ],
       "reason": null,
       "note": "делови улица Неготинске, Његошеве и Гостиварске;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a5721d123d96",
@@ -97,7 +39,7 @@
       ],
       "reason": null,
       "note": "део Села Бубањ;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

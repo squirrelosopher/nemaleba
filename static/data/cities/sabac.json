@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "717d651d69c9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-19",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "21:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈЕ САМО СТОП ШОП ТРЖНИ ЦЕНТАР."
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈЕ САМО СТОП ШОП ТРЖНИ ЦЕНТАР.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "dd11bb9efff1",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈЕ САМО СТОП ШОП ТРЖНИ ЦЕНТАР.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

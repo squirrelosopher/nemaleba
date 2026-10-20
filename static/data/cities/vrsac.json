@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Вршац: Степе Степановића од компаније Штрабак ка депонији - десна страна, Бегејска, Депонија смећа, Вишацки - Бегејска бб, Црпна станица Мали Рит - Бегејска бб, Сматса Аеродром.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "72eadcea23a7",
@@ -40,7 +40,7 @@
       ],
       "reason": null,
       "note": "Хероја Пинкија 173-199, 186-214, Никите Толстоја 163.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "3ceef99d0cba",
@@ -57,6 +57,23 @@
       ],
       "reason": null,
       "note": "Вршац: Иве Милутиновића 198-224, Куштиљска од Иве Милутиновића до Никите Толстоја, Хероја Пинкија 209, 213, 232, 234, Милана Токина.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "c3c8ce79cc1d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Вршац",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Вршац: Милетићева од Радакове до Синђелићеве."
+      ],
+      "reason": null,
+      "note": "Вршац: Милетићева од Радакове до Синђелићеве.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
