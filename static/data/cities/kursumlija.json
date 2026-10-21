@@ -41,23 +41,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "64476880c916",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Горња Микуљана."
-      ],
-      "reason": null,
-      "note": "Горња Микуљана.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "2f0c66f5a6e9",
       "utility": "electricity",
       "kind": "planned",
@@ -72,6 +55,23 @@
       ],
       "reason": null,
       "note": "Свињиште.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "64476880c916",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Куршумлија",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Горња Микуљана."
+      ],
+      "reason": null,
+      "note": "Горња Микуљана.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
