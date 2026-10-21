@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T05:10:37.815Z",
+  "generatedAt": "2026-10-21T06:10:40.277Z",
   "summary": {
     "date": "2026-10-21",
     "electricityOutages": 190,
-    "waterOutages": 9,
+    "waterOutages": 11,
     "affected": [
       {
         "id": "beograd",
@@ -264,10 +264,22 @@
         "waterOutages": 0
       },
       {
+        "id": "bor",
+        "nameCyrillic": "Бор",
+        "electricityOutages": 0,
+        "waterOutages": 1
+      },
+      {
         "id": "vlasotince",
         "nameCyrillic": "Власотинце",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "vranje",
+        "nameCyrillic": "Врање",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "gadzin-han",
@@ -480,7 +492,7 @@
     {
       "date": "2026-10-21",
       "electricityOutages": 81,
-      "waterOutages": 9
+      "waterOutages": 11
     }
   ],
   "providers": [
