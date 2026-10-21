@@ -7,74 +7,6 @@
   },
   "outages": [
     {
-      "id": "217bcda9e0fd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Житорађа",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Самариновац 1"
-      ],
-      "reason": null,
-      "note": "Самариновац 1",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ef253b2228e4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Житорађа",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Део Житорађе код цркве"
-      ],
-      "reason": null,
-      "note": "Део Житорађе код цркве",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "cee0b0f438ff",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Житорађа",
-      "time": {
-        "start": "10:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Општина Житорађа цела"
-      ],
-      "reason": null,
-      "note": "Општина Житорађа цела",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "950ef5ad6148",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Житорађа",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Ђакус"
-      ],
-      "reason": null,
-      "note": "Ђакус",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "299ee0444139",
       "utility": "electricity",
       "kind": "planned",
@@ -90,7 +22,7 @@
       ],
       "reason": null,
       "note": "Речица,Лукомир и Влахово",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "2ab64f77163e",
@@ -107,7 +39,7 @@
       ],
       "reason": null,
       "note": "Ђакус 3",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

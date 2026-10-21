@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "f0885bf55adf",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Зрењанин",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "Зрењанин: део ул. 9. Јануара, непарна страна (између Душана Васиљева и Милана Станивуковића)"
-      ],
-      "reason": null,
-      "note": "Зрењанин: део ул. 9. Јануара, непарна страна (између Душана Васиљева и Милана Станивуковића)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "06734e4aa72e",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Цело насељено место Елемир",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "57fc0e411318",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Меленци: Радничко насеље, део Живе Брцанског, део Жарка Адамова.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

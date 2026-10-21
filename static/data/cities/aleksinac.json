@@ -5,42 +5,7 @@
     "nameLatin": "Aleksinac",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "4dc33788fa79",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део Кулине"
-      ],
-      "reason": null,
-      "note": "део Кулине",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d6b332bf9e86",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део Ћићине"
-      ],
-      "reason": null,
-      "note": "део Ћићине",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-22",

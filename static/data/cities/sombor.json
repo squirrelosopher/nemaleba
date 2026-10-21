@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "9958579fb0ff",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Сомбор: Војвођанска 25-45."
-      ],
-      "reason": null,
-      "note": "Сомбор: Војвођанска 25-45.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1a53792d1b23",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Сомбор: Х.Светића, Приједорска, Зрмањска, Балканска, Р.Кораћа, Б.Бухе, Сарајевска, Ђ.Салаја, Дунавска, Пинкијева 25-67А, 22-70, Н.Тесле 27-77, 18А-54, С.Мацуре, Солунских Бораца 3-11, 2-24, Моношторска 35-45, 32-34, С.Матавуља 1-9."
-      ],
-      "reason": null,
-      "note": "Сомбор: Х.Светића, Приједорска, Зрмањска, Балканска, Р.Кораћа, Б.Бухе, Сарајевска, Ђ.Салаја, Дунавска, Пинкијева 25-67А, 22-70, Н.Тесле 27-77, 18А-54, С.Мацуре, Солунских Бораца 3-11, 2-24, Моношторска 35-45, 32-34, С.Матавуља 1-9.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "298739013f4b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Кљајићево: Војводе Мишића, В.Караџића, Д.Мудрака, Н.Тесле 3-23, 2-16, М.Орешковића 41-87, 30-52, ЈНА 1-17, 2-16, И.Л.Рибара 1-33, 2-30."
-      ],
-      "reason": null,
-      "note": "Кљајићево: Војводе Мишића, В.Караџића, Д.Мудрака, Н.Тесле 3-23, 2-16, М.Орешковића 41-87, 30-52, ЈНА 1-17, 2-16, И.Л.Рибара 1-33, 2-30.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "9bee415e6f5b",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +21,7 @@
       ],
       "reason": null,
       "note": "Сомбор: Моношторска 35-45А, 32+Бб, С.Матавуља 1-9, Ђ.Салаја, Пинкијева 25-53, 22-50, С.Мацуре и Солунских Бораца 3-11, 4-24.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9af663d783ff",
@@ -89,7 +38,7 @@
       ],
       "reason": null,
       "note": "Сомбор: део Гаковачког пута, Савска, Дравска и Багремова.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "6dd5d6500f27",
@@ -106,7 +55,7 @@
       ],
       "reason": null,
       "note": "Сомбор: део Козара салаша.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

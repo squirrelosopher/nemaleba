@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "39ca23a948e3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "08:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "делови улица Неготинске",
-        "Његошеве и Гостиварске;"
-      ],
-      "reason": null,
-      "note": "делови улица Неготинске, Његошеве и Гостиварске;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a5721d123d96",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "део Села Бубањ;"
-      ],
-      "reason": null,
-      "note": "део Села Бубањ;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c4ade8d5d84d",
       "utility": "water",
       "kind": "emergency",
@@ -73,7 +38,7 @@
       ],
       "reason": null,
       "note": "део Крушца;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5d1e32675598",
@@ -93,7 +58,7 @@
       ],
       "reason": null,
       "note": "делови Требињске, Војводе Путника, Космајске, Бубањске долине;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

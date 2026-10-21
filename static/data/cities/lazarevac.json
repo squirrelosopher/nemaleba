@@ -7,93 +7,6 @@
   },
   "outages": [
     {
-      "id": "47f3483fe90a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "11:30"
-      },
-      "streets": [
-        "Насеље Дрен: засеок Томићи."
-      ],
-      "reason": null,
-      "note": "Насеље Дрен: засеок Томићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "95c321f75769",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Општина Љиг:насеље Бабајић (засеок Цвејовићи-према Вујићу)."
-      ],
-      "reason": null,
-      "note": "Општина Љиг:насеље Бабајић (засеок Цвејовићи-према Вујићу).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e2811614e2f3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "12:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Насеље Стара Очага",
-        "Еуро стил",
-        "Аргос."
-      ],
-      "reason": null,
-      "note": "Насеље Стара Очага,Еуро стил,Аргос.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "afc287ff15e9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "12:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Насеље Дрен: засеок Михаиловићи."
-      ],
-      "reason": null,
-      "note": "Насеље Дрен: засеок Михаиловићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "7751ccb46c7d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-21",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Општина Горњи Милановац: насеље Трудељ (засеок Матићи)."
-      ],
-      "reason": null,
-      "note": "Општина Горњи Милановац: насеље Трудељ (засеок Матићи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "a67afb38a454",
       "utility": "electricity",
       "kind": "planned",
@@ -117,7 +30,24 @@
       ],
       "reason": null,
       "note": "Милована Лазаревића 174-230,149-225,Милисава Иванковића-Солунца,Новаковића,Јелисавете Ђокић,Милована Петровића,Арсенија Чарнојевића,Ђорђа Вајферта,Милоша Црњанског,Нововарошка (насеље Жупањачки пут).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "7751ccb46c7d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-21",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Општина Горњи Милановац: насеље Трудељ (засеок Матићи)."
+      ],
+      "reason": null,
+      "note": "Општина Горњи Милановац: насеље Трудељ (засеок Матићи).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "835fa3e046f9",
@@ -144,7 +74,7 @@
       ],
       "reason": null,
       "note": "Стефана Немање 34а-66,25-41,Бојана Ступице,Велиборра Глигорића,Кривајска,Шест Авијатичара,Воје Ђурића,Др.Павла Чубровића,Бањичка,Дивчибарска,Зетска (насеље Загорке Драговић).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d9686a89b3ce",
@@ -165,7 +95,7 @@
       ],
       "reason": null,
       "note": "Насеље Шопић,Проте Чеде,Пролећног цвећа,део улице Станислав Сремчевић-Црни,Кошарска (засеок код Цркве).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "60a5babef3a6",
@@ -182,7 +112,7 @@
       ],
       "reason": null,
       "note": "Насеље Дрен (засеок код школе).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "e9fab296274d",
@@ -199,7 +129,7 @@
       ],
       "reason": null,
       "note": "Насеље Велики Црљени (засеок Рудничка колонија).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "2d00960a3dcb",
@@ -216,7 +146,7 @@
       ],
       "reason": null,
       "note": "Насеље Степојевац (засеок Сточна пијаца).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

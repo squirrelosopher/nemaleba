@@ -7,60 +7,6 @@
   },
   "outages": [
     {
-      "id": "18517dc227a6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Ђушница",
-        "Пискаљ",
-        "Грабовац",
-        "Дрењак и Трнови Лаз."
-      ],
-      "reason": null,
-      "note": "Ђушница,Пискаљ,Грабовац,Дрењак и Трнови Лаз.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "305534582848",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Стефана Немање"
-      ],
-      "reason": null,
-      "note": "Стефана Немање",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5cf14ee4cf11",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Дринска"
-      ],
-      "reason": null,
-      "note": "Дринска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c2db61c2fbd6",
       "utility": "electricity",
       "kind": "planned",
@@ -75,7 +21,7 @@
       ],
       "reason": null,
       "note": "Мала Плана код Циглане",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d655b52111be",
@@ -100,7 +46,7 @@
       ],
       "reason": null,
       "note": "Селиште,Добротић,Видовача,Обртинце,Бучинце,Бели Камен,Јовине Ливаде,Пасјача,Мрљак и Јабучево.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e8355326b69f",
@@ -117,7 +63,7 @@
       ],
       "reason": null,
       "note": "Део Ул. Генерала Транијеа",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

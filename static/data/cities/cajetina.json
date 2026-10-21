@@ -5,61 +5,7 @@
     "nameLatin": "Čajetina",
     "branchCyrillic": "Ужице"
   },
-  "outages": [
-    {
-      "id": "46ac3b02b98a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Чајетина",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Рибница",
-        "Кобиља глава"
-      ],
-      "reason": null,
-      "note": "Рибница, Кобиља глава",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "50e55e75e99a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Чајетина",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Део насеља Титова Вила"
-      ],
-      "reason": null,
-      "note": "Део насеља Титова Вила",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "69ba74756c00",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Чајетина",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Ђуровић гробље",
-        "Јабланица"
-      ],
-      "reason": null,
-      "note": "Ђуровић гробље, Јабланица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-22",

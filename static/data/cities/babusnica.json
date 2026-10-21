@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "837a6b23b1ba",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Радосин",
-        "Црвена Јабука."
-      ],
-      "reason": null,
-      "note": "Радосин,Црвена Јабука.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "0b4ba060960a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "10:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Савинци."
-      ],
-      "reason": null,
-      "note": "Савинци.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "952300d48b71",
       "utility": "electricity",
       "kind": "planned",
@@ -57,7 +22,7 @@
       ],
       "reason": null,
       "note": "део села Црвена Јабука,Берин Извор.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

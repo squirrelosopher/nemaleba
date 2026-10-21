@@ -7,43 +7,6 @@
   },
   "outages": [
     {
-      "id": "70f6517bf8db",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Горњи Милановац",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Од Љутовнице према Шилопају",
-        "Давидовици",
-        "Кривој реци и Мутњу."
-      ],
-      "reason": null,
-      "note": "Од Љутовнице према Шилопају,Давидовици,Кривој реци и Мутњу.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "92013ea66ed5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-20",
-      "areaLabel": "Горњи Милановац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Нешковића брдо",
-        "Млаковац и део Бруснице-\"Перово брдо\"."
-      ],
-      "reason": null,
-      "note": "Нешковића брдо,Млаковац и део Бруснице-\"Перово брдо\".",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "cfd886b53d96",
       "utility": "electricity",
       "kind": "planned",
@@ -59,7 +22,7 @@
       ],
       "reason": null,
       "note": "Од Прањана према Каменици,Богданици Гојној Гори.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2f1e4bff923d",
@@ -76,7 +39,7 @@
       ],
       "reason": null,
       "note": "Део Велеречи од фирме \"РП\"(бивша пекара ПОЉЕ) према Сврачковцима-до фирме \"С ГРУП\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
