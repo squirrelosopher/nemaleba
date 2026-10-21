@@ -5,7 +5,52 @@
     "nameLatin": "Vrnjačka Banja",
     "branchCyrillic": "Краљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "23e66327913a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Врњачка Бања",
+      "time": {
+        "start": "10:00",
+        "end": "11:30"
+      },
+      "streets": [
+        "корисници који се напајају са извода Наменска и то:Минерална вода",
+        "Пекара",
+        "Наменска",
+        "Такси петрол",
+        "Лидл",
+        "Тржни центар Темпо",
+        "Флуидотехник",
+        "Артињан",
+        "Светофор."
+      ],
+      "reason": null,
+      "note": "корисници који се напајају са извода Наменска и то:Минерална вода,Пекара,Наменска,Такси петрол,Лидл,Тржни центар Темпо,Флуидотехник,Артињан,Светофор.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a648b31b84e0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Врњачка Бања",
+      "time": {
+        "start": "10:00",
+        "end": "14:30"
+      },
+      "streets": [
+        "Део улице Моравска долина",
+        "Ливадска",
+        "Рибарска и Станична у Врњцима"
+      ],
+      "reason": null,
+      "note": "Део улице Моравска долина,Ливадска,Рибарска и Станична у Врњцима",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-22",

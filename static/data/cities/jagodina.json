@@ -41,6 +41,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "cbb1ee5fe8e9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Јагодина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део села Ново Ланиште"
+      ],
+      "reason": null,
+      "note": "Део села Ново Ланиште",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
       "id": "99f50521c920",
       "utility": "electricity",
       "kind": "planned",

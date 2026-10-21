@@ -5,7 +5,25 @@
     "nameLatin": "Čajetina",
     "branchCyrillic": "Ужице"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "ff31f0224f7d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Чајетина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Кобиља глава"
+      ],
+      "reason": null,
+      "note": "Кобиља глава",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-22",

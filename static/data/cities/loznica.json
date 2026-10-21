@@ -24,23 +24,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "f7b6901a3a98",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Лозница",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Воћњак код дома"
-      ],
-      "reason": null,
-      "note": "Воћњак код дома",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "2405a08691ac",
       "utility": "electricity",
       "kind": "planned",
@@ -62,22 +45,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "f39ac1a91734",
+      "id": "f7b6901a3a98",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-23",
+      "date": "2026-10-22",
       "areaLabel": "Лозница",
       "time": {
         "start": "09:00",
-        "end": "17:00"
+        "end": "14:00"
       },
       "streets": [
-        "Костадиновићи",
-        "Доњи Добрић засеоци Доња Мала и Бареш"
+        "Воћњак код дома"
       ],
       "reason": null,
-      "note": "Костадиновићи, Доњи Добрић засеоци Доња Мала и Бареш",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "note": "Воћњак код дома",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "64f5f8256b2f",
@@ -111,6 +93,24 @@
       ],
       "reason": null,
       "note": "Тршић засеок Баир",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "f39ac1a91734",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Костадиновићи",
+        "Доњи Добрић засеоци Доња Мала и Бареш"
+      ],
+      "reason": null,
+      "note": "Костадиновићи, Доњи Добрић засеоци Доња Мала и Бареш",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {

@@ -5,7 +5,62 @@
     "nameLatin": "Paraćin",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "a10e5b933626",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део села Поточац"
+      ],
+      "reason": null,
+      "note": "Део села Поточац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "262f15aa99c7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Гаврила Принципа",
+        "део Синђелићеве",
+        "део Стевана Сремца",
+        "део Драгослава Маринковић и део Јована Дучића"
+      ],
+      "reason": null,
+      "note": "Гаврила Принципа,део Синђелићеве,део Стевана Сремца, део Драгослава Маринковић и део Јована Дучића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "c6d87805b525",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-24",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Петковић кланица"
+      ],
+      "reason": null,
+      "note": "Петковић кланица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-22",

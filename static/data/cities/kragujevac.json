@@ -1187,6 +1187,23 @@
       ],
       "reason": "поправка уличне линије",
       "note": "Палилуле, ул. Станоја Главаша ( од 16:00 до 19:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "c2e28e387ddc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Ул.Војислава Калановића бр. 2"
+      ],
+      "reason": null,
+      "note": "Ул.Војислава Калановића бр. 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -38,6 +38,41 @@
       "reason": null,
       "note": "делови улица Душана Животића, Висибаба и Ружа;",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "d0d75028f2be",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "делови Горњоматејевачке и Студеничке;"
+      ],
+      "reason": null,
+      "note": "делови Горњоматејевачке и Студеничке;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "600f7629e444",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "делови Матејевачког пута (41",
+        "бб);"
+      ],
+      "reason": null,
+      "note": "делови Матејевачког пута (41,бб);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

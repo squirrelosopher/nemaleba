@@ -5,7 +5,43 @@
     "nameLatin": "Čačak",
     "branchCyrillic": "Чачак"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "9303ed7a1399",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Потрошачи у ул. Д. Мишовића од 92 до 124",
+        "Симе Сараге од почетка до пруге и Булевар Ослобођења од 2 до 10;"
+      ],
+      "reason": null,
+      "note": "Потрошачи у ул. Д. Мишовића од 92 до 124, Симе Сараге од почетка до пруге и Булевар Ослобођења од 2 до 10;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "547640fa8420",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Потрошачи у Горичанима са ТС Горичани кула."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Горичанима са ТС Горичани кула.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-22",

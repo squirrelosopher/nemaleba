@@ -5,7 +5,25 @@
     "nameLatin": "Varvarin",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "67b8a66501b0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Варварин",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Део насељеног места Залоговац (према гробљу)"
+      ],
+      "reason": null,
+      "note": "Део насељеног места Залоговац (према гробљу)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-22",

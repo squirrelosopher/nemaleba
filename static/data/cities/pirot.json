@@ -93,6 +93,58 @@
       "reason": null,
       "note": "део улице Мидзорска,Височки Пут.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "10445c6b07f6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Темачки Манастир",
+        "ХЕ Темац."
+      ],
+      "reason": null,
+      "note": "Темачки Манастир,ХЕ Темац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "ff149c93afa7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "део улице Бериловачки Пут."
+      ],
+      "reason": null,
+      "note": "део улице Бериловачки Пут.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c9d810de7b79",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "11:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "део улице Занатлиска."
+      ],
+      "reason": null,
+      "note": "део улице Занатлиска.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

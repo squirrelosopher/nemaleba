@@ -5,7 +5,25 @@
     "nameLatin": "Aleksinac",
     "branchCyrillic": "Ниш"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "ef86ff66d932",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-22",
+      "areaLabel": "Алексинац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Љуптен"
+      ],
+      "reason": null,
+      "note": "Љуптен",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-22",
