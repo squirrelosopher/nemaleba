@@ -7,210 +7,6 @@
   },
   "outages": [
     {
-      "id": "d8a7769028b0",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-14",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-14-10-2026/",
-      "areaLabel": "Белошевац",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Светолика Јањића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Белошевац, ул. Светолика Јањића ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "497e656478e4",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-14",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-14-10-2026/",
-      "areaLabel": "Ердеч",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "угао Партизанских курира – Хусињских рудара"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Хаваријска искључења на дан 14.10.2026. \n \n Ердеч, угао Партизанских курира – Хусињских рудара ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "926f16d78911",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-14",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-14-10-2026/",
-      "areaLabel": "Милатовац",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Код школе"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Милатовац, ул. Код школе ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "db5734312cf0",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-14",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-14-10-2026/",
-      "areaLabel": "Пивара",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Стојана Протића 91"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Пивара, ул. Стојана Протића 91 ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "2ff8cca06a89",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-14",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-14-10-2026/",
-      "areaLabel": "Белошевац",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Петра Јовановића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Белошевац, ул. Петра Јовановића ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "cb7af7c969a1",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-14",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-14-10-2026/",
-      "areaLabel": "Осојак",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Код Коњара"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Осојак, ул. Код Коњара ( од 12:00 до 16:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "fc9d0a169b4f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-14",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-14-10-2026/",
-      "areaLabel": "Палилуле",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Станоја Главаша"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Палилуле, ул. Станоја Главаша ( од 12:00 до 16:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "946be4eeed57",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-14",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-14-10-2026/",
-      "areaLabel": "Пивара",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Стојана Протића 89"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Пивара, ул. Стојана Протића 89 ( од 12:00 до 16:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "b0a5295c484b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-14",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-14-10-2026/",
-      "areaLabel": "Белошевац",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Косте Ценића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Белошевац, ул. Косте Ценића ( од 16:00 до 19:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "d10976ae68e9",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-14",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-14-10-2026/",
-      "areaLabel": "Ердоглија",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Даничићева"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Ердоглија, ул. Даничићева ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "297af8b7025a",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-14",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-14-10-2026/",
-      "areaLabel": "Милатовац",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Видовданска"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Милатовац, ул. Видовданска ( од 16:00 до 19:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "303800663719",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-14",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-14-10-2026/",
-      "areaLabel": "Станово",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Книћанска"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Станово, ул. Книћанска ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
-    },
-    {
       "id": "e3a3d8aa6c09",
       "utility": "water",
       "kind": "emergency",
@@ -1208,11 +1004,6 @@
   ],
   "history": [
     {
-      "date": "2026-09-22",
-      "electricityOutages": 1,
-      "waterOutages": 10
-    },
-    {
       "date": "2026-09-23",
       "electricityOutages": 1,
       "waterOutages": 9
@@ -1356,6 +1147,11 @@
       "date": "2026-10-21",
       "electricityOutages": 0,
       "waterOutages": 9
+    },
+    {
+      "date": "2026-10-22",
+      "electricityOutages": 1,
+      "waterOutages": 0
     }
   ]
 }
