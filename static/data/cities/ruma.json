@@ -7,21 +7,6 @@
   },
   "outages": [
     {
-      "id": "260e6fadda86",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-10-15",
-      "areaLabel": "Доњи Петровци",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "Дана 15.10.2026. године у периоду од 9.00 до 13.00 часова, ради извођења радова на локалном изворишту, за време трајања радова без водоснабдевања остаће потрошачи у насељу Доњи Петровци.",
-      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-donji-petrovci-2/"
-    },
-    {
       "id": "cc69a08848db",
       "utility": "water",
       "kind": "emergency",
@@ -37,11 +22,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-23",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-24",
       "electricityOutages": 1,
@@ -184,6 +164,11 @@
     },
     {
       "date": "2026-10-22",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-23",
       "electricityOutages": 0,
       "waterOutages": 0
     }

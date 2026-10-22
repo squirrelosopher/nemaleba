@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "acfc21de2969",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-15",
-      "areaLabel": "Буковцу",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [
-        "Улица Светозара Милетића"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Светозара Милетића у Буковцу.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-15-10-2026/"
-    },
-    {
-      "id": "66d0c2f9d1c0",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-15",
-      "areaLabel": "Каћ",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [
-        "Улица Петра Драпшина и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Петра Драпшина и околне улице у Каћу.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-15-10-2026/"
-    },
-    {
-      "id": "35215c462a83",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-15",
-      "areaLabel": "Петроварадин",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Блок 8"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Блок 8 у Петроварадину.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-15-10-2026/"
-    },
-    {
       "id": "67b4e9a3dc9c",
       "utility": "water",
       "kind": "emergency",
@@ -196,11 +145,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-23",
-      "electricityOutages": 4,
-      "waterOutages": 7
-    },
     {
       "date": "2026-09-24",
       "electricityOutages": 6,
@@ -345,6 +289,11 @@
       "date": "2026-10-22",
       "electricityOutages": 1,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-10-23",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }
