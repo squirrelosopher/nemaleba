@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "1993a9186575",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-21",
-      "areaLabel": "Лозница",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Воћњак и Пасковац"
-      ],
-      "reason": null,
-      "note": "Воћњак и Пасковац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "2405a08691ac",
       "utility": "electricity",
       "kind": "planned",
@@ -42,7 +25,7 @@
       ],
       "reason": null,
       "note": "Јошева, Каменица, Милина, Текериш, Цер",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f7b6901a3a98",
@@ -59,7 +42,7 @@
       ],
       "reason": null,
       "note": "Воћњак код дома",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "64f5f8256b2f",
@@ -76,7 +59,7 @@
       ],
       "reason": null,
       "note": "Горњи Добрић извод према Ловачком Дому",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "97ecf17a6fa9",
@@ -93,7 +76,7 @@
       ],
       "reason": null,
       "note": "Тршић засеок Баир",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "f39ac1a91734",
@@ -111,7 +94,7 @@
       ],
       "reason": null,
       "note": "Костадиновићи, Доњи Добрић засеоци Доња Мала и Бареш",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "8f672ca0526d",
@@ -130,7 +113,7 @@
       ],
       "reason": null,
       "note": "Доњи Добрић засеок Слатина, Јадранска Лешница сасеок Ливадице, Бајића мала и Лукићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

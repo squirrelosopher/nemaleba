@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "109d7a16f16c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-21",
-      "areaLabel": "Голубац",
-      "time": {
-        "start": "09:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Барич",
-        "Бикиње"
-      ],
-      "reason": null,
-      "note": "Барич, Бикиње",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "177d76e558ba",
       "utility": "electricity",
       "kind": "planned",
@@ -40,7 +22,7 @@
       ],
       "reason": null,
       "note": "Барич, Бикиње",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

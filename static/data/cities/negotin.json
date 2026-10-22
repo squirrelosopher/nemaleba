@@ -5,25 +5,7 @@
     "nameLatin": "Negotin",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "351efc39c74f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-21",
-      "areaLabel": "Неготин",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Села: Глоговица и Дубочане"
-      ],
-      "reason": null,
-      "note": "Села: Глоговица и Дубочане",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-23",

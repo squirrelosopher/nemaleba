@@ -5,59 +5,7 @@
     "nameLatin": "Novi Kneževac",
     "branchCyrillic": "Суботица"
   },
-  "outages": [
-    {
-      "id": "b086f1ded029",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-21",
-      "areaLabel": "Нови Кнежевац",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Санад: Светозара Марковића (од Ђуре Јакшића до Ослобођења)."
-      ],
-      "reason": null,
-      "note": "Санад: Светозара Марковића (од Ђуре Јакшића до Ослобођења).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "fb8947bbe0ce",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-21",
-      "areaLabel": "Нови Кнежевац",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Санад: Жарка Зрењанина (од Ђуре Јакшића до Бранка Радичевића)."
-      ],
-      "reason": null,
-      "note": "Санад: Жарка Зрењанина (од Ђуре Јакшића до Бранка Радичевића).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a863769978e9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-21",
-      "areaLabel": "Нови Кнежевац",
-      "time": {
-        "start": "13:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Нови Кнежевац: Карађорђева (од Кнеза Михајла Обреновића до Владике Мојсија Миоковића), Кнеза Михајла Обреновића (од Карађорђеве до Милутина Миланковића)."
-      ],
-      "reason": null,
-      "note": "Нови Кнежевац: Карађорђева (од Кнеза Михајла Обреновића до Владике Мојсија Миоковића), Кнеза Михајла Обреновића (од Карађорђеве до Милутина Миланковића).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-23",

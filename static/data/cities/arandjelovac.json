@@ -5,25 +5,7 @@
     "nameLatin": "Aranđelovac",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [
-    {
-      "id": "fb87b7df9a0a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-21",
-      "areaLabel": "Аранђеловац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Насеље Топ Лаловићи"
-      ],
-      "reason": null,
-      "note": "Насеље Топ Лаловићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-23",

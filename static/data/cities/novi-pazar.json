@@ -7,33 +7,6 @@
   },
   "outages": [
     {
-      "id": "a601f1d08ee8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-21",
-      "areaLabel": "Нови Пазар",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Трнава",
-        "Чадориште",
-        "Брђани",
-        "Нетврђе",
-        "Рајетиће",
-        "Баре",
-        "Јавор",
-        "Гранични прелаз Кашаљ",
-        "Смилов лаз",
-        "Златаре",
-        "Војковиће"
-      ],
-      "reason": null,
-      "note": "Трнава, Чадориште, Брђани, Нетврђе, Рајетиће, Баре, Јавор, Гранични прелаз Кашаљ, Смилов лаз, Златаре, Војковиће",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1368cf7cdbe3",
       "utility": "electricity",
       "kind": "planned",
@@ -52,7 +25,7 @@
       ],
       "reason": null,
       "note": "Муровци, Крушево, Комиње, Кожље, Сметлиште",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

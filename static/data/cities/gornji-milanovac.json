@@ -5,43 +5,7 @@
     "nameLatin": "Gornji Milanovac",
     "branchCyrillic": "Чачак"
   },
-  "outages": [
-    {
-      "id": "cfd886b53d96",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-21",
-      "areaLabel": "Горњи Милановац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Од Прањана према Каменици",
-        "Богданици Гојној Гори."
-      ],
-      "reason": null,
-      "note": "Од Прањана према Каменици,Богданици Гојној Гори.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2f1e4bff923d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-21",
-      "areaLabel": "Горњи Милановац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Део Велеречи од фирме \"РП\"(бивша пекара ПОЉЕ) према Сврачковцима-до фирме \"С ГРУП\""
-      ],
-      "reason": null,
-      "note": "Део Велеречи од фирме \"РП\"(бивша пекара ПОЉЕ) према Сврачковцима-до фирме \"С ГРУП\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-23",

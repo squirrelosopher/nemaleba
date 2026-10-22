@@ -7,43 +7,6 @@
   },
   "outages": [
     {
-      "id": "7d3256063dae",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-21",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "ТС 10/0",
-        "4kV Супска 7(Шиља)",
-        "Војвода",
-        "Рубин и Водоснабдевање Мотерсон у Добричеву."
-      ],
-      "reason": null,
-      "note": "ТС 10/0,4kV Супска 7(Шиља), Војвода, Рубин и Водоснабдевање Мотерсон у Добричеву.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "df6cdfba0083",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-21",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део села Старо село ка центру"
-      ],
-      "reason": null,
-      "note": "део села Старо село ка центру",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "139917d27f7b",
       "utility": "electricity",
       "kind": "planned",
@@ -61,7 +24,7 @@
       ],
       "reason": null,
       "note": "део села Супска ,село Влашка, део села Исаково рејон Брест, део села Крушар на улазу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "22f02638cd86",
@@ -78,7 +41,7 @@
       ],
       "reason": null,
       "note": "део села Бигреница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "23e9c0585276",
@@ -95,7 +58,7 @@
       ],
       "reason": null,
       "note": "викенд насеље Латовица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
