@@ -7,6 +7,34 @@
   },
   "outages": [
     {
+      "id": "2bd491018156",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-15",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "насеље Дубока бара"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде ће од 22ч остати насеље Дубока бара.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/10/15/15-10-2026-3/"
+    },
+    {
+      "id": "7570b331a7f2",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-15",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Петефи Шандора од Добровољачке до Гробљанске улице"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остала Улица Петефи Шандора од Добровољачке до Гробљанске улице.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/10/15/15-10-2026-2/"
+    },
+    {
       "id": "8ce43758cd2c",
       "utility": "electricity",
       "kind": "planned",
