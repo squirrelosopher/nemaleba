@@ -5,25 +5,7 @@
     "nameLatin": "Zvezdara",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "80ad6e01e1ae",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Звездара",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље М.МОКРИ ЛУГ: ГЕЦЕ КОНА: 4-26,1-7А,17, МИРИЈЕВСКА: 3, ЗЛАТИБОРСКА: 39"
-      ],
-      "reason": null,
-      "note": "Насеље М.МОКРИ ЛУГ: ГЕЦЕ КОНА: 4-26,1-7А,17, МИРИЈЕВСКА: 3, ЗЛАТИБОРСКА: 39,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-23",
@@ -172,7 +154,7 @@
     },
     {
       "date": "2026-10-22",
-      "electricityOutages": 1,
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

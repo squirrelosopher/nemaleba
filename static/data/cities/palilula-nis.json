@@ -61,6 +61,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "7837bd2e89ff",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-22",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "17:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Дошло је до хаварије у Кајмакчаланској улици, код броја 23. Екипа ЈКП“Наиссус“ интензивно ради на отклањању квара тако да завршетак радова и нормализација водоснабдевања се предвиђа до 17 часова. Без воде су улице Кајмакчаланска, Штипска и Приштинска. Ауто-цистерна за снабдевање пијаћом налази се на поменутој локацији у Кајмакчаланској улици.",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%bf%d0%be%d0%bf%d1%80%d0%b0%d0%b2%d0%ba%d0%b0-%d0%ba%d0%b2%d0%b0%d1%80%d0%b0-%d1%83-%d0%be%d0%bf%d1%88%d1%82%d0%b8%d0%bd%d0%b8-%d0%bf%d0%b0%d0%bb%d0%b8%d0%bb%d1%83%d0%bb%d0%b0/"
+    },
+    {
       "id": "21c48d9eae14",
       "utility": "water",
       "kind": "emergency",
@@ -227,7 +242,7 @@
     {
       "date": "2026-10-22",
       "electricityOutages": 1,
-      "waterOutages": 1
+      "waterOutages": 3
     }
   ]
 }
