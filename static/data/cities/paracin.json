@@ -64,6 +64,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "25482b84ebf8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део села Ратаре"
+      ],
+      "reason": null,
+      "note": "Део села Ратаре",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
       "id": "ad55cff73d4e",
       "utility": "electricity",
       "kind": "planned",
@@ -79,23 +96,6 @@
       ],
       "reason": null,
       "note": "Косовска, део Шавачког насеља",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
-    },
-    {
-      "id": "25482b84ebf8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део села Ратаре"
-      ],
-      "reason": null,
-      "note": "Део села Ратаре",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     },
     {

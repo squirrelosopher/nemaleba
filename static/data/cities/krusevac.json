@@ -73,6 +73,57 @@
       "reason": null,
       "note": "Улице Мајке Југовића (од Обилићеве до Косовске) и Бате Паскаљевића и део улице Веселина Николића.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "b65c6ec30f05",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део насељеног места Дворане."
+      ],
+      "reason": null,
+      "note": "Део насељеног места Дворане.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "f5887669322d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "08:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "ССО на апотеци Анђела у улуци Миће Поповића"
+      ],
+      "reason": null,
+      "note": "ССО на апотеци Анђела у улуци Миће Поповића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "d3ed3e34106d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Улица Павла Јуришића Штурма и Текеришка"
+      ],
+      "reason": null,
+      "note": "Улица Павла Јуришића Штурма и Текеришка",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

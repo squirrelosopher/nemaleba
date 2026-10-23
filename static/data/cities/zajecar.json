@@ -5,7 +5,25 @@
     "nameLatin": "Zaječar",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "8d9e77f16fcb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Зајечар",
+      "time": {
+        "start": "09:00",
+        "end": "09:30"
+      },
+      "streets": [
+        "Зајечар ул. Саве Ковачевића бр. 14"
+      ],
+      "reason": null,
+      "note": "Зајечар ул. Саве Ковачевића бр. 14",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-24",

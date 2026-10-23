@@ -5,7 +5,25 @@
     "nameLatin": "Bela Palanka",
     "branchCyrillic": "Пирот"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f60602cc55b6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Бела Паланка",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део села Љубатовица."
+      ],
+      "reason": null,
+      "note": "део села Љубатовица.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-24",

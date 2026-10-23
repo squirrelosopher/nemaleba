@@ -22,6 +22,46 @@
       "reason": null,
       "note": "део села Црвена Јабука.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "f1ba59775b16",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Бабушница",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Грнчар",
+        "Модра Стена",
+        "Врело",
+        "Дол",
+        "Богдановац",
+        "Брестов Дол",
+        "Штрбовац."
+      ],
+      "reason": null,
+      "note": "Грнчар,Модра Стена,Врело,Дол,Богдановац,Брестов Дол,Штрбовац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "321ba207cd83",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Бабушница",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део села Црвена Јабука."
+      ],
+      "reason": null,
+      "note": "део села Црвена Јабука.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

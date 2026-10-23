@@ -5,7 +5,105 @@
     "nameLatin": "Šabac",
     "branchCyrillic": "Шабац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "abfed5881bbb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈУ ПОТРИШАЧИ У ДРУГОМ ДЕЛУ ВИКЕНД НАСЕЉА НА САВИ И ЦРПНА СТАНИЦА ШИРОКА БАРА И ДРЕНОВАЦ"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРИШАЧИ У ДРУГОМ ДЕЛУ ВИКЕНД НАСЕЉА НА САВИ И ЦРПНА СТАНИЦА ШИРОКА БАРА И ДРЕНОВАЦ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "2f3cb40b1c37",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈУ КУПЦИ У ДРУГОМ ДЕЛУ УЛ. ВУКА КАРАЏИЋА ОД БРАЋЕ НЕДИЋА ДО КАСАРНЕ",
+        "ВОЈВОДЕ ВУКА",
+        "1300 КАПЛАРА ОСЛОБОЂЕЊА ОД С.НОВАКОВИЋА ДО БАЊИЧКИХ ЖРТАВА И ДРАГИШЕ ПЕЊИНА"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈУ КУПЦИ У ДРУГОМ ДЕЛУ УЛ. ВУКА КАРАЏИЋА ОД БРАЋЕ НЕДИЋА ДО КАСАРНЕ, ВОЈВОДЕ ВУКА,1300 КАПЛАРА ОСЛОБОЂЕЊА ОД С.НОВАКОВИЋА ДО БАЊИЧКИХ ЖРТАВА И ДРАГИШЕ ПЕЊИНА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "cc3480a637a4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈУ КУПЦИ У УЛ. ИЛИЈ ЕСПИРИДОНОВИЋ",
+        "БОРИВОЈА МИЛИВОЈЕВИЋА",
+        "МЕШЕ СЕЛИМОВИЋА",
+        "РАЈЕ ДАМЈАНОВИЋА",
+        "ДЕО УЛ ЈАНКА СТОЈИЋЕВИЋА И ДЕО УЛ. ВОЈИСЛАВА ИЛИЋА",
+        "ДЕО УЛ. ЈОВАНА ТОМИЋА БЕЛОВА И НАСЕЉЕ У УЛ. КРАЉА МИЛУТИНА ОД ОД БР.7-101"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈУ КУПЦИ У УЛ. ИЛИЈ ЕСПИРИДОНОВИЋ,БОРИВОЈА МИЛИВОЈЕВИЋА,МЕШЕ СЕЛИМОВИЋА,РАЈЕ ДАМЈАНОВИЋА, ДЕО УЛ ЈАНКА СТОЈИЋЕВИЋА И ДЕО УЛ. ВОЈИСЛАВА ИЛИЋА, ДЕО УЛ. ЈОВАНА ТОМИЋА БЕЛОВА И НАСЕЉЕ У УЛ. КРАЉА МИЛУТИНА ОД ОД БР.7-101",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "41fd0179dbe2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈУ УЛИЦЕ НИКОЛ ЕВЛАШКОГ",
+        "СТЕРИЈИНА",
+        "МИХАИЛА РАШИЋА",
+        "ЂУРЂА БРАНКОВИЋА МИЛАНА ТОМИЋА БЕЛОВА ДРУГИ ДЕО И ВОЈВОДЕ Ј. СТОЈИЋЕВИЋА ДРУГИ ДЕО."
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈУ УЛИЦЕ НИКОЛ ЕВЛАШКОГ,СТЕРИЈИНА,МИХАИЛА РАШИЋА,ЂУРЂА БРАНКОВИЋА МИЛАНА ТОМИЋА БЕЛОВА ДРУГИ ДЕО И ВОЈВОДЕ Ј. СТОЈИЋЕВИЋА ДРУГИ ДЕО.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "7295493155c0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "12:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "БЕЗ НАПНА ОСТАЈУ УЛИЦЕ БОСАНСКА",
+        "НЕМАЊИНА",
+        "АНТЕ БОГИЋЕВИЋА И СТОЈАНА НОВАКОВИЋА"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПНА ОСТАЈУ УЛИЦЕ БОСАНСКА,НЕМАЊИНА,АНТЕ БОГИЋЕВИЋА И СТОЈАНА НОВАКОВИЋА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-24",

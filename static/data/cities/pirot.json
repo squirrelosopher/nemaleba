@@ -57,6 +57,92 @@
       "reason": null,
       "note": "део улице Славонска.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "7e0f52d4fa06",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "07:45",
+        "end": "09:45"
+      },
+      "streets": [
+        "део улице Омладинске бригаде",
+        "Војводе Степе."
+      ],
+      "reason": null,
+      "note": "део улице Омладинске бригаде,Војводе Степе.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "8c4014f2ec1d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Пребијен Дел."
+      ],
+      "reason": null,
+      "note": "Пребијен Дел.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "253fee2848c6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Камик."
+      ],
+      "reason": null,
+      "note": "Камик.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "9c9a4a36ad44",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "11:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Тунел Сопот."
+      ],
+      "reason": null,
+      "note": "Тунел Сопот.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "0c3944ea9148",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "11:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "део улице Стевана Сремца."
+      ],
+      "reason": null,
+      "note": "део улице Стевана Сремца.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

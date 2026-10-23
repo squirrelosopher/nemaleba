@@ -5,7 +5,25 @@
     "nameLatin": "Odžaci",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "4280c78298b8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Оџаци",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Бач: Б.РАДИЧЕВИЋА 1-13 и 2-24, М.ТИТА 21-37 и 24-42"
+      ],
+      "reason": null,
+      "note": "Бач: Б.РАДИЧЕВИЋА 1-13 и 2-24, М.ТИТА 21-37 и 24-42",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-24",
