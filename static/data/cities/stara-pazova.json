@@ -56,6 +56,23 @@
       "reason": null,
       "note": "Стара Пазова: улица Доситејева",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "8464daaadc76",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Стара Пазова",
+      "time": {
+        "start": "08:00",
+        "end": "08:30"
+      },
+      "streets": [
+        "Војка : ул. В.Мишића"
+      ],
+      "reason": null,
+      "note": "Војка : ул. В.Мишића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

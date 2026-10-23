@@ -7,20 +7,23 @@
   },
   "outages": [
     {
-      "id": "a10e5b933626",
+      "id": "2fec662c9cf1",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "areaLabel": "Параћин",
       "time": {
-        "start": "09:00",
-        "end": "12:00"
+        "start": "07:30",
+        "end": "08:15"
       },
       "streets": [
-        "Део села Поточац"
+        "Слео Главица",
+        "ДОО Милић",
+        "Ралевић",
+        "Ефикс и насеље Лозица"
       ],
       "reason": null,
-      "note": "Део села Поточац",
+      "note": "Слео Главица , ДОО Милић, Ралевић, Ефикс и насеље Лозица",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
@@ -41,7 +44,7 @@
       ],
       "reason": null,
       "note": "Гаврила Принципа,део Синђелићеве,део Стевана Сремца, део Драгослава Маринковић и део Јована Дучића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "c6d87805b525",
@@ -58,7 +61,59 @@
       ],
       "reason": null,
       "note": "Петковић кланица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "ad55cff73d4e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Косовска",
+        "део Шавачког насеља"
+      ],
+      "reason": null,
+      "note": "Косовска, део Шавачког насеља",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "25482b84ebf8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део села Ратаре"
+      ],
+      "reason": null,
+      "note": "Део села Ратаре",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "3e0bb1db3913",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "10:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део села Крежбинац"
+      ],
+      "reason": null,
+      "note": "Део села Крежбинац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -209,7 +264,7 @@
     },
     {
       "date": "2026-10-23",
-      "electricityOutages": 1,
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

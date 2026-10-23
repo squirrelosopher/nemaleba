@@ -5,7 +5,46 @@
     "nameLatin": "Sjenica",
     "branchCyrillic": "Нови Пазар"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "e25a1ff6a135",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Сјеница",
+      "time": {
+        "start": "10:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Село Гргаје",
+        "Захумско",
+        "Врбница и Тутиће"
+      ],
+      "reason": null,
+      "note": "Село Гргаје, Захумско, Врбница и Тутиће",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "d067622ec973",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-24",
+      "areaLabel": "Сјеница",
+      "time": {
+        "start": "10:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Село Гргаје",
+        "Захумско",
+        "Врбница и Тутиће"
+      ],
+      "reason": null,
+      "note": "Село Гргаје, Захумско, Врбница и Тутиће",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-24",
@@ -154,7 +193,7 @@
     },
     {
       "date": "2026-10-23",
-      "electricityOutages": 0,
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

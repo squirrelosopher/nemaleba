@@ -19,6 +19,40 @@
       "reason": null,
       "note": "Тренутно је у току санација квара на водоводној мрежи у улици ЈНА, са могућношћу прекида водоснабдевања у улици за време трајања радова.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-85/"
+    },
+    {
+      "id": "e272499fd025",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Рума",
+      "time": {
+        "start": "10:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Рума : Део ул.А.Цесарца око бр.51"
+      ],
+      "reason": null,
+      "note": "Рума : Део ул.А.Цесарца око бр.51",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "c77a60bd6fbb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Рума",
+      "time": {
+        "start": "11:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Хртковци: Део ул.В.Степе око бр.46"
+      ],
+      "reason": null,
+      "note": "Хртковци: Део ул.В.Степе око бр.46",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

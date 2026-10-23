@@ -49,6 +49,20 @@
       "reason": "Санација кварова на водоводној мрежи",
       "note": "Улица Моше Пијаде Кварови на мерним местима – у шахтама",
       "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-22-10-2026-god/"
+    },
+    {
+      "id": "daf28b04db98",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-23",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Палестинско насеље – Ф насеље – Замена дела водоводне мреже"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Палестинско насеље – Ф насеље – Замена дела водоводне мреже Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-petak-23-10-2026-god/"
     }
   ],
   "history": [
@@ -200,7 +214,7 @@
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

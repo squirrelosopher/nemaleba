@@ -7,39 +7,72 @@
   },
   "outages": [
     {
-      "id": "f6ef2c2a4964",
+      "id": "8e80b33db27f",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "areaLabel": "Краљево",
       "time": {
-        "start": "07:00",
-        "end": "16:00"
+        "start": "08:00",
+        "end": "13:00"
       },
       "streets": [
-        "У Прогорелици лакат",
-        "Пантелић и поље. Матаруге центар села",
-        "Конарево део око месне заједнице."
+        "У Тавнику",
+        "код Војне поште."
       ],
       "reason": null,
-      "note": "У Прогорелици лакат, Пантелић и поље. Матаруге центар села, Конарево део око месне заједнице.",
+      "note": "У Тавнику, код Војне поште.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "b2d86a322cd3",
+      "id": "cb9bb1a49080",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "areaLabel": "Краљево",
       "time": {
-        "start": "09:00",
-        "end": "15:00"
+        "start": "08:00",
+        "end": "13:00"
       },
       "streets": [
-        "У Стублу и Угљареву."
+        "У Горњој Рибници око каменог моста."
       ],
       "reason": null,
-      "note": "У Стублу и Угљареву.",
+      "note": "У Горњој Рибници око каменог моста.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "e9ba29b1272e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "У Врби Тимотијевићи и врбска главица."
+      ],
+      "reason": null,
+      "note": "У Врби Тимотијевићи и врбска главица.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "a655e32820f2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "У Лопатници центар."
+      ],
+      "reason": null,
+      "note": "У Лопатници центар.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
@@ -191,7 +224,7 @@
     },
     {
       "date": "2026-10-23",
-      "electricityOutages": 0,
+      "electricityOutages": 4,
       "waterOutages": 0
     }
   ]

@@ -7,20 +7,41 @@
   },
   "outages": [
     {
-      "id": "5b4da9cf9d0f",
+      "id": "ab7e30cfd245",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "areaLabel": "Осечина",
       "time": {
         "start": "08:00",
-        "end": "15:00"
+        "end": "16:00"
       },
       "streets": [
-        "Купци дела Царина (према Обрадовићима)"
+        "Купци места Коњуша",
+        "Бодуша",
+        "део села Осечина",
+        "део Плужца и Горње Црниљево"
       ],
       "reason": null,
-      "note": "Купци дела Царина (према Обрадовићима)",
+      "note": "Купци места Коњуша, Бодуша, део села Осечина, део Плужца и Горње Црниљево",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "c359a080cc31",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Осечина",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Купци места Комирић",
+        "Белотић"
+      ],
+      "reason": null,
+      "note": "Купци места Комирић, Белотић",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
@@ -172,7 +193,7 @@
     },
     {
       "date": "2026-10-23",
-      "electricityOutages": 0,
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

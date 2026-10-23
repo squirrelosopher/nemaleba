@@ -7,44 +7,6 @@
   },
   "outages": [
     {
-      "id": "d9686a89b3ce",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "11:30"
-      },
-      "streets": [
-        "Насеље Шопић",
-        "Проте Чеде",
-        "Пролећног цвећа",
-        "део улице Станислав Сремчевић-Црни",
-        "Кошарска (засеок код Цркве)."
-      ],
-      "reason": null,
-      "note": "Насеље Шопић,Проте Чеде,Пролећног цвећа,део улице Станислав Сремчевић-Црни,Кошарска (засеок код Цркве).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "60a5babef3a6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "12:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Насеље Дрен (засеок код школе)."
-      ],
-      "reason": null,
-      "note": "Насеље Дрен (засеок код школе).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e9fab296274d",
       "utility": "electricity",
       "kind": "planned",
@@ -59,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље Велики Црљени (засеок Рудничка колонија).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2d00960a3dcb",
@@ -76,7 +38,65 @@
       ],
       "reason": null,
       "note": "Насеље Степојевац (засеок Сточна пијаца).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "864bec6e8573",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Светог Саве 23-37",
+        "38-52",
+        "Краља Петра Првог 33-59."
+      ],
+      "reason": null,
+      "note": "Светог Саве 23-37,38-52, Краља Петра Првог 33-59.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "5c8b3cf450ff",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Игманска 1-25",
+        "2-18а",
+        "Друге Шумадијске бригаде 2",
+        "Др. Ђорђа Ковачевића 1",
+        "1а",
+        "1б."
+      ],
+      "reason": null,
+      "note": "Игманска 1-25, 2-18а, Друге Шумадијске бригаде 2, Др. Ђорђа Ковачевића 1,1а,1б.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "2f189d3a1f30",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Мионица: Горња Топлица (засеок Ковачевићи-према Симићу)."
+      ],
+      "reason": null,
+      "note": "Мионица: Горња Топлица (засеок Ковачевићи-према Симићу).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

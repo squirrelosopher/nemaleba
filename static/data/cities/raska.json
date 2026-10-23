@@ -5,7 +5,31 @@
     "nameLatin": "Raška",
     "branchCyrillic": "Краљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "b6695394ea38",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Рашка",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Ново Село",
+        "Бељак",
+        "Шипачина",
+        "Ћирковиће",
+        "Лисина",
+        "Чајетина",
+        "Глог"
+      ],
+      "reason": null,
+      "note": "Ново Село,Бељак,Шипачина,Ћирковиће,Лисина,Чајетина,Глог",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-24",
@@ -154,7 +178,7 @@
     },
     {
       "date": "2026-10-23",
-      "electricityOutages": 0,
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

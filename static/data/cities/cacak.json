@@ -7,38 +7,73 @@
   },
   "outages": [
     {
-      "id": "9303ed7a1399",
+      "id": "b47819f973bc",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Потрошачи у ул. Д. Мишовића од 92 до 124",
-        "Симе Сараге од почетка до пруге и Булевар Ослобођења од 2 до 10;"
-      ],
-      "reason": null,
-      "note": "Потрошачи у ул. Д. Мишовића од 92 до 124, Симе Сараге од почетка до пруге и Булевар Ослобођења од 2 до 10;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "547640fa8420",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "areaLabel": "Чачак",
       "time": {
         "start": "08:00",
         "end": "15:00"
       },
       "streets": [
-        "Потрошачи у Горичанима са ТС Горичани кула."
+        "Потрошачи у Горњњем делу Лознице",
+        "потес Здрављак",
+        "као и у Горњој Атеници."
       ],
       "reason": null,
-      "note": "Потрошачи у Горичанима са ТС Горичани кула.",
+      "note": "Потрошачи у Горњњем делу Лознице, потес Здрављак, као и у Горњој Атеници.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "6b8c383ec817",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Потрошачи у Придворици и Јездини."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Придворици и Јездини.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "52187b81aecb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Потрошачи у Горњим Миоковцима."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Горњим Миоковцима.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "abb1e4a0d856",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "11:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Потрошачи у Прељини који се напајају са ТС Меридијан Фриго"
+      ],
+      "reason": null,
+      "note": "Потрошачи у Прељини који се напајају са ТС Меридијан Фриго",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
@@ -190,7 +225,7 @@
     },
     {
       "date": "2026-10-23",
-      "electricityOutages": 0,
+      "electricityOutages": 4,
       "waterOutages": 0
     }
   ]

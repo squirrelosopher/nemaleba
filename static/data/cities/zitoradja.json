@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "299ee0444139",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Житорађа",
-      "time": {
-        "start": "08:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Речица",
-        "Лукомир и Влахово"
-      ],
-      "reason": null,
-      "note": "Речица,Лукомир и Влахово",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "2ab64f77163e",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +21,7 @@
       ],
       "reason": null,
       "note": "Ђакус 3",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -190,7 +172,7 @@
     },
     {
       "date": "2026-10-23",
-      "electricityOutages": 1,
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

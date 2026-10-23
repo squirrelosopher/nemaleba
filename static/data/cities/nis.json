@@ -575,97 +575,6 @@
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-201/"
     },
     {
-      "id": "d0d75028f2be",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "делови Горњоматејевачке и Студеничке;"
-      ],
-      "reason": null,
-      "note": "делови Горњоматејевачке и Студеничке;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5d1e32675598",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "делови Требињске",
-        "Војводе Путника",
-        "Космајске",
-        "Бубањске долине;"
-      ],
-      "reason": null,
-      "note": "делови Требињске, Војводе Путника, Космајске, Бубањске долине;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6235f74caf3e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Нишка бања",
-      "time": {
-        "start": "09:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "Насеље Никола Тесла - делови Бул. Светог Цара Константина",
-        "Друга Нишавска прилаз два (2);"
-      ],
-      "reason": null,
-      "note": "Насеље Никола Тесла - делови Бул. Светог Цара Константина, Друга Нишавска прилаз два (2);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "600f7629e444",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "11:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "делови Матејевачког пута (41",
-        "бб);"
-      ],
-      "reason": null,
-      "note": "делови Матејевачког пута (41,бб);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c828981c06aa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Нишка бања",
-      "time": {
-        "start": "12:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "делови Чегарске (непарни бр. 9-53",
-        "парни бр. 30-44);"
-      ],
-      "reason": null,
-      "note": "делови Чегарске (непарни бр. 9-53, парни бр. 30-44);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e56148862429",
       "utility": "water",
       "kind": "emergency",
@@ -760,6 +669,67 @@
       "reason": null,
       "note": "ИНТЕРВЕНЦИЈА У ОПШТИНИ ПАЛИЛУЛА збија вода испред гараже, потребан је ископ у улици Васе Чарапића, код броја 14. Због интервенције биће у прекиду водоснабдевање до 15 часова у улици Слободана Пенезића Крцуна са прилазима, али је могућ прекид и на простору између улица Његошеве и Кованлучке и са друге стране Старца Вујадина и Марка Јовановића",
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-201/"
+    },
+    {
+      "id": "e95b9529a5b4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "делови Книнске (23-48)",
+        "Др Војислава Вучковића (9",
+        "11",
+        "14);"
+      ],
+      "reason": null,
+      "note": "делови Книнске (23-48), Др Војислава Вучковића (9,11,14);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "ffc5a7b61526",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "15:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "делови Косте Абрашевића (парни бр. 2-50)",
+        "Ивана Милутиновића (3",
+        "11б",
+        "11д",
+        "бб);"
+      ],
+      "reason": null,
+      "note": "делови Косте Абрашевића (парни бр. 2-50), Ивана Милутиновића (3,11б,11д,бб);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "18e483d952de",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "17:30",
+        "end": "19:30"
+      },
+      "streets": [
+        "делови Требињске (13",
+        "20)",
+        "Бубањске долине (1-32",
+        "47);"
+      ],
+      "reason": null,
+      "note": "делови Требињске (13,20), Бубањске долине (1-32,47);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -910,7 +880,7 @@
     },
     {
       "date": "2026-10-23",
-      "electricityOutages": 0,
+      "electricityOutages": 3,
       "waterOutages": 0
     }
   ]

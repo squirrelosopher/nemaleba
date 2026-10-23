@@ -7,20 +7,22 @@
   },
   "outages": [
     {
-      "id": "ff31f0224f7d",
+      "id": "cb2c45b5e97f",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "areaLabel": "Чајетина",
       "time": {
         "start": "09:00",
-        "end": "14:00"
+        "end": "15:00"
       },
       "streets": [
-        "Кобиља глава"
+        "Мала",
+        "Бјеличићи",
+        "Стаматовићи"
       ],
       "reason": null,
-      "note": "Кобиља глава",
+      "note": "Мала, Бјеличићи, Стаматовићи",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
@@ -172,7 +174,7 @@
     },
     {
       "date": "2026-10-23",
-      "electricityOutages": 0,
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

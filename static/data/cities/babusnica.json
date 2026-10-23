@@ -7,21 +7,20 @@
   },
   "outages": [
     {
-      "id": "c07ba4b2b2ec",
+      "id": "95e760cdef99",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "areaLabel": "Бабушница",
       "time": {
         "start": "09:00",
         "end": "14:00"
       },
       "streets": [
-        "део села Берин Извор",
-        "Грнчар."
+        "део села Црвена Јабука."
       ],
       "reason": null,
-      "note": "део села Берин Извор,Грнчар.",
+      "note": "део села Црвена Јабука.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
@@ -173,7 +172,7 @@
     },
     {
       "date": "2026-10-23",
-      "electricityOutages": 0,
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

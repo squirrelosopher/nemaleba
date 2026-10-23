@@ -7,21 +7,25 @@
   },
   "outages": [
     {
-      "id": "d837322acce1",
+      "id": "1bba330f9c78",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-22",
+      "date": "2026-10-26",
       "areaLabel": "Рековац",
       "time": {
         "start": "09:00",
         "end": "14:00"
       },
       "streets": [
-        "Село Урсуле и Лукар"
+        "Села Д.Крчин .С.Крчин",
+        "Г.Крчин",
+        "Пајковац",
+        "Карановац",
+        "Тољевац и М.Крушевица"
       ],
       "reason": null,
-      "note": "Село Урсуле и Лукар",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "Села Д.Крчин .С.Крчин ,Г.Крчин ,Пајковац ,Карановац ,Тољевац и М.Крушевица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

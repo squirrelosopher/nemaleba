@@ -5,44 +5,7 @@
     "nameLatin": "Niška Banja",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "6235f74caf3e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Нишка бања",
-      "time": {
-        "start": "09:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "Насеље Никола Тесла - делови Бул. Светог Цара Константина",
-        "Друга Нишавска прилаз два (2);"
-      ],
-      "reason": null,
-      "note": "Насеље Никола Тесла - делови Бул. Светог Цара Константина, Друга Нишавска прилаз два (2);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c828981c06aa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Нишка бања",
-      "time": {
-        "start": "12:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "делови Чегарске (непарни бр. 9-53",
-        "парни бр. 30-44);"
-      ],
-      "reason": null,
-      "note": "делови Чегарске (непарни бр. 9-53, парни бр. 30-44);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-24",

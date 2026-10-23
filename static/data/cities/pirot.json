@@ -7,10 +7,27 @@
   },
   "outages": [
     {
-      "id": "10445c6b07f6",
+      "id": "f36987efd1d3",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Рагодеш."
+      ],
+      "reason": null,
+      "note": "Рагодеш.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "8a20d605638f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
       "areaLabel": "Пирот",
       "time": {
         "start": "08:30",
@@ -25,37 +42,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "ff149c93afa7",
+      "id": "ab3ab312b68e",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "areaLabel": "Пирот",
       "time": {
         "start": "09:00",
         "end": "11:00"
       },
       "streets": [
-        "део улице Бериловачки Пут."
+        "део улице Славонска."
       ],
       "reason": null,
-      "note": "део улице Бериловачки Пут.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c9d810de7b79",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "11:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "део улице Занатлиска."
-      ],
-      "reason": null,
-      "note": "део улице Занатлиска.",
+      "note": "део улице Славонска.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
@@ -207,7 +207,7 @@
     },
     {
       "date": "2026-10-23",
-      "electricityOutages": 0,
+      "electricityOutages": 3,
       "waterOutages": 0
     }
   ]

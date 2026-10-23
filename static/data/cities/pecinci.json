@@ -5,7 +5,25 @@
     "nameLatin": "Pećinci",
     "branchCyrillic": "Рума"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "e645829975aa",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Пећинци",
+      "time": {
+        "start": "09:00",
+        "end": "09:30"
+      },
+      "streets": [
+        "Пећинци : ул.Браће Крстић"
+      ],
+      "reason": null,
+      "note": "Пећинци : ул.Браће Крстић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-24",

@@ -22,6 +22,41 @@
       "reason": null,
       "note": "Цело насељено место Елемир",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "86e375499c18",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Зрењанин: део Војводе Петра Бојовића, део Житни Трг, ТЦ \"Мала Варош\", Коче Коларова, Метохијска, Николе Пашића, Тоше Јовановића, Трг Јна",
+        "део Доситеја Обрадовића, део Др Корнела Радуловића, део Нушићева, Трг Доситеја Обрадовића, Франкопанова"
+      ],
+      "reason": null,
+      "note": "Зрењанин: део Војводе Петра Бојовића, део Житни Трг, ТЦ \"Мала Варош\", Коче Коларова, Метохијска, Николе Пашића, Тоше Јовановића, Трг Јна, \r\nдео Доситеја Обрадовића, део Др Корнела Радуловића, део Нушићева, Трг Доситеја Обрадовића, Франкопанова",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "f2ecdf86b401",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Меленци: Радничко насеље, део Живе Брцанског, део Жарка Адамова."
+      ],
+      "reason": null,
+      "note": "Меленци: Радничко насеље, део Живе Брцанског, део Жарка Адамова.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

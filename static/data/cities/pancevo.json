@@ -39,6 +39,40 @@
       "reason": null,
       "note": "Панчево: Петефи Шандора од Јанка Чмелика до Гробљанске и Добровољачка од Св.Марковића до П.Шандора.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "076470cbd4e7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Панчево: Скадарска од пруге до Преспанске."
+      ],
+      "reason": null,
+      "note": "Панчево: Скадарска од пруге до Преспанске.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "25cac342b493",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-26",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "10:00",
+        "end": "11:30"
+      },
+      "streets": [
+        "Панчево: М.Марковић од Кнез Михајла Обреновића до С.Шупљкица - непарна страна."
+      ],
+      "reason": null,
+      "note": "Панчево: М.Марковић од Кнез Михајла Обреновића до С.Шупљкица - непарна страна.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

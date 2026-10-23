@@ -21,41 +21,7 @@
       ],
       "reason": null,
       "note": "Насељено место Вратаре и део насељеног места Падеж",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "4fd33b88a1f4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "09:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Део насељеног места Мачковац (Лукићи)"
-      ],
-      "reason": null,
-      "note": "Део насељеног места Мачковац (Лукићи)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "c0eab9afa8e7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "09:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "Улице Мајке Југовића (од Обилићеве до Косовске) и Бате Паскаљевића и део улице Веселина Николића."
-      ],
-      "reason": null,
-      "note": "Улице Мајке Југовића (од Обилићеве до Косовске) и Бате Паскаљевића и део улице Веселина Николића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5aff11859f6b",
@@ -72,7 +38,41 @@
       ],
       "reason": null,
       "note": "Део насељеног места Модрица (према Дворану)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "4fd33b88a1f4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "09:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Део насељеног места Мачковац (Лукићи)"
+      ],
+      "reason": null,
+      "note": "Део насељеног места Мачковац (Лукићи)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "c0eab9afa8e7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "09:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Улице Мајке Југовића (од Обилићеве до Косовске) и Бате Паскаљевића и део улице Веселина Николића."
+      ],
+      "reason": null,
+      "note": "Улице Мајке Југовића (од Обилићеве до Косовске) и Бате Паскаљевића и део улице Веселина Николића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

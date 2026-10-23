@@ -7,43 +7,6 @@
   },
   "outages": [
     {
-      "id": "139917d27f7b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "део села Супска",
-        "село Влашка",
-        "део села Исаково рејон Брест",
-        "део села Крушар на улазу"
-      ],
-      "reason": null,
-      "note": "део села Супска ,село Влашка, део села Исаково рејон Брест, део села Крушар на улазу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "22f02638cd86",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део села Бигреница"
-      ],
-      "reason": null,
-      "note": "део села Бигреница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "23e9c0585276",
       "utility": "electricity",
       "kind": "planned",
@@ -58,7 +21,7 @@
       ],
       "reason": null,
       "note": "викенд насеље Латовица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

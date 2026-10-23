@@ -7,10 +7,10 @@
   },
   "outages": [
     {
-      "id": "2294637503fb",
+      "id": "99f50521c920",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "areaLabel": "Јагодина",
       "time": {
         "start": "09:00",
@@ -38,24 +38,7 @@
       ],
       "reason": null,
       "note": "Део села Ново Ланиште",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "99f50521c920",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Јагодина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Село Лозовик"
-      ],
-      "reason": null,
-      "note": "Село Лозовик",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
