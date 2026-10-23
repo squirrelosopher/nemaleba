@@ -92,41 +92,6 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-21-10-2026/"
     },
     {
-      "id": "de6c79fd118b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Зеленгорска",
-        "Васе Стајића",
-        "Цара Лазара 204 – 230",
-        "227 – 235",
-        "Руменачка 1 – 13",
-        "Раде Кондића 178",
-        "184",
-        "187",
-        "189",
-        "Војвођанских бригада 2 – 8",
-        "Николе Тесле 1 – 29",
-        "2 – 34",
-        "Бањалучка 1 – 35 А",
-        "2 – 32",
-        "Раде Кончара1 – 47",
-        "2 – 6 А",
-        "Основна школа Мирослав Антић",
-        "Семафор на углу Руменачке и Раде Кондића",
-        "Столар у Васе Стајића."
-      ],
-      "reason": null,
-      "note": "Зеленгорска, Васе Стајића, Цара Лазара 204 – 230, 227 – 235, Руменачка 1 – 13, Раде Кондића 178, 184, 187, 189, Војвођанских бригада 2 – 8, Николе Тесле 1 – 29, 2 – 34, Бањалучка 1 – 35 А, 2 – 32, Раде Кончара1 – 47, 2 – 6 А, Основна школа Мирослав Антић, Семафор на углу Руменачке и Раде Кондића, Столар у Васе Стајића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1af8deeeff9f",
       "utility": "water",
       "kind": "emergency",
@@ -142,6 +107,41 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Дринска улица.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-22-10-2026/"
+    },
+    {
+      "id": "7b5960087de0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Ветерник: Нова и Нова 92 према Дунаву"
+      ],
+      "reason": null,
+      "note": "Ветерник: Нова и Нова 92 према Дунаву",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "88aa6c677f15",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-23",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Темерински пут 26А; Васе Остојића 24",
+        "26\r\nМАТИЈЕВИЋ"
+      ],
+      "reason": null,
+      "note": "Темерински пут 26А; Васе Остојића 24, 26\r\nМАТИЈЕВИЋ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -292,7 +292,7 @@
     },
     {
       "date": "2026-10-23",
-      "electricityOutages": 0,
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

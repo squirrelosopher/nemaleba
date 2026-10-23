@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "06734e4aa72e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Зрењанин",
-      "time": {
-        "start": "08:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Цело насељено место Елемир"
-      ],
-      "reason": null,
-      "note": "Цело насељено место Елемир",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "86e375499c18",
       "utility": "electricity",
       "kind": "planned",

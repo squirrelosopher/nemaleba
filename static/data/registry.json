@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-23T06:11:29.913Z",
+  "generatedAt": "2026-10-23T07:11:28.272Z",
   "summary": {
     "date": "2026-10-23",
-    "electricityOutages": 129,
-    "waterOutages": 14,
+    "electricityOutages": 132,
+    "waterOutages": 21,
     "affected": [
       {
         "id": "beograd",
@@ -16,6 +16,12 @@
         "nameCyrillic": "Крагујевац",
         "electricityOutages": 0,
         "waterOutages": 13
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 3,
+        "waterOutages": 7
       },
       {
         "id": "subotica",
@@ -68,12 +74,6 @@
       {
         "id": "kanjiza",
         "nameCyrillic": "Кањижа",
-        "electricityOutages": 3,
-        "waterOutages": 0
-      },
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -152,6 +152,12 @@
       {
         "id": "merosina",
         "nameCyrillic": "Мерошина",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -260,6 +266,12 @@
       {
         "id": "gornji-milanovac",
         "nameCyrillic": "Горњи Милановац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "zabalj",
+        "nameCyrillic": "Жабаљ",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -479,8 +491,8 @@
     },
     {
       "date": "2026-10-23",
-      "electricityOutages": 97,
-      "waterOutages": 14
+      "electricityOutages": 100,
+      "waterOutages": 21
     }
   ],
   "providers": [

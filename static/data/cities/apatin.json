@@ -5,25 +5,7 @@
     "nameLatin": "Apatin",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [
-    {
-      "id": "34f6a5927b89",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Апатин",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Богојево: Дунавска обала."
-      ],
-      "reason": null,
-      "note": "Богојево: Дунавска обала.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-24",

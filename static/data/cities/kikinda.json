@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "e83bf75fdf87",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Кикинда",
-      "time": {
-        "start": "13:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Наково: Симе Бајића од Здравка Челара до Младена Стојановића."
-      ],
-      "reason": null,
-      "note": "Наково: Симе Бајића од Здравка Челара до Младена Стојановића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ffb8425dec88",
       "utility": "electricity",
       "kind": "planned",

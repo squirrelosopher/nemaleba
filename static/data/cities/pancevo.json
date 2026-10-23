@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "8ce43758cd2c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-22",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "09:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Долово: Саве Ковачевића, Пастирска од С.Ковачевића до С.Маринковића и С.Маринковића 37-41."
-      ],
-      "reason": null,
-      "note": "Долово: Саве Ковачевића, Пастирска од С.Ковачевића до С.Маринковића и С.Маринковића 37-41.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "fd38d00577fe",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Панчево: Петефи Шандора од Јанка Чмелика до Гробљанске и Добровољачка од Св.Марковића до П.Шандора.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "076470cbd4e7",
