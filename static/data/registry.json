@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-23T08:29:30.565Z",
+  "generatedAt": "2026-10-23T09:11:29.265Z",
   "summary": {
     "date": "2026-10-23",
     "electricityOutages": 132,
-    "waterOutages": 21,
+    "waterOutages": 23,
     "affected": [
       {
         "id": "beograd",
@@ -58,6 +58,12 @@
         "nameCyrillic": "Лозница",
         "electricityOutages": 4,
         "waterOutages": 0
+      },
+      {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 2,
+        "waterOutages": 2
       },
       {
         "id": "stara-pazova",
@@ -152,12 +158,6 @@
       {
         "id": "merosina",
         "nameCyrillic": "Мерошина",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -492,7 +492,7 @@
     {
       "date": "2026-10-23",
       "electricityOutages": 100,
-      "waterOutages": 21
+      "waterOutages": 23
     }
   ],
   "providers": [

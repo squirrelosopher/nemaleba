@@ -142,6 +142,35 @@
       "reason": null,
       "note": "Темерински пут 26А; Васе Остојића 24, 26\r\nМАТИЈЕВИЋ",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "716d1e2e9fef",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-23",
+      "areaLabel": "Нови Сад",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи, без воде је Улица 7. војвођанске бригаде и околне улице у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-23-10-2026/"
+    },
+    {
+      "id": "6821df10824d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-23",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Миколе Кочиша и Горње ливаде"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Улица Миколе Кочиша и Горње ливаде.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-23-10-2026/"
     }
   ],
   "history": [
@@ -293,7 +322,7 @@
     {
       "date": "2026-10-23",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 2
     }
   ]
 }
