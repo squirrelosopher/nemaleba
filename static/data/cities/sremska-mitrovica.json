@@ -7,6 +7,21 @@
   },
   "outages": [
     {
+      "id": "6a7771043273",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-19",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Због тога ће у времену од 9 до 13 сати без воде бити потрошачи у делу Улице Тараса Шевченка – од раскрснице са Улицом Владимира Матијевића до раскрснице са Улицом Петра Прерадовића.",
+      "sourceUrl": "https://vodovodsm.rs/strana/10186"
+    },
+    {
       "id": "13768bf9b2d4",
       "utility": "electricity",
       "kind": "planned",
@@ -21,7 +36,7 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Ул. 16. дивизије бр. 2 улази А и Б",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "1733d5d8d960",
@@ -38,7 +53,7 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Ул. Петра Прерадовића од бр.34-56",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "92868fbc72de",
@@ -55,6 +70,23 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Насеље Стари мост од бр. 1-15 и 2-4 и бб\r\nПроменада б.б.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "391ac5248c72",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Сремска Митровица: Ул. Уроша Стојшића од бр. 2-18"
+      ],
+      "reason": null,
+      "note": "Сремска Митровица: Ул. Уроша Стојшића од бр. 2-18",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

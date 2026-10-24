@@ -26,7 +26,7 @@
       ],
       "reason": null,
       "note": "Села Брестово, Богава, део В.Поповић - Јавор,код Миће и Беке, д.о.о Долина,БС 6 Богава гасна станица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "f6559d7e6ec9",
@@ -44,6 +44,23 @@
       ],
       "reason": null,
       "note": "Велики Поповић, Фирма \"Украс\" и Млин Јовић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "3831ff0b7062",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Деспотовац",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Миливска колонија и део села Плажане"
+      ],
+      "reason": null,
+      "note": "Миливска колонија и део села Плажане",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],

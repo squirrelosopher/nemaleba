@@ -7,39 +7,101 @@
   },
   "outages": [
     {
-      "id": "7b5960087de0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
+      "id": "1fd903b6c3b8",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-19",
       "areaLabel": "Нови Сад",
       "time": {
-        "start": "09:00",
-        "end": "11:00"
+        "start": null,
+        "end": "15:00"
       },
       "streets": [
-        "Ветерник: Нова и Нова 92 према Дунаву"
+        "Булевар патријарха Павла, од Сомборске улице до Футошког пута"
       ],
       "reason": null,
-      "note": "Ветерник: Нова и Нова 92 према Дунаву",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Булевар патријарха Павла, од Сомборске улице до Футошког пута.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-19-10-2026/"
     },
     {
-      "id": "88aa6c677f15",
-      "utility": "electricity",
-      "kind": "planned",
+      "id": "fa9e08e146d4",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-20",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Улица Славка Родића"
+      ],
+      "reason": null,
+      "note": "Због планираних радова на водоводној мрежи без воде ће од 8 до 12 сати бити Улица Славка Родића у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-utorak-20-10-2026/"
+    },
+    {
+      "id": "cdd5e444154d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-21",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Дринска улица"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Дринска улица.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-21-10-2026/"
+    },
+    {
+      "id": "1af8deeeff9f",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-22",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Дринска улица"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Дринска улица.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-22-10-2026/"
+    },
+    {
+      "id": "716d1e2e9fef",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-23",
+      "areaLabel": "Нови Сад",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи, без воде је Улица 7. војвођанске бригаде и околне улице у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-23-10-2026/"
+    },
+    {
+      "id": "6821df10824d",
+      "utility": "water",
+      "kind": "emergency",
       "date": "2026-10-23",
       "areaLabel": "Нови Сад",
       "time": {
-        "start": "12:00",
-        "end": "14:00"
+        "start": null,
+        "end": "13:00"
       },
       "streets": [
-        "Темерински пут 26А; Васе Остојића 24",
-        "26\r\nМАТИЈЕВИЋ"
+        "Улица Миколе Кочиша и Горње ливаде"
       ],
       "reason": null,
-      "note": "Темерински пут 26А; Васе Остојића 24, 26\r\nМАТИЈЕВИЋ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Улица Миколе Кочиша и Горње ливаде.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-23-10-2026/"
     },
     {
       "id": "80f1e3067812",
@@ -56,7 +118,7 @@
       ],
       "reason": null,
       "note": "Ченеј: Међународни пут око цркве; Раскрница Вука Караџића и Међународног пута;\r\nПАЈИН САЛАШ (Родин); САЛАШ БУЛАЋ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "cc0165ae3aaa",
@@ -73,7 +135,7 @@
       ],
       "reason": null,
       "note": "Сремска Каменица: Кетрин Макфел; Иве Андрића; Зеленгорска; \r\nСремских партизана; Ђурђевданска; Соње Маринковић 1 – 13 А, 2 – 4 Д;\r\nЛиваде; Виноградарска; \r\nБОЛНИЦА;ПАРТИЗАНСКИ ПУТ; ГРАЂАРА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "191a5855afe7",
@@ -90,7 +152,7 @@
       ],
       "reason": null,
       "note": "Петроварадин: Прерадовићева 58-62",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "1a0c9801b1cb",
@@ -109,7 +171,7 @@
       ],
       "reason": null,
       "note": "Футошки пут 89 – 93 А; Илариона Руварца 1, 2, 3; Мелхиора Ердухељија;\r\nТицанова; Дрварска; Банијска; Тицанова; Кочи Ивана 6 и 6 А\r\nПЛАСТАЛ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "e4fb262c52e8",
@@ -126,7 +188,7 @@
       ],
       "reason": null,
       "note": "Петроварадин: Прерадовићева 124 – 128; МАХИ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

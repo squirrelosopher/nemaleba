@@ -926,6 +926,23 @@
       ],
       "reason": "поправка затварача",
       "note": "Шумарице, угао Иве Андрића и Ударних Бригада ( од 17:00 до 19:00 часова ), поправка затварача."
+    },
+    {
+      "id": "f9da19054de5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Ул. Хасана Бркића и Милоја Радосављевића"
+      ],
+      "reason": null,
+      "note": "Ул. Хасана Бркића и Милоја Радосављевића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

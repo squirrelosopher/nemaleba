@@ -5,78 +5,7 @@
     "nameLatin": "Čačak",
     "branchCyrillic": "Чачак"
   },
-  "outages": [
-    {
-      "id": "b47819f973bc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Потрошачи у Горњњем делу Лознице",
-        "потес Здрављак",
-        "као и у Горњој Атеници."
-      ],
-      "reason": null,
-      "note": "Потрошачи у Горњњем делу Лознице, потес Здрављак, као и у Горњој Атеници.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6b8c383ec817",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Потрошачи у Придворици и Јездини."
-      ],
-      "reason": null,
-      "note": "Потрошачи у Придворици и Јездини.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "52187b81aecb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Потрошачи у Горњим Миоковцима."
-      ],
-      "reason": null,
-      "note": "Потрошачи у Горњим Миоковцима.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "abb1e4a0d856",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "11:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Потрошачи у Прељини који се напајају са ТС Меридијан Фриго"
-      ],
-      "reason": null,
-      "note": "Потрошачи у Прељини који се напајају са ТС Меридијан Фриго",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-25",

@@ -5,27 +5,7 @@
     "nameLatin": "Vrnjačka Banja",
     "branchCyrillic": "Краљево"
   },
-  "outages": [
-    {
-      "id": "a648b31b84e0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Врњачка Бања",
-      "time": {
-        "start": "10:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Део улице Моравска долина",
-        "Ливадска",
-        "Рибарска и Станична у Врњцима"
-      ],
-      "reason": null,
-      "note": "Део улице Моравска долина,Ливадска,Рибарска и Станична у Врњцима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-25",

@@ -5,25 +5,7 @@
     "nameLatin": "Novi Bečej",
     "branchCyrillic": "Зрењанин"
   },
-  "outages": [
-    {
-      "id": "b440af583f56",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Нови Бечеј",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Нови Бечеј: Нови виногради - викендице."
-      ],
-      "reason": null,
-      "note": "Нови Бечеј: Нови виногради - викендице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-25",

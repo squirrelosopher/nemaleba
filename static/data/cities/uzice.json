@@ -7,48 +7,6 @@
   },
   "outages": [
     {
-      "id": "5854f7f55710",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "08:30",
-        "end": "17:30"
-      },
-      "streets": [
-        "Потрошачи са подручја Ћосића у Волујцу",
-        "хладњаче Томашевић",
-        "Штитара",
-        "Ђаковог Камена",
-        "Ђуровића",
-        "Јелове Горе",
-        "Јованове Воде",
-        "Старчевића и Ивановића у Гостиници."
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Ћосића у Волујцу, хладњаче Томашевић, Штитара, Ђаковог Камена, Ђуровића, Јелове Горе, Јованове Воде, Старчевића и Ивановића у Гостиници.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5aa725107369",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Каран",
-        "засеок Ћатићи"
-      ],
-      "reason": null,
-      "note": "Каран, засеок Ћатићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f32dbc8241e2",
       "utility": "electricity",
       "kind": "planned",
@@ -65,7 +23,7 @@
       ],
       "reason": null,
       "note": "Потрошачи у ул.Ратарска и Војвођанска(други део),Арсенија Чарнојевића(почетак),Балканска и објекти „Кожаре“ у Глуваћима.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

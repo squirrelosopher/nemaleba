@@ -7,6 +7,42 @@
   },
   "outages": [
     {
+      "id": "4eb8fb592bad",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-19",
+      "areaLabel": "Фрање Клуза",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у улици  Фрање Клуза,  без воде биће потрошачи те улице ,  до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/19-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "bef0f1949597",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-21",
+      "areaLabel": "Пролетерских бригада",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у улици  Пролетерских бригада,  без воде биће потрошачи те улице и околне,  до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/21-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "8ff38a0f44bd",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-22",
+      "areaLabel": "Ђорђа Лопачића",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због санације оштећења на водоводном прикључку у улици  Ђорђа Лопачића ,  без воде биће потрошачи те улице и околне,  до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/22-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
       "id": "11c82d945b79",
       "utility": "electricity",
       "kind": "planned",
@@ -34,7 +70,7 @@
       ],
       "reason": null,
       "note": "Владимира Вујовића, Васе Смајевића, Слободана Пенезића, Црнотравска, Призренска, део Дјуре Дјаковића, Горана Ковачића,Владимира Вујовића, Васе Смајевића, Слободана Пенезића, Црнотравска, Призренска, део Дјуре Дјаковића, Горана Ковачића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "b01316c337e8",
@@ -59,7 +95,7 @@
       ],
       "reason": null,
       "note": "Део насеља Огледна станица,Александра Младеновића, Димитрија Станковића, део Француске, Јована Веселинова, Јована Цвијића, Октобарске револуције, Радосава Јовића,Руди Чајевца.Милана Богда.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "7a569afce27b",
@@ -94,7 +130,7 @@
       ],
       "reason": null,
       "note": "Газда Младенова, Рудјера Бошковића, 8 марта, Родољуба Чолаковића, Октобарске револуције, Мирослава Крлеже, део Француска, Солунских ратника,део Симе Шалаје, део Народног фронта, део Владимира Бакарића, део Меше Селимовића, Златарска, део Николетине Бурсаћа, војводе Добрњца, део Дјордје Андрејевића-Куна, део Јована Цвијића, Зетска, Ђ.А.Куна.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "80bb1937b811",
@@ -111,7 +147,7 @@
       ],
       "reason": null,
       "note": "Чегарска и део околине",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "f5c0f687fda3",
@@ -129,7 +165,7 @@
       ],
       "reason": null,
       "note": "део Врањске Бање код општине, ул. Радничка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

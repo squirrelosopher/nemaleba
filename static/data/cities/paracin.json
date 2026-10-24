@@ -7,46 +7,6 @@
   },
   "outages": [
     {
-      "id": "2fec662c9cf1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "07:30",
-        "end": "08:15"
-      },
-      "streets": [
-        "Слео Главица",
-        "ДОО Милић",
-        "Ралевић",
-        "Ефикс и насеље Лозица"
-      ],
-      "reason": null,
-      "note": "Слео Главица , ДОО Милић, Ралевић, Ефикс и насеље Лозица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "262f15aa99c7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "11:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Гаврила Принципа",
-        "део Синђелићеве",
-        "део Стевана Сремца",
-        "део Драгослава Маринковић и део Јована Дучића"
-      ],
-      "reason": null,
-      "note": "Гаврила Принципа,део Синђелићеве,део Стевана Сремца, део Драгослава Маринковић и део Јована Дучића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c6d87805b525",
       "utility": "electricity",
       "kind": "planned",
@@ -61,7 +21,7 @@
       ],
       "reason": null,
       "note": "Петковић кланица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "25482b84ebf8",
@@ -78,7 +38,7 @@
       ],
       "reason": null,
       "note": "Део села Ратаре",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "ad55cff73d4e",
@@ -96,7 +56,7 @@
       ],
       "reason": null,
       "note": "Косовска, део Шавачког насеља",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "3e0bb1db3913",
@@ -113,7 +73,7 @@
       ],
       "reason": null,
       "note": "Део села Крежбинац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "33d7463ecdd8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Сланкаменачки Виногради: цело место Сланкаменачки Виногради, Викенд зона Јанда, Викенд зона Крст Ралица, Манера Н.Сланкамен."
-      ],
-      "reason": null,
-      "note": "Сланкаменачки Виногради: цело место Сланкаменачки Виногради, Викенд зона Јанда, Викенд зона Крст Ралица, Манера Н.Сланкамен.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d3465881ca44",
       "utility": "electricity",
       "kind": "planned",
@@ -38,6 +21,23 @@
       ],
       "reason": null,
       "note": "Сл. Виногради : ул.В.Хурбана",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "1fdeeaa7c39e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "12:00",
+        "end": "12:30"
+      },
+      "streets": [
+        "Стари Сланкамен : Викенд насеље Чарнок код Поченте 4"
+      ],
+      "reason": null,
+      "note": "Стари Сланкамен : Викенд насеље Чарнок код Поченте 4",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

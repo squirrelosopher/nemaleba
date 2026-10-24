@@ -7,21 +7,30 @@
   },
   "outages": [
     {
-      "id": "e8355326b69f",
+      "id": "d0f189cf8493",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-23",
+      "date": "2026-10-27",
       "areaLabel": "Прокупље",
       "time": {
-        "start": "09:00",
-        "end": "10:00"
+        "start": "10:00",
+        "end": "14:00"
       },
       "streets": [
-        "Део Ул. Генерала Транијеа"
+        "Горња Стражава",
+        "Балиновац",
+        "Дешилово",
+        "Доње и Горње Кординце",
+        "бајчинце",
+        "Микуловац",
+        "Ново Село",
+        "Костеница",
+        "Петровац",
+        "Џигољ и Клисурица"
       ],
       "reason": null,
-      "note": "Део Ул. Генерала Транијеа",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+      "note": "Горња Стражава,Балиновац ,Дешилово,Доње и Горње Кординце,бајчинце,Микуловац,Ново Село,Костеница,Петровац,Џигољ и Клисурица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,27 +5,7 @@
     "nameLatin": "Aleksinac",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "ca15da8d2e6c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "села Пруговац",
-        "Црна Бара",
-        "Коњска Пољана и Липовац"
-      ],
-      "reason": null,
-      "note": "села Пруговац, Црна Бара, Коњска Пољана и Липовац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-25",

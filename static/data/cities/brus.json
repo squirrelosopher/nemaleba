@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "202b5166b831",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Брус",
-      "time": {
-        "start": "07:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насељено место Стројинци и део насељеног места Игрош."
-      ],
-      "reason": null,
-      "note": "Насељено место Стројинци и део насељеног места Игрош.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "870ff72cbed3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Брус",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део насељеног места Лепенац (Савићи и Микуљанци)"
-      ],
-      "reason": null,
-      "note": "Део насељеног места Лепенац (Савићи и Микуљанци)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d57930900094",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Липовац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

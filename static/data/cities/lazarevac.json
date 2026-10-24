@@ -7,38 +7,23 @@
   },
   "outages": [
     {
-      "id": "e9fab296274d",
+      "id": "864bec6e8573",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-23",
+      "date": "2026-10-26",
       "areaLabel": "Лазаревац",
       "time": {
         "start": "09:00",
         "end": "12:00"
       },
       "streets": [
-        "Насеље Велики Црљени (засеок Рудничка колонија)."
+        "Светог Саве 23-37",
+        "38-52",
+        "Краља Петра Првог 33-59."
       ],
       "reason": null,
-      "note": "Насеље Велики Црљени (засеок Рудничка колонија).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2d00960a3dcb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-23",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "12:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Насеље Степојевац (засеок Сточна пијаца)."
-      ],
-      "reason": null,
-      "note": "Насеље Степојевац (засеок Сточна пијаца).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+      "note": "Светог Саве 23-37,38-52, Краља Петра Првог 33-59.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "5c8b3cf450ff",
@@ -60,26 +45,7 @@
       ],
       "reason": null,
       "note": "Игманска 1-25, 2-18а, Друге Шумадијске бригаде 2, Др. Ђорђа Ковачевића 1,1а,1б.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
-    },
-    {
-      "id": "864bec6e8573",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Светог Саве 23-37",
-        "38-52",
-        "Краља Петра Првог 33-59."
-      ],
-      "reason": null,
-      "note": "Светог Саве 23-37,38-52, Краља Петра Првог 33-59.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "2f189d3a1f30",
@@ -96,6 +62,57 @@
       ],
       "reason": null,
       "note": "Мионица: Горња Топлица (засеок Ковачевићи-према Симићу).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "463e5b0f1c84",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Горњи Милановац: насеље Трудељ (засеок Кула-према брду)."
+      ],
+      "reason": null,
+      "note": "Горњи Милановац: насеље Трудељ (засеок Кула-према брду).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "50cc539cd4a0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Горњ иМилановац: насеље Трудељ (засеок Матићи)."
+      ],
+      "reason": null,
+      "note": "Горњ иМилановац: насеље Трудељ (засеок Матићи).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "e8dd0a1d7a4a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Аранђеловац: насеље Даросава: улица Стефана Лазаревића,Косте Абрашевића (засеок Партизани 1-код школе)."
+      ],
+      "reason": null,
+      "note": "Аранђеловац: насеље Даросава: улица Стефана Лазаревића,Косте Абрашевића (засеок Партизани 1-код школе).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],

@@ -5,7 +5,110 @@
     "nameLatin": "Bačka Topola",
     "branchCyrillic": "Суботица"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "a21eaef1212a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "08:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Пачир: Равна, Словеначка, Кратка, Стара Моравачка бр.( 3 и 5 ) са околином."
+      ],
+      "reason": null,
+      "note": "Пачир: Равна, Словеначка, Кратка, Стара Моравачка бр.( 3 и 5 ) са околином.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "8b41b2b5272c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Зобнатица - Нова улица"
+      ],
+      "reason": null,
+      "note": "Зобнатица - Нова улица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "1aaef7a9ef8c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Н. Орахово - део Тополске и део ЈНА"
+      ],
+      "reason": null,
+      "note": "Н. Орахово - део Тополске и део ЈНА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "06ba70c9b36a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Пачир: Земљорадничка,Уска,Трг Републике,Српска,Козарачка,Кордунска,Фрушкогорска,Батинска,Змај Јовина,Трг Ослобођења,Таковска,Савска,Пољска,Косовска,Бранка Радичевића,Бакарска,Светозара; Марковића,Радничка,Хрватска,Дунавска,Бајска,Чонопљанска,Трг М.Тита,Споредна,Масарикова,Лењинова,Дожа Ђерђа са околином."
+      ],
+      "reason": null,
+      "note": "Пачир: Земљорадничка,Уска,Трг Републике,Српска,Козарачка,Кордунска,Фрушкогорска,Батинска,Змај Јовина,Трг Ослобођења,Таковска,Савска,Пољска,Косовска,Бранка Радичевића,Бакарска,Светозара; Марковића,Радничка,Хрватска,Дунавска,Бајска,Чонопљанска,Трг М.Тита,Споредна,Масарикова,Лењинова,Дожа Ђерђа са околином.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "5b6c3d068f39",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "11:45",
+        "end": "14:15"
+      },
+      "streets": [
+        "Пачир: Мађарска,Масарикова са околином"
+      ],
+      "reason": null,
+      "note": "Пачир: Мађарска,Масарикова са околином",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "111c6eb18f66",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Богарош - цело насеље"
+      ],
+      "reason": null,
+      "note": "Богарош - цело насеље",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-25",
