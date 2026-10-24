@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T12:11:04.133Z",
+  "generatedAt": "2026-10-24T12:39:30.459Z",
   "summary": {
     "date": "2026-10-24",
     "electricityOutages": 96,
-    "waterOutages": 2,
+    "waterOutages": 0,
     "affected": [
       {
         "id": "beograd",
@@ -40,12 +40,6 @@
         "nameCyrillic": "Шабац",
         "electricityOutages": 5,
         "waterOutages": 0
-      },
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 2,
-        "waterOutages": 2
       },
       {
         "id": "paracin",
@@ -116,6 +110,12 @@
       {
         "id": "leskovac",
         "nameCyrillic": "Лесковац",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -438,7 +438,7 @@
     {
       "date": "2026-10-24",
       "electricityOutages": 5,
-      "waterOutages": 1
+      "waterOutages": 0
     }
   ],
   "providers": [
