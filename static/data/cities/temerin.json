@@ -5,25 +5,7 @@
     "nameLatin": "Temerin",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [
-    {
-      "id": "c64984f86cd3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-24",
-      "areaLabel": "Темерин",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Темерин: ул.Бранка Ћопића,Дожа Ђерђа од кбр 132 до кбр 24,Иве Лоле Рибара од Н.Фронта до Пап Павла,С.Милетића,ЈНА од С.Милетића до кбр 223,Пап Павла од С.Милетића до кбр 186."
-      ],
-      "reason": null,
-      "note": "Темерин: ул.Бранка Ћопића,Дожа Ђерђа од кбр 132 до кбр 24,Иве Лоле Рибара од Н.Фронта до Пап Павла,С.Милетића,ЈНА од С.Милетића до кбр 223,Пап Павла од С.Милетића до кбр 186.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-26",

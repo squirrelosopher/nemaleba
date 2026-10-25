@@ -5,7 +5,25 @@
     "nameLatin": "Stari grad",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "c39ee6e2b03b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Стари град",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "ТЕРАЗИЈЕ: 6-6"
+      ],
+      "reason": null,
+      "note": "ТЕРАЗИЈЕ: 6-6,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-26",
