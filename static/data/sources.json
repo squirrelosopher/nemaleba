@@ -15,23 +15,35 @@
     "lastComplete": "2026-10-25"
   },
   "jkp-vik-novi-sad": {
-    "entries": 43,
+    "entries": 0,
     "lastNonEmpty": "2026-10-25",
+    "unreadable": [
+      "response was not JSON for https://www.vikns.rs/wp-json/wp/v2/posts?categories=43&per_page=20&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-10-25"
   },
   "jkp-naissus-nis": {
-    "entries": 63,
+    "entries": 0,
     "lastNonEmpty": "2026-10-25",
+    "unreadable": [
+      "response was not JSON for https://jkpnaissus.co.rs/wp-json/wp/v2/posts?categories=42&per_page=15&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-10-25"
   },
   "jkp-vodovod-pancevo": {
-    "entries": 11,
+    "entries": 0,
     "lastNonEmpty": "2026-10-25",
+    "unreadable": [
+      "response was not JSON for https://www.vodovodpa.rs/wp-json/wp/v2/posts?categories=7&per_page=15&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-10-25"
   },
   "jkp-vodovod-sremska-mitrovica": {
-    "entries": 9,
+    "entries": 0,
     "lastNonEmpty": "2026-10-25",
+    "unreadable": [
+      "response was not JSON for https://www.vodovodsm.rs/wp-json/wp/v2/posts?categories=17&per_page=15&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-10-25"
   },
   "jkp-vodovod-ruma": {
@@ -40,13 +52,19 @@
     "lastComplete": "2026-10-25"
   },
   "jkp-vodovod-indjija": {
-    "entries": 16,
+    "entries": 0,
     "lastNonEmpty": "2026-10-25",
+    "unreadable": [
+      "response was not JSON for https://vodovodindjija.co.rs/wp-json/wp/v2/posts?categories=1&per_page=12&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-10-25"
   },
   "jkp-vodovod-bor": {
-    "entries": 5,
+    "entries": 0,
     "lastNonEmpty": "2026-10-25",
+    "unreadable": [
+      "response was not JSON for https://vodovodbor.com/wp-json/wp/v2/posts?categories=22&per_page=6&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-10-25"
   },
   "jkp-gornji-milanovac": {
@@ -68,8 +86,11 @@
     "lastComplete": "2026-10-25"
   },
   "jp-vodovod-vranje": {
-    "entries": 22,
+    "entries": 0,
     "lastNonEmpty": "2026-10-25",
+    "unreadable": [
+      "response was not JSON for https://vodovodvranje.rs/wp-json/wp/v2/posts?categories=8&per_page=15&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-10-25"
   },
   "jkp-vodovod-leskovac": {
@@ -83,15 +104,18 @@
     "lastComplete": "2026-10-25"
   },
   "jp-jedinstvo-kladovo": {
-    "entries": 2,
+    "entries": 0,
     "lastNonEmpty": "2026-10-25",
+    "unreadable": [
+      "response was not JSON for https://jedinstvojp.rs/wp-json/wp/v2/posts?categories=14&per_page=12&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-10-25"
   },
   "jkp-vodovod-cacak": {
     "entries": 0,
     "lastNonEmpty": "2026-10-25",
     "unreadable": [
-      "This operation was aborted for https://vodovodca.rs/wp-json/wp/v2/posts?categories=3&per_page=12&_fields=link,date,title,content"
+      "response was not JSON for https://vodovodca.rs/wp-json/wp/v2/posts?categories=3&per_page=12&_fields=link,date,title,content"
     ],
     "lastComplete": "2026-10-25"
   }

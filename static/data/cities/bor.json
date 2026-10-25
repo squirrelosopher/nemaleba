@@ -5,66 +5,7 @@
     "nameLatin": "Bor",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "28c576c4a38f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-20",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Савача – Ведрина",
-        "Улица Николе Пашића",
-        "Улица Генерала Павла Илића број 14"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Савача – Ведрина Улица Николе Пашића Улица Генерала Павла Илића број 14 Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-20-10-2026-god/"
-    },
-    {
-      "id": "3d272f2fa27c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-21",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Железничка – Слатина"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Железничка – Слатина Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-sreda-21-10-2026-god/"
-    },
-    {
-      "id": "88dd4d8f7942",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-22",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Улица Моше Пијаде"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Улица Моше Пијаде Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-22-10-2026-god/"
-    },
-    {
-      "id": "daf28b04db98",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-23",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Палестинско насеље – Ф насеље – Замена дела водоводне мреже"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Палестинско насеље – Ф насеље – Замена дела водоводне мреже Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-petak-23-10-2026-god/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-26",
