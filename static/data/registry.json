@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-25T22:28:17.272Z",
+  "generatedAt": "2026-10-26T03:11:04.679Z",
   "summary": {
-    "date": "2026-10-25",
-    "electricityOutages": 161,
+    "date": "2026-10-26",
+    "electricityOutages": 160,
     "waterOutages": 0,
     "affected": [
       {
@@ -294,12 +294,6 @@
         "waterOutages": 0
       },
       {
-        "id": "sombor",
-        "nameCyrillic": "Сомбор",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "cicevac",
         "nameCyrillic": "Ћићевац",
         "electricityOutages": 1,
@@ -314,11 +308,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-09-26",
-      "electricityOutages": 9,
-      "waterOutages": 2
-    },
     {
       "date": "2026-09-27",
       "electricityOutages": 4,
@@ -462,6 +451,11 @@
     {
       "date": "2026-10-25",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-26",
+      "electricityOutages": 90,
       "waterOutages": 0
     }
   ],

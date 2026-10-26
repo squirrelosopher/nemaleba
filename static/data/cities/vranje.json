@@ -7,6 +7,42 @@
   },
   "outages": [
     {
+      "id": "4eb8fb592bad",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-19",
+      "areaLabel": "Фрање Клуза",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у улици  Фрање Клуза,  без воде биће потрошачи те улице ,  до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/19-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "bef0f1949597",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-21",
+      "areaLabel": "Пролетерских бригада",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у улици  Пролетерских бригада,  без воде биће потрошачи те улице и околне,  до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/21-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "8ff38a0f44bd",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-22",
+      "areaLabel": "Ђорђа Лопачића",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због санације оштећења на водоводном прикључку у улици  Ђорђа Лопачића ,  без воде биће потрошачи те улице и околне,  до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/22-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
       "id": "11c82d945b79",
       "utility": "electricity",
       "kind": "planned",
@@ -133,11 +169,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-26",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-09-27",
       "electricityOutages": 0,
@@ -281,6 +312,11 @@
     {
       "date": "2026-10-25",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-10-26",
+      "electricityOutages": 5,
       "waterOutages": 0
     }
   ]
