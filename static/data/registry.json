@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T10:11:06.450Z",
+  "generatedAt": "2026-10-26T12:11:06.070Z",
   "summary": {
     "date": "2026-10-26",
     "electricityOutages": 163,
-    "waterOutages": 19,
+    "waterOutages": 20,
     "affected": [
       {
         "id": "beograd",
@@ -114,6 +114,12 @@
         "waterOutages": 0
       },
       {
+        "id": "leskovac",
+        "nameCyrillic": "Лесковац",
+        "electricityOutages": 2,
+        "waterOutages": 1
+      },
+      {
         "id": "novi-knezevac",
         "nameCyrillic": "Нови Кнежевац",
         "electricityOutages": 3,
@@ -164,12 +170,6 @@
       {
         "id": "kula",
         "nameCyrillic": "Кула",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "leskovac",
-        "nameCyrillic": "Лесковац",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -462,7 +462,7 @@
     {
       "date": "2026-10-26",
       "electricityOutages": 90,
-      "waterOutages": 19
+      "waterOutages": 20
     }
   ],
   "providers": [

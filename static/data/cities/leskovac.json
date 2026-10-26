@@ -40,6 +40,18 @@
       "reason": null,
       "note": "део Тупаловца (Кокерци)",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "5e09cb7bad02",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-26",
+      "areaLabel": "Лесковац",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "- Због хаварије на доводном цевоводу, насеље Богојевце без воде до 15h. - Водоснабдевање града и околине је уредно.",
+      "sourceUrl": "https://www.vodovodle.rs/servisne-informacije.php"
     }
   ],
   "history": [
@@ -191,7 +203,7 @@
     {
       "date": "2026-10-26",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
