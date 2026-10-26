@@ -88,6 +88,57 @@
       "reason": null,
       "note": "Сремска Митровица: Ул. Уроша Стојшића од бр. 2-18",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "660d4973ec74",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Сремска Митровица: Масарикова 7-19 и 6-12; Пиварска 1-9, 13-17, 4-6, б.б.; Змај Јовина 14-16 и 22-26; Светог Саве 19."
+      ],
+      "reason": null,
+      "note": "Сремска Митровица: Масарикова 7-19 и 6-12; Пиварска 1-9, 13-17, 4-6, б.б.; Змај Јовина 14-16 и 22-26; Светог Саве 19.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "741dff77f163",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сремска Митровица: Тараса Шевченка 39-79 и 40-88, Владимира Матијевића 94."
+      ],
+      "reason": null,
+      "note": "Сремска Митровица: Тараса Шевченка 39-79 и 40-88, Владимира Матијевића 94.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "bc5d95fa87d9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Сремска Митровица: Петра Прерадовића 69-121."
+      ],
+      "reason": null,
+      "note": "Сремска Митровица: Петра Прерадовића 69-121.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

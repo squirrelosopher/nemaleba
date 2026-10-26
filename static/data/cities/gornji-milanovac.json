@@ -5,7 +5,25 @@
     "nameLatin": "Gornji Milanovac",
     "branchCyrillic": "Чачак"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "dcab4faa61d4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Горњи Милановац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Улица Цвијићева и Звонко Петровић"
+      ],
+      "reason": null,
+      "note": "Улица Цвијићева и Звонко Петровић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-27",

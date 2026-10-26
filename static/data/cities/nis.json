@@ -846,6 +846,158 @@
       "reason": null,
       "note": "делови улица Кованлучке и Васе Чарапића;",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "398fd1bc82d9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "део улице Горњоматејевачке (112 З и Ж);"
+      ],
+      "reason": null,
+      "note": "део улице Горњоматејевачке (112 З и Ж);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "43e10bb9bfd7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "15:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "делови улица Далматинске",
+        "Књажевачке (2",
+        "парни бр. 10-24) и Илије Бирчанина (24);"
+      ],
+      "reason": null,
+      "note": "делови улица Далматинске, Књажевачке (2, парни бр. 10-24) и Илије Бирчанина (24);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "1a5e6b4c2229",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "део Димитрија Туцовића (парни бр. 40-60)",
+        "Ивана Милутиновића (бб)",
+        "Ледене Стене (1-33;"
+      ],
+      "reason": null,
+      "note": "део Димитрија Туцовића (парни бр. 40-60), Ивана Милутиновића (бб), Ледене Стене (1-33;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ad4fed51515f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Медијана",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "делови Трга Павла Стојковића (7",
+        "13);"
+      ],
+      "reason": null,
+      "note": "делови Трга Павла Стојковића (7,13);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "72cde7b0ca32",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "део Вукманова;"
+      ],
+      "reason": null,
+      "note": "део Вукманова;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "8b74a653a807",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "12:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "део Радоша Јовановића Сеље (2",
+        "55",
+        "бб);"
+      ],
+      "reason": null,
+      "note": "део Радоша Јовановића Сеље (2,55,бб);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ccc053d6e2c7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "делови Белопаланчке (бб)",
+        "Старе Железничке Колоније (1-10)",
+        "Станоја Бунушевца (13",
+        "23",
+        "27",
+        "37)",
+        "Таковске (37)",
+        "Милана Ракића (1)",
+        "Божидарчеве (10-26)",
+        "Железничке Колоније (1);"
+      ],
+      "reason": null,
+      "note": "делови Белопаланчке (бб), Старе Железничке Колоније (1-10), Станоја Бунушевца (13,23,27,37), Таковске (37), Милана Ракића (1), Божидарчеве (10-26), Железничке Колоније (1);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "abf42b4dff23",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "делови Мокрањчеве;"
+      ],
+      "reason": null,
+      "note": "делови Мокрањчеве;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

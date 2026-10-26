@@ -5,7 +5,45 @@
     "nameLatin": "Aranđelovac",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "78409701f34c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Аранђеловац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Вукосавци - Ветрило"
+      ],
+      "reason": null,
+      "note": "Вукосавци - Ветрило",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "69e5f763f38f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-27",
+      "areaLabel": "Аранђеловац",
+      "time": {
+        "start": "12:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Села Јеловик и Босута",
+        "део села Гараши ( Величковићи",
+        "Димитријевићи",
+        "Берисавци)."
+      ],
+      "reason": null,
+      "note": "Села Јеловик и Босута , део села Гараши ( Величковићи, Димитријевићи, Берисавци).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-27",

@@ -5,7 +5,25 @@
     "nameLatin": "Petrovac",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "28e8c5996232",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Петровац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Лесковац - део према Стамници укључујући и бензинску пумпу, засеоци насеља Стамница: Лудо поље, Вишњар, Доњи и Горњи Дебељак, Нико поље, Кривац и Стамничка река"
+      ],
+      "reason": null,
+      "note": "Лесковац - део према Стамници укључујући и бензинску пумпу, засеоци насеља Стамница: Лудо поље, Вишњар, Доњи и Горњи Дебељак, Нико поље, Кривац и Стамничка река",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-27",

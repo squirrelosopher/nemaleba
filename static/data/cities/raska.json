@@ -5,7 +5,47 @@
     "nameLatin": "Raška",
     "branchCyrillic": "Краљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "33229d1ce7e8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Рашка",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Кравићи.Гњилица",
+        "Луково и Орахово"
+      ],
+      "reason": null,
+      "note": "Кравићи.Гњилица,Луково и Орахово",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "faf3beee7108",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Рашка",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Муре",
+        "Јериње",
+        "Постење",
+        "Врачево",
+        "Тресава и Градјановићи"
+      ],
+      "reason": null,
+      "note": "Муре,Јериње,Постење,Врачево,Тресава и Градјановићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-27",

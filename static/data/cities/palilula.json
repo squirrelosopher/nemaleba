@@ -5,7 +5,25 @@
     "nameLatin": "Palilula",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "36cc34675800",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "ДАЛМАТИНСКА: 17-25, ДРАЖЕ ПАВЛОВИЋА: 8-16А,7-17, ЂУШИНА: 28-32, ТАКОВСКА: 36-38,36-38,46-46"
+      ],
+      "reason": null,
+      "note": "ДАЛМАТИНСКА: 17-25, ДРАЖЕ ПАВЛОВИЋА: 8-16А,7-17, ЂУШИНА: 28-32, ТАКОВСКА: 36-38,36-38,46-46,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-27",

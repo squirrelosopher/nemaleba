@@ -5,25 +5,7 @@
     "nameLatin": "Opovo",
     "branchCyrillic": "Панчево"
   },
-  "outages": [
-    {
-      "id": "2a9091b382c4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Опово",
-      "time": {
-        "start": "08:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Сефкерин: Цело насељено место."
-      ],
-      "reason": null,
-      "note": "Сефкерин: Цело насељено место.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-27",

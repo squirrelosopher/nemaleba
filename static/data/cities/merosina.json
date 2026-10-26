@@ -42,6 +42,74 @@
       "reason": null,
       "note": "Арбанасце,Југбогдановац,ТЗР Рециклинг,базне станице Мобтел и Телеком на Дебелом брду",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "5302440a429e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "део ул поред ЕД Мерошина"
+      ],
+      "reason": null,
+      "note": "део ул поред ЕД Мерошина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "1b9adb7edd85",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Чубура"
+      ],
+      "reason": null,
+      "note": "Чубура",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "1a8e89a27bff",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Дудулајце"
+      ],
+      "reason": null,
+      "note": "Дудулајце",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "18890b45addb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Дудулајце"
+      ],
+      "reason": null,
+      "note": "Дудулајце",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

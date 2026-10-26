@@ -5,7 +5,42 @@
     "nameLatin": "Koceljeva",
     "branchCyrillic": "Шабац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "601644264e7e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Коцељева",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈУ СЕЛА БАТАЛАГЕ И ЗУКВЕ"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈУ СЕЛА БАТАЛАГЕ И ЗУКВЕ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "e976d74fa067",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Коцељева",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈЕ СЕЛО БРДАРИЦА И ДРАГИЊЕ"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈЕ СЕЛО БРДАРИЦА И ДРАГИЊЕ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-06",

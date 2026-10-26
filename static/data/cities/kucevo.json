@@ -5,7 +5,25 @@
     "nameLatin": "Kučevo",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "e48a15896490",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Кучево",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Церемошња и Штубеј"
+      ],
+      "reason": null,
+      "note": "Церемошња и Штубеј",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-27",

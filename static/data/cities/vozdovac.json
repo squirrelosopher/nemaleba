@@ -5,7 +5,25 @@
     "nameLatin": "Voždovac",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "19d7d4e01911",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насеље М.МОКРИ ЛУГ: БРАЋЕ МИЛИЋ: 5"
+      ],
+      "reason": null,
+      "note": "Насеље М.МОКРИ ЛУГ: БРАЋЕ МИЛИЋ: 5,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-27",

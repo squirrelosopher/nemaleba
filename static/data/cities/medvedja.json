@@ -5,7 +5,30 @@
     "nameLatin": "Medveđa",
     "branchCyrillic": "Лесковац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f73ab67822d6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Медвеђа",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Стубла",
+        "Дренце",
+        "Леце",
+        "Гајтан",
+        "Горње Леце",
+        "Врела"
+      ],
+      "reason": null,
+      "note": "Стубла, Дренце, Леце, Гајтан, Горње Леце, Врела",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-27",

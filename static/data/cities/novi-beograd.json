@@ -5,7 +5,25 @@
     "nameLatin": "Novi Beograd",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "9e544b2bd8a0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "ДАНИЛА СРДИЋА: 2-6,10-12,1-15"
+      ],
+      "reason": null,
+      "note": "ДАНИЛА СРДИЋА: 2-6,10-12,1-15,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-27",

@@ -5,7 +5,59 @@
     "nameLatin": "Vršac",
     "branchCyrillic": "Панчево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "74ac1b83535d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Вршац",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "Војводе Книћанин од бр. 59 до 93 и од бр.58 до 94"
+      ],
+      "reason": null,
+      "note": "Војводе Книћанин од бр. 59 до 93 и од бр.58 до 94",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "824011d68486",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Вршац",
+      "time": {
+        "start": "10:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "Војводе Книћанин од Дечанске до Цара Лазара"
+      ],
+      "reason": null,
+      "note": "Војводе Книћанин од Дечанске до Цара Лазара",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "a6e54ca39e23",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Вршац",
+      "time": {
+        "start": "12:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Цара Лазара од Банатске до Војводе Книћанин."
+      ],
+      "reason": null,
+      "note": "Цара Лазара од Банатске до Војводе Книћанин.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-27",

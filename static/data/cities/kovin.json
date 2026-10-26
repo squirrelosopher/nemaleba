@@ -5,7 +5,25 @@
     "nameLatin": "Kovin",
     "branchCyrillic": "Панчево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "c381c0611703",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Ковин",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Ковин: Вука Караџића од Вашарске до Жарка Зрењанина, комплетна улица Ковинска."
+      ],
+      "reason": null,
+      "note": "Ковин: Вука Караџића од Вашарске до Жарка Зрењанина, комплетна улица Ковинска.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-27",

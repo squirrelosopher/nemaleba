@@ -1079,6 +1079,44 @@
       "reason": null,
       "note": "Ул. Хасана Бркића и Милоја Радосављевића",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "005f37bb1c40",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Ресник -према цркви Церовоци и Дубокићу",
+        "Ресник Дубокић и према Бресту",
+        "аутобуској станици Ерићима и Прокићима",
+        "Ресник школа према школи",
+        "продавници цркви и шумицама"
+      ],
+      "reason": null,
+      "note": "Ресник -према цркви Церовоци и Дубокићу, Ресник Дубокић и према Бресту, аутобуској станици Ерићима и Прокићима, Ресник школа према школи, продавници цркви и шумицама",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "e5554763a3bb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Зграде у Ул. Браће Пољаковић 2"
+      ],
+      "reason": null,
+      "note": "Зграде у Ул. Браће Пољаковић 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

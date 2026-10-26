@@ -5,7 +5,42 @@
     "nameLatin": "Plandište",
     "branchCyrillic": "Панчево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "149a6a71b61d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Пландиште",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Пландиште: насеље без радне зоне око фирме Банатпласт"
+      ],
+      "reason": null,
+      "note": "Пландиште: насеље без радне зоне око фирме Банатпласт",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "c50ca7a56d34",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Пландиште",
+      "time": {
+        "start": "09:00",
+        "end": "09:30"
+      },
+      "streets": [
+        "Насељена места: Пландиште, Велика Греда, Хајдучица, Стари Лец, Дужине, Марковићево, Милетићево, Банатски Соколац, Купиник, Велики Гај, Капетаново."
+      ],
+      "reason": null,
+      "note": "Насељена места: Пландиште, Велика Греда, Хајдучица, Стари Лец, Дужине, Марковићево, Милетићево, Банатски Соколац, Купиник, Велики Гај, Капетаново.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-27",

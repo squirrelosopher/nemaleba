@@ -5,7 +5,25 @@
     "nameLatin": "Mali Zvornik",
     "branchCyrillic": "Лозница"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "6a0f1ca6257c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Мали Зворник",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Доња Борина и Брасина"
+      ],
+      "reason": null,
+      "note": "Доња Борина и Брасина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-27",
