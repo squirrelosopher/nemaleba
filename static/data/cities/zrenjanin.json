@@ -24,6 +24,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "d0a0296f3c2e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-27",
+      "areaLabel": "Mужља",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "MУЖЉА – санација квара на водоводној мрежи, прекид водоснабдевања у овом насељу до 15 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-27-10-2026-godine/"
+    },
+    {
       "id": "83a301022027",
       "utility": "electricity",
       "kind": "planned",
@@ -224,7 +239,7 @@
     {
       "date": "2026-10-27",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

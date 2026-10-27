@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-27T10:11:00.520Z",
+  "generatedAt": "2026-10-27T12:11:05.076Z",
   "summary": {
     "date": "2026-10-27",
-    "electricityOutages": 279,
-    "waterOutages": 20,
+    "electricityOutages": 281,
+    "waterOutages": 22,
     "affected": [
       {
         "id": "beograd",
@@ -18,6 +18,12 @@
         "waterOutages": 7
       },
       {
+        "id": "kragujevac",
+        "nameCyrillic": "Крагујевац",
+        "electricityOutages": 5,
+        "waterOutages": 12
+      },
+      {
         "id": "subotica",
         "nameCyrillic": "Суботица",
         "electricityOutages": 17,
@@ -28,12 +34,6 @@
         "nameCyrillic": "Шабац",
         "electricityOutages": 17,
         "waterOutages": 0
-      },
-      {
-        "id": "kragujevac",
-        "nameCyrillic": "Крагујевац",
-        "electricityOutages": 3,
-        "waterOutages": 12
       },
       {
         "id": "pancevo",
@@ -48,15 +48,15 @@
         "waterOutages": 0
       },
       {
-        "id": "paracin",
-        "nameCyrillic": "Параћин",
-        "electricityOutages": 10,
-        "waterOutages": 0
-      },
-      {
         "id": "novi-sad",
         "nameCyrillic": "Нови Сад",
         "electricityOutages": 9,
+        "waterOutages": 1
+      },
+      {
+        "id": "paracin",
+        "nameCyrillic": "Параћин",
+        "electricityOutages": 10,
         "waterOutages": 0
       },
       {
@@ -108,14 +108,14 @@
         "waterOutages": 0
       },
       {
-        "id": "bajina-basta",
-        "nameCyrillic": "Бајина Башта",
-        "electricityOutages": 4,
-        "waterOutages": 0
-      },
-      {
         "id": "zrenjanin",
         "nameCyrillic": "Зрењанин",
+        "electricityOutages": 4,
+        "waterOutages": 1
+      },
+      {
+        "id": "bajina-basta",
+        "nameCyrillic": "Бајина Башта",
         "electricityOutages": 4,
         "waterOutages": 0
       },
@@ -564,7 +564,7 @@
     {
       "date": "2026-10-27",
       "electricityOutages": 86,
-      "waterOutages": 20
+      "waterOutages": 22
     }
   ],
   "providers": [
