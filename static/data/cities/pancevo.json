@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "076470cbd4e7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "09:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Панчево: Скадарска од пруге до Преспанске."
-      ],
-      "reason": null,
-      "note": "Панчево: Скадарска од пруге до Преспанске.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "25cac342b493",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "10:00",
-        "end": "11:30"
-      },
-      "streets": [
-        "Панчево: М.Марковић од Кнез Михајла Обреновића до С.Шупљкица - непарна страна."
-      ],
-      "reason": null,
-      "note": "Панчево: М.Марковић од Кнез Михајла Обреновића до С.Шупљкица - непарна страна.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "df3c927af955",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Панчево: С.Милетића од С.Саве до Синђелићеве.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "8ea7523ba111",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Панчево: Нишка, Скопска, Подгоричка, Ст.Јовановића 33А.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "394848803a79",
@@ -89,7 +55,7 @@
       ],
       "reason": null,
       "note": "Панчево: Шабачка, Вршачка 1-9, Новосадска 23-35, Самопослуга и трафике у Вршачкој код послуге, Суботичка 1, 3, 5, 7, 9, М.Пијаде 110-124, Ст.Шупљикца 107-113, Ковинска 2-4 и Белоцрквансла цела ул.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "46e9b5debccc",
@@ -106,7 +72,7 @@
       ],
       "reason": null,
       "note": "Б.Брестовац: Викенд и камп насеља Јабуков Цвет.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "53e75a7372d4",
@@ -123,7 +89,7 @@
       ],
       "reason": null,
       "note": "Старчево: Радничка од Банатске до Омладинске, Омладинска од Партизанске до Радничке, Партизанска од Ослобођења до Омладинске",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "f7b28f4652b7",
@@ -140,7 +106,7 @@
       ],
       "reason": null,
       "note": "Панчево: Новосељански пут (испод надвожњака) од пруге до бензиске станице НИС и део Борске",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "b04eeed7a41d",
@@ -157,7 +123,7 @@
       ],
       "reason": null,
       "note": "Панчево: Летња и део Рибарске",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "1bce988dafbd",
@@ -174,7 +140,7 @@
       ],
       "reason": null,
       "note": "Долово: Саве Ковачевића, Пастирска од С.Ковачевића до С.Маринковића, С.Маринковића 37-43.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "c9bc89b2a688",
@@ -191,7 +157,7 @@
       ],
       "reason": null,
       "note": "Панчево: Смарт Блок у Боре Станковића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "25bbae4c18bf",
@@ -208,6 +174,40 @@
       ],
       "reason": null,
       "note": "Панчево: Момчила Попадића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "f4a0132b7de3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "08:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Долово: делови улица Народне армије, Братства јединства и 1.мај."
+      ],
+      "reason": null,
+      "note": "Долово: делови улица Народне армије, Братства јединства и 1.мај.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "9439523d3df0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Панчево: С.Милетића (од Карађорђеве до Б.Радичевића - парна страна), Б.Радичевића (од С.Милетића до браће Јовановића)."
+      ],
+      "reason": null,
+      "note": "Панчево: С.Милетића (од Карађорђеве до Б.Радичевића - парна страна), Б.Радичевића (од С.Милетића до браће Јовановића).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

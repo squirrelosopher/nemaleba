@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "22245c35c627",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Александровац",
-      "time": {
-        "start": "08:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Насељено место Вранштица"
-      ],
-      "reason": null,
-      "note": "Насељено место Вранштица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "68b0c9258c16",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Александровац",
-      "time": {
-        "start": "08:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Део насељеног места Руденице"
-      ],
-      "reason": null,
-      "note": "Део насељеног места Руденице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "442a908dfc1c",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Стрменица.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

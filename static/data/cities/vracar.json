@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "32330d014545",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Врачар",
-      "time": {
-        "start": "11:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "БЈЕЛАНОВИЋЕВА: 2"
-      ],
-      "reason": null,
-      "note": "БЈЕЛАНОВИЋЕВА: 2,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "74d928ef7cce",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "НИКОЛАЈА КРАСНОВА: 9-11,15-17,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "a27153437dbf",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Пепељевац."
-      ],
-      "reason": null,
-      "note": "Пепељевац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "cdc8565dd521",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Заграђе",
-        "Иван Кула."
-      ],
-      "reason": null,
-      "note": "Заграђе,Иван Кула.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "fc0466d5e723",
       "utility": "electricity",
       "kind": "planned",
@@ -56,7 +21,7 @@
       ],
       "reason": null,
       "note": "Горња Микуљана.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "8ef2e75a353a",
@@ -73,7 +38,7 @@
       ],
       "reason": null,
       "note": "Добри До -Мићовићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5f5c4c85352f",
@@ -90,7 +55,7 @@
       ],
       "reason": null,
       "note": "Пепељевац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "370d70cf474e",
@@ -107,7 +72,7 @@
       ],
       "reason": null,
       "note": "Барлово.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "76f948193961",
@@ -136,7 +101,7 @@
       ],
       "reason": null,
       "note": "Луковска бања,Ораовац,Пачарађа,Мерћез,Магово,Калимаце,Сеоце,Мрче,Штава,Требиње,Парада,Растелица,Шиповац и Љутова.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "0b2a102a7e8e",
@@ -153,7 +118,7 @@
       ],
       "reason": null,
       "note": "Горња Микуљана.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "2832d9bc4dc4",
@@ -170,7 +135,7 @@
       ],
       "reason": null,
       "note": "Дегрмен.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "e76597549aad",
@@ -216,6 +181,40 @@
       ],
       "reason": null,
       "note": "Рударе-Клисура,Равни Шорт,Дешишка,Пећарани ,Орловац,Косаничка Рача,Саставци,Мала Косаница,Дегрмен,Мердаре,Матарова,Преветица,Боровац, Васиљевац,Кутлово,Краваре,Прекорађа,Мачија Стена,Купиново,Зебице,Ђаке,Соколов Вис,Вуча,Иван Кула,Добри До ,Трн,Трпезе,Свињиште,Заграђе,Црвеника и Секирача.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "5947d32c07ba",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Куршумлија",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Пепељевац."
+      ],
+      "reason": null,
+      "note": "Пепељевац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "995f3a2096ef",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Куршумлија",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Дегрмен."
+      ],
+      "reason": null,
+      "note": "Дегрмен.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],

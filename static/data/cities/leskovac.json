@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "906c06816b13",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Лесковац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "део Доње Губеревца",
-        "од школе до амбуланте"
-      ],
-      "reason": null,
-      "note": "део Доње Губеревца, од школе до амбуланте",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "bce14f5e554b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Лесковац",
-      "time": {
-        "start": "12:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део Тупаловца (Кокерци)"
-      ],
-      "reason": null,
-      "note": "део Тупаловца (Кокерци)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "5e09cb7bad02",
       "utility": "water",
       "kind": "emergency",

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "d3465881ca44",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Сл. Виногради : ул.В.Хурбана"
-      ],
-      "reason": null,
-      "note": "Сл. Виногради : ул.В.Хурбана",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1fdeeaa7c39e",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Стари Сланкамен : Викенд насеље Чарнок код Поченте 4",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d96b1489c86c",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Чортановци: Т.Јовића од бр 1/2 до Железничке.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

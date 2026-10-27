@@ -7,46 +7,6 @@
   },
   "outages": [
     {
-      "id": "f1ba59775b16",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Грнчар",
-        "Модра Стена",
-        "Врело",
-        "Дол",
-        "Богдановац",
-        "Брестов Дол",
-        "Штрбовац."
-      ],
-      "reason": null,
-      "note": "Грнчар,Модра Стена,Врело,Дол,Богдановац,Брестов Дол,Штрбовац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "321ba207cd83",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део села Црвена Јабука."
-      ],
-      "reason": null,
-      "note": "део села Црвена Јабука.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "81819e4caf61",
       "utility": "electricity",
       "kind": "planned",
@@ -76,7 +36,7 @@
       ],
       "reason": null,
       "note": "Љуберадја,Бердуј,Лесковица,Радосин,Раков Дол,Црвена Јабука,Грнчар,Врело,Модра Стена,Дол,Брестов Дол,Богдановац,Боњинце,Завидинце,Остатовица,Дубрава.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

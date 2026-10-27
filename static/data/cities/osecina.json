@@ -7,45 +7,6 @@
   },
   "outages": [
     {
-      "id": "7934aa4692d2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Осечина",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Купци села Г.Црниљево",
-        "село Осечина",
-        "Бодуша",
-        "Коњуша и део села Плужац"
-      ],
-      "reason": null,
-      "note": "Купци села Г.Црниљево, село Осечина, Бодуша, Коњуша и део села Плужац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "9319a481e872",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Осечина",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Купци села Комирић",
-        "Белотић",
-        "Плужац"
-      ],
-      "reason": null,
-      "note": "Купци села Комирић, Белотић, Плужац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7613296ca0bc",
       "utility": "electricity",
       "kind": "planned",
@@ -60,7 +21,7 @@
       ],
       "reason": null,
       "note": "Купци дела села Царина (према Обрадовићима)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

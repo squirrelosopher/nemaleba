@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "9d346d598fd9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Беочин",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Беочин село"
-      ],
-      "reason": null,
-      "note": "Беочин село",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f2f712c293de",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +22,7 @@
       ],
       "reason": null,
       "note": "Корушка, Сусек.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

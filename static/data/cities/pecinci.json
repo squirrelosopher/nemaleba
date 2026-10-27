@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "e645829975aa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Пећинци",
-      "time": {
-        "start": "09:00",
-        "end": "09:30"
-      },
-      "streets": [
-        "Пећинци : ул.Браће Крстић"
-      ],
-      "reason": null,
-      "note": "Пећинци : ул.Браће Крстић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "028c4b3eb1fd",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "АШАЊА : Део ул.Гвозденова око бр.43",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "386a3a72d051",
@@ -55,7 +38,24 @@
       ],
       "reason": null,
       "note": "ГОЛУБИНЦИ : Део ул.Ђурђевска око бр.153",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "20e19bb388f6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Пећинци",
+      "time": {
+        "start": "08:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Прхово: Комплетно насеље"
+      ],
+      "reason": null,
+      "note": "Прхово: Комплетно насеље",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

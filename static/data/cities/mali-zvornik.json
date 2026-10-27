@@ -21,7 +21,24 @@
       ],
       "reason": null,
       "note": "Доња Борина и Брасина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e6655a17bc0b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Мали Зворник",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Брасина"
+      ],
+      "reason": null,
+      "note": "Брасина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,25 +5,7 @@
     "nameLatin": "Gadžin Han",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "19b5c54a4dc3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Гаџин Хан",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део Прве Кутине;"
-      ],
-      "reason": null,
-      "note": "део Прве Кутине;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-28",

@@ -5,29 +5,7 @@
     "nameLatin": "Rekovac",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [
-    {
-      "id": "1bba330f9c78",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Рековац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Села Д.Крчин .С.Крчин",
-        "Г.Крчин",
-        "Пајковац",
-        "Карановац",
-        "Тољевац и М.Крушевица"
-      ],
-      "reason": null,
-      "note": "Села Д.Крчин .С.Крчин ,Г.Крчин ,Пајковац ,Карановац ,Тољевац и М.Крушевица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-28",

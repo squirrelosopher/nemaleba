@@ -5,27 +5,7 @@
     "nameLatin": "Užice",
     "branchCyrillic": "Ужице"
   },
-  "outages": [
-    {
-      "id": "f32dbc8241e2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Потрошачи у ул.Ратарска и Војвођанска(други део)",
-        "Арсенија Чарнојевића(почетак)",
-        "Балканска и објекти „Кожаре“ у Глуваћима."
-      ],
-      "reason": null,
-      "note": "Потрошачи у ул.Ратарска и Војвођанска(други део),Арсенија Чарнојевића(почетак),Балканска и објекти „Кожаре“ у Глуваћима.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-28",

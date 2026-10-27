@@ -5,26 +5,7 @@
     "nameLatin": "Blace",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [
-    {
-      "id": "9f6fa64a0d7b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-26",
-      "areaLabel": "Блаце",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Стубал-Бела Земља",
-        "Суви До и Чунгула."
-      ],
-      "reason": null,
-      "note": "Стубал-Бела Земља,Суви До и Чунгула.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-28",
