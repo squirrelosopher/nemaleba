@@ -7,210 +7,6 @@
   },
   "outages": [
     {
-      "id": "ac76125e2321",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-19",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-10-2026/",
-      "areaLabel": "Ердиглија",
-      "time": {
-        "start": "06:10",
-        "end": "11:00"
-      },
-      "streets": [
-        "угао Даничићеве и Обилићеве"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Хаваријска искључења на дан 19.10.2026. \n \n Ердиглија, угао Даничићеве и Обилићеве ( од 06:10 до 11:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "6f76842e5eff",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-19",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-10-2026/",
-      "areaLabel": "Аеродром",
-      "time": {
-        "start": "11:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Владимира Роловића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Аеродром, ул. Владимира Роловића ( од 11:00 до 14:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "aba7af8f8f46",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-19",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-10-2026/",
-      "areaLabel": "Мала Вага",
-      "time": {
-        "start": "11:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Станоја Главаша"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Мала Вага, ул. Станоја Главаша ( од 11:00 до 14:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "927caee828a5",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-19",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-10-2026/",
-      "areaLabel": "Ћава",
-      "time": {
-        "start": "11:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Арсенија Чарнојевића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Ћава, ул. Арсенија Чарнојевића ( од 11:00 до 14:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "19ff5bdc1d87",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-19",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-10-2026/",
-      "areaLabel": "Ждраљица",
-      "time": {
-        "start": "14:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Топлице Милана"
-      ],
-      "reason": "поправка кућног прикљзчка",
-      "note": "Ждраљица, ул. Топлице Милана ( од 14:00 до 16:00 часова ), поправка кућног прикљзчка."
-    },
-    {
-      "id": "d43b7633ab17",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-19",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-10-2026/",
-      "areaLabel": "Ћава",
-      "time": {
-        "start": "14:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Милована Грујовића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Ћава, ул. Милована Грујовића ( од 14:00 до 16:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "158c662cd45d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-19",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-10-2026/",
-      "areaLabel": "Центар",
-      "time": {
-        "start": "14:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Саве Ковачевића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Центар, ул. Саве Ковачевића ( од 14:00 до 16:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "22f9e48d8614",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-19",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-10-2026/",
-      "areaLabel": "Белошевац",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Тихомира Вуксановића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Белошевац, ул. Тихомира Вуксановића ( од 16:00 до 19:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "c7b3408c1a6d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-19",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-10-2026/",
-      "areaLabel": "Јовановац",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Саве Ковачевића"
-      ],
-      "reason": "поправка кућног прикљзчка",
-      "note": "Јовановац, ул. Саве Ковачевића ( од 16:00 до 19:00 часова ), поправка кућног прикљзчка."
-    },
-    {
-      "id": "10f409febaab",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-19",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-10-2026/",
-      "areaLabel": "Пчелице",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Љубомира Јовановића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Пчелице, ул. Љубомира Јовановића ( од 16:00 до 19:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "c5753e9339e9",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-19",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-10-2026/",
-      "areaLabel": "Аеродром",
-      "time": {
-        "start": "22:20",
-        "end": "11:00"
-      },
-      "streets": [
-        "Другог Српскиг Устанка"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Аеродром, ул. Другог Српскиг Устанка ( од 22:20 до 11:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "721b57f44201",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-19",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-10-2026/",
-      "areaLabel": "Ердеч",
-      "time": {
-        "start": "22:50",
-        "end": "11:00"
-      },
-      "streets": [
-        "угао Партизанских Курира и Алекдандра Ратковића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Ердеч, угао Партизанских Курира и Алекдандра Ратковића ( од 22:50 до 11:00 часова ), поправка уличне линије."
-    },
-    {
       "id": "f8c79bc1ea2d",
       "utility": "water",
       "kind": "emergency",
@@ -1121,11 +917,6 @@
   ],
   "history": [
     {
-      "date": "2026-09-27",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
-    {
       "date": "2026-09-28",
       "electricityOutages": 6,
       "waterOutages": 12
@@ -1269,6 +1060,11 @@
       "date": "2026-10-26",
       "electricityOutages": 0,
       "waterOutages": 9
+    },
+    {
+      "date": "2026-10-27",
+      "electricityOutages": 1,
+      "waterOutages": 0
     }
   ]
 }
