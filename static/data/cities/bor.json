@@ -78,6 +78,21 @@
       "reason": "Санација кварова на водоводној мрежи",
       "note": "Улица Љубе Нешића Словенска улица број 5 Кварови на мерним местима – у шахтама",
       "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-ponedeljak-26-10-2026-god/"
+    },
+    {
+      "id": "365506884bd2",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-27",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Суваја",
+        "Малазија"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Суваја Малазија Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-27-10-2026-god/"
     }
   ],
   "history": [
@@ -229,7 +244,7 @@
     {
       "date": "2026-10-27",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
