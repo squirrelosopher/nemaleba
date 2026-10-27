@@ -7,20 +7,20 @@
   },
   "outages": [
     {
-      "id": "e8dd0a1d7a4a",
+      "id": "50cc539cd4a0",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-27",
       "areaLabel": "Лазаревац",
       "time": {
         "start": "09:00",
-        "end": "14:00"
+        "end": "13:00"
       },
       "streets": [
-        "Аранђеловац: насеље Даросава: улица Стефана Лазаревића,Косте Абрашевића (засеок Партизани 1-код школе)."
+        "Горњ иМилановац: насеље Трудељ (засеок Матићи)."
       ],
       "reason": null,
-      "note": "Аранђеловац: насеље Даросава: улица Стефана Лазаревића,Косте Абрашевића (засеок Партизани 1-код школе).",
+      "note": "Горњ иМилановац: насеље Трудељ (засеок Матићи).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
@@ -41,20 +41,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "50cc539cd4a0",
+      "id": "e8dd0a1d7a4a",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-27",
       "areaLabel": "Лазаревац",
       "time": {
         "start": "09:00",
-        "end": "13:00"
+        "end": "14:00"
       },
       "streets": [
-        "Горњ иМилановац: насеље Трудељ (засеок Матићи)."
+        "Аранђеловац: насеље Даросава: улица Стефана Лазаревића,Косте Абрашевића (засеок Партизани 1-код школе)."
       ],
       "reason": null,
-      "note": "Горњ иМилановац: насеље Трудељ (засеок Матићи).",
+      "note": "Аранђеловац: насеље Даросава: улица Стефана Лазаревића,Косте Абрашевића (засеок Партизани 1-код школе).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
@@ -72,23 +72,6 @@
       ],
       "reason": null,
       "note": "Љиг: насеље Шутци (засеок Млин).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "bee9ae899913",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Дудовица: Радничка,Др.Воје Даниловића,Друге шумадисјке бригаде,Станије Томић (засеок Дудовица 1)."
-      ],
-      "reason": null,
-      "note": "Дудовица: Радничка,Др.Воје Даниловића,Друге шумадисјке бригаде,Станије Томић (засеок Дудовица 1).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
@@ -116,6 +99,23 @@
       ],
       "reason": null,
       "note": "Валандовска 9-83,10-66а,Марка Орешковића 26,Петра Антонијевића-Баше,Косте Рацина,Живорада Јездимировића,Ратка Танковића,Војислава Илића,Рудовачка,Милутина Бојића,Каменоградска.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "bee9ae899913",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Дудовица: Радничка,Др.Воје Даниловића,Друге шумадисјке бригаде,Станије Томић (засеок Дудовица 1)."
+      ],
+      "reason": null,
+      "note": "Дудовица: Радничка,Др.Воје Даниловића,Друге шумадисјке бригаде,Станије Томић (засеок Дудовица 1).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
@@ -202,6 +202,23 @@
       "reason": null,
       "note": "Горњи Милановац: насеље Трудељ (засеок Матићи).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "12a870531474",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Насеље Врбовно-Викендаши."
+      ],
+      "reason": null,
+      "note": "Насеље Врбовно-Викендаши.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

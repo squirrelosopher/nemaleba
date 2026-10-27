@@ -5,7 +5,42 @@
     "nameLatin": "Vladičin Han",
     "branchCyrillic": "Врање"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "0a13ab5786e6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Владичин Хан",
+      "time": {
+        "start": "08:00",
+        "end": "09:15"
+      },
+      "streets": [
+        "Ерозија (полиција) и околина"
+      ],
+      "reason": null,
+      "note": "Ерозија (полиција) и околина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "b5a41dd7d310",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Владичин Хан",
+      "time": {
+        "start": "09:15",
+        "end": "11:45"
+      },
+      "streets": [
+        "Центар Вл. Хан"
+      ],
+      "reason": null,
+      "note": "Центар Вл. Хан",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-28",

@@ -5,7 +5,25 @@
     "nameLatin": "Vranjska Banja",
     "branchCyrillic": "Врање"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "9c129503e894",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Врањска бања",
+      "time": {
+        "start": "12:45",
+        "end": "13:45"
+      },
+      "streets": [
+        "Планинарски Дом Бесна Кобила и околина"
+      ],
+      "reason": null,
+      "note": "Планинарски Дом Бесна Кобила и околина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-29",

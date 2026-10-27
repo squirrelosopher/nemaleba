@@ -23,6 +23,44 @@
       "reason": null,
       "note": "Корушка, Сусек.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "37eaeec51ab8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Беочин",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Раковац: Од ул. Николе Пашића према Врднику"
+      ],
+      "reason": null,
+      "note": "Раковац: Од ул. Николе Пашића према Врднику",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "af79ce1a2cd5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Беочин",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Шакотинац",
+        "Бразилија",
+        "Телефонија",
+        "Примаенерги",
+        "Палета С."
+      ],
+      "reason": null,
+      "note": "Шакотинац, Бразилија, Телефонија, Примаенерги, Палета С.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

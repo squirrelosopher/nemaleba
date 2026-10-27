@@ -37,6 +37,40 @@
       "reason": null,
       "note": "Љуберадја,Бердуј,Лесковица,Радосин,Раков Дол,Црвена Јабука,Грнчар,Врело,Модра Стена,Дол,Брестов Дол,Богдановац,Боњинце,Завидинце,Остатовица,Дубрава.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "33c8840990b5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Бабушница",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део села Остатовица."
+      ],
+      "reason": null,
+      "note": "део села Остатовица.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7d4805472876",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Бабушница",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "део села Стрелац."
+      ],
+      "reason": null,
+      "note": "део села Стрелац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

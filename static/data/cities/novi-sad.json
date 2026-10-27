@@ -285,6 +285,74 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 17 сати бити насеље Дудара у Сремским Карловцима.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-27-10-2026/"
+    },
+    {
+      "id": "10dcb0a437d4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Ченеј: Партизанска од Ратарске до Тенена, Реље Савића, Салаши од Партизанске према аутопуту."
+      ],
+      "reason": null,
+      "note": "Ченеј: Партизанска од Ратарске до Тенена, Реље Савића, Салаши од Партизанске према аутопуту.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2b3904ed83ec",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "Кисачка 2 – 14."
+      ],
+      "reason": null,
+      "note": "Кисачка 2 – 14.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e51172a915b5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "Сремска Каменица: Липарска, Орахова."
+      ],
+      "reason": null,
+      "note": "Сремска Каменица: Липарска, Орахова.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7e2d93e4c13d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Сремска Каменица: 7 војвођанске бригаде 35 – 51, 32 – 66, Радничка 15, Змај Јовина 29 А, Светосавска."
+      ],
+      "reason": null,
+      "note": "Сремска Каменица: 7 војвођанске бригаде 35 – 51, 32 – 66, Радничка 15, Змај Јовина 29 А, Светосавска.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
