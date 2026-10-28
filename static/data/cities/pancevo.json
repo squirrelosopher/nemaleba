@@ -58,6 +58,22 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "c2657837bedf",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-28",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "маршала Тита",
+        "од Радничке до Димитра Влахова",
+        "у насељеном месту Јабука"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи, без воде је остала Улица маршала Тита, од Радничке до Димитра Влахова, у насељеном месту Јабука.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/10/28/28-10-2026/"
+    },
+    {
       "id": "1bce988dafbd",
       "utility": "electricity",
       "kind": "planned",
@@ -292,7 +308,7 @@
     {
       "date": "2026-10-28",
       "electricityOutages": 3,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

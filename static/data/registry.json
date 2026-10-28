@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-28T09:35:52.236Z",
+  "generatedAt": "2026-10-28T10:11:01.586Z",
   "summary": {
     "date": "2026-10-28",
     "electricityOutages": 289,
-    "waterOutages": 23,
+    "waterOutages": 24,
     "affected": [
       {
         "id": "beograd",
@@ -42,14 +42,14 @@
         "waterOutages": 0
       },
       {
-        "id": "kursumlija",
-        "nameCyrillic": "Куршумлија",
-        "electricityOutages": 8,
-        "waterOutages": 0
-      },
-      {
         "id": "pancevo",
         "nameCyrillic": "Панчево",
+        "electricityOutages": 8,
+        "waterOutages": 1
+      },
+      {
+        "id": "kursumlija",
+        "nameCyrillic": "Куршумлија",
         "electricityOutages": 8,
         "waterOutages": 0
       },
@@ -600,7 +600,7 @@
     {
       "date": "2026-10-28",
       "electricityOutages": 118,
-      "waterOutages": 23
+      "waterOutages": 24
     }
   ],
   "providers": [
