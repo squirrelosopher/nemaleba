@@ -37,6 +37,31 @@
       "reason": null,
       "note": "Део Лебана (насеље око СТС 10/0,4 kV 8. март део насеља око ТС 10/0,4 kV Цилетов Јабукар), Рекарци, Шумане, Шарце, Горње Врановце, Поповце, Гргуровце, Клајић, Радевце, Липовица, Бувце, Дрводељ, Рафуна, Пороштица",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "544d97aea1e8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Лебане",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Прекопчелица",
+        "Сикицол",
+        "Мијајлица",
+        "Свињарица",
+        "Бачевина",
+        "Штулац",
+        "Кодралија",
+        "Лалиновац",
+        "Радиновац"
+      ],
+      "reason": null,
+      "note": "Прекопчелица, Сикицол, Мијајлица, Свињарица, Бачевина, Штулац, Кодралија, Лалиновац, Радиновац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

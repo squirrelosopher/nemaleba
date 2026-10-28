@@ -5,7 +5,30 @@
     "nameLatin": "Ražanj",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "66ab28192792",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Ражањ",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насељена места Витошевац",
+        "Подгорац",
+        "Пардик",
+        "Грабово",
+        "Шетка",
+        "Село Варош."
+      ],
+      "reason": null,
+      "note": "Насељена места Витошевац,Подгорац,Пардик,Грабово,Шетка, Село Варош.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-09-29",

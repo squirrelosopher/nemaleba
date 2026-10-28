@@ -56,6 +56,41 @@
       "reason": null,
       "note": "Сомбор: Викендице уз канал",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "31481714d2fb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "СОМБОР, УЛИЦЕ: Б.НУШИЋА И С.РАДОСАВЉЕВИЋА 13-29"
+      ],
+      "reason": null,
+      "note": "СОМБОР, УЛИЦЕ: Б.НУШИЋА И С.РАДОСАВЉЕВИЋА 13-29",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "9f50d3839ec5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "СОМБОР",
+        "ДЕО КОЗАРА САЛАШИ"
+      ],
+      "reason": null,
+      "note": "СОМБОР, ДЕО КОЗАРА САЛАШИ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

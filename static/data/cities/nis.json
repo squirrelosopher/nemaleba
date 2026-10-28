@@ -800,6 +800,21 @@
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-205/"
     },
     {
+      "id": "b82609e2d47f",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-29",
+      "areaLabel": "Прва Кутина",
+      "time": {
+        "start": "06:30",
+        "end": "15:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "НАСТАВАК РАДОВА У СЕЛУ ПРВА КУТИНА астављају се радови на водоводној мрежи у Првокутинској улици код броја 31. Због сложеног квара биће у прекиду водоснабдевање и наредног дана, у четвртак 29. октобра од 6:30 до 15 часова на простору села Прва Кутина.",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%bd%d0%be%d0%b2%d0%be-%d1%81%d0%b0%d0%be%d0%bf%d1%88%d1%82%d0%b5%d1%9a%d0%b5-%d0%be-%d0%b2%d0%be%d0%b4%d0%be%d1%81%d0%bd%d0%b0%d0%b1%d0%b4%d0%b5%d0%b2%d0%b0%d1%9a%d1%83-26/"
+    },
+    {
       "id": "ccc053d6e2c7",
       "utility": "electricity",
       "kind": "planned",
@@ -840,6 +855,46 @@
       ],
       "reason": null,
       "note": "делови Мокрањчеве;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7ea7cf424eff",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Нишка бања",
+      "time": {
+        "start": "09:00",
+        "end": "14:30"
+      },
+      "streets": [
+        "делови Банцарева",
+        "Чукљеника",
+        "Доње Студене",
+        "Горње Студене",
+        "Бојаниних вода;"
+      ],
+      "reason": null,
+      "note": "делови Банцарева, Чукљеника, Доње Студене, Горње Студене, Бојаниних вода;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "62e12cf35900",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Медијана",
+      "time": {
+        "start": "11:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "делови Бледске (9-24)",
+        "21. маја (6-27а)",
+        "Николе Коперника (25);"
+      ],
+      "reason": null,
+      "note": "делови Бледске (9-24), 21. маја (6-27а), Николе Коперника (25);",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {

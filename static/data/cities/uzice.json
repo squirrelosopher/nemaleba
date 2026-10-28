@@ -58,6 +58,42 @@
       "reason": null,
       "note": "Потрошачи са подручја Забучја,Прљевића,Љубања,Станојевића, Јованетића, Калдрме, Ливнице, Збојштице, Обућина, Дрежника, Зекавица, Лијескића, Шмакића, Марковића, Скржути, Савића,Вране,Равни,Равањско поље и Никојевића.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "c3bcbd248ecf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Потрошачи из Бјелотићи",
+        "Борисављевићи"
+      ],
+      "reason": null,
+      "note": "Потрошачи из Бјелотићи, Борисављевићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "8e6f01888d02",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Потрошачи из Луновог Села",
+        "Антонијевићи"
+      ],
+      "reason": null,
+      "note": "Потрошачи из Луновог Села , Антонијевићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

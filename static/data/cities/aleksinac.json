@@ -39,6 +39,61 @@
       "reason": null,
       "note": "Део Бобовиште",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "e44037535455",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Алексинац",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Пруговац",
+        "Липовац Црна Бара И Коњска Пољана"
+      ],
+      "reason": null,
+      "note": "Пруговац, Липовац Црна Бара И Коњска Пољана",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "528fa51eb3e8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Алексинац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Корман",
+        "Доњи Љубеш",
+        "Горњи Љубеш",
+        "Срезовац и Витковац"
+      ],
+      "reason": null,
+      "note": "Корман , Доњи Љубеш, Горњи Љубеш, Срезовац и Витковац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "623757aa369a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-29",
+      "areaLabel": "Алексинац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део села Моравца преко пруге"
+      ],
+      "reason": null,
+      "note": "Део села Моравца преко пруге",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
