@@ -170,6 +170,23 @@
       "reason": null,
       "note": "Сремска Каменица: 7 војвођанске бригаде 35 – 51, 32 – 66, Радничка 15, Змај Јовина 29 А, Светосавска.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "837e1eb7a2e9",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-28",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Светосавска улица и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Светосавска улица и околне улице у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-28-10-2026/"
     }
   ],
   "history": [
@@ -321,7 +338,7 @@
     {
       "date": "2026-10-28",
       "electricityOutages": 4,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

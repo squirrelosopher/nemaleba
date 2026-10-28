@@ -111,6 +111,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "b21b19d07a6e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-28",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "ИНТЕРВЕНЦИЈА НА МРЕЖИ У ОПШТИНИ ПАЛИЛУЛА току су радови на водоводној мрежи у Дурмиторској улици, код фирме \"Building Zone\". Због интервенције биће у прекиду водоснабдевањe до 15 сати у Дурмиторској улици са прилазима и у неким околним улицама",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-205/"
+    },
+    {
       "id": "ccc053d6e2c7",
       "utility": "electricity",
       "kind": "planned",
@@ -322,7 +337,7 @@
     {
       "date": "2026-10-28",
       "electricityOutages": 3,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
