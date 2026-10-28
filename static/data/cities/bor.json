@@ -77,6 +77,20 @@
       "reason": "Санација кварова на водоводној мрежи",
       "note": "Суваја Малазија Кварови на мерним местима – у шахтама",
       "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-27-10-2026-god/"
+    },
+    {
+      "id": "c655823d1b6d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-28",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Бучје"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Бучје Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-sreda-28-10-2026-god/"
     }
   ],
   "history": [
@@ -228,7 +242,7 @@
     {
       "date": "2026-10-28",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
