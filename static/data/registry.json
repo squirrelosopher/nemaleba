@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-28T14:11:02.822Z",
+  "generatedAt": "2026-10-28T16:11:08.611Z",
   "summary": {
     "date": "2026-10-28",
-    "electricityOutages": 328,
+    "electricityOutages": 331,
     "waterOutages": 26,
     "affected": [
       {
@@ -216,6 +216,18 @@
         "waterOutages": 0
       },
       {
+        "id": "petrovac",
+        "nameCyrillic": "Петровац",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "pozarevac",
+        "nameCyrillic": "Пожаревац",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
         "id": "stara-pazova",
         "nameCyrillic": "Стара Пазова",
         "electricityOutages": 3,
@@ -318,12 +330,6 @@
         "waterOutages": 0
       },
       {
-        "id": "petrovac",
-        "nameCyrillic": "Петровац",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
         "id": "pecinci",
         "nameCyrillic": "Пећинци",
         "electricityOutages": 2,
@@ -332,12 +338,6 @@
       {
         "id": "plandiste",
         "nameCyrillic": "Пландиште",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "pozarevac",
-        "nameCyrillic": "Пожаревац",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -458,6 +458,12 @@
       {
         "id": "mali-idjos",
         "nameCyrillic": "Мали Иђош",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "malo-crnice",
+        "nameCyrillic": "Мало Црниће",
         "electricityOutages": 1,
         "waterOutages": 0
       },

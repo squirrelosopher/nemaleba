@@ -24,40 +24,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "bee9ae899913",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Дудовица: Радничка,Др.Воје Даниловића,Друге шумадисјке бригаде,Станије Томић (засеок Дудовица 1)."
-      ],
-      "reason": null,
-      "note": "Дудовица: Радничка,Др.Воје Даниловића,Друге шумадисјке бригаде,Станије Томић (засеок Дудовица 1).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2018e5e2d089",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Љиг: насеље Јајчић (засеок Јајчић 1-према продавници)."
-      ],
-      "reason": null,
-      "note": "Љиг: насеље Јајчић (засеок Јајчић 1-према продавници).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "2f1ea480bbae",
       "utility": "electricity",
       "kind": "planned",
@@ -85,20 +51,37 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "b447f8457e1c",
+      "id": "2018e5e2d089",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-28",
       "areaLabel": "Лазаревац",
       "time": {
-        "start": "12:00",
-        "end": "13:30"
+        "start": "09:00",
+        "end": "14:00"
       },
       "streets": [
-        "Јунковац (засеок Дом-према Великим Црљенима)."
+        "Љиг: насеље Јајчић (засеок Јајчић 1-према продавници)."
       ],
       "reason": null,
-      "note": "Јунковац (засеок Дом-према Великим Црљенима).",
+      "note": "Љиг: насеље Јајчић (засеок Јајчић 1-према продавници).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "bee9ae899913",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Дудовица: Радничка,Др.Воје Даниловића,Друге шумадисјке бригаде,Станије Томић (засеок Дудовица 1)."
+      ],
+      "reason": null,
+      "note": "Дудовица: Радничка,Др.Воје Даниловића,Друге шумадисјке бригаде,Станије Томић (засеок Дудовица 1).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
@@ -116,6 +99,23 @@
       ],
       "reason": null,
       "note": "Брајковац (засеок Кула).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "b447f8457e1c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-28",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "12:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Јунковац (засеок Дом-према Великим Црљенима)."
+      ],
+      "reason": null,
+      "note": "Јунковац (засеок Дом-према Великим Црљенима).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
