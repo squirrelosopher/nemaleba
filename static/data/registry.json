@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-28T08:11:03.772Z",
+  "generatedAt": "2026-10-28T09:11:03.570Z",
   "summary": {
     "date": "2026-10-28",
     "electricityOutages": 289,
-    "waterOutages": 21,
+    "waterOutages": 23,
     "affected": [
       {
         "id": "beograd",
@@ -18,16 +18,16 @@
         "waterOutages": 0
       },
       {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 9,
+        "waterOutages": 8
+      },
+      {
         "id": "kragujevac",
         "nameCyrillic": "Крагујевац",
         "electricityOutages": 4,
         "waterOutages": 12
-      },
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 9,
-        "waterOutages": 7
       },
       {
         "id": "sabac",
@@ -240,6 +240,12 @@
         "waterOutages": 0
       },
       {
+        "id": "vranje",
+        "nameCyrillic": "Врање",
+        "electricityOutages": 1,
+        "waterOutages": 1
+      },
+      {
         "id": "ivanjica",
         "nameCyrillic": "Ивањица",
         "electricityOutages": 2,
@@ -356,12 +362,6 @@
       {
         "id": "velika-plana",
         "nameCyrillic": "Велика Плана",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "vranje",
-        "nameCyrillic": "Врање",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -600,7 +600,7 @@
     {
       "date": "2026-10-28",
       "electricityOutages": 118,
-      "waterOutages": 21
+      "waterOutages": 23
     }
   ],
   "providers": [
