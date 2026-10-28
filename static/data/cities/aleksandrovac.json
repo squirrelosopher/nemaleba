@@ -5,25 +5,7 @@
     "nameLatin": "Aleksandrovac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [
-    {
-      "id": "442a908dfc1c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Александровац",
-      "time": {
-        "start": "08:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Део насељеног места Стрменица."
-      ],
-      "reason": null,
-      "note": "Део насељеног места Стрменица.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-29",

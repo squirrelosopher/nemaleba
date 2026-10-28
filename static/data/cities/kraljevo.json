@@ -5,60 +5,7 @@
     "nameLatin": "Kraljevo",
     "branchCyrillic": "Краљево"
   },
-  "outages": [
-    {
-      "id": "575f50b130b9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "У Лопатници Чорбићи. У Станчи",
-        "Пропљеници и Толишници."
-      ],
-      "reason": null,
-      "note": "У Лопатници Чорбићи. У Станчи, Пропљеници и Толишници.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a94d261d8bfd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "У Тавнику Бајовац. У Богутовачкој Бањи."
-      ],
-      "reason": null,
-      "note": "У Тавнику Бајовац. У Богутовачкој Бањи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "493ed81eff1d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "12:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "У Матаругама Балтићи"
-      ],
-      "reason": null,
-      "note": "У Матаругама Балтићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-29",

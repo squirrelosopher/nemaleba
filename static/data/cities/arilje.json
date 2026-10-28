@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "08a8b4f993f3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Ариље",
-      "time": {
-        "start": "08:30",
-        "end": "09:30"
-      },
-      "streets": [
-        "Насеља: доњи Грдовићи и Вироштак"
-      ],
-      "reason": null,
-      "note": "Насеља: доњи Грдовићи и Вироштак",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "09de736f6f99",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Ариље",
-      "time": {
-        "start": "10:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеље: Поглед (без Шљункаре, Лазина и Рзавца)"
-      ],
-      "reason": null,
-      "note": "Насеље: Поглед (без Шљункаре, Лазина и Рзавца)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "0a29a450737d",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Засеоци: Лазине, Рзавац, Шљункара (Поглед), Грабовик (Вране),Рзавац и Вратло (Радобуђа).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "fc8a5c3d3098",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Села: Радошево и Висока.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,32 +7,6 @@
   },
   "outages": [
     {
-      "id": "d0f189cf8493",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "10:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Горња Стражава",
-        "Балиновац",
-        "Дешилово",
-        "Доње и Горње Кординце",
-        "бајчинце",
-        "Микуловац",
-        "Ново Село",
-        "Костеница",
-        "Петровац",
-        "Џигољ и Клисурица"
-      ],
-      "reason": null,
-      "note": "Горња Стражава,Балиновац ,Дешилово,Доње и Горње Кординце,бајчинце,Микуловац,Ново Село,Костеница,Петровац,Џигољ и Клисурица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7ddb7ff1a83c",
       "utility": "electricity",
       "kind": "planned",
@@ -47,7 +21,7 @@
       ],
       "reason": null,
       "note": "Добротић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "78f4ada4a8f7",
@@ -64,7 +38,7 @@
       ],
       "reason": null,
       "note": "Ужичка и Фрања Клуза",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a0e42fdddf6e",
@@ -81,7 +55,7 @@
       ],
       "reason": null,
       "note": "Јована Дучића и Видовданска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b942a284df36",
@@ -98,7 +72,7 @@
       ],
       "reason": null,
       "note": "Доња Топоница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "9c270e67e06e",
@@ -115,7 +89,7 @@
       ],
       "reason": null,
       "note": "Водице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "198effeac17e",
@@ -132,7 +106,7 @@
       ],
       "reason": null,
       "note": "Прекопуце",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "29b7aa0ff970",
@@ -149,7 +123,7 @@
       ],
       "reason": null,
       "note": "Велика Плана -центар",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "9708d021856d",
@@ -166,7 +140,7 @@
       ],
       "reason": null,
       "note": "Горња Растовница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "d6fb5f31d13a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Кикинда",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Банатско Велико Село: Стојана Матића, Марка Орешковића од Српских Ратника до Стојана Матића."
-      ],
-      "reason": null,
-      "note": "Банатско Велико Село: Стојана Матића, Марка Орешковића од Српских Ратника до Стојана Матића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b199736afd56",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "половина Банатског Великог Селе од центра села према Накову",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "59f3be14ae06",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Банатско Велико Село: Здравка Челара.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e8a3f69e7fdc",
@@ -72,7 +55,7 @@
       ],
       "reason": null,
       "note": "Банатско Велико Село: Бранка Ћопића од Наковачког пута до Десанке Максимовић, Војвођанска од Бранка Ћопића до Здравка Челара.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "136405096617",
@@ -89,7 +72,7 @@
       ],
       "reason": null,
       "note": "Кикинда: Стевана Сремца од Карађорђеве до Душана Васиљева.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "466ad724ce62",
@@ -106,7 +89,7 @@
       ],
       "reason": null,
       "note": "Мокрин: Светог Саве од Ђуре Јакшића до Ђуре Ђаковића, Васе Стајића од Ђуре Ђаковића до Доситеја Обрадовића, Анђе Ранковић цела, Ђуре Јакшића од Светог Саве до Васе Стајића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ef3e8590442b",
@@ -123,7 +106,7 @@
       ],
       "reason": null,
       "note": "Кикинда: Његошева од Иве Лоле Рибара до Косовске, Косовска од Тозе Марковића до Његошеве.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2ea43d401d2a",
@@ -140,7 +123,7 @@
       ],
       "reason": null,
       "note": "Половина Банатског Великог Села од центра села према Новим Козарцима.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

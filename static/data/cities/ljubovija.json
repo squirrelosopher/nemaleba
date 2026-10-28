@@ -5,34 +5,7 @@
     "nameLatin": "Ljubovija",
     "branchCyrillic": "Лозница"
   },
-  "outages": [
-    {
-      "id": "17f4e2d22dab",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Љубовија",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Грабовица",
-        "Врхпоље",
-        "Трешњица",
-        "Бачевци",
-        "Грчић",
-        "Немчевић",
-        "Цапарић",
-        "Шапари",
-        "Рогота",
-        "Дрлаче"
-      ],
-      "reason": null,
-      "note": "Грабовица, Врхпоље, Трешњица, Бачевци, Грчић, Немчевић, Цапарић, Шапари, Рогота, Дрлаче",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-29",

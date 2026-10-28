@@ -7,26 +7,6 @@
   },
   "outages": [
     {
-      "id": "81821a06e2cd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Мерошина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Арбанасце",
-        "Југбогдановац",
-        "ТЗР Рециклинг",
-        "базне станице Мобтел и Телеком на Дебелом брду"
-      ],
-      "reason": null,
-      "note": "Арбанасце,Југбогдановац,ТЗР Рециклинг,базне станице Мобтел и Телеком на Дебелом брду",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "5302440a429e",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +21,7 @@
       ],
       "reason": null,
       "note": "део ул поред ЕД Мерошина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1b9adb7edd85",
@@ -58,7 +38,7 @@
       ],
       "reason": null,
       "note": "Чубура",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1a8e89a27bff",
@@ -75,7 +55,7 @@
       ],
       "reason": null,
       "note": "Дудулајце",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "18890b45addb",
@@ -92,7 +72,7 @@
       ],
       "reason": null,
       "note": "Дудулајце",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "434f10313a3e",
@@ -109,7 +89,7 @@
       ],
       "reason": null,
       "note": "Фриком и део ул: Нишка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "0ba83cf7aa0b",
@@ -126,7 +106,7 @@
       ],
       "reason": null,
       "note": "Кемо",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

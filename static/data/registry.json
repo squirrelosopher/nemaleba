@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-28T05:11:09.228Z",
+  "generatedAt": "2026-10-28T06:11:08.097Z",
   "summary": {
     "date": "2026-10-28",
-    "electricityOutages": 282,
+    "electricityOutages": 289,
     "waterOutages": 0,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 49,
+        "electricityOutages": 51,
         "waterOutages": 0
       },
       {
         "id": "subotica",
         "nameCyrillic": "Суботица",
-        "electricityOutages": 23,
+        "electricityOutages": 24,
         "waterOutages": 0
       },
       {
@@ -78,9 +78,21 @@
         "waterOutages": 0
       },
       {
+        "id": "rekovac",
+        "nameCyrillic": "Рековац",
+        "electricityOutages": 5,
+        "waterOutages": 0
+      },
+      {
         "id": "ruma",
         "nameCyrillic": "Рума",
         "electricityOutages": 5,
+        "waterOutages": 0
+      },
+      {
+        "id": "golubac",
+        "nameCyrillic": "Голубац",
+        "electricityOutages": 4,
         "waterOutages": 0
       },
       {
@@ -108,12 +120,6 @@
         "waterOutages": 0
       },
       {
-        "id": "rekovac",
-        "nameCyrillic": "Рековац",
-        "electricityOutages": 4,
-        "waterOutages": 0
-      },
-      {
         "id": "sremska-mitrovica",
         "nameCyrillic": "Сремска Митровица",
         "electricityOutages": 4,
@@ -128,12 +134,6 @@
       {
         "id": "bela-palanka",
         "nameCyrillic": "Бела Паланка",
-        "electricityOutages": 3,
-        "waterOutages": 0
-      },
-      {
-        "id": "golubac",
-        "nameCyrillic": "Голубац",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -276,6 +276,12 @@
         "waterOutages": 0
       },
       {
+        "id": "petrovac",
+        "nameCyrillic": "Петровац",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
         "id": "pecinci",
         "nameCyrillic": "Пећинци",
         "electricityOutages": 2,
@@ -302,6 +308,12 @@
       {
         "id": "smederevska-palanka",
         "nameCyrillic": "Смедеревска Паланка",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "tutin",
+        "nameCyrillic": "Тутин",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -420,20 +432,8 @@
         "waterOutages": 0
       },
       {
-        "id": "petrovac",
-        "nameCyrillic": "Петровац",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "sremski-karlovci",
         "nameCyrillic": "Сремски Карловци",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "tutin",
-        "nameCyrillic": "Тутин",
         "electricityOutages": 1,
         "waterOutages": 0
       },

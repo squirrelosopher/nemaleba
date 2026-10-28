@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "1fdeeaa7c39e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "12:00",
-        "end": "12:30"
-      },
-      "streets": [
-        "Стари Сланкамен : Викенд насеље Чарнок код Поченте 4"
-      ],
-      "reason": null,
-      "note": "Стари Сланкамен : Викенд насеље Чарнок код Поченте 4",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d96b1489c86c",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Чортановци: Т.Јовића од бр 1/2 до Железничке.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

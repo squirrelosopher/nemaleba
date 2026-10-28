@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "dcab4faa61d4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Горњи Милановац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Улица Цвијићева и Звонко Петровић"
-      ],
-      "reason": null,
-      "note": "Улица Цвијићева и Звонко Петровић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b5da8d2ca129",
       "utility": "electricity",
       "kind": "planned",
@@ -43,7 +26,7 @@
       ],
       "reason": null,
       "note": "Накучани, Шилопај, Крива Река, Давидовица, Церова, Мутањ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "392cec2414bc",
@@ -65,7 +48,7 @@
       ],
       "reason": null,
       "note": "Накучани, Шилопај, Крива Река, Давидовица, Церова, Мутањ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "039355eb5418",
@@ -82,7 +65,7 @@
       ],
       "reason": null,
       "note": "Део варошице Рудник од Тс Дрење према Варошици и Малом Рају",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "af1553690f01",
@@ -104,7 +87,7 @@
       ],
       "reason": null,
       "note": "Накучани, Шилопај, Крива Река, Давидовица, Церова, Мутањ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

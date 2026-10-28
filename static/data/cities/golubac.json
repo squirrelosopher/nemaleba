@@ -7,50 +7,6 @@
   },
   "outages": [
     {
-      "id": "dd5285e92764",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Голубац",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Голубачка тврђава и ТС ''Телеком репетитор''"
-      ],
-      "reason": null,
-      "note": "Голубачка тврђава и ТС ''Телеком репетитор''",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "34fc9e56d070",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-27",
-      "areaLabel": "Голубац",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Ливадица",
-        "Ридан",
-        "каменолом Јеленска стена",
-        "Брњица",
-        "Орлови",
-        "Чезава",
-        "Главичица",
-        "Турски Поток",
-        "Добра",
-        "Кожице",
-        "Кључ"
-      ],
-      "reason": null,
-      "note": "Ливадица, Ридан, каменолом Јеленска стена, Брњица, Орлови, Чезава, Главичица, Турски Поток, Добра, Кожице, Кључ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c025bdb57924",
       "utility": "electricity",
       "kind": "planned",
@@ -75,7 +31,7 @@
       ],
       "reason": null,
       "note": "Ливадица, Ридан, каменолом Јеленска стена, Брњица, Орлови, Чезава, Главичица, Турски Поток, Добра, Кожице, Кључ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5e5c305e71e4",
@@ -102,13 +58,40 @@
       ],
       "reason": null,
       "note": "Ливадица, Ридан, каменолом Јеленска стена, Брњица, Орлови, Чезава, Главичица, Турски Поток, Добра, Кожице, Кључ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "dace3394d508",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-10-30",
+      "areaLabel": "Голубац",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Ливадица",
+        "Ридан",
+        "каменолом Јеленска стена",
+        "Брњица",
+        "Орлови",
+        "Чезава",
+        "Главичица",
+        "Турски Поток",
+        "Добра",
+        "Кожице",
+        "Кључ"
+      ],
+      "reason": null,
+      "note": "Ливадица, Ридан, каменолом Јеленска стена, Брњица, Орлови, Чезава, Главичица, Турски Поток, Добра, Кожице, Кључ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "54e93a350d66",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-31",
       "areaLabel": "Голубац",
       "time": {
         "start": "08:00",
