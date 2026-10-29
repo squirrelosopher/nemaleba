@@ -7,20 +7,6 @@
   },
   "outages": [
     {
-      "id": "3d272f2fa27c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-21",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Железничка – Слатина"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Железничка – Слатина Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-sreda-21-10-2026-god/"
-    },
-    {
       "id": "88dd4d8f7942",
       "utility": "water",
       "kind": "emergency",
@@ -94,11 +80,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-09-29",
-      "electricityOutages": 0,
-      "waterOutages": 1
-    },
     {
       "date": "2026-09-30",
       "electricityOutages": 0,
@@ -243,6 +224,11 @@
       "date": "2026-10-28",
       "electricityOutages": 0,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-10-29",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }

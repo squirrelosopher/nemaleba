@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "cdd5e444154d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-21",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Дринска улица"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Дринска улица.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-21-10-2026/"
-    },
-    {
       "id": "1af8deeeff9f",
       "utility": "water",
       "kind": "emergency",
@@ -265,11 +248,6 @@
   ],
   "history": [
     {
-      "date": "2026-09-29",
-      "electricityOutages": 10,
-      "waterOutages": 4
-    },
-    {
       "date": "2026-09-30",
       "electricityOutages": 9,
       "waterOutages": 2
@@ -413,6 +391,11 @@
       "date": "2026-10-28",
       "electricityOutages": 4,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-10-29",
+      "electricityOutages": 4,
+      "waterOutages": 0
     }
   ]
 }

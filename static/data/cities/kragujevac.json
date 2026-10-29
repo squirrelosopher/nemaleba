@@ -7,155 +7,6 @@
   },
   "outages": [
     {
-      "id": "8bc8daae9eb9",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-21",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-21-10-2026/",
-      "areaLabel": "Белошевац",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Тихомира Вуксановића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Белошевац, ул. Тихомира Вуксановића ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "04a0d33da078",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-21",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-21-10-2026/",
-      "areaLabel": "Ердоглија",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Даничићева"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Хаваријска искључења на дан 21.10.2026. \n \n Ердоглија, ул. Даничићева ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "87daaf7cc440",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-21",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-21-10-2026/",
-      "areaLabel": "Стари град",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Војводе Мишића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Стари град, ул. Војводе Мишића ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "1f1d37718be7",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-21",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-21-10-2026/",
-      "areaLabel": "Ждраљица",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Топлице Милана"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Ждраљица, ул. Топлице Милана ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "f726720acead",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-21",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-21-10-2026/",
-      "areaLabel": "Илићево",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Тихомира Милојевића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Илићево, ул. Тихомира Милојевића ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "e00a587fa36b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-21",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-21-10-2026/",
-      "areaLabel": "Митровића",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [],
-      "reason": "поправка уличне линије",
-      "note": "Мале Пчелице, угао В.Зечевића – Др.Ђ.Митровића ( од 12:00 до 16:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "ce8f10b83a6b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-21",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-21-10-2026/",
-      "areaLabel": "Бресница",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Розе Луксембург"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Бресница, ул. Розе Луксембург ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "9a35d9cc3754",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-21",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-21-10-2026/",
-      "areaLabel": "Јовановића",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [],
-      "reason": "поправка хидранта",
-      "note": "Багремар, угао Д.Тодоровић – М.Јовановића ( од 16:00 до 19:00 часова ), поправка хидранта."
-    },
-    {
-      "id": "7c284079ccc6",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-21",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-21-10-2026/",
-      "areaLabel": "Палилуле",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Станоја Главаша"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Палилуле, ул. Станоја Главаша ( од 16:00 до 19:00 часова ), поправка уличне линије."
-    },
-    {
       "id": "5924e8d83807",
       "utility": "water",
       "kind": "emergency",
@@ -1153,11 +1004,6 @@
   ],
   "history": [
     {
-      "date": "2026-09-29",
-      "electricityOutages": 4,
-      "waterOutages": 11
-    },
-    {
       "date": "2026-09-30",
       "electricityOutages": 2,
       "waterOutages": 9
@@ -1301,6 +1147,11 @@
       "date": "2026-10-28",
       "electricityOutages": 1,
       "waterOutages": 12
+    },
+    {
+      "date": "2026-10-29",
+      "electricityOutages": 3,
+      "waterOutages": 0
     }
   ]
 }
