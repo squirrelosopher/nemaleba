@@ -74,6 +74,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "5444ea02dfa5",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-29",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Светог Саве од Светозара Милетића до Браће Јовановића"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остала Улица Светог Саве од Светозара Милетића до Браће Јовановића.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/10/29/29-10-2026/"
+    },
+    {
       "id": "f4a0132b7de3",
       "utility": "electricity",
       "kind": "planned",
@@ -257,7 +271,7 @@
     {
       "date": "2026-10-29",
       "electricityOutages": 3,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

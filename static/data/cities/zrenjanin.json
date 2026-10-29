@@ -39,6 +39,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "eedae6769a6c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-29",
+      "areaLabel": "Меленци",
+      "time": {
+        "start": null,
+        "end": "11:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "МЕЛЕНЦИ – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 11 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-29-10-2026-godine/"
+    },
+    {
       "id": "f66a71616532",
       "utility": "electricity",
       "kind": "planned",
@@ -205,7 +220,7 @@
     {
       "date": "2026-10-29",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
