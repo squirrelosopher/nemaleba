@@ -176,6 +176,40 @@
       "reason": null,
       "note": "\"\r\nДНЕВНИК\"",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "4ccf41425c01",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-29",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "13:00"
+      },
+      "streets": [
+        "Крилова улица"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Крилова улица.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/16794/"
+    },
+    {
+      "id": "60aeda1de6e1",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-29",
+      "areaLabel": "Сремска Каменица",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Светосавска улица и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Светосавска улица и околне улице у Сремској Каменици.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/16794/"
     }
   ],
   "history": [
@@ -327,7 +361,7 @@
     {
       "date": "2026-10-29",
       "electricityOutages": 4,
-      "waterOutages": 0
+      "waterOutages": 2
     }
   ]
 }
