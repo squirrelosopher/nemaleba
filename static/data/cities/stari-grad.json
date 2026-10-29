@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "c39ee6e2b03b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Стари град",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "ТЕРАЗИЈЕ: 6-6"
-      ],
-      "reason": null,
-      "note": "ТЕРАЗИЈЕ: 6-6,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "edc6db56ecb9",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "КРАЉА ПЕТРА: 9-11,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "52090932304a",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Краља Петра 19-21.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

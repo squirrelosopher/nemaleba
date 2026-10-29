@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "74ac1b83535d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Вршац",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "Војводе Книћанин од бр. 59 до 93 и од бр.58 до 94"
-      ],
-      "reason": null,
-      "note": "Војводе Книћанин од бр. 59 до 93 и од бр.58 до 94",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "824011d68486",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Вршац",
-      "time": {
-        "start": "10:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "Војводе Книћанин од Дечанске до Цара Лазара"
-      ],
-      "reason": null,
-      "note": "Војводе Книћанин од Дечанске до Цара Лазара",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a6e54ca39e23",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Вршац",
-      "time": {
-        "start": "12:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Цара Лазара од Банатске до Војводе Книћанин."
-      ],
-      "reason": null,
-      "note": "Цара Лазара од Банатске до Војводе Книћанин.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "6e7a1c6c511d",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +21,7 @@
       ],
       "reason": null,
       "note": "Васка Попе од Иве Милутиновић до Н.Толстоја; Иве Милутиновића од Васка Попе до Д.Туцовића; Хероја Пинкија од В.Караџића до Д.Туцовића; Никите Толстоја од Васка Попе до Д.Туцовића; Енолошка станица; Стамбена зграда у Х.Пинки бр 85.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "6b2a7ec5f975",
@@ -89,7 +38,7 @@
       ],
       "reason": null,
       "note": "Насељено место: Ибиште, Потпорањ.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

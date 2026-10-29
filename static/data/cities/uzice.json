@@ -7,59 +7,6 @@
   },
   "outages": [
     {
-      "id": "abd15726d788",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Потрошачи на подручју трафостанице „Зорина кафана“ у Карану (Николићи",
-        "Крајнићи и Миловановићи)."
-      ],
-      "reason": null,
-      "note": "Потрошачи на подручју трафостанице „Зорина кафана“ у Карану (Николићи,Крајнићи и Миловановићи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "be1ba9057751",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "10:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Забучја",
-        "Прљевића",
-        "Љубања",
-        "Станојевића",
-        "Јованетића",
-        "Калдрме",
-        "Ливнице",
-        "Збојштице",
-        "Обућина",
-        "Дрежника",
-        "Зекавица",
-        "Лијескића",
-        "Шмакића",
-        "Марковића",
-        "Скржути",
-        "Савића",
-        "Вране",
-        "Равни",
-        "Равањско поље и Никојевића."
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Забучја,Прљевића,Љубања,Станојевића, Јованетића, Калдрме, Ливнице, Збојштице, Обућина, Дрежника, Зекавица, Лијескића, Шмакића, Марковића, Скржути, Савића,Вране,Равни,Равањско поље и Никојевића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c3bcbd248ecf",
       "utility": "electricity",
       "kind": "planned",
@@ -75,7 +22,7 @@
       ],
       "reason": null,
       "note": "Потрошачи из Бјелотићи, Борисављевићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "8e6f01888d02",
@@ -93,7 +40,7 @@
       ],
       "reason": null,
       "note": "Потрошачи из Луновог Села , Антонијевићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

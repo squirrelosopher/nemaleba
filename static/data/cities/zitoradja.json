@@ -5,25 +5,7 @@
     "nameLatin": "Žitorađa",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [
-    {
-      "id": "c04a76faf6fc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Житорађа",
-      "time": {
-        "start": "13:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Вољчинац"
-      ],
-      "reason": null,
-      "note": "Вољчинац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-30",

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "1f89719f2c5e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Стара Пазова",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Стара Пазова: П.Нинковић; Банијска; Грмечка; Др.Вранића; Ј.Колара 1-97, 2-96; Б.Барнак од Ј.Колара до краја улице; Ј.Јесенског 1-27, 2-30; С.Томашика; З.Јовина од Б.Радичевића до краја улице; Ј.Краља; Ј.Поповића; Б.Радичевића од Ј.Колара до бр 123/132; Калничјакова; Ж.Зрењанина 1-41, 2-42."
-      ],
-      "reason": null,
-      "note": "Стара Пазова: П.Нинковић; Банијска; Грмечка; Др.Вранића; Ј.Колара 1-97, 2-96; Б.Барнак од Ј.Колара до краја улице; Ј.Јесенског 1-27, 2-30; С.Томашика; З.Јовина од Б.Радичевића до краја улице; Ј.Краља; Ј.Поповића; Б.Радичевића од Ј.Колара до бр 123/132; Калничјакова; Ж.Зрењанина 1-41, 2-42.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b691f8d3c9ea",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Стара Пазова: Насеље Петровић Салаш",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "85e36f494d97",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Стари Бановци: Б.Трнинић викенд зона од гробља до шљункаре.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "601644264e7e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Коцељева",
-      "time": {
-        "start": "08:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ СЕЛА БАТАЛАГЕ И ЗУКВЕ"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ СЕЛА БАТАЛАГЕ И ЗУКВЕ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e976d74fa067",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈЕ СЕЛО БРДАРИЦА И ДРАГИЊЕ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ca7ac295efb2",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОН АОСТАЈУ ПОТРОШАЧИ КОЈИ СЕ НАПАЈАЈУ ИЗ ТС ДРУЖЕТИЋ 10 И ДРУЖЕТИЋ 3",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

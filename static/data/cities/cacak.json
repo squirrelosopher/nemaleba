@@ -7,59 +7,6 @@
   },
   "outages": [
     {
-      "id": "caf48de2ba9a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Потрошачи у Томашевићима-Придворица",
-        "Придворици и Јездини."
-      ],
-      "reason": null,
-      "note": "Потрошачи у Томашевићима-Придворица, Придворици и Јездини.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "268095607000",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Потрошачи у Катрзи."
-      ],
-      "reason": null,
-      "note": "Потрошачи у Катрзи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "dedb6d3d495c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "12:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Потрошачи у Лозници-Драгићевићи",
-        "и на Здрављаку."
-      ],
-      "reason": null,
-      "note": "Потрошачи у Лозници-Драгићевићи, и на Здрављаку.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "cebbb6c9af26",
       "utility": "electricity",
       "kind": "planned",
@@ -74,7 +21,7 @@
       ],
       "reason": null,
       "note": "Потрошачи у Придворици који се напајају са ТС Томашевићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f0045fb5991c",
@@ -92,7 +39,7 @@
       ],
       "reason": null,
       "note": "Потрошачи у Кукићима,ТС Кукићи 1 и 2 и Доњи Ријечани.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "81315d7197d9",
@@ -110,7 +57,7 @@
       ],
       "reason": null,
       "note": "Потрошачи у Јежевици,Рајцу и Бањици.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

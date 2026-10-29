@@ -5,25 +5,7 @@
     "nameLatin": "Bačka Palanka",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [
-    {
-      "id": "2c7dafbe122d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Бачка Паланка",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Товаришево: Пролетерска непарна страна"
-      ],
-      "reason": null,
-      "note": "Товаришево: Пролетерска непарна страна",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-09-30",

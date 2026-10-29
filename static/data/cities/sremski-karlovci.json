@@ -5,30 +5,7 @@
     "nameLatin": "Sremski Karlovci",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [
-    {
-      "id": "b5392469bdbf",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Сремски Карловци",
-      "time": {
-        "start": "10:00",
-        "end": "10:15"
-      },
-      "streets": [
-        "Балканска",
-        "Јована Гроса",
-        "Иве Андрића",
-        "Васе Стајића",
-        "Жарка Зрењанина",
-        "Васе Пелагића."
-      ],
-      "reason": null,
-      "note": "Балканска, Јована Гроса, Иве Андрића, Васе Стајића, Жарка Зрењанина, Васе Пелагића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-19",

@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "33229d1ce7e8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Рашка",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Кравићи.Гњилица",
-        "Луково и Орахово"
-      ],
-      "reason": null,
-      "note": "Кравићи.Гњилица,Луково и Орахово",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "faf3beee7108",
       "utility": "electricity",
       "kind": "planned",
@@ -43,7 +25,7 @@
       ],
       "reason": null,
       "note": "Муре,Јериње,Постење,Врачево,Тресава и Градјановићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ff8a769aab30",
@@ -64,7 +46,7 @@
       ],
       "reason": null,
       "note": "Жижовци,Бојанићи, Лозно,Баре,Покрвеник и Плана",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "38c08173a62d",
@@ -81,7 +63,7 @@
       ],
       "reason": null,
       "note": "Власово и Варево",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

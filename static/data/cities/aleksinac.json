@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "370862451e88",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Горња Пешчаница"
-      ],
-      "reason": null,
-      "note": "Горња Пешчаница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "378480dd040c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део Бобовиште"
-      ],
-      "reason": null,
-      "note": "Део Бобовиште",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e44037535455",
       "utility": "electricity",
       "kind": "planned",
@@ -56,7 +22,7 @@
       ],
       "reason": null,
       "note": "Пруговац, Липовац Црна Бара И Коњска Пољана",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "528fa51eb3e8",
@@ -76,7 +42,7 @@
       ],
       "reason": null,
       "note": "Корман , Доњи Љубеш, Горњи Љубеш, Срезовац и Витковац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "623757aa369a",
@@ -93,7 +59,7 @@
       ],
       "reason": null,
       "note": "Део села Моравца преко пруге",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

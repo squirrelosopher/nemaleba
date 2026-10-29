@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-29T05:10:52.167Z",
+  "generatedAt": "2026-10-29T06:10:53.512Z",
   "summary": {
     "date": "2026-10-29",
-    "electricityOutages": 213,
-    "waterOutages": 2,
+    "electricityOutages": 218,
+    "waterOutages": 11,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 32,
+        "electricityOutages": 33,
         "waterOutages": 0
       },
       {
@@ -16,6 +16,12 @@
         "nameCyrillic": "Суботица",
         "electricityOutages": 18,
         "waterOutages": 0
+      },
+      {
+        "id": "kragujevac",
+        "nameCyrillic": "Крагујевац",
+        "electricityOutages": 3,
+        "waterOutages": 9
       },
       {
         "id": "nis",
@@ -102,8 +108,8 @@
         "waterOutages": 0
       },
       {
-        "id": "kragujevac",
-        "nameCyrillic": "Крагујевац",
+        "id": "kula",
+        "nameCyrillic": "Кула",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -116,6 +122,12 @@
       {
         "id": "petrovac",
         "nameCyrillic": "Петровац",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "plandiste",
+        "nameCyrillic": "Пландиште",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -216,12 +228,6 @@
         "waterOutages": 0
       },
       {
-        "id": "kula",
-        "nameCyrillic": "Кула",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
         "id": "kucevo",
         "nameCyrillic": "Кучево",
         "electricityOutages": 2,
@@ -240,8 +246,8 @@
         "waterOutages": 0
       },
       {
-        "id": "plandiste",
-        "nameCyrillic": "Пландиште",
+        "id": "pozega",
+        "nameCyrillic": "Пожега",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -594,7 +600,7 @@
     {
       "date": "2026-10-29",
       "electricityOutages": 131,
-      "waterOutages": 2
+      "waterOutages": 11
     }
   ],
   "providers": [

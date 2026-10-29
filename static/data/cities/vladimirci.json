@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "8ea63e036ed6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Владимирци",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ СЕЛА МЕСАРЦИ",
-        "СУВО СЕЛО И ДЕО ВЛАСАНИЦЕ"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ СЕЛА МЕСАРЦИ, СУВО СЕЛО И ДЕО ВЛАСАНИЦЕ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "02686e22ccdb",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +21,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈЕ СЕЛО ЗВЕЗД И ПРОВО",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

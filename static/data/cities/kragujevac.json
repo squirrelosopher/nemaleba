@@ -730,27 +730,6 @@
       "note": "Шумарице, ул. Радомира Милашиновића ( од 07:40 до 11:00 часова ), поправка уличне линије."
     },
     {
-      "id": "005f37bb1c40",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-28",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Ресник -према цркви Церовоци и Дубокићу",
-        "Ресник Дубокић и према Бресту",
-        "аутобуској станици Ерићима и Прокићима",
-        "Ресник школа према школи",
-        "продавници цркви и шумицама"
-      ],
-      "reason": null,
-      "note": "Ресник -према цркви Церовоци и Дубокићу, Ресник Дубокић и према Бресту, аутобуској станици Ерићима и Прокићима, Ресник школа према школи, продавници цркви и шумицама",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d93a6d4cc8be",
       "utility": "water",
       "kind": "emergency",
@@ -961,7 +940,41 @@
       ],
       "reason": null,
       "note": "\"Нови Милановацглави пут, викенд насеље, према игралишту и стадиону, Ресник Церјак ка Н. Милановцу, Срековићима и Ерићима, за Ђориће ,\r\n ка хидрофору, ка горњој мали, Горња мала, према собовици филиповићима и ка продавници \"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "f0c2e2489e58",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-29",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-10-2026/",
+      "areaLabel": "Пивара",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Цара Душана"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Пивара, ул. Цара Душана ( од 08:00 до 12:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "6ef0ebc5b183",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-29",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-10-2026/",
+      "areaLabel": "Центар",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Кнеза Милоша"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Центар, ул. Кнеза Милоша ( од 08:00 до 12:00 часова ), поправка уличне линије."
     },
     {
       "id": "f92dee278969",
@@ -982,7 +995,7 @@
       ],
       "reason": null,
       "note": "Јовановац Аксићи-ка гробљу доњи и горњи део, засеок албанија, Јовановац Гај- Ул. Костадина Миљковића, Живојина Мишића, Радивоја Стефановића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e5554763a3bb",
@@ -999,7 +1012,122 @@
       ],
       "reason": null,
       "note": "Зграде у Ул. Браће Пољаковић 2",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "d5433445499e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-29",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-10-2026/",
+      "areaLabel": "Бресница",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "угао Бресничка – Бокељска"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Бресница, угао Бресничка – Бокељска ( од 12:00 до 16:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "e330959d10c3",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-29",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-10-2026/",
+      "areaLabel": "Кошутњак",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Кошутњак бб"
+      ],
+      "reason": "замена хидранта",
+      "note": "Кошутњак, ул. Кошутњак бб ( од 12:00 до 16:00 часова ), замена хидранта."
+    },
+    {
+      "id": "7a5b4e547bfc",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-29",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-10-2026/",
+      "areaLabel": "Мале Пчелице",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Љубомира Јовановића"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Мале Пчелице, ул. Љубомира Јовановића ( од 12:00 до 16:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "9efd66ee8372",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-29",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-10-2026/",
+      "areaLabel": "Зечевића",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [],
+      "reason": "поправка уличне линије",
+      "note": "Мале Пчелице, угао Др.Ђ.Митровића – В.Зечевића ( од 16:00 до 19:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "8ddca4edcb17",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-29",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-10-2026/",
+      "areaLabel": "Илићево",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Вишка"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Илићево, ул. Вишка ( од 16:00 до 19:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "b6e1d8a09d29",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-29",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-10-2026/",
+      "areaLabel": "Николића – Радета Лачића",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [],
+      "reason": "поправка уличне линије",
+      "note": "Ждраљица, угао Ж.Николића – Радета Лачића ( од 16:00 до 19:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "37cd407a3813",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-29",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-29-10-2026/",
+      "areaLabel": "Илићево",
+      "time": {
+        "start": "21:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Чеде Дулејановића"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Хаваријска искључења на дан 29.10.2026. \n \n Илићево, ул. Чеде Дулејановића ( од 21:00 до 12:00 часова ), поправка уличне линије."
     }
   ],
   "history": [
@@ -1151,7 +1279,7 @@
     {
       "date": "2026-10-29",
       "electricityOutages": 3,
-      "waterOutages": 0
+      "waterOutages": 9
     }
   ]
 }
