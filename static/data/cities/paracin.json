@@ -122,23 +122,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "bb2e6e04f5a1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Део села Извор"
-      ],
-      "reason": null,
-      "note": "Део села Извор",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "b76a988c8463",
       "utility": "electricity",
       "kind": "planned",
@@ -153,6 +136,23 @@
       ],
       "reason": null,
       "note": "Део села Трешњевица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "bb2e6e04f5a1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Део села Извор"
+      ],
+      "reason": null,
+      "note": "Део села Извор",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],

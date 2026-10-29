@@ -29,19 +29,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "1011b2940542",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-29",
+      "id": "a301f7e4ce27",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
       "areaLabel": "Лесковац",
       "time": {
-        "start": null,
-        "end": "12:00"
+        "start": "11:00",
+        "end": "13:00"
       },
-      "streets": [],
+      "streets": [
+        "део Тупаловца (Кокерци)"
+      ],
       "reason": null,
-      "note": "- Због радова на редовној замени водомера и вентила код привредног субјекта ДЦП Хемигал у ул. Текстилној у Лесковцу, доћи ће до краткотрајног прекида у водоснабдевању у четвртак, 29.10.2026. године, од 09.00 до завршетка радова, а најкасније до 12.00 часова . Прекид ће обухватити привредне субјекте у ул. Текстилној, северно од објекта Аутостоп Интериорс, и то: Златан траг, Моравка, Бонто Италијано, Млекара Лесковац, хладњачу Југпром, БВГ Комерц и пекару. ЈКП Водовод Лесковац ће ангажовати све ра",
-      "sourceUrl": "https://www.vodovodle.rs/servisne-informacije.php"
+      "note": "део Тупаловца (Кокерци)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -193,7 +195,7 @@
     {
       "date": "2026-10-29",
       "electricityOutages": 1,
-      "waterOutages": 1
+      "waterOutages": 0
     }
   ]
 }

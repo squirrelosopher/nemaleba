@@ -97,6 +97,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "33b1130ca1a9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "део улице Винтерове у Насељу 9. Мај;"
+      ],
+      "reason": null,
+      "note": "део улице Винтерове у Насељу 9. Мај;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "615b696c4fcc",
       "utility": "electricity",
       "kind": "planned",
