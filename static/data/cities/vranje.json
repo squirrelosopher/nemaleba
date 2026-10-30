@@ -29,6 +29,92 @@
       "reason": null,
       "note": "Због оштећења на водоводној мрежи у улицама Радослава Јовића, Јована Хаџивасиљевића без воде биће потрошачи тих улица и околних   до завршетка радова .",
       "sourceUrl": "https://vodovodvranje.rs/29-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "add0b833d5cf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-01",
+      "areaLabel": "Врање",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "СУП",
+        "Општина"
+      ],
+      "reason": null,
+      "note": "СУП, Општина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "864bf746d1ce",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-01",
+      "areaLabel": "Врање",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Дом Културе"
+      ],
+      "reason": null,
+      "note": "Дом Културе",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "e22a21f7bb33",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-01",
+      "areaLabel": "Врање",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "насеље Лепа Брена"
+      ],
+      "reason": null,
+      "note": "насеље Лепа Брена",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "955168850b0b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-01",
+      "areaLabel": "Врање",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Владимира Назора"
+      ],
+      "reason": null,
+      "note": "Владимира Назора",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "c77da99b0d33",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-01",
+      "areaLabel": "Врање",
+      "time": {
+        "start": "14:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Александра Младеновића и околина"
+      ],
+      "reason": null,
+      "note": "Александра Младеновића и околина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

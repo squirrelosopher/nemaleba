@@ -126,23 +126,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "6240fd9b04c7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Насеље РИПАЊ: ЕРЧАНСКА: 76А-88,27А-31А,35,39-45, ПУТ ЗА ИЛИЋЕ: 2-6, ПУТ ЗА КАЛАЈЏИЋЕ: 12-14А, ПУТ ЗА НЕСТРОВИЋЕ: 2-20,24-26,1,5-9,13-31А, ПУТ ЗА ВОДИЦУ: бб,4-8,12-14А,34,1А-13,17,21-39"
-      ],
-      "reason": null,
-      "note": "Насеље РИПАЊ: ЕРЧАНСКА: 76А-88,27А-31А,35,39-45, ПУТ ЗА ИЛИЋЕ: 2-6, ПУТ ЗА КАЛАЈЏИЋЕ: 12-14А, ПУТ ЗА НЕСТРОВИЋЕ: 2-20,24-26,1,5-9,13-31А, ПУТ ЗА ВОДИЦУ: бб,4-8,12-14А,34,1А-13,17,21-39,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "12a870531474",
       "utility": "electricity",
       "kind": "planned",
@@ -211,6 +194,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "e7dcc8bac9a1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "22:30",
+        "end": "02:00"
+      },
+      "streets": [
+        "НЕХРУОВА: 68б"
+      ],
+      "reason": null,
+      "note": "НЕХРУОВА: 68б,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
       "id": "dc2e77950232",
       "utility": "electricity",
       "kind": "planned",
@@ -276,6 +276,23 @@
       ],
       "reason": null,
       "note": "Насеље СУРЧИН: ТРГ ЗОРАНА ЂИНЂИЋА: 99-119А,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "8baa8cea6bf1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-01",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "РАДНИЧКА: 22"
+      ],
+      "reason": null,
+      "note": "РАДНИЧКА: 22,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],

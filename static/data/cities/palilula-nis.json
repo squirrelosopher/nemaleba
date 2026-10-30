@@ -56,6 +56,23 @@
       "reason": null,
       "note": "делови улица Требињске, Космајске, Бубањске долине и Војводе Путника;",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "b288dbc6e64d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-02",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "15:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "део Горичке улице;"
+      ],
+      "reason": null,
+      "note": "део Горичке улице;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

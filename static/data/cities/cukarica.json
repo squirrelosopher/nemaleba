@@ -5,7 +5,25 @@
     "nameLatin": "Čukarica",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "8baa8cea6bf1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-01",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "РАДНИЧКА: 22"
+      ],
+      "reason": null,
+      "note": "РАДНИЧКА: 22,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-01",
