@@ -7,22 +7,6 @@
   },
   "outages": [
     {
-      "id": "c2657837bedf",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-28",
-      "areaLabel": "Панчево",
-      "time": null,
-      "streets": [
-        "маршала Тита",
-        "од Радничке до Димитра Влахова",
-        "у насељеном месту Јабука"
-      ],
-      "reason": null,
-      "note": "Због хаварије на водоводној мрежи, без воде је остала Улица маршала Тита, од Радничке до Димитра Влахова, у насељеном месту Јабука.",
-      "sourceUrl": "https://www.vodovodpa.rs/2026/10/28/28-10-2026/"
-    },
-    {
       "id": "1bce988dafbd",
       "utility": "electricity",
       "kind": "planned",
@@ -72,20 +56,6 @@
       "reason": null,
       "note": "Панчево: Момчила Попадића.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5444ea02dfa5",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-29",
-      "areaLabel": "Панчево",
-      "time": null,
-      "streets": [
-        "Светог Саве од Светозара Милетића до Браће Јовановића"
-      ],
-      "reason": null,
-      "note": "Због хаварије на водоводној мрежи без воде је остала Улица Светог Саве од Светозара Милетића до Браће Јовановића.",
-      "sourceUrl": "https://www.vodovodpa.rs/2026/10/29/29-10-2026/"
     },
     {
       "id": "f4a0132b7de3",

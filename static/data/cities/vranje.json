@@ -5,32 +5,7 @@
     "nameLatin": "Vranje",
     "branchCyrillic": "Врање"
   },
-  "outages": [
-    {
-      "id": "2b5c61a67fc9",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-28",
-      "areaLabel": "Врање",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у Првонечкој улици (Рашка), без воде биће потрошачи те улице и околне   до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/28-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
-      "id": "e198b9adac47",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-29",
-      "areaLabel": "Врање",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у улицама Радослава Јовића, Јована Хаџивасиљевића без воде биће потрошачи тих улица и околних   до завршетка радова .",
-      "sourceUrl": "https://vodovodvranje.rs/29-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-01",
