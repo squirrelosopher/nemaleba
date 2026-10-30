@@ -7,77 +7,6 @@
   },
   "outages": [
     {
-      "id": "5cef684871aa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ ВИКЕНД НАСЕЉА НА САВИ",
-        "ЈУГОКОП И ЦС ШИРОКА БАРА И ДРЕНОВАЦ"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ ВИКЕНД НАСЕЉА НА САВИ, ЈУГОКОП И ЦС ШИРОКА БАРА И ДРЕНОВАЦ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "482b219b7df3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈЕ ПОЧЕТАК УЛ.ДР.АНДРЕ ЈОВАНОВИЋА ПАРНА СТРАНА (2",
-        "2Б",
-        "4 И 6)"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈЕ ПОЧЕТАК УЛ.ДР.АНДРЕ ЈОВАНОВИЋА ПАРНА СТРАНА (2, 2Б,4 И 6)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5b0fcc23d0c8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ УЛ. КРАЉА МИЛУТИНА И КАРАЂОРЂЕВА ОД ТС ПА ДО ШКОЛЕ У МАОВИМА"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ УЛ. КРАЉА МИЛУТИНА И КАРАЂОРЂЕВА ОД ТС ПА ДО ШКОЛЕ У МАОВИМА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "72f8fabfd644",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "11:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ У УЛ.КРАЉА МИЛАНА И РАДНИЧКА У МАОВИМА"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ У УЛ.КРАЉА МИЛАНА И РАДНИЧКА У МАОВИМА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7de4e2799b07",
       "utility": "electricity",
       "kind": "planned",
@@ -93,7 +22,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ ВИКЕНД НАСЕЉА НА САВИ, ЈУГОКОП И ЦС ШИРОКА БАРА И ДРЕНОВАЦ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "805cf629e80a",
@@ -110,7 +39,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈЕ ВИКЕНД НАСЕЉЕ У ДОБРИЋУ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "998e74d7e21a",
@@ -127,7 +56,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ КУПЦИ У СЕЛУ ТАБАНОВИЋУ У Ул. ПЕКЕ ДАПЧЕВИЋ И ОД УЛИЦЕ ПЕПЕ ДАПЧЕВИЋ ЛЕВА И ДЕСНА СТРАНА ТАБАНОВИЋА ПРЕМА М.ПРИЧИНОВИЋУ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3e724c1e0a0e",
@@ -147,7 +76,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ КУПЦИ У УЛ.П.СМИЉАНИЋА 48, 50, 52, 54",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

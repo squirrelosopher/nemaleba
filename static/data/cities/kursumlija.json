@@ -7,86 +7,6 @@
   },
   "outages": [
     {
-      "id": "0b2a102a7e8e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Горња Микуљана."
-      ],
-      "reason": null,
-      "note": "Горња Микуљана.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2832d9bc4dc4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Дегрмен."
-      ],
-      "reason": null,
-      "note": "Дегрмен.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e76597549aad",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "10:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Рударе-Клисура",
-        "Равни Шорт",
-        "Дешишка",
-        "Пећарани",
-        "Орловац",
-        "Косаничка Рача",
-        "Саставци",
-        "Мала Косаница",
-        "Дегрмен",
-        "Мердаре",
-        "Матарова",
-        "Преветица",
-        "Боровац",
-        "Васиљевац",
-        "Кутлово",
-        "Краваре",
-        "Прекорађа",
-        "Мачија Стена",
-        "Купиново",
-        "Зебице",
-        "Ђаке",
-        "Соколов Вис",
-        "Вуча",
-        "Иван Кула",
-        "Добри До",
-        "Трн",
-        "Трпезе",
-        "Свињиште",
-        "Заграђе",
-        "Црвеника и Секирача."
-      ],
-      "reason": null,
-      "note": "Рударе-Клисура,Равни Шорт,Дешишка,Пећарани ,Орловац,Косаничка Рача,Саставци,Мала Косаница,Дегрмен,Мердаре,Матарова,Преветица,Боровац, Васиљевац,Кутлово,Краваре,Прекорађа,Мачија Стена,Купиново,Зебице,Ђаке,Соколов Вис,Вуча,Иван Кула,Добри До ,Трн,Трпезе,Свињиште,Заграђе,Црвеника и Секирача.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "5947d32c07ba",
       "utility": "electricity",
       "kind": "planned",
@@ -101,7 +21,7 @@
       ],
       "reason": null,
       "note": "Пепељевац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "995f3a2096ef",
@@ -118,7 +38,7 @@
       ],
       "reason": null,
       "note": "Дегрмен.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

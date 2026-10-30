@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "185cf63241f2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље Степојевац (засеок Липовица)."
-      ],
-      "reason": null,
-      "note": "Насеље Степојевац (засеок Липовица).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "61329a313c6c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Горњи Милановац: насеље Трудељ (засеок Матићи)."
-      ],
-      "reason": null,
-      "note": "Горњи Милановац: насеље Трудељ (засеок Матићи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "12a870531474",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље Врбовно-Викендаши.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

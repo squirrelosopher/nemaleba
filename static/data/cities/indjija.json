@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "d96b1489c86c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Чортановци: Т.Јовића од бр 1/2 до Железничке."
-      ],
-      "reason": null,
-      "note": "Чортановци: Т.Јовића од бр 1/2 до Железничке.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "596dde916108",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "\"Чортановци: Викенд зона од изласка из Сремских Карловац до села и до Дунава;Око раскрснице Београдског и Чортановачког пут;\r\nМЕК ТРАДЕ; ЦИГЛАНА; НАФТАХЕМ;\r\nНАФТНО СКЛАДИШТЕ; ГУМАПЛАСТ;\r\nЖЕЛЕЗНИЧКА СТАНИЦА КАРЛОВАЧКИ ВИНОГРАДИ; ВИЛА МУПа\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

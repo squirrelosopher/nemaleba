@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "fc8a5c3d3098",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Ариље",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Села: Радошево и Висока."
-      ],
-      "reason": null,
-      "note": "Села: Радошево и Висока.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "584c551c18a4",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Село: Богојевићи, део Латвице од Црепане до Ступачког потока.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

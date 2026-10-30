@@ -5,25 +5,7 @@
     "nameLatin": "Aranđelovac",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [
-    {
-      "id": "2c0e37a45f79",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Аранђеловац",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Село Трешњевица"
-      ],
-      "reason": null,
-      "note": "Село Трешњевица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-01",

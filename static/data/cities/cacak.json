@@ -7,59 +7,6 @@
   },
   "outages": [
     {
-      "id": "cebbb6c9af26",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Потрошачи у Придворици који се напајају са ТС Томашевићи."
-      ],
-      "reason": null,
-      "note": "Потрошачи у Придворици који се напајају са ТС Томашевићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f0045fb5991c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Потрошачи у Кукићима",
-        "ТС Кукићи 1 и 2 и Доњи Ријечани."
-      ],
-      "reason": null,
-      "note": "Потрошачи у Кукићима,ТС Кукићи 1 и 2 и Доњи Ријечани.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "81315d7197d9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Чачак",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Потрошачи у Јежевици",
-        "Рајцу и Бањици."
-      ],
-      "reason": null,
-      "note": "Потрошачи у Јежевици,Рајцу и Бањици.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "56630818ab2e",
       "utility": "electricity",
       "kind": "planned",
@@ -74,7 +21,7 @@
       ],
       "reason": null,
       "note": "Потрошачи у Катрзи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

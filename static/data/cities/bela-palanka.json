@@ -7,45 +7,6 @@
   },
   "outages": [
     {
-      "id": "4ac1e3ebe908",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Бела Паланка",
-      "time": {
-        "start": "08:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Топоница",
-        "Космовац",
-        "Глоговац",
-        "Вета."
-      ],
-      "reason": null,
-      "note": "Топоница,Космовац,Глоговац,Вета.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6a72e730dc48",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Бела Паланка",
-      "time": {
-        "start": "11:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Црнче",
-        "Ланиште",
-        "Раков Дол."
-      ],
-      "reason": null,
-      "note": "Црнче,Ланиште,Раков Дол.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "6f19a146e2c0",
       "utility": "electricity",
       "kind": "planned",
@@ -60,7 +21,7 @@
       ],
       "reason": null,
       "note": "Села: Црнче, Ланиште, Тамјаница, Долац, Градиште и Крупац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

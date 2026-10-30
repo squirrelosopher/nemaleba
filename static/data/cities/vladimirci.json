@@ -5,25 +5,7 @@
     "nameLatin": "Vladimirci",
     "branchCyrillic": "Шабац"
   },
-  "outages": [
-    {
-      "id": "02686e22ccdb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Владимирци",
-      "time": {
-        "start": "09:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈЕ СЕЛО ЗВЕЗД И ПРОВО"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈЕ СЕЛО ЗВЕЗД И ПРОВО",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-01",

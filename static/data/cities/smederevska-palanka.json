@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "cc152d258bd1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Смедеревска Паланка",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Село Стублина и део Азање, односно трафореони: Машићи, Срејићи, Уб, Стублина, Алуга, Иве, Њиве, Безевац, Пекићи, Предевац, Витићи, Бостаниште и Новаковићи"
-      ],
-      "reason": null,
-      "note": "Село Стублина и део Азање, односно трафореони: Машићи, Срејићи, Уб, Стублина, Алуга, Иве, Њиве, Безевац, Пекићи, Предевац, Витићи, Бостаниште и Новаковићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1ae789ca467d",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +22,7 @@
       ],
       "reason": null,
       "note": "Центар села Церовац и део Церовца према Ратарима, затим потрошачи у Ратарима као и у делу Кусадка до „Лопарица“",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

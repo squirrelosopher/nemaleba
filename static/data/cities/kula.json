@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "5997d7497a5c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Кула",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Кула: Липарски пут бб; Исе Секицког 59-115, 34-158, бб; Косовска 5-21, 2-12, бб; Крајишка 11-19, 20-22, П.Кочића 40-68; С.Сремца 100."
-      ],
-      "reason": null,
-      "note": "Кула: Липарски пут бб; Исе Секицког 59-115, 34-158, бб; Косовска 5-21, 2-12, бб; Крајишка 11-19, 20-22, П.Кочића 40-68; С.Сремца 100.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "21167f863ae8",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Козарачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "28e5890d6443",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "\"Ј.КРАМЕРА 15 И 31-51 И 42-64 И ББ\r\n16. ДИВИЗИЈЕ 2-32 И 1-73 И 42-76 И ББ\r\nАДИЈЕВА 22-44 И 23-53\r\nН.ПЕЈЧИЋА 2-52 И 1-57\r\nД.ЂЕРЂА 17-73 И 22-60 И ББ\r\nПИОНИРСКА 38-68 И 43-61\r\nЈ.ИГЊАТОВИЋА 2\r\nП.ШАНДОРА 30\r\nОМЛАДИНСКА 1-19 И 2-18\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

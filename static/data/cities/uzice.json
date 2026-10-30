@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "c3bcbd248ecf",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Потрошачи из Бјелотићи",
-        "Борисављевићи"
-      ],
-      "reason": null,
-      "note": "Потрошачи из Бјелотићи, Борисављевићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8fff009a203a",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +21,7 @@
       ],
       "reason": null,
       "note": "Потрошачи из Дрежника: Лијескићи, Северово и потрошачи преко Рзава.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "8e6f01888d02",
@@ -57,7 +39,7 @@
       ],
       "reason": null,
       "note": "Потрошачи из Луновог Села , Антонијевићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

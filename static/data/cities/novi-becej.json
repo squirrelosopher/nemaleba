@@ -5,7 +5,25 @@
     "nameLatin": "Novi Bečej",
     "branchCyrillic": "Зрењанин"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "2a8c6d7dd7d1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-02",
+      "areaLabel": "Нови Бечеј",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Ново Милошево: Партизанска улица, део Попов Аркадије (од Ђуре Јакшића до пута за Бочар)"
+      ],
+      "reason": null,
+      "note": "Ново Милошево: Партизанска улица, део Попов Аркадије (од Ђуре Јакшића до пута за Бочар)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-01",

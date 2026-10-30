@@ -5,25 +5,7 @@
     "nameLatin": "Bujanovac",
     "branchCyrillic": "Врање"
   },
-  "outages": [
-    {
-      "id": "bce7b8737aa9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Бујановац",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Манастир Прохор Пчињски и околина"
-      ],
-      "reason": null,
-      "note": "Манастир Прохор Пчињски и околина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-01",

@@ -5,25 +5,7 @@
     "nameLatin": "Bela Crkva",
     "branchCyrillic": "Панчево"
   },
-  "outages": [
-    {
-      "id": "9e2da3ef2ad1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Бела Црква",
-      "time": {
-        "start": "08:00",
-        "end": "09:30"
-      },
-      "streets": [
-        "Црвена Црква: Насељено место"
-      ],
-      "reason": null,
-      "note": "Црвена Црква: Насељено место",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-01",

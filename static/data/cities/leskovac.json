@@ -7,28 +7,6 @@
   },
   "outages": [
     {
-      "id": "501a1931ec9c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Лесковац",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Авалска од бр. 19 до бр. 29А",
-        "Космајска бр. 12 и 14",
-        "Лепше Стаменковић од бр. 87А до бр. 93А (непарна страна)",
-        "Милутина Бојића од бр. 30 до бр. 41",
-        "Мостарска од бр. 13А до бр. 24",
-        "Станоја Главаша бр. 189 и Суботичка"
-      ],
-      "reason": null,
-      "note": "Авалска од бр. 19 до бр. 29А, Космајска бр. 12 и 14, Лепше Стаменковић од бр. 87А до бр. 93А (непарна страна), Милутина Бојића од бр. 30 до бр. 41, Мостарска од бр. 13А до бр. 24 , Станоја Главаша бр. 189 и Суботичка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a301f7e4ce27",
       "utility": "electricity",
       "kind": "planned",
@@ -43,7 +21,7 @@
       ],
       "reason": null,
       "note": "део Тупаловца (Кокерци)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

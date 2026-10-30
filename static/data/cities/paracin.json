@@ -7,121 +7,6 @@
   },
   "outages": [
     {
-      "id": "28984ea205b6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Ивана Горана Ковачића",
-        "део Боре Станковића",
-        "део Војводе Путника",
-        "део Теслине"
-      ],
-      "reason": null,
-      "note": "Ивана Горана Ковачића,део Боре Станковића,део Војводе Путника,део Теслине",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2c8a1c4ae02f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Део насеља Карађоршево брдо",
-        "Карађорђев венац и део Теслине улице"
-      ],
-      "reason": null,
-      "note": "Део насеља Карађоршево брдо, Карађорђев венац и део Теслине улице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "df1cb72edd67",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Ивана Горана Ковачића",
-        "део Боре Станковића",
-        "део Војводе Путника",
-        "део Теслине"
-      ],
-      "reason": null,
-      "note": "Ивана Горана Ковачића,део Боре Станковића,део Војводе Путника,део Теслине",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "4eba33217fdb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део села Доње Видово"
-      ],
-      "reason": null,
-      "note": "Део села Доње Видово",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "38c1608f3b16",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Браће Југовић",
-        "Дубровачка",
-        "Орловића Павла",
-        "део Војводе Мишића и Јелисавее Петровић."
-      ],
-      "reason": null,
-      "note": "Браће Југовић,Дубровачка,Орловића Павла, део Војводе Мишића и Јелисавее Петровић.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d9d4583a4ca7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "12:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Филипа Филиповића",
-        "део Милоја Јоцића",
-        "Нишка",
-        "део Карађорђевеу насељу Текија и део Иве Андрића у насељу Текија"
-      ],
-      "reason": null,
-      "note": "Филипа Филиповића,део Милоја Јоцића, Нишка, део Карађорђевеу насељу Текија и део Иве Андрића у насељу Текија",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b76a988c8463",
       "utility": "electricity",
       "kind": "planned",
@@ -136,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део села Трешњевица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "bb2e6e04f5a1",
@@ -153,7 +38,7 @@
       ],
       "reason": null,
       "note": "Део села Извор",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,25 +5,7 @@
     "nameLatin": "Mali Iđoš",
     "branchCyrillic": "Суботица"
   },
-  "outages": [
-    {
-      "id": "6fd0acb865e8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Мали Иђош",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "М. Иђош: део Херцег Јаноша, део Лехелове, Војвођанска."
-      ],
-      "reason": null,
-      "note": "М. Иђош: део Херцег Јаноша, део Лехелове, Војвођанска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-01",

@@ -7,55 +7,34 @@
   },
   "outages": [
     {
-      "id": "1bce988dafbd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
+      "id": "c2657837bedf",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-10-28",
       "areaLabel": "Панчево",
-      "time": {
-        "start": "08:30",
-        "end": "13:30"
-      },
+      "time": null,
       "streets": [
-        "Долово: Саве Ковачевића, Пастирска од С.Ковачевића до С.Маринковића, С.Маринковића 37-43."
+        "маршала Тита",
+        "од Радничке до Димитра Влахова",
+        "у насељеном месту Јабука"
       ],
       "reason": null,
-      "note": "Долово: Саве Ковачевића, Пастирска од С.Ковачевића до С.Маринковића, С.Маринковића 37-43.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "Због хаварије на водоводној мрежи, без воде је остала Улица маршала Тита, од Радничке до Димитра Влахова, у насељеном месту Јабука.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/10/28/28-10-2026/"
     },
     {
-      "id": "c9bc89b2a688",
-      "utility": "electricity",
-      "kind": "planned",
+      "id": "5444ea02dfa5",
+      "utility": "water",
+      "kind": "emergency",
       "date": "2026-10-29",
       "areaLabel": "Панчево",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
+      "time": null,
       "streets": [
-        "Панчево: Смарт Блок у Боре Станковића."
+        "Светог Саве од Светозара Милетића до Браће Јовановића"
       ],
       "reason": null,
-      "note": "Панчево: Смарт Блок у Боре Станковића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "25bbae4c18bf",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "09:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "Панчево: Момчила Попадића."
-      ],
-      "reason": null,
-      "note": "Панчево: Момчила Попадића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "Због хаварије на водоводној мрежи без воде је остала Улица Светог Саве од Светозара Милетића до Браће Јовановића.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/10/29/29-10-2026/"
     },
     {
       "id": "f4a0132b7de3",
@@ -72,7 +51,7 @@
       ],
       "reason": null,
       "note": "Долово: делови улица Народне армије, Братства јединства и 1.мај.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9439523d3df0",
@@ -89,7 +68,7 @@
       ],
       "reason": null,
       "note": "Панчево: С.Милетића (од Карађорђеве до Б.Радичевића - парна страна), Б.Радичевића (од С.Милетића до браће Јовановића).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

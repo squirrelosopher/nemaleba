@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "536797d56d17",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-29",
-      "areaLabel": "Рума",
-      "time": {
-        "start": "08:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Рума : ул.ТРГ ОСЛОБОЂЕЊА и ул.ЈНА до ул.Гробљанска"
-      ],
-      "reason": null,
-      "note": "Рума : ул.ТРГ ОСЛОБОЂЕЊА и ул.ЈНА до ул.Гробљанска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "212faf41c6a6",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Рума : насеље Церје, кланица живине \"Радић\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "893fd3c38fad",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Рума: И.Л. Рибара од Врдничке ка Кудошкој.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
