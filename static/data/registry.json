@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T08:11:03.299Z",
+  "generatedAt": "2026-10-30T09:11:00.589Z",
   "summary": {
     "date": "2026-10-30",
     "electricityOutages": 124,
-    "waterOutages": 15,
+    "waterOutages": 17,
     "affected": [
       {
         "id": "beograd",
@@ -33,7 +33,7 @@
         "id": "novi-sad",
         "nameCyrillic": "Нови Сад",
         "electricityOutages": 4,
-        "waterOutages": 0
+        "waterOutages": 1
       },
       {
         "id": "sabac",
@@ -58,6 +58,12 @@
         "nameCyrillic": "Рековац",
         "electricityOutages": 3,
         "waterOutages": 0
+      },
+      {
+        "id": "ruma",
+        "nameCyrillic": "Рума",
+        "electricityOutages": 2,
+        "waterOutages": 1
       },
       {
         "id": "babusnica",
@@ -146,12 +152,6 @@
       {
         "id": "pozarevac",
         "nameCyrillic": "Пожаревац",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "ruma",
-        "nameCyrillic": "Рума",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -546,7 +546,7 @@
     {
       "date": "2026-10-30",
       "electricityOutages": 105,
-      "waterOutages": 15
+      "waterOutages": 17
     }
   ],
   "providers": [

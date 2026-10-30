@@ -24,6 +24,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "b7e006694003",
+      "utility": "water",
+      "kind": "planned",
+      "date": "2026-10-30",
+      "areaLabel": "Рума",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Главна (јужна страна улице) од градске пијаце до Ул. Гробљанска"
+      ],
+      "reason": null,
+      "note": "Дана 30.10.2026. године у периоду од 8.00 до 12.00 часова, ради интервенције на водоводној мрежи, за време трајања радова, без водоснабдевања ће остати потрошачи: у делу Ул. Главна (јужна страна улице) од градске пијаце до Ул. Гробљанска.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-86/"
+    },
+    {
       "id": "893fd3c38fad",
       "utility": "electricity",
       "kind": "planned",
@@ -190,7 +207,7 @@
     {
       "date": "2026-10-30",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
