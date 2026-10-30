@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T12:10:50.984Z",
+  "generatedAt": "2026-10-30T14:10:53.627Z",
   "summary": {
     "date": "2026-10-30",
     "electricityOutages": 124,
-    "waterOutages": 18,
+    "waterOutages": 22,
     "affected": [
       {
         "id": "beograd",
@@ -15,7 +15,7 @@
         "id": "nis",
         "nameCyrillic": "Ниш",
         "electricityOutages": 4,
-        "waterOutages": 6
+        "waterOutages": 9
       },
       {
         "id": "subotica",
@@ -46,6 +46,12 @@
         "nameCyrillic": "Горњи Милановац",
         "electricityOutages": 3,
         "waterOutages": 0
+      },
+      {
+        "id": "pancevo",
+        "nameCyrillic": "Панчево",
+        "electricityOutages": 2,
+        "waterOutages": 1
       },
       {
         "id": "pozega",
@@ -102,6 +108,12 @@
         "waterOutages": 0
       },
       {
+        "id": "jagodina",
+        "nameCyrillic": "Јагодина",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
         "id": "kraljevo",
         "nameCyrillic": "Краљево",
         "electricityOutages": 2,
@@ -128,12 +140,6 @@
       {
         "id": "osecina",
         "nameCyrillic": "Осечина",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "pancevo",
-        "nameCyrillic": "Панчево",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -182,12 +188,6 @@
       {
         "id": "aleksandrovac",
         "nameCyrillic": "Александровац",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "alibunar",
-        "nameCyrillic": "Алибунар",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -254,12 +254,6 @@
       {
         "id": "indjija",
         "nameCyrillic": "Инђија",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "jagodina",
-        "nameCyrillic": "Јагодина",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -546,7 +540,7 @@
     {
       "date": "2026-10-30",
       "electricityOutages": 105,
-      "waterOutages": 18
+      "waterOutages": 20
     }
   ],
   "providers": [
