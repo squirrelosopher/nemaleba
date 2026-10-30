@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T09:56:58.777Z",
+  "generatedAt": "2026-10-30T10:10:56.666Z",
   "summary": {
     "date": "2026-10-30",
     "electricityOutages": 124,
-    "waterOutages": 17,
+    "waterOutages": 18,
     "affected": [
       {
         "id": "beograd",
@@ -76,6 +76,12 @@
         "nameCyrillic": "Бачка Топола",
         "electricityOutages": 2,
         "waterOutages": 0
+      },
+      {
+        "id": "valjevo",
+        "nameCyrillic": "Ваљево",
+        "electricityOutages": 1,
+        "waterOutages": 1
       },
       {
         "id": "vrsac",
@@ -224,12 +230,6 @@
       {
         "id": "brus",
         "nameCyrillic": "Брус",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "valjevo",
-        "nameCyrillic": "Ваљево",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -546,7 +546,7 @@
     {
       "date": "2026-10-30",
       "electricityOutages": 105,
-      "waterOutages": 17
+      "waterOutages": 18
     }
   ],
   "providers": [
