@@ -1,27 +1,21 @@
 {
-  "generatedAt": "2026-10-31T20:10:32.780Z",
+  "generatedAt": "2026-10-31T23:17:57.096Z",
   "summary": {
-    "date": "2026-10-31",
-    "electricityOutages": 46,
-    "waterOutages": 2,
+    "date": "2026-11-01",
+    "electricityOutages": 35,
+    "waterOutages": 1,
     "affected": [
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 4,
-        "waterOutages": 2
-      },
-      {
-        "id": "beograd",
-        "nameCyrillic": "Београд",
-        "electricityOutages": 5,
-        "waterOutages": 0
-      },
       {
         "id": "vranje",
         "nameCyrillic": "Врање",
         "electricityOutages": 5,
         "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 4,
+        "waterOutages": 1
       },
       {
         "id": "kursumlija",
@@ -30,14 +24,8 @@
         "waterOutages": 0
       },
       {
-        "id": "golubac",
-        "nameCyrillic": "Голубац",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "gornji-milanovac",
-        "nameCyrillic": "Горњи Милановац",
+        "id": "beograd",
+        "nameCyrillic": "Београд",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -62,6 +50,18 @@
       {
         "id": "arilje",
         "nameCyrillic": "Ариље",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "golubac",
+        "nameCyrillic": "Голубац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "gornji-milanovac",
+        "nameCyrillic": "Горњи Милановац",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -102,38 +102,14 @@
         "waterOutages": 0
       },
       {
-        "id": "negotin",
-        "nameCyrillic": "Неготин",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "novi-becej",
         "nameCyrillic": "Нови Бечеј",
         "electricityOutages": 1,
         "waterOutages": 0
       },
       {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "petrovac",
-        "nameCyrillic": "Петровац",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "plandiste",
         "nameCyrillic": "Пландиште",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "rekovac",
-        "nameCyrillic": "Рековац",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -150,18 +126,6 @@
         "waterOutages": 0
       },
       {
-        "id": "subotica",
-        "nameCyrillic": "Суботица",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "tutin",
-        "nameCyrillic": "Тутин",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "cuprija",
         "nameCyrillic": "Ћуприја",
         "electricityOutages": 1,
@@ -170,11 +134,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-10-02",
-      "electricityOutages": 74,
-      "waterOutages": 26
-    },
     {
       "date": "2026-10-03",
       "electricityOutages": 9,
@@ -318,6 +277,11 @@
     {
       "date": "2026-10-31",
       "electricityOutages": 11,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-11-01",
+      "electricityOutages": 15,
       "waterOutages": 1
     }
   ],
