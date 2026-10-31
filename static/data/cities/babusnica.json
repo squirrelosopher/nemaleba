@@ -5,42 +5,7 @@
     "nameLatin": "Babušnica",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "7da3161a708d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Село Бердуј"
-      ],
-      "reason": null,
-      "note": "Село Бердуј",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "75dc3fe2b394",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "09:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Село Радосин"
-      ],
-      "reason": null,
-      "note": "Село Радосин",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-02",

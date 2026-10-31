@@ -5,25 +5,7 @@
     "nameLatin": "Lazarevac",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "12a870531474",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Насеље Врбовно-Викендаши."
-      ],
-      "reason": null,
-      "note": "Насеље Врбовно-Викендаши.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-02",

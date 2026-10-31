@@ -5,42 +5,7 @@
     "nameLatin": "Vršac",
     "branchCyrillic": "Панчево"
   },
-  "outages": [
-    {
-      "id": "6b2a7ec5f975",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Вршац",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Насељено место: Ибиште, Потпорањ."
-      ],
-      "reason": null,
-      "note": "Насељено место: Ибиште, Потпорањ.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6e7a1c6c511d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Вршац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Васка Попе од Иве Милутиновић до Н.Толстоја; Иве Милутиновића од Васка Попе до Д.Туцовића; Хероја Пинкија од В.Караџића до Д.Туцовића; Никите Толстоја од Васка Попе до Д.Туцовића; Енолошка станица; Стамбена зграда у Х.Пинки бр 85."
-      ],
-      "reason": null,
-      "note": "Васка Попе од Иве Милутиновић до Н.Толстоја; Иве Милутиновића од Васка Попе до Д.Туцовића; Хероја Пинкија од В.Караџића до Д.Туцовића; Никите Толстоја од Васка Попе до Д.Туцовића; Енолошка станица; Стамбена зграда у Х.Пинки бр 85.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-02",

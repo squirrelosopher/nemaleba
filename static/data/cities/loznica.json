@@ -5,7 +5,25 @@
     "nameLatin": "Loznica",
     "branchCyrillic": "Лозница"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "5b8cafb70493",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-03",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "13:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Део улице Проте Игњата Васића и део улуце Веселина Мисите"
+      ],
+      "reason": null,
+      "note": "Део улице Проте Игњата Васића и део улуце Веселина Мисите",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-02",

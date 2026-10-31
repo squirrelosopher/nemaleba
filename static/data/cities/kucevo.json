@@ -5,25 +5,7 @@
     "nameLatin": "Kučevo",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [
-    {
-      "id": "8f98b0695a81",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Кучево",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "улица Слободана Милошевића у Шевичкој Нересници (део према Гергињу)"
-      ],
-      "reason": null,
-      "note": "улица Слободана Милошевића у Шевичкој Нересници (део према Гергињу)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-02",

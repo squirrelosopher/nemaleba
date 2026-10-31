@@ -7,21 +7,42 @@
   },
   "outages": [
     {
-      "id": "38c08173a62d",
+      "id": "1d3316f10cf7",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-30",
+      "date": "2026-11-03",
+      "areaLabel": "Рашка",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Ушће",
+        "Полумир",
+        "Пусто Поље",
+        "Гокчаница и Тадење"
+      ],
+      "reason": null,
+      "note": "Ушће,Полумир,Пусто Поље,Гокчаница и Тадење",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "52eceb41d1a5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-03",
       "areaLabel": "Рашка",
       "time": {
         "start": "09:00",
         "end": "11:00"
       },
       "streets": [
-        "Власово и Варево"
+        "Цео конзум Ушћа",
+        "сви потрошачи који се напајају из ТС35/10 Ушће"
       ],
       "reason": null,
-      "note": "Власово и Варево",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "Цео конзум Ушћа,сви потрошачи који се напајају из ТС35/10 Ушће",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

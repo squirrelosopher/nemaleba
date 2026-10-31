@@ -5,25 +5,7 @@
     "nameLatin": "Malo Crniće",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [
-    {
-      "id": "966dbabf3268",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Мало Црниће",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "део Божевца око улица Нушићева и Димитрије Туцовића"
-      ],
-      "reason": null,
-      "note": "део Божевца око улица Нушићева и Димитрије Туцовића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-02",

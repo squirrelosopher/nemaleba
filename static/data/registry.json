@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-31T06:10:37.273Z",
+  "generatedAt": "2026-10-31T07:10:29.040Z",
   "summary": {
     "date": "2026-10-31",
-    "electricityOutages": 38,
+    "electricityOutages": 46,
     "waterOutages": 2,
     "affected": [
       {
@@ -30,8 +30,32 @@
         "waterOutages": 0
       },
       {
+        "id": "golubac",
+        "nameCyrillic": "Голубац",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "gornji-milanovac",
+        "nameCyrillic": "Горњи Милановац",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
         "id": "pozega",
         "nameCyrillic": "Пожега",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "raska",
+        "nameCyrillic": "Рашка",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "sabac",
+        "nameCyrillic": "Шабац",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -42,20 +66,14 @@
         "waterOutages": 0
       },
       {
-        "id": "golubac",
-        "nameCyrillic": "Голубац",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "gornji-milanovac",
-        "nameCyrillic": "Горњи Милановац",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "zrenjanin",
         "nameCyrillic": "Зрењанин",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "ivanjica",
+        "nameCyrillic": "Ивањица",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -74,6 +92,12 @@
       {
         "id": "leskovac",
         "nameCyrillic": "Лесковац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "loznica",
+        "nameCyrillic": "Лозница",
         "electricityOutages": 1,
         "waterOutages": 0
       },

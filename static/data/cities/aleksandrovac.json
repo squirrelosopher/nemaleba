@@ -5,25 +5,7 @@
     "nameLatin": "Aleksandrovac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [
-    {
-      "id": "9ccfdb4e1812",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Александровац",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Део насељеног места Горња Врбница и Латковац."
-      ],
-      "reason": null,
-      "note": "Део насељеног места Горња Врбница и Латковац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-02",

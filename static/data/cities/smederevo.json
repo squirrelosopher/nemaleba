@@ -5,25 +5,7 @@
     "nameLatin": "Smederevo",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [
-    {
-      "id": "1b8b87629009",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Улаз у Врбовац"
-      ],
-      "reason": null,
-      "note": "Улаз у Врбовац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-02",

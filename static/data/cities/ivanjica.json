@@ -5,7 +5,26 @@
     "nameLatin": "Ivanjica",
     "branchCyrillic": "Чачак"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "cbfcdd81f218",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-03",
+      "areaLabel": "Ивањица",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Бела црква",
+        "Миланџа и МЗ Кушићи"
+      ],
+      "reason": null,
+      "note": "Бела црква, Миланџа и МЗ Кушићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-02",

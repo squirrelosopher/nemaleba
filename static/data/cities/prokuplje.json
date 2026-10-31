@@ -5,25 +5,7 @@
     "nameLatin": "Prokuplje",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [
-    {
-      "id": "9708d021856d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Горња Растовница"
-      ],
-      "reason": null,
-      "note": "Горња Растовница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-02",

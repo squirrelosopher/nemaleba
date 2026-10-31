@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "26348e43d214",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Петровац",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Трафо област ''Петровац Хотел'': Српских владара од Бате Булића до Милана Ристића, Инвест-Еxпорт, Бате Булића, Милана Ристића, Радета Московлића, ТЦ ''Под липом'', Вељка Дугошевића"
-      ],
-      "reason": null,
-      "note": "Трафо област ''Петровац Хотел'': Српских владара од Бате Булића до Милана Ристића, Инвест-Еxпорт, Бате Булића, Милана Ристића, Радета Московлића, ТЦ ''Под липом'', Вељка Дугошевића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "96e1f8cb3fea",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "засеоци у Мелници: Дражилоње, Гршљана и Црвени Брег, Витовница, Мелница, Кладурово, Кладурово Велика Претржа, Брезовица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

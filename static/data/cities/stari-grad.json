@@ -5,42 +5,7 @@
     "nameLatin": "Stari grad",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "edc6db56ecb9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Стари град",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "КРАЉА ПЕТРА: 9-11"
-      ],
-      "reason": null,
-      "note": "КРАЉА ПЕТРА: 9-11,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "52090932304a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Стари град",
-      "time": {
-        "start": "10:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Краља Петра 19-21."
-      ],
-      "reason": null,
-      "note": "Краља Петра 19-21.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-02",

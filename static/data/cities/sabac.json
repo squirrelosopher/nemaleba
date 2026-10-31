@@ -7,62 +7,27 @@
   },
   "outages": [
     {
-      "id": "7de4e2799b07",
+      "id": "4d5f01228f8c",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-30",
+      "date": "2026-11-03",
       "areaLabel": "Шабац",
       "time": {
-        "start": "08:00",
+        "start": "09:00",
         "end": "17:00"
       },
       "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ ВИКЕНД НАСЕЉА НА САВИ",
-        "ЈУГОКОП И ЦС ШИРОКА БАРА И ДРЕНОВАЦ"
+        "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ ДРУГОГ ДЕЛА ВИКЕНД НАСЕЉА НА САВИ И ЦС ШИРОКА БАРА И ДРЕНОВАЦ"
       ],
       "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ ВИКЕНД НАСЕЉА НА САВИ, ЈУГОКОП И ЦС ШИРОКА БАРА И ДРЕНОВАЦ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ ДРУГОГ ДЕЛА ВИКЕНД НАСЕЉА НА САВИ И ЦС ШИРОКА БАРА И ДРЕНОВАЦ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     },
     {
-      "id": "805cf629e80a",
+      "id": "fe8109036cd6",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈЕ ВИКЕНД НАСЕЉЕ У ДОБРИЋУ"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈЕ ВИКЕНД НАСЕЉЕ У ДОБРИЋУ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "998e74d7e21a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ КУПЦИ У СЕЛУ ТАБАНОВИЋУ У Ул. ПЕКЕ ДАПЧЕВИЋ И ОД УЛИЦЕ ПЕПЕ ДАПЧЕВИЋ ЛЕВА И ДЕСНА СТРАНА ТАБАНОВИЋА ПРЕМА М.ПРИЧИНОВИЋУ"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ КУПЦИ У СЕЛУ ТАБАНОВИЋУ У Ул. ПЕКЕ ДАПЧЕВИЋ И ОД УЛИЦЕ ПЕПЕ ДАПЧЕВИЋ ЛЕВА И ДЕСНА СТРАНА ТАБАНОВИЋА ПРЕМА М.ПРИЧИНОВИЋУ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "3e724c1e0a0e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
+      "date": "2026-11-03",
       "areaLabel": "Шабац",
       "time": {
         "start": "09:00",
@@ -76,7 +41,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ КУПЦИ У УЛ.П.СМИЉАНИЋА 48, 50, 52, 54",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

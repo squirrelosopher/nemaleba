@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "45aed21f64d0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "08:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "ЕМИЛИЈЕ ЈАКШИЋ: 26-32,19-55, ЛАЗАРА МАМУЗИЋА: 18-26В,30-32,36,11-33, МИХАИЛА ВУКШЕ: 2-18,1-33, МИЛЕНКА ВЕРКИЋА: 2-34,1-17, ПЕТРА ЈОВОВИЋА: 27-33, СВЕТОЗАРА ПАПИЋА: 1-3Д, ВЕРЕ ДИМИТРИЈЕВИЋ: 10-32"
-      ],
-      "reason": null,
-      "note": "ЕМИЛИЈЕ ЈАКШИЋ: 26-32,19-55, ЛАЗАРА МАМУЗИЋА: 18-26В,30-32,36,11-33, МИХАИЛА ВУКШЕ: 2-18,1-33, МИЛЕНКА ВЕРКИЋА: 2-34,1-17, ПЕТРА ЈОВОВИЋА: 27-33, СВЕТОЗАРА ПАПИЋА: 1-3Д, ВЕРЕ ДИМИТРИЈЕВИЋ: 10-32,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "dc2e77950232",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "АТАНАСИЈА ПУЉЕ : 6-10,14,20-40,1-29,33-57, ЂОРЂА ЧУТУКОВИЋА : 24А-60,11-11в,15-49А, ХЕРЦЕГОВАЧКА: 38-38Б,46А-78, КРАЈИШКА: 4-12,16-16,1-29А, ШЕВИНА : 50-62А,39-53, ЖЕЛЕЗНИЧКА: 59-85А,89,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

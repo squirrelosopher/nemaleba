@@ -5,25 +5,7 @@
     "nameLatin": "Ražanj",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [
-    {
-      "id": "1f09b4407bf2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Ражањ",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Део насељеног места Скорица ."
-      ],
-      "reason": null,
-      "note": "Део насељеног места Скорица .",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-02",

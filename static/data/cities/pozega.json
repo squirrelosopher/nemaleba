@@ -7,26 +7,6 @@
   },
   "outages": [
     {
-      "id": "51e9d0298870",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Пожега",
-      "time": {
-        "start": "10:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Улица Карађорђева бр. 1",
-        "3",
-        "5",
-        "5/1 и лева страна до раскрснице са улицом Цара Лазара и део насеља трећи реон који се напаја са ТС Ратко Митровић"
-      ],
-      "reason": null,
-      "note": "Улица Карађорђева бр. 1,3,5,5/1 и лева страна до раскрснице са улицом Цара Лазара и део насеља трећи реон који се напаја са ТС Ратко Митровић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "aa51593c5001",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеља: Гугаљ, Јелен До, Папратиште, Тучково, Табановићи, Лорет, Доња Добриња- Лађевци, Павловићи, Дидићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "12c4eef83146",
@@ -58,7 +38,7 @@
       ],
       "reason": null,
       "note": "Улице: Књаза Милоша (од центра до петље Јовићевићи), Војводе Мишића( од старе аутобуске до семафора код Будимке), потршачи око поште и зелене пијаце, Марјановића Брдо, Јовићевићи, Пријановићи, Пилатовићи- Чолићи, Гугаљ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

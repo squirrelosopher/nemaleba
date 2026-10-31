@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "212faf41c6a6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Рума",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Рума : насеље Церје, кланица живине \"Радић\""
-      ],
-      "reason": null,
-      "note": "Рума : насеље Церје, кланица живине \"Радић\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b7e006694003",
       "utility": "water",
       "kind": "planned",
@@ -39,23 +22,6 @@
       "reason": null,
       "note": "Дана 30.10.2026. године у периоду од 8.00 до 12.00 часова, ради интервенције на водоводној мрежи, за време трајања радова, без водоснабдевања ће остати потрошачи: у делу Ул. Главна (јужна страна улице) од градске пијаце до Ул. Гробљанска.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-86/"
-    },
-    {
-      "id": "893fd3c38fad",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-30",
-      "areaLabel": "Рума",
-      "time": {
-        "start": "08:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "Рума: И.Л. Рибара од Врдничке ка Кудошкој."
-      ],
-      "reason": null,
-      "note": "Рума: И.Л. Рибара од Врдничке ка Кудошкој.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
