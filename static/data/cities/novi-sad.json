@@ -7,35 +7,6 @@
   },
   "outages": [
     {
-      "id": "716d1e2e9fef",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-23",
-      "areaLabel": "Нови Сад",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због хаварије на водоводној мрежи, без воде је Улица 7. војвођанске бригаде и околне улице у Сремској Каменици.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-23-10-2026/"
-    },
-    {
-      "id": "6821df10824d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-23",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "13:00"
-      },
-      "streets": [
-        "Улица Миколе Кочиша и Горње ливаде"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Улица Миколе Кочиша и Горње ливаде.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-23-10-2026/"
-    },
-    {
       "id": "a91bd029ff88",
       "utility": "water",
       "kind": "emergency",
@@ -208,11 +179,6 @@
   ],
   "history": [
     {
-      "date": "2026-10-01",
-      "electricityOutages": 1,
-      "waterOutages": 1
-    },
-    {
       "date": "2026-10-02",
       "electricityOutages": 1,
       "waterOutages": 2
@@ -356,6 +322,11 @@
       "date": "2026-10-30",
       "electricityOutages": 3,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-10-31",
+      "electricityOutages": 1,
+      "waterOutages": 0
     }
   ]
 }
