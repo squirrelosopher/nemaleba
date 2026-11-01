@@ -5,25 +5,7 @@
     "nameLatin": "Subotica",
     "branchCyrillic": "Суботица"
   },
-  "outages": [
-    {
-      "id": "514250e2093e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-10-31",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "13:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "цела насеља: Ором,Габрић,Александрови салаши,Долине."
-      ],
-      "reason": null,
-      "note": "цела насеља: Ором,Габрић,Александрови салаши,Долине.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-03",
