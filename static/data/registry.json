@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-01T16:11:01.892Z",
+  "generatedAt": "2026-11-01T16:45:16.998Z",
   "summary": {
     "date": "2026-11-01",
     "electricityOutages": 35,
-    "waterOutages": 1,
+    "waterOutages": 0,
     "affected": [
       {
         "id": "vranje",
@@ -12,14 +12,14 @@
         "waterOutages": 0
       },
       {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 4,
-        "waterOutages": 1
-      },
-      {
         "id": "kursumlija",
         "nameCyrillic": "Куршумлија",
+        "electricityOutages": 4,
+        "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
         "electricityOutages": 4,
         "waterOutages": 0
       },
@@ -282,7 +282,7 @@
     {
       "date": "2026-11-01",
       "electricityOutages": 15,
-      "waterOutages": 1
+      "waterOutages": 0
     }
   ],
   "providers": [
