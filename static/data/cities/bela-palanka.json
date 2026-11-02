@@ -5,7 +5,43 @@
     "nameLatin": "Bela Palanka",
     "branchCyrillic": "Пирот"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "4cf2086390cf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-03",
+      "areaLabel": "Бела Паланка",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Села: Црнче, Ланиште,Р. Дол"
+      ],
+      "reason": null,
+      "note": "Села: Црнче, Ланиште,Р. Дол",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "61a779ed4790",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-03",
+      "areaLabel": "Бела Паланка",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Насеље Долац",
+        "Тамјаница"
+      ],
+      "reason": null,
+      "note": "Насеље Долац,Тамјаница",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-04",

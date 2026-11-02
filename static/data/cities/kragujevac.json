@@ -1000,6 +1000,65 @@
       "streets": [],
       "reason": "поправка хидранта",
       "note": "Багребар, угао Д. Тодоровић – М. Јовановић ( од 16:00 до 19:00 часова ), поправка хидранта."
+    },
+    {
+      "id": "086abf278d28",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-03",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Нови Милановац - Дом",
+        "Брадићи",
+        "Петровац - Викенд насеље",
+        "Цветојевац - Јовановићи"
+      ],
+      "reason": null,
+      "note": "Нови Милановац - Дом, Брадићи, Петровац - Викенд насеље, Цветојевац - Јовановићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f24431077a7c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-04",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Ресник - Горња мала",
+        "Церјак",
+        "Нови Милановац - Павићевићи"
+      ],
+      "reason": null,
+      "note": "Ресник - Горња мала, Церјак, Нови Милановац - Павићевићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "5d1d69fc2b64",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Нови Милановац - Дом",
+        "Брадићи",
+        "Петровац - Викенд насеље",
+        "Цветојевац - Јовановићи"
+      ],
+      "reason": null,
+      "note": "Нови Милановац - Дом, Брадићи, Петровац - Викенд насеље, Цветојевац - Јовановићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

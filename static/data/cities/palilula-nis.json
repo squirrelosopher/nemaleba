@@ -37,6 +37,41 @@
       "reason": null,
       "note": "део Горичке улице;",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "04939553992c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-03",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "делови Дравске (1-28)",
+        "Војводе Путника (парни бр. 8-14);"
+      ],
+      "reason": null,
+      "note": "делови Дравске (1-28), Војводе Путника (парни бр. 8-14);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e15c86e81329",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-04",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "делови Мрамора;"
+      ],
+      "reason": null,
+      "note": "делови Мрамора;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,7 +5,26 @@
     "nameLatin": "Negotin",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "b3b2b4aac384",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-03",
+      "areaLabel": "Неготин",
+      "time": {
+        "start": "07:00",
+        "end": "08:00"
+      },
+      "streets": [
+        "Неготин Трг Ђорђа Станојевића",
+        "локали преко пута ЕДН."
+      ],
+      "reason": null,
+      "note": "Неготин Трг Ђорђа Станојевића, локали преко пута ЕДН.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-04",

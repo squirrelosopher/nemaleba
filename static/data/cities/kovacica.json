@@ -5,7 +5,25 @@
     "nameLatin": "Kovačica",
     "branchCyrillic": "Панчево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "4d33065cc1a1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-04",
+      "areaLabel": "Ковачица",
+      "time": {
+        "start": "09:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Ковачица: Јана Јаноша од Слатковићеве до Михајла Пупина"
+      ],
+      "reason": null,
+      "note": "Ковачица: Јана Јаноша од Слатковићеве до Михајла Пупина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-04",

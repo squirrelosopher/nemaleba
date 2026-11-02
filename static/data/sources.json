@@ -1,6 +1,6 @@
 {
   "eps-distribucija": {
-    "entries": 28,
+    "entries": 91,
     "lastNonEmpty": "2026-11-02",
     "lastComplete": "2026-11-02"
   },
@@ -45,7 +45,7 @@
     "lastComplete": "2026-11-02"
   },
   "jkp-vodovod-bor": {
-    "entries": 6,
+    "entries": 5,
     "lastNonEmpty": "2026-11-02",
     "lastComplete": "2026-11-02"
   },
@@ -85,11 +85,8 @@
     "lastComplete": "2026-11-02"
   },
   "jkp-vodovod-cacak": {
-    "entries": 0,
+    "entries": 1,
     "lastNonEmpty": "2026-11-02",
-    "unreadable": [
-      "fetch failed for https://vodovodca.rs/wp-json/wp/v2/posts?categories=3&per_page=12&_fields=link,date,title,content"
-    ],
     "lastComplete": "2026-11-02"
   }
 }

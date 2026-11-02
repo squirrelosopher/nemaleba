@@ -5,7 +5,25 @@
     "nameLatin": "Titel",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "4add1c19092b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-03",
+      "areaLabel": "Тител",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Тител: Банатска, Вашариште, део Добровољачка, део Ендре Бајчи Жилинског, Железничка, Јожефа Тима, Ласла Гала, Лукијана Мушицког, Миклоша Раднотија, Стојана Бошковића"
+      ],
+      "reason": null,
+      "note": "Тител: Банатска, Вашариште, део Добровољачка, део Ендре Бајчи Жилинског, Железничка, Јожефа Тима, Ласла Гала, Лукијана Мушицког, Миклоша Раднотија, Стојана Бошковића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-04",

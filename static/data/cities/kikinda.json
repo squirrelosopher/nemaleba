@@ -5,7 +5,59 @@
     "nameLatin": "Kikinda",
     "branchCyrillic": "Зрењанин"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "a41ff2f76a1d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-03",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "11:30"
+      },
+      "streets": [
+        "Кикинда: Карађорђева од Пере Сегединца до Стевана Сремца парна страна."
+      ],
+      "reason": null,
+      "note": "Кикинда: Карађорђева од Пере Сегединца до Стевана Сремца парна страна.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "9ca257833718",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-03",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "12:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Кикинда: Немањина од кућног броја 82 до Призренске, Призренска од Немањине до Војводе Мишића, Војводе Мишића од Призренске до Жарка Зрењанина."
+      ],
+      "reason": null,
+      "note": "Кикинда: Немањина од кућног броја 82 до Призренске, Призренска од Немањине до Војводе Мишића, Војводе Мишића од Призренске до Жарка Зрењанина.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "236d5a010cd5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-04",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Кикинда: ул.Ивана Милутиновића од ул.Пере Сегединца до ул.Цара Душана; ул.Пере Сегединца од ул.Ивана Милутиновића до ул.Браће Арсенов; ул.Милана Петровића; ул.Браће Арсенов од ул.Браће Богарошки до ул.Пере Сегединца"
+      ],
+      "reason": null,
+      "note": "Кикинда: ул.Ивана Милутиновића од ул.Пере Сегединца до ул.Цара Душана; ул.Пере Сегединца од ул.Ивана Милутиновића до ул.Браће Арсенов; ул.Милана Петровића; ул.Браће Арсенов од ул.Браће Богарошки до ул.Пере Сегединца",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-04",

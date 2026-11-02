@@ -71,6 +71,47 @@
       "reason": null,
       "note": "Накучани, Шилопај, Крива Река, Давидовица, Церова, Мутањ",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "cd065bd0a5df",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Горњи Милановац",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "село Гојна Гора"
+      ],
+      "reason": null,
+      "note": "село Гојна Гора",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "214ec0b02d93",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Горњи Милановац",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "села .Накучани",
+        "Шилопај",
+        "Крива Река",
+        "Давидовица",
+        "Церова",
+        "Мутањ",
+        "Калиманићи",
+        "Љутовница"
+      ],
+      "reason": null,
+      "note": "села .Накучани, Шилопај, Крива Река, Давидовица, Церова, Мутањ ,Калиманићи ,Љутовница,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
