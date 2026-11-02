@@ -5,42 +5,7 @@
     "nameLatin": "Beograd",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "be53e11c0da7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-01",
-      "areaLabel": "Сурчин",
-      "time": {
-        "start": "07:00",
-        "end": "18:00"
-      },
-      "streets": [
-        "Насеље СУРЧИН: ТРГ ЗОРАНА ЂИНЂИЋА: 99-119А"
-      ],
-      "reason": null,
-      "note": "Насеље СУРЧИН: ТРГ ЗОРАНА ЂИНЂИЋА: 99-119А,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8baa8cea6bf1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-01",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "РАДНИЧКА: 22"
-      ],
-      "reason": null,
-      "note": "РАДНИЧКА: 22,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-04",
