@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-11-02T06:10:56.899Z",
+  "generatedAt": "2026-11-02T07:10:56.893Z",
   "summary": {
     "date": "2026-11-02",
     "electricityOutages": 20,
-    "waterOutages": 0,
+    "waterOutages": 8,
     "affected": [
+      {
+        "id": "kragujevac",
+        "nameCyrillic": "Крагујевац",
+        "electricityOutages": 0,
+        "waterOutages": 8
+      },
       {
         "id": "kursumlija",
         "nameCyrillic": "Куршумлија",
@@ -228,7 +234,7 @@
     {
       "date": "2026-11-02",
       "electricityOutages": 12,
-      "waterOutages": 0
+      "waterOutages": 8
     }
   ],
   "providers": [
