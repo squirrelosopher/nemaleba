@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-02T10:57:49.067Z",
+  "generatedAt": "2026-11-02T12:10:59.071Z",
   "summary": {
     "date": "2026-11-02",
     "electricityOutages": 28,
-    "waterOutages": 17,
+    "waterOutages": 18,
     "affected": [
       {
         "id": "nis",
@@ -36,6 +36,12 @@
         "waterOutages": 0
       },
       {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 0,
+        "waterOutages": 3
+      },
+      {
         "id": "raska",
         "nameCyrillic": "Рашка",
         "electricityOutages": 3,
@@ -46,12 +52,6 @@
         "nameCyrillic": "Ивањица",
         "electricityOutages": 2,
         "waterOutages": 0
-      },
-      {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 0,
-        "waterOutages": 2
       },
       {
         "id": "bor",

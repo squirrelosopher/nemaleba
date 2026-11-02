@@ -15,7 +15,7 @@
     "lastComplete": "2026-11-02"
   },
   "jkp-vik-novi-sad": {
-    "entries": 35,
+    "entries": 36,
     "lastNonEmpty": "2026-11-02",
     "lastComplete": "2026-11-02"
   },
@@ -85,8 +85,11 @@
     "lastComplete": "2026-11-02"
   },
   "jkp-vodovod-cacak": {
-    "entries": 1,
+    "entries": 0,
     "lastNonEmpty": "2026-11-02",
+    "unreadable": [
+      "fetch failed for https://vodovodca.rs/wp-json/wp/v2/posts?categories=3&per_page=12&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-11-02"
   }
 }
