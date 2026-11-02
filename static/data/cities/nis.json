@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "2f8575870dd1",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-10-25",
-      "areaLabel": "Ратко Јовић",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Александра Стојановића код броја 49а"
-      ],
-      "reason": null,
-      "note": "ПЛАНИРАНИ РАДОВИ У НАСЕЉУ РАТКО ЈОВИЋ недељу 25. октобра планира се ископ у улици Александра Стојановића код броја 49а. Због поправке водоводне мреже биће у прекиду водоснабдевањe од 8 до 15 часова у поменутој улици, али је могућ прекид и у околним улицама.",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%bf%d0%bb%d0%b0%d0%bd%d0%b8%d1%80%d0%b0%d0%bd%d0%b8-%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%98%d0%b5%d1%9b%d0%b8-%d0%b2%d0%b8%d0%ba%d0%b5-73/"
-    },
-    {
       "id": "2f5bd7feac1d",
       "utility": "water",
       "kind": "emergency",
@@ -719,11 +702,6 @@
   ],
   "history": [
     {
-      "date": "2026-10-03",
-      "electricityOutages": 0,
-      "waterOutages": 2
-    },
-    {
       "date": "2026-10-04",
       "electricityOutages": 0,
       "waterOutages": 1
@@ -867,6 +845,11 @@
       "date": "2026-11-01",
       "electricityOutages": 0,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-11-02",
+      "electricityOutages": 4,
+      "waterOutages": 0
     }
   ]
 }

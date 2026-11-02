@@ -1,22 +1,10 @@
 {
-  "generatedAt": "2026-11-01T21:57:10.837Z",
+  "generatedAt": "2026-11-02T03:10:59.407Z",
   "summary": {
-    "date": "2026-11-01",
-    "electricityOutages": 35,
-    "waterOutages": 1,
+    "date": "2026-11-02",
+    "electricityOutages": 20,
+    "waterOutages": 0,
     "affected": [
-      {
-        "id": "vranje",
-        "nameCyrillic": "Врање",
-        "electricityOutages": 5,
-        "waterOutages": 0
-      },
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 4,
-        "waterOutages": 1
-      },
       {
         "id": "kursumlija",
         "nameCyrillic": "Куршумлија",
@@ -24,15 +12,9 @@
         "waterOutages": 0
       },
       {
-        "id": "beograd",
-        "nameCyrillic": "Београд",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "pozega",
-        "nameCyrillic": "Пожега",
-        "electricityOutages": 2,
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 4,
         "waterOutages": 0
       },
       {
@@ -45,12 +27,6 @@
         "id": "sabac",
         "nameCyrillic": "Шабац",
         "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "arilje",
-        "nameCyrillic": "Ариље",
-        "electricityOutages": 1,
         "waterOutages": 0
       },
       {
@@ -78,18 +54,6 @@
         "waterOutages": 0
       },
       {
-        "id": "jagodina",
-        "nameCyrillic": "Јагодина",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "kula",
-        "nameCyrillic": "Кула",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "leskovac",
         "nameCyrillic": "Лесковац",
         "electricityOutages": 1,
@@ -108,37 +72,14 @@
         "waterOutages": 0
       },
       {
-        "id": "plandiste",
-        "nameCyrillic": "Пландиште",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "smederevska-palanka",
-        "nameCyrillic": "Смедеревска Паланка",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "sremska-mitrovica",
         "nameCyrillic": "Сремска Митровица",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "cuprija",
-        "nameCyrillic": "Ћуприја",
         "electricityOutages": 1,
         "waterOutages": 0
       }
     ]
   },
   "history": [
-    {
-      "date": "2026-10-03",
-      "electricityOutages": 9,
-      "waterOutages": 2
-    },
     {
       "date": "2026-10-04",
       "electricityOutages": 7,
@@ -283,6 +224,11 @@
       "date": "2026-11-01",
       "electricityOutages": 15,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-11-02",
+      "electricityOutages": 12,
+      "waterOutages": 0
     }
   ],
   "providers": [
