@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-02T14:11:01.922Z",
+  "generatedAt": "2026-11-02T16:13:42.180Z",
   "summary": {
     "date": "2026-11-02",
-    "electricityOutages": 91,
+    "electricityOutages": 93,
     "waterOutages": 18,
     "affected": [
       {
@@ -92,6 +92,12 @@
       {
         "id": "bela-palanka",
         "nameCyrillic": "Бела Паланка",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "beograd",
+        "nameCyrillic": "Београд",
         "electricityOutages": 2,
         "waterOutages": 0
       },

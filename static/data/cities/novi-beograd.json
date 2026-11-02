@@ -5,7 +5,25 @@
     "nameLatin": "Novi Beograd",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "e5826c341840",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "02:00",
+        "end": "06:00"
+      },
+      "streets": [
+        "МИЛУТИНА МИЛАНКОВИЋА: бб"
+      ],
+      "reason": null,
+      "note": "МИЛУТИНА МИЛАНКОВИЋА: бб,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-04",
