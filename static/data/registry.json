@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T08:11:02.947Z",
+  "generatedAt": "2026-11-03T09:11:02.921Z",
   "summary": {
     "date": "2026-11-03",
     "electricityOutages": 85,
-    "waterOutages": 23,
+    "waterOutages": 24,
     "affected": [
       {
         "id": "nis",
@@ -210,6 +210,12 @@
         "waterOutages": 0
       },
       {
+        "id": "ruma",
+        "nameCyrillic": "Рума",
+        "electricityOutages": 0,
+        "waterOutages": 1
+      },
+      {
         "id": "titel",
         "nameCyrillic": "Тител",
         "electricityOutages": 1,
@@ -366,7 +372,7 @@
     {
       "date": "2026-11-03",
       "electricityOutages": 27,
-      "waterOutages": 21
+      "waterOutages": 22
     }
   ],
   "providers": [
