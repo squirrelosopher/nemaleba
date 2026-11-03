@@ -49,6 +49,23 @@
       "reason": null,
       "note": "Због радова на водоводној мрежи без воде је у 12 и 45 часова остала Улица Уроша Предића од Димитрија Туцовића до Карађорђеве улице.",
       "sourceUrl": "https://www.vodovodpa.rs/2026/10/30/30-10-2026/"
+    },
+    {
+      "id": "22a013f85cbf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "Панчево: Део Јоакима Вујића од Стевана Сремца ка Марина Држића."
+      ],
+      "reason": null,
+      "note": "Панчево: Део Јоакима Вујића од Стевана Сремца ка Марина Држића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

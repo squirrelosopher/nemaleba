@@ -5,7 +5,42 @@
     "nameLatin": "Jagodina",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "97cce2b56aad",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-04",
+      "areaLabel": "Јагодина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део села Дубока"
+      ],
+      "reason": null,
+      "note": "Део села Дубока",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "ec6f34eb9068",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Јагодина",
+      "time": {
+        "start": "02:00",
+        "end": "03:00"
+      },
+      "streets": [
+        "Део улице Милана Мијалковића"
+      ],
+      "reason": null,
+      "note": "Део улице Милана Мијалковића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-05",

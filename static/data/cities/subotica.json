@@ -5,7 +5,42 @@
     "nameLatin": "Subotica",
     "branchCyrillic": "Суботица"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "dea63e329fcb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Суботица",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Суботица: Озренска и Козарачка у околини Озренске."
+      ],
+      "reason": null,
+      "note": "Суботица: Озренска и Козарачка у околини Озренске.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "915df64abf52",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Суботица",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Суботица: Јаноша Арања, Стубичка са околином.."
+      ],
+      "reason": null,
+      "note": "Суботица: Јаноша Арања, Стубичка са околином..",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-05",

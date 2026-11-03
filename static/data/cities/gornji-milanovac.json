@@ -51,6 +51,28 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "1a8b52d8fdc7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Горњи Милановац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "села од Љутовице према Шилопају (Накучани",
+        "Шилопај",
+        "Крива река",
+        "Давидовица",
+        "Церова",
+        "Мутањ)"
+      ],
+      "reason": null,
+      "note": "села од Љутовице према Шилопају (Накучани,Шилопај,Крива река,Давидовица,Церова,Мутањ)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
       "id": "cd065bd0a5df",
       "utility": "electricity",
       "kind": "planned",
@@ -90,6 +112,28 @@
       "reason": null,
       "note": "села .Накучани, Шилопај, Крива Река, Давидовица, Церова, Мутањ ,Калиманићи ,Љутовница,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "fc6171621f29",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Горњи Милановац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "села од Љутовице према Шилопају (Накучани",
+        "Шилопај",
+        "Крива река",
+        "Давидовица",
+        "Церова",
+        "Мутањ)"
+      ],
+      "reason": null,
+      "note": "села од Љутовице према Шилопају (Накучани,Шилопај,Крива река,Давидовица,Церова,Мутањ)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

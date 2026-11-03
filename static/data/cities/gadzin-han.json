@@ -5,7 +5,43 @@
     "nameLatin": "Gadžin Han",
     "branchCyrillic": "Ниш"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "e230a7342a9d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Гаџин Хан",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "део Чагровца Јагличја",
+        "Копривнице и Мосора;"
+      ],
+      "reason": null,
+      "note": "део Чагровца Јагличја, Копривнице и Мосора;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "97c12be70053",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Гаџин Хан",
+      "time": {
+        "start": "12:00",
+        "end": "14:30"
+      },
+      "streets": [
+        "део Заплањског Миљковца и Краставче;"
+      ],
+      "reason": null,
+      "note": "део Заплањског Миљковца и Краставче;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-05",
