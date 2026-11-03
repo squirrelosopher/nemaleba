@@ -7,21 +7,6 @@
   },
   "outages": [
     {
-      "id": "d0a0296f3c2e",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-27",
-      "areaLabel": "Mужља",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "MУЖЉА – санација квара на водоводној мрежи, прекид водоснабдевања у овом насељу до 15 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-27-10-2026-godine/"
-    },
-    {
       "id": "0fe889c14292",
       "utility": "water",
       "kind": "emergency",
@@ -89,11 +74,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-10-05",
-      "electricityOutages": 1,
-      "waterOutages": 3
-    },
     {
       "date": "2026-10-06",
       "electricityOutages": 1,
@@ -236,6 +216,11 @@
     },
     {
       "date": "2026-11-03",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-04",
       "electricityOutages": 1,
       "waterOutages": 0
     }
