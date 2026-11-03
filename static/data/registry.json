@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T06:11:02.576Z",
+  "generatedAt": "2026-11-03T07:11:04.406Z",
   "summary": {
     "date": "2026-11-03",
     "electricityOutages": 87,
-    "waterOutages": 12,
+    "waterOutages": 9,
     "affected": [
       {
         "id": "kragujevac",
@@ -82,12 +82,6 @@
         "nameCyrillic": "Кладово",
         "electricityOutages": 3,
         "waterOutages": 0
-      },
-      {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 0,
-        "waterOutages": 3
       },
       {
         "id": "pozarevac",
@@ -360,7 +354,7 @@
     {
       "date": "2026-11-03",
       "electricityOutages": 28,
-      "waterOutages": 12
+      "waterOutages": 9
     }
   ],
   "providers": [
