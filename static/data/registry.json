@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T10:47:39.381Z",
+  "generatedAt": "2026-11-03T12:11:04.337Z",
   "summary": {
     "date": "2026-11-03",
     "electricityOutages": 85,
-    "waterOutages": 24,
+    "waterOutages": 23,
     "affected": [
       {
         "id": "nis",
@@ -24,16 +24,16 @@
         "waterOutages": 0
       },
       {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 0,
-        "waterOutages": 6
-      },
-      {
         "id": "smederevo",
         "nameCyrillic": "Смедерево",
         "electricityOutages": 6,
         "waterOutages": 0
+      },
+      {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 0,
+        "waterOutages": 5
       },
       {
         "id": "sombor",
@@ -372,7 +372,7 @@
     {
       "date": "2026-11-03",
       "electricityOutages": 27,
-      "waterOutages": 22
+      "waterOutages": 21
     }
   ],
   "providers": [
