@@ -66,6 +66,18 @@
       "reason": null,
       "note": "Купци дела села Г.Брезовице (према дому)",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "b22666f6936c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-03",
+      "areaLabel": "Ваљево",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због квара на водоводној мрежи на Царићу, без водоснабдевања су потрошачи који се снабдевају са пумпне станице Сува чесма – Златарић, део Горње и Доње Буковице, Дивљег брда, Котешице и Горње Грабовице, до 19х.",
+      "sourceUrl": "https://vodovodva.co.rs/03112026-2/"
     }
   ],
   "history": [
@@ -217,7 +229,7 @@
     {
       "date": "2026-11-03",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
