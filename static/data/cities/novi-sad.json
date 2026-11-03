@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "a91bd029ff88",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-26",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "12:00"
-      },
-      "streets": [
-        "Улица Омладинског покрета, док ће до 11 сати без воде бити Балзакова улица"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 12 сати бити Улица Омладинског покрета, док ће до 11 сати без воде бити Балзакова улица.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-26-10-2026/"
-    },
-    {
       "id": "0ac7ab1a0cdb",
       "utility": "water",
       "kind": "emergency",
@@ -161,11 +144,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-10-04",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-05",
       "electricityOutages": 1,
@@ -310,6 +288,11 @@
       "date": "2026-11-02",
       "electricityOutages": 0,
       "waterOutages": 0
+    },
+    {
+      "date": "2026-11-03",
+      "electricityOutages": 0,
+      "waterOutages": 3
     }
   ]
 }

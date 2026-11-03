@@ -1,44 +1,38 @@
 {
-  "generatedAt": "2026-11-02T20:15:30.880Z",
+  "generatedAt": "2026-11-03T03:10:58.924Z",
   "summary": {
-    "date": "2026-11-02",
-    "electricityOutages": 93,
-    "waterOutages": 18,
+    "date": "2026-11-03",
+    "electricityOutages": 77,
+    "waterOutages": 3,
     "affected": [
       {
         "id": "nis",
         "nameCyrillic": "Ниш",
-        "electricityOutages": 12,
-        "waterOutages": 6
-      },
-      {
-        "id": "kragujevac",
-        "nameCyrillic": "Крагујевац",
-        "electricityOutages": 3,
-        "waterOutages": 8
+        "electricityOutages": 8,
+        "waterOutages": 0
       },
       {
         "id": "kursumlija",
         "nameCyrillic": "Куршумлија",
-        "electricityOutages": 10,
-        "waterOutages": 0
-      },
-      {
-        "id": "sabac",
-        "nameCyrillic": "Шабац",
         "electricityOutages": 6,
-        "waterOutages": 0
-      },
-      {
-        "id": "gornji-milanovac",
-        "nameCyrillic": "Горњи Милановац",
-        "electricityOutages": 5,
         "waterOutages": 0
       },
       {
         "id": "smederevo",
         "nameCyrillic": "Смедерево",
         "electricityOutages": 5,
+        "waterOutages": 0
+      },
+      {
+        "id": "sabac",
+        "nameCyrillic": "Шабац",
+        "electricityOutages": 5,
+        "waterOutages": 0
+      },
+      {
+        "id": "gornji-milanovac",
+        "nameCyrillic": "Горњи Милановац",
+        "electricityOutages": 4,
         "waterOutages": 0
       },
       {
@@ -54,12 +48,6 @@
         "waterOutages": 0
       },
       {
-        "id": "zrenjanin",
-        "nameCyrillic": "Зрењанин",
-        "electricityOutages": 3,
-        "waterOutages": 0
-      },
-      {
         "id": "kikinda",
         "nameCyrillic": "Кикинда",
         "electricityOutages": 3,
@@ -68,6 +56,12 @@
       {
         "id": "kladovo",
         "nameCyrillic": "Кладово",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "kragujevac",
+        "nameCyrillic": "Крагујевац",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -108,14 +102,8 @@
         "waterOutages": 0
       },
       {
-        "id": "ivanjica",
-        "nameCyrillic": "Ивањица",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "kraljevo",
-        "nameCyrillic": "Краљево",
+        "id": "zrenjanin",
+        "nameCyrillic": "Зрењанин",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -150,12 +138,6 @@
         "waterOutages": 0
       },
       {
-        "id": "bor",
-        "nameCyrillic": "Бор",
-        "electricityOutages": 0,
-        "waterOutages": 1
-      },
-      {
         "id": "vladimirci",
         "nameCyrillic": "Владимирци",
         "electricityOutages": 1,
@@ -174,8 +156,20 @@
         "waterOutages": 0
       },
       {
+        "id": "ivanjica",
+        "nameCyrillic": "Ивањица",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
         "id": "kovacica",
         "nameCyrillic": "Ковачица",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "kraljevo",
+        "nameCyrillic": "Краљево",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -192,12 +186,6 @@
         "waterOutages": 0
       },
       {
-        "id": "leskovac",
-        "nameCyrillic": "Лесковац",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "mali-zvornik",
         "nameCyrillic": "Мали Зворник",
         "electricityOutages": 1,
@@ -210,20 +198,8 @@
         "waterOutages": 0
       },
       {
-        "id": "novi-becej",
-        "nameCyrillic": "Нови Бечеј",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "opovo",
         "nameCyrillic": "Опово",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "sremska-mitrovica",
-        "nameCyrillic": "Сремска Митровица",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -236,11 +212,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-10-04",
-      "electricityOutages": 7,
-      "waterOutages": 2
-    },
     {
       "date": "2026-10-05",
       "electricityOutages": 46,
@@ -385,6 +356,11 @@
       "date": "2026-11-02",
       "electricityOutages": 16,
       "waterOutages": 15
+    },
+    {
+      "date": "2026-11-03",
+      "electricityOutages": 28,
+      "waterOutages": 3
     }
   ],
   "providers": [
