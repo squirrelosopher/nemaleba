@@ -7,75 +7,6 @@
   },
   "outages": [
     {
-      "id": "7ec7659c3a37",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-02",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Пепељевац."
-      ],
-      "reason": null,
-      "note": "Пепељевац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6de251143e79",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-02",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Вршевац."
-      ],
-      "reason": null,
-      "note": "Вршевац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e9239b34f30d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-02",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "део Горње Врежине;"
-      ],
-      "reason": null,
-      "note": "део Горње Врежине;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5a9b54cbef4f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-02",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Доктора Мелгарда",
-        "Иве Андрића и Цара Лазара."
-      ],
-      "reason": null,
-      "note": "Доктора Мелгарда,Иве Андрића и Цара Лазара.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "9e61dbd58505",
       "utility": "electricity",
       "kind": "planned",
@@ -90,7 +21,7 @@
       ],
       "reason": null,
       "note": "Коњува (Прескоча).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3cca30d1c63e",
@@ -107,7 +38,7 @@
       ],
       "reason": null,
       "note": "Вршевац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "c9c35519a3ad",
@@ -124,7 +55,7 @@
       ],
       "reason": null,
       "note": "Коњува (Прескоча).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "878930816a4f",
@@ -141,7 +72,7 @@
       ],
       "reason": null,
       "note": "Вршевац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "1bcaaa9f1da3",
@@ -158,7 +89,7 @@
       ],
       "reason": null,
       "note": "Коњува (Прескоча).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "41a9853e366b",
@@ -175,7 +106,7 @@
       ],
       "reason": null,
       "note": "Добри До (Мићовићи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

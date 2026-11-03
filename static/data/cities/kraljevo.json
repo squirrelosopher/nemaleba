@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "b3897d5fee00",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-02",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "21:28",
-        "end": "00:00"
-      },
-      "streets": [
-        "У Адранима Темпо."
-      ],
-      "reason": null,
-      "note": "У Адранима Темпо.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8273f5dea226",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "У Врби Врбска главица и део испод ње.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

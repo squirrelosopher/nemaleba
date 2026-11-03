@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Сомбор: Х.СВЕТИЋА, ПРИЈЕДОРСКА, ЗРМАЊСКА, БАЛКАНСКА, Р.КОРАЋА, Б.БУХЕ, САРАЈЕВСКА, Ђ.САЛАЈА, ДУНАВСКА, ПИНКИЈЕВА 25-67А и 22-70, Н.ТЕСЛЕ 27-77 и 18А-54, С.МАЦУРЕ, СОЛУНСКИХ БОРАЦА 3-11 и 2-24 + ББ, МОНОШТОРСКА 35-45 и 32-34, С.МАТАВУЉА 1-9",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5c32b1551d68",
@@ -38,7 +38,58 @@
       ],
       "reason": null,
       "note": "Сомбор: СОЛУНСКИХ БОРАЦА 3-11 И 4-24, ПИНКИЈЕВА 25-35 И 22-30, С.МАЦУРЕ, МОНОШТОРСКА 35-45А И 32+ББ, С.МАТАВУЉА 1-9 И Н.ТЕСЛЕ 27-51А И 18А-38",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "b46ee52cab1c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "08:30",
+        "end": "09:30"
+      },
+      "streets": [
+        "Стапар: ДЕО З.ЈОВИНА, ДЕО КРАЉА ПЕТРА 1."
+      ],
+      "reason": null,
+      "note": "Стапар: ДЕО З.ЈОВИНА, ДЕО КРАЉА ПЕТРА 1.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "bbd7658d005b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "10:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Сомбор: Т.РОКСАНДИЋА 31-65 И 18-42, БАНИЈСКА 31-41 И 32-46"
+      ],
+      "reason": null,
+      "note": "Сомбор: Т.РОКСАНДИЋА 31-65 И 18-42, БАНИЈСКА 31-41 И 32-46",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "3c7529e5dd5a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "12:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сомбор: 6.ЛИЧКЕ 21-33 И 14-30"
+      ],
+      "reason": null,
+      "note": "Сомбор: 6.ЛИЧКЕ 21-33 И 14-30",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

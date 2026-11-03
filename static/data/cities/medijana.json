@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "c4673148cca4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-02",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "делови улица Хиландарске",
-        "Станка Власотинчанина и Срђана Алексића;"
-      ],
-      "reason": null,
-      "note": "делови улица Хиландарске, Станка Власотинчанина и Срђана Алексића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "0065bfa72110",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-02",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "делови улица Патриса Лумумбе (непарни бр. 45-53) и Византијског булевара (парни бр. 76-82);"
-      ],
-      "reason": null,
-      "note": "делови улица Патриса Лумумбе (непарни бр. 45-53) и Византијског булевара (парни бр. 76-82);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "3c28a8358f14",
       "utility": "electricity",
       "kind": "planned",
@@ -56,7 +21,7 @@
       ],
       "reason": null,
       "note": "Обреновићева (27);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a4d76c950176",
@@ -78,7 +43,7 @@
       ],
       "reason": null,
       "note": "Делиградска (1-10), Епископска (5,10), Хиландарска (17), Станка Власотинчана (2-22а), Трг 14. октобра (6);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2232fdf4df3f",
@@ -102,7 +67,7 @@
       ],
       "reason": null,
       "note": "делови Хајдук Вељкове, Учитељ Милине, Бранислава Нушића (8,33б), Јосифа Панчића (26,30), Мије Петровића (10), Проте Матеје Ненадовића (1-6);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "32aa3e9c8cab",
@@ -119,7 +84,7 @@
       ],
       "reason": null,
       "note": "делови Жарка Ђурића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,7 +5,25 @@
     "nameLatin": "Obrenovac",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "5c5bf931663b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Обреновац",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Насеље ОБРЕНОВАЦ: КРАЉА МИЛУТИНА: ББ,7, МАРКА МИЛОВАНОВИЋА: 5-7В"
+      ],
+      "reason": null,
+      "note": "Насеље ОБРЕНОВАЦ: КРАЉА МИЛУТИНА: ББ,7, МАРКА МИЛОВАНОВИЋА: 5-7В,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-05",
