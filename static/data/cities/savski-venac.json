@@ -5,7 +5,59 @@
     "nameLatin": "Savski venac",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "133aa232f8f2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-03",
+      "areaLabel": "Савски венац",
+      "time": {
+        "start": "23:30",
+        "end": "06:00"
+      },
+      "streets": [
+        "БУЛЕВАР ВУДРОА ВИЛСОНА: 12"
+      ],
+      "reason": null,
+      "note": "БУЛЕВАР ВУДРОА ВИЛСОНА: 12,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "769dcb1c0a83",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-04",
+      "areaLabel": "Савски венац",
+      "time": {
+        "start": "23:00",
+        "end": "06:00"
+      },
+      "streets": [
+        "БУЛЕВАР ВУДРОА ВИЛСОНА: 12"
+      ],
+      "reason": null,
+      "note": "БУЛЕВАР ВУДРОА ВИЛСОНА: 12,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "1bab51b289b7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Савски венац",
+      "time": {
+        "start": "23:30",
+        "end": "06:00"
+      },
+      "streets": [
+        "БУЛЕВАР ВУДРОА ВИЛСОНА: 12"
+      ],
+      "reason": null,
+      "note": "БУЛЕВАР ВУДРОА ВИЛСОНА: 12,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-05",
@@ -154,7 +206,7 @@
     },
     {
       "date": "2026-11-03",
-      "electricityOutages": 0,
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

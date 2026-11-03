@@ -5,7 +5,25 @@
     "nameLatin": "Zvezdara",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "6ddc6dbb244b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Звездара",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "ПОДУЈЕВСКА: 1"
+      ],
+      "reason": null,
+      "note": "ПОДУЈЕВСКА: 1,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-05",

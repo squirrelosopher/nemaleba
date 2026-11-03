@@ -5,7 +5,25 @@
     "nameLatin": "Surčin",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "fe07ccd231fc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Сурчин",
+      "time": {
+        "start": "10:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Насеље СУРЧИН: АНЕ КАРЕЊИНЕ: 1, БРАНКА МИЉКОВИЋА: 5,9-11, КАЈМАКЧАЛАНСКА: 27-29, ПАРИСКА: 5А, СТЕРИЈИНА: 55-57, ВОЈВОЂАНСКА: 402В-412г,418-420В,379А,385-385Ф"
+      ],
+      "reason": null,
+      "note": "Насеље СУРЧИН: АНЕ КАРЕЊИНЕ: 1, БРАНКА МИЉКОВИЋА: 5,9-11, КАЈМАКЧАЛАНСКА: 27-29, ПАРИСКА: 5А, СТЕРИЈИНА: 55-57, ВОЈВОЂАНСКА: 402В-412г,418-420В,379А,385-385Ф,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-05",
