@@ -5,79 +5,7 @@
     "nameLatin": "Bor",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "c655823d1b6d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-28",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Бучје"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Бучје Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-sreda-28-10-2026-god/"
-    },
-    {
-      "id": "7646e7eaea04",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-29",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Улица Тимочке Дивизије број 2 – замена вентила"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Улица Тимочке Дивизије број 2 – замена вентила Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-29-10-2026-god/"
-    },
-    {
-      "id": "9788a2f16182",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-02",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Чокањица"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Чокањица Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-ponedeljak-02-11-2026-god/"
-    },
-    {
-      "id": "4b45a3c6a42f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-03",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Улица Међеда Усеиновића број 31",
-        "Македонска улица"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Улица Међеда Усеиновића број 31 Македонска улица Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-03-11-2026-god/"
-    },
-    {
-      "id": "fe99f3b18cc4",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Улица Бранислава Нушића"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Улица Бранислава Нушића Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-sreda-04-11-2026-god/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-06",
@@ -227,7 +155,7 @@
     {
       "date": "2026-11-04",
       "electricityOutages": 0,
-      "waterOutages": 1
+      "waterOutages": 0
     }
   ]
 }

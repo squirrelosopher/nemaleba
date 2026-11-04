@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-04T08:11:08.537Z",
+  "generatedAt": "2026-11-04T09:11:03.613Z",
   "summary": {
     "date": "2026-11-04",
     "electricityOutages": 99,
-    "waterOutages": 25,
+    "waterOutages": 13,
     "affected": [
       {
         "id": "kragujevac",
@@ -12,15 +12,15 @@
         "waterOutages": 13
       },
       {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 7,
-        "waterOutages": 7
-      },
-      {
         "id": "beograd",
         "nameCyrillic": "Београд",
         "electricityOutages": 10,
+        "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 7,
         "waterOutages": 0
       },
       {
@@ -60,18 +60,6 @@
         "waterOutages": 0
       },
       {
-        "id": "vranje",
-        "nameCyrillic": "Врање",
-        "electricityOutages": 2,
-        "waterOutages": 1
-      },
-      {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 0,
-        "waterOutages": 3
-      },
-      {
         "id": "pozarevac",
         "nameCyrillic": "Пожаревац",
         "electricityOutages": 3,
@@ -86,6 +74,12 @@
       {
         "id": "vladimirci",
         "nameCyrillic": "Владимирци",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "vranje",
+        "nameCyrillic": "Врање",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -178,12 +172,6 @@
         "nameCyrillic": "Блаце",
         "electricityOutages": 1,
         "waterOutages": 0
-      },
-      {
-        "id": "bor",
-        "nameCyrillic": "Бор",
-        "electricityOutages": 0,
-        "waterOutages": 1
       },
       {
         "id": "vrsac",
@@ -426,7 +414,7 @@
     {
       "date": "2026-11-04",
       "electricityOutages": 39,
-      "waterOutages": 24
+      "waterOutages": 13
     }
   ],
   "providers": [
