@@ -177,6 +177,133 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-sredu-4-11-2026/"
     },
     {
+      "id": "77fdc7739788",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "Дожа Ђерђа 3",
+        "7",
+        "9",
+        "15",
+        "14 - 18"
+      ],
+      "reason": null,
+      "note": "Дожа Ђерђа 3, 7, 9, 15, 14 - 18",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "397cc8adffa4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "Петроварадин: Драгутина Гавриловића, Тихомира Арсића."
+      ],
+      "reason": null,
+      "note": "Петроварадин: Драгутина Гавриловића, Тихомира Арсића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "d41663c8e271",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Петроварадин: Пуцкарош, Занош, ВП Селиште."
+      ],
+      "reason": null,
+      "note": "Петроварадин: Пуцкарош, Занош, ВП Селиште.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "256136b99ee7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "09:30"
+      },
+      "streets": [
+        "Николе Танурџића."
+      ],
+      "reason": null,
+      "note": "Николе Танурџића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "ea88d3b4ed4b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Јернеја Копитара 39 – 41 А",
+        "50."
+      ],
+      "reason": null,
+      "note": "Јернеја Копитара 39 – 41 А, 50.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "01f2918aeb04",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Железничка 16",
+        "18."
+      ],
+      "reason": null,
+      "note": "Железничка 16, 18.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2a3c4d705eaa",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:15",
+        "end": "11:00"
+      },
+      "streets": [
+        "Шумска 5 – 9",
+        "6 – 10",
+        "Горана Ковачића 36."
+      ],
+      "reason": null,
+      "note": "Шумска 5 – 9, 6 – 10, Горана Ковачића 36.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "324e3706a61f",
       "utility": "water",
       "kind": "emergency",
@@ -192,6 +319,23 @@
       "reason": null,
       "note": "Због планираних радова на водоводној мрежи без воде ће од 10 до 13 сати бити насеље Бегеч.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-cetvrtak-5-11-2026/"
+    },
+    {
+      "id": "d53219c895a8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Сремска Каменица: Божура, Нарциса, Ружа, Липарска."
+      ],
+      "reason": null,
+      "note": "Сремска Каменица: Божура, Нарциса, Ружа, Липарска.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

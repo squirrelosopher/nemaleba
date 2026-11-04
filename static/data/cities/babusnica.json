@@ -5,7 +5,42 @@
     "nameLatin": "Babušnica",
     "branchCyrillic": "Пирот"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "bb044986c9e0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Бабушница",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Кијевац."
+      ],
+      "reason": null,
+      "note": "Кијевац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "530a50859d1f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Бабушница",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "део села Врело."
+      ],
+      "reason": null,
+      "note": "део села Врело.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-06",

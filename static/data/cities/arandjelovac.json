@@ -5,7 +5,26 @@
     "nameLatin": "Aranđelovac",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "732530fcbf0a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Аранђеловац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "УЛ Николе Тесле",
+        "Пријепољска"
+      ],
+      "reason": null,
+      "note": "УЛ Николе Тесле, Пријепољска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-06",

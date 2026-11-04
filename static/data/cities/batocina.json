@@ -5,7 +5,26 @@
     "nameLatin": "Batočina",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "ce3c77f02f77",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Баточина",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Доброводица",
+        "Кијево"
+      ],
+      "reason": null,
+      "note": "Доброводица, Кијево",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-06",

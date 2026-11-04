@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "0e22264f61b9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "10:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део села Нова Божурна"
-      ],
-      "reason": null,
-      "note": "Део села Нова Божурна",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "d2b4fdb975e8",
       "utility": "electricity",
       "kind": "planned",
@@ -45,6 +28,23 @@
       ],
       "reason": null,
       "note": "Горња Трнава,Булатовац,Пашинац,Доња Речица,Белогош,Рељинац,Шумаревац,Баботинац и Југовац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "0e22264f61b9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део села Нова Божурна"
+      ],
+      "reason": null,
+      "note": "Део села Нова Божурна",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],

@@ -5,7 +5,25 @@
     "nameLatin": "Šid",
     "branchCyrillic": "Сремска Митровица"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "bcefd0606379",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-07",
+      "areaLabel": "Шид",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Моловин: Цело насељено место, Зараван и гранични прелаз Сот"
+      ],
+      "reason": null,
+      "note": "Моловин: Цело насељено место, Зараван и гранични прелаз Сот",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-06",

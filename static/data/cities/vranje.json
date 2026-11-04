@@ -86,6 +86,23 @@
       "reason": null,
       "note": "Због оштећења на водоводној мрежи у улици Кичерска (Рашка), без воде биће потрошачи те улице  до завршетка радова.",
       "sourceUrl": "https://vodovodvranje.rs/04-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "8d1f5cfb052a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Врање",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Власинска"
+      ],
+      "reason": null,
+      "note": "Власинска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
