@@ -5,26 +5,7 @@
     "nameLatin": "Raška",
     "branchCyrillic": "Краљево"
   },
-  "outages": [
-    {
-      "id": "52eceb41d1a5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-03",
-      "areaLabel": "Рашка",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Цео конзум Ушћа",
-        "сви потрошачи који се напајају из ТС35/10 Ушће"
-      ],
-      "reason": null,
-      "note": "Цео конзум Ушћа,сви потрошачи који се напајају из ТС35/10 Ушће",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-06",

@@ -7,45 +7,6 @@
   },
   "outages": [
     {
-      "id": "3c28a8358f14",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-03",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Обреновићева (27);"
-      ],
-      "reason": null,
-      "note": "Обреновићева (27);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a4d76c950176",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-03",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "11:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Делиградска (1-10)",
-        "Епископска (5",
-        "10)",
-        "Хиландарска (17)",
-        "Станка Власотинчана (2-22а)",
-        "Трг 14. октобра (6);"
-      ],
-      "reason": null,
-      "note": "Делиградска (1-10), Епископска (5,10), Хиландарска (17), Станка Власотинчана (2-22а), Трг 14. октобра (6);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "2232fdf4df3f",
       "utility": "electricity",
       "kind": "planned",
@@ -67,7 +28,7 @@
       ],
       "reason": null,
       "note": "делови Хајдук Вељкове, Учитељ Милине, Бранислава Нушића (8,33б), Јосифа Панчића (26,30), Мије Петровића (10), Проте Матеје Ненадовића (1-6);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "32aa3e9c8cab",
@@ -84,7 +45,7 @@
       ],
       "reason": null,
       "note": "делови Жарка Ђурића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -53,7 +53,7 @@
       ],
       "reason": null,
       "note": "Сремска, део Симе Погачаревића, Хајдук Вељкова, део Јужноморавска, део Ивана Цанкара, Змај Јове, Призренска, Честелинска, део Косовска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b19f22103a91",
@@ -73,7 +73,19 @@
       ],
       "reason": null,
       "note": "Југ Богданова, Станоја Главаша, Моше Пијаде, Ф.Филиповића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "31fb258638a7",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-04",
+      "areaLabel": "Кичерска (Рашка)",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у улици Кичерска (Рашка), без воде биће потрошачи те улице  до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/04-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
     }
   ],
   "history": [
@@ -225,7 +237,7 @@
     {
       "date": "2026-11-04",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
