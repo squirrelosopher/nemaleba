@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-04T09:11:03.613Z",
+  "generatedAt": "2026-11-04T10:11:08.413Z",
   "summary": {
     "date": "2026-11-04",
     "electricityOutages": 99,
-    "waterOutages": 13,
+    "waterOutages": 26,
     "affected": [
       {
         "id": "kragujevac",
@@ -12,15 +12,15 @@
         "waterOutages": 13
       },
       {
-        "id": "beograd",
-        "nameCyrillic": "Београд",
-        "electricityOutages": 10,
-        "waterOutages": 0
-      },
-      {
         "id": "nis",
         "nameCyrillic": "Ниш",
         "electricityOutages": 7,
+        "waterOutages": 7
+      },
+      {
+        "id": "beograd",
+        "nameCyrillic": "Београд",
+        "electricityOutages": 10,
         "waterOutages": 0
       },
       {
@@ -54,10 +54,22 @@
         "waterOutages": 0
       },
       {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 0,
+        "waterOutages": 4
+      },
+      {
         "id": "sombor",
         "nameCyrillic": "Сомбор",
         "electricityOutages": 4,
         "waterOutages": 0
+      },
+      {
+        "id": "vranje",
+        "nameCyrillic": "Врање",
+        "electricityOutages": 2,
+        "waterOutages": 1
       },
       {
         "id": "pozarevac",
@@ -74,12 +86,6 @@
       {
         "id": "vladimirci",
         "nameCyrillic": "Владимирци",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
-        "id": "vranje",
-        "nameCyrillic": "Врање",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -172,6 +178,12 @@
         "nameCyrillic": "Блаце",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "bor",
+        "nameCyrillic": "Бор",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "vrsac",
@@ -414,7 +426,7 @@
     {
       "date": "2026-11-04",
       "electricityOutages": 39,
-      "waterOutages": 13
+      "waterOutages": 25
     }
   ],
   "providers": [
