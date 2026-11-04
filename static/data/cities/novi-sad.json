@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "837e1eb7a2e9",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-28",
-      "areaLabel": "Сремска Каменица",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [
-        "Светосавска улица и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Светосавска улица и околне улице у Сремској Каменици.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-28-10-2026/"
-    },
-    {
       "id": "4ccf41425c01",
       "utility": "water",
       "kind": "emergency",
@@ -340,11 +323,6 @@
   ],
   "history": [
     {
-      "date": "2026-10-06",
-      "electricityOutages": 3,
-      "waterOutages": 3
-    },
-    {
       "date": "2026-10-07",
       "electricityOutages": 2,
       "waterOutages": 2
@@ -488,6 +466,11 @@
       "date": "2026-11-04",
       "electricityOutages": 0,
       "waterOutages": 3
+    },
+    {
+      "date": "2026-11-05",
+      "electricityOutages": 8,
+      "waterOutages": 1
     }
   ]
 }
