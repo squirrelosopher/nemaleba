@@ -35,6 +35,20 @@
       "sourceUrl": "https://www.vodovodpa.rs/2026/10/30/30-10-2026/"
     },
     {
+      "id": "4cfac0b500fe",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-05",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Синђелићева од Улице Јове Максина до Танаска Рајића"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остала Улица Синђелићева од Улице Јове Максина до Танаска Рајића.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/11/05/5-11-2026/"
+    },
+    {
       "id": "22a013f85cbf",
       "utility": "electricity",
       "kind": "planned",
@@ -201,7 +215,7 @@
     {
       "date": "2026-11-05",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
