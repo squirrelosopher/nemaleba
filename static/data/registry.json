@@ -1,15 +1,21 @@
 {
-  "generatedAt": "2026-11-05T07:11:02.591Z",
+  "generatedAt": "2026-11-05T08:11:14.945Z",
   "summary": {
     "date": "2026-11-05",
     "electricityOutages": 104,
-    "waterOutages": 9,
+    "waterOutages": 19,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
         "electricityOutages": 13,
         "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 3,
+        "waterOutages": 8
       },
       {
         "id": "kragujevac",
@@ -60,6 +66,12 @@
         "waterOutages": 0
       },
       {
+        "id": "valjevo",
+        "nameCyrillic": "Ваљево",
+        "electricityOutages": 2,
+        "waterOutages": 1
+      },
+      {
         "id": "gadzin-han",
         "nameCyrillic": "Гаџин Хан",
         "electricityOutages": 3,
@@ -68,12 +80,6 @@
       {
         "id": "jagodina",
         "nameCyrillic": "Јагодина",
-        "electricityOutages": 3,
-        "waterOutages": 0
-      },
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -114,10 +120,10 @@
         "waterOutages": 0
       },
       {
-        "id": "valjevo",
-        "nameCyrillic": "Ваљево",
-        "electricityOutages": 2,
-        "waterOutages": 0
+        "id": "vranje",
+        "nameCyrillic": "Врање",
+        "electricityOutages": 1,
+        "waterOutages": 1
       },
       {
         "id": "kursumlija",
@@ -176,12 +182,6 @@
       {
         "id": "vladimirci",
         "nameCyrillic": "Владимирци",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "vranje",
-        "nameCyrillic": "Врање",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -414,7 +414,7 @@
     {
       "date": "2026-11-05",
       "electricityOutages": 68,
-      "waterOutages": 9
+      "waterOutages": 19
     }
   ],
   "providers": [

@@ -46,6 +46,18 @@
       "reason": null,
       "note": "Власинска",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "fbbb14f047d8",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-05",
+      "areaLabel": "Ћуковац",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у селу Ћуковац , без воде биће потрошачи тог села као и села Златокоп и Брестовац , завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/05-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
     }
   ],
   "history": [
@@ -197,7 +209,7 @@
     {
       "date": "2026-11-05",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

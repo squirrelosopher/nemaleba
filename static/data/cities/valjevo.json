@@ -78,6 +78,21 @@
       "reason": null,
       "note": "Купци дела ул. Војводе Мишића (од ул. Јакова Ненадовић до краја Војног круга)",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "93a086ff93ec",
+      "utility": "water",
+      "kind": "planned",
+      "date": "2026-11-05",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Због радова на водоводној мрежи у Железничкој улици, без водоснабдевања ће бити потрошачи у Железничкој улици од улице Војводе Мишића до улице Вука Караџића, у времену од 09:00 до 14:00 часова.\n\nЈКП \"Водовод Ваљево\"",
+      "sourceUrl": "https://vodovodva.co.rs/05112026-2/"
     }
   ],
   "history": [
@@ -229,7 +244,7 @@
     {
       "date": "2026-11-05",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
