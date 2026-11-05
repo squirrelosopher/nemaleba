@@ -811,6 +811,61 @@
       "reason": null,
       "note": "ПОПРАВКЕ КВАРОВА НА ПРВИМ ВЕНТИЛИМА оком дана обављаће се радови на поправкама првих вентила у улици Ражањска 10, Брегалничка 6, Блачка 34, Бованска 27, Елизабете Рос 13, у насељу Бранко Бјеговић – Грделичка 3, код Бањске рампе – Царице Теодоре 65, у селу Јелашница – Рударска колонија 2 и 23, у насељу Никола Тесла – АВНОЈ – а број 23 и 47, у насељу Нишка Бања – Рузвелтова 45а, Чегарска бб, Ситничка 4 и Мојковачка 11. Због интервенција могућ је прекид водоснабдевања на поменутим локацијама до 15 часова.",
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-210/"
+    },
+    {
+      "id": "067f0ffc6246",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "делови улица Његошеве",
+        "Мишарске",
+        "Станоја Бунушевца",
+        "Церске и Горичке;"
+      ],
+      "reason": null,
+      "note": "делови улица Његошеве, Мишарске, Станоја Бунушевца, Церске и Горичке;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7075c18ead14",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "08:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "делови улица Книнске и Др Војислава Вучковића;"
+      ],
+      "reason": null,
+      "note": "делови улица Книнске и Др Војислава Вучковића;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "aa6a6af4f510",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "15:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "делови улица Епископске и Хајдук Вељкове (48",
+        "50);"
+      ],
+      "reason": null,
+      "note": "делови улица Епископске и Хајдук Вељкове (48,50);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

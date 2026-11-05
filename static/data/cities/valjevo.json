@@ -93,6 +93,45 @@
       "reason": null,
       "note": "Због радова на водоводној мрежи у Железничкој улици, без водоснабдевања ће бити потрошачи у Железничкој улици од улице Војводе Мишића до улице Вука Караџића, у времену од 09:00 до 14:00 часова.\n\nЈКП \"Водовод Ваљево\"",
       "sourceUrl": "https://vodovodva.co.rs/05112026-2/"
+    },
+    {
+      "id": "446af44d0ae9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Купци дела села Комирић",
+        "Белотић"
+      ],
+      "reason": null,
+      "note": "Купци дела села Комирић, Белотић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "8da78be16d4b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Купци дела села Осечине",
+        "део села Плужац",
+        "Бодуша",
+        "Коњуша",
+        "Г.Црниљево"
+      ],
+      "reason": null,
+      "note": "Купци дела села Осечине , део села Плужац,Бодуша ,Коњуша, Г.Црниљево",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

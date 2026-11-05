@@ -5,7 +5,42 @@
     "nameLatin": "Raška",
     "branchCyrillic": "Краљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "18efbe2c744c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Рашка",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Носуљин."
+      ],
+      "reason": null,
+      "note": "Носуљин.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "3206dd1942de",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-07",
+      "areaLabel": "Рашка",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Тиоџе и Семетеш."
+      ],
+      "reason": null,
+      "note": "Тиоџе и Семетеш.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-07",

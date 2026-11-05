@@ -7,6 +7,24 @@
   },
   "outages": [
     {
+      "id": "08cc1548ce06",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Аранђеловац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "улице Николе Тесле",
+        "Пријепољска"
+      ],
+      "reason": null,
+      "note": "улице Николе Тесле, Пријепољска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "732530fcbf0a",
       "utility": "electricity",
       "kind": "planned",
@@ -22,6 +40,28 @@
       ],
       "reason": null,
       "note": "УЛ Николе Тесле, Пријепољска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "902fc3c92745",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Аранђеловац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Врбичка река - Драгићевићи",
+        "Милосављевићи",
+        "Томашевићи",
+        "Јоковића Коса",
+        "Каменар",
+        "ГЕА."
+      ],
+      "reason": null,
+      "note": "Врбичка река - Драгићевићи, Милосављевићи, Томашевићи, Јоковића Коса, Каменар, ГЕА.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],

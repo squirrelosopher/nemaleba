@@ -58,23 +58,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "6d81b980ffc7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Бајина Башта",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеља: Јелисавчићи у Заовинама, Растиште и Јагоштица"
-      ],
-      "reason": null,
-      "note": "Насеља: Јелисавчићи у Заовинама, Растиште и Јагоштица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "3617553d60ad",
       "utility": "electricity",
       "kind": "planned",
@@ -89,6 +72,23 @@
       ],
       "reason": null,
       "note": "Насеља: Шљивовица на Тари",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "6d81b980ffc7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Бајина Башта",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насеља: Јелисавчићи у Заовинама, Растиште и Јагоштица"
+      ],
+      "reason": null,
+      "note": "Насеља: Јелисавчићи у Заовинама, Растиште и Јагоштица",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],

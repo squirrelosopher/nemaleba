@@ -988,6 +988,44 @@
       "reason": null,
       "note": "Ресник - Горња мала, Церјак, Нови Милановац - Павићевићи",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "fbe5aa494b01",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Хасана Бркића",
+        "Милоја Радосављевића"
+      ],
+      "reason": null,
+      "note": "Хасана Бркића, Милоја Радосављевића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a5821fab1b44",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-07",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Нови Милановац - Дом",
+        "Брадићи",
+        "Петровац - Викенд насеље",
+        "Цветојевац - Јовановићи"
+      ],
+      "reason": null,
+      "note": "Нови Милановац - Дом, Брадићи, Петровац - Викенд насеље, Цветојевац - Јовановићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

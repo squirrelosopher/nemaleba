@@ -1,0 +1,51 @@
+{
+  "city": {
+    "id": "svrljig",
+    "nameCyrillic": "Сврљиг",
+    "nameLatin": "Svrljig",
+    "branchCyrillic": "Зајечар"
+  },
+  "outages": [
+    {
+      "id": "1d62cef94ed1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Сврљиг",
+      "time": {
+        "start": "08:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "Сврљиг - Насеље изнад пруге"
+      ],
+      "reason": null,
+      "note": "Сврљиг - Насеље изнад пруге",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "1c90f2206505",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-07",
+      "areaLabel": "Сврљиг",
+      "time": {
+        "start": "08:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "Сврљиг - Централни део града"
+      ],
+      "reason": null,
+      "note": "Сврљиг - Централни део града",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-05",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    }
+  ]
+}

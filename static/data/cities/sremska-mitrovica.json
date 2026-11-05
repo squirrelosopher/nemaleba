@@ -22,6 +22,23 @@
       "reason": null,
       "note": "Због тога ће у времену од 9 до 13 сати без воде бити потрошачи у делу Булевара Константина Великог – од Улице Милана Тепића до Улице Милице Стојадиновић Српкиње и то парна страна.",
       "sourceUrl": "https://vodovodsm.rs/strana/10213"
+    },
+    {
+      "id": "73cc9ac410d4",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-05",
+      "areaLabel": "Шашинцима",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Румски друм и"
+      ],
+      "reason": null,
+      "note": "Због тога ће у времену од 9 до 13 сати без воде бити потрошачи у делу Улице Румски друм и у Шашинцима.",
+      "sourceUrl": "https://vodovodsm.rs/strana/10216"
     }
   ],
   "history": [
@@ -173,7 +190,7 @@
     {
       "date": "2026-11-05",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

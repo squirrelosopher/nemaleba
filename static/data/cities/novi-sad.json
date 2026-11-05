@@ -336,6 +336,96 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Черевићка улица.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-cetvrtak-5-11-2026/"
+    },
+    {
+      "id": "7a6313b3b6e4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "09:30"
+      },
+      "streets": [
+        "Јаношикова 21 - 55",
+        "32 - 96",
+        "Јавор",
+        "Петровец",
+        "Агромеркатор",
+        "Радио базна станица."
+      ],
+      "reason": null,
+      "note": "Јаношикова 21 - 55 , 32 - 96, Јавор, Петровец, Агромеркатор, Радио базна станица.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "0e76aa21691a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Сремска Каменица: Бегремова, Липарска, Орахова."
+      ],
+      "reason": null,
+      "note": "Сремска Каменица: Бегремова, Липарска, Орахова.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a4ae03e09f75",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:45",
+        "end": "12:30"
+      },
+      "streets": [
+        "Римски Шанчеви: ГТС Адриатик."
+      ],
+      "reason": null,
+      "note": "Римски Шанчеви: ГТС Адриатик.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a93bbc346b16",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Ченеј: Партизанска 4-62, 1-53."
+      ],
+      "reason": null,
+      "note": "Ченеј: Партизанска 4-62, 1-53.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "4ff9ed15e350",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "11:00",
+        "end": "12:30"
+      },
+      "streets": [
+        "Ченеј: Вука Караџића 176-208, 177-203, Ратарска 11-21, 4."
+      ],
+      "reason": null,
+      "note": "Ченеј: Вука Караџића 176-208, 177-203, Ратарска 11-21, 4.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

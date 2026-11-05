@@ -35,6 +35,24 @@
       "sourceUrl": "https://www.vodovodpa.rs/2026/10/30/30-10-2026/"
     },
     {
+      "id": "781c2ee752b1",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-05",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "15:00",
+        "end": null
+      },
+      "streets": [
+        "Душана Петровића Шанета",
+        "на потезу од Радивоја Кораћа до Јована Бјелића"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи, данас у 15 часова, без воде је остала Улица Душана Петровића Шанета, на потезу од Радивоја Кораћа до Јована Бјелића.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/11/05/5-11-2026-2/"
+    },
+    {
       "id": "4cfac0b500fe",
       "utility": "water",
       "kind": "emergency",
@@ -215,7 +233,7 @@
     {
       "date": "2026-11-05",
       "electricityOutages": 0,
-      "waterOutages": 1
+      "waterOutages": 2
     }
   ]
 }
