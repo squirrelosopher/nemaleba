@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "a93150a7056e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Рузвелтова"
-      ],
-      "reason": null,
-      "note": "Рузвелтова",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "63984b846717",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "17. Октобар 22"
-      ],
-      "reason": null,
-      "note": "17. Октобар 22",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "44e019c07ddc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "11:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Црногорска"
-      ],
-      "reason": null,
-      "note": "Црногорска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "0635f6d2160d",
       "utility": "electricity",
       "kind": "planned",
@@ -82,7 +31,7 @@
       ],
       "reason": null,
       "note": "Бранислава Нушића 13,17; Деспота Ђурђа 25,27,29,35; Војводе Главаша 1,2,3,4,6,8; Др. Миладина Милића 3,5",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "686c962bceef",
@@ -99,7 +48,7 @@
       ],
       "reason": null,
       "note": "Јоце Иванковића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5fabf887031e",
@@ -116,7 +65,7 @@
       ],
       "reason": null,
       "note": "Липе",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

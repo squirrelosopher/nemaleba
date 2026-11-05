@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "0af5d6ba5932",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Голубац",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "повремена исључења у Брњици - улице Света Петка и Ђердапска"
-      ],
-      "reason": null,
-      "note": "повремена исључења у Брњици - улице Света Петка и Ђердапска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "965762ea538a",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Лазе Лазаревића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "9a806d5f2275",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "БЕЗ НАПНА ОСТАЈУ МИОКУС И ПРЕДВОРИЦА"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПНА ОСТАЈУ МИОКУС И ПРЕДВОРИЦА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "37b405fec27f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "БЕЗ НАПНА ОСТАЈУ МАЛА РОСУЉА У КРИВАЈИ"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПНА ОСТАЈУ МАЛА РОСУЉА У КРИВАЈИ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f68ab95cf5ec",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ ДРУГОГ ДЕЛА ВИКЕНД НАСЕЉА НА САВИ И ЦС ШИРОКА БАРА И ДРЕНОВАЦ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

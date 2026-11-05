@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "7986c0defb79",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Бела Паланка",
-      "time": {
-        "start": "08:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Насеље Долац"
-      ],
-      "reason": null,
-      "note": "Насеље Долац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "bd166fcfaf83",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Крсте Тошић.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9a2a03a64e5a",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Врело.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

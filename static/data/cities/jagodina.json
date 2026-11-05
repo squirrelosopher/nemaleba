@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "97cce2b56aad",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Јагодина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део села Дубока"
-      ],
-      "reason": null,
-      "note": "Део села Дубока",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ec6f34eb9068",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део улице Милана Мијалковића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "74ea1a3cbf10",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Део улице Милана Мијалковића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e619addfcea2",
@@ -72,7 +55,7 @@
       ],
       "reason": null,
       "note": "Стамбена зграда на углу улице Поднаредника Љубе и Војводе Мишића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

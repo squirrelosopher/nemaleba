@@ -5,29 +5,7 @@
     "nameLatin": "Blace",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [
-    {
-      "id": "7a4c5567d1bf",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Блаце",
-      "time": {
-        "start": "10:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Део Карађорђеве",
-        "Кнеза Лазара",
-        "Косте Војиновића",
-        "Драгољуба Гоцана Аврамовића",
-        "Чика Јове Змаја и Ћирила и Методија."
-      ],
-      "reason": null,
-      "note": "Део Карађорђеве,Кнеза Лазара,Косте Војиновића,Драгољуба Гоцана Аврамовића,Чика Јове Змаја и Ћирила и Методија.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-07",

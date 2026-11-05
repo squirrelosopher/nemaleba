@@ -662,25 +662,6 @@
       "note": "Хаваријска искључења на дан 04.11.2026. \n \n Корман, ул. Палогорска ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
     },
     {
-      "id": "f24431077a7c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Ресник - Горња мала",
-        "Церјак",
-        "Нови Милановац - Павићевићи"
-      ],
-      "reason": null,
-      "note": "Ресник - Горња мала, Церјак, Нови Милановац - Павићевићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "542384dcad47",
       "utility": "water",
       "kind": "emergency",
@@ -851,7 +832,7 @@
       ],
       "reason": null,
       "note": "Нови Милановац - Дом, Брадићи, Петровац - Викенд насеље, Цветојевац - Јовановићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d964a92691ee",
@@ -870,7 +851,7 @@
       ],
       "reason": null,
       "note": "Ресник - Горња мала, Церјак, Нови Милановац - Павићевићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "ee1519d6b4ff",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Бајина Башта",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеља: Пилица - на НН изводу за Школу и АС превоз"
-      ],
-      "reason": null,
-      "note": "Насеља: Пилица - на НН изводу за Школу и АС превоз",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "191a6a0f7f79",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеља: Јелисавчићи у Заовинама, Растиште и Јагоштица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e3794ba2c7bb",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Насеља: Шљивовица на Тари",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ddad06ef71c2",
@@ -72,7 +55,7 @@
       ],
       "reason": null,
       "note": "Насеља: Пилица - на НН изводу за Школу и АС превоз",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "6d81b980ffc7",
@@ -89,7 +72,7 @@
       ],
       "reason": null,
       "note": "Насеља: Јелисавчићи у Заовинама, Растиште и Јагоштица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "3617553d60ad",
@@ -106,7 +89,7 @@
       ],
       "reason": null,
       "note": "Насеља: Шљивовица на Тари",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,25 +5,7 @@
     "nameLatin": "Doljevac",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "2f3676a57dad",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Дољевац",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "делови Дољевца;"
-      ],
-      "reason": null,
-      "note": "делови Дољевца;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-07",

@@ -19,51 +19,6 @@
       "sourceUrl": "https://vodovodvranje.rs/29-10-2026-obavestenje-o-prekidu-vodosnabdevanja/"
     },
     {
-      "id": "f2ee19616aaf",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Врање",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Сремска",
-        "део Симе Погачаревића",
-        "Хајдук Вељкова",
-        "део Јужноморавска",
-        "део Ивана Цанкара",
-        "Змај Јове",
-        "Призренска",
-        "Честелинска",
-        "део Косовска."
-      ],
-      "reason": null,
-      "note": "Сремска, део Симе Погачаревића, Хајдук Вељкова, део Јужноморавска, део Ивана Цанкара, Змај Јове, Призренска, Честелинска, део Косовска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b19f22103a91",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Врање",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Југ Богданова",
-        "Станоја Главаша",
-        "Моше Пијаде",
-        "Ф.Филиповића."
-      ],
-      "reason": null,
-      "note": "Југ Богданова, Станоја Главаша, Моше Пијаде, Ф.Филиповића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "31fb258638a7",
       "utility": "water",
       "kind": "emergency",
@@ -90,7 +45,7 @@
       ],
       "reason": null,
       "note": "Власинска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

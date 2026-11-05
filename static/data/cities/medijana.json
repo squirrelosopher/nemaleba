@@ -7,47 +7,6 @@
   },
   "outages": [
     {
-      "id": "2232fdf4df3f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "делови Хајдук Вељкове",
-        "Учитељ Милине",
-        "Бранислава Нушића (8",
-        "33б)",
-        "Јосифа Панчића (26",
-        "30)",
-        "Мије Петровића (10)",
-        "Проте Матеје Ненадовића (1-6);"
-      ],
-      "reason": null,
-      "note": "делови Хајдук Вељкове, Учитељ Милине, Бранислава Нушића (8,33б), Јосифа Панчића (26,30), Мије Петровића (10), Проте Матеје Ненадовића (1-6);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "32aa3e9c8cab",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "15:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "делови Жарка Ђурића;"
-      ],
-      "reason": null,
-      "note": "делови Жарка Ђурића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d5cdbbc10fb4",
       "utility": "electricity",
       "kind": "planned",
@@ -62,7 +21,7 @@
       ],
       "reason": null,
       "note": "делови улица Обреновићеве (бб) и Трга Краља Милана (2);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

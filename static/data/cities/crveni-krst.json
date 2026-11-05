@@ -5,30 +5,7 @@
     "nameLatin": "Crveni krst",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "9064dbf5d942",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "areaLabel": "Црвени крст",
-      "time": {
-        "start": "08:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "делови Обрена Николића",
-        "8. марта (24)",
-        "Бул. 12 фебруара (110",
-        "112)",
-        "Озренског одреда (9",
-        "14);"
-      ],
-      "reason": null,
-      "note": "делови Обрена Николића, 8. марта (24), Бул. 12 фебруара (110,112), Озренског одреда (9,14);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-07",
