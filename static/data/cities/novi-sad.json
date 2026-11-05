@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "4ccf41425c01",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-29",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "13:00"
-      },
-      "streets": [
-        "Крилова улица"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Крилова улица.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/16794/"
-    },
-    {
-      "id": "60aeda1de6e1",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-29",
-      "areaLabel": "Сремска Каменица",
-      "time": {
-        "start": null,
-        "end": "14:00"
-      },
-      "streets": [
-        "Светосавска улица и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Светосавска улица и околне улице у Сремској Каменици.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/16794/"
-    },
-    {
       "id": "07a6a72d456f",
       "utility": "water",
       "kind": "emergency",
@@ -430,11 +396,6 @@
   ],
   "history": [
     {
-      "date": "2026-10-07",
-      "electricityOutages": 2,
-      "waterOutages": 2
-    },
-    {
       "date": "2026-10-08",
       "electricityOutages": 2,
       "waterOutages": 3
@@ -578,6 +539,11 @@
       "date": "2026-11-05",
       "electricityOutages": 8,
       "waterOutages": 2
+    },
+    {
+      "date": "2026-11-06",
+      "electricityOutages": 5,
+      "waterOutages": 0
     }
   ]
 }

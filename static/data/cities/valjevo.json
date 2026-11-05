@@ -95,6 +95,18 @@
       "sourceUrl": "https://vodovodva.co.rs/05112026-2/"
     },
     {
+      "id": "2ee7d221a5e6",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-05",
+      "areaLabel": "Ваљево",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "У периоду од 23-06х, због квара на пумпној станици Радино брдо без водоснабдевања ће бити потрошачи у Ул. Ужичкој (од ресторана Дукат до краја) – Дегурићу, Бујачићу и Жабарима. \n ЈКП \"Водовод Ваљево\" \n \n Фотографија представља илустрацију поправке квара",
+      "sourceUrl": "https://vodovodva.co.rs/radino_brdo_05112026/"
+    },
+    {
       "id": "446af44d0ae9",
       "utility": "electricity",
       "kind": "planned",
@@ -135,11 +147,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-10-07",
-      "electricityOutages": 1,
-      "waterOutages": 1
-    },
     {
       "date": "2026-10-08",
       "electricityOutages": 2,
@@ -284,6 +291,11 @@
       "date": "2026-11-05",
       "electricityOutages": 2,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-11-06",
+      "electricityOutages": 2,
+      "waterOutages": 0
     }
   ]
 }
