@@ -5,7 +5,25 @@
     "nameLatin": "Vračar",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "0e1c44c95fee",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-06",
+      "areaLabel": "Врачар",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "БРАНИЧЕВСКА: 27-29, ЂОРЂА ВАЈФЕРТА: 12, КОРНЕЛИЈА СТАНКОВИЋА: 2-12А,5-11, НЕБОЈШИНА: 14,18-18,22-32Б,43-49, РУДНИЧКА: 12"
+      ],
+      "reason": null,
+      "note": "БРАНИЧЕВСКА: 27-29, ЂОРЂА ВАЈФЕРТА: 12, КОРНЕЛИЈА СТАНКОВИЋА: 2-12А,5-11, НЕБОЈШИНА: 14,18-18,22-32Б,43-49, РУДНИЧКА: 12,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-07",
