@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-05T17:57:30.645Z",
+  "generatedAt": "2026-11-05T18:11:06.278Z",
   "summary": {
     "date": "2026-11-05",
     "electricityOutages": 142,
-    "waterOutages": 24,
+    "waterOutages": 22,
     "affected": [
       {
         "id": "beograd",
@@ -106,12 +106,6 @@
         "nameCyrillic": "Аранђеловац",
         "electricityOutages": 3,
         "waterOutages": 0
-      },
-      {
-        "id": "pancevo",
-        "nameCyrillic": "Панчево",
-        "electricityOutages": 1,
-        "waterOutages": 2
       },
       {
         "id": "pozarevac",
@@ -272,6 +266,12 @@
       {
         "id": "opovo",
         "nameCyrillic": "Опово",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "pancevo",
+        "nameCyrillic": "Панчево",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -456,7 +456,7 @@
     {
       "date": "2026-11-05",
       "electricityOutages": 68,
-      "waterOutages": 24
+      "waterOutages": 22
     }
   ],
   "providers": [
