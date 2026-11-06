@@ -248,6 +248,23 @@
       "reason": null,
       "note": "Ченеј: Вука Караџића 176-208, 177-203, Ратарска 11-21, 4.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "065f7dee7fe2",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-06",
+      "areaLabel": "Петроварадин",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Улица Динка Шимуновића"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица Динка Шимуновића у Петроварадину.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-6-11-2026/"
     }
   ],
   "history": [
@@ -399,7 +416,7 @@
     {
       "date": "2026-11-06",
       "electricityOutages": 5,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
