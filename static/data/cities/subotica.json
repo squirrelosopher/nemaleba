@@ -75,23 +75,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "2364a443e38a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Суботица: Кирешка ( између Хероја Пинкија и Партизанских база ) и Партизанских база ( 128,130 )."
-      ],
-      "reason": null,
-      "note": "Суботица: Кирешка ( између Хероја Пинкија и Партизанских база ) и Партизанских база ( 128,130 ).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
-    },
-    {
       "id": "9d9fc5b2fb3d",
       "utility": "electricity",
       "kind": "planned",
@@ -106,6 +89,23 @@
       ],
       "reason": null,
       "note": "Суботица у улицама и деловима улица у околини: део трга Цара Јована Ненада ( од хотела \"Глориа\" према цркви - кућни број 11, Фрањевачка црква, ОТВОРЕНИ УНИВЕРЗИТЕТ ), крај Суботе Врлића, Целовечка, почетак Васе Стајића ( кућни број 1 и 3 ).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "2364a443e38a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-09",
+      "areaLabel": "Суботица",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Суботица: Кирешка ( између Хероја Пинкија и Партизанских база ) и Партизанских база ( 128,130 )."
+      ],
+      "reason": null,
+      "note": "Суботица: Кирешка ( између Хероја Пинкија и Партизанских база ) и Партизанских база ( 128,130 ).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     },
     {

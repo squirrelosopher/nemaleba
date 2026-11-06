@@ -5,7 +5,25 @@
     "nameLatin": "Velika Plana",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "fee2288b540f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-09",
+      "areaLabel": "Велика Плана",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Без напајања електричном енергијом ће бити корисници у Крњеву"
+      ],
+      "reason": null,
+      "note": "Без напајања електричном енергијом ће бити корисници у Крњеву",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-08",

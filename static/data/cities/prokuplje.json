@@ -24,6 +24,25 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "d7dce2f81be4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-09",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Самољица",
+        "Биљача",
+        "Боровац"
+      ],
+      "reason": null,
+      "note": "Самољица, Биљача, Боровац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
       "id": "0a91ee929bcb",
       "utility": "electricity",
       "kind": "planned",
@@ -38,6 +57,23 @@
       ],
       "reason": null,
       "note": "Белољин (Река).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "3eeb99e8b65e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-09",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део Улице Новоселска"
+      ],
+      "reason": null,
+      "note": "Део Улице Новоселска",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
