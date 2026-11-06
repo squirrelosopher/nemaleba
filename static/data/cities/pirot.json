@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "28b36c9936dc",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "део улице Славонска."
-      ],
-      "reason": null,
-      "note": "део улице Славонска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "9ff6c69043ef",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "10:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "део улице Стевана Сремца."
-      ],
-      "reason": null,
-      "note": "део улице Стевана Сремца.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "2435a9e8a223",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Село Костур.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "c5a32abdf3af",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Села Церова и Засковци.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e0dcfe96fe49",
@@ -89,7 +55,7 @@
       ],
       "reason": null,
       "note": "Село Градашница.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

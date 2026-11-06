@@ -5,33 +5,7 @@
     "nameLatin": "Aleksandrovac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [
-    {
-      "id": "e9182dd5268a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Александровац",
-      "time": {
-        "start": "08:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Насељено место Митрово Поље",
-        "Рокци",
-        "Јелакци",
-        "Козница",
-        "Плеш",
-        "Плоча",
-        "Стрменица",
-        "Бзеница",
-        "Рогавчина"
-      ],
-      "reason": null,
-      "note": "Насељено место Митрово Поље,Рокци,Јелакци,Козница,Плеш,Плоча,Стрменица,Бзеница,Рогавчина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-08",

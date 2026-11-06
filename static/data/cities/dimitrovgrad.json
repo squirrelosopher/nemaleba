@@ -5,25 +5,7 @@
     "nameLatin": "Dimitrovgrad",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "ac1a0310cdab",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Димитровград",
-      "time": {
-        "start": "12:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Погановски Манастир."
-      ],
-      "reason": null,
-      "note": "Погановски Манастир.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-08",

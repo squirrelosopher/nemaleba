@@ -5,25 +5,7 @@
     "nameLatin": "Golubac",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [
-    {
-      "id": "965762ea538a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Голубац",
-      "time": {
-        "start": "08:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Лазе Лазаревића"
-      ],
-      "reason": null,
-      "note": "Лазе Лазаревића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-08",

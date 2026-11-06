@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "aa2b9cc53aeb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "08:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "делови улица Војводе Гојка и Бранка Радичевића (50);"
-      ],
-      "reason": null,
-      "note": "делови улица Војводе Гојка и Бранка Радичевића (50);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f5c06cd1e397",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "део Вукманова;"
-      ],
-      "reason": null,
-      "note": "део Вукманова;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "067f0ffc6246",
       "utility": "electricity",
       "kind": "planned",
@@ -58,7 +24,7 @@
       ],
       "reason": null,
       "note": "делови улица Његошеве, Мишарске, Станоја Бунушевца, Церске и Горичке;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "aa6a6af4f510",
@@ -76,7 +42,42 @@
       ],
       "reason": null,
       "note": "делови улица Епископске и Хајдук Вељкове (48,50);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "d03176170096",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-09",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "делови Дравске (1-28)",
+        "Војводе Путника (парни бр. 8-14);"
+      ],
+      "reason": null,
+      "note": "делови Дравске (1-28), Војводе Путника (парни бр. 8-14);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "5ad590ddf0a6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-09",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "15:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "део Доњег Међурова;"
+      ],
+      "reason": null,
+      "note": "део Доњег Међурова;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

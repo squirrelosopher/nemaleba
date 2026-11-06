@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "e5826c341840",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": "02:00",
-        "end": "06:00"
-      },
-      "streets": [
-        "МИЛУТИНА МИЛАНКОВИЋА: бб"
-      ],
-      "reason": null,
-      "note": "МИЛУТИНА МИЛАНКОВИЋА: бб,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "9ff781880692",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "ДР ИВАНА РИБАРА: 120а-124а,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

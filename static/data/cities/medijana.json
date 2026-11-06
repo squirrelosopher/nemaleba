@@ -7,21 +7,22 @@
   },
   "outages": [
     {
-      "id": "d5cdbbc10fb4",
+      "id": "aa081006aa3e",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-05",
+      "date": "2026-11-09",
       "areaLabel": "Медијана",
       "time": {
-        "start": "07:30",
-        "end": "09:30"
+        "start": "09:00",
+        "end": "13:00"
       },
       "streets": [
-        "делови улица Обреновићеве (бб) и Трга Краља Милана (2);"
+        "Хиландарска (15",
+        "15а);"
       ],
       "reason": null,
-      "note": "делови улица Обреновићеве (бб) и Трга Краља Милана (2);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+      "note": "Хиландарска (15,15а);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

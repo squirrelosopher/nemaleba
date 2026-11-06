@@ -7,50 +7,6 @@
   },
   "outages": [
     {
-      "id": "0635f6d2160d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Бранислава Нушића 13",
-        "17; Деспота Ђурђа 25",
-        "27",
-        "29",
-        "35; Војводе Главаша 1",
-        "2",
-        "3",
-        "4",
-        "6",
-        "8; Др. Миладина Милића 3",
-        "5"
-      ],
-      "reason": null,
-      "note": "Бранислава Нушића 13,17; Деспота Ђурђа 25,27,29,35; Војводе Главаша 1,2,3,4,6,8; Др. Миладина Милића 3,5",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "686c962bceef",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Јоце Иванковића"
-      ],
-      "reason": null,
-      "note": "Јоце Иванковића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "5fabf887031e",
       "utility": "electricity",
       "kind": "planned",
@@ -65,7 +21,7 @@
       ],
       "reason": null,
       "note": "Липе",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

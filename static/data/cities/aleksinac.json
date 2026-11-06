@@ -7,83 +7,6 @@
   },
   "outages": [
     {
-      "id": "f7bc0980dd95",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "у Житковцу",
-        "улице Ратка Јовић у центру",
-        "22.Децембра",
-        "Омалдинска",
-        "Спортска",
-        "Драгољуба Аврамовића",
-        "Радета Спасића"
-      ],
-      "reason": null,
-      "note": "у Житковцу, улице Ратка Јовић у центру, 22.Децембра, Омалдинска, Спортска, Драгољуба Аврамовића, Радета Спасића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "0f0d11f010c2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "у Житковцу",
-        "улица Железничка са припадајућим улицама"
-      ],
-      "reason": null,
-      "note": "у Житковцу, улица Железничка са припадајућим улицама",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a846d5520342",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "У Алексинцу",
-        "зграда Душана Тривунца бр.82"
-      ],
-      "reason": null,
-      "note": "У Алексинцу, зграда Душана Тривунца бр.82",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "17ab86ffd055",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "10:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "У Алексинцу",
-        "зграда Војске Југославије бр.40/1/17"
-      ],
-      "reason": null,
-      "note": "У Алексинцу, зграда Војске Југославије бр.40/1/17",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "28a43f68dd33",
       "utility": "electricity",
       "kind": "planned",
@@ -98,7 +21,7 @@
       ],
       "reason": null,
       "note": "Доњи Адровац и део Прћиловице од Доњег Адровца до скретања за Сухиотно",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "16a26ab12318",
@@ -115,7 +38,7 @@
       ],
       "reason": null,
       "note": "део Житковца око Монопола",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2847fac46c7a",
@@ -132,7 +55,7 @@
       ],
       "reason": null,
       "note": "Житковачки Пут-Индустријска зона,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

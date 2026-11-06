@@ -5,25 +5,7 @@
     "nameLatin": "Apatin",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [
-    {
-      "id": "537786081127",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Апатин",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Апатин: ПИВАРСКА, ПАРТИЗАНСКА, ДЕО КРУЖНОГ НАСИПА, М.ОБИЛИЋА И Н.ТЕСЛЕ"
-      ],
-      "reason": null,
-      "note": "Апатин: ПИВАРСКА, ПАРТИЗАНСКА, ДЕО КРУЖНОГ НАСИПА, М.ОБИЛИЋА И Н.ТЕСЛЕ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-08",

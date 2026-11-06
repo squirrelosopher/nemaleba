@@ -7,58 +7,6 @@
   },
   "outages": [
     {
-      "id": "e230a7342a9d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Гаџин Хан",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "део Чагровца Јагличја",
-        "Копривнице и Мосора;"
-      ],
-      "reason": null,
-      "note": "део Чагровца Јагличја, Копривнице и Мосора;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "3b8869410c64",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Гаџин Хан",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "део Личја;"
-      ],
-      "reason": null,
-      "note": "део Личја;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "97c12be70053",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-05",
-      "areaLabel": "Гаџин Хан",
-      "time": {
-        "start": "12:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "део Заплањског Миљковца и Краставче;"
-      ],
-      "reason": null,
-      "note": "део Заплањског Миљковца и Краставче;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7856bc2348fa",
       "utility": "electricity",
       "kind": "planned",
@@ -74,7 +22,7 @@
       ],
       "reason": null,
       "note": "Мали и Велики Крчимир, Равна Дубрава и Горњи и Доњи Присјан;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

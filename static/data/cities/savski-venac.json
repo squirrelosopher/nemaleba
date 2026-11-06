@@ -7,21 +7,21 @@
   },
   "outages": [
     {
-      "id": "1bab51b289b7",
+      "id": "9d0b4ec2333f",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-05",
+      "date": "2026-11-09",
       "areaLabel": "Савски венац",
       "time": {
-        "start": "23:30",
-        "end": "06:00"
+        "start": "12:00",
+        "end": "14:00"
       },
       "streets": [
-        "БУЛЕВАР ВУДРОА ВИЛСОНА: 12"
+        "БИРЧАНИНОВА: 2-2А, ХАЈДУК-ВЕЉКОВ ВЕНАЦ: ББ,ББ,7, РИСАНСКА: 3, САРАЈЕВСКА: 2-6,1-9"
       ],
       "reason": null,
-      "note": "БУЛЕВАР ВУДРОА ВИЛСОНА: 12,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+      "note": "БИРЧАНИНОВА: 2-2А, ХАЈДУК-ВЕЉКОВ ВЕНАЦ: ББ,ББ,7, РИСАНСКА: 3, САРАЈЕВСКА: 2-6,1-9,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
