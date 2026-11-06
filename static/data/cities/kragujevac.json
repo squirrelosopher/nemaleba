@@ -822,6 +822,38 @@
       "note": "Грошница, ул. Јужноморавских Бригада ( од 15:00 до 18:00 часова ), поправка кућног прикључка."
     },
     {
+      "id": "f6828e89016c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-06",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-06-11-2026/",
+      "areaLabel": "Ђорђа Митровића",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [],
+      "reason": "поправка кућног прикључка",
+      "note": "Мале Пчелице, ул. Др.Ђорђа Митровића ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "1a9747b6e01b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-06",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-06-11-2026/",
+      "areaLabel": "Корман",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Црпна станица “КОРМАН”"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Хаваријска искључења на дан 06.11.2026. \n \n Корман, ул. Црпна станица “КОРМАН” ( од 08:00 до 12:00 часова ), поправка уличне линије."
+    },
+    {
       "id": "d964a92691ee",
       "utility": "electricity",
       "kind": "planned",
@@ -857,6 +889,74 @@
       "reason": null,
       "note": "Хасана Бркића, Милоја Радосављевића",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "83bb39aab486",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-06",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-06-11-2026/",
+      "areaLabel": "Колонија",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Обилићева"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Колонија, ул. Обилићева ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "e1b8db42f059",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-06",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-06-11-2026/",
+      "areaLabel": "Мале Пчелице",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Љубомира Јовановића"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Мале Пчелице, ул. Љубомира Јовановића ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "03f74be3640a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-06",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-06-11-2026/",
+      "areaLabel": "Ердоглија",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Јадранска"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Ердоглија, ул. Јадранска ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "6f3b7c1a15d2",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-06",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-06-11-2026/",
+      "areaLabel": "Палилуле",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Сретењског устава"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Палилуле, ул. Сретењског устава ( од 16:00 до 19:00 часова ), поправка уличне линије."
     },
     {
       "id": "a5821fab1b44",
@@ -1028,7 +1128,7 @@
     {
       "date": "2026-11-06",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 6
     }
   ]
 }
