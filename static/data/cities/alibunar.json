@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "39191db433f9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Алибунар",
-      "time": {
-        "start": "07:30",
-        "end": "17:00"
-      },
-      "streets": [
-        "Девојачки Бунар: Цело насеље."
-      ],
-      "reason": null,
-      "note": "Девојачки Бунар: Цело насеље.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "bbfbef66cf01",
       "utility": "electricity",
       "kind": "planned",
@@ -38,15 +21,10 @@
       ],
       "reason": null,
       "note": "Девојачки Бунар: Цело насеље.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-08",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-09",
       "electricityOutages": 0,
@@ -189,6 +167,11 @@
     },
     {
       "date": "2026-11-06",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
       "electricityOutages": 1,
       "waterOutages": 0
     }

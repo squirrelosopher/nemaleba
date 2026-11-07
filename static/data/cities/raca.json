@@ -5,13 +5,64 @@
     "nameLatin": "Rača",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-08",
-      "electricityOutages": 0,
-      "waterOutages": 0
+      "id": "178dc7315a06",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Рача",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Карађорђева",
+        "Краља Петра Првог",
+        "Николе Пашића",
+        "Немањина",
+        "Његошева"
+      ],
+      "reason": null,
+      "note": "Карађорђева, Краља Петра Првог, Николе Пашића, Немањина, Његошева",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     },
+    {
+      "id": "78216fc51cf5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Рача",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Мирашевац - Доњи крај"
+      ],
+      "reason": null,
+      "note": "Мирашевац - Доњи крај",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "11e7f661b685",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Рача",
+      "time": {
+        "start": "13:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Мирашевац - Албанија"
+      ],
+      "reason": null,
+      "note": "Мирашевац - Албанија",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-09",
       "electricityOutages": 0,
@@ -154,6 +205,11 @@
     },
     {
       "date": "2026-11-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
       "electricityOutages": 0,
       "waterOutages": 0
     }

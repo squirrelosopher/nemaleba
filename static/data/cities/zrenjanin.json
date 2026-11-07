@@ -5,13 +5,43 @@
     "nameLatin": "Zrenjanin",
     "branchCyrillic": "Зрењанин"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-08",
-      "electricityOutages": 0,
-      "waterOutages": 1
+      "id": "1b50231d3a56",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Лукићево: део Бирчанинове"
+      ],
+      "reason": null,
+      "note": "Лукићево: део Бирчанинове",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     },
+    {
+      "id": "a4cca39c8926",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Лукићево: Ивана Марковића, део Чичине"
+      ],
+      "reason": null,
+      "note": "Лукићево: Ивана Марковића, део Чичине",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-09",
       "electricityOutages": 1,
@@ -154,6 +184,11 @@
     },
     {
       "date": "2026-11-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
       "electricityOutages": 0,
       "waterOutages": 0
     }

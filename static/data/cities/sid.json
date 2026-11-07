@@ -21,15 +21,27 @@
       ],
       "reason": null,
       "note": "Моловин: Цело насељено место, Зараван и гранични прелаз Сот",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "44cf058807df",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Шид",
+      "time": {
+        "start": "10:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Моровић: Ул. Шидска 47-63, 48-66А"
+      ],
+      "reason": null,
+      "note": "Моровић: Ул. Шидска 47-63, 48-66А",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-08",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-09",
       "electricityOutages": 0,
@@ -173,6 +185,11 @@
     {
       "date": "2026-11-06",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

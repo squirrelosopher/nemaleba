@@ -5,72 +5,8 @@
     "nameLatin": "Aranđelovac",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [
-    {
-      "id": "08cc1548ce06",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Аранђеловац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "улице Николе Тесле",
-        "Пријепољска"
-      ],
-      "reason": null,
-      "note": "улице Николе Тесле, Пријепољска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "732530fcbf0a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Аранђеловац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "УЛ Николе Тесле",
-        "Пријепољска"
-      ],
-      "reason": null,
-      "note": "УЛ Николе Тесле, Пријепољска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "902fc3c92745",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Аранђеловац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Врбичка река - Драгићевићи",
-        "Милосављевићи",
-        "Томашевићи",
-        "Јоковића Коса",
-        "Каменар",
-        "ГЕА."
-      ],
-      "reason": null,
-      "note": "Врбичка река - Драгићевићи, Милосављевићи, Томашевићи, Јоковића Коса, Каменар, ГЕА.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-08",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-09",
       "electricityOutages": 0,
@@ -214,6 +150,11 @@
     {
       "date": "2026-11-06",
       "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

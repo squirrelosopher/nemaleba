@@ -7,29 +7,41 @@
   },
   "outages": [
     {
-      "id": "0e1c44c95fee",
+      "id": "b3e4647869f7",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-06",
+      "date": "2026-11-10",
       "areaLabel": "Врачар",
       "time": {
         "start": "09:00",
-        "end": "10:00"
+        "end": "17:00"
       },
       "streets": [
-        "БРАНИЧЕВСКА: 27-29, ЂОРЂА ВАЈФЕРТА: 12, КОРНЕЛИЈА СТАНКОВИЋА: 2-12А,5-11, НЕБОЈШИНА: 14,18-18,22-32Б,43-49, РУДНИЧКА: 12"
+        "МАКСИМА ГОРКОГ: 87"
       ],
       "reason": null,
-      "note": "БРАНИЧЕВСКА: 27-29, ЂОРЂА ВАЈФЕРТА: 12, КОРНЕЛИЈА СТАНКОВИЋА: 2-12А,5-11, НЕБОЈШИНА: 14,18-18,22-32Б,43-49, РУДНИЧКА: 12,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+      "note": "МАКСИМА ГОРКОГ: 87,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "24caa4a1cec7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Врачар",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Максима Горког 87."
+      ],
+      "reason": null,
+      "note": "Максима Горког 87.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-08",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-09",
       "electricityOutages": 0,
@@ -173,6 +185,11 @@
     {
       "date": "2026-11-06",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

@@ -5,31 +5,8 @@
     "nameLatin": "Pantelej",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "7075c18ead14",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "08:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "делови улица Книнске и Др Војислава Вучковића;"
-      ],
-      "reason": null,
-      "note": "делови улица Книнске и Др Војислава Вучковића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-08",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-09",
       "electricityOutages": 2,
@@ -173,6 +150,11 @@
     {
       "date": "2026-11-06",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

@@ -5,31 +5,8 @@
     "nameLatin": "Novi Beograd",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "9ff781880692",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "ДР ИВАНА РИБАРА: 120а-124а"
-      ],
-      "reason": null,
-      "note": "ДР ИВАНА РИБАРА: 120а-124а,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-08",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-09",
       "electricityOutages": 1,
@@ -173,6 +150,11 @@
     {
       "date": "2026-11-06",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

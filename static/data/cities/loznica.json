@@ -5,13 +5,29 @@
     "nameLatin": "Loznica",
     "branchCyrillic": "Лозница"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-08",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
+      "id": "8d417f1dc2d9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Део Јошеве",
+        "Каменица",
+        "Милина",
+        "Трбосиље и Цер"
+      ],
+      "reason": null,
+      "note": "Део Јошеве, Каменица, Милина, Трбосиље и Цер",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-09",
       "electricityOutages": 2,
@@ -154,6 +170,11 @@
     },
     {
       "date": "2026-11-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
       "electricityOutages": 0,
       "waterOutages": 0
     }

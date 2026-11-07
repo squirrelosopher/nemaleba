@@ -5,13 +5,77 @@
     "nameLatin": "Lazarevac",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-08",
-      "electricityOutages": 0,
-      "waterOutages": 0
+      "id": "7eec51266ad4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Насељено место Шопић (засеок Горња криваја-према Мијатовићима)."
+      ],
+      "reason": null,
+      "note": "Насељено место Шопић (засеок Горња криваја-према Мијатовићима).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     },
+    {
+      "id": "9184ee81099a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Насељено место Крушевица (засеок Дом-према Пантелићу)."
+      ],
+      "reason": null,
+      "note": "Насељено место Крушевица (засеок Дом-према Пантелићу).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "9b8b5ecfcf2f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "10:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "Насеље Степојевац (засеок Белег-према Великим Црљенима)."
+      ],
+      "reason": null,
+      "note": "Насеље Степојевац (засеок Белег-према Великим Црљенима).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "b48eea510c0f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "13:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насеље Дрен (засеок код школе)."
+      ],
+      "reason": null,
+      "note": "Насеље Дрен (засеок код школе).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-09",
       "electricityOutages": 2,
@@ -154,6 +218,11 @@
     },
     {
       "date": "2026-11-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
       "electricityOutages": 0,
       "waterOutages": 0
     }

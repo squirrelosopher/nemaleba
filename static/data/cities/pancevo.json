@@ -7,20 +7,6 @@
   },
   "outages": [
     {
-      "id": "53593bb71029",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-30",
-      "areaLabel": "Панчево",
-      "time": null,
-      "streets": [
-        "Уроша Предића од Димитрија Туцовића до Карађорђеве улице"
-      ],
-      "reason": null,
-      "note": "Због радова на водоводној мрежи без воде је у 12 и 45 часова остала Улица Уроша Предића од Димитрија Туцовића до Карађорђеве улице.",
-      "sourceUrl": "https://www.vodovodpa.rs/2026/10/30/30-10-2026/"
-    },
-    {
       "id": "781c2ee752b1",
       "utility": "water",
       "kind": "emergency",
@@ -53,23 +39,6 @@
       "sourceUrl": "https://www.vodovodpa.rs/2026/11/05/5-11-2026/"
     },
     {
-      "id": "22a013f85cbf",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "09:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "Панчево: Део Јоакима Вујића од Стевана Сремца ка Марина Држића."
-      ],
-      "reason": null,
-      "note": "Панчево: Део Јоакима Вујића од Стевана Сремца ка Марина Држића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "81af6af9f5aa",
       "utility": "electricity",
       "kind": "planned",
@@ -84,15 +53,27 @@
       ],
       "reason": null,
       "note": "Старчево: Жарка Зрењанина од В.Караџића до Војвођанске.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "970a51ad7ec7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Старчево: Маршала Тита од В.Караџића до Војвођанске, Вука Караџића од Бориса Кидрича до Маршала Тита."
+      ],
+      "reason": null,
+      "note": "Старчево: Маршала Тита од В.Караџића до Војвођанске, Вука Караџића од Бориса Кидрича до Маршала Тита.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-08",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-09",
       "electricityOutages": 2,
@@ -236,6 +217,11 @@
     {
       "date": "2026-11-06",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

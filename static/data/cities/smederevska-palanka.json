@@ -24,15 +24,27 @@
       ],
       "reason": null,
       "note": "Трафореон \"Партенон\" у Смед. Паланци, односно зграда \"Партенон\", део улице Светог Саве до броја 13, део улице Француска непарна страна до броја 23 као и корисници у близини зграде \"Партенон\".",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ee403aec73eb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Смедеревска Паланка",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Трафореон Радишићи у Ратарима"
+      ],
+      "reason": null,
+      "note": "Трафореон Радишићи у Ратарима",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-08",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-09",
       "electricityOutages": 1,
@@ -175,6 +187,11 @@
     },
     {
       "date": "2026-11-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
       "electricityOutages": 0,
       "waterOutages": 0
     }

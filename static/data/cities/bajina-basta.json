@@ -5,48 +5,8 @@
     "nameLatin": "Bajina Bašta",
     "branchCyrillic": "Ужице"
   },
-  "outages": [
-    {
-      "id": "3617553d60ad",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Бајина Башта",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Насеља: Шљивовица на Тари"
-      ],
-      "reason": null,
-      "note": "Насеља: Шљивовица на Тари",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6d81b980ffc7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Бајина Башта",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеља: Јелисавчићи у Заовинама, Растиште и Јагоштица"
-      ],
-      "reason": null,
-      "note": "Насеља: Јелисавчићи у Заовинама, Растиште и Јагоштица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-08",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-09",
       "electricityOutages": 3,
@@ -190,6 +150,11 @@
     {
       "date": "2026-11-06",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

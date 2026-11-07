@@ -7,123 +7,6 @@
   },
   "outages": [
     {
-      "id": "606e5cd5d8ad",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-30",
-      "areaLabel": "Поповац",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Милета Ђурђановића"
-      ],
-      "reason": null,
-      "note": "ПРЕКИД САОБРАЋАЈА У СЕЛУ ПОПОВАЦ астављају се радови на канализационој мрежи и због њих се обуставља саобраћај у улици Милета Ђурђановића, на простору од подвожњака ка центру села. Радови се одвијајау целе недеље и за то време остаје обавештење о прекиду саобраћаја свакога дана од 8 до 15 часова на поменутој локацији",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-300/"
-    },
-    {
-      "id": "d8962accc40d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-30",
-      "areaLabel": "Апеловац",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Душана Поповића код броја 64"
-      ],
-      "reason": null,
-      "note": "ХАВАРИЈА У НАСЕЉУ АПЕЛОВАЦ еопходан је ископ у улици Душана Поповића код броја 64. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 часова у поменутој улици",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-300/"
-    },
-    {
-      "id": "308deae59e9f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-30",
-      "areaLabel": "Берчинац",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Маринка Маџгаља код броја 9"
-      ],
-      "reason": null,
-      "note": "ПОПРАВКА МРЕЖЕ У СЕЛУ БЕРЧИНАЦ адови на мрежи у улици Маринка Маџгаља код броја 9. Због интервенције биће у прекиду водоснабдевање до 15 часова на простору села Берчинац",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-300/"
-    },
-    {
-      "id": "6869c6317d99",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-30",
-      "areaLabel": "Лалинске Појате",
-      "time": {
-        "start": null,
-        "end": "19:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "У току је интервенција настала радовима трећег лица код моста у селу Лалинске појате. Због поправке водоводне мреже у  прекиду је водоснабдевање до 19 часова на простору села Лалинске појате.",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%bf%d0%be%d0%bf%d1%80%d0%b0%d0%b2%d0%ba%d0%b0-%d0%ba%d0%b2%d0%b0%d1%80%d0%b0-%d1%83-%d1%81%d0%b5%d0%bb%d1%83-%d0%bb%d0%b0%d0%bb%d0%b8%d0%bd%d1%81%d0%ba%d0%b5-%d0%bf%d0%be%d1%98%d0%b0%d1%82%d0%b5-2/"
-    },
-    {
-      "id": "1e4b46e66483",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-30",
-      "areaLabel": "Ниш",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "РАДОВИ НА МРЕЖИ У ЉУБЕРАЂИ отребни су ископи у Лужничкој улици бб, као и од моста према цркви. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 часова на простору села Љуберађа",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-300/"
-    },
-    {
-      "id": "d77385fcecf5",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-30",
-      "areaLabel": "Ниш",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Светозара Марковића код броја 28"
-      ],
-      "reason": null,
-      "note": "ПОПРАВКА ПРИКЉУЧНЕ ВЕЗЕ У ЦЕНТРУ ГРАДА отребан је ископ у улици Светозара Марковића код броја 28. Због радова биће у прекиду водоснабдевање до 15 часова у наведеној улици, али је могућ краћи прекид на простору између улица Књегиње Љубице и Обреновићеве",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-300/"
-    },
-    {
-      "id": "b2b38203f3bc",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-10-30",
-      "areaLabel": "Ниш",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Владимира Јакшића",
-        "Стевана Павловића",
-        "Градачкој"
-      ],
-      "reason": null,
-      "note": "ИНТЕРВЕНЦИЈЕ У КНЕЗ СЕЛУ ужан је ископ у улицама Владимира Јакшића, Стевана Павловића и Градачкој. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 часова на простору Кнез Села",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d0%b8%d0%b4-300/"
-    },
-    {
       "id": "463ab18d2673",
       "utility": "water",
       "kind": "planned",
@@ -615,26 +498,6 @@
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-210/"
     },
     {
-      "id": "067f0ffc6246",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "08:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "делови улица Његошеве",
-        "Мишарске",
-        "Станоја Бунушевца",
-        "Церске и Горичке;"
-      ],
-      "reason": null,
-      "note": "делови улица Његошеве, Мишарске, Станоја Бунушевца, Церске и Горичке;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "634c82ddcccb",
       "utility": "water",
       "kind": "emergency",
@@ -650,41 +513,6 @@
       "reason": null,
       "note": "ПРЕКИД САОБРАЋАЈА У СЕЛУ ПОПОВАЦ астављају се радови на канализационој мрежи и због истих се обуставља саобраћај у улици Милета Ђурђановића, на простору од подвожњака ка центру села. Радови се одвијају и ове недеље и због тога остаје обавештење о прекиду саобраћаја свакога дана од 8 до 15 часова на поменутој локацији",
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-211/"
-    },
-    {
-      "id": "7075c18ead14",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "08:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "делови улица Книнске и Др Војислава Вучковића;"
-      ],
-      "reason": null,
-      "note": "делови улица Книнске и Др Војислава Вучковића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "aa6a6af4f510",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "15:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "делови улица Епископске и Хајдук Вељкове (48",
-        "50);"
-      ],
-      "reason": null,
-      "note": "делови улица Епископске и Хајдук Вељкове (48,50);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a16ccb4900a1",
@@ -838,7 +666,7 @@
       ],
       "reason": null,
       "note": "делови Дравске (1-28), Војводе Путника (парни бр. 8-14);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "4217991b3cc0",
@@ -860,7 +688,7 @@
       ],
       "reason": null,
       "note": "делови Хиландарске (11-28), Срђана Алексића (14,16), Станка Власотинчанина (1,8,8б);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "5ad590ddf0a6",
@@ -877,15 +705,10 @@
       ],
       "reason": null,
       "note": "део Доњег Међурова;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-08",
-      "electricityOutages": 2,
-      "waterOutages": 7
-    },
     {
       "date": "2026-10-09",
       "electricityOutages": 6,
@@ -1030,6 +853,11 @@
       "date": "2026-11-06",
       "electricityOutages": 3,
       "waterOutages": 7
+    },
+    {
+      "date": "2026-11-07",
+      "electricityOutages": 0,
+      "waterOutages": 1
     }
   ]
 }

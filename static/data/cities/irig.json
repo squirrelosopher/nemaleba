@@ -5,13 +5,26 @@
     "nameLatin": "Irig",
     "branchCyrillic": "Рума"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-08",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
+      "id": "0d0e96e771fa",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Ириг",
+      "time": {
+        "start": "10:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Врдник: ТС Старчевић; ТС Докић; Викенд насеље Валдов"
+      ],
+      "reason": null,
+      "note": "Врдник: ТС Старчевић; ТС Докић; Викенд насеље Валдов",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-09",
       "electricityOutages": 1,
@@ -154,6 +167,11 @@
     },
     {
       "date": "2026-11-06",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
       "electricityOutages": 0,
       "waterOutages": 0
     }

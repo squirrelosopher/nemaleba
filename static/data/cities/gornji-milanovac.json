@@ -7,28 +7,6 @@
   },
   "outages": [
     {
-      "id": "fc6171621f29",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Горњи Милановац",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "села од Љутовице према Шилопају (Накучани",
-        "Шилопај",
-        "Крива река",
-        "Давидовица",
-        "Церова",
-        "Мутањ)"
-      ],
-      "reason": null,
-      "note": "села од Љутовице према Шилопају (Накучани,Шилопај,Крива река,Давидовица,Церова,Мутањ)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "73b3444b0f87",
       "utility": "electricity",
       "kind": "planned",
@@ -43,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље код фирме \"РОЛОФЛЕКС\".",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "42f778e3e76e",
@@ -63,15 +41,10 @@
       ],
       "reason": null,
       "note": "У селима од Накучана према Шилопају ,Давидовици,Мутњу,Церови и Кривој Реци.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-08",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-09",
       "electricityOutages": 0,
@@ -214,6 +187,11 @@
     },
     {
       "date": "2026-11-06",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
       "electricityOutages": 1,
       "waterOutages": 0
     }

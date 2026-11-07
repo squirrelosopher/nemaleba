@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "7cdf785fff7a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Мали Зворник",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Доња Борина и Брасина"
-      ],
-      "reason": null,
-      "note": "Доња Борина и Брасина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c754bf256ca3",
       "utility": "electricity",
       "kind": "planned",
@@ -38,15 +21,27 @@
       ],
       "reason": null,
       "note": "Брасина и то засеоци: Пумпе, Вискоза мода, Речани, Костићи и Мишићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "cf4829599d71",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Мали Зворник",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Доњи и Горњи Читлук"
+      ],
+      "reason": null,
+      "note": "Доњи и Горњи Читлук",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-08",
-      "electricityOutages": 3,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-09",
       "electricityOutages": 3,
@@ -190,6 +185,11 @@
     {
       "date": "2026-11-06",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

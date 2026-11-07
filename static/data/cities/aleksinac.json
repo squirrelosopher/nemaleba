@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "28a43f68dd33",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Доњи Адровац и део Прћиловице од Доњег Адровца до скретања за Сухиотно"
-      ],
-      "reason": null,
-      "note": "Доњи Адровац и део Прћиловице од Доњег Адровца до скретања за Сухиотно",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "16a26ab12318",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део Житковца око Монопола"
-      ],
-      "reason": null,
-      "note": "део Житковца око Монопола",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2847fac46c7a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "13:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Житковачки Пут-Индустријска зона"
-      ],
-      "reason": null,
-      "note": "Житковачки Пут-Индустријска зона,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7212a8fbe93a",
       "utility": "electricity",
       "kind": "planned",
@@ -73,7 +22,7 @@
       ],
       "reason": null,
       "note": "у Алексинцу, део Микро Насеља",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "4183bbd24037",
@@ -91,7 +40,7 @@
       ],
       "reason": null,
       "note": "у Алексинцу, депо Новог Насеља према Глоговици",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "5a107836a34d",
@@ -109,15 +58,10 @@
       ],
       "reason": null,
       "note": "У Алексинцу, насеље Делнице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-08",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-09",
       "electricityOutages": 1,
@@ -261,6 +205,11 @@
     {
       "date": "2026-11-06",
       "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

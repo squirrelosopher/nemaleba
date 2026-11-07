@@ -5,32 +5,8 @@
     "nameLatin": "Gadžin Han",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "7856bc2348fa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-06",
-      "areaLabel": "Гаџин Хан",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Мали и Велики Крчимир",
-        "Равна Дубрава и Горњи и Доњи Присјан;"
-      ],
-      "reason": null,
-      "note": "Мали и Велики Крчимир, Равна Дубрава и Горњи и Доњи Присјан;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-08",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-09",
       "electricityOutages": 0,
@@ -174,6 +150,11 @@
     {
       "date": "2026-11-06",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-07",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]
