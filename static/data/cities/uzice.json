@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "e96228910f1c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-07",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Луновог Села на изводу за Антонијевиће",
-        "Пониковица и Антонијевићи."
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Луновог Села на изводу за Антонијевиће, Пониковица и Антонијевићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d5ea8d827b9f",
       "utility": "electricity",
       "kind": "planned",
@@ -40,15 +22,10 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Луновог Села на изводу за Антонијевиће, Пониковица и Антонијевићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-09",
-      "electricityOutages": 7,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-10",
       "electricityOutages": 4,
@@ -192,6 +169,11 @@
     {
       "date": "2026-11-07",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-08",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

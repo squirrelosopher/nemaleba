@@ -61,6 +61,18 @@
       "sourceUrl": "https://vodovodva.co.rs/radino_brdo_05112026/"
     },
     {
+      "id": "1d34748d4a57",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-08",
+      "areaLabel": "Ваљево",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због хаварије на примарном цевоводу, без водоснабдевања су потрошачи на Дивчибарама. Нормализација водоснабдевања се очекује у раним поподневним сатима 08.11.2026.",
+      "sourceUrl": "https://vodovodva.co.rs/07112026-2/"
+    },
+    {
       "id": "8fa377cbf0ca",
       "utility": "electricity",
       "kind": "planned",
@@ -75,15 +87,10 @@
       ],
       "reason": null,
       "note": "Купци дела села Таор (мравинци ка Лесковицама)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-09",
-      "electricityOutages": 0,
-      "waterOutages": 1
-    },
     {
       "date": "2026-10-10",
       "electricityOutages": 0,
@@ -228,6 +235,11 @@
       "date": "2026-11-07",
       "electricityOutages": 0,
       "waterOutages": 0
+    },
+    {
+      "date": "2026-11-08",
+      "electricityOutages": 0,
+      "waterOutages": 1
     }
   ]
 }

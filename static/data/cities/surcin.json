@@ -21,15 +21,10 @@
       ],
       "reason": null,
       "note": "Насеље СУРЧИН: ТРГ ЗОРАНА ЂИНЂИЋА: 99-119А,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-09",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-10",
       "electricityOutages": 0,
@@ -173,6 +168,11 @@
     {
       "date": "2026-11-07",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-08",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]
