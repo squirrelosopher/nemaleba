@@ -5,7 +5,25 @@
     "nameLatin": "Crveni krst",
     "branchCyrillic": "Ниш"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "bc0b397aa8ec",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Црвени крст",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део Трупала;"
+      ],
+      "reason": null,
+      "note": "део Трупала;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-11",

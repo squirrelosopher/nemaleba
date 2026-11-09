@@ -5,7 +5,25 @@
     "nameLatin": "Niška Banja",
     "branchCyrillic": "Ниш"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "ae1f63e71740",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Нишка бања",
+      "time": {
+        "start": "09:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "део Јелашнице;"
+      ],
+      "reason": null,
+      "note": "део Јелашнице;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-11",

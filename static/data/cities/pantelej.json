@@ -5,7 +5,47 @@
     "nameLatin": "Pantelej",
     "branchCyrillic": "Ниш"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "a873829d9d5a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "делови улица Златиборске",
+        "Илинденске",
+        "Лудвига Хиршфелда и Косовке девојке;"
+      ],
+      "reason": null,
+      "note": "делови улица Златиборске, Илинденске, Лудвига Хиршфелда и Косовке девојке;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "8d92f6c18e4e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "15:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "делови улица Димитрија Големовића",
+        "Др Петра Петровића",
+        "Стојана Анастасијевића",
+        "Зорана Радосављевића – Чупе и Врежинског Булевара;"
+      ],
+      "reason": null,
+      "note": "делови улица Димитрија Големовића, Др Петра Петровића, Стојана Анастасијевића, Зорана Радосављевића – Чупе и Врежинског Булевара;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-11",

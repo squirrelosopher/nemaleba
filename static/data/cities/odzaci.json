@@ -5,7 +5,42 @@
     "nameLatin": "Odžaci",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "93cae11c35b3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Оџаци",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Оџаци: Карађорђева, део Сомборске."
+      ],
+      "reason": null,
+      "note": "Оџаци: Карађорђева, део Сомборске.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "4ec9220f6aa5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Оџаци",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Селенча: Пролетерска, И.Л.Рибара, део М.Тита, С.Марковића."
+      ],
+      "reason": null,
+      "note": "Селенча: Пролетерска, И.Л.Рибара, део М.Тита, С.Марковића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-11",

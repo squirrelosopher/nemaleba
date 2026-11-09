@@ -5,7 +5,59 @@
     "nameLatin": "Brus",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "96ce726eb960",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Брус",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Део насељеног места Лепенац."
+      ],
+      "reason": null,
+      "note": "Део насељеног места Лепенац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e480b87c4fe4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Брус",
+      "time": {
+        "start": "11:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "Део насељеног места Тршановци."
+      ],
+      "reason": null,
+      "note": "Део насељеног места Тршановци.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "acbf36272552",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Брус",
+      "time": {
+        "start": "13:00",
+        "end": "14:30"
+      },
+      "streets": [
+        "Део насељеног места Брзеће."
+      ],
+      "reason": null,
+      "note": "Део насељеног места Брзеће.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-11",

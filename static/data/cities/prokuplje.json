@@ -58,6 +58,99 @@
       "reason": null,
       "note": "Део Улице Новоселска",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "1942fb8c3541",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Појатска.Доситејева",
+        "део Новоселске",
+        "Дом ученика",
+        "Пољопривредна школа",
+        "села од Нове Божурне правац Костадиновац и даље према Расовачи",
+        "Старој Божурни и Подини."
+      ],
+      "reason": null,
+      "note": "Појатска.Доситејева,део Новоселске,Дом ученика,Пољопривредна школа,села од Нове Божурне правац Костадиновац и даље према Расовачи,Старој Божурни и Подини.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "d27d591c8ed8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Фритеч",
+        "Ауто школа СМЕР",
+        "Историјски архив",
+        "стовариште Бели и Стаменковић и Јабука"
+      ],
+      "reason": null,
+      "note": "Фритеч,Ауто школа СМЕР,Историјски архив,стовариште Бели и Стаменковић и Јабука",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "71ff74534218",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Део ул. Крушевачка"
+      ],
+      "reason": null,
+      "note": "Део ул. Крушевачка",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "25b50294964d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "10:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Новоселска"
+      ],
+      "reason": null,
+      "note": "Новоселска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "a83d7ff8f413",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "12:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Злокућане"
+      ],
+      "reason": null,
+      "note": "Злокућане",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

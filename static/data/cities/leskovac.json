@@ -5,7 +5,63 @@
     "nameLatin": "Leskovac",
     "branchCyrillic": "Лесковац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f0b40e9fd2b7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Лесковац",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Велика Грабовница -Рајковци",
+        "Мала Грабовница",
+        "Загужане и Зољево"
+      ],
+      "reason": null,
+      "note": "Велика Грабовница -Рајковци, Мала Грабовница, Загужане и Зољево",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "25fe0c62a954",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Лесковац",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Тупаловце"
+      ],
+      "reason": null,
+      "note": "Тупаловце",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "ebc235c9a411",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Лесковац",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Велика Грабовница -Рајковци",
+        "Мала Грабовница",
+        "Загужане и Зољево"
+      ],
+      "reason": null,
+      "note": "Велика Грабовница -Рајковци, Мала Грабовница, Загужане и Зољево",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-11",

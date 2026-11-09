@@ -228,23 +228,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "9db8a6a39984",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Бачки Виногради: Страна Киришка у околини."
-      ],
-      "reason": null,
-      "note": "Бачки Виногради: Страна Киришка у околини.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "a0fbeac02a7f",
       "utility": "electricity",
       "kind": "planned",
@@ -259,6 +242,23 @@
       ],
       "reason": null,
       "note": "Суботица у улицама и деловима улица са околином: почетак Браће Радића (непарна страна од 1 до 9), Цара Душана, Владимира Назора (3, 5, 6, 7, 8, 9), део Бранислава Нушића између Цара Душана и Владимира Назора, део Максима Горког (кућни бројеви 4, 6, 8, 10) и Корзо бр. 6.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "9db8a6a39984",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Суботица",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Бачки Виногради: Страна Киришка у околини."
+      ],
+      "reason": null,
+      "note": "Бачки Виногради: Страна Киришка у околини.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
@@ -354,6 +354,125 @@
       "reason": null,
       "note": "Суботица: Филипа Кљајића ( од бројева 6 и 9 до краја ) , и Руђера Бошковића ( бројеви 42 и 53 ).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a19dec296710",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Суботица",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Суботица: Кирешка ( између Хероја Пинкија и Партизанских база ) и Партизанских база ( 128,130 )."
+      ],
+      "reason": null,
+      "note": "Суботица: Кирешка ( између Хероја Пинкија и Партизанских база ) и Партизанских база ( 128,130 ).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "d1b2c8ed66c0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Суботица",
+      "time": {
+        "start": "09:10",
+        "end": "09:45"
+      },
+      "streets": [
+        "Суботица: део Димитрије Туцовића ( непарна страна - од кућног броја 5 до 15, парна страна - од кућног броја 8А до 16 ), Суботе Врлића бр.( 1,2,3,4,7 ), део Змај Јовине ( кућни број 6 и 10 ), Трг Синагоге, Трг Јакоба и Коморе ББ, Цара Лазара.бр.3."
+      ],
+      "reason": null,
+      "note": "Суботица: део Димитрије Туцовића ( непарна страна - од кућног броја 5 до 15, парна страна - од кућног броја 8А до 16 ), Суботе Врлића бр.( 1,2,3,4,7 ), део Змај Јовине ( кућни број 6 и 10 ), Трг Синагоге, Трг Јакоба и Коморе ББ, Цара Лазара.бр.3.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "7140e19e0cf5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Суботица",
+      "time": {
+        "start": "10:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Суботица: Лошињска између бр.( 7 и 67 ), Лозничка, Балканска бр.15."
+      ],
+      "reason": null,
+      "note": "Суботица: Лошињска између бр.( 7 и 67 ), Лозничка, Балканска бр.15.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "7f6066ae3f09",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Суботица",
+      "time": {
+        "start": "10:10",
+        "end": "10:55"
+      },
+      "streets": [
+        "Суботица: почетак Димитрија Туцовића (до кућних бројева 3 и 8), део трга Републике (од Рудић улице до хотела \"Глориа\" и кућни бројеви 2, 4, 6, 8 и 10 - околоина Пеливана), почетак Рудић улице (кућни број 2), део трга Цара Јована Ненада (кућни број 9)."
+      ],
+      "reason": null,
+      "note": "Суботица: почетак Димитрија Туцовића (до кућних бројева 3 и 8), део трга Републике (од Рудић улице до хотела \"Глориа\" и кућни бројеви 2, 4, 6, 8 и 10 - околоина Пеливана), почетак Рудић улице (кућни број 2), део трга Цара Јована Ненада (кућни број 9).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "3472c81aba72",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Суботица",
+      "time": {
+        "start": "11:10",
+        "end": "11:55"
+      },
+      "streets": [
+        "Суботица: трг Слободе 1 (СТАРА ГРАДСКА КУЋА), део Стросмајерове (бројеви 2, 4, 6, 7, 8, 9 и 10), део Петра Драпшина (бројеви 1, 2, 4, 6)."
+      ],
+      "reason": null,
+      "note": "Суботица: трг Слободе 1 (СТАРА ГРАДСКА КУЋА), део Стросмајерове (бројеви 2, 4, 6, 7, 8, 9 и 10), део Петра Драпшина (бројеви 1, 2, 4, 6).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "f03670b15197",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Суботица",
+      "time": {
+        "start": "12:10",
+        "end": "12:55"
+      },
+      "streets": [
+        "Суботица: почетак Браће Радића (парна страна од кућних бројева 4 до 14), Аге Мамужића. Албе Малагурског, део Штросмајерове (парна страна од кућних броја 12 до 18), Максима горког 14 и Трг Слободе (бр. 3, 5, 6)."
+      ],
+      "reason": null,
+      "note": "Суботица: почетак Браће Радића (парна страна од кућних бројева 4 до 14), Аге Мамужића. Албе Малагурског, део Штросмајерове (парна страна од кућних броја 12 до 18), Максима горког 14 и Трг Слободе (бр. 3, 5, 6).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "9c3b9d5f51ae",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Суботица",
+      "time": {
+        "start": "13:10",
+        "end": "13:55"
+      },
+      "streets": [
+        "Суботица: Део Браће Радић ( парна страна- између Еугена Кумичића и Масарикове, и непарна бр.79 ), Шолохова ( између Грге Ћеваповића и Масарикове ), Андрије Медулића ( између Шолохове и Масрикове ) и Корушка."
+      ],
+      "reason": null,
+      "note": "Суботица: Део Браће Радић ( парна страна- између Еугена Кумичића и Масарикове, и непарна бр.79 ), Шолохова ( између Грге Ћеваповића и Масарикове ), Андрије Медулића ( између Шолохове и Масрикове ) и Корушка.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
