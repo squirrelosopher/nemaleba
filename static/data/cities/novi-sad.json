@@ -282,6 +282,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "83047519c6a0",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-09",
+      "areaLabel": "Ветерник",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Адиђарска и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Адиђарска и околне улице у Ветернику.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-ponedeljak-9-11-2026/"
+    },
+    {
       "id": "107e46c9fa5d",
       "utility": "water",
       "kind": "emergency",
@@ -448,7 +465,7 @@
     {
       "date": "2026-11-09",
       "electricityOutages": 6,
-      "waterOutages": 2
+      "waterOutages": 3
     }
   ]
 }
