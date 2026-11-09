@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-08T21:57:11.403Z",
+  "generatedAt": "2026-11-09T03:11:14.358Z",
   "summary": {
-    "date": "2026-11-08",
-    "electricityOutages": 145,
-    "waterOutages": 3,
+    "date": "2026-11-09",
+    "electricityOutages": 143,
+    "waterOutages": 1,
     "affected": [
       {
         "id": "subotica",
@@ -14,7 +14,7 @@
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 15,
+        "electricityOutages": 14,
         "waterOutages": 0
       },
       {
@@ -66,12 +66,6 @@
         "waterOutages": 0
       },
       {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 3,
-        "waterOutages": 1
-      },
-      {
         "id": "topola",
         "nameCyrillic": "Топола",
         "electricityOutages": 4,
@@ -80,6 +74,12 @@
       {
         "id": "aleksinac",
         "nameCyrillic": "Алексинац",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -112,12 +112,6 @@
         "nameCyrillic": "Блаце",
         "electricityOutages": 2,
         "waterOutages": 0
-      },
-      {
-        "id": "valjevo",
-        "nameCyrillic": "Ваљево",
-        "electricityOutages": 1,
-        "waterOutages": 1
       },
       {
         "id": "zrenjanin",
@@ -192,6 +186,12 @@
         "waterOutages": 0
       },
       {
+        "id": "valjevo",
+        "nameCyrillic": "Ваљево",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
         "id": "velika-plana",
         "nameCyrillic": "Велика Плана",
         "electricityOutages": 1,
@@ -236,12 +236,6 @@
       {
         "id": "novi-knezevac",
         "nameCyrillic": "Нови Кнежевац",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "petrovac",
-        "nameCyrillic": "Петровац",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -296,11 +290,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-10-10",
-      "electricityOutages": 17,
-      "waterOutages": 1
-    },
     {
       "date": "2026-10-11",
       "electricityOutages": 13,
@@ -445,6 +434,11 @@
       "date": "2026-11-08",
       "electricityOutages": 2,
       "waterOutages": 2
+    },
+    {
+      "date": "2026-11-09",
+      "electricityOutages": 81,
+      "waterOutages": 1
     }
   ],
   "providers": [
