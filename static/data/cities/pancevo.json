@@ -39,23 +39,6 @@
       "sourceUrl": "https://www.vodovodpa.rs/2026/11/05/5-11-2026/"
     },
     {
-      "id": "81af6af9f5aa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "09:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Старчево: Жарка Зрењанина од В.Караџића до Војвођанске."
-      ],
-      "reason": null,
-      "note": "Старчево: Жарка Зрењанина од В.Караџића до Војвођанске.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "970a51ad7ec7",
       "utility": "electricity",
       "kind": "planned",
@@ -70,7 +53,24 @@
       ],
       "reason": null,
       "note": "Старчево: Маршала Тита од В.Караџића до Војвођанске, Вука Караџића од Бориса Кидрича до Маршала Тита.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "3184f29e6027",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:00",
+        "end": "10:30"
+      },
+      "streets": [
+        "Панчево: део Летње улице од Рибарске до Јабучког пута."
+      ],
+      "reason": null,
+      "note": "Панчево: део Летње улице од Рибарске до Јабучког пута.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

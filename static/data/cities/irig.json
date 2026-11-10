@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Врдник: ТС Старчевић; ТС Докић; Викенд насеље Валдов",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "029f7c6b9c73",
@@ -38,6 +38,40 @@
       ],
       "reason": null,
       "note": "Ириг: Крсташице у викенд насељу Крсташице.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "30e71d53956a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Ириг",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Ириг: Јакова Игњатовића у викенд насељу Крсташице."
+      ],
+      "reason": null,
+      "note": "Ириг: Јакова Игњатовића у викенд насељу Крсташице.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "7367c226d9b0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Ириг",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Ириг: Улица Крсташице у викенд насељу Крсташице, ресторан и станови на Иришком Венцу, Инфо центар на Иришком Венцу"
+      ],
+      "reason": null,
+      "note": "Ириг: Улица Крсташице у викенд насељу Крсташице, ресторан и станови на Иришком Венцу, Инфо центар на Иришком Венцу",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

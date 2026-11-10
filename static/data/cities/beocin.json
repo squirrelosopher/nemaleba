@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "0903e7241990",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Беочин",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "\"Беочин: Шакотинац; Бразилија; Међе у Черевићу;\r\nТЕЛЕФОНИЈА; ПРИМАЕНЕРГИ; ПАЛЕТА С\""
-      ],
-      "reason": null,
-      "note": "\"Беочин: Шакотинац; Бразилија; Међе у Черевићу;\r\nТЕЛЕФОНИЈА; ПРИМАЕНЕРГИ; ПАЛЕТА С\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "0912ceb9f5c8",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Баноштор: Поторањ; Текниш поток - цела села",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

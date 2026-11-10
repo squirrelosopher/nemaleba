@@ -7,91 +7,6 @@
   },
   "outages": [
     {
-      "id": "d07f1d6edfd3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "08:00",
-        "end": "08:30"
-      },
-      "streets": [
-        "Чортановци: Део викенд насеља Тидија 2"
-      ],
-      "reason": null,
-      "note": "Чортановци: Део викенд насеља Тидија 2",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f6bc3f47187a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "\"Сл. Виногради: ул. Владимира Хурбана од ул.Ј.Витеза до краја улице;\r\nДео ул.Јанка Чмелика\""
-      ],
-      "reason": null,
-      "note": "\"Сл. Виногради: ул. Владимира Хурбана од ул.Ј.Витеза до краја улице;\r\nДео ул.Јанка Чмелика\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a36aa89c0593",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:30",
-        "end": "10:00"
-      },
-      "streets": [
-        "Сл. Виногради: Део викенд насеља Јанде 7"
-      ],
-      "reason": null,
-      "note": "Сл. Виногради: Део викенд насеља Јанде 7",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c19f86228565",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "10:30",
-        "end": "11:00"
-      },
-      "streets": [
-        "Сл. Виногради: Део викенд насеља Крст ралица"
-      ],
-      "reason": null,
-      "note": "Сл. Виногради: Део викенд насеља Крст ралица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "463a1f53a2b8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "11:30",
-        "end": "12:00"
-      },
-      "streets": [
-        "Сл. Виногради: Део викенд насеља Почента 1"
-      ],
-      "reason": null,
-      "note": "Сл. Виногради: Део викенд насеља Почента 1",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d7cbdf2224a2",
       "utility": "electricity",
       "kind": "planned",
@@ -106,7 +21,7 @@
       ],
       "reason": null,
       "note": "Сл Виногради: Део викенд зоне Јанда 5",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b784645ddaa0",
@@ -123,6 +38,23 @@
       ],
       "reason": null,
       "note": "Инђија: Део улице Брунова око бр.14",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "9e993461165c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Чортановци: Д.Петковића; Пролетерска; Радмиле Васиљевић; И.Л.Рибар; Т.Јовића; Железничка; Дунавска; Викенд зона Железничка; Београдска; Вељка Влаховића; М.Тита од бр.1/2 до бр.73; Партизанска од бр.1/2 до улице Сокаче; Сокаче; В.Грбића; Фрушкогорска; П.П.Одреда; Ђурђевска; Карловачка; С.Ћурћића; Ђ.Бегојева; В.Војновића; Крушке; В.Синђелића."
+      ],
+      "reason": null,
+      "note": "Чортановци: Д.Петковића; Пролетерска; Радмиле Васиљевић; И.Л.Рибар; Т.Јовића; Железничка; Дунавска; Викенд зона Железничка; Београдска; Вељка Влаховића; М.Тита од бр.1/2 до бр.73; Партизанска од бр.1/2 до улице Сокаче; Сокаче; В.Грбића; Фрушкогорска; П.П.Одреда; Ђурђевска; Карловачка; С.Ћурћића; Ђ.Бегојева; В.Војновића; Крушке; В.Синђелића.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

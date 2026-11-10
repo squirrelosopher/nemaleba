@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "37595b289898",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Стара Пазова",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Стари Бановци: ул.П.Чодановића од ул.Сремска до краја улице"
-      ],
-      "reason": null,
-      "note": "Стари Бановци: ул.П.Чодановића од ул.Сремска до краја улице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "2d1a3b301596",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Нова Пазова: Младена Стојановића од Гаврила Принципа до Хиландарске.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "ef5e05a08df7",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Голубинци: Ђурђевска 1-117, 2-106; Фрушкогорска; Пркос; Инђијска; Гробљанска; Сремска; Војвођанска; М.Пупина; Николе Тесле; Будоварска; Марадичка; Железничка од бр.9/22 до краја улице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "763564ad570f",
@@ -72,6 +55,40 @@
       ],
       "reason": null,
       "note": "Стари Бановци: Пере Чодановића парна страна од Сремске до Милоша Давидовића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "7f0aa714ef02",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Стара Пазова",
+      "time": {
+        "start": "08:00",
+        "end": "09:30"
+      },
+      "streets": [
+        "\"Нова Пазова: Цвије Кукоља од бр.81/100 до краја улице; Београдска;\r\nКрајишка од бр.11 до краја улице.\""
+      ],
+      "reason": null,
+      "note": "\"Нова Пазова: Цвије Кукоља од бр.81/100 до краја улице; Београдска;\r\nКрајишка од бр.11 до краја улице.\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "85cce1d74e79",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Стара Пазова",
+      "time": {
+        "start": "10:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Нови Бановци: Земунска – парна страна од бр.2 до улице Бургена; Бургена од Земунске до Б.Ћопић."
+      ],
+      "reason": null,
+      "note": "Нови Бановци: Земунска – парна страна од бр.2 до улице Бургена; Бургена од Земунске до Б.Ћопић.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

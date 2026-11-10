@@ -24,7 +24,7 @@
       ],
       "reason": null,
       "note": "Део Јошеве, Каменица, Милина, Трбосиље и Цер",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e9ca71aab38a",
@@ -44,7 +44,7 @@
       ],
       "reason": null,
       "note": "Део Јошеве, Каменица, Милина, Трбосиље и Цер",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "aad963b3d4de",
@@ -61,6 +61,24 @@
       ],
       "reason": null,
       "note": "Сточни пијац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "f8e7535aed5f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Доњи Добрић засеоци Костадиновићи",
+        "Доња мала и Бареш"
+      ],
+      "reason": null,
+      "note": "Доњи Добрић засеоци Костадиновићи , Доња мала и Бареш",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],

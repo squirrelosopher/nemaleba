@@ -5,7 +5,27 @@
     "nameLatin": "Despotovac",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "c153c3bb2753",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Деспотовац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део Великог Поповића и фирме",
+        "Украс \"и",
+        "млин Јовић\""
+      ],
+      "reason": null,
+      "note": "део Великог Поповића и фирме ,, Украс \"и ,,млин Јовић\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-12",

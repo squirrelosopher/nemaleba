@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "d03176170096",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "08:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "делови Дравске (1-28)",
-        "Војводе Путника (парни бр. 8-14);"
-      ],
-      "reason": null,
-      "note": "делови Дравске (1-28), Војводе Путника (парни бр. 8-14);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5ad590ddf0a6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "15:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "део Доњег Међурова;"
-      ],
-      "reason": null,
-      "note": "део Доњег Међурова;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "4930ecd281d9",
       "utility": "electricity",
       "kind": "planned",
@@ -57,7 +22,7 @@
       ],
       "reason": null,
       "note": "делови улица Димитрија Туцовића, Добрице Ћосића и Борислава Прекића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b0be2d9b607f",
@@ -82,7 +47,7 @@
       ],
       "reason": null,
       "note": "делови улица Бранка Миљковића, Јужноморавских бригада, 27. Марта, Јосипа Краша, Коче Рацина, Милоја Закића, Љубе Илића – Столета, Маријана Бадела, Проте Гагулића и Златка Балоковића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e2f080bffea3",
@@ -106,7 +71,7 @@
       ],
       "reason": null,
       "note": "делови улица Бубањске, Милана Бакића, Танасија Михајловића – Шпанца, Бубањске долине, Змаја од ноћаја, Милоша Ђурића, Требињске, Петра Коњовића и Калач Брда;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

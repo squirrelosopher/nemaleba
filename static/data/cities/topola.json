@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "e7ad42e875e2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Топола",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Без напајања ће бити део Крфске улице у с.Белосавци (Од ливнице Лиграп до репетитора)"
-      ],
-      "reason": null,
-      "note": "Без напајања ће бити део Крфске улице у с.Белосавци (Од ливнице Лиграп до репетитора)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "2c79e67736a7",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +22,7 @@
       ],
       "reason": null,
       "note": "Без напајања ће бити села:Винча,Пласковац и Пласковачки пут",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3dc10d0176a6",
@@ -56,7 +39,7 @@
       ],
       "reason": null,
       "note": "Без напајања ће бити део улице Солунских ратника у с.Липовцу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "13f825c29a99",
@@ -74,7 +57,7 @@
       ],
       "reason": null,
       "note": "Без напајања ће бити села:Јунковац,Горович и Шуме",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9ec32b07ae06",
@@ -94,7 +77,7 @@
       ],
       "reason": null,
       "note": "Без напајања ће бити Божурња,Овсиште,Г.Трнава,Д.Трнава и део насеља испод ливнице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

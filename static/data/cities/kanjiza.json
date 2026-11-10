@@ -7,93 +7,6 @@
   },
   "outages": [
     {
-      "id": "35fa06d4a464",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "08:30",
-        "end": "09:15"
-      },
-      "streets": [
-        "Мартонош: Пролетерска, Радничка, Северска, М. Тита (од Пролетерске према Железничкој станици)."
-      ],
-      "reason": null,
-      "note": "Мартонош: Пролетерска, Радничка, Северска, М. Тита (од Пролетерске према Железничкој станици).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c70c2cd95b48",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "09:30",
-        "end": "10:15"
-      },
-      "streets": [
-        "Мартонош: М. Тита (од Ратка Крстеканића према железничкој станици), Ратка Крстеканића."
-      ],
-      "reason": null,
-      "note": "Мартонош: М. Тита (од Ратка Крстеканића према железничкој станици), Ратка Крстеканића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "34bbf272e948",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "10:30",
-        "end": "11:15"
-      },
-      "streets": [
-        "Мартонош. Беркић Јожеф",
-        "М. Тита (од Беркићеве до Телек Паприке)",
-        "Трг Фискултуре."
-      ],
-      "reason": null,
-      "note": "Мартонош. Беркић Јожеф, М. Тита (од Беркићеве до Телек Паприке),Трг Фискултуре.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "cb0fe6a0ed1f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "11:30",
-        "end": "12:15"
-      },
-      "streets": [
-        "Мартонош: Шереш Геза, М. Тита (од Телек паприке до Шипош Иштвана)."
-      ],
-      "reason": null,
-      "note": "Мартонош: Шереш Геза, М. Тита (од Телек паприке до Шипош Иштвана).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "50efcca012a5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "12:30",
-        "end": "13:15"
-      },
-      "streets": [
-        "Мартонош: Петефи Шандора (од М. Тита до половине улице), М. Тита (од Шипош Иштвана до Јожеф Атиле)."
-      ],
-      "reason": null,
-      "note": "Мартонош: Петефи Шандора (од М. Тита до половине улице), М. Тита (од Шипош Иштвана до Јожеф Атиле).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "4a10e7944277",
       "utility": "electricity",
       "kind": "planned",
@@ -108,7 +21,7 @@
       ],
       "reason": null,
       "note": "Мартонош: Тиска, Ивана Милутиновића, Туру Шандор, Оковачки Ђорђе, Саве Ковачевића (од Ивана Милутиновића до Туру Шандора), Светозара Марковића (од Оковачки Ђође до Ивана Милутиновића).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "21606cd440b2",
@@ -125,7 +38,7 @@
       ],
       "reason": null,
       "note": "Мартонош: Јожеф Атиле, Виноградска, Петефи Шандора, Светозара Марковића (од Јожеф Атиле до Оковачки Ђорђе), Саве Ковачевића (од Јожеф Атиле до Туру Шандора).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "7bdfa3ce8bf1",
@@ -142,7 +55,7 @@
       ],
       "reason": null,
       "note": "Мартонош: Викенд насеље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "aadd678fa7d8",
@@ -159,7 +72,7 @@
       ],
       "reason": null,
       "note": "Трешњевац: Гробљанска, Виноградска (од Хорват Јаноша до Пекла Силвестер), 8 Март, Рекецки Петер, Хорват Јаноша.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

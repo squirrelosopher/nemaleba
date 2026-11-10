@@ -5,43 +5,7 @@
     "nameLatin": "Kuršumlija",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [
-    {
-      "id": "d94aeddc0bdd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Коњува(Прескоча)."
-      ],
-      "reason": null,
-      "note": "Коњува(Прескоча).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "641ef54c70a5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Космача-Соколовица",
-        "Новоселске Ливаде."
-      ],
-      "reason": null,
-      "note": "Космача-Соколовица ,Новоселске Ливаде.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-12",

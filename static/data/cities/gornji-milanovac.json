@@ -7,26 +7,6 @@
   },
   "outages": [
     {
-      "id": "42f778e3e76e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-09",
-      "areaLabel": "Горњи Милановац",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "У селима од Накучана према Шилопају",
-        "Давидовици",
-        "Мутњу",
-        "Церови и Кривој Реци."
-      ],
-      "reason": null,
-      "note": "У селима од Накучана према Шилопају ,Давидовици,Мутњу,Церови и Кривој Реци.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c53902ebe007",
       "utility": "electricity",
       "kind": "planned",
@@ -44,7 +24,27 @@
       ],
       "reason": null,
       "note": "У селима од Накучана према Шилопају ,Давидовици,Мутњу,Церови и Кривој Реци.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c1a9e6ffd616",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Горњи Милановац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "У селима од Накучана према Шилопају",
+        "Давидовици",
+        "Мутњу",
+        "Церови и Кривој Реци."
+      ],
+      "reason": null,
+      "note": "У селима од Накучана према Шилопају ,Давидовици,Мутњу,Церови и Кривој Реци.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

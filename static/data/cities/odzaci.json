@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Оџаци: Карађорђева, део Сомборске.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "4ec9220f6aa5",
@@ -38,6 +38,40 @@
       ],
       "reason": null,
       "note": "Селенча: Пролетерска, И.Л.Рибара, део М.Тита, С.Марковића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "29a62569d5be",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Оџаци",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "Оџаци: Жељезничка 28-38"
+      ],
+      "reason": null,
+      "note": "Оџаци: Жељезничка 28-38",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "84e987587e82",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Оџаци",
+      "time": {
+        "start": "12:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Бач: М. Тита 141-171 и 128-174, П. Кочића 1-15 и 2-20"
+      ],
+      "reason": null,
+      "note": "Бач: М. Тита 141-171 и 128-174, П. Кочића 1-15 и 2-20",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
