@@ -7,140 +7,6 @@
   },
   "outages": [
     {
-      "id": "5fe2b1f5934d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-02",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-02-11-2026/",
-      "areaLabel": "Грошница",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Краљевачки Батаљон"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Грошница, ул. Краљевачки Батаљон ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "bb7929dd7c19",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-02",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-02-11-2026/",
-      "areaLabel": "Јабучар",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Јурија Гагарина"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Хаваријска искључења на дан 02.11.2026. \n \n Јабучар, Јурија Гагарина ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "90a7400f70a7",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-02",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-02-11-2026/",
-      "areaLabel": "Центар",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "угао Светозара Марковића – Милована Гушића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Центар, угао Светозара Марковића – Милована Гушића ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "2f76ec3fb2cc",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-02",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-02-11-2026/",
-      "areaLabel": "Грошница",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Јужниморавских Бригада"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Грошница, ул. Јужниморавских Бригада ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "159144866d73",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-02",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-02-11-2026/",
-      "areaLabel": "Ердоглија",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Даничићева"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Ердоглија, ул. Даничићева ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "e8e01d5bdb9d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-02",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-02-11-2026/",
-      "areaLabel": "Илићево",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Бошка Бухе"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Илићево, ул. Бошка Бухе ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "7e5e8e9884a0",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-02",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-02-11-2026/",
-      "areaLabel": "Бресница",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Розе Луксембург"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Бресница, ул. Розе Луксембург ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "9fc33e5609e2",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-02",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-02-11-2026/",
-      "areaLabel": "Јовановић",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [],
-      "reason": "поправка хидранта",
-      "note": "Багребар, угао Д. Тодоровић – М. Јовановић ( од 16:00 до 19:00 часова ), поправка хидранта."
-    },
-    {
       "id": "f062d17bfc19",
       "utility": "water",
       "kind": "emergency",
@@ -1136,11 +1002,6 @@
   ],
   "history": [
     {
-      "date": "2026-10-11",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
-    {
       "date": "2026-10-12",
       "electricityOutages": 0,
       "waterOutages": 12
@@ -1284,6 +1145,11 @@
       "date": "2026-11-09",
       "electricityOutages": 2,
       "waterOutages": 12
+    },
+    {
+      "date": "2026-11-10",
+      "electricityOutages": 3,
+      "waterOutages": 0
     }
   ]
 }
