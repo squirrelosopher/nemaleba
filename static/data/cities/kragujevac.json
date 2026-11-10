@@ -7,157 +7,6 @@
   },
   "outages": [
     {
-      "id": "f062d17bfc19",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-03",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-03-11-2026/",
-      "areaLabel": "Грошница",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Јужноморавских бригада"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Хаваријска искључења на дан 03.11.2026. \n \n Грошница, ул. Јужноморавских бригада ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "34b1bf31c0b1",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-03",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-03-11-2026/",
-      "areaLabel": "Грошница",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Октобарских жртава"
-      ],
-      "reason": "квар у шахти",
-      "note": "Грошница, ул. Октобарских жртава ( од 08:00 до 12:00 часова ), квар у шахти."
-    },
-    {
-      "id": "75f8490a24b0",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-03",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-03-11-2026/",
-      "areaLabel": "Милатовац",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Јовићка"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Милатовац, ул. Јовићка ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "87f6b993572f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-03",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-03-11-2026/",
-      "areaLabel": "Илина вода",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "угао Пионорске – Чеде Дулејановића"
-      ],
-      "reason": "поправка затварача",
-      "note": "Илина вода, угао Пионорске – Чеде Дулејановића ( од 12:00 до 16:00 часова ), поправка затварача."
-    },
-    {
-      "id": "f2e604f113b1",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-03",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-03-11-2026/",
-      "areaLabel": "Јовановића",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [],
-      "reason": "поправка хидранта",
-      "note": "Багремар, угао Драге Тодоровић – М.Јовановића ( од 12:00 до 16:00 часова ), поправка хидранта."
-    },
-    {
-      "id": "d9c05381fd6f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-03",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-03-11-2026/",
-      "areaLabel": "Никшић",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Светосавска"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Никшић, ул. Светосавска ( од 12:00 до 16:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "a3f0cb692d26",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-03",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-03-11-2026/",
-      "areaLabel": "Аеродром",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Атинска"
-      ],
-      "reason": "квар у шахти",
-      "note": "Аеродром, ул. Атинска ( од 16:00 до 19:00 часова ), квар у шахти."
-    },
-    {
-      "id": "8f685b5a1686",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-03",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-03-11-2026/",
-      "areaLabel": "Бадњевац",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Учитеља Јове Миленковића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Бадњевац, ул. Учитеља Јове Миленковића ( од 16:00 до 19:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "351d1f80dee1",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-03",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-03-11-2026/",
-      "areaLabel": "Ердоглија",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Даничићева"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Ердоглија, ул. Даничићева ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
-    },
-    {
       "id": "165f2c63eb1f",
       "utility": "water",
       "kind": "emergency",
@@ -1164,11 +1013,6 @@
   ],
   "history": [
     {
-      "date": "2026-10-12",
-      "electricityOutages": 0,
-      "waterOutages": 12
-    },
-    {
       "date": "2026-10-13",
       "electricityOutages": 2,
       "waterOutages": 6
@@ -1312,6 +1156,11 @@
       "date": "2026-11-10",
       "electricityOutages": 3,
       "waterOutages": 9
+    },
+    {
+      "date": "2026-11-11",
+      "electricityOutages": 1,
+      "waterOutages": 0
     }
   ]
 }

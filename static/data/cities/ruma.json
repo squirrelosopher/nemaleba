@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "61495702a90b",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-11-03",
-      "areaLabel": "Рума",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "ЈНА"
-      ],
-      "reason": null,
-      "note": "Дана 03.11.2026. године у периоду од 9.00 до 13.00 часова, ради интервенције на водоводној мрежи, за време трајања радова без водоснабдевања остаће потрошачи у делу улице ЈНА у Руми, од ул. Железничка до Трга ослобођења.",
-      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-87/"
-    },
-    {
       "id": "91d81e9aa891",
       "utility": "electricity",
       "kind": "planned",
@@ -93,11 +76,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-10-12",
-      "electricityOutages": 4,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-13",
       "electricityOutages": 0,
@@ -241,6 +219,11 @@
     {
       "date": "2026-11-10",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-11",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

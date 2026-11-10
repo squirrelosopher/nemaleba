@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "5cdd48a8c36b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-03",
-      "areaLabel": "Ветерник",
-      "time": {
-        "start": "07:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "део Улице краља Петра Првог (од Београдске до Савке Суботић) и околне улице"
-      ],
-      "reason": null,
-      "note": "Због планираних радова на водоводној мрежи без воде ће од 7 до 16 сати бити део Улице краља Петра Првог (од Београдске до Савке Суботић) и околне улице у Ветернику.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-utorak-3-11-2026/"
-    },
-    {
-      "id": "225b512a2f51",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-03",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "улице Миколе Кочиша и Дринска и Клиника за психијатрију"
-      ],
-      "reason": null,
-      "note": "Због планираних  радова на водоводној мрежи без воде ће од 8 до 16 сати бити улице Миколе Кочиша и Дринска и Клиника за психијатрију.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-utorak-3-11-2026/"
-    },
-    {
-      "id": "f0155a7ca471",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-03",
-      "areaLabel": "Сремским Карловцима",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "улице Прерадовићева, Ивана Мажуранића, Карловачких учитеља и Дунавска"
-      ],
-      "reason": null,
-      "note": "Због планираних радова на водоводној мрежи без воде ће од 8 до 16 сати бити улице Прерадовићева, Ивана Мажуранића, Карловачких учитеља и Дунавска у Сремским Карловцима.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-utorak-3-11-2026/"
-    },
-    {
       "id": "0d24e29a76ae",
       "utility": "water",
       "kind": "emergency",
@@ -388,11 +337,6 @@
   ],
   "history": [
     {
-      "date": "2026-10-12",
-      "electricityOutages": 5,
-      "waterOutages": 4
-    },
-    {
       "date": "2026-10-13",
       "electricityOutages": 7,
       "waterOutages": 1
@@ -536,6 +480,11 @@
       "date": "2026-11-10",
       "electricityOutages": 3,
       "waterOutages": 2
+    },
+    {
+      "date": "2026-11-11",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }
