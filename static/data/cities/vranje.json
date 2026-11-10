@@ -5,7 +5,44 @@
     "nameLatin": "Vranje",
     "branchCyrillic": "Врање"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "31fb258638a7",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-04",
+      "areaLabel": "Кичерска (Рашка)",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у улици Кичерска (Рашка), без воде биће потрошачи те улице  до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/04-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "fbbb14f047d8",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-05",
+      "areaLabel": "Ћуковац",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у селу Ћуковац , без воде биће потрошачи тог села као и села Златокоп и Брестовац , завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/05-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "022c11027304",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-09",
+      "areaLabel": "Краљевића Марка",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у улици Краљевића Марка , без воде биће потрошачи те улице и околне, завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/09-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-12",
