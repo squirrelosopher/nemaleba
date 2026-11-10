@@ -35,8 +35,11 @@
     "lastComplete": "2026-11-10"
   },
   "jkp-vodovod-ruma": {
-    "entries": 16,
+    "entries": 0,
     "lastNonEmpty": "2026-11-10",
+    "unreadable": [
+      "fetch failed for https://vodovod-ruma.co.rs/wp-json/wp/v2/posts?categories=1&per_page=20&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-11-10"
   },
   "jkp-vodovod-indjija": {
