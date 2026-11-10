@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T08:10:33.228Z",
+  "generatedAt": "2026-11-10T09:10:35.403Z",
   "summary": {
     "date": "2026-11-10",
-    "electricityOutages": 235,
-    "waterOutages": 12,
+    "electricityOutages": 234,
+    "waterOutages": 13,
     "affected": [
       {
         "id": "beograd",
@@ -72,12 +72,6 @@
         "waterOutages": 0
       },
       {
-        "id": "jagodina",
-        "nameCyrillic": "Јагодина",
-        "electricityOutages": 5,
-        "waterOutages": 0
-      },
-      {
         "id": "kraljevo",
         "nameCyrillic": "Краљево",
         "electricityOutages": 5,
@@ -110,6 +104,12 @@
       {
         "id": "irig",
         "nameCyrillic": "Ириг",
+        "electricityOutages": 4,
+        "waterOutages": 0
+      },
+      {
+        "id": "jagodina",
+        "nameCyrillic": "Јагодина",
         "electricityOutages": 4,
         "waterOutages": 0
       },
@@ -328,6 +328,12 @@
         "nameCyrillic": "Власотинце",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "vranje",
+        "nameCyrillic": "Врање",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "despotovac",
@@ -552,7 +558,7 @@
     {
       "date": "2026-11-10",
       "electricityOutages": 119,
-      "waterOutages": 12
+      "waterOutages": 13
     }
   ],
   "providers": [
