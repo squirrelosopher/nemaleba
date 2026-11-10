@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "7eec51266ad4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Насељено место Шопић (засеок Горња криваја-према Мијатовићима)."
-      ],
-      "reason": null,
-      "note": "Насељено место Шопић (засеок Горња криваја-према Мијатовићима).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "9184ee81099a",
       "utility": "electricity",
       "kind": "planned",
@@ -38,6 +21,23 @@
       ],
       "reason": null,
       "note": "Насељено место Крушевица (засеок Дом-према Пантелићу).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "7eec51266ad4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-10",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Насељено место Шопић (засеок Горња криваја-према Мијатовићима)."
+      ],
+      "reason": null,
+      "note": "Насељено место Шопић (засеок Горња криваја-према Мијатовићима).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
@@ -175,6 +175,23 @@
       "reason": null,
       "note": "Лајковац: насеље Бајевац (засеок Павловићи).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "03d82d6df316",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Насеље Јунковац (засеок Белаћевићи)."
+      ],
+      "reason": null,
+      "note": "Насеље Јунковац (засеок Белаћевићи).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
