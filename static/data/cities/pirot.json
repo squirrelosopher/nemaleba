@@ -22,6 +22,43 @@
       "reason": null,
       "note": "Села: Бела, Гостуша, Паклештица, Покревеник и Копривштица.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "67ce9e0cb9e5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Села Гостуша",
+        "Бела",
+        "Палештица",
+        "Покревеники и Копривштица."
+      ],
+      "reason": null,
+      "note": "Села Гостуша, Бела, Палештица, Покревеники и Копривштица.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "843cd7b992e8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Село Мали Јовановац"
+      ],
+      "reason": null,
+      "note": "Село Мали Јовановац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

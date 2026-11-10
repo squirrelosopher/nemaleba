@@ -43,6 +43,25 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "5b388f82d183",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Лесковац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Косте Стаменковића од бр. 2 до бр. 24",
+        "Моше Пијаде бр. 2 и 8",
+        "Стојана Љубића од бр. 12 до 18"
+      ],
+      "reason": null,
+      "note": "Косте Стаменковића од бр. 2 до бр. 24, Моше Пијаде бр. 2 и 8, Стојана Љубића од бр. 12 до 18",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
       "id": "ebc235c9a411",
       "utility": "electricity",
       "kind": "planned",

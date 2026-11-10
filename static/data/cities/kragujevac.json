@@ -1094,6 +1094,36 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "9ce5f4e0d0f9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "08:00",
+        "end": "18:00"
+      },
+      "streets": [
+        "Банијских бригада",
+        "Бранка Миљковића",
+        "Далматинских бригада",
+        "Иве Андрића",
+        "Херцеговачких и Крајишких бригада",
+        "Поскурички пут",
+        "Симе Матавуља",
+        "Војвођанских бригада",
+        "Бихорска",
+        "Горњомилановачка",
+        "Мајевичка",
+        "Македонских бригада",
+        "Валентина Водника",
+        "Вршачка"
+      ],
+      "reason": null,
+      "note": "Банијских бригада, Бранка Миљковића, Далматинских бригада, Иве Андрића, Херцеговачких и Крајишких бригада, Поскурички пут, Симе Матавуља, Војвођанских бригада, Бихорска, Горњомилановачка, Мајевичка, Македонских бригада, Валентина Водника, Вршачка",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
       "id": "503ad203b9fe",
       "utility": "electricity",
       "kind": "planned",

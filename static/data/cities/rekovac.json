@@ -5,7 +5,42 @@
     "nameLatin": "Rekovac",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "bdb9b50448d9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Рековац",
+      "time": {
+        "start": "08:30",
+        "end": "16:30"
+      },
+      "streets": [
+        "Село Сиљевица"
+      ],
+      "reason": null,
+      "note": "Село Сиљевица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "58b6c8cf3f12",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Рековац",
+      "time": {
+        "start": "08:30",
+        "end": "16:30"
+      },
+      "streets": [
+        "Село Сиљевица"
+      ],
+      "reason": null,
+      "note": "Село Сиљевица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-12",

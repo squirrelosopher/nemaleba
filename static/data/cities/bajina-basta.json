@@ -58,23 +58,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "f4bd007d0787",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Бајина Башта",
-      "time": {
-        "start": "08:30",
-        "end": "09:00"
-      },
-      "streets": [
-        "Насеља: Перућац поље, Симићи, Ђокићи, Љубош, Бесеровина, Јездићи, Максимовићи и Радојичићи"
-      ],
-      "reason": null,
-      "note": "Насеља: Перућац поље, Симићи, Ђокићи, Љубош, Бесеровина, Јездићи, Максимовићи и Радојичићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
-    },
-    {
       "id": "63e938e6d927",
       "utility": "electricity",
       "kind": "planned",
@@ -89,6 +72,23 @@
       ],
       "reason": null,
       "note": "Насеља: Део града испод Болнице - на НН изводу ка Кланици и Тешићима",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "f4bd007d0787",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Бајина Башта",
+      "time": {
+        "start": "08:30",
+        "end": "09:00"
+      },
+      "streets": [
+        "Насеља: Перућац поље, Симићи, Ђокићи, Љубош, Бесеровина, Јездићи, Максимовићи и Радојичићи"
+      ],
+      "reason": null,
+      "note": "Насеља: Перућац поље, Симићи, Ђокићи, Љубош, Бесеровина, Јездићи, Максимовићи и Радојичићи",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
