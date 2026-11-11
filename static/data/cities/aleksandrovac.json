@@ -5,7 +5,25 @@
     "nameLatin": "Aleksandrovac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f4807a9699e9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Александровац",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Део насељеног места Вранштица."
+      ],
+      "reason": null,
+      "note": "Део насељеног места Вранштица.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-13",

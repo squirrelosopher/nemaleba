@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-11T12:10:31.896Z",
+  "generatedAt": "2026-11-11T14:11:29.353Z",
   "summary": {
     "date": "2026-11-11",
-    "electricityOutages": 195,
+    "electricityOutages": 205,
     "waterOutages": 2,
     "affected": [
       {
@@ -56,6 +56,12 @@
       {
         "id": "stara-pazova",
         "nameCyrillic": "Стара Пазова",
+        "electricityOutages": 5,
+        "waterOutages": 0
+      },
+      {
+        "id": "cacak",
+        "nameCyrillic": "Чачак",
         "electricityOutages": 5,
         "waterOutages": 0
       },
@@ -222,6 +228,12 @@
         "waterOutages": 0
       },
       {
+        "id": "krusevac",
+        "nameCyrillic": "Крушевац",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
         "id": "kursumlija",
         "nameCyrillic": "Куршумлија",
         "electricityOutages": 2,
@@ -252,6 +264,12 @@
         "waterOutages": 0
       },
       {
+        "id": "aleksandrovac",
+        "nameCyrillic": "Александровац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
         "id": "arandjelovac",
         "nameCyrillic": "Аранђеловац",
         "electricityOutages": 1,
@@ -272,6 +290,12 @@
       {
         "id": "bogatic",
         "nameCyrillic": "Богатић",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "brus",
+        "nameCyrillic": "Брус",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -332,6 +356,12 @@
       {
         "id": "petrovac",
         "nameCyrillic": "Петровац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "razanj",
+        "nameCyrillic": "Ражањ",
         "electricityOutages": 1,
         "waterOutages": 0
       },

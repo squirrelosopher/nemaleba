@@ -5,7 +5,25 @@
     "nameLatin": "Brus",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "9fc68d1c49ce",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Брус",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део насељеног места Мала Разбојна."
+      ],
+      "reason": null,
+      "note": "Део насељеног места Мала Разбојна.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-13",

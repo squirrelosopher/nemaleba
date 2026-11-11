@@ -5,7 +5,26 @@
     "nameLatin": "Ražanj",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "a71a6a32b1e9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Ражањ",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "део насељеног места Браљина",
+        "Малетина и Церово."
+      ],
+      "reason": null,
+      "note": "део насељеног места Браљина,Малетина и Церово.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-13",

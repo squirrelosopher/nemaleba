@@ -5,7 +5,44 @@
     "nameLatin": "Kruševac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "6486920705fd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Део насељеног места Мали Шиљеговац."
+      ],
+      "reason": null,
+      "note": "Део насељеног места Мали Шиљеговац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "5081883c79fb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Део насељеног места Мајдево",
+        "Ћелије",
+        "Суваја и Мало Гркљане."
+      ],
+      "reason": null,
+      "note": "Део насељеног места Мајдево,Ћелије,Суваја и Мало Гркљане.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-13",

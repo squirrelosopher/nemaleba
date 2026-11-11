@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "aad963b3d4de",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Лозница",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Сточни пијац"
-      ],
-      "reason": null,
-      "note": "Сточни пијац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "e9ca71aab38a",
       "utility": "electricity",
       "kind": "planned",
@@ -41,6 +24,23 @@
       ],
       "reason": null,
       "note": "Део Јошеве, Каменица, Милина, Трбосиље и Цер",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "aad963b3d4de",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-12",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сточни пијац"
+      ],
+      "reason": null,
+      "note": "Сточни пијац",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
