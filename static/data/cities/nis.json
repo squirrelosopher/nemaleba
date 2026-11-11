@@ -524,23 +524,6 @@
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-212/"
     },
     {
-      "id": "22cd08be4629",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "део улице Благоја Паровића (1);"
-      ],
-      "reason": null,
-      "note": "део улице Благоја Паровића (1);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a2942cb86287",
       "utility": "water",
       "kind": "emergency",
@@ -556,146 +539,6 @@
       "reason": null,
       "note": "ПРЕКИД САОБРАЋАЈА У СЕЛУ ПОПОВАЦ астављају се радови на канализационој мрежи и због истих се обуставља саобраћај у улици Милета Ђурђановића, на простору од подвожњака ка центру села. Радови се одвијају и ове недеље и због тога остаје обавештење о прекиду саобраћаја свакога дана од 8 до 15 часова на поменутој локацији",
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-213/"
-    },
-    {
-      "id": "a873829d9d5a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "делови улица Златиборске",
-        "Илинденске",
-        "Лудвига Хиршфелда и Косовке девојке;"
-      ],
-      "reason": null,
-      "note": "делови улица Златиборске, Илинденске, Лудвига Хиршфелда и Косовке девојке;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "4930ecd281d9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "делови улица Димитрија Туцовића",
-        "Добрице Ћосића и Борислава Прекића;"
-      ],
-      "reason": null,
-      "note": "делови улица Димитрија Туцовића, Добрице Ћосића и Борислава Прекића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b0be2d9b607f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "делови улица Бранка Миљковића",
-        "Јужноморавских бригада",
-        "27. Марта",
-        "Јосипа Краша",
-        "Коче Рацина",
-        "Милоја Закића",
-        "Љубе Илића – Столета",
-        "Маријана Бадела",
-        "Проте Гагулића и Златка Балоковића;"
-      ],
-      "reason": null,
-      "note": "делови улица Бранка Миљковића, Јужноморавских бригада, 27. Марта, Јосипа Краша, Коче Рацина, Милоја Закића, Љубе Илића – Столета, Маријана Бадела, Проте Гагулића и Златка Балоковића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ae1f63e71740",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Нишка бања",
-      "time": {
-        "start": "09:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "део Јелашнице;"
-      ],
-      "reason": null,
-      "note": "део Јелашнице;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e2f080bffea3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "11:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "делови улица Бубањске",
-        "Милана Бакића",
-        "Танасија Михајловића – Шпанца",
-        "Бубањске долине",
-        "Змаја од ноћаја",
-        "Милоша Ђурића",
-        "Требињске",
-        "Петра Коњовића и Калач Брда;"
-      ],
-      "reason": null,
-      "note": "делови улица Бубањске, Милана Бакића, Танасија Михајловића – Шпанца, Бубањске долине, Змаја од ноћаја, Милоша Ђурића, Требињске, Петра Коњовића и Калач Брда;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "bc0b397aa8ec",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Црвени крст",
-      "time": {
-        "start": "12:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део Трупала;"
-      ],
-      "reason": null,
-      "note": "део Трупала;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8d92f6c18e4e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "15:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "делови улица Димитрија Големовића",
-        "Др Петра Петровића",
-        "Стојана Анастасијевића",
-        "Зорана Радосављевића – Чупе и Врежинског Булевара;"
-      ],
-      "reason": null,
-      "note": "делови улица Димитрија Големовића, Др Петра Петровића, Стојана Анастасијевића, Зорана Радосављевића – Чупе и Врежинског Булевара;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "8e04c1b7ef82",
@@ -853,7 +696,7 @@
       ],
       "reason": null,
       "note": "делови Југ Богданове, Краљевића Марка (23);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "cc67d7870353",
@@ -888,7 +731,7 @@
       ],
       "reason": null,
       "note": "делови Кованлучке, Кованлучка други прилаз (89,20,22,бб,6,16), Кованлучке трећи прилаз (7а,9а,17), Кованлучке четврти прилаз (1,7), Васе Чарапића (65,49,60,57,59,58), Марка Јовановића (63);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "77299c1cb13c",
@@ -909,7 +752,7 @@
       ],
       "reason": null,
       "note": "делови Банцарева, Чукљеника, Доње Студене, Горње Студене, Бојаниних вода;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "046b14a49be2",
@@ -927,7 +770,7 @@
       ],
       "reason": null,
       "note": "делови улице Цара Душана, Војводе Мишића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "d900f5fdf98c",
@@ -947,7 +790,7 @@
       ],
       "reason": null,
       "note": "делови Доњег Матејевца, Горњег Матејевца, Коломаце, Кнез Села;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "f07132c3f06f",
@@ -964,7 +807,7 @@
       ],
       "reason": null,
       "note": "делови Жарка Ђурића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "bf69715d57ba",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "СОМБОР, УЛИЦЕ: СОЛУНСКИХ БОРАЦА 3-11 И 4-24, ПИНКИЈЕВА 25-35 И 22-30, С.МАЦУРЕ, МОНОШТОРСКА 35-45А И 32+ББ, С.МАТАВУЉА 1-9 И Н.ТЕСЛЕ 27-51А И 18А-38"
-      ],
-      "reason": null,
-      "note": "СОМБОР, УЛИЦЕ: СОЛУНСКИХ БОРАЦА 3-11 И 4-24, ПИНКИЈЕВА 25-35 И 22-30, С.МАЦУРЕ, МОНОШТОРСКА 35-45А И 32+ББ, С.МАТАВУЉА 1-9 И Н.ТЕСЛЕ 27-51А И 18А-38",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "67b68e165b8d",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Сомбор: Салаши-7. Управа",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "1025d09784ce",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Бездан: КОШУТ ЛАЈОША, ЦРКВЕНА, ДЕО РОДИНЕ, ДЕО ПУСТЕ, ДЕО КОЛУТСКЕ И МАЛТА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "becbf673dd3a",
@@ -73,7 +56,7 @@
       ],
       "reason": null,
       "note": "СОМБОР, МИЛЧИЋ САЛАШИ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

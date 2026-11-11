@@ -751,81 +751,6 @@
       "note": "Хаваријска искључења на дан 10.11.2026. \n \n Грошница, ул. Синише Станковића ( од 08:00 до 12:00 часова ), поправка уличне линије."
     },
     {
-      "id": "57a6b428c7b0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Нови Милановац - Дом",
-        "Брадићи",
-        "Петровац - Викенд насеље",
-        "Цветојевац - Јовановићи"
-      ],
-      "reason": null,
-      "note": "Нови Милановац - Дом, Брадићи, Петровац - Викенд насеље, Цветојевац - Јовановићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "12ca893b8d36",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Горње Комарице"
-      ],
-      "reason": null,
-      "note": "Горње Комарице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "9817b262f4de",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Краља Петра Првог - 1",
-        "7",
-        "16",
-        "17",
-        "18",
-        "20",
-        "22",
-        "24",
-        "26",
-        "Зорана Ђинђића - 5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "Саве Ковачевића - 1",
-        "2",
-        "3",
-        "4",
-        "6",
-        "8",
-        "14"
-      ],
-      "reason": null,
-      "note": "Краља Петра Првог - 1, 7, 16, 17, 18, 20, 22, 24, 26, Зорана Ђинђића - 5, 6, 7, 8, 9, 10, Саве Ковачевића - 1, 2, 3, 4, 6, 8, 14",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e6c63c2c24e7",
       "utility": "water",
       "kind": "emergency",
@@ -940,7 +865,7 @@
       ],
       "reason": null,
       "note": "Ресник - Горња мала, Церјак, Нови Милановац - Павићевићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9ce5f4e0d0f9",
@@ -970,7 +895,7 @@
       ],
       "reason": null,
       "note": "Банијских бригада, Бранка Миљковића, Далматинских бригада, Иве Андрића, Херцеговачких и Крајишких бригада, Поскурички пут, Симе Матавуља, Војвођанских бригада, Бихорска, Горњомилановачка, Мајевичка, Македонских бригада, Валентина Водника, Вршачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "503ad203b9fe",
@@ -989,7 +914,7 @@
       ],
       "reason": null,
       "note": "Бозман, Јовановац - Аксићи, Гај",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "16d6945ef99c",
@@ -1008,7 +933,7 @@
       ],
       "reason": null,
       "note": "Бозман, Јовановац - Аксићи, Гај",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

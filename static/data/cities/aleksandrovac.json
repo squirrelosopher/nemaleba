@@ -5,47 +5,7 @@
     "nameLatin": "Aleksandrovac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [
-    {
-      "id": "4e37729ed8a6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Александровац",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Насељена места Ратаје",
-        "Тулеш",
-        "Руденице",
-        "Тржац",
-        "Доња Рженица",
-        "Срњане."
-      ],
-      "reason": null,
-      "note": "Насељена места Ратаје, Тулеш, Руденице, Тржац, Доња Рженица, Срњане.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "550899233ff9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Александровац",
-      "time": {
-        "start": "08:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Насељена места Горња Врбница и Латковац."
-      ],
-      "reason": null,
-      "note": "Насељена места Горња Врбница и Латковац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-13",

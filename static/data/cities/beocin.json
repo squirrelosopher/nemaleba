@@ -5,25 +5,7 @@
     "nameLatin": "Beočin",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [
-    {
-      "id": "0912ceb9f5c8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Беочин",
-      "time": {
-        "start": "08:45",
-        "end": "12:30"
-      },
-      "streets": [
-        "Баноштор: Поторањ; Текниш поток - цела села"
-      ],
-      "reason": null,
-      "note": "Баноштор: Поторањ; Текниш поток - цела села",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-19",

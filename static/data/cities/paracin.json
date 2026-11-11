@@ -7,45 +7,6 @@
   },
   "outages": [
     {
-      "id": "a37e5027956e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део Брегалничке",
-        "део Стевана Јаковљевића",
-        "Устаничка и део Теслине"
-      ],
-      "reason": null,
-      "note": "Део Брегалничке,део Стевана Јаковљевића,Устаничка и део Теслине",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "67ffa32bcf11",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део Мајора Марка преко пруге",
-        "део Војводе Степе",
-        "Пикулина",
-        "део Војводе Путника"
-      ],
-      "reason": null,
-      "note": "Део Мајора Марка преко пруге,део Војводе Степе,Пикулина,део Војводе Путника,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "94670b16aaaf",
       "utility": "electricity",
       "kind": "planned",
@@ -60,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део села Ратаре",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "bd97c1e8b920",
@@ -80,7 +41,7 @@
       ],
       "reason": null,
       "note": "Део Мајора Марка преко пруге,део Војводе Степе,Пикулина,део Војводе Путника,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "3648b00af7b7",
@@ -99,7 +60,7 @@
       ],
       "reason": null,
       "note": "Део Војводе Мишића,Танаска Рајића,део Стевана Првовенчаног и Дилетово сокаче",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

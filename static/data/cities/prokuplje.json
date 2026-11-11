@@ -7,48 +7,6 @@
   },
   "outages": [
     {
-      "id": "1942fb8c3541",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Појатска.Доситејева",
-        "део Новоселске",
-        "Дом ученика",
-        "Пољопривредна школа",
-        "села од Нове Божурне правац Костадиновац и даље према Расовачи",
-        "Старој Божурни и Подини."
-      ],
-      "reason": null,
-      "note": "Појатска.Доситејева,део Новоселске,Дом ученика,Пољопривредна школа,села од Нове Божурне правац Костадиновац и даље према Расовачи,Старој Божурни и Подини.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d27d591c8ed8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Фритеч",
-        "Ауто школа СМЕР",
-        "Историјски архив",
-        "стовариште Бели и Стаменковић и Јабука"
-      ],
-      "reason": null,
-      "note": "Фритеч,Ауто школа СМЕР,Историјски архив,стовариште Бели и Стаменковић и Јабука",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "71ff74534218",
       "utility": "electricity",
       "kind": "planned",
@@ -63,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део ул. Крушевачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "f38929b3be32",
@@ -80,7 +38,7 @@
       ],
       "reason": null,
       "note": "ул Београдска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "25b50294964d",
@@ -97,7 +55,7 @@
       ],
       "reason": null,
       "note": "Новоселска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "a83d7ff8f413",
@@ -114,7 +72,7 @@
       ],
       "reason": null,
       "note": "Злокућане",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

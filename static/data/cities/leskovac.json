@@ -7,42 +7,6 @@
   },
   "outages": [
     {
-      "id": "f0b40e9fd2b7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Лесковац",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Велика Грабовница -Рајковци",
-        "Мала Грабовница",
-        "Загужане и Зољево"
-      ],
-      "reason": null,
-      "note": "Велика Грабовница -Рајковци, Мала Грабовница, Загужане и Зољево",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "25fe0c62a954",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Лесковац",
-      "time": {
-        "start": "11:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Тупаловце"
-      ],
-      "reason": null,
-      "note": "Тупаловце",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "5b388f82d183",
       "utility": "electricity",
       "kind": "planned",
@@ -59,7 +23,7 @@
       ],
       "reason": null,
       "note": "Косте Стаменковића од бр. 2 до бр. 24, Моше Пијаде бр. 2 и 8, Стојана Љубића од бр. 12 до 18",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "ebc235c9a411",
@@ -78,7 +42,7 @@
       ],
       "reason": null,
       "note": "Велика Грабовница -Рајковци, Мала Грабовница, Загужане и Зољево",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

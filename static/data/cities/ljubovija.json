@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "89673e45de08",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Љубовија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Цапарић",
-        "Шапари и Рогота"
-      ],
-      "reason": null,
-      "note": "Цапарић, Шапари и Рогота",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ab90537c013b",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +21,7 @@
       ],
       "reason": null,
       "note": "Горње Кошље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

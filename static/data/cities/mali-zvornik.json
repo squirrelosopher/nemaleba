@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "cf4829599d71",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Мали Зворник",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Доњи и Горњи Читлук"
-      ],
-      "reason": null,
-      "note": "Доњи и Горњи Читлук",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "0a300a752dfe",
       "utility": "electricity",
       "kind": "planned",
@@ -40,7 +23,7 @@
       ],
       "reason": null,
       "note": "Амајић, каменолом Амајић, Будишић и Горњи Будушић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "70ff279e677b",
@@ -57,7 +40,7 @@
       ],
       "reason": null,
       "note": "Сакар",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "c3e5aa5c3fa2",
@@ -74,7 +57,7 @@
       ],
       "reason": null,
       "note": "Дринска Стена",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

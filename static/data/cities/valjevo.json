@@ -59,40 +59,6 @@
       "reason": null,
       "note": "Због хаварије на примарном цевоводу, без водоснабдевања су потрошачи на Дивчибарама. Нормализација водоснабдевања се очекује у раним поподневним сатима 08.11.2026.",
       "sourceUrl": "https://vodovodva.co.rs/07112026-2/"
-    },
-    {
-      "id": "e539bcd329a8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Ваљево",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Купци дела села Г.Брезовице (милавац ка дому)."
-      ],
-      "reason": null,
-      "note": "Купци дела села Г.Брезовице (милавац ка дому).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "cc8709349ee2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Ваљево",
-      "time": {
-        "start": "09:00",
-        "end": "10:30"
-      },
-      "streets": [
-        "Купци села Петнице (центар код базена )"
-      ],
-      "reason": null,
-      "note": "Купци села Петнице (центар код базена )",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

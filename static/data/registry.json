@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-11T06:10:33.054Z",
+  "generatedAt": "2026-11-11T07:10:32.903Z",
   "summary": {
     "date": "2026-11-11",
-    "electricityOutages": 191,
+    "electricityOutages": 206,
     "waterOutages": 2,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 27,
+        "electricityOutages": 40,
         "waterOutages": 0
       },
       {
@@ -84,6 +84,12 @@
         "waterOutages": 0
       },
       {
+        "id": "kraljevo",
+        "nameCyrillic": "Краљево",
+        "electricityOutages": 4,
+        "waterOutages": 0
+      },
+      {
         "id": "prokuplje",
         "nameCyrillic": "Прокупље",
         "electricityOutages": 4,
@@ -122,12 +128,6 @@
       {
         "id": "despotovac",
         "nameCyrillic": "Деспотовац",
-        "electricityOutages": 3,
-        "waterOutages": 0
-      },
-      {
-        "id": "kraljevo",
-        "nameCyrillic": "Краљево",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -326,6 +326,12 @@
       {
         "id": "pancevo",
         "nameCyrillic": "Панчево",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "petrovac",
+        "nameCyrillic": "Петровац",
         "electricityOutages": 1,
         "waterOutages": 0
       },

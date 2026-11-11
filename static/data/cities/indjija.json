@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "d7cbdf2224a2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Сл Виногради: Део викенд зоне Јанда 5"
-      ],
-      "reason": null,
-      "note": "Сл Виногради: Део викенд зоне Јанда 5",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b784645ddaa0",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Инђија: Део улице Брунова око бр.14",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "9e993461165c",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Чортановци: Д.Петковића; Пролетерска; Радмиле Васиљевић; И.Л.Рибар; Т.Јовића; Железничка; Дунавска; Викенд зона Железничка; Београдска; Вељка Влаховића; М.Тита од бр.1/2 до бр.73; Партизанска од бр.1/2 до улице Сокаче; Сокаче; В.Грбића; Фрушкогорска; П.П.Одреда; Ђурђевска; Карловачка; С.Ћурћића; Ђ.Бегојева; В.Војновића; Крушке; В.Синђелића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

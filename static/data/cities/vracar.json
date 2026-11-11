@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "b3e4647869f7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Врачар",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "МАКСИМА ГОРКОГ: 87"
-      ],
-      "reason": null,
-      "note": "МАКСИМА ГОРКОГ: 87,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "24caa4a1cec7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Врачар",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Максима Горког 87."
-      ],
-      "reason": null,
-      "note": "Максима Горког 87.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "59a71825ba3b",
       "utility": "electricity",
       "kind": "planned",
@@ -56,23 +22,6 @@
       "reason": null,
       "note": "ЦЕРСКА: 10,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
-    },
-    {
-      "id": "11c97855f80b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Врачар",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "ВОЈВОДЕ ШУПЉИКЦА: 42"
-      ],
-      "reason": null,
-      "note": "ВОЈВОДЕ ШУПЉИКЦА: 42,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

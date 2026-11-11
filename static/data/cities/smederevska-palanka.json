@@ -5,25 +5,7 @@
     "nameLatin": "Smederevska Palanka",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [
-    {
-      "id": "ee403aec73eb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Смедеревска Паланка",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Трафореон Радишићи у Ратарима"
-      ],
-      "reason": null,
-      "note": "Трафореон Радишићи у Ратарима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-13",

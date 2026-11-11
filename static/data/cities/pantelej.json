@@ -7,45 +7,6 @@
   },
   "outages": [
     {
-      "id": "a873829d9d5a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "делови улица Златиборске",
-        "Илинденске",
-        "Лудвига Хиршфелда и Косовке девојке;"
-      ],
-      "reason": null,
-      "note": "делови улица Златиборске, Илинденске, Лудвига Хиршфелда и Косовке девојке;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8d92f6c18e4e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "15:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "делови улица Димитрија Големовића",
-        "Др Петра Петровића",
-        "Стојана Анастасијевића",
-        "Зорана Радосављевића – Чупе и Врежинског Булевара;"
-      ],
-      "reason": null,
-      "note": "делови улица Димитрија Големовића, Др Петра Петровића, Стојана Анастасијевића, Зорана Радосављевића – Чупе и Врежинског Булевара;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d900f5fdf98c",
       "utility": "electricity",
       "kind": "planned",
@@ -63,7 +24,7 @@
       ],
       "reason": null,
       "note": "делови Доњег Матејевца, Горњег Матејевца, Коломаце, Кнез Села;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

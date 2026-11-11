@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "1b50231d3a56",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Зрењанин",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Лукићево: део Бирчанинове"
-      ],
-      "reason": null,
-      "note": "Лукићево: део Бирчанинове",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a4cca39c8926",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Зрењанин",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Лукићево: Ивана Марковића, део Чичине"
-      ],
-      "reason": null,
-      "note": "Лукићево: Ивана Марковића, део Чичине",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d05bf8df857f",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Меленци: делови следећих улица: Максима Горког, Српских Владара, Боре Микина, Жарка Зрењанина, Браће Барнић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "08cc31a2ad2c",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Лукићево: део Марка Краљевића, део Павла Горанина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "cc85c6a17514",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "у Алексинцу",
-        "део улице Леле Попови'"
-      ],
-      "reason": null,
-      "note": "у Алексинцу, део улице Леле Попови'",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c7b6f66e98f3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Алексинац",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Фарма на Алексиначким Рудницима"
-      ],
-      "reason": null,
-      "note": "Фарма на Алексиначким Рудницима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e13419e1ee67",
       "utility": "electricity",
       "kind": "planned",
@@ -56,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део Глоговице на другом улазу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "07db8e350196",
@@ -74,7 +39,7 @@
       ],
       "reason": null,
       "note": "у Алексинцу, део насеља Батуровац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "ee68f12e21a2",
@@ -92,7 +57,7 @@
       ],
       "reason": null,
       "note": "у Алексинцу, насеље Делнице и Ново Насеље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "e7966af1e924",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Предузећа - Томи Трејд; Радинг; Рио; Митан Оил"
-      ],
-      "reason": null,
-      "note": "Предузећа - Томи Трејд; Радинг; Рио; Митан Оил",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2f3cc6bbbe1c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "17 .Октобар 22"
-      ],
-      "reason": null,
-      "note": "17 .Октобар 22",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b5739a4bdfc2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "11:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Србина"
-      ],
-      "reason": null,
-      "note": "Србина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "42476fdcbcc5",
       "utility": "electricity",
       "kind": "planned",
@@ -96,7 +45,7 @@
       ],
       "reason": null,
       "note": "Југ Богдана; Кнез Михаила 47 - 94; Космајска1,2,3,4,5,6,8,12,14,16,18; Косте Војиновића3,8; Мајданска2,4,6,8,10; Моме Арделића 7; Петријевски поток; Србина1-32, ; Вишка 1,2,3,4,5,6; тржни центар код болнице; Лукијана Мушицког 1,2,3,4",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "418a0e5449fa",
@@ -113,7 +62,7 @@
       ],
       "reason": null,
       "note": "Црнотравска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "910e6e13a7ad",
@@ -130,7 +79,7 @@
       ],
       "reason": null,
       "note": "Јоце Иванковића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

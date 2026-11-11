@@ -5,26 +5,7 @@
     "nameLatin": "Čajetina",
     "branchCyrillic": "Ужице"
   },
-  "outages": [
-    {
-      "id": "a2ae31f5c394",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Чајетина",
-      "time": {
-        "start": "08:30",
-        "end": "16:00"
-      },
-      "streets": [
-        "Ђуровића гробље",
-        "Јабланица"
-      ],
-      "reason": null,
-      "note": "Ђуровића гробље, Јабланица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-13",

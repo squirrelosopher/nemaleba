@@ -7,91 +7,6 @@
   },
   "outages": [
     {
-      "id": "8e87e55a44e1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Врбска Главица."
-      ],
-      "reason": null,
-      "note": "Врбска Главица.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "474f62a5e872",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "У Жичи више Јанића према Жичком пољу и ковачима."
-      ],
-      "reason": null,
-      "note": "У Жичи више Јанића према Жичком пољу и ковачима.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "70cda37fe373",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Рибница улица Излетничка."
-      ],
-      "reason": null,
-      "note": "Рибница улица Излетничка.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "3e24ac0173ba",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Милочаји према Поповићима."
-      ],
-      "reason": null,
-      "note": "Милочаји према Поповићима.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1e6a6c0a7db4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Трговиште."
-      ],
-      "reason": null,
-      "note": "Трговиште.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a8fcfb8d65f1",
       "utility": "electricity",
       "kind": "planned",
@@ -107,7 +22,7 @@
       ],
       "reason": null,
       "note": "Брба,од магистрале према Драгосињцима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d62b517d1947",
@@ -125,7 +40,7 @@
       ],
       "reason": null,
       "note": "Брба,од магистрале према Драгосињцима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "6178b224ad40",
@@ -142,7 +57,24 @@
       ],
       "reason": null,
       "note": "У Сирчи и Опланићима засеок Равни Гај.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c47c6f7de039",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-14",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део улице Цара Лазара око тржног центра."
+      ],
+      "reason": null,
+      "note": "Део улице Цара Лазара око тржног центра.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

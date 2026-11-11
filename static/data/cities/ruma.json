@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "91d81e9aa891",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Рума",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Рума: ул.Ј.Суботића од ул.Лељинова до ул.М.П.Камењара"
-      ],
-      "reason": null,
-      "note": "Рума: ул.Ј.Суботића од ул.Лељинова до ул.М.П.Камењара",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "462e8707b19e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Рума",
-      "time": {
-        "start": "08:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "Рума: Ул. 15.Августа бр.73(1); Ул. Матије Губца од бр.37А и бр.36А до бр.17 и бр.24; Ул. Матије Губца од бр.39 до бр.45"
-      ],
-      "reason": null,
-      "note": "Рума: Ул. 15.Августа бр.73(1); Ул. Матије Губца од бр.37А и бр.36А до бр.17 и бр.24; Ул. Матије Губца од бр.39 до бр.45",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "75545bcdff32",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље Фишер Салаши и фабрика воде.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "73ad6a1229e0",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "\"Рума: ул.Н.Тесле непарна страна од ул.Главна до ул.В.Дугошевића;\r\nул.В.Дугошевића од ул.Н.Тесла до ул.З.Челара;\r\nул.З.Челара цела; ул.Главна бр.1\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

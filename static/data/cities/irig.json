@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "0d0e96e771fa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-10",
-      "areaLabel": "Ириг",
-      "time": {
-        "start": "10:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Врдник: ТС Старчевић; ТС Докић; Викенд насеље Валдов"
-      ],
-      "reason": null,
-      "note": "Врдник: ТС Старчевић; ТС Докић; Викенд насеље Валдов",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "029f7c6b9c73",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Ириг: Крсташице у викенд насељу Крсташице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "e08638da595e",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Врдник: ул. Железничка , Зграде на прузи, Зграда 5 улаз 1,улаз 2,улаз 3 И локали около",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "30e71d53956a",
@@ -72,7 +55,7 @@
       ],
       "reason": null,
       "note": "Ириг: Јакова Игњатовића у викенд насељу Крсташице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "7367c226d9b0",
@@ -89,7 +72,7 @@
       ],
       "reason": null,
       "note": "Ириг: Улица Крсташице у викенд насељу Крсташице, ресторан и станови на Иришком Венцу, Инфо центар на Иришком Венцу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
