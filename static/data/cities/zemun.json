@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "АУТОПУТ ЗА ЗАГРЕБ: 26г-26Х,32,300Г,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "4d94089531b1",
@@ -38,6 +38,23 @@
       ],
       "reason": null,
       "note": "МАЈЕВИЧКА: 36,1,7, ЗЕЛЕНГОРСКА: 2-8б,14-14а,1-1А,83,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "633eef72ec50",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "08:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "АУТОПУТ ЗА НОВИ САД: 54-56,62, ЈОСИПА ШЕНЕРА: 1-15, СВЕТОЗАРА ПАПИЋА: 2-2д,5-29"
+      ],
+      "reason": null,
+      "note": "АУТОПУТ ЗА НОВИ САД: 54-56,62, ЈОСИПА ШЕНЕРА: 1-15, СВЕТОЗАРА ПАПИЋА: 2-2д,5-29,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
