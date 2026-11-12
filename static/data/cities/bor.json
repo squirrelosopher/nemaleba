@@ -48,6 +48,21 @@
       "reason": "Санација кварова на водоводној мрежи",
       "note": "Улица Кестенова број 14 Кварови на мерним местима – у шахтама",
       "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-10-11-2026-god/"
+    },
+    {
+      "id": "926c155f71b8",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-12",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Савача",
+        "Улица Бранка Радичевића"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Савача Улица Бранка Радичевића Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-12-11-2026-god/"
     }
   ],
   "history": [
@@ -199,7 +214,7 @@
     {
       "date": "2026-11-12",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
