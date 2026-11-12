@@ -232,6 +232,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "8be6b9ffaf14",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-12",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица Филипа Вишњића и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Филипа Вишњића и околне улице.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-12-11-2026/"
+    },
+    {
       "id": "18e4e6162b1e",
       "utility": "water",
       "kind": "emergency",
@@ -398,7 +415,7 @@
     {
       "date": "2026-11-12",
       "electricityOutages": 5,
-      "waterOutages": 1
+      "waterOutages": 2
     }
   ]
 }

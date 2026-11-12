@@ -15,7 +15,7 @@
     "lastComplete": "2026-11-12"
   },
   "jkp-vik-novi-sad": {
-    "entries": 34,
+    "entries": 35,
     "lastNonEmpty": "2026-11-12",
     "lastComplete": "2026-11-12"
   },
@@ -73,8 +73,8 @@
     "lastComplete": "2026-11-12"
   },
   "jkp-vodovod-leskovac": {
-    "entries": 0,
-    "lastNonEmpty": "2026-10-29",
+    "entries": 1,
+    "lastNonEmpty": "2026-11-12",
     "lastComplete": "2026-11-12"
   },
   "jkp-vodovod-pozarevac": {
@@ -88,11 +88,8 @@
     "lastComplete": "2026-11-12"
   },
   "jkp-vodovod-cacak": {
-    "entries": 0,
+    "entries": 1,
     "lastNonEmpty": "2026-11-12",
-    "unreadable": [
-      "fetch failed for https://vodovodca.rs/wp-json/wp/v2/posts?categories=3&per_page=12&_fields=link,date,title,content"
-    ],
     "lastComplete": "2026-11-12"
   }
 }
