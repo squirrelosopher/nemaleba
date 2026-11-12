@@ -230,6 +230,23 @@
       "reason": null,
       "note": "Футог Од Новосадске до Цара Лазара и од Жарка Зрењанина до Дунава",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "18e4e6162b1e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-12",
+      "areaLabel": "Руменка",
+      "time": {
+        "start": null,
+        "end": "14:00"
+      },
+      "streets": [
+        "Улица српских добровољаца 1912–1918 и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица српских добровољаца 1912–1918 и околне улице у Руменки.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-12-11-2026/"
     }
   ],
   "history": [
@@ -381,7 +398,7 @@
     {
       "date": "2026-11-12",
       "electricityOutages": 5,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
