@@ -7,227 +7,6 @@
   },
   "outages": [
     {
-      "id": "165f2c63eb1f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-04-11-2026/",
-      "areaLabel": "Бресница",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Јована Ристића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Бресница, ул. Јована Ристића ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "e0d4cece2202",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-04-11-2026/",
-      "areaLabel": "Драгобраћа",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Алозија Антоана"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Драгобраћа, ул. Алозија Антоана ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "80255e3e574a",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-04-11-2026/",
-      "areaLabel": "Илина Вода",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "угао Пионирске и Ћеде Дулејановића"
-      ],
-      "reason": "замена затварача",
-      "note": "Илина Вода, угао Пионирске и Ћеде Дулејановића ( од 08:00 до 12:00 часова ), замена затварача."
-    },
-    {
-      "id": "44e890a005ee",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-04-11-2026/",
-      "areaLabel": "Корман",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Палогорска"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Хаваријска искључења на дан 04.11.2026. \n \n Корман, ул. Палогорска ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "542384dcad47",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-04-11-2026/",
-      "areaLabel": "Грошница",
-      "time": {
-        "start": "12:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Октобарских Жртава"
-      ],
-      "reason": "замена затварача",
-      "note": "Грошница, ул. Октобарских Жртава ( од 12:00 до 15:00 часова ), замена затварача."
-    },
-    {
-      "id": "69b730e6d0c8",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-04-11-2026/",
-      "areaLabel": "Илина Вода",
-      "time": {
-        "start": "12:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Бошка Бухе"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Илина Вода, ул. Бошка Бухе ( од 12:00 до 15:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "4907d0d500ee",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-04-11-2026/",
-      "areaLabel": "Пивара",
-      "time": {
-        "start": "12:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Ћирила и Методија"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Пивара, ул. Ћирила и Методија ( од 12:00 до 15:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "837d4bacee71",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-04-11-2026/",
-      "areaLabel": "Станово",
-      "time": {
-        "start": "12:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Левачког Одреда"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Станово, ул. Левачког Одреда ( од 12:00 до 15:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "94a53570848e",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-04-11-2026/",
-      "areaLabel": "Грошница",
-      "time": {
-        "start": "15:00",
-        "end": "18:00"
-      },
-      "streets": [
-        "Јужноморавскух Бригада"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Грошница, ул. Јужноморавскух Бригада ( од 15:00 до 18:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "e1d0423475d8",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-04-11-2026/",
-      "areaLabel": "Ердоглија",
-      "time": {
-        "start": "15:00",
-        "end": "18:00"
-      },
-      "streets": [
-        "Јадрнска"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Ердоглија, ул. Јадрнска ( од 15:00 до 18:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "4105865d300b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-04-11-2026/",
-      "areaLabel": "Ердоглија",
-      "time": {
-        "start": "15:00",
-        "end": "18:00"
-      },
-      "streets": [
-        "Копаоничка"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Ердоглија, ул. Копаоничка ( од 15:00 до 18:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "4fe87bbaf1c0",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-04-11-2026/",
-      "areaLabel": "Станово",
-      "time": {
-        "start": "15:00",
-        "end": "18:00"
-      },
-      "streets": [
-        "Георги Димитрова"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Станово, ул. Георги Димитрова ( од 15:00 до 18:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "031063a2a4fe",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-11-04",
-      "sourceUrl": "https://jkpvik-kg.com/najava-za-iskljucenje-vode-04-11-2026/",
-      "areaLabel": "Крагујевац",
-      "time": null,
-      "streets": [
-        "следећим улицама: Чеде Дулејановића",
-        "Пионирској",
-        "Вељка Петровића",
-        "Бошка Бухе"
-      ],
-      "reason": null,
-      "note": "Најава за искључење воде 04.11.2026. \n Због неопходних радова на водоводној мрежи на углу улице Чеде Дулејановића и Пионирске у среду 04.11.2026. године у временском периоду од 09:00 до 13:00 сати без воде ће остати потрошачи у следећим улицама: Чеде Дулејановића, Пионирској, Вељка Петровића и Бошка Бухе. \n Приликом пуштања воде може доћи до благог замућења па је потребно воду испустити док се не избистри. \n Моле се потрошачи да обезбеде воду за неопходне потребе."
-    },
-    {
       "id": "d1b2b959a0dc",
       "utility": "water",
       "kind": "emergency",
@@ -938,11 +717,6 @@
   ],
   "history": [
     {
-      "date": "2026-10-13",
-      "electricityOutages": 2,
-      "waterOutages": 6
-    },
-    {
       "date": "2026-10-14",
       "electricityOutages": 2,
       "waterOutages": 12
@@ -1085,6 +859,11 @@
     {
       "date": "2026-11-11",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-12",
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]

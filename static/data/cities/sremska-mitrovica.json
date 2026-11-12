@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "fb7a2b39cf11",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "то парна страна"
-      ],
-      "reason": null,
-      "note": "Због тога ће у времену од 9 до 13 сати без воде бити потрошачи у делу Булевара Константина Великог – од Улице Милана Тепића до Улице Милице Стојадиновић Српкиње и то парна страна.",
-      "sourceUrl": "https://vodovodsm.rs/strana/10213"
-    },
-    {
       "id": "73cc9ac410d4",
       "utility": "water",
       "kind": "emergency",
@@ -110,11 +93,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-10-13",
-      "electricityOutages": 3,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-14",
       "electricityOutages": 0,
@@ -258,6 +236,11 @@
     {
       "date": "2026-11-11",
       "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-12",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

@@ -7,18 +7,6 @@
   },
   "outages": [
     {
-      "id": "31fb258638a7",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-04",
-      "areaLabel": "Кичерска (Рашка)",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у улици Кичерска (Рашка), без воде биће потрошачи те улице  до завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/04-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
       "id": "fbbb14f047d8",
       "utility": "water",
       "kind": "emergency",
@@ -44,11 +32,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-10-13",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-14",
       "electricityOutages": 0,
@@ -191,6 +174,11 @@
     },
     {
       "date": "2026-11-11",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-12",
       "electricityOutages": 0,
       "waterOutages": 0
     }
