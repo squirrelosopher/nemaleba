@@ -5,7 +5,26 @@
     "nameLatin": "Kovačica",
     "branchCyrillic": "Панчево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "517195a1a0a5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Ковачица",
+      "time": {
+        "start": "09:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Дебељача",
+        "Пролетерска (од Д.Ђерђа до Лењинове) и С.Михаља (од Пролетерске до до И.Л.Рибара)"
+      ],
+      "reason": null,
+      "note": "Дебељача, Пролетерска (од Д.Ђерђа до Лењинове) и С.Михаља (од Пролетерске до до И.Л.Рибара)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-14",

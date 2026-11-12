@@ -5,7 +5,71 @@
     "nameLatin": "Crveni krst",
     "branchCyrillic": "Ниш"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "6ba6e47ecbb2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Црвени крст",
+      "time": {
+        "start": "08:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "делови Озренског Одреда",
+        "Обрена Николића",
+        "Бул. 12. фебруара",
+        "8. марта;"
+      ],
+      "reason": null,
+      "note": "делови Озренског Одреда, Обрена Николића, Бул. 12. фебруара, 8. марта;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "63f5d28061de",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Црвени крст",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "делови улица Победе",
+        "Браће Илић",
+        "Данила Прице",
+        "Свете Ивановића",
+        "Браће Јанковић",
+        "Свете Стојановића",
+        "Хум (бб);"
+      ],
+      "reason": null,
+      "note": "делови улица Победе, Браће Илић, Данила Прице, Свете Ивановића, Браће Јанковић, Свете Стојановића, Хум (бб);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "fc0c313d05d7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Црвени крст",
+      "time": {
+        "start": "11:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Доњи Комрен - делови улица Младости",
+        "Брачке (24)",
+        "Драгачевске (19",
+        "25);"
+      ],
+      "reason": null,
+      "note": "Доњи Комрен - делови улица Младости, Брачке (24), Драгачевске (19,25);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-14",

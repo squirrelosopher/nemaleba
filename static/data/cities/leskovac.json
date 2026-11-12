@@ -45,6 +45,24 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "6617f8af1210",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-13",
+      "areaLabel": "Лесковац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "део Доњег Губеревца",
+        "од школе до амбуланте"
+      ],
+      "reason": null,
+      "note": "део Доњег Губеревца, од школе до амбуланте",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "c040c6ff0879",
       "utility": "water",
       "kind": "planned",
