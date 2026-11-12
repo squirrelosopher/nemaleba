@@ -7,18 +7,6 @@
   },
   "outages": [
     {
-      "id": "fbbb14f047d8",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-05",
-      "areaLabel": "Ћуковац",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због оштећења на водоводној мрежи у селу Ћуковац , без воде биће потрошачи тог села као и села Златокоп и Брестовац , завршетка радова.",
-      "sourceUrl": "https://vodovodvranje.rs/05-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
-    },
-    {
       "id": "49b94dffb2ed",
       "utility": "water",
       "kind": "emergency",
@@ -32,11 +20,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-10-14",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-15",
       "electricityOutages": 0,
@@ -179,6 +162,11 @@
     },
     {
       "date": "2026-11-12",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-13",
       "electricityOutages": 0,
       "waterOutages": 0
     }

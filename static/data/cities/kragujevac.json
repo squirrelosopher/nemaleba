@@ -7,142 +7,6 @@
   },
   "outages": [
     {
-      "id": "d1b2b959a0dc",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-05",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-11-2026/",
-      "areaLabel": "Аеродром",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Владимира Роловића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Аеродром, ул. Владимира Роловића ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "1f564af85304",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-05",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-11-2026/",
-      "areaLabel": "Илићево",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Учитељска"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Илићево, ул. Учитељска ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "8455f310bec9",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-05",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-11-2026/",
-      "areaLabel": "Станово",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Милоја Ђака"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Хаваријска искључења на дан 05.11.2026. \n \n Станово, ул. Милоја Ђака ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "e1240a963ad5",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-05",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-11-2026/",
-      "areaLabel": "Ердоглија",
-      "time": {
-        "start": "12:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Јадранска"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Ердоглија, ул. Јадранска ( од 12:00 до 15:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "a78e1607782e",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-05",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-11-2026/",
-      "areaLabel": "Илина Вода",
-      "time": {
-        "start": "12:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Бошка Бухе"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Илина Вода, ул. Бошка Бухе ( од 12:00 до 15:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "cae678e5ab70",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-05",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-11-2026/",
-      "areaLabel": "Станово",
-      "time": {
-        "start": "12:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Лепеничког Одреда"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Станово, ул. Лепеничког Одреда ( од 12:00 до 15:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "129ae798571a",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-05",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-11-2026/",
-      "areaLabel": "Бресница",
-      "time": {
-        "start": "15:00",
-        "end": "18:00"
-      },
-      "streets": [
-        "Војводе Степе"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Бресница, ул. Војводе Степе ( од 15:00 до 18:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "703a7752465d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-05",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-05-11-2026/",
-      "areaLabel": "Грошница",
-      "time": {
-        "start": "15:00",
-        "end": "18:00"
-      },
-      "streets": [
-        "Јужноморавских Бригада"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Грошница, ул. Јужноморавских Бригада ( од 15:00 до 18:00 часова ), поправка кућног прикључка."
-    },
-    {
       "id": "f6828e89016c",
       "utility": "water",
       "kind": "emergency",
@@ -849,11 +713,6 @@
   ],
   "history": [
     {
-      "date": "2026-10-14",
-      "electricityOutages": 2,
-      "waterOutages": 12
-    },
-    {
       "date": "2026-10-15",
       "electricityOutages": 3,
       "waterOutages": 12
@@ -997,6 +856,11 @@
       "date": "2026-11-12",
       "electricityOutages": 2,
       "waterOutages": 9
+    },
+    {
+      "date": "2026-11-13",
+      "electricityOutages": 1,
+      "waterOutages": 0
     }
   ]
 }
