@@ -7,42 +7,6 @@
   },
   "outages": [
     {
-      "id": "a8fcfb8d65f1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-11",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Брба",
-        "од магистрале према Драгосињцима"
-      ],
-      "reason": null,
-      "note": "Брба,од магистрале према Драгосињцима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d62b517d1947",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-11",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "16:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Брба",
-        "од магистрале према Драгосињцима"
-      ],
-      "reason": null,
-      "note": "Брба,од магистрале према Драгосињцима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "6178b224ad40",
       "utility": "electricity",
       "kind": "planned",
@@ -57,7 +21,7 @@
       ],
       "reason": null,
       "note": "У Сирчи и Опланићима засеок Равни Гај.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "c47c6f7de039",
@@ -74,7 +38,7 @@
       ],
       "reason": null,
       "note": "Део улице Цара Лазара око тржног центра.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

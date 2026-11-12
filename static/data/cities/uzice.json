@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "cf328bb02253",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-11",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Луновог Села на изводу за Антонијевиће",
-        "Пониковице и Антонијевићи."
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Луновог Села на изводу за Антонијевиће, Пониковице и Антонијевићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "0672e0c6a184",
       "utility": "electricity",
       "kind": "planned",
@@ -40,7 +22,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Луновог Села на изводу за Антонијевиће, Пониковице и Антонијевићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "f469ff0a40a5",
@@ -57,7 +39,7 @@
       ],
       "reason": null,
       "note": "Потрошачи са подручја Дубаца у Волујцу (потрошачи изнад Трафо станице)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

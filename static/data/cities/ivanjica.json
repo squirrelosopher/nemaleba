@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "d35abf3fb2f5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-11",
-      "areaLabel": "Ивањица",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Миланџа и МЗ Кушићи."
-      ],
-      "reason": null,
-      "note": "Миланџа и МЗ Кушићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "63a7451f0ee4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-11",
-      "areaLabel": "Ивањица",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Чепово и Шареник."
-      ],
-      "reason": null,
-      "note": "Чепово и Шареник.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8e10ee6bbbe3",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Миланџа и МЗ Кушићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "eadadcd0d3d1",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Чепово и Шареник.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b1d3b42b7da8",
@@ -89,7 +55,7 @@
       ],
       "reason": null,
       "note": "Миланџа и МЗ Кушићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "774b0a112a7b",
@@ -106,7 +72,7 @@
       ],
       "reason": null,
       "note": "Чепово и Шареник.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
