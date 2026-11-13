@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "02e96b745099",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Коњува(Прескоча)."
-      ],
-      "reason": null,
-      "note": "Коњува(Прескоча).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "31c6b8f669b3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Куршумлија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Новоселске Ливаде."
-      ],
-      "reason": null,
-      "note": "Новоселске Ливаде.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b5ee072c96a9",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Коњува (Прескоча)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a6da48087841",
@@ -72,7 +38,42 @@
       ],
       "reason": null,
       "note": "Марићиће и Вршевац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "801fd2cbc9c9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Куршумлија",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Коњува (Прескоча)."
+      ],
+      "reason": null,
+      "note": "Коњува (Прескоча).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "1181f602f7fa",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Куршумлија",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Добри До (Мићовићи)",
+        "Љуша -Белоице."
+      ],
+      "reason": null,
+      "note": "Добри До (Мићовићи),Љуша -Белоице.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

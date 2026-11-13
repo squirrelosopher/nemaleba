@@ -5,28 +5,7 @@
     "nameLatin": "Topola",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [
-    {
-      "id": "9ec32b07ae06",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Топола",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Без напајања ће бити Божурња",
-        "Овсиште",
-        "Г.Трнава",
-        "Д.Трнава и део насеља испод ливнице"
-      ],
-      "reason": null,
-      "note": "Без напајања ће бити Божурња,Овсиште,Г.Трнава,Д.Трнава и део насеља испод ливнице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-15",

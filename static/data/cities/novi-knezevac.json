@@ -5,7 +5,25 @@
     "nameLatin": "Novi Kneževac",
     "branchCyrillic": "Суботица"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "c75d01cbefd4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Нови Кнежевац",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Српски Крстур: Вука Караџића, Јована Стерије Поповића (од Светог Саве до Вука Караџића), Хајдук Вељка."
+      ],
+      "reason": null,
+      "note": "Српски Крстур: Вука Караџића, Јована Стерије Поповића (од Светог Саве до Вука Караџића), Хајдук Вељка.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-15",

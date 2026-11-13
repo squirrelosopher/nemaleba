@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "eec11e030dc9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Блаце",
-      "time": {
-        "start": "10:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Карађорђева",
-        "Ђуревац",
-        "Сибница",
-        "Попова",
-        "Пребреза",
-        "Чучале",
-        "Ђжепница",
-        "Трбуње",
-        "Рашица",
-        "Дрешница",
-        "Музаће",
-        "Церовица",
-        "Намастир",
-        "Кашевар",
-        "Барбатовац",
-        "Горња Чунгула",
-        "Гргуре",
-        "Куловац и Вишесело."
-      ],
-      "reason": null,
-      "note": "Карађорђева,Ђуревац,Сибница,Попова,Пребреза,Чучале,Ђжепница,Трбуње,Рашица,Дрешница,Музаће,Церовица,Намастир,Кашевар,Барбатовац,Горња Чунгула,Гргуре,Куловац и Вишесело.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "40c57acc4c60",
       "utility": "electricity",
       "kind": "planned",
@@ -68,7 +34,58 @@
       ],
       "reason": null,
       "note": "Стубал, Суви До, Чунгула, Међухана, Придворица, Претрешња, Горња Јошаница, Суваја, Алабана, Криваја, Драгуша, Доња Јошаница, Сварче, Претежана и Лазаревац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "509f9f90f389",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Блаце",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Доња Пребреза."
+      ],
+      "reason": null,
+      "note": "Доња Пребреза.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "0bd1065c33c4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Блаце",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Доње Чучале."
+      ],
+      "reason": null,
+      "note": "Доње Чучале.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "edd55d9b69e0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Блаце",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Трбуње Судимци."
+      ],
+      "reason": null,
+      "note": "Трбуње Судимци.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

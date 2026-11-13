@@ -5,7 +5,25 @@
     "nameLatin": "Mladenovac",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "3c6c451cae6c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Младеновац",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Насеље ВЛАШКА: БЕОГРАДСКИ ПУТ: 94А,122,144,152,17, МИХАИЛА ПУПИНА: 10А,26А, СТАРИ ПУТ: 25, ВЛАШКА: 93,103-103Б"
+      ],
+      "reason": null,
+      "note": "Насеље ВЛАШКА: БЕОГРАДСКИ ПУТ: 94А,122,144,152,17, МИХАИЛА ПУПИНА: 10А,26А, СТАРИ ПУТ: 25, ВЛАШКА: 93,103-103Б,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-15",

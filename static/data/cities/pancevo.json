@@ -21,7 +21,77 @@
       ],
       "reason": null,
       "note": "Панчево: део Летње улице од Рибарске до Јабучког пута.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "ee52ccc76292",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "08:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "Старчево Ж.Зрењанина (од Војвођанске до В.караџића)"
+      ],
+      "reason": null,
+      "note": "Старчево Ж.Зрењанина (од Војвођанске до В.караџића)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "d88eed0baf5f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Б.Брестовац",
+        "М.Пијаде ( од Млинске до Б.Радичевића)"
+      ],
+      "reason": null,
+      "note": "Б.Брестовац, М.Пијаде ( од Млинске до Б.Радичевића)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "decfc323572b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "КОМПЛЕТНО ВИКЕНД НАСЕЉЕ ЛЕАНКА",
+        "ЖЕЛЕЗНИЧКА СТАНИЦА ЛЕАНКА"
+      ],
+      "reason": null,
+      "note": "КОМПЛЕТНО ВИКЕНД НАСЕЉЕ ЛЕАНКА, ЖЕЛЕЗНИЧКА СТАНИЦА ЛЕАНКА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "ffc2b6f39a4f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "10:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Долово Викенд Насеље Леанка"
+      ],
+      "reason": null,
+      "note": "Долово Викенд Насеље Леанка",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

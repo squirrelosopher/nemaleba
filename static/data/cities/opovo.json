@@ -5,25 +5,7 @@
     "nameLatin": "Opovo",
     "branchCyrillic": "Панчево"
   },
-  "outages": [
-    {
-      "id": "56c4c691187d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Опово",
-      "time": {
-        "start": "09:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Опово: Друго Ново Насеље; И.Л.Рибара од Новог Насеља ка Панчеву"
-      ],
-      "reason": null,
-      "note": "Опово: Друго Ново Насеље; И.Л.Рибара од Новог Насеља ка Панчеву",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-15",

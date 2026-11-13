@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "f12d45a5404f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Деспотовац",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Део села Милива."
-      ],
-      "reason": null,
-      "note": "Део села Милива.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "92797b3c7dac",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Деспотовац",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Део села Трућевац (према Дому)."
-      ],
-      "reason": null,
-      "note": "Део села Трућевац (према Дому).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c153c3bb2753",
       "utility": "electricity",
       "kind": "planned",
@@ -57,7 +23,7 @@
       ],
       "reason": null,
       "note": "део Великог Поповића и фирме ,, Украс \"и ,,млин Јовић\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

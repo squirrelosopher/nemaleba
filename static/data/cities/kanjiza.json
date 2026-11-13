@@ -5,25 +5,7 @@
     "nameLatin": "Kanjiža",
     "branchCyrillic": "Суботица"
   },
-  "outages": [
-    {
-      "id": "aadd678fa7d8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Кањижа",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Трешњевац: Гробљанска, Виноградска (од Хорват Јаноша до Пекла Силвестер), 8 Март, Рекецки Петер, Хорват Јаноша."
-      ],
-      "reason": null,
-      "note": "Трешњевац: Гробљанска, Виноградска (од Хорват Јаноша до Пекла Силвестер), 8 Март, Рекецки Петер, Хорват Јаноша.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-15",

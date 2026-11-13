@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "f4bd007d0787",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Бајина Башта",
-      "time": {
-        "start": "08:30",
-        "end": "09:00"
-      },
-      "streets": [
-        "Насеља: Перућац поље, Симићи, Ђокићи, Љубош, Бесеровина, Јездићи, Максимовићи и Радојичићи"
-      ],
-      "reason": null,
-      "note": "Насеља: Перућац поље, Симићи, Ђокићи, Љубош, Бесеровина, Јездићи, Максимовићи и Радојичићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "63e938e6d927",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Бајина Башта",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеља: Део града испод Болнице - на НН изводу ка Кланици и Тешићима"
-      ],
-      "reason": null,
-      "note": "Насеља: Део града испод Болнице - на НН изводу ка Кланици и Тешићима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1a0291aeb62c",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеља: Део града испод Болнице - на НН изводу ка Свети Милачићу и Сарићима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4de4c7302e2d",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Насеља: Дуб поље, Пејићи, Пачаџије, Панин поток и Николића брдо",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

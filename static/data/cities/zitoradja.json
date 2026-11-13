@@ -5,7 +5,25 @@
     "nameLatin": "Žitorađa",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "3c5ebd48cdba",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Житорађа",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Асановац-Зладовац"
+      ],
+      "reason": null,
+      "note": "Асановац-Зладовац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-15",

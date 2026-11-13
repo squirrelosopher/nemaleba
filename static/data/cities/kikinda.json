@@ -5,7 +5,25 @@
     "nameLatin": "Kikinda",
     "branchCyrillic": "Зрењанин"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "821b9e9db7a8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Улица Светог Саве од Милана Маленчића до Иве Лоле Рибара"
+      ],
+      "reason": null,
+      "note": "Улица Светог Саве од Милана Маленчића до Иве Лоле Рибара",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-15",

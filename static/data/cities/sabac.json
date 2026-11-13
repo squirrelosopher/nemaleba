@@ -7,22 +7,21 @@
   },
   "outages": [
     {
-      "id": "111d5fe606fc",
+      "id": "4e5484269501",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-12",
+      "date": "2026-11-16",
       "areaLabel": "Шабац",
       "time": {
         "start": "08:00",
         "end": "17:00"
       },
       "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ ВИКЕНД НАСЕЉА НА САВИ",
-        "ЈУГОКОП И ЦС ШИРОКА БАРА И ДРЕНОВАЦ"
+        "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ ДРУГОГ ДЕЛА ВИКЕНД НАСЕЉА НА САВИ И ЦС ШИРОКА БАРА И ДРЕНОВАЦ"
       ],
       "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ ВИКЕНД НАСЕЉА НА САВИ, ЈУГОКОП И ЦС ШИРОКА БАРА И ДРЕНОВАЦ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ ДРУГОГ ДЕЛА ВИКЕНД НАСЕЉА НА САВИ И ЦС ШИРОКА БАРА И ДРЕНОВАЦ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

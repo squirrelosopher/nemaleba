@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "cc67d7870353",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "08:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "делови Кованлучке",
-        "Кованлучка други прилаз (89",
-        "20",
-        "22",
-        "бб",
-        "6",
-        "16)",
-        "Кованлучке трећи прилаз (7а",
-        "9а",
-        "17)",
-        "Кованлучке четврти прилаз (1",
-        "7)",
-        "Васе Чарапића (65",
-        "49",
-        "60",
-        "57",
-        "59",
-        "58)",
-        "Марка Јовановића (63);"
-      ],
-      "reason": null,
-      "note": "делови Кованлучке, Кованлучка други прилаз (89,20,22,бб,6,16), Кованлучке трећи прилаз (7а,9а,17), Кованлучке четврти прилаз (1,7), Васе Чарапића (65,49,60,57,59,58), Марка Јовановића (63);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "9d3c2edb424e",
       "utility": "electricity",
       "kind": "planned",
@@ -56,7 +21,7 @@
       ],
       "reason": null,
       "note": "делови Габровца и Габровачког пута 2.део;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "13887e0b6b52",
@@ -73,7 +38,7 @@
       ],
       "reason": null,
       "note": "делови улице Победе (Габровац);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

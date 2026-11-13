@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "bde9367b6aab",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Врбас",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Бачко Добро Поље: ЈНА 1-39, 2-38, бб; М.Тита 2-100, 1-57, бб; П.Драпшина 2-28, 3-19, бб; М.Јелића 32-48, 13-19, бб; Р.Дакића 1-37, 4-48; С.Ковачевића 30-84, 7-19; Његошева 2-108, 11-19; Војовђанска 1-59, 2-58, 124; И.Милутиновића 2-44, 1-47; И.Л.Рибара 33."
-      ],
-      "reason": null,
-      "note": "Бачко Добро Поље: ЈНА 1-39, 2-38, бб; М.Тита 2-100, 1-57, бб; П.Драпшина 2-28, 3-19, бб; М.Јелића 32-48, 13-19, бб; Р.Дакића 1-37, 4-48; С.Ковачевића 30-84, 7-19; Његошева 2-108, 11-19; Војовђанска 1-59, 2-58, 124; И.Милутиновића 2-44, 1-47; И.Л.Рибара 33.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7a14584208bb",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Врбас: М. Тита 8-16",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d9de055c1ce1",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Врбас: Б.Томовића 10-16; М. Тита 22-40",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

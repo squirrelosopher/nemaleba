@@ -7,38 +7,89 @@
   },
   "outages": [
     {
-      "id": "5094ac9b1902",
+      "id": "98e5bf887593",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-12",
+      "date": "2026-11-16",
+      "areaLabel": "Апатин",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "АПАТИН, УЛИЦЕ: ПРВОМАЈСКА, 6.ЛИЧКЕ, В.ВЛАХОВИЋА, Б.ЋОПИЋА, Ђ.ЈАКШИЋА, ДЕО Н.ТЕСЛЕ, С.МАТИЋА, ДЕО М.ОРЕШКОВИЋА, П.ДРАПШИНА, ПАРТИЗАНСКА И ДЕО Д.ТУЦОВИЋА"
+      ],
+      "reason": null,
+      "note": "АПАТИН, УЛИЦЕ: ПРВОМАЈСКА, 6.ЛИЧКЕ, В.ВЛАХОВИЋА, Б.ЋОПИЋА, Ђ.ЈАКШИЋА, ДЕО Н.ТЕСЛЕ, С.МАТИЋА, ДЕО М.ОРЕШКОВИЋА, П.ДРАПШИНА, ПАРТИЗАНСКА И ДЕО Д.ТУЦОВИЋА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "c7241248a0c9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Апатин",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "АПАТИН, УЛИЦЕ: КРУЖНИ НАСИП, И.АНДРИЋА, С.МАТИЋА, Н.ТЕСЛЕ, С.ОПСЕНИЦЕ, ЗВЕЗДАНСКА, ПИОНИРСКА, РОМСКО НАСЕЉЕ"
+      ],
+      "reason": null,
+      "note": "АПАТИН, УЛИЦЕ: КРУЖНИ НАСИП, И.АНДРИЋА, С.МАТИЋА, Н.ТЕСЛЕ, С.ОПСЕНИЦЕ, ЗВЕЗДАНСКА, ПИОНИРСКА, РОМСКО НАСЕЉЕ,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "a4c593301af1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
       "areaLabel": "Апатин",
       "time": {
         "start": "11:00",
         "end": "12:00"
       },
       "streets": [
-        "Апатин: део Пригревачке"
+        "АПАТИН, УЛИЦЕ: ДЕО СОМБОРСКЕ, ДЕО М.РАДАКОВИЋА, П.ШАНДОРА"
       ],
       "reason": null,
-      "note": "Апатин: део Пригревачке",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "АПАТИН, УЛИЦЕ: ДЕО СОМБОРСКЕ, ДЕО М.РАДАКОВИЋА, П.ШАНДОРА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     },
     {
-      "id": "e36074dfbe07",
+      "id": "099213d3b851",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-12",
+      "date": "2026-11-16",
       "areaLabel": "Апатин",
       "time": {
         "start": "12:00",
         "end": "13:00"
       },
       "streets": [
-        "Апатин: део Рибарске и део Савске."
+        "АПАТИН, УЛИЦЕ: Д.ЂЕРЂА, ДЕО М.РАДАКОВИЋА И С.ОПСЕНИЦЕ"
       ],
       "reason": null,
-      "note": "Апатин: део Рибарске и део Савске.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "АПАТИН, УЛИЦЕ: Д.ЂЕРЂА, ДЕО М.РАДАКОВИЋА И С.ОПСЕНИЦЕ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "c9b7adce2ac5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Апатин",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "АПАТИН, УЛИЦЕ: СРП.ВЛАДАРА И Б.РАДИЧЕВИЋА"
+      ],
+      "reason": null,
+      "note": "АПАТИН, УЛИЦЕ: СРП.ВЛАДАРА И Б.РАДИЧЕВИЋА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

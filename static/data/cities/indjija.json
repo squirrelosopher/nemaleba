@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "b784645ddaa0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "09:30"
-      },
-      "streets": [
-        "Инђија: Део улице Брунова око бр.14"
-      ],
-      "reason": null,
-      "note": "Инђија: Део улице Брунова око бр.14",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "3c3148e999bf",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "МЕСТО ЧОРТАНОВЦИ :\r\n• Ул. Д.Петковића\r\n• Ул.Пролетерска\r\n• Ул.Радмиле Васиљевић\r\n• Ул.И.Л.Рибар\r\n• Ул.Т.Јовића\r\n• Ул.Железничка\r\n• Ул.Дунавска\r\n• Ул.Дунавска\r\n• Викенд зона Железничка\r\n• Ул.Београдска\r\n• Ул.Вељка Влаховића\r\n• Ул.М.Тита од бр.1/2 до бр.73\r\n• Ул.Партизанска од бр.1/2 до улице Сокаће\r\n• Ул.Сокаче\r\n• Ул.В.Грбића\r\n• Ул.Фрушкогорска\r\n• Ул.П.П.Одреда\r\n• Ул.Ђурђевска\r\n• Ул.Карловачка\r\n• Ул.С.Ћурћића\r\n• Ул.Ђ.Бегојева\r\n• Ул.В.Војновића\r\n• Ул.Крушке\r\n• Ул.В.Синђелића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9e993461165c",
@@ -55,7 +38,75 @@
       ],
       "reason": null,
       "note": "Чортановци: Д.Петковића; Пролетерска; Радмиле Васиљевић; И.Л.Рибар; Т.Јовића; Железничка; Дунавска; Викенд зона Железничка; Београдска; Вељка Влаховића; М.Тита од бр.1/2 до бр.73; Партизанска од бр.1/2 до улице Сокаче; Сокаче; В.Грбића; Фрушкогорска; П.П.Одреда; Ђурђевска; Карловачка; С.Ћурћића; Ђ.Бегојева; В.Војновића; Крушке; В.Синђелића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "dddfc9f7caf2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "08:00",
+        "end": "09:30"
+      },
+      "streets": [
+        "МЕСТО ИНЂИЈА : Део ул.Првомајска око бр.86"
+      ],
+      "reason": null,
+      "note": "МЕСТО ИНЂИЈА : Део ул.Првомајска око бр.86",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "18ddb08b5976",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "МЕСТО СЛ.ВИНОГРАДИ\r\nул. Владимира Хурбана од ул.Ј.Витеза до краја улице\r\nДео ул.Јанка Чмелика"
+      ],
+      "reason": null,
+      "note": "МЕСТО СЛ.ВИНОГРАДИ\r\nул. Владимира Хурбана од ул.Ј.Витеза до краја улице\r\nДео ул.Јанка Чмелика",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "d1756607d2c4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "09:30",
+        "end": "10:00"
+      },
+      "streets": [
+        "МЕСТО ЧОРТАНОВЦИ : Део ул.Железничка око бр.9"
+      ],
+      "reason": null,
+      "note": "МЕСТО ЧОРТАНОВЦИ : Део ул.Железничка око бр.9",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "0c5057ad4bd2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "10:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "МЕСТО МАРАДИК : Део ул.Косте Нађа"
+      ],
+      "reason": null,
+      "note": "МЕСТО МАРАДИК : Део ул.Косте Нађа",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

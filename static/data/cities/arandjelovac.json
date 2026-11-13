@@ -5,26 +5,7 @@
     "nameLatin": "Aranđelovac",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [
-    {
-      "id": "8834cf6660ac",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Аранђеловац",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део села Раниловић",
-        "од пластеника Благојевић - према граду."
-      ],
-      "reason": null,
-      "note": "Део села Раниловић, од пластеника Благојевић - према граду.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-15",

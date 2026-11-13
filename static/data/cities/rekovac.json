@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "bdb9b50448d9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Рековац",
-      "time": {
-        "start": "08:30",
-        "end": "16:30"
-      },
-      "streets": [
-        "Село Сиљевица"
-      ],
-      "reason": null,
-      "note": "Село Сиљевица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "58b6c8cf3f12",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,24 @@
       ],
       "reason": null,
       "note": "Село Сиљевица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "6f9cd9305a57",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Рековац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Села: Доњи Крчин ,Средњи Крчин ,Горњи Крчин ,Мала Крушевица ,Тољевац и Карановац"
+      ],
+      "reason": null,
+      "note": "Села: Доњи Крчин ,Средњи Крчин ,Горњи Крчин ,Мала Крушевица ,Тољевац и Карановац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

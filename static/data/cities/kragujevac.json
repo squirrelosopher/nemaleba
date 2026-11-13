@@ -509,36 +509,6 @@
       "note": "Хаваријска искључења на дан 12.11.2026. \n \n Ердоглија, ул. Словачких Побуњеника ( од 08:00 до 12:00 часова ), поправка уличне линије."
     },
     {
-      "id": "9ce5f4e0d0f9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "08:00",
-        "end": "18:00"
-      },
-      "streets": [
-        "Банијских бригада",
-        "Бранка Миљковића",
-        "Далматинских бригада",
-        "Иве Андрића",
-        "Херцеговачких и Крајишких бригада",
-        "Поскурички пут",
-        "Симе Матавуља",
-        "Војвођанских бригада",
-        "Бихорска",
-        "Горњомилановачка",
-        "Мајевичка",
-        "Македонских бригада",
-        "Валентина Водника",
-        "Вршачка"
-      ],
-      "reason": null,
-      "note": "Банијских бригада, Бранка Миљковића, Далматинских бригада, Иве Андрића, Херцеговачких и Крајишких бригада, Поскурички пут, Симе Матавуља, Војвођанских бригада, Бихорска, Горњомилановачка, Мајевичка, Македонских бригада, Валентина Водника, Вршачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8e10f08df61c",
       "utility": "water",
       "kind": "emergency",
@@ -569,25 +539,6 @@
       ],
       "reason": "поправка кућног прикључка",
       "note": "Пчелице, ул. Љубомира Јовановића ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "503ad203b9fe",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Бозман",
-        "Јовановац - Аксићи",
-        "Гај"
-      ],
-      "reason": null,
-      "note": "Бозман, Јовановац - Аксићи, Гај",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e4075fa1c5ff",
@@ -759,7 +710,7 @@
       ],
       "reason": null,
       "note": "Бозман, Јовановац - Аксићи, Гај",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "cc23abf4b99f",

@@ -5,25 +5,7 @@
     "nameLatin": "Ljubovija",
     "branchCyrillic": "Лозница"
   },
-  "outages": [
-    {
-      "id": "ab90537c013b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Љубовија",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Горње Кошље"
-      ],
-      "reason": null,
-      "note": "Горње Кошље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-15",
