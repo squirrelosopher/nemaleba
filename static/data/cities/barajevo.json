@@ -5,7 +5,25 @@
     "nameLatin": "Barajevo",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "8f43359d0a78",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Барајево",
+      "time": {
+        "start": "03:00",
+        "end": "06:00"
+      },
+      "streets": [
+        "Насеље БОЖДАРЕВАЦ: КОСМАЈСКО-ПОСАВСКОГ ОДРЕДА: 0"
+      ],
+      "reason": null,
+      "note": "Насеље БОЖДАРЕВАЦ: КОСМАЈСКО-ПОСАВСКОГ ОДРЕДА: 0,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-15",

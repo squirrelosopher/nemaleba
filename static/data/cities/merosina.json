@@ -24,23 +24,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "221ce75afb00",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-16",
-      "areaLabel": "Мерошина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Падина"
-      ],
-      "reason": null,
-      "note": "Падина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
-    },
-    {
       "id": "a3bf147646d9",
       "utility": "electricity",
       "kind": "planned",
@@ -58,20 +41,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     },
     {
-      "id": "0234ee3deac0",
+      "id": "221ce75afb00",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-11-16",
       "areaLabel": "Мерошина",
       "time": {
-        "start": "11:00",
-        "end": "13:00"
+        "start": "09:00",
+        "end": "14:00"
       },
       "streets": [
-        "Облачина"
+        "Падина"
       ],
       "reason": null,
-      "note": "Облачина",
+      "note": "Падина",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     },
     {
@@ -89,6 +72,23 @@
       ],
       "reason": null,
       "note": "Крајковац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "0234ee3deac0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Облачина"
+      ],
+      "reason": null,
+      "note": "Облачина",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],

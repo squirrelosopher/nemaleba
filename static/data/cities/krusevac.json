@@ -5,7 +5,42 @@
     "nameLatin": "Kruševac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "1a37187e407a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насељена места Капиџија и Прештип и делови насељених места Паруновац и Гаглово."
+      ],
+      "reason": null,
+      "note": "Насељена места Капиџија и Прештип и делови насељених места Паруновац и Гаглово.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "1d764a02d006",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део насељеног места Модрица (према Дворану)"
+      ],
+      "reason": null,
+      "note": "Део насељеног места Модрица (према Дворану)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-15",

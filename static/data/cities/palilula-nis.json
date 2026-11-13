@@ -39,6 +39,47 @@
       "reason": null,
       "note": "делови улице Победе (Габровац);",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "7a7b2173b455",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "делови улица Бањалучке",
+        "Драинчеве",
+        "Ген. Милојка Лешајанина",
+        "Љутице Богдана",
+        "Сувоборске",
+        "Шумадијске",
+        "Уроша Динића;"
+      ],
+      "reason": null,
+      "note": "делови улица Бањалучке, Драинчеве, Ген. Милојка Лешајанина, Љутице Богдана, Сувоборске, Шумадијске, Уроша Динића;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "d8c3dfb4df46",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "део улице Лоле Стојановића (6-33",
+        "бб);"
+      ],
+      "reason": null,
+      "note": "део улице Лоле Стојановића (6-33,бб);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

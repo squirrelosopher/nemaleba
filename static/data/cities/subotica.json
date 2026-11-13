@@ -209,6 +209,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     },
     {
+      "id": "eaf47d352783",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Суботица",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Љутово: Део Розике Вуковић, Николе Тесле бр.8"
+      ],
+      "reason": null,
+      "note": "Љутово: Део Розике Вуковић, Николе Тесле бр.8",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
       "id": "93146040db91",
       "utility": "electricity",
       "kind": "planned",
@@ -240,23 +257,6 @@
       ],
       "reason": null,
       "note": "Мале Пијаце: Ади Ендре, Ослобођења.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
-    },
-    {
-      "id": "4c0b2620e7d7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-16",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "у Суботици у улицама: Кирешка ( између Хероја Пинкија и Партизанских база ) и Партизанских база ( 128,130 )."
-      ],
-      "reason": null,
-      "note": "у Суботици у улицама: Кирешка ( између Хероја Пинкија и Партизанских база ) и Партизанских база ( 128,130 ).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     },
     {

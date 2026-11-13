@@ -5,7 +5,25 @@
     "nameLatin": "Opovo",
     "branchCyrillic": "Панчево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f869a7d1005a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Опово",
+      "time": {
+        "start": "09:00",
+        "end": "10:30"
+      },
+      "streets": [
+        "Опово: И.Л.Рибара од Б.Нушића до Безимене"
+      ],
+      "reason": null,
+      "note": "Опово: И.Л.Рибара од Б.Нушића до Безимене",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-15",

@@ -5,7 +5,59 @@
     "nameLatin": "Aleksinac",
     "branchCyrillic": "Ниш"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f48d478f050d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Алексинац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део Радевца"
+      ],
+      "reason": null,
+      "note": "Део Радевца",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "b50ff2a74be1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Алексинац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Део Житковачког Пута Индуриска зона око Фероса"
+      ],
+      "reason": null,
+      "note": "Део Житковачког Пута Индуриска зона око Фероса",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "490de07a29b0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Алексинац",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Део Житковачког Пута Индусриска зона око Асфалтне Базе"
+      ],
+      "reason": null,
+      "note": "Део Житковачког Пута Индусриска зона око Асфалтне Базе",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-15",

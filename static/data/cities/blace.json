@@ -37,23 +37,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "509f9f90f389",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-16",
-      "areaLabel": "Блаце",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Доња Пребреза."
-      ],
-      "reason": null,
-      "note": "Доња Пребреза.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
-    },
-    {
       "id": "0bd1065c33c4",
       "utility": "electricity",
       "kind": "planned",
@@ -68,6 +51,23 @@
       ],
       "reason": null,
       "note": "Доње Чучале.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "509f9f90f389",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-16",
+      "areaLabel": "Блаце",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Доња Пребреза."
+      ],
+      "reason": null,
+      "note": "Доња Пребреза.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     },
     {

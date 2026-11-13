@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T14:11:33.331Z",
+  "generatedAt": "2026-11-13T16:11:25.160Z",
   "summary": {
     "date": "2026-11-13",
-    "electricityOutages": 189,
+    "electricityOutages": 223,
     "waterOutages": 23,
     "affected": [
       {
@@ -12,16 +12,16 @@
         "waterOutages": 0
       },
       {
-        "id": "beograd",
-        "nameCyrillic": "Београд",
-        "electricityOutages": 15,
-        "waterOutages": 0
-      },
-      {
         "id": "nis",
         "nameCyrillic": "Ниш",
-        "electricityOutages": 7,
+        "electricityOutages": 12,
         "waterOutages": 8
+      },
+      {
+        "id": "beograd",
+        "nameCyrillic": "Београд",
+        "electricityOutages": 19,
+        "waterOutages": 0
       },
       {
         "id": "apatin",
@@ -34,6 +34,12 @@
         "nameCyrillic": "Крагујевац",
         "electricityOutages": 1,
         "waterOutages": 9
+      },
+      {
+        "id": "vranje",
+        "nameCyrillic": "Врање",
+        "electricityOutages": 5,
+        "waterOutages": 1
       },
       {
         "id": "indjija",
@@ -50,6 +56,12 @@
       {
         "id": "odzaci",
         "nameCyrillic": "Оџаци",
+        "electricityOutages": 6,
+        "waterOutages": 0
+      },
+      {
+        "id": "sremska-mitrovica",
+        "nameCyrillic": "Сремска Митровица",
         "electricityOutages": 6,
         "waterOutages": 0
       },
@@ -102,8 +114,20 @@
         "waterOutages": 0
       },
       {
-        "id": "sremska-mitrovica",
-        "nameCyrillic": "Сремска Митровица",
+        "id": "leskovac",
+        "nameCyrillic": "Лесковац",
+        "electricityOutages": 3,
+        "waterOutages": 1
+      },
+      {
+        "id": "paracin",
+        "nameCyrillic": "Параћин",
+        "electricityOutages": 4,
+        "waterOutages": 0
+      },
+      {
+        "id": "pirot",
+        "nameCyrillic": "Пирот",
         "electricityOutages": 4,
         "waterOutages": 0
       },
@@ -120,20 +144,26 @@
         "waterOutages": 0
       },
       {
+        "id": "aleksinac",
+        "nameCyrillic": "Алексинац",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
         "id": "vrsac",
         "nameCyrillic": "Вршац",
         "electricityOutages": 3,
         "waterOutages": 0
       },
       {
-        "id": "osecina",
-        "nameCyrillic": "Осечина",
+        "id": "jagodina",
+        "nameCyrillic": "Јагодина",
         "electricityOutages": 3,
         "waterOutages": 0
       },
       {
-        "id": "pirot",
-        "nameCyrillic": "Пирот",
+        "id": "osecina",
+        "nameCyrillic": "Осечина",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -156,6 +186,12 @@
         "waterOutages": 0
       },
       {
+        "id": "babusnica",
+        "nameCyrillic": "Бабушница",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
         "id": "bajina-basta",
         "nameCyrillic": "Бајина Башта",
         "electricityOutages": 2,
@@ -164,6 +200,12 @@
       {
         "id": "backa-topola",
         "nameCyrillic": "Бачка Топола",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "bela-palanka",
+        "nameCyrillic": "Бела Паланка",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -192,16 +234,10 @@
         "waterOutages": 0
       },
       {
-        "id": "jagodina",
-        "nameCyrillic": "Јагодина",
+        "id": "krusevac",
+        "nameCyrillic": "Крушевац",
         "electricityOutages": 2,
         "waterOutages": 0
-      },
-      {
-        "id": "leskovac",
-        "nameCyrillic": "Лесковац",
-        "electricityOutages": 1,
-        "waterOutages": 1
       },
       {
         "id": "mali-zvornik",
@@ -214,12 +250,6 @@
         "nameCyrillic": "Нови Сад",
         "electricityOutages": 0,
         "waterOutages": 2
-      },
-      {
-        "id": "paracin",
-        "nameCyrillic": "Параћин",
-        "electricityOutages": 2,
-        "waterOutages": 0
       },
       {
         "id": "petrovac",
@@ -240,8 +270,8 @@
         "waterOutages": 0
       },
       {
-        "id": "babusnica",
-        "nameCyrillic": "Бабушница",
+        "id": "aleksandrovac",
+        "nameCyrillic": "Александровац",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -252,8 +282,8 @@
         "waterOutages": 0
       },
       {
-        "id": "bela-palanka",
-        "nameCyrillic": "Бела Паланка",
+        "id": "backi-petrovac",
+        "nameCyrillic": "Бачки Петровац",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -270,10 +300,10 @@
         "waterOutages": 0
       },
       {
-        "id": "vranje",
-        "nameCyrillic": "Врање",
-        "electricityOutages": 0,
-        "waterOutages": 1
+        "id": "brus",
+        "nameCyrillic": "Брус",
+        "electricityOutages": 1,
+        "waterOutages": 0
       },
       {
         "id": "golubac",
@@ -366,8 +396,20 @@
         "waterOutages": 0
       },
       {
+        "id": "opovo",
+        "nameCyrillic": "Опово",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
         "id": "raca",
         "nameCyrillic": "Рача",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "raska",
+        "nameCyrillic": "Рашка",
         "electricityOutages": 1,
         "waterOutages": 0
       },

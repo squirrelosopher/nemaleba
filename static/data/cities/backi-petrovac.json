@@ -5,7 +5,26 @@
     "nameLatin": "Bački Petrovac",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "7a1badc892d7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-14",
+      "areaLabel": "Бачки Петровац",
+      "time": {
+        "start": "08:00",
+        "end": "08:15"
+      },
+      "streets": [
+        "Цео Бачки Петровац",
+        "Кулпин и индустријска зона у Петровцу"
+      ],
+      "reason": null,
+      "note": "Цео Бачки Петровац , Кулпин и индустријска зона у Петровцу",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-15",
