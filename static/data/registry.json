@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T09:11:28.640Z",
+  "generatedAt": "2026-11-13T10:11:32.850Z",
   "summary": {
     "date": "2026-11-13",
     "electricityOutages": 189,
-    "waterOutages": 20,
+    "waterOutages": 21,
     "affected": [
       {
         "id": "subotica",
@@ -270,6 +270,12 @@
         "waterOutages": 0
       },
       {
+        "id": "vranje",
+        "nameCyrillic": "Врање",
+        "electricityOutages": 0,
+        "waterOutages": 1
+      },
+      {
         "id": "golubac",
         "nameCyrillic": "Голубац",
         "electricityOutages": 1,
@@ -534,7 +540,7 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 119,
-      "waterOutages": 20
+      "waterOutages": 21
     }
   ],
   "providers": [
