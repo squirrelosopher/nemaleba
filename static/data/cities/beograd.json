@@ -7,227 +7,6 @@
   },
   "outages": [
     {
-      "id": "eeea3b62f213",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "08:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Љиг: насеље Тодоревац ка Гукошу."
-      ],
-      "reason": null,
-      "note": "Љиг: насеље Тодоревац ка Гукошу.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "4d94089531b1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "МАЈЕВИЧКА: 36,1,7, ЗЕЛЕНГОРСКА: 2-8б,14-14а,1-1А,83"
-      ],
-      "reason": null,
-      "note": "МАЈЕВИЧКА: 36,1,7, ЗЕЛЕНГОРСКА: 2-8б,14-14а,1-1А,83,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "840589a514ad",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Насеље Шушњар (засеок Живановићи)."
-      ],
-      "reason": null,
-      "note": "Насеље Шушњар (засеок Живановићи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "cafa1560bbbd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Горњи Милановац: насеље Ручић (засеок Крива река-према прузи)."
-      ],
-      "reason": null,
-      "note": "Горњи Милановац: насеље Ручић (засеок Крива река-према прузи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "7ab84a4ae2c0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "ИЗЛЕТНИЧКИ ПУТ: 2,12-14,18,5, ЗЕЛЕНГОРСКА: 4-8,1"
-      ],
-      "reason": null,
-      "note": "ИЗЛЕТНИЧКИ ПУТ: 2,12-14,18,5, ЗЕЛЕНГОРСКА: 4-8,1,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "522d491475f4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље БОРЧА: БИЛОГОРСКА: 16-34,15-21,25,29, БОРЧАНСКИХ ЖРТАВА 1914: 52-52А,56-64,68-76,82-106,112А,122-136,47-55,61-101Б,133М, БОРИСА КИДРИЧА: 82А-82Б,88А-96,100-106,110Б-114,122А-128В,73-81А,85-103,173А, КОЦЕЉЕВАЧКА: 2-4,10-12,20,24,44А,37Б, МИОНИЧКА: 2,8-18,22-24,15-23,27-37,41, ПСУЊСКА: 22-28,32-34,31-49, УСТАВСКА: 8"
-      ],
-      "reason": null,
-      "note": "Насеље БОРЧА: БИЛОГОРСКА: 16-34,15-21,25,29, БОРЧАНСКИХ ЖРТАВА 1914: 52-52А,56-64,68-76,82-106,112А,122-136,47-55,61-101Б,133М, БОРИСА КИДРИЧА: 82А-82Б,88А-96,100-106,110Б-114,122А-128В,73-81А,85-103,173А, КОЦЕЉЕВАЧКА: 2-4,10-12,20,24,44А,37Б, МИОНИЧКА: 2,8-18,22-24,15-23,27-37,41, ПСУЊСКА: 22-28,32-34,31-49, УСТАВСКА: 8,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d1087b94ba4d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеље ЖАРКОВО: ВЕЉКА ПЕТРОВИЋА: 58-64,73-79"
-      ],
-      "reason": null,
-      "note": "Насеље ЖАРКОВО: ВЕЉКА ПЕТРОВИЋА: 58-64,73-79,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "59a71825ba3b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Врачар",
-      "time": {
-        "start": "09:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "ЦЕРСКА: 10"
-      ],
-      "reason": null,
-      "note": "ЦЕРСКА: 10,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "3fdf440c374f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Сурчин",
-      "time": {
-        "start": "10:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Насеље СУРЧИН: АНЕ КАРЕЊИНЕ: 1, БРАНКА МИЉКОВИЋА: 5,9-11, КАЈМАКЧАЛАНСКА: 27-29, ПАРИСКА: 5А, СТЕРИЈИНА: 55-57, ВОЈВОЂАНСКА: 402В-412г,418-420В,379А,385-385Ф"
-      ],
-      "reason": null,
-      "note": "Насеље СУРЧИН: АНЕ КАРЕЊИНЕ: 1, БРАНКА МИЉКОВИЋА: 5,9-11, КАЈМАКЧАЛАНСКА: 27-29, ПАРИСКА: 5А, СТЕРИЈИНА: 55-57, ВОЈВОЂАНСКА: 402В-412г,418-420В,379А,385-385Ф,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "475d9d5e588b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "10:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "Лајковац: насеље Словац (засеок према Степању)."
-      ],
-      "reason": null,
-      "note": "Лајковац: насеље Словац (засеок према Степању).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "4bcf3ea4e000",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "11:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље Латковић (засеок Кула)."
-      ],
-      "reason": null,
-      "note": "Насеље Латковић (засеок Кула).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c506ee12a496",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Савски венац",
-      "time": {
-        "start": "12:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "БИРЧАНИНОВА: 2-2А, ХАЈДУК-ВЕЉКОВ ВЕНАЦ: ББ,ББ,7, РИСАНСКА: 3, САРАЈЕВСКА: 2-6,1-9"
-      ],
-      "reason": null,
-      "note": "БИРЧАНИНОВА: 2-2А, ХАЈДУК-ВЕЉКОВ ВЕНАЦ: ББ,ББ,7, РИСАНСКА: 3, САРАЈЕВСКА: 2-6,1-9,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "9d4e652eb0ea",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "13:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Лајковац: насеље Бајевац (засеок Павловићи)."
-      ],
-      "reason": null,
-      "note": "Лајковац: насеље Бајевац (засеок Павловићи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "633eef72ec50",
       "utility": "electricity",
       "kind": "planned",
@@ -242,24 +21,7 @@
       ],
       "reason": null,
       "note": "АУТОПУТ ЗА НОВИ САД: 54-56,62, ЈОСИПА ШЕНЕРА: 1-15, СВЕТОЗАРА ПАПИЋА: 2-2д,5-29,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "b0ca8cb35f83",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "БУЛ. ДЕСПОТА СТЕФАНА: 119-135А, ВУКА ВРЧЕВИЋА: 2-4А,1-5"
-      ],
-      "reason": null,
-      "note": "БУЛ. ДЕСПОТА СТЕФАНА: 119-135А, ВУКА ВРЧЕВИЋА: 2-4А,1-5,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "81a6703620d7",
@@ -276,7 +38,7 @@
       ],
       "reason": null,
       "note": "ДАЛМАТИНСКА: 17-25, ДРАЖЕ ПАВЛОВИЋА: 8-16А,7-17, ЂУШИНА: 28-32, ТАКОВСКА: 36-38,36-38,46-46,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "83aa2cd4922a",
@@ -293,7 +55,7 @@
       ],
       "reason": null,
       "note": "Насеље ЖАРКОВО: МИЛАНА ЈОВАНОВИЋА: 2-8, ПОРУЧНИКА СПАСИЋА И МАШЕРЕ: 20-28А,17,21, ТРГОВАЧКА: 2-14Д, ВОДОВОДСКА: 2-18,24-34,21,25-25,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "11c97855f80b",
@@ -310,7 +72,7 @@
       ],
       "reason": null,
       "note": "ВОЈВОДЕ ШУПЉИКЦА: 42,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4a9ec1a4a027",
@@ -327,7 +89,7 @@
       ],
       "reason": null,
       "note": "БРАНКА КРСМАНОВИЋА: 2, ВОЈВОДЕ ШУПЉИКЦА: 57, ЖИЧКА: 1-5,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "03d82d6df316",
@@ -344,7 +106,7 @@
       ],
       "reason": null,
       "note": "Насеље Јунковац (засеок Белаћевићи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "09016623abda",
@@ -361,7 +123,7 @@
       ],
       "reason": null,
       "note": "ДУШАНА ВУКАСОВИЋА: 16-36А,5Б-19,35Б-35Б, СУРЧИНСКА: 4,1А-7Б, СУРЧИНСКИ ПУТ: 8а-8б,14-16б,62-62А,3-9ж,21-21в,31-33г,37-37е,57-57з,61ђ,261, ВИНОГРАДСКА: 2,36-44А,48-98,102-116А,126-130,9г,31е-31и,35Б-41в,151, ВОЈВОЂАНСКА: ББ,ББ,80-152,113, Насеље Н БЕОГРАД: СУРЧИНСКИ ПУТ: 13А-17Б, Насеље НОВИ БЕОГРАД: КРОЈАЧКА: 14, ТОКАРСКА: 20,3-7,15,27, УНИВЕРЗИЈАДЕ: 61Ђ, ЗОГРАФСКА: 2-8,5,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1abc56390d3f",
@@ -378,7 +140,7 @@
       ],
       "reason": null,
       "note": "БУЛЕВАР МИХАЈЛА ПУПИНА (Булевар Лењина): 6,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "75b4e7bfa246",
@@ -395,7 +157,7 @@
       ],
       "reason": null,
       "note": "МАСАРИКОВА: 2/,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "4df27c5f2673",
@@ -412,7 +174,7 @@
       ],
       "reason": null,
       "note": "МИЛЕНТИЈА ПОПОВИЋА: 11-29,33-43, МИЛУТИНА МИЛАНКОВИЋА: 1А-1К,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "f2da69ad0180",
@@ -648,7 +410,7 @@
     },
     {
       "date": "2026-11-13",
-      "electricityOutages": 8,
+      "electricityOutages": 7,
       "waterOutages": 0
     }
   ]

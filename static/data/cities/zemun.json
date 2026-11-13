@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "4d94089531b1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "МАЈЕВИЧКА: 36,1,7, ЗЕЛЕНГОРСКА: 2-8б,14-14а,1-1А,83"
-      ],
-      "reason": null,
-      "note": "МАЈЕВИЧКА: 36,1,7, ЗЕЛЕНГОРСКА: 2-8б,14-14а,1-1А,83,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "633eef72ec50",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "АУТОПУТ ЗА НОВИ САД: 54-56,62, ЈОСИПА ШЕНЕРА: 1-15, СВЕТОЗАРА ПАПИЋА: 2-2д,5-29,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f2da69ad0180",

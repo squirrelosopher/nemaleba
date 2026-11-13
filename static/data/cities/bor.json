@@ -49,6 +49,20 @@
       "reason": "Санација кварова на водоводној мрежи",
       "note": "Савача Улица Бранка Радичевића Кварови на мерним местима – у шахтама",
       "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-12-11-2026-god/"
+    },
+    {
+      "id": "77e0a683d896",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-13",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Савача – Вулканска улица"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Савача – Вулканска улица Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-petak-13-11-2026-god/"
     }
   ],
   "history": [
@@ -200,7 +214,7 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

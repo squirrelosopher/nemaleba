@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "522d491475f4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље БОРЧА: БИЛОГОРСКА: 16-34,15-21,25,29, БОРЧАНСКИХ ЖРТАВА 1914: 52-52А,56-64,68-76,82-106,112А,122-136,47-55,61-101Б,133М, БОРИСА КИДРИЧА: 82А-82Б,88А-96,100-106,110Б-114,122А-128В,73-81А,85-103,173А, КОЦЕЉЕВАЧКА: 2-4,10-12,20,24,44А,37Б, МИОНИЧКА: 2,8-18,22-24,15-23,27-37,41, ПСУЊСКА: 22-28,32-34,31-49, УСТАВСКА: 8"
-      ],
-      "reason": null,
-      "note": "Насеље БОРЧА: БИЛОГОРСКА: 16-34,15-21,25,29, БОРЧАНСКИХ ЖРТАВА 1914: 52-52А,56-64,68-76,82-106,112А,122-136,47-55,61-101Б,133М, БОРИСА КИДРИЧА: 82А-82Б,88А-96,100-106,110Б-114,122А-128В,73-81А,85-103,173А, КОЦЕЉЕВАЧКА: 2-4,10-12,20,24,44А,37Б, МИОНИЧКА: 2,8-18,22-24,15-23,27-37,41, ПСУЊСКА: 22-28,32-34,31-49, УСТАВСКА: 8,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b0ca8cb35f83",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "БУЛ. ДЕСПОТА СТЕФАНА: 119-135А, ВУКА ВРЧЕВИЋА: 2-4А,1-5"
-      ],
-      "reason": null,
-      "note": "БУЛ. ДЕСПОТА СТЕФАНА: 119-135А, ВУКА ВРЧЕВИЋА: 2-4А,1-5,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "81a6703620d7",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "ДАЛМАТИНСКА: 17-25, ДРАЖЕ ПАВЛОВИЋА: 8-16А,7-17, ЂУШИНА: 28-32, ТАКОВСКА: 36-38,36-38,46-46,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -206,7 +172,7 @@
     },
     {
       "date": "2026-11-13",
-      "electricityOutages": 2,
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

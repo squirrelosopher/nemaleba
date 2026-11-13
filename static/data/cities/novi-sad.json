@@ -141,6 +141,40 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 14 сати бити Улица српских добровољаца 1912–1918 и околне улице у Руменки.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-12-11-2026/"
+    },
+    {
+      "id": "0035e318a0b7",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-13",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица Јована Храниловића"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Јована Храниловића.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-13-11-2026/"
+    },
+    {
+      "id": "e97c19579d8c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-13",
+      "areaLabel": "Петроварадин",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [
+        "Улица Мирка Матака и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Мирка Матака и околне улице у Петроварадину.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-13-11-2026/"
     }
   ],
   "history": [
@@ -292,7 +326,7 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 2
     }
   ]
 }

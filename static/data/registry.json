@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T07:11:28.435Z",
+  "generatedAt": "2026-11-13T08:11:31.138Z",
   "summary": {
     "date": "2026-11-13",
-    "electricityOutages": 190,
-    "waterOutages": 11,
+    "electricityOutages": 189,
+    "waterOutages": 14,
     "affected": [
       {
         "id": "subotica",
@@ -14,7 +14,7 @@
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 16,
+        "electricityOutages": 15,
         "waterOutages": 0
       },
       {
@@ -210,6 +210,12 @@
         "waterOutages": 0
       },
       {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 0,
+        "waterOutages": 2
+      },
+      {
         "id": "paracin",
         "nameCyrillic": "Параћин",
         "electricityOutages": 2,
@@ -250,6 +256,12 @@
         "nameCyrillic": "Бела Паланка",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "bor",
+        "nameCyrillic": "Бор",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "bosilegrad",
@@ -521,8 +533,8 @@
     },
     {
       "date": "2026-11-13",
-      "electricityOutages": 120,
-      "waterOutages": 11
+      "electricityOutages": 119,
+      "waterOutages": 14
     }
   ],
   "providers": [
