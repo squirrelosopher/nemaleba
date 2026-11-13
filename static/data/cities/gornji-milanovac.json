@@ -5,34 +5,8 @@
     "nameLatin": "Gornji Milanovac",
     "branchCyrillic": "Чачак"
   },
-  "outages": [
-    {
-      "id": "c1a9e6ffd616",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Горњи Милановац",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "У селима од Накучана према Шилопају",
-        "Давидовици",
-        "Мутњу",
-        "Церови и Кривој Реци."
-      ],
-      "reason": null,
-      "note": "У селима од Накучана према Шилопају ,Давидовици,Мутњу,Церови и Кривој Реци.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 1,
@@ -176,6 +150,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

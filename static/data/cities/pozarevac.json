@@ -5,13 +5,26 @@
     "nameLatin": "Požarevac",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
+      "id": "5f64157a7803",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Пожаревац",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Дунавска 3-21"
+      ],
+      "reason": null,
+      "note": "Дунавска 3-21",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-16",
       "electricityOutages": 0,
@@ -154,6 +167,11 @@
     },
     {
       "date": "2026-11-13",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
       "electricityOutages": 0,
       "waterOutages": 0
     }

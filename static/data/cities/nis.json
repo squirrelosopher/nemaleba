@@ -7,129 +7,6 @@
   },
   "outages": [
     {
-      "id": "634c82ddcccb",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-06",
-      "areaLabel": "Поповац",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Милета Ђурђановића"
-      ],
-      "reason": null,
-      "note": "ПРЕКИД САОБРАЋАЈА У СЕЛУ ПОПОВАЦ астављају се радови на канализационој мрежи и због истих се обуставља саобраћај у улици Милета Ђурђановића, на простору од подвожњака ка центру села. Радови се одвијају и ове недеље и због тога остаје обавештење о прекиду саобраћаја свакога дана од 8 до 15 часова на поменутој локацији",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-211/"
-    },
-    {
-      "id": "a16ccb4900a1",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-06",
-      "areaLabel": "Ниш",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Јурија Гагарина"
-      ],
-      "reason": null,
-      "note": "РАДОВИ НА МРЕЖИ У ПАСИ ПОЉАНИ току су радови на формирању чвора и превезивању новоизграђене на постојећу водоводну мрежу у улици Јурија Гагарина. Због интервенције биће у прекиду водоснабдевање до 15 часова на простору између улица: 1300 Каплара, Сердара Јола Пилетића и Радивоја Кораћа",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-211/"
-    },
-    {
-      "id": "abba63ca281f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-06",
-      "areaLabel": "Ниш",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Танасија Михајловића Шпанца"
-      ],
-      "reason": null,
-      "note": "ИНТЕРВЕНЦИЈА НА ПАЛИЛУЛИ ода на површини, неопходан је ископ у улици Танасија Михајловића Шпанца, код броја 9. Због поправке водоводне мреже биће у прекиду водоснабдевање до 15 часова у улици Танасија Михајловића Шпанца",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-211/"
-    },
-    {
-      "id": "f56361aded97",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-06",
-      "areaLabel": "Ниш",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Видоја Јовановића"
-      ],
-      "reason": null,
-      "note": "ПОПРАВКА КВАРА У НИШКОЈ БАЊИ ода на асфалту, потребан је ископ у улици Видоја Јовановића, код броја 1. Због поправке водоводне мреже биће у прекиду водоснабдевањe до 15 часова у улици Видоја Јовановића и могућ прекид у Видоја Јовановића – прилази и делу улице Трг републике",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-211/"
-    },
-    {
-      "id": "110db4b175ba",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-06",
-      "areaLabel": "Ниш",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "РАДОВИ НА МРЕЖИ У ПАНТЕЛЕЈУ след формирања прикључка настављају се радови од претходног дана у Горњоматејевачкој улици, код броја 120. Због интервенције на водоводној мрежи биће у прекиду водоснабдевање до 15 часова на простору од улице Васе Пелагића до краја Горњоматејевачке улице. Прекид је и у делу Студеничке улице",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-211/"
-    },
-    {
-      "id": "6310984753ee",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-06",
-      "areaLabel": "Ниш",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Првомајска 54",
-        "35",
-        "у селу Чокот – Моравска 33",
-        "33",
-        "Маршала Тита 12А",
-        "36",
-        "29"
-      ],
-      "reason": null,
-      "note": "ПОПРАВКЕ КВАРОВА НА ПРВИМ ВЕНТИЛИМА оком дана обављаће се радови на поправкама првих вентила у улицама Првомајска 54 и 35, у селу Чокот – Моравска 33 и 33, Маршала Тита 12А и 36 и 29.Новембар 5, у селу Лалинац – Нишка 93 и Радничка 4, у насељу Нишка Бања – Драгана Николова 26 и Рузвалтова бб. Због радова могућ је прекид водоснабдевања на поменутим локацијама до 15 часова.",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-211/"
-    },
-    {
-      "id": "c7d124bbd066",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-06",
-      "areaLabel": "Ратко Јовић",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Милана Тошића Луне"
-      ],
-      "reason": null,
-      "note": "ПОПРАВКА ВЕЗЕ У НАСЕЉУ РАТКО ЈОВИЋ ода са улице отиче у шахту, потребан је ископ у улици Милана Тошића Луне, код броја 4. Због поправке прикључне везе биће у прекиду водоснабдевање до 15 часова у улици Милана Тошића Луне",
-      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-211/"
-    },
-    {
       "id": "87e862a2f180",
       "utility": "water",
       "kind": "planned",
@@ -578,137 +455,6 @@
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-215/"
     },
     {
-      "id": "6ba6e47ecbb2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Црвени крст",
-      "time": {
-        "start": "08:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "делови Озренског Одреда",
-        "Обрена Николића",
-        "Бул. 12. фебруара",
-        "8. марта;"
-      ],
-      "reason": null,
-      "note": "делови Озренског Одреда, Обрена Николића, Бул. 12. фебруара, 8. марта;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b6072bbefb7e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Војводе Танкосића (8);"
-      ],
-      "reason": null,
-      "note": "Војводе Танкосића (8);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "9d3c2edb424e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "делови Габровца и Габровачког пута 2.део;"
-      ],
-      "reason": null,
-      "note": "делови Габровца и Габровачког пута 2.део;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "63f5d28061de",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Црвени крст",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "делови улица Победе",
-        "Браће Илић",
-        "Данила Прице",
-        "Свете Ивановића",
-        "Браће Јанковић",
-        "Свете Стојановића",
-        "Хум (бб);"
-      ],
-      "reason": null,
-      "note": "делови улица Победе, Браће Илић, Данила Прице, Свете Ивановића, Браће Јанковић, Свете Стојановића, Хум (бб);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "282a6420fda1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "делови Хајдук Вељкове и Пријездине;"
-      ],
-      "reason": null,
-      "note": "делови Хајдук Вељкове и Пријездине;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "fc0c313d05d7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Црвени крст",
-      "time": {
-        "start": "11:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Доњи Комрен - делови улица Младости",
-        "Брачке (24)",
-        "Драгачевске (19",
-        "25);"
-      ],
-      "reason": null,
-      "note": "Доњи Комрен - делови улица Младости, Брачке (24), Драгачевске (19,25);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "13887e0b6b52",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "15:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "делови улице Победе (Габровац);"
-      ],
-      "reason": null,
-      "note": "делови улице Победе (Габровац);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e98016933f9c",
       "utility": "water",
       "kind": "emergency",
@@ -849,7 +595,7 @@
       ],
       "reason": null,
       "note": "делови улица Бањалучке, Драинчеве, Ген. Милојка Лешајанина, Љутице Богдана, Сувоборске, Шумадијске, Уроша Динића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "a682e5b20ab4",
@@ -866,7 +612,7 @@
       ],
       "reason": null,
       "note": "део Булевара Медијане;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "856cfcff3100",
@@ -883,7 +629,7 @@
       ],
       "reason": null,
       "note": "део Кнез Села;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "46e2aa5fd408",
@@ -900,7 +646,7 @@
       ],
       "reason": null,
       "note": "делови Чамурлије и Чамурлијског пута;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "d8c3dfb4df46",
@@ -918,15 +664,10 @@
       ],
       "reason": null,
       "note": "део улице Лоле Стојановића (6-33,бб);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 10,
-      "waterOutages": 9
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 7,
@@ -1071,6 +812,11 @@
       "date": "2026-11-13",
       "electricityOutages": 7,
       "waterOutages": 6
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
+      "waterOutages": 1
     }
   ]
 }

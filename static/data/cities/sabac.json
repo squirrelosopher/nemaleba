@@ -21,15 +21,78 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ ДРУГОГ ДЕЛА ВИКЕНД НАСЕЉА НА САВИ И ЦС ШИРОКА БАРА И ДРЕНОВАЦ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "3651e5eadb8a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈУ КУПЦИ У ДОБРИЋУ-ВИКЕНД НАСЕЉЕ"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈУ КУПЦИ У ДОБРИЋУ-ВИКЕНД НАСЕЉЕ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "2dbe1448d6d9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ У УЛ.ВАСЕ АНДОЛИЈЕ"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ У УЛ.ВАСЕ АНДОЛИЈЕ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "40572352cde6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "09:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈЕ МАЛА ЦЕРОВЦИ У КРИВАЈИ"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈЕ МАЛА ЦЕРОВЦИ У КРИВАЈИ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "c5135c0ffe55",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Шабац",
+      "time": {
+        "start": "10:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ У УЛИЦИ ПРОТЕ МАТЕЈЕ У ШАПЦУ"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ У УЛИЦИ ПРОТЕ МАТЕЈЕ У ШАПЦУ",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 7,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 4,
@@ -172,6 +235,11 @@
     },
     {
       "date": "2026-11-13",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
       "electricityOutages": 0,
       "waterOutages": 0
     }

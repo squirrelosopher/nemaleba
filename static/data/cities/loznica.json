@@ -7,30 +7,79 @@
   },
   "outages": [
     {
-      "id": "f8e7535aed5f",
+      "id": "c8bde20e3267",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-13",
+      "date": "2026-11-17",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Симино Брдо",
+        "Филиповићи",
+        "Кик",
+        "Бања Бадања 1 и 2"
+      ],
+      "reason": null,
+      "note": "Симино Брдо, Филиповићи, Кик, Бања Бадања 1 и 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "9e84162186eb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Липнички Шор Гробљанска улица"
+      ],
+      "reason": null,
+      "note": "Липнички Шор Гробљанска улица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "b0b8bdb781ca",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Козјак Гробље извод према Козјаку"
+      ],
+      "reason": null,
+      "note": "Козјак Гробље извод према Козјаку",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "e832b06039f1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
       "areaLabel": "Лозница",
       "time": {
         "start": "09:00",
         "end": "17:00"
       },
       "streets": [
-        "Доњи Добрић засеоци Костадиновићи",
+        "Доња Добрић - засеоци Костадиновићи",
         "Доња мала и Бареш"
       ],
       "reason": null,
-      "note": "Доњи Добрић засеоци Костадиновићи , Доња мала и Бареш",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "Доња Добрић - засеоци Костадиновићи, Доња мала и Бареш",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 1,
@@ -174,6 +223,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

@@ -5,31 +5,8 @@
     "nameLatin": "Zaječar",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "33f66d4b9759",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "09:00",
-        "end": "09:30"
-      },
-      "streets": [
-        "Замена бројила код потрошача на адреси Курсулина 13А/22"
-      ],
-      "reason": null,
-      "note": "Замена бројила код потрошача на адреси Курсулина 13А/22",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 0,
@@ -173,6 +150,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

@@ -5,48 +5,8 @@
     "nameLatin": "Ivanjica",
     "branchCyrillic": "Чачак"
   },
-  "outages": [
-    {
-      "id": "b1d3b42b7da8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Ивањица",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Миланџа и МЗ Кушићи."
-      ],
-      "reason": null,
-      "note": "Миланџа и МЗ Кушићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "774b0a112a7b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Ивањица",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Чепово и Шареник."
-      ],
-      "reason": null,
-      "note": "Чепово и Шареник.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 1,
@@ -190,6 +150,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

@@ -5,13 +5,43 @@
     "nameLatin": "Voždovac",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
+      "id": "044dfe8ece96",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "АДМИРАЛА ВУКОВИЋА: 48,58, БОРИСАВЉЕВИЋЕВА: 42,46-52,56-70,47-79, БОЖЕ ЈАНКОВИЋА: 20-32,17-25,29,43, ЛИМСКА: 2-16,1-19"
+      ],
+      "reason": null,
+      "note": "АДМИРАЛА ВУКОВИЋА: 48,58, БОРИСАВЉЕВИЋЕВА: 42,46-52,56-70,47-79, БОЖЕ ЈАНКОВИЋА: 20-32,17-25,29,43, ЛИМСКА: 2-16,1-19,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     },
+    {
+      "id": "8e389e841341",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "ЦРНОТРАВСКА: 27"
+      ],
+      "reason": null,
+      "note": "ЦРНОТРАВСКА: 27,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-16",
       "electricityOutages": 1,
@@ -154,6 +184,11 @@
     },
     {
       "date": "2026-11-13",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
       "electricityOutages": 0,
       "waterOutages": 0
     }

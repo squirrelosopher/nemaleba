@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "9d3c2edb424e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "делови Габровца и Габровачког пута 2.део;"
-      ],
-      "reason": null,
-      "note": "делови Габровца и Габровачког пута 2.део;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "13887e0b6b52",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Палилула - Ниш",
-      "time": {
-        "start": "15:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "делови улице Победе (Габровац);"
-      ],
-      "reason": null,
-      "note": "делови улице Победе (Габровац);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7a7b2173b455",
       "utility": "electricity",
       "kind": "planned",
@@ -61,7 +27,7 @@
       ],
       "reason": null,
       "note": "делови улица Бањалучке, Драинчеве, Ген. Милојка Лешајанина, Љутице Богдана, Сувоборске, Шумадијске, Уроша Динића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "d8c3dfb4df46",
@@ -79,15 +45,10 @@
       ],
       "reason": null,
       "note": "део улице Лоле Стојановића (6-33,бб);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 1,
@@ -231,6 +192,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

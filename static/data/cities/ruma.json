@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "d48ac9654f53",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Рума",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "МЕСТО РУМА:\r\nул.Н.Тесле непарна страна од ул.Главна до ул.В.Дугошевића\r\nул.В.Дугошевића од ул.Н.Тесла до ул.З.Челара\r\nул.З.Челара цела\r\nул.Главна бр.1"
-      ],
-      "reason": null,
-      "note": "МЕСТО РУМА:\r\nул.Н.Тесле непарна страна од ул.Главна до ул.В.Дугошевића\r\nул.В.Дугошевића од ул.Н.Тесла до ул.З.Челара\r\nул.З.Челара цела\r\nул.Главна бр.1",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "73ad6a1229e0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Рума",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "\"Рума: ул.Н.Тесле непарна страна од ул.Главна до ул.В.Дугошевића;\r\nул.В.Дугошевића од ул.Н.Тесла до ул.З.Челара;\r\nул.З.Челара цела; ул.Главна бр.1\""
-      ],
-      "reason": null,
-      "note": "\"Рума: ул.Н.Тесле непарна страна од ул.Главна до ул.В.Дугошевића;\r\nул.В.Дугошевића од ул.Н.Тесла до ул.З.Челара;\r\nул.З.Челара цела; ул.Главна бр.1\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b85e56e0bde5",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "МЕСТО РУМА :\r\nул.ЈНА бр.164\r\nул.Пролетерска бр.2\r\nул.ЈНА зграде бр.160 и 162\r\nул.ЈНА бр.157-Тржница\r\nул.Главна од бр.184 до бр.192\r\nул.ЈНА од бр.155 и 166 до бр.177 и 190\r\nул.Железничка бр.11\r\nул.С.П.Вељка бр.141\r\nул.С.П.Вељка од ул.Пролетерска до бр.179 и 190/2\r\nул.Пролетерска бр.1 и 1А\r\nул.ЈНА 166\r\nул.Железничка бр.19\r\nул.С.П.Вељка зграда бр.145\r\nул.С.П.Вељка зграда бр.139\r\nул.Железничка од бр.21 до бр.23\r\nул.Пролетерска бр.2А\r\nул.С.П.Вељка од бр.152А до бр.150\r\nул.Железничка бр.25",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "f0f7d5d3dd55",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "МЕСТО РУМА :\r\nул.ЈНА бр.155 и 157\r\nул.ЈНА бр.157 (КПО 1,КПО 2,КПО 3)\r\nул.ЈНА бр.ББ\r\nул.Железничка бр.5 Банка\r\nул.Железничка бр.3 Банка\r\nул.Главна од ул.Железничка до бр.192\r\nул.Главна од ул.Железничка до бр.168\r\nул.Железничка бр.2\r\nул.Железничка бр.1 и 3\r\nул.Главна од ул.Железничка до бр.182",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "ab53eb161fc0",
@@ -89,15 +55,10 @@
       ],
       "reason": null,
       "note": "МЕСТО РУМА:\r\nул.Н.Тесле зграда \"Дуга\" улаз А\r\nул.Н.Тесле зграда \"Дуга\" улаз Б и Ц\r\nул.Н.Тесла од ул.Виноградска до ул.М.П.Камењара \r\nул.Виноградска бр.2\r\nул.М.П.Камењара од бр.2 до бр.8\r\nул.Виноградска од ул.Н.Тесла до ул.Ј.Суботића\r\nул.Ј.Суботића од ул.Виноградска до ул.М.П.Камењара\r\nул.М.П.Камењара бр.10 и 12\r\nул.М.Перичина од ул.Сремска до ул.Ј.Суботића\r\nул.Ј.Суботића бр.27\r\nул.Г.Принципа бр.бр.39,40,41 и 42\r\nул.Сремска бр.46 и 48\r\nул.Виноградска од ул.Сремска до ул.Г.Принципа\r\nул.Г.Принципа од ул.Виноградска до ул.В.Караџића\r\nул.Сремска од ул.В.Караџића до ул.М.П.Камењара\r\nул.Виноградска од ул.Сремска до ул.Ј.Суботића\r\nул.Г.Принципа од ул.Виноградска до ул.М.П.Камењара\r\nул.Виноградскаод ул.Сремска до ул.Тиволске\r\nул.Сремска бр.36 и 37\r\nул.Тиволска од ул Виноградска до ул.М.Бурсаћ\r\nул.М.Бурсаћ од ул.Тиволска до ул.Војвођанска\r\nул.Војвођанска од ул.М.Бурсаћ до ул.Виноградска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 1,
-      "waterOutages": 1
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 1,
@@ -241,6 +202,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

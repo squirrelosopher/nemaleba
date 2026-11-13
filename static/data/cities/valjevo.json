@@ -31,23 +31,6 @@
       "sourceUrl": "https://vodovodva.co.rs/prskavac12112026/"
     },
     {
-      "id": "7f5bfc46270c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Ваљево",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Купци дела села Таор (мравинци ка Лесковицама )."
-      ],
-      "reason": null,
-      "note": "Купци дела села Таор (мравинци ка Лесковицама ).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "72868cdc63e4",
       "utility": "water",
       "kind": "emergency",
@@ -61,11 +44,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 0,
@@ -210,6 +188,11 @@
       "date": "2026-11-13",
       "electricityOutages": 1,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }

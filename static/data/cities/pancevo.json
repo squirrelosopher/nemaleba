@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "3184f29e6027",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "09:00",
-        "end": "10:30"
-      },
-      "streets": [
-        "Панчево: део Летње улице од Рибарске до Јабучког пута."
-      ],
-      "reason": null,
-      "note": "Панчево: део Летње улице од Рибарске до Јабучког пута.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ee52ccc76292",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Старчево Ж.Зрењанина (од Војвођанске до В.караџића)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "d88eed0baf5f",
@@ -56,7 +39,7 @@
       ],
       "reason": null,
       "note": "Б.Брестовац, М.Пијаде ( од Млинске до Б.Радичевића)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "decfc323572b",
@@ -74,7 +57,7 @@
       ],
       "reason": null,
       "note": "КОМПЛЕТНО ВИКЕНД НАСЕЉЕ ЛЕАНКА, ЖЕЛЕЗНИЧКА СТАНИЦА ЛЕАНКА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "ffc2b6f39a4f",
@@ -91,15 +74,10 @@
       ],
       "reason": null,
       "note": "Долово Викенд Насеље Леанка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 0,
-      "waterOutages": 2
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 0,
@@ -243,6 +221,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

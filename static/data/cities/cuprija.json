@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "26fb2ff728d5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део насеља Распутнице (ка Параћину)."
-      ],
-      "reason": null,
-      "note": "Део насеља Распутнице (ка Параћину).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f2eebad110d3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део села Јовац (ка Дворици)."
-      ],
-      "reason": null,
-      "note": "Део села Јовац (ка Дворици).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "3b66f9fe3b7b",
       "utility": "electricity",
       "kind": "planned",
@@ -56,15 +22,27 @@
       ],
       "reason": null,
       "note": "део села Исакова, пута за Деспотовац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "fa197856b8c0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Викенд насеље изнад Сења - Латовица"
+      ],
+      "reason": null,
+      "note": "Викенд насеље изнад Сења - Латовица",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 4,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 2,
@@ -208,6 +186,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

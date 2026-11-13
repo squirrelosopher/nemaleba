@@ -5,82 +5,8 @@
     "nameLatin": "Odžaci",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [
-    {
-      "id": "29a62569d5be",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Оџаци",
-      "time": {
-        "start": "08:00",
-        "end": "09:00"
-      },
-      "streets": [
-        "Оџаци: Жељезничка 28-38"
-      ],
-      "reason": null,
-      "note": "Оџаци: Жељезничка 28-38",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c005802e54ae",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Оџаци",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "ОЏАЦИ, УЛИЦЕ: ДЕО КНЕЗ МИХАЈЛОВА, ДЕО ЖЕЉЕЗНИЧКЕ, ДЕО СОМБОРСКЕ"
-      ],
-      "reason": null,
-      "note": "ОЏАЦИ, УЛИЦЕ: ДЕО КНЕЗ МИХАЈЛОВА, ДЕО ЖЕЉЕЗНИЧКЕ, ДЕО СОМБОРСКЕ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "16705ff9ac4c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Оџаци",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "ОЏАЦИ, УЛИЦЕ: ДЕО ШКОЛСКЕ, ДЕО КНЕЗ МАХАЈЛОВЕ"
-      ],
-      "reason": null,
-      "note": "ОЏАЦИ, УЛИЦЕ: ДЕО ШКОЛСКЕ, ДЕО КНЕЗ МАХАЈЛОВЕ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "84e987587e82",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Оџаци",
-      "time": {
-        "start": "12:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Бач: М. Тита 141-171 и 128-174, П. Кочића 1-15 и 2-20"
-      ],
-      "reason": null,
-      "note": "Бач: М. Тита 141-171 и 128-174, П. Кочића 1-15 и 2-20",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 1,
@@ -224,6 +150,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 6,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

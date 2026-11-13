@@ -7,46 +7,24 @@
   },
   "outages": [
     {
-      "id": "c3e5aa5c3fa2",
+      "id": "bf10955a5fe8",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-13",
+      "date": "2026-11-17",
       "areaLabel": "Мали Зворник",
       "time": {
-        "start": "09:00",
+        "start": "08:00",
         "end": "16:00"
       },
       "streets": [
-        "Дринска Стена"
+        "Доња Борина и Брасина"
       ],
       "reason": null,
-      "note": "Дринска Стена",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "70ff279e677b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Мали Зворник",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Сакар"
-      ],
-      "reason": null,
-      "note": "Сакар",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "Доња Борина и Брасина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 1,
@@ -190,6 +168,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

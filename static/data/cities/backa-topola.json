@@ -5,49 +5,8 @@
     "nameLatin": "Bačka Topola",
     "branchCyrillic": "Суботица"
   },
-  "outages": [
-    {
-      "id": "875cd87aafd8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Бачка Топола",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Б. Топола - део 7. јула",
-        "део А. Пускина"
-      ],
-      "reason": null,
-      "note": "Б. Топола - део 7. јула, део А. Пускина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f687a0596f15",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Бачка Топола",
-      "time": {
-        "start": "13:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Фекетиц - део Зелезницке"
-      ],
-      "reason": null,
-      "note": "Фекетиц - део Зелезницке",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 2,
@@ -191,6 +150,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

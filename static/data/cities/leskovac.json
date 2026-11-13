@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "6617f8af1210",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Лесковац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "део Доњег Губеревца",
-        "од школе до амбуланте"
-      ],
-      "reason": null,
-      "note": "део Доњег Губеревца, од школе до амбуланте",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c040c6ff0879",
       "utility": "water",
       "kind": "planned",
@@ -69,7 +51,7 @@
       ],
       "reason": null,
       "note": "Северни и северо-западни део града (Солидарност, преко пута Ветеринарске станице, градски део Чифлук Мире, Сува река, Дубочица, Сточна пијаца, Раде Жунић, код \"Три шешира\", на Хисару – од Дома здравља до касарне у Синковцу, Зеле Вељковић, код \"бивше Ракићеве кафане\", Рупе, Обрада Лучића, Бобиште) и ужи и шири центар града",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "a6928d508891",
@@ -87,15 +69,10 @@
       ],
       "reason": null,
       "note": "Горњи и Доњи Губеревац, Горњи и Доњи Буниброд и Жижавица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 0,
@@ -240,6 +217,11 @@
       "date": "2026-11-13",
       "electricityOutages": 1,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }

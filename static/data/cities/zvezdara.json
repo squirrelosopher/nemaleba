@@ -7,29 +7,24 @@
   },
   "outages": [
     {
-      "id": "4a9ec1a4a027",
+      "id": "e350b172fe95",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-13",
+      "date": "2026-11-17",
       "areaLabel": "Звездара",
       "time": {
-        "start": "09:00",
-        "end": "11:00"
+        "start": "08:30",
+        "end": "14:00"
       },
       "streets": [
-        "БРАНКА КРСМАНОВИЋА: 2, ВОЈВОДЕ ШУПЉИКЦА: 57, ЖИЧКА: 1-5"
+        "МИРИЈЕВСКИ БУЛЕВАР: 92-98"
       ],
       "reason": null,
-      "note": "БРАНКА КРСМАНОВИЋА: 2, ВОЈВОДЕ ШУПЉИКЦА: 57, ЖИЧКА: 1-5,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+      "note": "МИРИЈЕВСКИ БУЛЕВАР: 92-98,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 1,
@@ -173,6 +168,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

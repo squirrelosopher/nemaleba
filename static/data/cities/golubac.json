@@ -5,41 +5,8 @@
     "nameLatin": "Golubac",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [
-    {
-      "id": "0f1e82a604eb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Голубац",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Ливадица",
-        "Ридан",
-        "каменолом Јеленска стена",
-        "Брњица",
-        "Орлови",
-        "Чезава",
-        "Главичица",
-        "Турски поток",
-        "Добра",
-        "Козице",
-        "Кључ"
-      ],
-      "reason": null,
-      "note": "Ливадица, Ридан, каменолом Јеленска стена, Брњица, Орлови, Чезава, Главичица, Турски поток, Добра, Козице, Кључ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 1,
@@ -183,6 +150,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

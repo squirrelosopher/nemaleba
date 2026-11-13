@@ -7,25 +7,6 @@
   },
   "outages": [
     {
-      "id": "ec7f725c0a49",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "део села Бердуј",
-        "Радосин",
-        "Лесковица."
-      ],
-      "reason": null,
-      "note": "део села Бердуј,Радосин,Лесковица.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "234fbbe98986",
       "utility": "electricity",
       "kind": "planned",
@@ -40,15 +21,10 @@
       ],
       "reason": null,
       "note": "Села Радосин и Јасенов Дел.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 2,
@@ -192,6 +168,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

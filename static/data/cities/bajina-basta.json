@@ -5,48 +5,8 @@
     "nameLatin": "Bajina Bašta",
     "branchCyrillic": "Ужице"
   },
-  "outages": [
-    {
-      "id": "1a0291aeb62c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Бајина Башта",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеља: Део града испод Болнице - на НН изводу ка Свети Милачићу и Сарићима"
-      ],
-      "reason": null,
-      "note": "Насеља: Део града испод Болнице - на НН изводу ка Свети Милачићу и Сарићима",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "4de4c7302e2d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Бајина Башта",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Насеља: Дуб поље, Пејићи, Пачаџије, Панин поток и Николића брдо"
-      ],
-      "reason": null,
-      "note": "Насеља: Дуб поље, Пејићи, Пачаџије, Панин поток и Николића брдо",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 0,
@@ -190,6 +150,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

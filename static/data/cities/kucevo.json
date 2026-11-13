@@ -21,15 +21,27 @@
       ],
       "reason": null,
       "note": "Засеоци у Каони: Каменица и Селиште",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "34f07ca1f1ed",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Кучево",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Засеоци у Каони: Каменица и Селиште"
+      ],
+      "reason": null,
+      "note": "Засеоци у Каони: Каменица и Селиште",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 1,
@@ -172,6 +184,11 @@
     },
     {
       "date": "2026-11-13",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
       "electricityOutages": 0,
       "waterOutages": 0
     }

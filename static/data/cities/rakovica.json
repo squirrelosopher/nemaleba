@@ -5,13 +5,26 @@
     "nameLatin": "Rakovica",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-15",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
+      "id": "d86b94383432",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Раковица",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "КНЕЗА ВИШЕСЛАВА: ББ,31А-31В"
+      ],
+      "reason": null,
+      "note": "КНЕЗА ВИШЕСЛАВА: ББ,31А-31В,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-16",
       "electricityOutages": 0,
@@ -154,6 +167,11 @@
     },
     {
       "date": "2026-11-13",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
       "electricityOutages": 0,
       "waterOutages": 0
     }

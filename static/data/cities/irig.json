@@ -5,116 +5,8 @@
     "nameLatin": "Irig",
     "branchCyrillic": "Рума"
   },
-  "outages": [
-    {
-      "id": "e08638da595e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Ириг",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Врдник: ул. Железничка , Зграде на прузи, Зграда 5 улаз 1,улаз 2,улаз 3 И локали около"
-      ],
-      "reason": null,
-      "note": "Врдник: ул. Железничка , Зграде на прузи, Зграда 5 улаз 1,улаз 2,улаз 3 И локали около",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5aac477325b2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Ириг",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "МЕСТО ВРДНИК:\r\nул. Железничка , Зграде на прузи, Зграда 5 улаз 1,улаз 2,улаз 3 И локали около"
-      ],
-      "reason": null,
-      "note": "МЕСТО ВРДНИК:\r\nул. Железничка , Зграде на прузи, Зграда 5 улаз 1,улаз 2,улаз 3 И локали около",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "cd56b0ced1b1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Ириг",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "МЕСТО ИРИГ :\r\nУлица Јакова Игњатовића у викенд насељу Крсташице"
-      ],
-      "reason": null,
-      "note": "МЕСТО ИРИГ :\r\nУлица Јакова Игњатовића у викенд насељу Крсташице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "30e71d53956a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Ириг",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Ириг: Јакова Игњатовића у викенд насељу Крсташице."
-      ],
-      "reason": null,
-      "note": "Ириг: Јакова Игњатовића у викенд насељу Крсташице.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2498e470d5e8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Ириг",
-      "time": {
-        "start": "12:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "МЕСТО ИРИГ :\r\nУлица Крсташице у викенд насељу Крсташице , ресторан и станови на Иришком Венцу, Инфо центар на Иришком Венцу"
-      ],
-      "reason": null,
-      "note": "МЕСТО ИРИГ :\r\nУлица Крсташице у викенд насељу Крсташице , ресторан и станови на Иришком Венцу, Инфо центар на Иришком Венцу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "7367c226d9b0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Ириг",
-      "time": {
-        "start": "12:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Ириг: Улица Крсташице у викенд насељу Крсташице, ресторан и станови на Иришком Венцу, Инфо центар на Иришком Венцу"
-      ],
-      "reason": null,
-      "note": "Ириг: Улица Крсташице у викенд насељу Крсташице, ресторан и станови на Иришком Венцу, Инфо центар на Иришком Венцу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 1,
@@ -258,6 +150,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 6,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

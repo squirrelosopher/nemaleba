@@ -7,41 +7,6 @@
   },
   "outages": [
     {
-      "id": "0672e0c6a184",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Луновог Села на изводу за Антонијевиће",
-        "Пониковице и Антонијевићи."
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Луновог Села на изводу за Антонијевиће, Пониковице и Антонијевићи.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f469ff0a40a5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-13",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Дубаца у Волујцу (потрошачи изнад Трафо станице)"
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Дубаца у Волујцу (потрошачи изнад Трафо станице)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a5362a212126",
       "utility": "electricity",
       "kind": "planned",
@@ -61,7 +26,7 @@
       ],
       "reason": null,
       "note": "Потрошачи дела ул. Крцунова, Ужичке Републике, Велешке, Вука Караџића, Николе Алтомановића, Мајданске и Устаничке.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "aa21473ae372",
@@ -86,15 +51,52 @@
       ],
       "reason": null,
       "note": "Потрошачи из улица Шумадијска, Кнеза Михаила, Кнеза Павла. Милована Глишића, Васе Пелагића, Гаврила Поповића, ,,Хемиско чишћењеи,, кафе ,,Времеплов,,.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "3faf9cf072a0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "08:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Потрошачи у улици Милоша Обреновића бр.11",
+        "13",
+        "15 и „Завод за јавно здравље Ужице“"
+      ],
+      "reason": null,
+      "note": "Потрошачи у улици Милоша Обреновића бр.11,13 ,15 и „Завод за јавно здравље Ужице“",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "1666b547809d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "11:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Потрошачи из улице Жичка",
+        "део око Историјског Архива",
+        "део улице Добриле Петронијевић",
+        "део улице Никале Пашића",
+        "део улице Неранџићева",
+        "Техничка школа",
+        "Учитељкски Факултет и Виша Пословна Школа"
+      ],
+      "reason": null,
+      "note": "Потрошачи из улице Жичка, део око Историјског Архива, део улице Добриле Петронијевић, део улице Никале Пашића, део улице Неранџићева,Техничка школа, Учитељкски Факултет и Виша Пословна Школа",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-15",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-16",
       "electricityOutages": 3,
@@ -238,6 +240,11 @@
     {
       "date": "2026-11-13",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-14",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]
