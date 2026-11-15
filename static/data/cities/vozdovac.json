@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "АДМИРАЛА ВУКОВИЋА: 48,58, БОРИСАВЉЕВИЋЕВА: 42,46-52,56-70,47-79, БОЖЕ ЈАНКОВИЋА: 20-32,17-25,29,43, ЛИМСКА: 2-16,1-19,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "8e389e841341",
@@ -38,15 +38,27 @@
       ],
       "reason": null,
       "note": "ЦРНОТРАВСКА: 27,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "9479f11af0dd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "БИЛЕЋКА: 28А, КАПЕТАНА ЗАВИШИЋА: 4"
+      ],
+      "reason": null,
+      "note": "БИЛЕЋКА: 28А, КАПЕТАНА ЗАВИШИЋА: 4,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-16",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-17",
       "electricityOutages": 1,
@@ -189,6 +201,11 @@
     },
     {
       "date": "2026-11-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-15",
       "electricityOutages": 0,
       "waterOutages": 0
     }

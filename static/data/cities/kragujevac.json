@@ -7,38 +7,6 @@
   },
   "outages": [
     {
-      "id": "533be8cee732",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-11-07",
-      "sourceUrl": "https://jkpvik-kg.com/iskljucenje-vode-u-ulici-miloja-radosavljevica-07-11-2026/",
-      "areaLabel": "Крагујевац",
-      "time": null,
-      "streets": [
-        "следећим насељима: Вишњак",
-        "Шумарице"
-      ],
-      "reason": null,
-      "note": "Искључење воде у улици Милоја Радосављевића 07.11.2026. \n Због неопходних радова на магистралном цевоводу дн 300мм на углу улице Милоја Радосављевића и Митра Бакића у суботу 07.11.2026. године у временском периоду од 08:00 до 13:00 сати без воде ће остати потрошачи у следећим насељима: Вишњак и Шумарице. \n Приликом пуштања воде може доћи до благог замућења па је потребно воду испустити док се не избистри. \n Моле се потрошачи да обезбеде воду за неопходне потребе."
-    },
-    {
-      "id": "1e06ff723bc0",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-11-07",
-      "sourceUrl": "https://jkpvik-kg.com/iskljucenje-vode-u-ulici-cede-dulejnovica-07-11-2026/",
-      "areaLabel": "Крагујевац",
-      "time": null,
-      "streets": [
-        "следећим улицама: Чеде Дулејановића",
-        "Пионирској",
-        "Вељка Петровића",
-        "Бошка Бухе"
-      ],
-      "reason": null,
-      "note": "Искључење воде у улици Чеде Дулејновића 07.11.2026. \n Због неопходних радова на водоводној мрежи на углу улице Чеде Дулејановића и Пионирске у суботу 07.11.2026. године у временском периоду од 09:00 до 14:00 сати без воде ће остати потрошачи у следећим улицама: Чеде Дулејановића, Пионирској, Вељка Петровића и Бошка Бухе. \n Приликом пуштања воде може доћи до благог замућења па је потребно воду испустити док се не избистри. \n Моле се потрошачи да обезбеде воду за неопходне потребе."
-    },
-    {
       "id": "3de6a1fcac5b",
       "utility": "water",
       "kind": "emergency",
@@ -706,15 +674,10 @@
       ],
       "reason": null,
       "note": "Горње Комарице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-16",
-      "electricityOutages": 1,
-      "waterOutages": 12
-    },
     {
       "date": "2026-10-17",
       "electricityOutages": 0,
@@ -857,6 +820,11 @@
     },
     {
       "date": "2026-11-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-15",
       "electricityOutages": 0,
       "waterOutages": 0
     }

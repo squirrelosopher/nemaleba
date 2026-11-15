@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "75b4e7bfa246",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-14",
-      "areaLabel": "Савски венац",
-      "time": {
-        "start": "08:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "МАСАРИКОВА: 2/"
-      ],
-      "reason": null,
-      "note": "МАСАРИКОВА: 2/,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f088e51becd8",
       "utility": "electricity",
       "kind": "planned",
@@ -38,15 +21,10 @@
       ],
       "reason": null,
       "note": "РАШКА: ББ,1-27,33-35,41-49,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-16",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-17",
       "electricityOutages": 0,
@@ -190,6 +168,11 @@
     {
       "date": "2026-11-14",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-15",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

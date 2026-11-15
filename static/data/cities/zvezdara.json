@@ -21,15 +21,44 @@
       ],
       "reason": null,
       "note": "МИРИЈЕВСКИ БУЛЕВАР: 92-98,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "93d0fc6c9885",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Звездара",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "ХЕРОЈА ГОРАНА ОСТОЈИЋА: 6-14,18,23,35-37, МАТИЦЕ СРПСКЕ: 60-68,72Д,57Б-57В,69Ђ-73Ц,85Г-91В, ШЕСНАЕСТОГ ОКТОБРА: 28-38А,21-23, Насеље БЕОГРАД: МАТИЧАНСКА: 2А-8А,1-5,33, Насеље МИРИЈЕВО: ДОЛАЧКА: 8,9А-9В"
+      ],
+      "reason": null,
+      "note": "ХЕРОЈА ГОРАНА ОСТОЈИЋА: 6-14,18,23,35-37, МАТИЦЕ СРПСКЕ: 60-68,72Д,57Б-57В,69Ђ-73Ц,85Г-91В, ШЕСНАЕСТОГ ОКТОБРА: 28-38А,21-23, Насеље БЕОГРАД: МАТИЧАНСКА: 2А-8А,1-5,33, Насеље МИРИЈЕВО: ДОЛАЧКА: 8,9А-9В,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "82fd4918af3c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Звездара",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Насеље М.МОКРИ ЛУГ: БЕКЕРЕЛОВА: 1А"
+      ],
+      "reason": null,
+      "note": "Насеље М.МОКРИ ЛУГ: БЕКЕРЕЛОВА: 1А,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-16",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-17",
       "electricityOutages": 0,
@@ -172,6 +201,11 @@
     },
     {
       "date": "2026-11-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-15",
       "electricityOutages": 0,
       "waterOutages": 0
     }

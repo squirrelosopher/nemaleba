@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "f56f857c9e6c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-14",
-      "areaLabel": "Петровац",
-      "time": {
-        "start": "08:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "засеоци у Мелници: Дражилоње, Гршљана и Црвени Брег, Витовница, Мелница, Кладурово, Кладурово Велика Претржа, Брезовица"
-      ],
-      "reason": null,
-      "note": "засеоци у Мелници: Дражилоње, Гршљана и Црвени Брег, Витовница, Мелница, Кладурово, Кладурово Велика Претржа, Брезовица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a40390d21ad5",
       "utility": "electricity",
       "kind": "planned",
@@ -38,15 +21,10 @@
       ],
       "reason": null,
       "note": "засеоци у Мелници: Дражилоње, Гршљана и Црвени Брег, Витовница, Мелница, Кладурово, Кладурово Велика Претржа, Брезовица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-16",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-17",
       "electricityOutages": 1,
@@ -189,6 +167,11 @@
     },
     {
       "date": "2026-11-14",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-15",
       "electricityOutages": 1,
       "waterOutages": 0
     }

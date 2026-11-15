@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-14T22:16:01.052Z",
+  "generatedAt": "2026-11-15T03:11:19.022Z",
   "summary": {
-    "date": "2026-11-14",
-    "electricityOutages": 167,
-    "waterOutages": 2,
+    "date": "2026-11-15",
+    "electricityOutages": 176,
+    "waterOutages": 1,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 27,
+        "electricityOutages": 39,
         "waterOutages": 0
       },
       {
@@ -24,16 +24,16 @@
         "waterOutages": 0
       },
       {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 5,
-        "waterOutages": 2
-      },
-      {
         "id": "sombor",
         "nameCyrillic": "Сомбор",
         "electricityOutages": 7,
         "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 5,
+        "waterOutages": 1
       },
       {
         "id": "vranje",
@@ -144,12 +144,6 @@
         "waterOutages": 0
       },
       {
-        "id": "petrovac",
-        "nameCyrillic": "Петровац",
-        "electricityOutages": 2,
-        "waterOutages": 0
-      },
-      {
         "id": "raska",
         "nameCyrillic": "Рашка",
         "electricityOutages": 2,
@@ -188,12 +182,6 @@
       {
         "id": "babusnica",
         "nameCyrillic": "Бабушница",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "backi-petrovac",
-        "nameCyrillic": "Бачки Петровац",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -240,12 +228,6 @@
         "waterOutages": 0
       },
       {
-        "id": "kraljevo",
-        "nameCyrillic": "Краљево",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "krupanj",
         "nameCyrillic": "Крупањ",
         "electricityOutages": 1,
@@ -282,6 +264,12 @@
         "waterOutages": 0
       },
       {
+        "id": "petrovac",
+        "nameCyrillic": "Петровац",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
         "id": "pirot",
         "nameCyrillic": "Пирот",
         "electricityOutages": 1,
@@ -308,11 +296,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-10-16",
-      "electricityOutages": 115,
-      "waterOutages": 25
-    },
     {
       "date": "2026-10-17",
       "electricityOutages": 15,
@@ -456,6 +439,11 @@
     {
       "date": "2026-11-14",
       "electricityOutages": 6,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-11-15",
+      "electricityOutages": 7,
       "waterOutages": 1
     }
   ],

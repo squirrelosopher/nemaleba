@@ -5,13 +5,63 @@
     "nameLatin": "Lazarevac",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-16",
-      "electricityOutages": 3,
-      "waterOutages": 0
+      "id": "1b00bb32cb04",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "улице:Станислав Сремчевић-Црни 706-104а(парна страна)",
+        "49-67(непарна страна)мМарка Миљанова",
+        "Ивана Цанкара",
+        "Романијска",
+        "Иве Андића",
+        "Гаврила Принципа",
+        "Комска",
+        "7Јула",
+        "Охридска",
+        "Златиборска",
+        "Хајдук Вељка",
+        "Његошева",
+        "Бошка Бухе",
+        "Миладина Поповића",
+        "Милана Зарића"
+      ],
+      "reason": null,
+      "note": "улице:Станислав Сремчевић-Црни 706-104а(парна страна),49-67(непарна страна)мМарка Миљанова,Ивана Цанкара,Романијска,Иве Андића,Гаврила Принципа,Комска ,7Јула,Охридска,Златиборска,Хајдук Вељка,Његошева,Бошка Бухе,Миладина Поповића,Милана Зарића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     },
+    {
+      "id": "e9b6c2b998f2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "11:30"
+      },
+      "streets": [
+        "Насеље Крушевица засеок Дом",
+        "Зекино брдо",
+        "Шевар",
+        "До",
+        "Вис",
+        "Путњик",
+        "Игралиште"
+      ],
+      "reason": null,
+      "note": "Насеље Крушевица засеок Дом,Зекино брдо,Шевар,До,Вис,Путњик,Игралиште",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-17",
       "electricityOutages": 0,
@@ -154,6 +204,11 @@
     },
     {
       "date": "2026-11-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-15",
       "electricityOutages": 0,
       "waterOutages": 0
     }

@@ -5,13 +5,26 @@
     "nameLatin": "Surčin",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-16",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
+      "id": "6c9ceb58ff78",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Сурчин",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насеље ДОБАНОВЦИ: ДУШАНОВА: 24-26,32,36-50,56-96,100-102,110-118,122-134,33-59,63-91,95-111,115-123,127-139, ЈАНКА ЧМЕЛИКА: ББ,30-74,31-63,69-77,81-83,87, СОКОЛСКА: 7-31,47-47Г"
+      ],
+      "reason": null,
+      "note": "Насеље ДОБАНОВЦИ: ДУШАНОВА: 24-26,32,36-50,56-96,100-102,110-118,122-134,33-59,63-91,95-111,115-123,127-139, ЈАНКА ЧМЕЛИКА: ББ,30-74,31-63,69-77,81-83,87, СОКОЛСКА: 7-31,47-47Г,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-17",
       "electricityOutages": 0,
@@ -154,6 +167,11 @@
     },
     {
       "date": "2026-11-14",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-15",
       "electricityOutages": 0,
       "waterOutages": 0
     }

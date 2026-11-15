@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "1abc56390d3f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-14",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "БУЛЕВАР МИХАЈЛА ПУПИНА (Булевар Лењина): 6"
-      ],
-      "reason": null,
-      "note": "БУЛЕВАР МИХАЈЛА ПУПИНА (Булевар Лењина): 6,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "4df27c5f2673",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-14",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": "10:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "МИЛЕНТИЈА ПОПОВИЋА: 11-29,33-43, МИЛУТИНА МИЛАНКОВИЋА: 1А-1К"
-      ],
-      "reason": null,
-      "note": "МИЛЕНТИЈА ПОПОВИЋА: 11-29,33-43, МИЛУТИНА МИЛАНКОВИЋА: 1А-1К,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d90f20d4d80b",
       "utility": "electricity",
       "kind": "planned",
@@ -55,15 +21,10 @@
       ],
       "reason": null,
       "note": "МИЛУТИНА МИЛАНКОВИЋА: 27,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-16",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-17",
       "electricityOutages": 0,
@@ -207,6 +168,11 @@
     {
       "date": "2026-11-14",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-15",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]
