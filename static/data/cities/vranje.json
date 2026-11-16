@@ -7,6 +7,30 @@
   },
   "outages": [
     {
+      "id": "49b94dffb2ed",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-10",
+      "areaLabel": "Краљевића Марка",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у улици Краљевића Марка , без воде биће потрошачи те улице и околне, завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/09-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "b758cb3880d5",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-13",
+      "areaLabel": "Врање",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у Врањској Бањи у Балканској улици ,без воде биће потрошачи те улице и околне, завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/13-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
       "id": "98f60b08fcaa",
       "utility": "electricity",
       "kind": "planned",
@@ -112,11 +136,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-10-17",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-18",
       "electricityOutages": 3,
@@ -260,6 +279,11 @@
     {
       "date": "2026-11-15",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-16",
+      "electricityOutages": 4,
       "waterOutages": 0
     }
   ]
