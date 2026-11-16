@@ -660,6 +660,157 @@
       "note": "Белошевац, ул. 9.Маја ( од 15:00 до 18:00 часова ), поправка кућног прикључка."
     },
     {
+      "id": "e44bcf90974b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-11-2026/",
+      "areaLabel": "Аеродром",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Војводе Петра Бојовића"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Хаваријска искључења на дан 16.11.2026. \n \n Аеродром, ул. Војводе Петра Бојовића ( од 08:00 до 12:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "9e1b2840a09e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-11-2026/",
+      "areaLabel": "Аеродром",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Атинска"
+      ],
+      "reason": "замена вентила",
+      "note": "Аеродром, ул. Атинска ( од 08:00 до 12:00 часова ), замена вентила."
+    },
+    {
+      "id": "7f2d543d2e78",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-11-2026/",
+      "areaLabel": "Мај",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [],
+      "reason": "поправка кућног прикључка",
+      "note": "Белошевац, ул. 9.Мај ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "e5df1e6cdbea",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-11-2026/",
+      "areaLabel": "Ердоглија",
+      "time": {
+        "start": "12:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Даничићева"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Ердоглија, ул. Даничићева ( од 12:00 до 15:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "80d5b390af6c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-11-2026/",
+      "areaLabel": "Ердоглија",
+      "time": {
+        "start": "12:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Јадранска"
+      ],
+      "reason": "поправка затварача",
+      "note": "Ердоглија, ул. Јадранска ( од 12:00 до 15:00 часова ), поправка затварача."
+    },
+    {
+      "id": "378d78d51d68",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-11-2026/",
+      "areaLabel": "Илићево",
+      "time": {
+        "start": "12:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Стевана Миросављевића"
+      ],
+      "reason": "замена подземног хидранта",
+      "note": "Илићево, ул. Стевана Миросављевића ( од 12:00 до 15:00 часова ), замена подземног хидранта."
+    },
+    {
+      "id": "f8c0130019ff",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-11-2026/",
+      "areaLabel": "Корићани",
+      "time": {
+        "start": "15:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Дедиње"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Корићани, ул. Дедиње ( од 15:00 до 19:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "73e334e519d8",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-11-2026/",
+      "areaLabel": "Медна",
+      "time": {
+        "start": "15:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Југословенска"
+      ],
+      "reason": "уградња хидранта",
+      "note": "Медна, ул. Југословенска ( од 15:00 до 19:00 часова ), уградња хидранта."
+    },
+    {
+      "id": "3d606e5555f2",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-16",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-16-11-2026/",
+      "areaLabel": "Центар",
+      "time": {
+        "start": "15:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Светолика Ранковића"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Центар, ул. Светолика Ранковића ( од 15:00 до 19:00 часова ), поправка кућног прикључка."
+    },
+    {
       "id": "4edbbcced68f",
       "utility": "electricity",
       "kind": "planned",
@@ -826,7 +977,7 @@
     {
       "date": "2026-11-16",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 9
     }
   ]
 }
