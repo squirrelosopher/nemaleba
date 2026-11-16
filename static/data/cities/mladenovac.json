@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "feca94c3c143",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-15",
-      "areaLabel": "Младеновац",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "ИВЕ АНДРИЋА: 3"
-      ],
-      "reason": null,
-      "note": "ИВЕ АНДРИЋА: 3,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "3c6c451cae6c",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насеље ВЛАШКА: БЕОГРАДСКИ ПУТ: 94А,122,144,152,17, МИХАИЛА ПУПИНА: 10А,26А, СТАРИ ПУТ: 25, ВЛАШКА: 93,103-103Б,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
