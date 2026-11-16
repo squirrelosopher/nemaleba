@@ -22,6 +22,86 @@
       "reason": null,
       "note": "Асановац-Зладовац",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "a160fec310b7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Житорађа",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Житорађа и сва села у општини Житорађа"
+      ],
+      "reason": null,
+      "note": "Житорађа и сва села у општини Житорађа",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "42298af704a6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Житорађа",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Студенац",
+        "Грудаш",
+        "Топоница",
+        "Коњарник",
+        "Каре",
+        "Дубово",
+        "Ширине",
+        "Асановац",
+        "Старо и Ново Момчилово"
+      ],
+      "reason": null,
+      "note": "Студенац, Грудаш, Топоница, Коњарник, Каре, Дубово, Ширине, Асановац, Старо и Ново Момчилово",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2b32b2d4c5c8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Житорађа",
+      "time": {
+        "start": "09:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Ђакус",
+        "Пејковац",
+        "Глашинац",
+        "Извор",
+        "Самариновац и Држановац"
+      ],
+      "reason": null,
+      "note": "Ђакус, Пејковац, Глашинац, Извор, Самариновац и Држановац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "cffe2bc3ef66",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Житорађа",
+      "time": {
+        "start": "12:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Део центра Житорађе према Прокупљу"
+      ],
+      "reason": null,
+      "note": "Део центра Житорађе према Прокупљу",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

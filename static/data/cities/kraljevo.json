@@ -5,7 +5,76 @@
     "nameLatin": "Kraljevo",
     "branchCyrillic": "Краљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "58ac5fd436f2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Годачица Милетићи."
+      ],
+      "reason": null,
+      "note": "Годачица Милетићи.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2c3b56df4c5b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Врбска Главица."
+      ],
+      "reason": null,
+      "note": "Врбска Главица.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "0f77924e5afd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Карађорђева око Суда."
+      ],
+      "reason": null,
+      "note": "Карађорђева око Суда.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2ea3f4cd16bc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "У Лађевцима Чугова."
+      ],
+      "reason": null,
+      "note": "У Лађевцима Чугова.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-18",

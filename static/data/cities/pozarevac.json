@@ -22,6 +22,57 @@
       "reason": null,
       "note": "Дунавска 3-21",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e86e3ece7ee9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Пожаревац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Трафо област ТС 10/0.4kV ЧЕДЕ ВАСОВИЋА: Бошка Вребалова 1-11 и 2-22, Невесињска 65, Симе Симића 1, 7Ц, Сувоборска 1,2,4,6,9,20,22, Чеде Васовића 11-19, 22А, 26-68, Шумадијска 16-58 и 41-67"
+      ],
+      "reason": null,
+      "note": "Трафо област ТС 10/0.4kV ЧЕДЕ ВАСОВИЋА: Бошка Вребалова 1-11 и 2-22, Невесињска 65, Симе Симића 1, 7Ц, Сувоборска 1,2,4,6,9,20,22, Чеде Васовића 11-19, 22А, 26-68, Шумадијска 16-58 и 41-67",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "a33590198e67",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Пожаревац",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Цане Бабовић (од бројева 94 и 123 према граду) са бочним улицама"
+      ],
+      "reason": null,
+      "note": "Цане Бабовић (од бројева 94 и 123 према граду) са бочним улицама",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "5ff6546d4f73",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Пожаревац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Трафо област 7.јули: Чеде Васовића 41, 43, Седмог јула, Косовска 46,50, Дом здравља 012"
+      ],
+      "reason": null,
+      "note": "Трафо област 7.јули: Чеде Васовића 41, 43, Седмог јула, Косовска 46,50, Дом здравља 012",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,7 +5,42 @@
     "nameLatin": "Čačak",
     "branchCyrillic": "Чачак"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "9805a234a5fe",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Потрошачи у Придворици и Јездини."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Придворици и Јездини.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c0dbb59196e8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "08:30",
+        "end": "16:00"
+      },
+      "streets": [
+        "Потрошачи у Ракови-Мијаијловићи и Чарапићи."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Ракови-Мијаијловићи и Чарапићи.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-18",

@@ -815,6 +815,77 @@
       "reason": null,
       "note": "ИНТЕРВЕНЦИЈА У СЕЛУ СУПОВАЦ след хаварије у току је ископ изнад пумпне станице. Због поправке водоводне мреже могућ је прекид водоснабдевања до 15 часова у делу села Суповац",
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-216/"
+    },
+    {
+      "id": "3cefa6a3fdb3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Медијана",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "део улице Драгише Цветковића (4-29);"
+      ],
+      "reason": null,
+      "note": "део улице Драгише Цветковића (4-29);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "533840943fbb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "део улице Деспота Ђурђа;"
+      ],
+      "reason": null,
+      "note": "део улице Деспота Ђурђа;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "dd354b0f7adb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "10:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "делови Виничке",
+        "Мавровске",
+        "Др Војислава Вучковића;"
+      ],
+      "reason": null,
+      "note": "делови Виничке, Мавровске, Др Војислава Вучковића;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "4e33c295f3c9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "делови улица Бојничке",
+        "Михаила Голубовића и Књажевачке (парни бр. 40-54);"
+      ],
+      "reason": null,
+      "note": "делови улица Бојничке, Михаила Голубовића и Књажевачке (парни бр. 40-54);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

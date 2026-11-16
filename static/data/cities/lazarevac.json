@@ -59,6 +59,29 @@
       "reason": null,
       "note": "Насеље Крушевица засеок Дом,Зекино брдо,Шевар,До,Вис,Путњик,Игралиште",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "6dca841a0b5d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Војводе Степе (Момчила Павловића) 34-62",
+        "13-61",
+        "део улице Видовданска",
+        "Браће Миловановић",
+        "Цвијићева",
+        "Тополска",
+        "улица Брестова."
+      ],
+      "reason": null,
+      "note": "Војводе Степе (Момчила Павловића) 34-62,13-61, део улице Видовданска , Браће Миловановић, Цвијићева, Тополска, улица Брестова.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

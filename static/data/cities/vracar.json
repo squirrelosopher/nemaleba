@@ -5,7 +5,25 @@
     "nameLatin": "Vračar",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "540ad707d2e6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Врачар",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "ЦАРА НИКОЛАЈА ДРУГОГ: 7-9,11-13,1,17-19,23, МАКСИМА ГОРКОГ: 29, НОВОПАЗАРСКА: 22,28,32,36,7-9"
+      ],
+      "reason": null,
+      "note": "ЦАРА НИКОЛАЈА ДРУГОГ: 7-9,11-13,1,17-19,23, МАКСИМА ГОРКОГ: 29, НОВОПАЗАРСКА: 22,28,32,36,7-9,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-18",

@@ -54,6 +54,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "6373fbf9dfe3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-17",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Растова Коса у Севојну"
+      ],
+      "reason": null,
+      "note": "Растова Коса у Севојну",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "3faf9cf072a0",
       "utility": "electricity",
       "kind": "planned",

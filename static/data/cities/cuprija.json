@@ -40,6 +40,59 @@
       "reason": null,
       "note": "Викенд насеље изнад Сења - Латовица",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e5ea30fa1e3d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део села Иванковца",
+        "према Бостави"
+      ],
+      "reason": null,
+      "note": "део села Иванковца, према Бостави",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ceceed8f33c8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Тереково насеље ка Кафилерији"
+      ],
+      "reason": null,
+      "note": "Тереково насеље ка Кафилерији",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "372c557b8dd8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Предузеће Хемос",
+        "ул. Ц. Лазара 123"
+      ],
+      "reason": null,
+      "note": "Предузеће Хемос, ул. Ц. Лазара 123",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

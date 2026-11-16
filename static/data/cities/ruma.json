@@ -84,6 +84,23 @@
       "reason": null,
       "note": "Тренутно је у току санација квара на водоводној мрежи у Путинцима у улици Крајишких бригада, са могућношћу прекида водоснабдевања у насељу за време трајања радова.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-putinci-10/"
+    },
+    {
+      "id": "7065c26d1f4e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Рума",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Ривица - комплетно насеље"
+      ],
+      "reason": null,
+      "note": "Ривица - комплетно насеље",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

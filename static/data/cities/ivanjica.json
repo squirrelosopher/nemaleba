@@ -5,7 +5,27 @@
     "nameLatin": "Ivanjica",
     "branchCyrillic": "Чачак"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "c5283ae31e95",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Ивањица",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Прилике",
+        "Прилички кисељак",
+        "Варјаче и Ђурићи изнад пута"
+      ],
+      "reason": null,
+      "note": "Прилике, Прилички кисељак, Варјаче и Ђурићи изнад пута",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-18",

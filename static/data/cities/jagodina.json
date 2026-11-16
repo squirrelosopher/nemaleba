@@ -39,6 +39,40 @@
       "reason": null,
       "note": "Део села Главинци ка Колару",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "d2271db8d4b4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Јагодина",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "10 kV водови : фарма Ковачевац , фарма Бунар и Бунар поље"
+      ],
+      "reason": null,
+      "note": "10 kV водови : фарма Ковачевац , фарма Бунар и Бунар поље",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "647eb2d7632b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Јагодина",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "села : Ловци , Стрижило , Милошево и део села Багрдан"
+      ],
+      "reason": null,
+      "note": "села : Ловци , Стрижило , Милошево и део села Багрдан",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

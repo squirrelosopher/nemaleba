@@ -846,6 +846,81 @@
       ],
       "reason": null,
       "note": "Најава за искључење воде 17.11.2026. \n Због неопходних радова на магистралном цевоводу дн 700 мм у Жировници у уторак 17.11.2026. године у временском периоду од 07:00 до 00:00 сати без воде ће остати потрошачи у Баточини, Бадњевцу, Никшићу, Осојаку, Милатовцу, Цветојевцу и Јовановцу. \n Приликом пуштања воде може доћи до благог замућења па је потребно воду испустити док се не избистри. \n Моле се потрошачи да обезбеде воду за неопходне потребе."
+    },
+    {
+      "id": "5957bd067bfe",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Горње Комарице"
+      ],
+      "reason": null,
+      "note": "Горње Комарице",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "e3bbb231f5eb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Александра Висоцког 13 - 51",
+        "22 - 46",
+        "Рада Докмановића 1 - 7",
+        "18"
+      ],
+      "reason": null,
+      "note": "Александра Висоцког 13 - 51, 22 - 46, Рада Докмановића 1 - 7, 18",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "1ab29c04f340",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Карађорђева 42",
+        "50",
+        "52",
+        "Луја Пастера 2"
+      ],
+      "reason": null,
+      "note": "Карађорђева 42, 50, 52, Луја Пастера 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "2d7efb314fb6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Корман - Ерови и Речани",
+        "Горње Комарице"
+      ],
+      "reason": null,
+      "note": "Корман - Ерови и Речани, Горње Комарице",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
