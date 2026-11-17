@@ -5,66 +5,7 @@
     "nameLatin": "Bor",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "24cfb405f4b3",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-10",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Улица Кестенова број 14"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Улица Кестенова број 14 Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-utorak-10-11-2026-god/"
-    },
-    {
-      "id": "926c155f71b8",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-12",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Савача",
-        "Улица Бранка Радичевића"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Савача Улица Бранка Радичевића Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-12-11-2026-god/"
-    },
-    {
-      "id": "77e0a683d896",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-13",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Савача – Вулканска улица"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Савача – Вулканска улица Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-petak-13-11-2026-god/"
-    },
-    {
-      "id": "d08b3b2ac4b3",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-16",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Улица 3. Октобар",
-        "Брестовац"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Улица 3. Октобар Брестовац Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-ponedeljak-16-11-2026-god/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-19",
