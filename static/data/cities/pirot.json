@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "b5923f559157",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-16",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Села: Бела, Гостуша и Паклештица."
-      ],
-      "reason": null,
-      "note": "Села: Бела, Гостуша и Паклештица.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "658c2edc72ca",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +24,7 @@
       ],
       "reason": null,
       "note": "Гостуша, Бела, Рудина, Паклештица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "0f816f5e857d",
@@ -58,7 +41,7 @@
       ],
       "reason": null,
       "note": "Бела",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "bc3e03f75822",
@@ -75,7 +58,7 @@
       ],
       "reason": null,
       "note": "Сопотска Петља",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "6f67a09f4e93",
@@ -92,7 +75,7 @@
       ],
       "reason": null,
       "note": "Нишор",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -672,7 +672,7 @@
       ],
       "reason": null,
       "note": "Горње Комарице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3e803445857b",
@@ -824,7 +824,7 @@
       ],
       "reason": null,
       "note": "Горње Комарице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "e3bbb231f5eb",
@@ -844,7 +844,7 @@
       ],
       "reason": null,
       "note": "Александра Висоцког 13 - 51, 22 - 46, Рада Докмановића 1 - 7, 18",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "1ab29c04f340",
@@ -864,7 +864,7 @@
       ],
       "reason": null,
       "note": "Карађорђева 42, 50, 52, Луја Пастера 2",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "2d7efb314fb6",
@@ -882,6 +882,24 @@
       ],
       "reason": null,
       "note": "Корман - Ерови и Речани, Горње Комарице",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "266137b3d729",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-20",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Корман",
+        "Горње Комарице"
+      ],
+      "reason": null,
+      "note": "Корман, Горње Комарице",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],

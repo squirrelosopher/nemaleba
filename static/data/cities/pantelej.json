@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "a682e5b20ab4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-16",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "део Булевара Медијане;"
-      ],
-      "reason": null,
-      "note": "део Булевара Медијане;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "856cfcff3100",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-16",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "део Кнез Села;"
-      ],
-      "reason": null,
-      "note": "део Кнез Села;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "533840943fbb",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "део улице Деспота Ђурђа;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "dd354b0f7adb",
@@ -74,7 +40,7 @@
       ],
       "reason": null,
       "note": "делови Виничке, Мавровске, Др Војислава Вучковића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "4e33c295f3c9",
@@ -92,7 +58,7 @@
       ],
       "reason": null,
       "note": "делови улица Бојничке, Михаила Голубовића и Књажевачке (парни бр. 40-54);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

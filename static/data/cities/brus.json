@@ -5,25 +5,7 @@
     "nameLatin": "Brus",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [
-    {
-      "id": "4c477c2c01fa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-16",
-      "areaLabel": "Брус",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део насељеног места Богише (из ТС Богише 4)"
-      ],
-      "reason": null,
-      "note": "Део насељеног места Богише (из ТС Богише 4)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-19",

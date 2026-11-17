@@ -7,85 +7,28 @@
   },
   "outages": [
     {
-      "id": "9c8a3a5537d6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-16",
-      "areaLabel": "Врање",
-      "time": {
-        "start": "08:00",
-        "end": "09:30"
-      },
-      "streets": [
-        "Радничка"
-      ],
+      "id": "49b94dffb2ed",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-10",
+      "areaLabel": "Краљевића Марка",
+      "time": null,
+      "streets": [],
       "reason": null,
-      "note": "Радничка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+      "note": "Због оштећења на водоводној мрежи у улици Краљевића Марка , без воде биће потрошачи те улице и околне, завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/09-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
     },
     {
-      "id": "55c15195fcca",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-16",
+      "id": "b758cb3880d5",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-13",
       "areaLabel": "Врање",
-      "time": {
-        "start": "09:30",
-        "end": "11:00"
-      },
-      "streets": [
-        "Његошева",
-        "Боре Станковића",
-        "Саве Ковачевића",
-        "Дјуре Јакшића"
-      ],
+      "time": null,
+      "streets": [],
       "reason": null,
-      "note": "Његошева, Боре Станковића, Саве Ковачевића, Дјуре Јакшића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "01971127fae5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-16",
-      "areaLabel": "Врање",
-      "time": {
-        "start": "11:00",
-        "end": "12:30"
-      },
-      "streets": [
-        "Сремска",
-        "део Симе Погачаревића",
-        "Хајдук Вељкова",
-        "део Јужноморавска",
-        "део Ивана Цанкара",
-        "Змај Јове",
-        "Призренска",
-        "Честелинска",
-        "део Косовска."
-      ],
-      "reason": null,
-      "note": "Сремска, део Симе Погачаревића, Хајдук Вељкова, део Јужноморавска, део Ивана Цанкара, Змај Јове, Призренска, Честелинска, део Косовска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2ccd37732818",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-16",
-      "areaLabel": "Врање",
-      "time": {
-        "start": "12:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "део Партизански пут(код ресторана Криво Врпче)",
-        "део Пере Мачкатовца",
-        "део Веселина Маслеше."
-      ],
-      "reason": null,
-      "note": "део Партизански пут(код ресторана Криво Врпче), део Пере Мачкатовца, део Веселина Маслеше.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+      "note": "Због оштећења на водоводној мрежи у Врањској Бањи у Балканској улици ,без воде биће потрошачи те улице и околне, завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/13-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
     },
     {
       "id": "5035f02a1beb",
@@ -102,7 +45,7 @@
       ],
       "reason": null,
       "note": "Владичин Хан - део центра",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d85288d8e98c",
@@ -119,7 +62,7 @@
       ],
       "reason": null,
       "note": "Трговиште - део центра",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
