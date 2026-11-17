@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T11:46:58.649Z",
+  "generatedAt": "2026-11-17T12:10:54.882Z",
   "summary": {
     "date": "2026-11-17",
     "electricityOutages": 257,
-    "waterOutages": 25,
+    "waterOutages": 14,
     "affected": [
       {
         "id": "beograd",
@@ -42,18 +42,6 @@
         "waterOutages": 0
       },
       {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 4,
-        "waterOutages": 6
-      },
-      {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 5,
-        "waterOutages": 4
-      },
-      {
         "id": "arandjelovac",
         "nameCyrillic": "Аранђеловац",
         "electricityOutages": 8,
@@ -90,10 +78,10 @@
         "waterOutages": 0
       },
       {
-        "id": "pancevo",
-        "nameCyrillic": "Панчево",
-        "electricityOutages": 4,
-        "waterOutages": 1
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 5,
+        "waterOutages": 0
       },
       {
         "id": "sremska-mitrovica",
@@ -128,6 +116,18 @@
       {
         "id": "merosina",
         "nameCyrillic": "Мерошина",
+        "electricityOutages": 4,
+        "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 4,
+        "waterOutages": 0
+      },
+      {
+        "id": "pancevo",
+        "nameCyrillic": "Панчево",
         "electricityOutages": 4,
         "waterOutages": 0
       },
@@ -486,7 +486,7 @@
     {
       "date": "2026-11-17",
       "electricityOutages": 106,
-      "waterOutages": 25
+      "waterOutages": 14
     }
   ],
   "providers": [
