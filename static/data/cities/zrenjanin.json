@@ -75,6 +75,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "dee141d73587",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-17",
+      "areaLabel": "Уроша Предића",
+      "time": {
+        "start": null,
+        "end": "18:30"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "УРОША ПРЕДИЋА (ЗРЕЊАНИН) – санација квара у поменутој улици, прекид водоснабдевања до 18:30 часова.",
+      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-17-11-2026-godine/"
+    },
+    {
       "id": "fa4de7297936",
       "utility": "electricity",
       "kind": "planned",
@@ -241,7 +256,7 @@
     {
       "date": "2026-11-17",
       "electricityOutages": 4,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

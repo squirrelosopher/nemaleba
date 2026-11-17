@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-17T14:11:00.192Z",
+  "generatedAt": "2026-11-17T16:10:53.618Z",
   "summary": {
     "date": "2026-11-17",
-    "electricityOutages": 297,
-    "waterOutages": 25,
+    "electricityOutages": 302,
+    "waterOutages": 26,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 40,
+        "electricityOutages": 45,
         "waterOutages": 0
       },
       {
@@ -90,14 +90,14 @@
         "waterOutages": 0
       },
       {
-        "id": "valjevo",
-        "nameCyrillic": "Ваљево",
-        "electricityOutages": 5,
-        "waterOutages": 0
-      },
-      {
         "id": "zrenjanin",
         "nameCyrillic": "Зрењанин",
+        "electricityOutages": 5,
+        "waterOutages": 1
+      },
+      {
+        "id": "valjevo",
+        "nameCyrillic": "Ваљево",
         "electricityOutages": 5,
         "waterOutages": 0
       },
@@ -528,7 +528,7 @@
     {
       "date": "2026-11-17",
       "electricityOutages": 106,
-      "waterOutages": 25
+      "waterOutages": 26
     }
   ],
   "providers": [
