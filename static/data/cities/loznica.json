@@ -99,24 +99,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "d575d48f6ce2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Лозница",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Коренита",
-        "Прљуша и Гај"
-      ],
-      "reason": null,
-      "note": "Коренита, Прљуша и Гај",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "511823267b22",
       "utility": "electricity",
       "kind": "planned",
@@ -152,6 +134,24 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "d575d48f6ce2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Коренита",
+        "Прљуша и Гај"
+      ],
+      "reason": null,
+      "note": "Коренита, Прљуша и Гај",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "6b5cf45e4891",
       "utility": "electricity",
       "kind": "planned",
@@ -167,23 +167,6 @@
       ],
       "reason": null,
       "note": "Доња Добрић - засеоци Костадиновићи, Доња мала и Бареш",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
-    },
-    {
-      "id": "46873a9b3811",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Лозница",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Део улице Марка Радуловића од Драгићевића до Лина"
-      ],
-      "reason": null,
-      "note": "Део улице Марка Радуловића од Драгићевића до Лина",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
@@ -203,6 +186,23 @@
       ],
       "reason": null,
       "note": "Воћњак Гробље, Стара Школа, и Пасковац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "46873a9b3811",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Део улице Марка Радуловића од Драгићевића до Лина"
+      ],
+      "reason": null,
+      "note": "Део улице Марка Радуловића од Драгићевића до Лина",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],

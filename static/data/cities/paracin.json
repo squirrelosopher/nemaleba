@@ -24,23 +24,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "18c1432bde99",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Део села Лебина"
-      ],
-      "reason": null,
-      "note": "Део села Лебина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "853ee6032654",
       "utility": "electricity",
       "kind": "planned",
@@ -58,20 +41,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "a7bd1fb47c83",
+      "id": "18c1432bde99",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-11-18",
       "areaLabel": "Параћин",
       "time": {
-        "start": "11:00",
-        "end": "13:00"
+        "start": "09:00",
+        "end": "11:00"
       },
       "streets": [
-        "Део села Поповац"
+        "Део села Лебина"
       ],
       "reason": null,
-      "note": "Део села Поповац",
+      "note": "Део села Лебина",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
@@ -89,6 +72,23 @@
       ],
       "reason": null,
       "note": "Део села Лебина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a7bd1fb47c83",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Део села Поповац"
+      ],
+      "reason": null,
+      "note": "Део села Поповац",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {

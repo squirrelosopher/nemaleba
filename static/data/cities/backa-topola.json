@@ -115,6 +115,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
+      "id": "5044cb0bc26c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Богарош - цело насеље"
+      ],
+      "reason": null,
+      "note": "Богарош - цело насеље",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
       "id": "7f657cacdf2d",
       "utility": "electricity",
       "kind": "planned",
@@ -131,23 +148,6 @@
       ],
       "reason": null,
       "note": "Панонија - Братства Јединства, Слободана Пенезица Крцуна, део Сарла де Гола",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
-    },
-    {
-      "id": "5044cb0bc26c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Бачка Топола",
-      "time": {
-        "start": "13:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Богарош - цело насеље"
-      ],
-      "reason": null,
-      "note": "Богарош - цело насеље",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],

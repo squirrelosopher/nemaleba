@@ -5,7 +5,28 @@
     "nameLatin": "Lebane",
     "branchCyrillic": "Лесковац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "08a08b2a9d6a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Лебане",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сикицол",
+        "Мијајлица",
+        "Свињарица",
+        "Бачевина"
+      ],
+      "reason": null,
+      "note": "Сикицол, Мијајлица, Свињарица, Бачевина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-19",

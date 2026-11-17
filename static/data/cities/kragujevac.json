@@ -827,6 +827,24 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "2d7efb314fb6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Корман - Ерови и Речани",
+        "Горње Комарице"
+      ],
+      "reason": null,
+      "note": "Корман - Ерови и Речани, Горње Комарице",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
       "id": "e3bbb231f5eb",
       "utility": "electricity",
       "kind": "planned",
@@ -864,24 +882,6 @@
       ],
       "reason": null,
       "note": "Карађорђева 42, 50, 52, Луја Пастера 2",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
-    },
-    {
-      "id": "2d7efb314fb6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Корман - Ерови и Речани",
-        "Горње Комарице"
-      ],
-      "reason": null,
-      "note": "Корман - Ерови и Речани, Горње Комарице",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     },
     {

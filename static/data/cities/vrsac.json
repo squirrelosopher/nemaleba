@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "2d11bc45b4ce",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Вршац",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Гудурички пут од кућног броја 282 до краја Средиштанског пута. Хомољска и Балојска."
-      ],
-      "reason": null,
-      "note": "Гудурички пут од кућног броја 282 до краја Средиштанског пута. Хомољска и Балојска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "fabafb4b6fc5",
       "utility": "electricity",
       "kind": "planned",
@@ -38,6 +21,23 @@
       ],
       "reason": null,
       "note": "Насељена места: Велико Средиште, Мало Средиште, Јаново, Мали Жам, Гудурица и Марковац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2d11bc45b4ce",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Вршац",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Гудурички пут од кућног броја 282 до краја Средиштанског пута. Хомољска и Балојска."
+      ],
+      "reason": null,
+      "note": "Гудурички пут од кућног броја 282 до краја Средиштанског пута. Хомољска и Балојска.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
