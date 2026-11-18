@@ -92,6 +92,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "c543026b81af",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-20",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Манђелос: Пинкијева 43А-103, 40-98."
+      ],
+      "reason": null,
+      "note": "Манђелос: Пинкијева 43А-103, 40-98.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
       "id": "48bc83e571ac",
       "utility": "electricity",
       "kind": "planned",
@@ -123,6 +140,40 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Паланка 135-141, 1. новембра 1-7 и 2-38, Петра Руњанина 91-111 и 80-90, Базна станица за мобилну телефонију СМ – ул. Петра Руњанина бр. 90.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "93cb2be847e5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-20",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Сремска Митровица: Паланка 135-141, 1. новембра 1-7 и 2-38, Петра Руњанина 91-111 и 80-90, Базна станица за мобилну телефонију СМ – Петра Руњанина бр. 90."
+      ],
+      "reason": null,
+      "note": "Сремска Митровица: Паланка 135-141, 1. новембра 1-7 и 2-38, Петра Руњанина 91-111 и 80-90, Базна станица за мобилну телефонију СМ – Петра Руњанина бр. 90.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "4ec1e8642fbd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-20",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Манђелос: Саве Согића 1-15, 2-40"
+      ],
+      "reason": null,
+      "note": "Манђелос: Саве Согића 1-15, 2-40",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],

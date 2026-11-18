@@ -224,6 +224,24 @@
       "reason": null,
       "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Улица Мише Димитријевића.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-18-11-2026/"
+    },
+    {
+      "id": "fb3428d20bc7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "10:00",
+        "end": "12:30"
+      },
+      "streets": [
+        "Александра Поповића 1-25",
+        "2-14."
+      ],
+      "reason": null,
+      "note": "Александра Поповића 1-25, 2-14.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

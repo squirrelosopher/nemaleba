@@ -22,6 +22,23 @@
       "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-17-11-2026-godine/"
     },
     {
+      "id": "b533a180101c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "Меленци: Део Браће Барнић, део Бранка Радичевића."
+      ],
+      "reason": null,
+      "note": "Меленци: Део Браће Барнић, део Бранка Радичевића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "fa4de7297936",
       "utility": "electricity",
       "kind": "planned",
@@ -36,6 +53,23 @@
       ],
       "reason": null,
       "note": "Лукићево: улица Марка Краљевића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "6826eb341123",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-19",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "10:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "Меленци: улица Драгољуба Живкова"
+      ],
+      "reason": null,
+      "note": "Меленци: улица Драгољуба Живкова",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
