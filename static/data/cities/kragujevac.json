@@ -661,6 +661,57 @@
       "note": "Најава за искључење воде 17.11.2026. \n Због неопходних радова на магистралном цевоводу дн 700 мм у Жировници у уторак 17.11.2026. године у временском периоду од 07:00 до 00:00 сати без воде ће остати потрошачи у Баточини, Бадњевцу, Никшићу, Осојаку, Милатовцу, Цветојевцу и Јовановцу. \n Приликом пуштања воде може доћи до благог замућења па је потребно воду испустити док се не избистри. \n Моле се потрошачи да обезбеде воду за неопходне потребе."
     },
     {
+      "id": "d316851e0d1f",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-18",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-18-11-2026/",
+      "areaLabel": "Ердеч",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Живомра Бељића"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Ердеч, ул. Живомра Бељића ( од 08:00 до 12:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "ad6ac76206e8",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-18",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-18-11-2026/",
+      "areaLabel": "Ждраљица",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Југословенска"
+      ],
+      "reason": "поправка хидранта",
+      "note": "Ждраљица, ул. Југословенска ( од 08:00 до 12:00 часова ), поправка хидранта."
+    },
+    {
+      "id": "781099a2c833",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-18",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-18-11-2026/",
+      "areaLabel": "Мала Вага",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Кнеза Михајла"
+      ],
+      "reason": "поправка цевовода 500мм",
+      "note": "Хаваријска искључења на дан 18.11.2026. \n \n Мала Вага, ул. Кнеза Михајла ( од 08:00 до 12:00 часова ), поправка цевовода 500мм."
+    },
+    {
       "id": "5957bd067bfe",
       "utility": "electricity",
       "kind": "planned",
@@ -676,6 +727,106 @@
       "reason": null,
       "note": "Горње Комарице",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "9de27f5efa6f",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-18",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-18-11-2026/",
+      "areaLabel": "Белошевац",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "9 Мај – а"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Белошевац, ул. 9 Мај – а ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "c146bcdf1065",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-18",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-18-11-2026/",
+      "areaLabel": "Бресница",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Црногорска"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Бресница, ул. Црногорска ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "7fb8d2d3a1fd",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-18",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-18-11-2026/",
+      "areaLabel": "Ердоглија",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Божане Прпић"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Ердоглија, ул. Божане Прпић ( од 12:00 до 16:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "27c6add9a9cb",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-18",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-18-11-2026/",
+      "areaLabel": "Ђорђа Митровића",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [],
+      "reason": "поправка кућног прикључка",
+      "note": "Шумарице, ул. Др.Ђорђа Митровића ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "5b606e576136",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-18",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-18-11-2026/",
+      "areaLabel": "Илићево",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Стевене Миросављевића"
+      ],
+      "reason": "поправка хидранта",
+      "note": "Илићево, ул. Стевене Миросављевића ( од 16:00 до 19:00 часова ), поправка хидранта."
+    },
+    {
+      "id": "52606896b8e9",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-18",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-18-11-2026/",
+      "areaLabel": "Црнтар",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Светолика Ранковића"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Црнтар, ул. Светолика Ранковића ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
     },
     {
       "id": "2d7efb314fb6",
@@ -903,7 +1054,7 @@
     {
       "date": "2026-11-18",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 9
     }
   ]
 }
