@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "2bcdb1741063",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-10",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "12:00"
-      },
-      "streets": [
-        "Улица Васе Стајића и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 12 сати бити Улица Васе Стајића и околне улице.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-10-11-2026/"
-    },
-    {
-      "id": "1e4a76f38984",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-10",
-      "areaLabel": "Сремским Карловцима",
-      "time": {
-        "start": null,
-        "end": "13:00"
-      },
-      "streets": [
-        "Улица Дока"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Улица Дока у Сремским Карловцима.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-10-11-2026/"
-    },
-    {
       "id": "8be6b9ffaf14",
       "utility": "water",
       "kind": "emergency",
@@ -330,11 +296,6 @@
   ],
   "history": [
     {
-      "date": "2026-10-19",
-      "electricityOutages": 5,
-      "waterOutages": 1
-    },
-    {
       "date": "2026-10-20",
       "electricityOutages": 9,
       "waterOutages": 1
@@ -478,6 +439,11 @@
       "date": "2026-11-17",
       "electricityOutages": 5,
       "waterOutages": 4
+    },
+    {
+      "date": "2026-11-18",
+      "electricityOutages": 1,
+      "waterOutages": 0
     }
   ]
 }

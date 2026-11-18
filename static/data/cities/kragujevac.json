@@ -7,155 +7,6 @@
   },
   "outages": [
     {
-      "id": "a2585219a6d4",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-10",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-10-11-2026/",
-      "areaLabel": "Велико поље",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Милована Драгића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Велико поље, ул. Милована Драгића ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "59d6363c368e",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-10",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-10-11-2026/",
-      "areaLabel": "Виногради",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Илије Киковића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Виногради, ул. Илије Киковића ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "7b3aa3c22ff7",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-10",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-10-11-2026/",
-      "areaLabel": "Грошница",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Синише Станковића"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Хаваријска искључења на дан 10.11.2026. \n \n Грошница, ул. Синише Станковића ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "e6c63c2c24e7",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-10",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-10-11-2026/",
-      "areaLabel": "Белошевац",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Животе Николића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Белошевац, ул. Животе Николића ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "019e1b6ca58d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-10",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-10-11-2026/",
-      "areaLabel": "Ердоглија",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Обилићева"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Ердоглија, ул. Обилићева ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "811ccc31ee74",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-10",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-10-11-2026/",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [],
-      "reason": "поправка уличне линије",
-      "note": "Бубањ, ул. У.К.Ц.Крагујевац ( од 12:00 до 16:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "78585a2840a2",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-10",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-10-11-2026/",
-      "areaLabel": "Денино брдо",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Добропољска"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Денино брдо, ул. Добропољска ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "38f3349517dc",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-10",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-10-11-2026/",
-      "areaLabel": "Ђорђа Митровића",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [],
-      "reason": "поправка кућног прикључка",
-      "note": "Шумарице, ул. Др.Ђорђа Митровића ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "efa452c9ffab",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-10",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-10-11-2026/",
-      "areaLabel": "Иличево",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Комаричка"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Иличево, ул. Комаричка ( од 16:00 до 19:00 часова ), поправка уличне линије."
-    },
-    {
       "id": "a35b40e84840",
       "utility": "water",
       "kind": "emergency",
@@ -905,11 +756,6 @@
   ],
   "history": [
     {
-      "date": "2026-10-19",
-      "electricityOutages": 0,
-      "waterOutages": 12
-    },
-    {
       "date": "2026-10-20",
       "electricityOutages": 0,
       "waterOutages": 12
@@ -1053,6 +899,11 @@
       "date": "2026-11-17",
       "electricityOutages": 1,
       "waterOutages": 11
+    },
+    {
+      "date": "2026-11-18",
+      "electricityOutages": 1,
+      "waterOutages": 0
     }
   ]
 }

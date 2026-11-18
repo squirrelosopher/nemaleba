@@ -1,92 +1,95 @@
 {
   "eps-distribucija": {
     "entries": 302,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "jkp-vik-kragujevac": {
     "entries": 214,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "bvk-beograd": {
     "entries": 2,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "jkp-vik-novi-sad": {
     "entries": 37,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "jkp-naissus-nis": {
     "entries": 61,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "jkp-vodovod-pancevo": {
     "entries": 14,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "jkp-vodovod-sremska-mitrovica": {
     "entries": 11,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "jkp-vodovod-ruma": {
     "entries": 13,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "jkp-vodovod-indjija": {
     "entries": 16,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "jkp-vodovod-bor": {
     "entries": 4,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "jkp-gornji-milanovac": {
     "entries": 0,
     "lastNonEmpty": "2026-10-13",
-    "lastComplete": "2026-11-17"
+    "lastComplete": "2026-11-18"
   },
   "jkp-vik-zrenjanin": {
     "entries": 8,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "jkp-vodovod-valjevo": {
     "entries": 14,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "jp-vodovod-vranje": {
     "entries": 21,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "jkp-vodovod-leskovac": {
     "entries": 1,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "jkp-vodovod-pozarevac": {
     "entries": 0,
     "lastNonEmpty": "2026-11-07",
-    "lastComplete": "2026-11-17"
+    "lastComplete": "2026-11-18"
   },
   "jp-jedinstvo-kladovo": {
     "entries": 2,
-    "lastNonEmpty": "2026-11-17",
-    "lastComplete": "2026-11-17"
+    "lastNonEmpty": "2026-11-18",
+    "lastComplete": "2026-11-18"
   },
   "jkp-vodovod-cacak": {
-    "entries": 1,
+    "entries": 0,
     "lastNonEmpty": "2026-11-17",
+    "unreadable": [
+      "fetch failed for https://vodovodca.rs/wp-json/wp/v2/posts?categories=3&per_page=12&_fields=link,date,title,content"
+    ],
     "lastComplete": "2026-11-17"
   }
 }
