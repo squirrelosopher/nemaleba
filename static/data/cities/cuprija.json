@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "fa197856b8c0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-17",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Викенд насеље изнад Сења - Латовица"
-      ],
-      "reason": null,
-      "note": "Викенд насеље изнад Сења - Латовица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e5ea30fa1e3d",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +22,7 @@
       ],
       "reason": null,
       "note": "део села Иванковца, према Бостави",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ceceed8f33c8",
@@ -56,7 +39,7 @@
       ],
       "reason": null,
       "note": "Тереково насеље ка Кафилерији",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "372c557b8dd8",
@@ -74,7 +57,7 @@
       ],
       "reason": null,
       "note": "Предузеће Хемос, ул. Ц. Лазара 123",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "e6446ae20662",
@@ -91,7 +74,7 @@
       ],
       "reason": null,
       "note": "део села Крушара на улазу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

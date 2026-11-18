@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "d9b2e61ed7e8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-17",
-      "areaLabel": "Јагодина",
-      "time": {
-        "start": "10:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део села Главинци ка Колару"
-      ],
-      "reason": null,
-      "note": "Део села Главинци ка Колару",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d2271db8d4b4",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "10 kV водови : фарма Ковачевац , фарма Бунар и Бунар поље",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "647eb2d7632b",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "села : Ловци , Стрижило , Милошево и део села Багрдан",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "bf10955a5fe8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-17",
-      "areaLabel": "Мали Зворник",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Доња Борина и Брасина"
-      ],
-      "reason": null,
-      "note": "Доња Борина и Брасина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e9694b643bd4",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +24,7 @@
       ],
       "reason": null,
       "note": "Брасина - засеоци Пумпе, Вискоза Мода, Речани 1 и 2, Костићи и Мишићи 2",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

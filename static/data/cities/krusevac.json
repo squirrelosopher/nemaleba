@@ -7,39 +7,6 @@
   },
   "outages": [
     {
-      "id": "610b67245657",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-17",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Подручје Великог Шиљеговца и Рибарске реке (Каоник",
-        "Велики Шиљеговац",
-        "Рибаре",
-        "Рибарска Бања",
-        "Позлата",
-        "Сушица",
-        "Беласица",
-        "Мала Река",
-        "Рлица",
-        "Срндаље",
-        "Зубовац",
-        "Росица",
-        "Бољевац",
-        "Бојинце",
-        "Гревце",
-        "Велико Крушинце",
-        "…)"
-      ],
-      "reason": null,
-      "note": "Подручје Великог Шиљеговца и Рибарске реке (Каоник, Велики Шиљеговац, Рибаре, Рибарска Бања, Позлата, Сушица, Беласица, Мала Река, Рлица, Срндаље, Зубовац, Росица, Бољевац, Бојинце, Гревце, Велико Крушинце,…)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "bc521fabb79c",
       "utility": "electricity",
       "kind": "planned",
@@ -54,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Бојинце и Здравиње.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "dfc6b51eded5",
@@ -71,7 +38,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Кошеви",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

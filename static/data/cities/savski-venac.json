@@ -5,25 +5,7 @@
     "nameLatin": "Savski venac",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "f088e51becd8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-17",
-      "areaLabel": "Савски венац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "РАШКА: ББ,1-27,33-35,41-49"
-      ],
-      "reason": null,
-      "note": "РАШКА: ББ,1-27,33-35,41-49,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-20",

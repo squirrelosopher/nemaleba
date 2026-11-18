@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "3cefa6a3fdb3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-17",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "део улице Драгише Цветковића (4-29);"
-      ],
-      "reason": null,
-      "note": "део улице Драгише Цветковића (4-29);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "4d7dcbfb91a6",
       "utility": "electricity",
       "kind": "planned",
@@ -43,7 +26,7 @@
       ],
       "reason": null,
       "note": "делови улица Уроша Динића, Сувоборске, Шумадијске, Љутице Богдана, Драинчеве, Бањалучке и Генерала Милојка Лешјанина (91);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "8e0335c96dd5",
@@ -60,7 +43,7 @@
       ],
       "reason": null,
       "note": "делови улица Јелке Радуловић и Ђердапске;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

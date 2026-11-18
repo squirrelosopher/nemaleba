@@ -5,25 +5,7 @@
     "nameLatin": "Kučevo",
     "branchCyrillic": "Пожаревац"
   },
-  "outages": [
-    {
-      "id": "34f07ca1f1ed",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-17",
-      "areaLabel": "Кучево",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Засеоци у Каони: Каменица и Селиште"
-      ],
-      "reason": null,
-      "note": "Засеоци у Каони: Каменица и Селиште",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-20",

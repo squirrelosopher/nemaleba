@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "b0304edf8942",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-17",
-      "areaLabel": "Шид",
-      "time": {
-        "start": "13:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Шид: Цара Душана 77-123, 58, 72 и бб."
-      ],
-      "reason": null,
-      "note": "Шид: Цара Душана 77-123, 58, 72 и бб.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "e4a9b19fc80d",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Кукујевци: Цело село, осим Д.о.о. “Агропетрол” - Српских владара б.б, Стамбено - пословни објекат - Српских владара б.б., Фарма коза “Беокапра” - ул. Грчког пријатељства.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "75c90333b59c",
@@ -56,7 +39,7 @@
       ],
       "reason": null,
       "note": "\"Ердевик: Карађорђева 27-77 и 28-86, Сремска 5-47, 2-66 и б.б, Живојина Мишића 25-87 и 24-88а, Јанка Чмелика 29-69, 38-84 и б.б, Пролетерска 3-95, 2-82а и б.б, Фрушкогорска 1-71 и 2-78, Миланке Бранковић 1-17, 2-14 и б.б, Светог Саве 31-135 и 32-128, Гробљанска 1-21, 4-16, б.б, Војвођанска 1-83 и 2-92, Николе Тесле 19-65 и 34-76, Цара Душана 28, Мохарач Део викенд насеља \r\nМохарач б.б, Основна школа „Сава Шумановић“ – Светог Саве 4, \r\nСистем за наводњавање боровнице – језеро.\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

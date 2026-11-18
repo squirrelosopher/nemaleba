@@ -126,23 +126,6 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-16-11-2026/"
     },
     {
-      "id": "48a752a72740",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-17",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "\"Лединци: Стевана Синђелића; Мајевичка \r\nСремских Винограда; Нова; Браће Стајићана; Козарачка; Милетићева\""
-      ],
-      "reason": null,
-      "note": "\"Лединци: Стевана Синђелића; Мајевичка \r\nСремских Винограда; Нова; Браће Стајићана; Козарачка; Милетићева\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "237888227960",
       "utility": "water",
       "kind": "emergency",
@@ -158,74 +141,6 @@
       "reason": null,
       "note": "Због планираних радова на водоводној мрежи без воде ће од 8 до 16 сати бити улице Прерадовићева, Ивана Мажуранића, Карловачких учитеља и Дунавска у Сремским Карловцима.",
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-utorak-17-11-2026/"
-    },
-    {
-      "id": "7d67ada2988b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-17",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:30",
-        "end": "11:00"
-      },
-      "streets": [
-        "Сремска Каменица: Фрушкогорски пут, потез Кип"
-      ],
-      "reason": null,
-      "note": "Сремска Каменица: Фрушкогорски пут, потез Кип",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b6441f268794",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-17",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Футог: Царице Милице од Симе Шолаје десна страна до изласка према Бегечу и до Ароме; АРОМА"
-      ],
-      "reason": null,
-      "note": "Футог: Царице Милице од Симе Шолаје десна страна до изласка према Бегечу и до Ароме; АРОМА",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a8e7aea1ef89",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-17",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Петроварадин: Нова 6"
-      ],
-      "reason": null,
-      "note": "Петроварадин: Нова 6",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f7c1627d917d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-17",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:15",
-        "end": "14:00"
-      },
-      "streets": [
-        "Банијска 2-28;7-23"
-      ],
-      "reason": null,
-      "note": "Банијска 2-28;7-23",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "649f2be21ab1",
@@ -291,7 +206,7 @@
       ],
       "reason": null,
       "note": "Сремска Каменица: Лединачки пут 57-73",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

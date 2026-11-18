@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "557f2bc9bbb8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-17",
-      "areaLabel": "Ковачица",
-      "time": {
-        "start": "09:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Ковачица: Јана Јонаша од Слатковићеве до Михајла Пупина."
-      ],
-      "reason": null,
-      "note": "Ковачица: Јана Јонаша од Слатковићеве до Михајла Пупина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c1198cd16416",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Црепаја: М.Тита од Х.Раше до 29 Новембра.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "1a57e9301498",
@@ -56,7 +39,7 @@
       ],
       "reason": null,
       "note": "Дебељача:Пролетерска од Лењинове до Д.Ђерђа,С.Михаља од И.Л.Рибара до Пролетерске ул!",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
