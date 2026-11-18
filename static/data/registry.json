@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-18T18:47:43.676Z",
+  "generatedAt": "2026-11-18T20:10:53.455Z",
   "summary": {
     "date": "2026-11-18",
     "electricityOutages": 271,
-    "waterOutages": 20,
+    "waterOutages": 11,
     "affected": [
       {
         "id": "beograd",
@@ -28,12 +28,6 @@
         "nameCyrillic": "Крагујевац",
         "electricityOutages": 5,
         "waterOutages": 9
-      },
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
-        "electricityOutages": 5,
-        "waterOutages": 7
       },
       {
         "id": "paracin",
@@ -104,6 +98,12 @@
       {
         "id": "brus",
         "nameCyrillic": "Брус",
+        "electricityOutages": 5,
+        "waterOutages": 0
+      },
+      {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
         "electricityOutages": 5,
         "waterOutages": 0
       },
@@ -186,12 +186,6 @@
         "waterOutages": 0
       },
       {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 2,
-        "waterOutages": 1
-      },
-      {
         "id": "prokuplje",
         "nameCyrillic": "Прокупље",
         "electricityOutages": 3,
@@ -236,6 +230,12 @@
       {
         "id": "kovacica",
         "nameCyrillic": "Ковачица",
+        "electricityOutages": 2,
+        "waterOutages": 0
+      },
+      {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
         "electricityOutages": 2,
         "waterOutages": 0
       },
@@ -286,12 +286,6 @@
         "nameCyrillic": "Владимирци",
         "electricityOutages": 1,
         "waterOutages": 0
-      },
-      {
-        "id": "vranje",
-        "nameCyrillic": "Врање",
-        "electricityOutages": 0,
-        "waterOutages": 1
       },
       {
         "id": "gadzin-han",
@@ -522,7 +516,7 @@
     {
       "date": "2026-11-18",
       "electricityOutages": 98,
-      "waterOutages": 20
+      "waterOutages": 11
     }
   ],
   "providers": [
