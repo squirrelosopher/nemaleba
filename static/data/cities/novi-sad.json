@@ -227,6 +227,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "a4f077b4033c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-19",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "13:00"
+      },
+      "streets": [
+        "Рибарско острво и Улица Лазе Лазаревића"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Рибарско острво и Улица Лазе Лазаревића.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-19-11-2026/"
+    },
+    {
       "id": "74d95b4cfd03",
       "utility": "water",
       "kind": "emergency",
@@ -393,7 +410,7 @@
     {
       "date": "2026-11-19",
       "electricityOutages": 1,
-      "waterOutages": 1
+      "waterOutages": 2
     }
   ]
 }

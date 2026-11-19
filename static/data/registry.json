@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:10:53.423Z",
+  "generatedAt": "2026-11-19T11:33:32.169Z",
   "summary": {
     "date": "2026-11-19",
     "electricityOutages": 173,
@@ -84,12 +84,6 @@
         "waterOutages": 0
       },
       {
-        "id": "pancevo",
-        "nameCyrillic": "Панчево",
-        "electricityOutages": 3,
-        "waterOutages": 1
-      },
-      {
         "id": "cuprija",
         "nameCyrillic": "Ћуприја",
         "electricityOutages": 4,
@@ -116,6 +110,18 @@
       {
         "id": "loznica",
         "nameCyrillic": "Лозница",
+        "electricityOutages": 3,
+        "waterOutages": 0
+      },
+      {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 1,
+        "waterOutages": 2
+      },
+      {
+        "id": "pancevo",
+        "nameCyrillic": "Панчево",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -190,12 +196,6 @@
         "nameCyrillic": "Мерошина",
         "electricityOutages": 2,
         "waterOutages": 0
-      },
-      {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 1,
-        "waterOutages": 1
       },
       {
         "id": "smederevo",
