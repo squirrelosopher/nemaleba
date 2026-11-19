@@ -38,6 +38,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "a53ca95e279d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-19",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Јаношикова улица од Добровољачке до Гробљанске улице"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остала Јаношикова улица од Добровољачке до Гробљанске улице.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/11/19/19-11-2026/"
+    },
+    {
       "id": "17efde4e852b",
       "utility": "electricity",
       "kind": "planned",
@@ -222,7 +236,7 @@
     {
       "date": "2026-11-19",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

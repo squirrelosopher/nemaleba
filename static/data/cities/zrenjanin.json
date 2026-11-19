@@ -7,21 +7,6 @@
   },
   "outages": [
     {
-      "id": "865df6db470c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-17",
-      "areaLabel": "Уроша Предића",
-      "time": {
-        "start": null,
-        "end": "17:30"
-      },
-      "streets": [],
-      "reason": null,
-      "note": "УРОША ПРЕДИЋА (ЗРЕЊАНИН) – санација квара у поменутој улици, прекид водоснабдевања до 17:30 часова.",
-      "sourceUrl": "https://www.vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-17-11-2026-godine/"
-    },
-    {
       "id": "b533a180101c",
       "utility": "electricity",
       "kind": "planned",
