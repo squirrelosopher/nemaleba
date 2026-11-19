@@ -812,6 +812,40 @@
       "note": "Црнтар, ул. Светолика Ранковића ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
     },
     {
+      "id": "752553b06473",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-19",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-11-2026/",
+      "areaLabel": "Ердоглија",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Божане Прпић"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Хаваријска искључења на дан 19.11.2026. \n \n Ердоглија, ул. Божане Прпић ( од 08:00 до 12:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "61bf334292b7",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-19",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-11-2026/",
+      "areaLabel": "Центар",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Карађорђева"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Центар, ул. Карађорђева ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
+    },
+    {
       "id": "2d7efb314fb6",
       "utility": "electricity",
       "kind": "planned",
@@ -868,6 +902,74 @@
       "reason": null,
       "note": "Карађорђева 42, 50, 52, Луја Пастера 2",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "68877441ba7a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-19",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-11-2026/",
+      "areaLabel": "Илина вода",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Бошка Бухе"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Илина вода, ул. Бошка Бухе ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "792c0f7e7548",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-19",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-11-2026/",
+      "areaLabel": "Центар",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "угао Кнеза Милоша – Даничићева"
+      ],
+      "reason": "поправка затварача",
+      "note": "Центар, угао Кнеза Милоша – Даничићева ( од 12:00 до 16:00 часова ), поправка затварача."
+    },
+    {
+      "id": "1ed69cbf1ea4",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-19",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-11-2026/",
+      "areaLabel": "Бресница",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Београдског батаљона"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Бресница, ул. Београдског батаљона ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "9d8a1cf2897f",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-19",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-19-11-2026/",
+      "areaLabel": "Илина вода",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Милице Миљојковић"
+      ],
+      "reason": "квар у шахти",
+      "note": "Илина вода, ул. Милице Миљојковић ( од 16:00 до 19:00 часова ), квар у шахти."
     },
     {
       "id": "266137b3d729",
@@ -1037,7 +1139,7 @@
     {
       "date": "2026-11-19",
       "electricityOutages": 3,
-      "waterOutages": 0
+      "waterOutages": 6
     }
   ]
 }
