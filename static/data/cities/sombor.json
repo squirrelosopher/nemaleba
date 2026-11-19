@@ -58,23 +58,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "7e23ade086cb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "08:30",
-        "end": "12:00"
-      },
-      "streets": [
-        "Сомбор: 6.Личке"
-      ],
-      "reason": null,
-      "note": "Сомбор: 6.Личке",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "1db69d9d7dd8",
       "utility": "electricity",
       "kind": "planned",
@@ -92,20 +75,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "31246888d2b7",
+      "id": "7e23ade086cb",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-11-20",
       "areaLabel": "Сомбор",
       "time": {
-        "start": "09:00",
-        "end": "14:00"
+        "start": "08:30",
+        "end": "12:00"
       },
       "streets": [
-        "Сомбор: Пинкијева 25-35, 22-30, Солунских бораца 9-11, 16-34, бб, Н.Тесле 27-51, 20-38."
+        "Сомбор: 6.Личке"
       ],
       "reason": null,
-      "note": "Сомбор: Пинкијева 25-35, 22-30, Солунских бораца 9-11, 16-34, бб, Н.Тесле 27-51, 20-38.",
+      "note": "Сомбор: 6.Личке",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
@@ -123,6 +106,23 @@
       ],
       "reason": null,
       "note": "Сомбор: В.Петровића, Златне Греде 4-22, Венац Ж.Мишића 8-10.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "31246888d2b7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-20",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сомбор: Пинкијева 25-35, 22-30, Солунских бораца 9-11, 16-34, бб, Н.Тесле 27-51, 20-38."
+      ],
+      "reason": null,
+      "note": "Сомбор: Пинкијева 25-35, 22-30, Солунских бораца 9-11, 16-34, бб, Н.Тесле 27-51, 20-38.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {

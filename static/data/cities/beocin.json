@@ -5,7 +5,25 @@
     "nameLatin": "Beočin",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "bdd00f38d997",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-21",
+      "areaLabel": "Беочин",
+      "time": {
+        "start": "12:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Баноштор: АНДРЕВЉЕ"
+      ],
+      "reason": null,
+      "note": "Баноштор: АНДРЕВЉЕ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-21",

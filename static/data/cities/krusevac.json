@@ -93,23 +93,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "9d902cc73eb6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "08:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Део насељеног места Трмчаре (из ТС Трмчаре 4)"
-      ],
-      "reason": null,
-      "note": "Део насељеног места Трмчаре (из ТС Трмчаре 4)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "874563823776",
       "utility": "electricity",
       "kind": "planned",
@@ -124,6 +107,23 @@
       ],
       "reason": null,
       "note": "Део насељеног места Кобиље (према Станци)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "9d902cc73eb6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-20",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Део насељеног места Трмчаре (из ТС Трмчаре 4)"
+      ],
+      "reason": null,
+      "note": "Део насељеног места Трмчаре (из ТС Трмчаре 4)",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {

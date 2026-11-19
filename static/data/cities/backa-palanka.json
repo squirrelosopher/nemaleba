@@ -5,7 +5,25 @@
     "nameLatin": "Bačka Palanka",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f7053cdda967",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-20",
+      "areaLabel": "Бачка Паланка",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Параге: Цара Лазара од угла са Краља Петра И до кућног броја 1."
+      ],
+      "reason": null,
+      "note": "Параге: Цара Лазара од угла са Краља Петра И до кућног броја 1.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-21",
