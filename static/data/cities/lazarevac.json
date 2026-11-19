@@ -30,6 +30,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "20c1faaa6e7b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-20",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Љиг: насељено место Кадина Лука (засеок Ћирјанићи)."
+      ],
+      "reason": null,
+      "note": "Љиг: насељено место Кадина Лука (засеок Ћирјанићи).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "b558813c19ae",
       "utility": "electricity",
       "kind": "planned",
@@ -45,23 +62,6 @@
       ],
       "reason": null,
       "note": "Насеље Шопић улица Јанка Стајчића 53-113,132-152 (засеок Криваја 1).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "20c1faaa6e7b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Љиг: насељено место Кадина Лука (засеок Ћирјанићи)."
-      ],
-      "reason": null,
-      "note": "Љиг: насељено место Кадина Лука (засеок Ћирјанићи).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     }
   ],
