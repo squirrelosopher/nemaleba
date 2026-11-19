@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-19T11:33:32.169Z",
+  "generatedAt": "2026-11-19T12:10:36.452Z",
   "summary": {
     "date": "2026-11-19",
     "electricityOutages": 173,
-    "waterOutages": 17,
+    "waterOutages": 18,
     "affected": [
       {
         "id": "beograd",
@@ -84,6 +84,12 @@
         "waterOutages": 0
       },
       {
+        "id": "pancevo",
+        "nameCyrillic": "Панчево",
+        "electricityOutages": 3,
+        "waterOutages": 1
+      },
+      {
         "id": "cuprija",
         "nameCyrillic": "Ћуприја",
         "electricityOutages": 4,
@@ -118,12 +124,6 @@
         "nameCyrillic": "Нови Сад",
         "electricityOutages": 1,
         "waterOutages": 2
-      },
-      {
-        "id": "pancevo",
-        "nameCyrillic": "Панчево",
-        "electricityOutages": 3,
-        "waterOutages": 0
       },
       {
         "id": "pozarevac",
@@ -468,7 +468,7 @@
     {
       "date": "2026-11-19",
       "electricityOutages": 103,
-      "waterOutages": 17
+      "waterOutages": 18
     }
   ],
   "providers": [

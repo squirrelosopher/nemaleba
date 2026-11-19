@@ -7,6 +7,20 @@
   },
   "outages": [
     {
+      "id": "a12e332a309c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-17",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Пољска од Светозара Марковића до Братства Јединства"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остала Улица Пољска од Светозара Марковића до Братства Јединства.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/11/17/17-11-2026/"
+    },
+    {
       "id": "89d04e117ef1",
       "utility": "electricity",
       "kind": "planned",
@@ -22,6 +36,20 @@
       "reason": null,
       "note": "Б.Брестовац: Поњавичка, Змај Јовина, Б.Радичевића од Бориса Кидрича до З.Јовине.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "a53ca95e279d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-19",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Јаношикова улица од Добровољачке до Гробљанске улице"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остала Јаношикова улица од Добровољачке до Гробљанске улице.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/11/19/19-11-2026/"
     },
     {
       "id": "17efde4e852b",
@@ -208,7 +236,7 @@
     {
       "date": "2026-11-19",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
