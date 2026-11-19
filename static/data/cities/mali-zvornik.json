@@ -5,28 +5,7 @@
     "nameLatin": "Mali Zvornik",
     "branchCyrillic": "Лозница"
   },
-  "outages": [
-    {
-      "id": "e9694b643bd4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Мали Зворник",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Брасина - засеоци Пумпе",
-        "Вискоза Мода",
-        "Речани 1 и 2",
-        "Костићи и Мишићи 2"
-      ],
-      "reason": null,
-      "note": "Брасина - засеоци Пумпе, Вискоза Мода, Речани 1 и 2, Костићи и Мишићи 2",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-21",

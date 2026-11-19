@@ -5,25 +5,7 @@
     "nameLatin": "Raška",
     "branchCyrillic": "Краљево"
   },
-  "outages": [
-    {
-      "id": "041d368565b6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Рашка",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Пискања - извод према Лештанима."
-      ],
-      "reason": null,
-      "note": "Пискања - извод према Лештанима.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-21",

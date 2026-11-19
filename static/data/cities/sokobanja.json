@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "31a1c9a5840d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Сокобања",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Сокобања улице: Кнеза Милоша, Доктора Ђорђа Новаковића , Уцитеља Боре Јовановића, део средњег брда"
-      ],
-      "reason": null,
-      "note": "Сокобања улице: Кнеза Милоша, Доктора Ђорђа Новаковића , Уцитеља Боре Јовановића, део средњег брда",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "11d9c8f8d336",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Сокобања улице: Кнеза Милоша, Доктора Ђорђа Новаковића , Уцитеља Боре Јовановића, део средњег брда",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

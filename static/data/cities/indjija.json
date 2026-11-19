@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "73c3698236ff",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "С. Виногради: Део викенд насеља Јанда 5"
-      ],
-      "reason": null,
-      "note": "С. Виногради: Део викенд насеља Јанда 5",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b34760e869c8",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Љуково: Ул. Н.Тесле парна страна од бр 30 до бр 58",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "0617b9b64284",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Сланкаменачки Виногради: Део викенд зоне Јанда 7",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

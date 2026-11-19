@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "47536773b3af",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Аранђеловац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Партизани -Осредак. Партизани - Брдо."
-      ],
-      "reason": null,
-      "note": "Партизани -Осредак. Партизани - Брдо.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d2ba0985eade",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Аранђеловац",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Село Горња Трешњевица."
-      ],
-      "reason": null,
-      "note": "Село Горња Трешњевица.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8bc5be542e23",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Аранђеловац",
-      "time": {
-        "start": "12:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Прогоревци - три спомена."
-      ],
-      "reason": null,
-      "note": "Прогоревци - три спомена.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "0c15381a7030",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +21,7 @@
       ],
       "reason": null,
       "note": "Бања -Забрежје.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

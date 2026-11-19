@@ -5,25 +5,7 @@
     "nameLatin": "Voždovac",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "9479f11af0dd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "БИЛЕЋКА: 28А, КАПЕТАНА ЗАВИШИЋА: 4"
-      ],
-      "reason": null,
-      "note": "БИЛЕЋКА: 28А, КАПЕТАНА ЗАВИШИЋА: 4,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-21",

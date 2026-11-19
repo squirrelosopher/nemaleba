@@ -7,37 +7,6 @@
   },
   "outages": [
     {
-      "id": "b572aeb01dd9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Мерошина",
-      "time": {
-        "start": "10:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Рожина",
-        "Облачина",
-        "Биљег",
-        "Јовановац",
-        "Азбресница",
-        "Дудулајце",
-        "Падина",
-        "Кованлук",
-        "Девча",
-        "Крајковац",
-        "Мали Јастребац",
-        "Баличевац",
-        "Лепаја",
-        "Облачинско језеро",
-        "Брест и већи део Мерошине"
-      ],
-      "reason": null,
-      "note": "Рожина, Облачина, Биљег, Јовановац, Азбресница, Дудулајце, Падина, Кованлук, Девча, Крајковац, Мали Јастребац, Баличевац, Лепаја, Облачинско језеро, Брест и већи део Мерошине",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f1de4ecf3d27",
       "utility": "electricity",
       "kind": "planned",
@@ -52,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део центра Мерошине",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "fd3a6d111088",
@@ -69,7 +38,7 @@
       ],
       "reason": null,
       "note": "Део Мерошине 2",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

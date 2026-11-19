@@ -5,29 +5,7 @@
     "nameLatin": "Blace",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [
-    {
-      "id": "6d398069cd16",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Блаце",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Барбатовац",
-        "Горња Чунгула",
-        "Гргуре",
-        "Кутловац",
-        "Вишесело"
-      ],
-      "reason": null,
-      "note": "Барбатовац, Горња Чунгула, Гргуре, Кутловац, Вишесело",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-21",

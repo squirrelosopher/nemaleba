@@ -7,25 +7,6 @@
   },
   "outages": [
     {
-      "id": "c5283ae31e95",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Ивањица",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Прилике",
-        "Прилички кисељак",
-        "Варјаче и Ђурићи изнад пута"
-      ],
-      "reason": null,
-      "note": "Прилике, Прилички кисељак, Варјаче и Ђурићи изнад пута",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ff3151ca1171",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +22,7 @@
       ],
       "reason": null,
       "note": "Бела црва, Миланџа и МЗ Кушићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9f3f18d3368c",
@@ -58,7 +39,7 @@
       ],
       "reason": null,
       "note": "Чепово и Шареник",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "03ae6115bd59",
@@ -79,7 +60,7 @@
       ],
       "reason": null,
       "note": "Мана, Део Међуречја, Комадине, Бутково,Орестијевићи и Куманица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "482132178196",
@@ -96,7 +77,7 @@
       ],
       "reason": null,
       "note": "Чепово и Шареник",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "ff712be8398a",
@@ -114,7 +95,7 @@
       ],
       "reason": null,
       "note": "Бела црва, Миланџа и МЗ Кушићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

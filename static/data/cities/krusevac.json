@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "bc521fabb79c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "08:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Део насељеног места Бојинце и Здравиње."
-      ],
-      "reason": null,
-      "note": "Део насељеног места Бојинце и Здравиње.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "dfc6b51eded5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-18",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Део насељеног места Кошеви"
-      ],
-      "reason": null,
-      "note": "Део насељеног места Кошеви",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "9098b33bc041",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "В. Шиљеговац:Део насељеног места Рибаре и Бољевац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9c44d815c9a7",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Церова",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "114cf9eac95a",
@@ -89,7 +55,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Дворане",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "f8fc0ed02ae5",
@@ -106,7 +72,7 @@
       ],
       "reason": null,
       "note": "Део Јасичког пута",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e11aff44fe2f",
@@ -124,7 +90,7 @@
       ],
       "reason": null,
       "note": "Део улице Цара Лазара до семафора, јастребачка и део Улице Пана Ђукића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "9d902cc73eb6",
@@ -141,7 +107,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Трмчаре (из ТС Трмчаре 4)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "874563823776",
@@ -158,7 +124,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Кобиље (према Станци)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "8170e0fea7d7",
@@ -175,7 +141,7 @@
       ],
       "reason": null,
       "note": "Делови насељених места Трмчаре (ТС Трмчаре 2) и Ломница (код киселе воде)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "264177c60413",
@@ -192,7 +158,7 @@
       ],
       "reason": null,
       "note": "Улица Бивољска од Волтерове до Ђуре Даничића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
