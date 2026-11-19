@@ -5,7 +5,32 @@
     "nameLatin": "Vranje",
     "branchCyrillic": "Врање"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "b758cb3880d5",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-13",
+      "areaLabel": "Врање",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због оштећења на водоводној мрежи у Врањској Бањи у Балканској улици ,без воде биће потрошачи те улице и околне, завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/13-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "8faca440ef2f",
+      "utility": "water",
+      "kind": "planned",
+      "date": "2026-11-18",
+      "areaLabel": "Иве Андрића",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због израде водоводног прикључка у улици Иве Андрића , без воде биће потрошачи те улице и Мостарске , до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/18-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-21",
