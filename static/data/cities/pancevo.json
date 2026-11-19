@@ -7,6 +7,20 @@
   },
   "outages": [
     {
+      "id": "a12e332a309c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-17",
+      "areaLabel": "Панчево",
+      "time": null,
+      "streets": [
+        "Пољска од Светозара Марковића до Братства Јединства"
+      ],
+      "reason": null,
+      "note": "Због хаварије на водоводној мрежи без воде је остала Улица Пољска од Светозара Марковића до Братства Јединства.",
+      "sourceUrl": "https://www.vodovodpa.rs/2026/11/17/17-11-2026/"
+    },
+    {
       "id": "6535ccca00ed",
       "utility": "electricity",
       "kind": "planned",
@@ -113,11 +127,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-10-20",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-21",
       "electricityOutages": 1,
@@ -261,6 +270,11 @@
     {
       "date": "2026-11-18",
       "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-19",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]
