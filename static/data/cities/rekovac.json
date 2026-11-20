@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "64e885e9148c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Рековац",
-      "time": {
-        "start": "08:30",
-        "end": "16:30"
-      },
-      "streets": [
-        "Село Сиљевица"
-      ],
-      "reason": null,
-      "note": "Село Сиљевица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "78f24d8fba49",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Село Сиљевица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "151fd4b5690e",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Села: Сиљевица , Мотрић , Баре и Комаране",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

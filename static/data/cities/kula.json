@@ -5,7 +5,34 @@
     "nameLatin": "Kula",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f77866b3e180",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Кула",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "25.Маја 1",
+        "2-42",
+        "ББ",
+        "Козарачка 1",
+        "6-44",
+        "ББ",
+        "Салаш 103-105",
+        "Црвеначки пут ББ",
+        "Др.М.Стојановића 1-5",
+        "2-8."
+      ],
+      "reason": null,
+      "note": "25.Маја 1, 2-42, ББ, Козарачка 1, 6-44, ББ, Салаш 103-105, Црвеначки пут ББ, Др.М.Стојановића 1-5, 2-8.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-22",

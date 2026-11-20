@@ -5,25 +5,7 @@
     "nameLatin": "Stari grad",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "b382012fac85",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Стари град",
-      "time": {
-        "start": "23:30",
-        "end": "05:00"
-      },
-      "streets": [
-        "ЦАРИЦЕ МИЛИЦЕ: 2"
-      ],
-      "reason": null,
-      "note": "ЦАРИЦЕ МИЛИЦЕ: 2,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-22",

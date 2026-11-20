@@ -7,51 +7,6 @@
   },
   "outages": [
     {
-      "id": "a12e332a309c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-17",
-      "areaLabel": "Панчево",
-      "time": null,
-      "streets": [
-        "Пољска од Светозара Марковића до Братства Јединства"
-      ],
-      "reason": null,
-      "note": "Због хаварије на водоводној мрежи без воде је остала Улица Пољска од Светозара Марковића до Братства Јединства.",
-      "sourceUrl": "https://www.vodovodpa.rs/2026/11/17/17-11-2026/"
-    },
-    {
-      "id": "89d04e117ef1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "09:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Б.Брестовац: Поњавичка, Змај Јовина, Б.Радичевића од Бориса Кидрича до З.Јовине."
-      ],
-      "reason": null,
-      "note": "Б.Брестовац: Поњавичка, Змај Јовина, Б.Радичевића од Бориса Кидрича до З.Јовине.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a53ca95e279d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-19",
-      "areaLabel": "Панчево",
-      "time": null,
-      "streets": [
-        "Јаношикова улица од Добровољачке до Гробљанске улице"
-      ],
-      "reason": null,
-      "note": "Због хаварије на водоводној мрежи без воде је остала Јаношикова улица од Добровољачке до Гробљанске улице.",
-      "sourceUrl": "https://www.vodovodpa.rs/2026/11/19/19-11-2026/"
-    },
-    {
       "id": "17efde4e852b",
       "utility": "electricity",
       "kind": "planned",
@@ -66,7 +21,7 @@
       ],
       "reason": null,
       "note": "Панчево:Ж.Зрењанина од М.Б.Михаиловића до бр.18 - парна и непарна страна!",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "0bf53da596cd",
@@ -84,7 +39,43 @@
       ],
       "reason": null,
       "note": "Панчево:С.Марковића од Добровољачке до Гробљанске,Гробљанска од Јаношикове до С.Марковића!",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "7322d33c1f3e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Црепаја:Пролетња",
+        "29.новембра од М.Тита до С.Ковачевића",
+        "С.Ковачевића од 29.новембра до краја ка Ковачици!"
+      ],
+      "reason": null,
+      "note": "Црепаја:Пролетња,29.новембра од М.Тита до С.Ковачевића,С.Ковачевића од 29.новембра до краја ка Ковачици!",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "403ed963a20d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Иваново: Ул.Насипска од Ж.Зрењанина до П.Шандора,Д.Ђерђа од 7-ог јула до Ж.Зрењанина и 7.јули од 29-ог новембра до Насипске!"
+      ],
+      "reason": null,
+      "note": "Иваново: Ул.Насипска од Ж.Зрењанина до П.Шандора,Д.Ђерђа од 7-ог јула до Ж.Зрењанина и 7.јули од 29-ог новембра до Насипске!",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "a33590198e67",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Пожаревац",
-      "time": {
-        "start": "08:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Цане Бабовић (од бројева 94 и 123 према граду) са бочним улицама"
-      ],
-      "reason": null,
-      "note": "Цане Бабовић (од бројева 94 и 123 према граду) са бочним улицама",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5ff6546d4f73",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Пожаревац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Трафо област 7.јули: Чеде Васовића 41, 43, Седмог јула, Косовска 46,50, Дом здравља 012"
-      ],
-      "reason": null,
-      "note": "Трафо област 7.јули: Чеде Васовића 41, 43, Седмог јула, Косовска 46,50, Дом здравља 012",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "a0545a11908b",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "ТраФо област ТС 10/0.4kV Живана Цвејића: Војске Југославије од бројева 176 и 193 до стовариша Југо, Живана Цвејића, Бранка Ћопића, Достојевског, Драгољуба Ђурића, феликса Каница, Мајора Драгутина Гавриловића, Милана Богдановића Пљуце, Милоша Б. Јанковића, Р. Цвејића, Симониде, Симонидина, Стојана Новаковића, Виминацијум, Градиштанска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

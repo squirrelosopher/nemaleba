@@ -5,25 +5,7 @@
     "nameLatin": "Jagodina",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [
-    {
-      "id": "647eb2d7632b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Јагодина",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "села : Ловци , Стрижило , Милошево и део села Багрдан"
-      ],
-      "reason": null,
-      "note": "села : Ловци , Стрижило , Милошево и део села Багрдан",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-22",

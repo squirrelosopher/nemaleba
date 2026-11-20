@@ -7,26 +7,21 @@
   },
   "outages": [
     {
-      "id": "6dca841a0b5d",
+      "id": "b558813c19ae",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "areaLabel": "Лазаревац",
       "time": {
         "start": "09:00",
-        "end": "14:00"
+        "end": "12:00"
       },
       "streets": [
-        "Војводе Степе (Момчила Павловића) 34-62",
-        "13-61",
-        "део улице Видовданска",
-        "Браће Миловановић",
-        "Цвијићева",
-        "Тополска",
-        "улица Брестова."
+        "Насеље Шопић улица Јанка Стајчића 53-113",
+        "132-152 (засеок Криваја 1)."
       ],
       "reason": null,
-      "note": "Војводе Степе (Момчила Павловића) 34-62,13-61, део улице Видовданска , Браће Миловановић, Цвијићева, Тополска, улица Брестова.",
+      "note": "Насеље Шопић улица Јанка Стајчића 53-113,132-152 (засеок Криваја 1).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
@@ -44,25 +39,41 @@
       ],
       "reason": null,
       "note": "Љиг: насељено место Кадина Лука (засеок Ћирјанићи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "b558813c19ae",
+      "id": "43ecf5406e35",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "areaLabel": "Лазаревац",
       "time": {
         "start": "09:00",
-        "end": "12:00"
+        "end": "14:00"
       },
       "streets": [
-        "Насеље Шопић улица Јанка Стајчића 53-113",
-        "132-152 (засеок Криваја 1)."
+        "НасељеВелики Црљени: Раце Терзића (засеок Луг према \"Циганској ноћи\"."
       ],
       "reason": null,
-      "note": "Насеље Шопић улица Јанка Стајчића 53-113,132-152 (засеок Криваја 1).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "note": "НасељеВелики Црљени: Раце Терзића (засеок Луг према \"Циганској ноћи\".",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "3e2ef71054e6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Љиг: насеље Кадина Лука (засеок \"Мишковића брдо\")."
+      ],
+      "reason": null,
+      "note": "Љиг: насеље Кадина Лука (засеок \"Мишковића брдо\").",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

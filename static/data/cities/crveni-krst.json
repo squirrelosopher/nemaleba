@@ -7,22 +7,21 @@
   },
   "outages": [
     {
-      "id": "e38b99afeed4",
+      "id": "1d4360995ca5",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-19",
+      "date": "2026-11-23",
       "areaLabel": "Црвени крст",
       "time": {
-        "start": "10:00",
-        "end": "12:00"
+        "start": "09:00",
+        "end": "11:00"
       },
       "streets": [
-        "делови улица Прибојске",
-        "Паје Моргановића и Јасеновачке;"
+        "делови улице Дреновачке (19-52);"
       ],
       "reason": null,
-      "note": "делови улица Прибојске, Паје Моргановића и Јасеновачке;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+      "note": "делови улице Дреновачке (19-52);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

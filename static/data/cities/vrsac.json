@@ -5,7 +5,26 @@
     "nameLatin": "Vršac",
     "branchCyrillic": "Панчево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "4b4ddf5e7ff6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Вршац",
+      "time": {
+        "start": "08:30",
+        "end": "10:30"
+      },
+      "streets": [
+        "\"Војводе Книћанина од броја 25 до броја 57",
+        "односно од броја 18 до броја 56; \r\nЦара Лазара 63\""
+      ],
+      "reason": null,
+      "note": "\"Војводе Книћанина од броја 25 до броја 57, односно од броја 18 до броја 56; \r\nЦара Лазара 63\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-22",

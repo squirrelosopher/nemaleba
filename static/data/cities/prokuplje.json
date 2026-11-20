@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "2791d2093e70",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "11:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Доња Расовача"
-      ],
-      "reason": null,
-      "note": "Доња Расовача",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "b1ea8f3a0ea4",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Бумбурек",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "883e4d577703",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Велика Плана - Борјанска река",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

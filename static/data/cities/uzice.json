@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "ec300c8d62d9",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Потрошачи са подручја Љубања као и каменолом РИД."
-      ],
-      "reason": null,
-      "note": "Потрошачи са подручја Љубања као и каменолом РИД.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1aa2b045abfd",
       "utility": "electricity",
       "kind": "planned",
@@ -52,7 +35,7 @@
       ],
       "reason": null,
       "note": "Потрошачи из улица Милоша Обреновића, Надежде Петровић, Стојана Обрадовића, АМС Ужице, Ауто База, Ресторан ,,Таверна,, , Бензинска пумпа ,,МОЛ,, ,,Турбо сервис,, , Погребна опрема, Ауто делови ЗИП и Машинска обрада, Ветеринарски Завод, Продавница ,,Пуна Кућа,,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

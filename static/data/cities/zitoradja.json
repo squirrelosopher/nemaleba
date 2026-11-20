@@ -7,44 +7,6 @@
   },
   "outages": [
     {
-      "id": "2b32b2d4c5c8",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Житорађа",
-      "time": {
-        "start": "09:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "Ђакус",
-        "Пејковац",
-        "Глашинац",
-        "Извор",
-        "Самариновац и Држановац"
-      ],
-      "reason": null,
-      "note": "Ђакус, Пејковац, Глашинац, Извор, Самариновац и Држановац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "cffe2bc3ef66",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Житорађа",
-      "time": {
-        "start": "12:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Део центра Житорађе према Прокупљу"
-      ],
-      "reason": null,
-      "note": "Део центра Житорађе према Прокупљу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "40f9085c5af1",
       "utility": "electricity",
       "kind": "planned",
@@ -59,7 +21,7 @@
       ],
       "reason": null,
       "note": "Каре",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

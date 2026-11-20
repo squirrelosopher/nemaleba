@@ -7,142 +7,6 @@
   },
   "outages": [
     {
-      "id": "dcb6e7aa214e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Палић: Палмина, Панонска, Јоргованска, 39 Нова, 40 Нова, 51 Нова, 52 Нова , 53 Нова, Браства и Јединства, Ливадска, Лопудска, Атиле Јожефа, Барска између Илије Бирчанина и Лудошке, Лудошка између Хоргошког пута и Барске, Хоргошки пут око ,,АБРАХАМА\", Прежирхова Воранца, Јосипа Колумба између Палмине и Ловачке, Тресетиште и 50 Нова са околином."
-      ],
-      "reason": null,
-      "note": "Палић: Палмина, Панонска, Јоргованска, 39 Нова, 40 Нова, 51 Нова, 52 Нова , 53 Нова, Браства и Јединства, Ливадска, Лопудска, Атиле Јожефа, Барска између Илије Бирчанина и Лудошке, Лудошка између Хоргошког пута и Барске, Хоргошки пут око ,,АБРАХАМА\", Прежирхова Воранца, Јосипа Колумба између Палмине и Ловачке, Тресетиште и 50 Нова са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d1d10857a496",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Бајмок: Станишићка,Сомборски пут,Матије Гупца,Гајева,Браће Радић,3.Нова,2.Нова,Штросмајерова,Петефи Шандора,Жабњак,Петра Драпшина,Франкопанска,Цара Лазара,Сајмиште,Обалска,Балканска,9.Нова,Орловска,Нова,Качмарски пут,Истарска.."
-      ],
-      "reason": null,
-      "note": "Бајмок: Станишићка,Сомборски пут,Матије Гупца,Гајева,Браће Радић,3.Нова,2.Нова,Штросмајерова,Петефи Шандора,Жабњак,Петра Драпшина,Франкопанска,Цара Лазара,Сајмиште,Обалска,Балканска,9.Нова,Орловска,Нова,Качмарски пут,Истарска..",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "27cc63a2f1e4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Суботица: Владимира Мајаковског бр.82, Павловачка између бр.( 15 и 32 ), Храстова између бр.( 4 и 43 )."
-      ],
-      "reason": null,
-      "note": "Суботица: Владимира Мајаковског бр.82, Павловачка између бр.( 15 и 32 ), Храстова између бр.( 4 и 43 ).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "58325790dd91",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "09:10",
-        "end": "09:55"
-      },
-      "streets": [
-        "Суботица: Сегедински Пут непарна страна од броја 5 до 15, Марије Војнић Тошинице, Владимира Мајаковског са околином."
-      ],
-      "reason": null,
-      "note": "Суботица: Сегедински Пут непарна страна од броја 5 до 15, Марије Војнић Тошинице, Владимира Мајаковског са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c9219985b955",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "10:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Суботица: Лошињска између бр.( 7 и 67 ), Лозничка, Балканска бр.15."
-      ],
-      "reason": null,
-      "note": "Суботица: Лошињска између бр.( 7 и 67 ), Лозничка, Балканска бр.15.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2a19b5eed8b7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "10:10",
-        "end": "10:55"
-      },
-      "streets": [
-        "Суботица: Сегедински пут бр.1, почетак Јована Микића ( од МОЛ-пумпе до Шантићеве ), почетак Теслине до Владимира Мајаковског, Церска са околином."
-      ],
-      "reason": null,
-      "note": "Суботица: Сегедински пут бр.1, почетак Јована Микића ( од МОЛ-пумпе до Шантићеве ), почетак Теслине до Владимира Мајаковског, Церска са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d8ff2f31e912",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "11:10",
-        "end": "11:55"
-      },
-      "streets": [
-        "Суботица: Гаврила Принципа (3, 5, 7 и 9), и Папа Пала бр. 17."
-      ],
-      "reason": null,
-      "note": "Суботица: Гаврила Принципа (3, 5, 7 и 9), и Папа Пала бр. 17.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "0772693d19de",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Суботица",
-      "time": {
-        "start": "13:10",
-        "end": "13:55"
-      },
-      "streets": [
-        "Суботица: Сегедински пут ( 20,22-24 ), Косте Абрашевића ( 12,14,16,18 ) и Светозара Марковића."
-      ],
-      "reason": null,
-      "note": "Суботица: Сегедински пут ( 20,22-24 ), Косте Абрашевића ( 12,14,16,18 ) и Светозара Марковића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "72b0479f0ab0",
       "utility": "electricity",
       "kind": "planned",
@@ -157,7 +21,7 @@
       ],
       "reason": null,
       "note": "Горњи Таванкут: Резмањов пут бр.1086, Петра Зубера пут бр.995, Горњи Таванкут бр.1092, Вермешов крај између бр.( 982 и 991 ) у околини.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "df52228eb93b",
@@ -174,7 +38,7 @@
       ],
       "reason": null,
       "note": "Ђурђин: Владимира Назора,Моше Пијаде,И.Л.Рибара,Браће Радић,Босе Миличевић,Ђуре Ђаковића,Сремска,Матка Вуковића,Јована Микића,Бориса Кидрича,Војвођанска,Суботичка,Првомајска,Октобарска,Народног Фронта,Маршала Тита,Салаши,Ђурђин Салаши,Мишићевски пут,Бајмочки пут,Бачванска,Жељезничка са околином.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "152d92264f33",
@@ -191,7 +55,7 @@
       ],
       "reason": null,
       "note": "Суботица: део Мичуринове између Врбаске и Кароља Чеха, Трогирска, Гламочка, Кароља Чеха,Новоселска, Шебешићка и Ватрослава Јагића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "049f9557af8a",
@@ -208,7 +72,7 @@
       ],
       "reason": null,
       "note": "Ст.Жедник: Ђурђин,Ст.Жедник салаши 151,389",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2acd9526abc0",
@@ -225,7 +89,7 @@
       ],
       "reason": null,
       "note": "Суботица: Лошињска између бр.( 7 и 67 ), Лозничка, Балканска бр.15.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "40e0f30ae9c4",
@@ -242,7 +106,7 @@
       ],
       "reason": null,
       "note": "Суботица: почетак Киреске, Владимира Мајаковског, Јована Микића око Кирешке ( зграде број: 33, 34, 35, 36, 37, 38, 40 и 44 )",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "5c29817f2d51",
@@ -259,7 +123,7 @@
       ],
       "reason": null,
       "note": "Келебија: Јосипа Колумба ( део према главном путу ) у околини.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "625b22bf1b1d",
@@ -276,7 +140,7 @@
       ],
       "reason": null,
       "note": "Суботица: Сегедински пут 53,55,57, Петрињска,Банијска до броја 60..",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

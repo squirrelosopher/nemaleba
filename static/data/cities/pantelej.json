@@ -7,26 +7,6 @@
   },
   "outages": [
     {
-      "id": "63c212b0e6e6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "11:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "делови улица Димитрија Големовића",
-        "Др Петра Петровића",
-        "Стојана Анастасијевића",
-        "Зорана Радосављевића – Чупе и Врежинског Булевара;"
-      ],
-      "reason": null,
-      "note": "делови улица Димитрија Големовића, Др Петра Петровића, Стојана Анастасијевића, Зорана Радосављевића – Чупе и Врежинског Булевара;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "3b6d1354a059",
       "utility": "electricity",
       "kind": "planned",
@@ -46,7 +26,7 @@
       ],
       "reason": null,
       "note": "делови улице Лепеничке (1-25,бб), Књажевачке (155), Србињске (1,1а,3);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

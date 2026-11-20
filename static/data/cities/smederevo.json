@@ -5,42 +5,7 @@
     "nameLatin": "Smederevo",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [
-    {
-      "id": "da3c62f2327e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Црнотравска"
-      ],
-      "reason": null,
-      "note": "Црнотравска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "944912ee8b18",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-19",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Ландолски пут"
-      ],
-      "reason": null,
-      "note": "Ландолски пут",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-22",

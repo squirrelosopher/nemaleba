@@ -5,7 +5,139 @@
     "nameLatin": "Vrbas",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "d3bf85cc74f0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Б.Томовића 1-3",
+        "2-8",
+        "ББ",
+        "М.Тита 19-51",
+        "Н.фронта 1-59",
+        "8-56",
+        "ББ",
+        "П.Бораца 2-14",
+        "18",
+        "1-5",
+        "Сарајевска 18",
+        "34-36",
+        "ББ."
+      ],
+      "reason": null,
+      "note": "Б.Томовића 1-3, 2-8, ББ, М.Тита 19-51, Н.фронта 1-59, 8-56, ББ, П.Бораца 2-14, 18, 1-5, Сарајевска 18, 34-36, ББ.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "a5f9b2eeb5a9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "П.Бораца 13",
+        "20",
+        "ББ",
+        "Д.Грубића 89-91",
+        "1-9",
+        "2",
+        "ББ",
+        "С.Ковачевића 83-91",
+        "94-114",
+        "М.Тита 76-92",
+        "79-87",
+        "ББ",
+        "Трг.Н Пашића ББ."
+      ],
+      "reason": null,
+      "note": "П.Бораца 13, 20, ББ, Д.Грубића 89-91, 1-9, 2, ББ, С.Ковачевића 83-91, 94-114, М.Тита 76-92, 79-87, ББ, Трг.Н Пашића ББ.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "4be202e1a61e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Блок В.Копривице 1-21",
+        "2-20",
+        "ББ",
+        "М.Тита 73-77",
+        "72."
+      ],
+      "reason": null,
+      "note": "Блок В.Копривице 1-21, 2-20, ББ, М.Тита 73-77, 72.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "5e6e8a451450",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "12:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Д.Бојовића 92",
+        "61-103-146",
+        "П.Бораца 13-19",
+        "24-36",
+        "ББ",
+        "С.Дороњског 33-105",
+        "32-88",
+        "С.Ковачевића 85",
+        "86-92",
+        "Ђ.Салаја 73",
+        "Д.Максимовић 1-9",
+        "2-22",
+        "ББ."
+      ],
+      "reason": null,
+      "note": "Д.Бојовића 92, 61-103-146, П.Бораца 13-19, 24-36, ББ, С.Дороњског 33-105, 32-88, С.Ковачевића 85, 86-92, Ђ.Салаја 73, Д.Максимовић 1-9, 2-22, ББ.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "91b1854c5213",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "С.Ковачевића 66-84",
+        "63-87",
+        "Б.В.Копривице 22",
+        "Блок 99 ББ",
+        "М.Антића 1-21",
+        "2-14",
+        "П.Бораца ББ."
+      ],
+      "reason": null,
+      "note": "С.Ковачевића 66-84, 63-87, Б.В.Копривице 22, Блок 99 ББ, М.Антића 1-21, 2-14, П.Бораца ББ.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-22",

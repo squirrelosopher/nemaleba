@@ -5,7 +5,25 @@
     "nameLatin": "Novi Beograd",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "2f748fbc2bed",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "ДУШАНА ВУКАСОВИЋА: 45-47"
+      ],
+      "reason": null,
+      "note": "ДУШАНА ВУКАСОВИЋА: 45-47,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-22",
