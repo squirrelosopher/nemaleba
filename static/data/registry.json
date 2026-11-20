@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-20T08:10:31.583Z",
+  "generatedAt": "2026-11-20T09:10:36.258Z",
   "summary": {
     "date": "2026-11-20",
     "electricityOutages": 134,
-    "waterOutages": 19,
+    "waterOutages": 20,
     "affected": [
       {
         "id": "beograd",
@@ -27,7 +27,7 @@
         "id": "novi-sad",
         "nameCyrillic": "Нови Сад",
         "electricityOutages": 8,
-        "waterOutages": 2
+        "waterOutages": 3
       },
       {
         "id": "paracin",
@@ -450,7 +450,7 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 93,
-      "waterOutages": 18
+      "waterOutages": 19
     }
   ],
   "providers": [

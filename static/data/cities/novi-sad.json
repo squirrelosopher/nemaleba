@@ -278,6 +278,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "5cef15aea4fd",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-20",
+      "areaLabel": "Ветерник",
+      "time": {
+        "start": null,
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Љутице Богдана и околне улице"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Улица Љутице Богдана и околне улице у Ветернику.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-20-11-2026/"
+    },
+    {
       "id": "87f02e2ca1d4",
       "utility": "water",
       "kind": "emergency",
@@ -529,7 +546,7 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 4,
-      "waterOutages": 2
+      "waterOutages": 3
     }
   ]
 }
