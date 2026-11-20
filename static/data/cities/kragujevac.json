@@ -7,157 +7,6 @@
   },
   "outages": [
     {
-      "id": "a35b40e84840",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-12",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-12-11-2026/",
-      "areaLabel": "Ердоглија",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Словачких Побуњеника"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Хаваријска искључења на дан 12.11.2026. \n \n Ердоглија, ул. Словачких Побуњеника ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "8e10f08df61c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-12",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-12-11-2026/",
-      "areaLabel": "Маја",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [],
-      "reason": "поправка кућног прикључка",
-      "note": "Белошевац, ул. 9.Маја ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "4537d03a6c9b",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-12",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-12-11-2026/",
-      "areaLabel": "Пчелице",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Љубомира Јовановића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Пчелице, ул. Љубомира Јовановића ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "e4075fa1c5ff",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-12",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-12-11-2026/",
-      "areaLabel": "Бресница",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Болета Бојовића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Бресница, ул. Болета Бојовића ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "ea8ff87e224f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-12",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-12-11-2026/",
-      "areaLabel": "Колонија",
-      "time": {
-        "start": "12:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Сретењског Устава"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Колонија, ул. Сретењског Устава ( од 12:00 до 15:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "1967e319c5c6",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-12",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-12-11-2026/",
-      "areaLabel": "Пчелице",
-      "time": {
-        "start": "12:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Задругарска"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Пчелице, ул. Задругарска ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "a3ba9d521334",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-12",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-12-11-2026/",
-      "areaLabel": "Центар",
-      "time": {
-        "start": "15:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Светолика Ранковића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Центар, ул. Светолика Ранковића ( од 15:00 до 19:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "3e93c3f898d7",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-12",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-12-11-2026/",
-      "areaLabel": "Ердеч",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Пештарска"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Ердеч, ул. Пештарска ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "031b4bc63ee1",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-12",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-12-11-2026/",
-      "areaLabel": "Илина Вода",
-      "time": {
-        "start": "16:00",
-        "end": "19:00"
-      },
-      "streets": [
-        "Бошка Бухе"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Илина Вода, ул. Бошка Бухе ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
-    },
-    {
       "id": "f2e911bb82e0",
       "utility": "water",
       "kind": "emergency",
@@ -975,11 +824,6 @@
   ],
   "history": [
     {
-      "date": "2026-10-21",
-      "electricityOutages": 0,
-      "waterOutages": 9
-    },
-    {
       "date": "2026-10-22",
       "electricityOutages": 1,
       "waterOutages": 8
@@ -1123,6 +967,11 @@
       "date": "2026-11-19",
       "electricityOutages": 3,
       "waterOutages": 6
+    },
+    {
+      "date": "2026-11-20",
+      "electricityOutages": 1,
+      "waterOutages": 0
     }
   ]
 }

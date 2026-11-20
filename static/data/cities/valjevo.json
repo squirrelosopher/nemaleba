@@ -7,18 +7,6 @@
   },
   "outages": [
     {
-      "id": "d61b40ccddc6",
-      "utility": "water",
-      "kind": "planned",
-      "date": "2026-11-12",
-      "areaLabel": "Ваљево",
-      "time": null,
-      "streets": [],
-      "reason": null,
-      "note": "Због проблема са нестанком електричне енергије,  потрошачи који се снабдевају са сеоског водовода Прскавац су тренутно без водоснабдевања. Водоснабдевање ће бити нормализовано када проблем са електричном енергијом буде решен. \n Илустрација командне табле",
-      "sourceUrl": "https://vodovodva.co.rs/prskavac12112026/"
-    },
-    {
       "id": "72868cdc63e4",
       "utility": "water",
       "kind": "emergency",
@@ -96,11 +84,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-10-21",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-22",
       "electricityOutages": 0,
@@ -243,6 +226,11 @@
     },
     {
       "date": "2026-11-19",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-20",
       "electricityOutages": 1,
       "waterOutages": 0
     }
