@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-20T16:10:39.753Z",
+  "generatedAt": "2026-11-20T18:10:38.197Z",
   "summary": {
     "date": "2026-11-20",
     "electricityOutages": 191,
-    "waterOutages": 21,
+    "waterOutages": 22,
     "affected": [
       {
         "id": "subotica",
@@ -292,6 +292,12 @@
         "nameCyrillic": "Кула",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "leskovac",
+        "nameCyrillic": "Лесковац",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "loznica",
