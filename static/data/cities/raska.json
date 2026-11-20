@@ -5,7 +5,29 @@
     "nameLatin": "Raška",
     "branchCyrillic": "Краљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "ccf381566c06",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-22",
+      "areaLabel": "Рашка",
+      "time": {
+        "start": "07:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "Без напона ће да буду потрошачи који се напајају из ТС 35 КВ РАШКА 2",
+        "Центар Рашке",
+        "Супње",
+        "Ново Насеље",
+        "села Милатковиће и Панојевиће"
+      ],
+      "reason": null,
+      "note": "Без напона ће да буду потрошачи који се напајају из ТС 35 КВ РАШКА 2 , Центар Рашке , Супње , Ново Насеље , села Милатковиће и Панојевиће",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-22",

@@ -5,7 +5,76 @@
     "nameLatin": "Aranđelovac",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "dc4b6a39bc53",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Аранђеловац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Бања центар и Дебели крај"
+      ],
+      "reason": null,
+      "note": "Бања центар и Дебели крај",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "8356b1db22c5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Аранђеловац",
+      "time": {
+        "start": "12:00",
+        "end": "12:30"
+      },
+      "streets": [
+        "Мариновац и Обрадово брдо"
+      ],
+      "reason": null,
+      "note": "Мариновац и Обрадово брдо",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "10035effd43e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Аранђеловац",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Мариновац Томковића крај"
+      ],
+      "reason": null,
+      "note": "Мариновац Томковића крај",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "2cef2df96ab3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Аранђеловац",
+      "time": {
+        "start": "14:00",
+        "end": "14:30"
+      },
+      "streets": [
+        "Мариновац и Обрадово брдо"
+      ],
+      "reason": null,
+      "note": "Мариновац и Обрадово брдо",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-22",

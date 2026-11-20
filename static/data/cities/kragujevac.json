@@ -945,6 +945,24 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     },
     {
+      "id": "fce17fc48734",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Корман",
+        "Горње Комарице"
+      ],
+      "reason": null,
+      "note": "Корман, Горње Комарице",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
       "id": "d7b1915891b3",
       "utility": "electricity",
       "kind": "planned",

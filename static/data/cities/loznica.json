@@ -5,7 +5,28 @@
     "nameLatin": "Loznica",
     "branchCyrillic": "Лозница"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "c2993b3fe645",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Симино Брдо",
+        "Филиповићи",
+        "Кик",
+        "Бања Бадања 1 и 2"
+      ],
+      "reason": null,
+      "note": "Симино Брдо, Филиповићи, Кик, Бања Бадања 1 и 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-22",

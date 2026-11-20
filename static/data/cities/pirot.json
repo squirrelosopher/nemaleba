@@ -56,6 +56,43 @@
       "reason": null,
       "note": "Део насеља Танаско Рајић",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "441c566ba096",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:00",
+        "end": "09:45"
+      },
+      "streets": [
+        "Део села Пољска Ржана"
+      ],
+      "reason": null,
+      "note": "Део села Пољска Ржана",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "dd13827690f7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Пирот",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Гостуша",
+        "Бела",
+        "Рудина",
+        "Паклештица"
+      ],
+      "reason": null,
+      "note": "Гостуша, Бела, Рудина, Паклештица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

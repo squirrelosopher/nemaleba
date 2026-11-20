@@ -7,6 +7,23 @@
   },
   "outages": [
     {
+      "id": "7287f1e011a2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "08:30",
+        "end": "10:00"
+      },
+      "streets": [
+        "М.Тита 8-16."
+      ],
+      "reason": null,
+      "note": "М.Тита 8-16.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
       "id": "d3bf85cc74f0",
       "utility": "electricity",
       "kind": "planned",
@@ -62,6 +79,24 @@
       ],
       "reason": null,
       "note": "П.Бораца 13, 20, ББ, Д.Грубића 89-91, 1-9, 2, ББ, С.Ковачевића 83-91, 94-114, М.Тита 76-92, 79-87, ББ, Трг.Н Пашића ББ.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "9a1281898981",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "10:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Б.Томовића 10-16",
+        "М.Тита 22-40."
+      ],
+      "reason": null,
+      "note": "Б.Томовића 10-16, М.Тита 22-40.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     },
     {

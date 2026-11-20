@@ -395,6 +395,123 @@
       "reason": null,
       "note": "Каћ: ЦТП 1, 2, 3",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "145c1c42285f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "Подземни пролаз."
+      ],
+      "reason": null,
+      "note": "Подземни пролаз.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "f913306af3fe",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:30",
+        "end": "10:15"
+      },
+      "streets": [
+        "Позоришни трг 2 – 6",
+        "Краља Александра 2 – 10",
+        "Трг слободе 2 – 4 А",
+        "Градска кућа",
+        "Хотел Војводина."
+      ],
+      "reason": null,
+      "note": "Позоришни трг 2 – 6, Краља Александра 2 – 10, Трг слободе 2 – 4 А, Градска кућа, Хотел Војводина.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "7ddfa9d4884c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "10:45",
+        "end": "11:45"
+      },
+      "streets": [
+        "Кисачка 63",
+        "66 – 88",
+        "Хађи Ђерина",
+        "Рашка",
+        "Немањина",
+        "СИМ",
+        "Максбет."
+      ],
+      "reason": null,
+      "note": "Кисачка 63, 66 – 88, Хађи Ђерина, Рашка, Немањина, СИМ, Максбет.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "6c9bbabd1042",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "12:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Будисава-Пола села од уласка из Каћа до ул. Железничка и Школска"
+      ],
+      "reason": null,
+      "note": "Будисава-Пола села од уласка из Каћа до ул. Железничка и Школска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "9a3563c84f87",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "12:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Јавор",
+        "Петровец."
+      ],
+      "reason": null,
+      "note": "Јавор, Петровец.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "a81decfc593a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "12:15",
+        "end": "13:00"
+      },
+      "streets": [
+        "Темеринска 66 – 80",
+        "Текелијина 39 А – 45",
+        "46 – 58",
+        "Семафор на углу Партизанске и Темеринске",
+        "Семафор на углу Темеринске и Венизелосове."
+      ],
+      "reason": null,
+      "note": "Темеринска 66 – 80, Текелијина 39 А – 45, 46 – 58, Семафор на углу Партизанске и Темеринске, Семафор на углу Темеринске и Венизелосове.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

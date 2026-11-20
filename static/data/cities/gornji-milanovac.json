@@ -22,6 +22,27 @@
       "reason": null,
       "note": "улица Трушова од 26-56",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "71d813ce417f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Горњи Милановац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Накучани",
+        "Шилопај",
+        "Крива Река",
+        "Давидовица",
+        "Церова и Мутањ"
+      ],
+      "reason": null,
+      "note": "Накучани, Шилопај, Крива Река, Давидовица, Церова и Мутањ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

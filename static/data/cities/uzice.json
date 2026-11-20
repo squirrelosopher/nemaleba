@@ -7,6 +7,23 @@
   },
   "outages": [
     {
+      "id": "f841c879926b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-20",
+      "areaLabel": "Ужице",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Део ул. Југ Богданова и део ул. Видовданска."
+      ],
+      "reason": null,
+      "note": "Део ул. Југ Богданова и део ул. Видовданска.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
       "id": "1aa2b045abfd",
       "utility": "electricity",
       "kind": "planned",
@@ -186,7 +203,7 @@
     },
     {
       "date": "2026-11-20",
-      "electricityOutages": 1,
+      "electricityOutages": 2,
       "waterOutages": 0
     }
   ]
