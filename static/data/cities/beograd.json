@@ -24,23 +24,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "ce467383603a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "08:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "АТАНАСИЈА ПУЉЕ : 59, ЦВИЈИЋЕВА: 12,16, ГЕТЕОВА: 44А-52а,49-79, ЈАКШИЋЕВА: 2-10,1-21, КРАЈИШКА: 30,34-40,46-46,49-53А,57-59Ц, МАКЕДОНСКА: 2-6,1-11, МЕТОХИЈСКА: 2-4, ПАРТИЗАНСКА: 4-10,1-7, СЛОВЕНСКА: 2-46,5-7,13,17-27,31-33, СОЛУНСКА: 2-4,8А,1-5, ЖЕЛЕЗНИЧКА КОЛОНИЈА: 2-28,1-27, Насеље ПЛАВИ ХОРИЗОНТИ: МИЛАНА РЕШЕТАРА : 5-11"
-      ],
-      "reason": null,
-      "note": "АТАНАСИЈА ПУЉЕ : 59, ЦВИЈИЋЕВА: 12,16, ГЕТЕОВА: 44А-52а,49-79, ЈАКШИЋЕВА: 2-10,1-21, КРАЈИШКА: 30,34-40,46-46,49-53А,57-59Ц, МАКЕДОНСКА: 2-6,1-11, МЕТОХИЈСКА: 2-4, ПАРТИЗАНСКА: 4-10,1-7, СЛОВЕНСКА: 2-46,5-7,13,17-27,31-33, СОЛУНСКА: 2-4,8А,1-5, ЖЕЛЕЗНИЧКА КОЛОНИЈА: 2-28,1-27, Насеље ПЛАВИ ХОРИЗОНТИ: МИЛАНА РЕШЕТАРА : 5-11,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "9d79902e5a85",
       "utility": "electricity",
       "kind": "planned",
@@ -55,6 +38,23 @@
       ],
       "reason": null,
       "note": "Насеље РВАТИ: КРАЉА МИЛАНА: 16Ј,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "20c1faaa6e7b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-20",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Љиг: насељено место Кадина Лука (засеок Ћирјанићи)."
+      ],
+      "reason": null,
+      "note": "Љиг: насељено место Кадина Лука (засеок Ћирјанићи).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
@@ -73,23 +73,6 @@
       ],
       "reason": null,
       "note": "Насеље Шопић улица Јанка Стајчића 53-113,132-152 (засеок Криваја 1).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "20c1faaa6e7b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Љиг: насељено место Кадина Лука (засеок Ћирјанићи)."
-      ],
-      "reason": null,
-      "note": "Љиг: насељено место Кадина Лука (засеок Ћирјанићи).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
@@ -246,23 +229,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     },
     {
-      "id": "43ecf5406e35",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "НасељеВелики Црљени: Раце Терзића (засеок Луг према \"Циганској ноћи\"."
-      ],
-      "reason": null,
-      "note": "НасељеВелики Црљени: Раце Терзића (засеок Луг према \"Циганској ноћи\".",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
-    },
-    {
       "id": "3e2ef71054e6",
       "utility": "electricity",
       "kind": "planned",
@@ -277,6 +243,23 @@
       ],
       "reason": null,
       "note": "Љиг: насеље Кадина Лука (засеок \"Мишковића брдо\").",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "43ecf5406e35",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "НасељеВелики Црљени: Раце Терзића (засеок Луг према \"Циганској ноћи\"."
+      ],
+      "reason": null,
+      "note": "НасељеВелики Црљени: Раце Терзића (засеок Луг према \"Циганској ноћи\".",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     },
     {
@@ -311,6 +294,23 @@
       ],
       "reason": null,
       "note": "ДУШАНА ВУКАСОВИЋА: 45-47,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "b6665cd5d27c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "10:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "АЛЕКСЕ ДУНДИЋА: 2-16,1-11, БЛАЖА ПОПИВОДЕ: 2-12,16а-18а,1-23, ДАНИЛА СРДИЋА: 2-12,1-15, ДУШАНА ВУКАСОВИЋА: 2А,6-36А,46,1-19,35Б-35Б, МАТИЈЕ ИВАНИЋА: 1-15, МУСТАФЕ ГОЛУБИЋА: 1-15, СЕСТАРА ВУКОВИЋ: 2-24,1-21, СУРЧИНСКА: 4-6А,1А-7Б, СУРЧИНСКИ ПУТ: 3-3, ВИНОГРАДСКА: 2,36-44А,48-98,102-116А,126-130,9г,31е-31и,35Б-41в,151, ВОЈВОЂАНСКА: ББ,ББ,80-152,113"
+      ],
+      "reason": null,
+      "note": "АЛЕКСЕ ДУНДИЋА: 2-16,1-11, БЛАЖА ПОПИВОДЕ: 2-12,16а-18а,1-23, ДАНИЛА СРДИЋА: 2-12,1-15, ДУШАНА ВУКАСОВИЋА: 2А,6-36А,46,1-19,35Б-35Б, МАТИЈЕ ИВАНИЋА: 1-15, МУСТАФЕ ГОЛУБИЋА: 1-15, СЕСТАРА ВУКОВИЋ: 2-24,1-21, СУРЧИНСКА: 4-6А,1А-7Б, СУРЧИНСКИ ПУТ: 3-3, ВИНОГРАДСКА: 2,36-44А,48-98,102-116А,126-130,9г,31е-31и,35Б-41в,151, ВОЈВОЂАНСКА: ББ,ББ,80-152,113,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
@@ -462,7 +462,7 @@
     },
     {
       "date": "2026-11-20",
-      "electricityOutages": 5,
+      "electricityOutages": 4,
       "waterOutages": 0
     }
   ]

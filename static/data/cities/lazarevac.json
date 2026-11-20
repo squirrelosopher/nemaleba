@@ -7,6 +7,23 @@
   },
   "outages": [
     {
+      "id": "20c1faaa6e7b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-20",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Љиг: насељено место Кадина Лука (засеок Ћирјанићи)."
+      ],
+      "reason": null,
+      "note": "Љиг: насељено место Кадина Лука (засеок Ћирјанићи).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
       "id": "b558813c19ae",
       "utility": "electricity",
       "kind": "planned",
@@ -25,21 +42,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "20c1faaa6e7b",
+      "id": "3e2ef71054e6",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "areaLabel": "Лазаревац",
       "time": {
         "start": "09:00",
         "end": "15:00"
       },
       "streets": [
-        "Љиг: насељено место Кадина Лука (засеок Ћирјанићи)."
+        "Љиг: насеље Кадина Лука (засеок \"Мишковића брдо\")."
       ],
       "reason": null,
-      "note": "Љиг: насељено место Кадина Лука (засеок Ћирјанићи).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+      "note": "Љиг: насеље Кадина Лука (засеок \"Мишковића брдо\").",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     },
     {
       "id": "43ecf5406e35",
@@ -56,23 +73,6 @@
       ],
       "reason": null,
       "note": "НасељеВелики Црљени: Раце Терзића (засеок Луг према \"Циганској ноћи\".",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
-    },
-    {
-      "id": "3e2ef71054e6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Љиг: насеље Кадина Лука (засеок \"Мишковића брдо\")."
-      ],
-      "reason": null,
-      "note": "Љиг: насеље Кадина Лука (засеок \"Мишковића брдо\").",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
