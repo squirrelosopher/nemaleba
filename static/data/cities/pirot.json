@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "883c84a1fe83",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "08:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "Села: Копривштица, Покревеник, Вип, Гостуша, Рудина, Бела, Паклештица"
-      ],
-      "reason": null,
-      "note": "Села: Копривштица, Покревеник, Вип, Гостуша, Рудина, Бела, Паклештица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "7bc21b0fc92e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део села Крупац"
-      ],
-      "reason": null,
-      "note": "Део села Крупац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "8eb15cf87f3c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "12:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Део насеља Танаско Рајић"
-      ],
-      "reason": null,
-      "note": "Део насеља Танаско Рајић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "441c566ba096",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део села Пољска Ржана",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "dd13827690f7",
@@ -92,15 +41,10 @@
       ],
       "reason": null,
       "note": "Гостуша, Бела, Рудина, Паклештица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 3,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 3,
@@ -244,6 +188,11 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

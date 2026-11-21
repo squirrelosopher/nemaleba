@@ -5,62 +5,8 @@
     "nameLatin": "Užice",
     "branchCyrillic": "Ужице"
   },
-  "outages": [
-    {
-      "id": "f841c879926b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Део ул. Југ Богданова и део ул. Видовданска."
-      ],
-      "reason": null,
-      "note": "Део ул. Југ Богданова и део ул. Видовданска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "1aa2b045abfd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Ужице",
-      "time": {
-        "start": "10:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Потрошачи из улица Милоша Обреновића",
-        "Надежде Петровић",
-        "Стојана Обрадовића",
-        "АМС Ужице",
-        "Ауто База",
-        "Ресторан",
-        "Таверна",
-        "Бензинска пумпа",
-        "МОЛ",
-        "Турбо сервис",
-        "Погребна опрема",
-        "Ауто делови ЗИП и Машинска обрада",
-        "Ветеринарски Завод",
-        "Продавница",
-        "Пуна Кућа"
-      ],
-      "reason": null,
-      "note": "Потрошачи из улица Милоша Обреновића, Надежде Петровић, Стојана Обрадовића, АМС Ужице, Ауто База, Ресторан ,,Таверна,, , Бензинска пумпа ,,МОЛ,, ,,Турбо сервис,, , Погребна опрема, Ауто делови ЗИП и Машинска обрада, Ветеринарски Завод, Продавница ,,Пуна Кућа,,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 2,
@@ -204,6 +150,11 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

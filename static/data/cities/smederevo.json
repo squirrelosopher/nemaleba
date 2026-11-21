@@ -5,13 +5,43 @@
     "nameLatin": "Smederevo",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-22",
-      "electricityOutages": 0,
-      "waterOutages": 0
+      "id": "4c899b0b2d89",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Боре Станковића"
+      ],
+      "reason": null,
+      "note": "Боре Станковића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     },
+    {
+      "id": "70ffe37ef1ae",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Мала Крсна-Пожаревачки пут"
+      ],
+      "reason": null,
+      "note": "Мала Крсна-Пожаревачки пут",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
@@ -154,6 +184,11 @@
     },
     {
       "date": "2026-11-20",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
       "electricityOutages": 0,
       "waterOutages": 0
     }

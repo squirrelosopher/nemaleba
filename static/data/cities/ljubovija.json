@@ -21,15 +21,27 @@
       ],
       "reason": null,
       "note": "Горња и Доња Оровица и Леовић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ef1578764ca3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Љубовија",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Горња и Доња Оровица и Леовић"
+      ],
+      "reason": null,
+      "note": "Горња и Доња Оровица и Леовић",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
@@ -172,6 +184,11 @@
     },
     {
       "date": "2026-11-20",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
       "electricityOutages": 0,
       "waterOutages": 0
     }

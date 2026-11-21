@@ -5,13 +5,26 @@
     "nameLatin": "Bujanovac",
     "branchCyrillic": "Врање"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-22",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
+      "id": "b57f28fbf214",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Бујановац",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Комплетно подручје Самољица и околина"
+      ],
+      "reason": null,
+      "note": "Комплетно подручје Самољица и околина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
@@ -154,6 +167,11 @@
     },
     {
       "date": "2026-11-20",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
       "electricityOutages": 0,
       "waterOutages": 0
     }

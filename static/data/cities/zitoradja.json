@@ -5,31 +5,8 @@
     "nameLatin": "Žitorađa",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [
-    {
-      "id": "40f9085c5af1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Житорађа",
-      "time": {
-        "start": "08:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Каре"
-      ],
-      "reason": null,
-      "note": "Каре",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 2,
@@ -173,6 +150,11 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

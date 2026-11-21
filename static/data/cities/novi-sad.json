@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "0035e318a0b7",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-13",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Улица Јована Храниловића"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Јована Храниловића.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-13-11-2026/"
-    },
-    {
-      "id": "e97c19579d8c",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-13",
-      "areaLabel": "Петроварадин",
-      "time": {
-        "start": null,
-        "end": "15:00"
-      },
-      "streets": [
-        "Улица Мирка Матака и околне улице"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити Улица Мирка Матака и околне улице у Петроварадину.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-13-11-2026/"
-    },
-    {
       "id": "4e2603b257e9",
       "utility": "water",
       "kind": "emergency",
@@ -209,75 +175,6 @@
       "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-19-11-2026/"
     },
     {
-      "id": "12012201d98d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "08:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "\"Славујева; Златиборска; Томе Росандића; \r\nСиме Милутиновића Сарајлије 69 – 109",
-        "74 – 92;\r\nДраге Дејановић; Томе Здравковића; Богдана Поповића;\r\nАврама Мразовића;\r\nПЛАНТЛАНД; ПЕКАРА БРАЋА ДРИНИЋ\""
-      ],
-      "reason": null,
-      "note": "\"Славујева; Златиборска; Томе Росандића; \r\nСиме Милутиновића Сарајлије 69 – 109, 74 – 92;\r\nДраге Дејановић; Томе Здравковића; Богдана Поповића;\r\nАврама Мразовића;\r\nПЛАНТЛАНД; ПЕКАРА БРАЋА ДРИНИЋ\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "dd1482636d83",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Браће Лучић"
-      ],
-      "reason": null,
-      "note": "Браће Лучић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a4dc45a4a569",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "\"Стевана Сремца 2 – 8; Стефана Стефановића 11;\r\nПап Павла 24\""
-      ],
-      "reason": null,
-      "note": "\"Стевана Сремца 2 – 8; Стефана Стефановића 11;\r\nПап Павла 24\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e08035fafe9e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "12:00",
-        "end": "13:30"
-      },
-      "streets": [
-        "\"Сремска Каменица: Фрупкогорски пут 109 – 153, 172 – 230;\r\nСтароиришки пут; ЛОВАЧКИ ДОМ\""
-      ],
-      "reason": null,
-      "note": "\"Сремска Каменица: Фрупкогорски пут 109 – 153, 172 – 230;\r\nСтароиришки пут; ЛОВАЧКИ ДОМ\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "5cef15aea4fd",
       "utility": "water",
       "kind": "emergency",
@@ -343,7 +240,7 @@
       ],
       "reason": null,
       "note": "РАДИО НОВИ САД",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "01f8887c0fe2",
@@ -360,7 +257,7 @@
       ],
       "reason": null,
       "note": "ИЗВРШНО ВЕЋЕ; ФОРУМ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a0c2fccaff0a",
@@ -377,7 +274,7 @@
       ],
       "reason": null,
       "note": "НАФТАГАС ЦЕНТАР",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "d6e4337d72fb",
@@ -394,7 +291,7 @@
       ],
       "reason": null,
       "note": "Каћ: ЦТП 1, 2, 3",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "145c1c42285f",
@@ -411,7 +308,42 @@
       ],
       "reason": null,
       "note": "Подземни пролаз.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "4133743cebcd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Јавор",
+        "Петровец."
+      ],
+      "reason": null,
+      "note": "Јавор, Петровец.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "a7ab83abaf36",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-23",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": "09:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Будисава-Пола села од уласка из Каћа до ул. Железничка и Школска"
+      ],
+      "reason": null,
+      "note": "Будисава-Пола села од уласка из Каћа до ул. Железничка и Школска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "f913306af3fe",
@@ -432,7 +364,7 @@
       ],
       "reason": null,
       "note": "Позоришни трг 2 – 6, Краља Александра 2 – 10, Трг слободе 2 – 4 А, Градска кућа, Хотел Војводина.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "7ddfa9d4884c",
@@ -455,42 +387,7 @@
       ],
       "reason": null,
       "note": "Кисачка 63, 66 – 88, Хађи Ђерина, Рашка, Немањина, СИМ, Максбет.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
-    },
-    {
-      "id": "6c9bbabd1042",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "12:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Будисава-Пола села од уласка из Каћа до ул. Железничка и Школска"
-      ],
-      "reason": null,
-      "note": "Будисава-Пола села од уласка из Каћа до ул. Железничка и Школска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
-    },
-    {
-      "id": "9a3563c84f87",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": "12:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Јавор",
-        "Петровец."
-      ],
-      "reason": null,
-      "note": "Јавор, Петровец.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "a81decfc593a",
@@ -511,15 +408,10 @@
       ],
       "reason": null,
       "note": "Темеринска 66 – 80, Текелијина 39 А – 45, 46 – 58, Семафор на углу Партизанске и Темеринске, Семафор на углу Темеринске и Венизелосове.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 1,
-      "waterOutages": 1
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 2,
@@ -664,6 +556,11 @@
       "date": "2026-11-20",
       "electricityOutages": 4,
       "waterOutages": 3
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 2,
+      "waterOutages": 0
     }
   ]
 }

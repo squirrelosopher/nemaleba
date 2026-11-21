@@ -20,14 +20,26 @@
       "reason": null,
       "note": "Тренутно је у току санација квара на водоводној мрежи на Крсташицама и улици Ђоке Шундуковића у Иригу.",
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-45/"
+    },
+    {
+      "id": "70c30258f35a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Ириг",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Ириг: Крсташице у викенд насељу Крсташице."
+      ],
+      "reason": null,
+      "note": "Ириг: Крсташице у викенд насељу Крсташице.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
@@ -170,6 +182,11 @@
     },
     {
       "date": "2026-11-20",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
       "electricityOutages": 0,
       "waterOutages": 0
     }

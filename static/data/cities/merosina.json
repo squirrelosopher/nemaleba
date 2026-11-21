@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "3d145df86f41",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Мерошина",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Дудулајце"
-      ],
-      "reason": null,
-      "note": "Дудулајце",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "2dc7be0b287e",
       "utility": "electricity",
       "kind": "planned",
@@ -39,15 +22,10 @@
       ],
       "reason": null,
       "note": "Девча, Горња Девча и Чубура",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 2,
@@ -191,6 +169,11 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

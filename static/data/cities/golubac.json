@@ -31,15 +31,61 @@
       ],
       "reason": null,
       "note": "Ливадица, Ридан, каменолом Јеленска стена, Брњица, Орлови, Чезава, Главичица, Турски Поток, Добра, Кожице, Кључ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "8c31c8a5410c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Голубац",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Трафо област ДРАГОВАЦ 1 (део села према Живици)"
+      ],
+      "reason": null,
+      "note": "Трафо област ДРАГОВАЦ 1 (део села према Живици)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "569e29a7e3a3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Голубац",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Барич и Бикиње"
+      ],
+      "reason": null,
+      "note": "Барич и Бикиње",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "2e83b0d354c3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Голубац",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Усије и викенд насеље Винце"
+      ],
+      "reason": null,
+      "note": "Усије и викенд насеље Винце",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
@@ -182,6 +228,11 @@
     },
     {
       "date": "2026-11-20",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
       "electricityOutages": 0,
       "waterOutages": 0
     }

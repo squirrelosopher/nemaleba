@@ -5,13 +5,26 @@
     "nameLatin": "Vladimirci",
     "branchCyrillic": "Шабац"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-22",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
+      "id": "21fd8ceb5bca",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Владимирци",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "БЕЗ НАПОНА ОСТАЈУ СЕЛА МЕСАРЦИ И СУВО СЕЛО"
+      ],
+      "reason": null,
+      "note": "БЕЗ НАПОНА ОСТАЈУ СЕЛА МЕСАРЦИ И СУВО СЕЛО",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
@@ -154,6 +167,11 @@
     },
     {
       "date": "2026-11-20",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
       "electricityOutages": 0,
       "waterOutages": 0
     }

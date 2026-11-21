@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "b659fc0c6a07",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Димитровград",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Обреновац"
-      ],
-      "reason": null,
-      "note": "Обреновац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f018225ad232",
       "utility": "electricity",
       "kind": "planned",
@@ -38,15 +21,10 @@
       ],
       "reason": null,
       "note": "Обреновац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
@@ -190,6 +168,11 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

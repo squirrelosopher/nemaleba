@@ -5,13 +5,26 @@
     "nameLatin": "Surčin",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-22",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
+      "id": "a1cc74a0ca39",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Сурчин",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Насеље СУРЧИН: КОСОВСКА: 18-26,30,34-40,15-37"
+      ],
+      "reason": null,
+      "note": "Насеље СУРЧИН: КОСОВСКА: 18-26,30,34-40,15-37,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
@@ -154,6 +167,11 @@
     },
     {
       "date": "2026-11-20",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
       "electricityOutages": 0,
       "waterOutages": 0
     }

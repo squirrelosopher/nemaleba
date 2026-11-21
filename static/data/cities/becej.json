@@ -5,13 +5,26 @@
     "nameLatin": "Bečej",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-22",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
+      "id": "95af97159795",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Бечеј",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Србобран : Део од улице Политова и канала Криваја према Турији"
+      ],
+      "reason": null,
+      "note": "Србобран : Део од улице Политова и канала Криваја према Турији",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
@@ -154,6 +167,11 @@
     },
     {
       "date": "2026-11-20",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
       "electricityOutages": 0,
       "waterOutages": 0
     }

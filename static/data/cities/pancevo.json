@@ -35,41 +35,6 @@
       "sourceUrl": "https://www.vodovodpa.rs/2026/11/19/19-11-2026/"
     },
     {
-      "id": "17efde4e852b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "08:30",
-        "end": "12:00"
-      },
-      "streets": [
-        "Панчево:Ж.Зрењанина од М.Б.Михаиловића до бр.18 - парна и непарна страна!"
-      ],
-      "reason": null,
-      "note": "Панчево:Ж.Зрењанина од М.Б.Михаиловића до бр.18 - парна и непарна страна!",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "0bf53da596cd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Панчево",
-      "time": {
-        "start": "09:30",
-        "end": "11:30"
-      },
-      "streets": [
-        "Панчево:С.Марковића од Добровољачке до Гробљанске",
-        "Гробљанска од Јаношикове до С.Марковића!"
-      ],
-      "reason": null,
-      "note": "Панчево:С.Марковића од Добровољачке до Гробљанске,Гробљанска од Јаношикове до С.Марковића!",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7322d33c1f3e",
       "utility": "electricity",
       "kind": "planned",
@@ -86,7 +51,7 @@
       ],
       "reason": null,
       "note": "Црепаја:Пролетња,29.новембра од М.Тита до С.Ковачевића,С.Ковачевића од 29.новембра до краја ка Ковачици!",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "403ed963a20d",
@@ -103,15 +68,45 @@
       ],
       "reason": null,
       "note": "Иваново: Ул.Насипска од Ж.Зрењанина до П.Шандора,Д.Ђерђа од 7-ог јула до Ж.Зрењанина и 7.јули од 29-ог новембра до Насипске!",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "f10a31420e1e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "08:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Панчево",
+        "Максима Горког 1-21"
+      ],
+      "reason": null,
+      "note": "Панчево, Максима Горког 1-21",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "fa8223815b86",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Панчево",
+      "time": {
+        "start": "09:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "С.Сремца од Жичке до М.Ракића"
+      ],
+      "reason": null,
+      "note": "С.Сремца од Жичке до М.Ракића",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 1,
@@ -255,6 +250,11 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

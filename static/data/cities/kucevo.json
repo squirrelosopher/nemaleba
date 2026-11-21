@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "8c88c4897de6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Кучево",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Засеоци у Каони: Каменица и Селиште"
-      ],
-      "reason": null,
-      "note": "Засеоци у Каони: Каменица и Селиште",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1049823d86e4",
       "utility": "electricity",
       "kind": "planned",
@@ -38,15 +21,44 @@
       ],
       "reason": null,
       "note": "Засеоци у Каони: Каменица и Селиште",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "348a503d2eb9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Кучево",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Трафо област Солидарност : Слободана Милорадовића, Светог Саве 88-114 и 91- 179, Велимира Дамњановића, Пошта, Хотел"
+      ],
+      "reason": null,
+      "note": "Трафо област Солидарност : Слободана Милорадовића, Светог Саве 88-114 и 91- 179, Велимира Дамњановића, Пошта, Хотел",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "2ed901ffe17e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Кучево",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Засеоци у Каони: Каменица и Селиште"
+      ],
+      "reason": null,
+      "note": "Засеоци у Каони: Каменица и Селиште",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
@@ -190,6 +202,11 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

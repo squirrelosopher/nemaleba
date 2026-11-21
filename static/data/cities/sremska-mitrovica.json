@@ -7,91 +7,6 @@
   },
   "outages": [
     {
-      "id": "48bc83e571ac",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Лаћарак: Кикина 73-95 и 44-96."
-      ],
-      "reason": null,
-      "note": "Лаћарак: Кикина 73-95 и 44-96.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "c543026b81af",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Манђелос: Пинкијева 43А-103, 40-98."
-      ],
-      "reason": null,
-      "note": "Манђелос: Пинкијева 43А-103, 40-98.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "4de0c8f282ec",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Сремска Митровица: Паланка 135-141, 1. новембра 1-7 и 2-38, Петра Руњанина 91-111 и 80-90, Базна станица за мобилну телефонију СМ – ул. Петра Руњанина бр. 90."
-      ],
-      "reason": null,
-      "note": "Сремска Митровица: Паланка 135-141, 1. новембра 1-7 и 2-38, Петра Руњанина 91-111 и 80-90, Базна станица за мобилну телефонију СМ – ул. Петра Руњанина бр. 90.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "93cb2be847e5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "11:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Сремска Митровица: Паланка 135-141, 1. новембра 1-7 и 2-38, Петра Руњанина 91-111 и 80-90, Базна станица за мобилну телефонију СМ – Петра Руњанина бр. 90."
-      ],
-      "reason": null,
-      "note": "Сремска Митровица: Паланка 135-141, 1. новембра 1-7 и 2-38, Петра Руњанина 91-111 и 80-90, Базна станица за мобилну телефонију СМ – Петра Руњанина бр. 90.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "4ec1e8642fbd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "12:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Манђелос: Саве Согића 1-15, 2-40"
-      ],
-      "reason": null,
-      "note": "Манђелос: Саве Согића 1-15, 2-40",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "053a3a768f6d",
       "utility": "electricity",
       "kind": "planned",
@@ -106,15 +21,78 @@
       ],
       "reason": null,
       "note": "Лаћарак: Змајева, Гаје Шуљманца, Бранка Радичевића 1-31, 4-30, 1. новембра 70, 237, Карађорђева 51-81, 52-164а и бб, Карађорђев сокак бб, Ниска 1-103, 2-84 и бб, Планинска , Сремска 1-197, 2-190 и бб, Школска 31-167, 32-174, Војина Штрбачког 1-5, 2-8 и бб, Фрушкогорска 63-175, 62-168 и бб, Партизанска 1-121, 139, 2-138, Доситејева 65-89, 105, 28-40 и бб, Железничка 1-155, 2-156 и бб, Кикина 51-93, 105-107, 44-116 и бб, Кланица „Јанковић“ – ул. Железничка бр. 40, Млин – ул. Железничка бр. 45, Пружни прелаз („Железнице Србије“) – ул. Железничка, Лаћарак.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ce77376528f4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "09:00",
+        "end": "09:30"
+      },
+      "streets": [
+        "Адашевци: Бранка Радичевића 1-21, 2-30."
+      ],
+      "reason": null,
+      "note": "Адашевци: Бранка Радичевића 1-21, 2-30.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "3ec6f8dffc37",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сремска Митровица: Петра Прерадовића 69-121."
+      ],
+      "reason": null,
+      "note": "Сремска Митровица: Петра Прерадовића 69-121.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "698a08214a19",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "10:30",
+        "end": "11:00"
+      },
+      "streets": [
+        "Мартинци: Савска 3-19 и 2-26, Православна црква Мартинци, Радничка 2-18, Базна станица Теленор - ул. Радничка бр. 14, Железничка б.б."
+      ],
+      "reason": null,
+      "note": "Мартинци: Савска 3-19 и 2-26, Православна црква Мартинци, Радничка 2-18, Базна станица Теленор - ул. Радничка бр. 14, Железничка б.б.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "09fe1c10a5b0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "11:40",
+        "end": "12:10"
+      },
+      "streets": [
+        "Сремска Митровица: Стефана Ластавице 1-31 и 4-28, Кувеждинска 3."
+      ],
+      "reason": null,
+      "note": "Сремска Митровица: Стефана Ластавице 1-31 и 4-28, Кувеждинска 3.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
@@ -258,6 +236,11 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 6,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

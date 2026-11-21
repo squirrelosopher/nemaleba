@@ -5,31 +5,8 @@
     "nameLatin": "Inđija",
     "branchCyrillic": "Рума"
   },
-  "outages": [
-    {
-      "id": "0617b9b64284",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Сланкаменачки Виногради: Део викенд зоне Јанда 7"
-      ],
-      "reason": null,
-      "note": "Сланкаменачки Виногради: Део викенд зоне Јанда 7",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 3,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 1,
@@ -173,6 +150,11 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

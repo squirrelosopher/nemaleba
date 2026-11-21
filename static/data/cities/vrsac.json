@@ -22,15 +22,27 @@
       ],
       "reason": null,
       "note": "\"Војводе Книћанина од броја 25 до броја 57, односно од броја 18 до броја 56; \r\nЦара Лазара 63\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "ea0101d9a03c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Вршац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "\"Радничка; Генерала Емануела Арсенијевића од броја 2 до 20;\r\nВрачарска до Паје Маргановића; Делиградска од броја 18 до 23 од 26 до 40;\r\nРеље Крилатице 8; МК Панонија; Бриксол пословни објекат\""
+      ],
+      "reason": null,
+      "note": "\"Радничка; Генерала Емануела Арсенијевића од броја 2 до 20;\r\nВрачарска до Паје Маргановића; Делиградска од броја 18 до 23 од 26 до 40;\r\nРеље Крилатице 8; МК Панонија; Бриксол пословни објекат\"",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 1,
@@ -173,6 +185,11 @@
     },
     {
       "date": "2026-11-20",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
       "electricityOutages": 0,
       "waterOutages": 0
     }

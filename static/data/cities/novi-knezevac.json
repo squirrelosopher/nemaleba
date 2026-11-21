@@ -5,31 +5,8 @@
     "nameLatin": "Novi Kneževac",
     "branchCyrillic": "Суботица"
   },
-  "outages": [
-    {
-      "id": "fd479a65ddc2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Нови Кнежевац",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Нови Кнежевац: Немањина (од Српске према Алеви)."
-      ],
-      "reason": null,
-      "note": "Нови Кнежевац: Немањина (од Српске према Алеви).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
@@ -173,6 +150,11 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

@@ -5,31 +5,8 @@
     "nameLatin": "Vračar",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "78e7f20dcbe3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Врачар",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "НИШКА: 1-9, СИНЂЕЛИЋЕВА: 10-12,1-5Ф/8"
-      ],
-      "reason": null,
-      "note": "НИШКА: 1-9, СИНЂЕЛИЋЕВА: 10-12,1-5Ф/8,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 1,
@@ -173,6 +150,11 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

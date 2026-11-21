@@ -7,155 +7,6 @@
   },
   "outages": [
     {
-      "id": "f2e911bb82e0",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-13",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-11-2026/",
-      "areaLabel": "Грошница",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Октобарских Жртава"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Грошница, ул. Октобарских Жртава ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "6808ccfd1553",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-13",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-11-2026/",
-      "areaLabel": "Ердоглија",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Обилићева"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Хаваријска искључења на дан 13.11.2026. \n \n Ердоглија, ул. Обилићева ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "c29fe47d0190",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-13",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-11-2026/",
-      "areaLabel": "Корман",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Падинска"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Корман, ул. Падинска ( од 08:00 до 12:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "cc23abf4b99f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-13",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-11-2026/",
-      "areaLabel": "Аеродром",
-      "time": {
-        "start": "12:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Аранђеловачка"
-      ],
-      "reason": "поправка уличне линије",
-      "note": "Аеродром, ул. Аранђеловачка ( од 12:00 до 15:00 часова ), поправка уличне линије."
-    },
-    {
-      "id": "7e7896415d6f",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-13",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-11-2026/",
-      "areaLabel": "Грошница",
-      "time": {
-        "start": "12:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Јужноморавских Бригада"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Грошница, ул. Јужноморавских Бригада ( од 12:00 до 15:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "3140e622f617",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-13",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-11-2026/",
-      "areaLabel": "Центар",
-      "time": {
-        "start": "12:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Светолика Ранковића"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Центар, ул. Светолика Ранковића ( од 12:00 до 15:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "05b0348b95f5",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-13",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-11-2026/",
-      "areaLabel": "Ђорђа Митровића",
-      "time": {
-        "start": "15:00",
-        "end": "18:00"
-      },
-      "streets": [],
-      "reason": "поправка кућног прикључка",
-      "note": "Шумарице, ул. Др.Ђорђа Митровића ( од 15:00 до 18:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "34163a6185bd",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-13",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-11-2026/",
-      "areaLabel": "Ердеч",
-      "time": {
-        "start": "15:00",
-        "end": "18:00"
-      },
-      "streets": [
-        "Пештерска"
-      ],
-      "reason": "поправка кућног прикључка",
-      "note": "Ердеч, ул. Пештерска ( од 15:00 до 18:00 часова ), поправка кућног прикључка."
-    },
-    {
-      "id": "55ffcf2a99be",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-13",
-      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-13-11-2026/",
-      "areaLabel": "Маја",
-      "time": {
-        "start": "15:00",
-        "end": "18:00"
-      },
-      "streets": [],
-      "reason": "поправка кућног прикључка",
-      "note": "Белошевац, ул. 9.Маја ( од 15:00 до 18:00 часова ), поправка кућног прикључка."
-    },
-    {
       "id": "e44bcf90974b",
       "utility": "water",
       "kind": "emergency",
@@ -797,24 +648,6 @@
       "note": "Центар, ул. Светолика Ранковића ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
     },
     {
-      "id": "266137b3d729",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Корман",
-        "Горње Комарице"
-      ],
-      "reason": null,
-      "note": "Корман, Горње Комарице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "f7c1d4dd90a3",
       "utility": "water",
       "kind": "emergency",
@@ -942,7 +775,7 @@
       ],
       "reason": null,
       "note": "Банијских бригада, Бранка Миљковића, Далматинских бригада, Иве Андрића, Херцеговачких и Крајишких бригада, Поскурички пут, Симе Матавуља, Војвођанских бригада, Бихорска, Горњомилановачка, Мајевичка, Македонских бригада, Валентина Водника, Вршачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "fce17fc48734",
@@ -960,7 +793,7 @@
       ],
       "reason": null,
       "note": "Корман, Горње Комарице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "d7b1915891b3",
@@ -978,15 +811,48 @@
       ],
       "reason": null,
       "note": "Корман, Горње Комарице",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "bf8f375d4880",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Александра Висоцког 13 - 51",
+        "22 - 46",
+        "Рада Докмановића 1 - 7",
+        "18"
+      ],
+      "reason": null,
+      "note": "Александра Висоцког 13 - 51, 22 - 46, Рада Докмановића 1 - 7, 18",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "250d861634fd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Корман",
+        "Горње Комарице"
+      ],
+      "reason": null,
+      "note": "Корман, Горње Комарице",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 1,
-      "waterOutages": 8
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
@@ -1131,6 +997,11 @@
       "date": "2026-11-20",
       "electricityOutages": 1,
       "waterOutages": 9
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 0,
+      "waterOutages": 0
     }
   ]
 }

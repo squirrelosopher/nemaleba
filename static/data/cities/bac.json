@@ -5,25 +5,7 @@
     "nameLatin": "Bač",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [
-    {
-      "id": "9099198a52bd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Бач",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Бач, Улице: Део М.Тита И Део П.Кочића"
-      ],
-      "reason": null,
-      "note": "Бач, Улице: Део М.Тита И Део П.Кочића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-27",
@@ -148,6 +130,11 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

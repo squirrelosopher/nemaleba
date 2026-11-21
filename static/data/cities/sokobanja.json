@@ -5,31 +5,8 @@
     "nameLatin": "Sokobanja",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "836030a797f1",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-20",
-      "areaLabel": "Сокобања",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Сокобања, улице: Милутина Пејовића, Кнеза Милоша, Заставника Лазаревића, Бањичка"
-      ],
-      "reason": null,
-      "note": "Сокобања, улице: Милутина Пејовића, Кнеза Милоша, Заставника Лазаревића, Бањичка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-22",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-23",
       "electricityOutages": 0,
@@ -173,6 +150,11 @@
     {
       "date": "2026-11-20",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-21",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]
