@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-22T20:11:09.891Z",
+  "generatedAt": "2026-11-22T23:32:49.976Z",
   "summary": {
-    "date": "2026-11-22",
-    "electricityOutages": 175,
-    "waterOutages": 4,
+    "date": "2026-11-23",
+    "electricityOutages": 171,
+    "waterOutages": 2,
     "affected": [
       {
         "id": "beograd",
@@ -24,22 +24,22 @@
         "waterOutages": 0
       },
       {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 8,
-        "waterOutages": 0
-      },
-      {
         "id": "kragujevac",
         "nameCyrillic": "Крагујевац",
         "electricityOutages": 6,
-        "waterOutages": 1
+        "waterOutages": 0
+      },
+      {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 6,
+        "waterOutages": 0
       },
       {
         "id": "nis",
         "nameCyrillic": "Ниш",
         "electricityOutages": 4,
-        "waterOutages": 2
+        "waterOutages": 1
       },
       {
         "id": "sremska-mitrovica",
@@ -264,12 +264,6 @@
         "waterOutages": 0
       },
       {
-        "id": "lucani",
-        "nameCyrillic": "Лучани",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "merosina",
         "nameCyrillic": "Мерошина",
         "electricityOutages": 1,
@@ -282,12 +276,6 @@
         "waterOutages": 0
       },
       {
-        "id": "raska",
-        "nameCyrillic": "Рашка",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
         "id": "stara-pazova",
         "nameCyrillic": "Стара Пазова",
         "electricityOutages": 1,
@@ -296,11 +284,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-10-24",
-      "electricityOutages": 5,
-      "waterOutages": 1
-    },
     {
       "date": "2026-10-25",
       "electricityOutages": 1,
@@ -445,6 +428,11 @@
       "date": "2026-11-22",
       "electricityOutages": 4,
       "waterOutages": 2
+    },
+    {
+      "date": "2026-11-23",
+      "electricityOutages": 92,
+      "waterOutages": 1
     }
   ],
   "providers": [
