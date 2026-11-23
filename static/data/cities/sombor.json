@@ -5,7 +5,25 @@
     "nameLatin": "Sombor",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "da6cc872ebe0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Сомбор",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сомбор: БАТИНСКА 3-17 И 4-14А, ВАЉЕВСКА 9-35 И 2-32"
+      ],
+      "reason": null,
+      "note": "Сомбор: БАТИНСКА 3-17 И 4-14А, ВАЉЕВСКА 9-35 И 2-32",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-25",

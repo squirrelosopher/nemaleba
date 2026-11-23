@@ -5,7 +5,42 @@
     "nameLatin": "Smederevska Palanka",
     "branchCyrillic": "Смедерево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "ba4d2683f563",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Смедеревска Паланка",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Трафореони: Пландиште, Брест, Точак (Кошарна), Ћурак, Глоговац, Враилак, Мангули (Симаковићи), Хиподром, Црква и Симићи"
+      ],
+      "reason": null,
+      "note": "Трафореони: Пландиште, Брест, Точак (Кошарна), Ћурак, Глоговац, Враилак, Мангули (Симаковићи), Хиподром, Црква и Симићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "900698ca6a66",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Смедеревска Паланка",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Село Баничина осим трафореона: Каменолом, Марковићи, Бубањ, Голо брдо и Бујковац 2"
+      ],
+      "reason": null,
+      "note": "Село Баничина осим трафореона: Каменолом, Марковићи, Бубањ, Голо брдо и Бујковац 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-25",

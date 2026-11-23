@@ -5,7 +5,127 @@
     "nameLatin": "Čačak",
     "branchCyrillic": "Чачак"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "51a38791ccc4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Потрошачи у Ракови-Мијаијловићи и Чарапићи."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Ракови-Мијаијловићи и Чарапићи.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "354146711011",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Потрошачи у Прислоници."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Прислоници.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "55a32e07619d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Потрошачи у делу Љубића око ЕКО бензинске пумпе."
+      ],
+      "reason": null,
+      "note": "Потрошачи у делу Љубића око ЕКО бензинске пумпе.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "fbc129b6e016",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Потрошачи у делу Љубића око ресторана \"Два јелена\"."
+      ],
+      "reason": null,
+      "note": "Потрошачи у делу Љубића око ресторана \"Два јелена\".",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "1ceacafddd46",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Потрошачи у делу Љубића око ресторана \"1. Мај\"."
+      ],
+      "reason": null,
+      "note": "Потрошачи у делу Љубића око ресторана \"1. Мај\".",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "d9332de039fc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "12:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Потрошачи у делу Љубића и Коњевића око ФОРД сервиса."
+      ],
+      "reason": null,
+      "note": "Потрошачи у делу Љубића и Коњевића око ФОРД сервиса.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "034b09188e84",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Потрошачи у делу Коњевића од фирме \" Велтекс\" до кружног тока."
+      ],
+      "reason": null,
+      "note": "Потрошачи у делу Коњевића од фирме \" Велтекс\" до кружног тока.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-25",

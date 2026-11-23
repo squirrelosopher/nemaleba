@@ -78,6 +78,40 @@
       "reason": null,
       "note": "Део Мајора Марка преко пруге,део Војводе Степе,Пикулина,део Војводе Путника,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "b3ee796748cd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део села Стрижа"
+      ],
+      "reason": null,
+      "note": "Део села Стрижа",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "978abcde3738",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Село Плана"
+      ],
+      "reason": null,
+      "note": "Село Плана",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

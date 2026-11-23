@@ -17,6 +17,23 @@
       "reason": null,
       "note": "Због израде водоводног прикључка у улици Иве Андрића , без воде биће потрошачи те улице и Мостарске , до завршетка радова.",
       "sourceUrl": "https://vodovodvranje.rs/18-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    },
+    {
+      "id": "d21eb637e604",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Врање",
+      "time": {
+        "start": "12:00",
+        "end": "00:00"
+      },
+      "streets": [
+        "Део Улице Краља Милана и Улице Цара Душана"
+      ],
+      "reason": null,
+      "note": "Део Улице Краља Милана и Улице Цара Душана",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

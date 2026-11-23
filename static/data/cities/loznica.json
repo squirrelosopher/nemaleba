@@ -25,6 +25,121 @@
       "reason": null,
       "note": "Симино Брдо, Филиповићи, Кик, Бања Бадања 1 и 2",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "f71ac3968c0e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Крајишници",
+        "Башчелуци",
+        "Рогоњин Споменик",
+        "Воћњак",
+        "Пасковац",
+        "Зајачки Пут од Боре Скорића према Воћњаку",
+        "Трњаци",
+        "Тршић -Драгићевићи и Матићи"
+      ],
+      "reason": null,
+      "note": "Крајишници, Башчелуци, Рогоњин Споменик, Воћњак,Пасковац, Зајачки Пут од Боре Скорића према Воћњаку, Трњаци, Тршић -Драгићевићи и Матићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "c802df21c62b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Симино Брдо",
+        "Филиповићи",
+        "Кик",
+        "Бања Бадања 1 и 2"
+      ],
+      "reason": null,
+      "note": "Симино Брдо, Филиповићи, Кик, Бања Бадања 1 и 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "76a3cc876f56",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Доња Добрић - засеоци Костадиновићи",
+        "Доња мала и Бареш"
+      ],
+      "reason": null,
+      "note": "Доња Добрић - засеоци Костадиновићи, Доња мала и Бареш",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "c114bcc94fdc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Варош Лешница улица Владимира Мићића"
+      ],
+      "reason": null,
+      "note": "Варош Лешница улица Владимира Мићића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "b4d8095683b0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "ул.Болничка до хитне",
+        "Кнеза Милоша од кружног тока до В.Броњевског"
+      ],
+      "reason": null,
+      "note": "ул.Болничка до хитне, Кнеза Милоша од кружног тока до В.Броњевског",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "acda58be32ed",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "Доњи Добрић - Слатина и у Јадранској Лешници засеоци Ливадице",
+        "Бајића Мала и Лукићи"
+      ],
+      "reason": null,
+      "note": "Доњи Добрић - Слатина и у Јадранској Лешници засеоци Ливадице, Бајића Мала и Лукићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

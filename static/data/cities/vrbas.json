@@ -197,23 +197,20 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "48e919477a93",
+      "id": "0eb2d314e06c",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-11-24",
       "areaLabel": "Врбас",
       "time": {
-        "start": "10:00",
-        "end": "11:30"
+        "start": "09:00",
+        "end": "10:00"
       },
       "streets": [
-        "Равноселски пут бб",
-        "Колонија Кудељаре 5",
-        "Салаши 5 Кудељара бб",
-        "Деспотовачки пут бб."
+        "Б.ТОМОВИЋА 10-38 И 7-17 И ББ\r\nМ.ТИТА 22-52\r\nЈ.ПЕХАНА 2-8 И 1-3\r\nС.КОВАЧЕВИЋА 8-62 И 3-59"
       ],
       "reason": null,
-      "note": "Равноселски пут бб, Колонија Кудељаре 5, Салаши 5 Кудељара бб, Деспотовачки пут бб.",
+      "note": "Б.ТОМОВИЋА 10-38 И 7-17 И ББ\r\nМ.ТИТА 22-52\r\nЈ.ПЕХАНА 2-8 И 1-3\r\nС.КОВАЧЕВИЋА 8-62 И 3-59",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
@@ -238,6 +235,77 @@
       ],
       "reason": null,
       "note": "П.бораца 9-11, М.Тита 87, 91, 95, бб, Трг Н.Пашића бб, Н.Фронта 58-68, 61-79.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "48e919477a93",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "10:00",
+        "end": "11:30"
+      },
+      "streets": [
+        "Равноселски пут бб",
+        "Колонија Кудељаре 5",
+        "Салаши 5 Кудељара бб",
+        "Деспотовачки пут бб."
+      ],
+      "reason": null,
+      "note": "Равноселски пут бб, Колонија Кудељаре 5, Салаши 5 Кудељара бб, Деспотовачки пут бб.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f4143f99567e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "10:00",
+        "end": "11:30"
+      },
+      "streets": [
+        "РАВНОСЕЛСКИ ПУТ ББ\r\nКОЛОНИЈА КУДЕЉАРЕ 5\r\nСАЛАШИ 5 КУДЕЉАРА ББ\r\nДЕСПОТОВАЧКИ ПУТ ББ"
+      ],
+      "reason": null,
+      "note": "РАВНОСЕЛСКИ ПУТ ББ\r\nКОЛОНИЈА КУДЕЉАРЕ 5\r\nСАЛАШИ 5 КУДЕЉАРА ББ\r\nДЕСПОТОВАЧКИ ПУТ ББ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "5822c531f1fd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "П.БОРАЦА 9-11\r\nМ.ТИТА 87 И 91 И 95 И ББ\r\nТРГ Н.ПАШИЋА ББ\r\nН.ФРОНТА 58-68 И 61-79"
+      ],
+      "reason": null,
+      "note": "П.БОРАЦА 9-11\r\nМ.ТИТА 87 И 91 И 95 И ББ\r\nТРГ Н.ПАШИЋА ББ\r\nН.ФРОНТА 58-68 И 61-79",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "fb20e1449caf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "5.ПРОЛЕТЕРСКЕ БРИГАДЕ 1-35 И 14-40\r\nКОЗАРАЧКА 8-12 И 1- 3 И 11 И ББ\r\nОМЛАДИНСКА 1-25 И 2-28\r\nР.МАРЈАНЦА 9-29 И 12-30 И ББ\r\nД.ВУЈАЧИЋА 1\r\nПАРТИЗАНСКА 2-26 И 1-29\r\nВ.АЛЕКСИЋА 1 И 2\r\n36.ДИВИЗИЈЕ 2-24 И 3-9\r\nБАНАТСКА 1-17 И 2-22\r\nЖЕЉЕЗНИЧКА ББ\r\nД.БОЈОВИЋА 1-11 И 2-26 И ББ\r\nОКТОБАРСКА 1-3 И 14-26\r\nС.КОВАЧЕВИЋА 1 И 26"
+      ],
+      "reason": null,
+      "note": "5.ПРОЛЕТЕРСКЕ БРИГАДЕ 1-35 И 14-40\r\nКОЗАРАЧКА 8-12 И 1- 3 И 11 И ББ\r\nОМЛАДИНСКА 1-25 И 2-28\r\nР.МАРЈАНЦА 9-29 И 12-30 И ББ\r\nД.ВУЈАЧИЋА 1\r\nПАРТИЗАНСКА 2-26 И 1-29\r\nВ.АЛЕКСИЋА 1 И 2\r\n36.ДИВИЗИЈЕ 2-24 И 3-9\r\nБАНАТСКА 1-17 И 2-22\r\nЖЕЉЕЗНИЧКА ББ\r\nД.БОЈОВИЋА 1-11 И 2-26 И ББ\r\nОКТОБАРСКА 1-3 И 14-26\r\nС.КОВАЧЕВИЋА 1 И 26",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
@@ -282,6 +350,23 @@
       ],
       "reason": null,
       "note": "5.Пролетерске Бригаде 1-35, 14-40, Козарачка 8-12, 1- 3, 11, бб, Омладинска 1-25, 2-28, Р.Марјанца 9-29, 12-30, бб, Д.Вујачића 1, Партизанска 2-26, 1-29, В.Алексића 1, 2, 36.Дивизије 2-24, 3-9, Банатска 1-17, 2-22, Жељезничка бб, Д.Бојовића 1-11, 2-26, бб, Октобарска 1-3, 14-26, С.Ковачевића 1, 26.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "875287e041a2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "12:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "БАЧКА 15-29 И 22-54 И ББ\r\nМ.ТИТА 126-148\r\nСРЕМСКА 1-39 И 2-48\r\nИ.МИЛУТИНОВИЋА 2-12 И 1-13"
+      ],
+      "reason": null,
+      "note": "БАЧКА 15-29 И 22-54 И ББ\r\nМ.ТИТА 126-148\r\nСРЕМСКА 1-39 И 2-48\r\nИ.МИЛУТИНОВИЋА 2-12 И 1-13",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
@@ -338,6 +423,57 @@
       "reason": null,
       "note": "Трг М.Пијаде 1-23, Блок 4.Јули бб, М.П.Камењара 1-23, 16-28, В.Бакарића 2-12, 6.Личке Дивизије 1-11, 2-18, Ј.Веселинова 2, 6, И.Милутиновића 71-103, 74-110, 120, П.Шандора 1-13, 2-18, С.Марковића 114-116.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e3631cbdd3f6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "ТРГ М.ПИЈАДЕ 1-23\r\nБЛОК 4.ЈУЛИ ББ\r\nМ.П.КАМЕЊАРА 1-23 И 16-28\r\nВ.БАКАРИЋА 2-12\r\n6.ЛИЧКЕ ДИВИЗИЈЕ 1-11 И 2-18\r\nЈ.ВЕСЕЛИНОВА 2 И 6\r\nИ.МИЛУТИНОВИЋА 71-103 И 74-110 И 120\r\nП.ШАНДОРА 1-13 И 2-18\r\nС.МАРКОВИЋА 114-116"
+      ],
+      "reason": null,
+      "note": "ТРГ М.ПИЈАДЕ 1-23\r\nБЛОК 4.ЈУЛИ ББ\r\nМ.П.КАМЕЊАРА 1-23 И 16-28\r\nВ.БАКАРИЋА 2-12\r\n6.ЛИЧКЕ ДИВИЗИЈЕ 1-11 И 2-18\r\nЈ.ВЕСЕЛИНОВА 2 И 6\r\nИ.МИЛУТИНОВИЋА 71-103 И 74-110 И 120\r\nП.ШАНДОРА 1-13 И 2-18\r\nС.МАРКОВИЋА 114-116",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "caf42767e6dc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "08:30",
+        "end": "10:00"
+      },
+      "streets": [
+        "М.ТИТА 8-16"
+      ],
+      "reason": null,
+      "note": "М.ТИТА 8-16",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "9083470b2270",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Врбас",
+      "time": {
+        "start": "10:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Б.ТОМОВИЋА 10-16"
+      ],
+      "reason": null,
+      "note": "Б.ТОМОВИЋА 10-16",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

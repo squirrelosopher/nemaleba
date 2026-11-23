@@ -39,6 +39,78 @@
       "reason": null,
       "note": "Насељено место Вранштоца",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "713aafb6b37b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Александровац",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Део насељеног места Доње Ратаје (Ћирићи)"
+      ],
+      "reason": null,
+      "note": "Део насељеног места Доње Ратаје (Ћирићи)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "06329aa40528",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Александровац",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Насељена места Козница",
+        "Плоча",
+        "Рокци и Јелакци и део Вранштице"
+      ],
+      "reason": null,
+      "note": "Насељена места Козница, Плоча, Рокци и Јелакци и део Вранштице",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "967068376ea8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Александровац",
+      "time": {
+        "start": "08:30",
+        "end": "14:30"
+      },
+      "streets": [
+        "Насељена места Стрменица",
+        "Горња велика Врбница",
+        "Латковац."
+      ],
+      "reason": null,
+      "note": "Насељена места Стрменица,Горња велика Врбница,Латковац.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "51f5757d10b6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Александровац",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део насељеног места Доњи Ступањ Лисинци"
+      ],
+      "reason": null,
+      "note": "Део насељеног места Доњи Ступањ Лисинци",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

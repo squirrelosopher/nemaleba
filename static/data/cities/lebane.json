@@ -5,7 +5,34 @@
     "nameLatin": "Lebane",
     "branchCyrillic": "Лесковац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "93b24d13a50e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Лебане",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насеља Горње Врановце",
+        "Поповце",
+        "Гргуровце",
+        "Клајић",
+        "Бувце",
+        "Порпштица",
+        "Рафуна",
+        "Дрводељ",
+        "Радевце",
+        "Липовица"
+      ],
+      "reason": null,
+      "note": "Насеља Горње Врановце, Поповце, Гргуровце, Клајић, Бувце, Порпштица, Рафуна, Дрводељ, Радевце, Липовица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-25",

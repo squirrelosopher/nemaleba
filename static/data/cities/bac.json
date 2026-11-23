@@ -5,7 +5,25 @@
     "nameLatin": "Bač",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "e3823e33449d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Бач",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Селенча: ПРОЛЕТЕРСКА, С.МАРКОВИЋА, И.Л.РИБАРА И М.ТИТА 3-25"
+      ],
+      "reason": null,
+      "note": "Селенча: ПРОЛЕТЕРСКА, С.МАРКОВИЋА, И.Л.РИБАРА И М.ТИТА 3-25",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-27",

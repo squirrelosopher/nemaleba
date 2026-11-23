@@ -902,6 +902,79 @@
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-221/"
     },
     {
+      "id": "9ce47c5c50d2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "08:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Делови улица Боре Станковића",
+        "Чегарске",
+        "Јована Јовановића Змаја",
+        "Нишавске",
+        "Пантелејске",
+        "Скадарске и Воје Ринчића;"
+      ],
+      "reason": null,
+      "note": "Делови улица Боре Станковића, Чегарске, Јована Јовановића Змаја, Нишавске, Пантелејске, Скадарске и Воје Ринчића;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "4fc4639ae829",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део Горњег Међурова;"
+      ],
+      "reason": null,
+      "note": "Део Горњег Међурова;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2e3a3b6a3917",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "делови улица Дравске и Војводе Путника;"
+      ],
+      "reason": null,
+      "note": "делови улица Дравске и Војводе Путника;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "38a845945dc3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део Бул. Светог Пантелејмона (91б);"
+      ],
+      "reason": null,
+      "note": "Део Бул. Светог Пантелејмона (91б);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
       "id": "0b77e37c9c3d",
       "utility": "water",
       "kind": "emergency",

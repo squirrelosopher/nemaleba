@@ -1018,6 +1018,62 @@
       "reason": null,
       "note": "Корман, Горње Комарице",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c232c0a3c0ff",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Корман - Ерови и Речани",
+        "Горње Комарице"
+      ],
+      "reason": null,
+      "note": "Корман - Ерови и Речани, Горње Комарице",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "5847ae992482",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Кочићева 10"
+      ],
+      "reason": null,
+      "note": "Кочићева 10",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "00849fbff0d0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Бозман",
+        "Јовановац - Аксићи",
+        "Гај",
+        "Кула",
+        "Игралиште"
+      ],
+      "reason": null,
+      "note": "Бозман, Јовановац - Аксићи, Гај, Кула, Игралиште",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

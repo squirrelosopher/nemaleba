@@ -22,6 +22,36 @@
       "sourceUrl": "https://vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-17-11-2026-godine/"
     },
     {
+      "id": "3fe9ea9b6382",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "areaLabel": "Меленци",
+      "time": {
+        "start": null,
+        "end": "18:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "МЕЛЕНЦИ – радови на санацији квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 18 часова",
+      "sourceUrl": "https://vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-23-11-2026-godine/"
+    },
+    {
+      "id": "e5c2ef5c94e3",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "areaLabel": "Перлез",
+      "time": {
+        "start": null,
+        "end": "15:45"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "ПЕРЛЕЗ – радови на санацији квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 15:45 часова",
+      "sourceUrl": "https://vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-23-11-2026-godine/"
+    },
+    {
       "id": "b0ba0090ccb2",
       "utility": "electricity",
       "kind": "planned",
@@ -37,6 +67,57 @@
       "reason": null,
       "note": "Меленци: Алексеја Толстоја, део Боре Микина, део Браће Барнић, део Браће Мијатов, Виноградарска, Влашканско Ново Насеље, део Жарка Зрењанина, Железничка, Здравка Милосављева, део Лењинова, Новосељачка, део Његошева, Паје Војинова, Радничка, део Српских Владара, Чапајева.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7d8fcbe59536",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Меленци: део Новосељачке, део Железничке"
+      ],
+      "reason": null,
+      "note": "Меленци: део Новосељачке, део Железничке",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "ec73cf010ddc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Елемир: део Пролетерске, део Жарка Зрењанина"
+      ],
+      "reason": null,
+      "note": "Елемир: део Пролетерске, део Жарка Зрењанина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "06cf81264be3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "11:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Елемир: део Пролетерске"
+      ],
+      "reason": null,
+      "note": "Елемир: део Пролетерске",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -188,7 +269,7 @@
     {
       "date": "2026-11-23",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 2
     }
   ]
 }

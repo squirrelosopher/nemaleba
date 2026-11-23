@@ -5,7 +5,25 @@
     "nameLatin": "Topola",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "4d0f48d37fda",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Топола",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "ТС 10/04 Томићи -Клока излаз према центру и Томићима"
+      ],
+      "reason": null,
+      "note": "ТС 10/04 Томићи -Клока излаз према центру и Томићима",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-25",

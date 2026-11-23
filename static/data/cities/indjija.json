@@ -5,7 +5,42 @@
     "nameLatin": "Inđija",
     "branchCyrillic": "Рума"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "b1578973ddce",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Чортановци: Ул. Личка"
+      ],
+      "reason": null,
+      "note": "Чортановци: Ул. Личка",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "83b1fa3d9798",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "11:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "Бешка: Цела викенд зона Бешка"
+      ],
+      "reason": null,
+      "note": "Бешка: Цела викенд зона Бешка",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-25",
