@@ -5,42 +5,7 @@
     "nameLatin": "Palilula",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "100eb1d1c1f6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "ЈАХОРИНСКА: 2-12,16-20,7, ЛЕСНОВСКА: 2-6,12-16А, ЛЕВСКОГА: 2-14,1-11, ПРИБОЈСКА: 23, ТИНА УЈЕВИЋА: 2-8,1-5,9-17, ВЛАДЕ ИЛИЋА: 3-5, ВОЈВОДЕ М КРСТИЋА: 2А,1А"
-      ],
-      "reason": null,
-      "note": "ЈАХОРИНСКА: 2-12,16-20,7, ЛЕСНОВСКА: 2-6,12-16А, ЛЕВСКОГА: 2-14,1-11, ПРИБОЈСКА: 23, ТИНА УЈЕВИЋА: 2-8,1-5,9-17, ВЛАДЕ ИЛИЋА: 3-5, ВОЈВОДЕ М КРСТИЋА: 2А,1А,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
-    },
-    {
-      "id": "dbf731a5a7e5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Палилула",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Насеље ЈАБУЧКИ РИТ: ЈАБУЧКИ РИТ: 14,18,42-62А,9-19,41-61, Насеље ПАДИНСКА СКЕЛА: ЈАБУЧКИ РИТ: ББ,ББ,ББ,ББ,ББ,ББ,ББ,10,100-104,101-105"
-      ],
-      "reason": null,
-      "note": "Насеље ЈАБУЧКИ РИТ: ЈАБУЧКИ РИТ: 14,18,42-62А,9-19,41-61, Насеље ПАДИНСКА СКЕЛА: ЈАБУЧКИ РИТ: ББ,ББ,ББ,ББ,ББ,ББ,ББ,10,100-104,101-105,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-25",

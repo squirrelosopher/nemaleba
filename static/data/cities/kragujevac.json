@@ -763,6 +763,40 @@
       "note": "Најава за искључење воде 22.11.2026. \n Због најављених радова на изради саобраћајнице-обилазнице око Крагујевца, а у циљу измене цевовода, дана 22.11.2026 године у временском периоду од 09:00 до 16:00 часова, без воде ће остати потрошачи у делу улице Владимира Роловића, од улице Љубе Вучковић до улице Цветна. \n Приликом пуштања воде може доћи до благог замућења па је потребно воду испустити док се не избистри. \n Моле се потрошачи да обезбеде воду за неопходне потребе."
     },
     {
+      "id": "f6471219aa39",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-23-11-2026/",
+      "areaLabel": "Аеродром",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Авалска"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Аеродром, ул. Авалска ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "e28076ce6ffe",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-23-11-2026/",
+      "areaLabel": "Белошевац",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Драгише Луковића"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Белошевац, ул. Драгише Луковића ( од 08:00 до 12:00 часова ), поправка уличне линије."
+    },
+    {
       "id": "d8de92101c32",
       "utility": "electricity",
       "kind": "planned",
@@ -790,7 +824,7 @@
       ],
       "reason": null,
       "note": "Банијских бригада, Бранка Миљковића, Далматинских бригада, Иве Андрића, Херцеговачких и Крајишких бригада, Поскурички пут, Симе Матавуља, Војвођанских бригада, Бихорска, Горњомилановачка, Мајевичка, Македонских бригада, Валентина Водника, Вршачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "fce17fc48734",
@@ -808,7 +842,7 @@
       ],
       "reason": null,
       "note": "Корман, Горње Комарице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "d7b1915891b3",
@@ -826,7 +860,126 @@
       ],
       "reason": null,
       "note": "Корман, Горње Комарице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "64e9227217f4",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-23-11-2026/",
+      "areaLabel": "Ердоглија",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Даничићева"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Ердоглија, ул. Даничићева ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "e3c6965eb070",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-23-11-2026/",
+      "areaLabel": "Трмбас",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Велимира Милосављевића"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Трмбас, ул. Велимира Милосављевића ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "0ea847762fec",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-23-11-2026/",
+      "areaLabel": "Бресница 3",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Ужичке републике"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Бресница 3, ул. Ужичке републике ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "1e0b1da0e4c5",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-23-11-2026/",
+      "areaLabel": "Мале Пчелице",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Старопланинска"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Мале Пчелице, ул. Старопланинска ( од 16:00 до 19:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "b781edb25258",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-23-11-2026/",
+      "areaLabel": "Пивара",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Мирјане Ковановић"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Пивара, ул. Мирјане Ковановић ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "7f91fc8718de",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-23-11-2026/",
+      "areaLabel": "Аеродром",
+      "time": {
+        "start": "18:15",
+        "end": "16:00"
+      },
+      "streets": [
+        "Владимира Роловића – Белодримска"
+      ],
+      "reason": "поправка затварача",
+      "note": "Аеродром, ул. Владимира Роловића – Белодримска ( од 18:15 до 16:00 часова ), поправка затварача."
+    },
+    {
+      "id": "45742f775e00",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-23-11-2026/",
+      "areaLabel": "Денино брдо",
+      "time": {
+        "start": "18:15",
+        "end": "12:00"
+      },
+      "streets": [
+        "угао Франше Д Переа – Цветна"
+      ],
+      "reason": "поправка затварача",
+      "note": "Хаваријска искључења на дан 23.11.2026. \n \n Денино брдо, угао Франше Д Переа – Цветна ( од 18:15 до 12:00 часова ), поправка затварача."
     },
     {
       "id": "bf8f375d4880",
@@ -846,7 +999,7 @@
       ],
       "reason": null,
       "note": "Александра Висоцког 13 - 51, 22 - 46, Рада Докмановића 1 - 7, 18",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "250d861634fd",
@@ -864,7 +1017,7 @@
       ],
       "reason": null,
       "note": "Корман, Горње Комарице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -1016,7 +1169,7 @@
     {
       "date": "2026-11-23",
       "electricityOutages": 4,
-      "waterOutages": 0
+      "waterOutages": 9
     }
   ]
 }

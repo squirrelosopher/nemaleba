@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-23T06:11:16.343Z",
+  "generatedAt": "2026-11-23T07:11:07.858Z",
   "summary": {
     "date": "2026-11-23",
-    "electricityOutages": 171,
-    "waterOutages": 2,
+    "electricityOutages": 167,
+    "waterOutages": 12,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 39,
+        "electricityOutages": 35,
         "waterOutages": 0
       },
       {
@@ -18,15 +18,15 @@
         "waterOutages": 0
       },
       {
-        "id": "vrbas",
-        "nameCyrillic": "Врбас",
-        "electricityOutages": 13,
-        "waterOutages": 0
-      },
-      {
         "id": "kragujevac",
         "nameCyrillic": "Крагујевац",
         "electricityOutages": 6,
+        "waterOutages": 9
+      },
+      {
+        "id": "vrbas",
+        "nameCyrillic": "Врбас",
+        "electricityOutages": 13,
         "waterOutages": 0
       },
       {
@@ -184,6 +184,12 @@
         "nameCyrillic": "Блаце",
         "electricityOutages": 1,
         "waterOutages": 0
+      },
+      {
+        "id": "bor",
+        "nameCyrillic": "Бор",
+        "electricityOutages": 0,
+        "waterOutages": 1
       },
       {
         "id": "brus",
@@ -432,7 +438,7 @@
     {
       "date": "2026-11-23",
       "electricityOutages": 92,
-      "waterOutages": 1
+      "waterOutages": 11
     }
   ],
   "providers": [
