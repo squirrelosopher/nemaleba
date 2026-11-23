@@ -341,6 +341,23 @@
       "reason": null,
       "note": "Темеринска 66 – 80, Текелијина 39 А – 45, 46 – 58, Семафор на углу Партизанске и Темеринске, Семафор на углу Темеринске и Венизелосове.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "482b9861b283",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Молнар Ђуле"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Улица Молнар Ђуле.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-23-11-2026/"
     }
   ],
   "history": [
@@ -492,7 +509,7 @@
     {
       "date": "2026-11-23",
       "electricityOutages": 6,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

@@ -22,6 +22,20 @@
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-45/"
     },
     {
+      "id": "97938aa63501",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "areaLabel": "Ириг",
+      "time": null,
+      "streets": [
+        "Анке Матић"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улици Анке Матић у Иригу.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-46/"
+    },
+    {
       "id": "70c30258f35a",
       "utility": "electricity",
       "kind": "planned",
@@ -188,7 +202,7 @@
     {
       "date": "2026-11-23",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-23T08:11:12.902Z",
+  "generatedAt": "2026-11-23T09:11:13.787Z",
   "summary": {
     "date": "2026-11-23",
-    "electricityOutages": 167,
-    "waterOutages": 12,
+    "electricityOutages": 174,
+    "waterOutages": 15,
     "affected": [
       {
         "id": "beograd",
         "nameCyrillic": "Београд",
-        "electricityOutages": 35,
+        "electricityOutages": 42,
         "waterOutages": 0
       },
       {
@@ -33,7 +33,7 @@
         "id": "novi-sad",
         "nameCyrillic": "Нови Сад",
         "electricityOutages": 6,
-        "waterOutages": 0
+        "waterOutages": 1
       },
       {
         "id": "nis",
@@ -78,6 +78,12 @@
         "waterOutages": 0
       },
       {
+        "id": "ruma",
+        "nameCyrillic": "Рума",
+        "electricityOutages": 3,
+        "waterOutages": 1
+      },
+      {
         "id": "zajecar",
         "nameCyrillic": "Зајечар",
         "electricityOutages": 3,
@@ -92,12 +98,6 @@
       {
         "id": "kucevo",
         "nameCyrillic": "Кучево",
-        "electricityOutages": 3,
-        "waterOutages": 0
-      },
-      {
-        "id": "ruma",
-        "nameCyrillic": "Рума",
         "electricityOutages": 3,
         "waterOutages": 0
       },
@@ -142,6 +142,12 @@
         "nameCyrillic": "Ивањица",
         "electricityOutages": 2,
         "waterOutages": 0
+      },
+      {
+        "id": "irig",
+        "nameCyrillic": "Ириг",
+        "electricityOutages": 1,
+        "waterOutages": 1
       },
       {
         "id": "ljubovija",
@@ -224,12 +230,6 @@
       {
         "id": "zrenjanin",
         "nameCyrillic": "Зрењанин",
-        "electricityOutages": 1,
-        "waterOutages": 0
-      },
-      {
-        "id": "irig",
-        "nameCyrillic": "Ириг",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -438,7 +438,7 @@
     {
       "date": "2026-11-23",
       "electricityOutages": 92,
-      "waterOutages": 11
+      "waterOutages": 14
     }
   ],
   "providers": [

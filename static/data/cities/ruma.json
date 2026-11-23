@@ -63,6 +63,20 @@
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-91/"
     },
     {
+      "id": "5c9d5c22e6ea",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "areaLabel": "Врдник",
+      "time": null,
+      "streets": [
+        "Железничкој улици"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у Железничкој улици у Врднику.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-vrdnik-71/"
+    },
+    {
       "id": "70f0815f875e",
       "utility": "electricity",
       "kind": "planned",
@@ -263,7 +277,7 @@
     {
       "date": "2026-11-23",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
