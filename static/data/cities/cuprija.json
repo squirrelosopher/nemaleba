@@ -42,23 +42,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "32f17bbbeb47",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део Старог села- Бигреница"
-      ],
-      "reason": null,
-      "note": "део Старог села- Бигреница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "ec94d4b9d75d",
       "utility": "electricity",
       "kind": "planned",
@@ -74,6 +57,23 @@
       ],
       "reason": null,
       "note": "мобилна телефонија на Силосу, технички преглед Лале ауто и пекара Забадлија",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "32f17bbbeb47",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део Старог села- Бигреница"
+      ],
+      "reason": null,
+      "note": "део Старог села- Бигреница",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {

@@ -41,6 +41,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "9c3fffb2c0ee",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Краљево",
+      "time": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "У Борачком насељу ул. Веселина Маслаша."
+      ],
+      "reason": null,
+      "note": "У Борачком насељу ул. Веселина Маслаша.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "21ce4cbc206e",
       "utility": "electricity",
       "kind": "planned",
@@ -56,23 +73,6 @@
       ],
       "reason": null,
       "note": "У Богутовцу Кршна. У Магличу, Дубочици и Бреснику.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "9c3fffb2c0ee",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "У Борачком насељу ул. Веселина Маслаша."
-      ],
-      "reason": null,
-      "note": "У Борачком насељу ул. Веселина Маслаша.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],

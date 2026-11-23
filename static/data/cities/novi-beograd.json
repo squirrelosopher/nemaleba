@@ -56,6 +56,23 @@
       "reason": null,
       "note": "Насеље Н БЕОГРАД: ТРЕШЊИНОГ ЦВЕТА: 5-11,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c55acdafeee5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "08:30",
+        "end": "13:00"
+      },
+      "streets": [
+        "БЕЖАНИЈСКИХ ИЛЕГАЛАЦА: 56-62,78-84"
+      ],
+      "reason": null,
+      "note": "БЕЖАНИЈСКИХ ИЛЕГАЛАЦА: 56-62,78-84,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

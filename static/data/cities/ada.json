@@ -5,7 +5,137 @@
     "nameLatin": "Ada",
     "branchCyrillic": "Нови Сад"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "b1cacc41426a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Ада",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "\"Раде КОнчара 42 – 70",
+        "43 – 71; Славка Родића 38 А – 58",
+        "39 – 57;\r\nВладимира Назора 28 – 48 А",
+        "29 – 47; Светог Илије; Мишелук 2; Нова 1;\r\nНова 2; Др. Голдман;\r\nРЕПЕТИТОР ЛАЛА; АУТО-КУЋА ПЕТРОВИЋ; ИПАН\""
+      ],
+      "reason": null,
+      "note": "\"Раде КОнчара 42 – 70, 43 – 71; Славка Родића 38 А – 58, 39 – 57;\r\nВладимира Назора 28 – 48 А, 29 – 47; Светог Илије; Мишелук 2; Нова 1;\r\nНова 2; Др. Голдман;\r\nРЕПЕТИТОР ЛАЛА; АУТО-КУЋА ПЕТРОВИЋ; ИПАН\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "6b73dcff8de1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Ада",
+      "time": {
+        "start": "08:00",
+        "end": "09:00"
+      },
+      "streets": [
+        "ПАРК ЦИТY Народног фронта 21 – 25 А"
+      ],
+      "reason": null,
+      "note": "ПАРК ЦИТY Народног фронта 21 – 25 А",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "6e436249ecfc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Ада",
+      "time": {
+        "start": "08:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "\"Јанике Балаша; Јесењинова 1 – 37",
+        "2 – 24; Бранка Ћопића 73 – 119",
+        "80 – 102;\r\nРахеле Ферари; Славујева; Златиборска; Томе Росандића;\r\nСиме Милутиновића Сарајлије 69 – 109",
+        "74 – 92; Драге Дејановић;\r\nТоме Здравковића; Богдана Поповића; Аврама Мразовића;\r\nПЛАНТЛАНД; ПЕКАРА БРАЋА ДРИНИЋ\""
+      ],
+      "reason": null,
+      "note": "\"Јанике Балаша; Јесењинова 1 – 37, 2 – 24; Бранка Ћопића 73 – 119, 80 – 102;\r\nРахеле Ферари; Славујева; Златиборска; Томе Росандића;\r\nСиме Милутиновића Сарајлије 69 – 109, 74 – 92; Драге Дејановић;\r\nТоме Здравковића; Богдана Поповића; Аврама Мразовића;\r\nПЛАНТЛАНД; ПЕКАРА БРАЋА ДРИНИЋ\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a77b543f3ae4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Ада",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Петроварадин: НОВА 6 - ПРЕМА БЕОГРАДУ"
+      ],
+      "reason": null,
+      "note": "Петроварадин: НОВА 6 - ПРЕМА БЕОГРАДУ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "248a28195dfb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Ада",
+      "time": {
+        "start": "09:30",
+        "end": "10:15"
+      },
+      "streets": [
+        "\"Новосадски пут 113",
+        "140 – 182; Момчила Настасијевића 17 – 19;\r\nМачванска; Сувоборска; Цетињска; Сопоћанска; Шумска 11 Г – 13",
+        "12 – 14;\r\nПетефи Шандора 165 – 175",
+        "182 А – 196; Сомборска 51 - 59\""
+      ],
+      "reason": null,
+      "note": "\"Новосадски пут 113, 140 – 182; Момчила Настасијевића 17 – 19;\r\nМачванска; Сувоборска; Цетињска; Сопоћанска; Шумска 11 Г – 13, 12 – 14;\r\nПетефи Шандора 165 – 175, 182 А – 196; Сомборска 51 - 59\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "559919d55cab",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Ада",
+      "time": {
+        "start": "10:45",
+        "end": "11:45"
+      },
+      "streets": [
+        "\"Владике Ћирића 2 – 28; Булевар Слободана Јовановића 10 – 12;\r\nБранислава Борота 1 - 23\""
+      ],
+      "reason": null,
+      "note": "\"Владике Ћирића 2 – 28; Булевар Слободана Јовановића 10 – 12;\r\nБранислава Борота 1 - 23\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "e5aa81f3119c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Ада",
+      "time": {
+        "start": "12:15",
+        "end": "13:00"
+      },
+      "streets": [
+        "\"Олге Пенавин; Пролетерска; Витомира Кораћа;\r\nКовиљска; Јегричка 74 – 76 А; Радослав Продановића 1 – 15",
+        "2 – 14;\r\nМилоја М. Васића; Драгише Лапчевића\""
+      ],
+      "reason": null,
+      "note": "\"Олге Пенавин; Пролетерска; Витомира Кораћа;\r\nКовиљска; Јегричка 74 – 76 А; Радослав Продановића 1 – 15, 2 – 14;\r\nМилоја М. Васића; Драгише Лапчевића\"",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-25",

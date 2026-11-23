@@ -7,21 +7,21 @@
   },
   "outages": [
     {
-      "id": "fe8dd56bc0a6",
+      "id": "16eee016c0cf",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-23",
+      "date": "2026-11-26",
       "areaLabel": "Барајево",
       "time": {
-        "start": "08:00",
+        "start": "08:30",
         "end": "15:00"
       },
       "streets": [
-        "Насеље МАНИЋ: КОСМАЈСКА: 57"
+        "Насеље ВРАНИЋ: ЛАЗАРЕВАЧКА: 12,16-34"
       ],
       "reason": null,
-      "note": "Насеље МАНИЋ: КОСМАЈСКА: 57,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+      "note": "Насеље ВРАНИЋ: ЛАЗАРЕВАЧКА: 12,16-34,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -172,7 +172,7 @@
     },
     {
       "date": "2026-11-23",
-      "electricityOutages": 1,
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

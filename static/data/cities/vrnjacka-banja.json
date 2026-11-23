@@ -5,7 +5,25 @@
     "nameLatin": "Vrnjačka Banja",
     "branchCyrillic": "Краљево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "a48d7789cb01",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-24",
+      "areaLabel": "Врњачка Бања",
+      "time": {
+        "start": "10:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "део насеља Ново Село испод пруге"
+      ],
+      "reason": null,
+      "note": "део насеља Ново Село испод пруге",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-25",

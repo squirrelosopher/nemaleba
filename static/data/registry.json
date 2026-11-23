@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-23T14:11:12.645Z",
+  "generatedAt": "2026-11-23T16:10:41.807Z",
   "summary": {
     "date": "2026-11-23",
-    "electricityOutages": 353,
+    "electricityOutages": 368,
     "waterOutages": 27,
     "affected": [
+      {
+        "id": "beograd",
+        "nameCyrillic": "Београд",
+        "electricityOutages": 48,
+        "waterOutages": 0
+      },
       {
         "id": "subotica",
         "nameCyrillic": "Суботица",
         "electricityOutages": 47,
-        "waterOutages": 0
-      },
-      {
-        "id": "beograd",
-        "nameCyrillic": "Београд",
-        "electricityOutages": 42,
         "waterOutages": 0
       },
       {
@@ -58,6 +58,12 @@
         "nameCyrillic": "Нови Сад",
         "electricityOutages": 6,
         "waterOutages": 3
+      },
+      {
+        "id": "ada",
+        "nameCyrillic": "Ада",
+        "electricityOutages": 7,
+        "waterOutages": 0
       },
       {
         "id": "kursumlija",
@@ -336,6 +342,12 @@
         "waterOutages": 0
       },
       {
+        "id": "vrnjacka-banja",
+        "nameCyrillic": "Врњачка Бања",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
         "id": "dimitrovgrad",
         "nameCyrillic": "Димитровград",
         "electricityOutages": 1,
@@ -380,6 +392,12 @@
       {
         "id": "negotin",
         "nameCyrillic": "Неготин",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "prijepolje",
+        "nameCyrillic": "Пријепоље",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -569,7 +587,7 @@
     },
     {
       "date": "2026-11-23",
-      "electricityOutages": 92,
+      "electricityOutages": 87,
       "waterOutages": 23
     }
   ],
