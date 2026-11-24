@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "b57f28fbf214",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Бујановац",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Комплетно подручје Самољица и околина"
-      ],
-      "reason": null,
-      "note": "Комплетно подручје Самољица и околина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1e8f0468bb21",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Комплетно подручје Самољица и околина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

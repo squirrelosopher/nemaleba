@@ -5,26 +5,7 @@
     "nameLatin": "Babušnica",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "db0b2aadd417",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "08:30",
-        "end": "14:30"
-      },
-      "streets": [
-        "Део села Љуберадја",
-        "Завидинце"
-      ],
-      "reason": null,
-      "note": "Део села Љуберадја, Завидинце",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-26",

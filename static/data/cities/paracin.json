@@ -7,59 +7,6 @@
   },
   "outages": [
     {
-      "id": "6900e2658752",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Део села Сикирица"
-      ],
-      "reason": null,
-      "note": "Део села Сикирица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5163e3285deb",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Део села Бошњане"
-      ],
-      "reason": null,
-      "note": "Део села Бошњане",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e5d70509e65d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Параћин",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Део Кнез Михајлове",
-        "део Краља Петра 1",
-        "део Васе Пелагића"
-      ],
-      "reason": null,
-      "note": "Део Кнез Михајлове,део Краља Петра 1,део Васе Пелагића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "9f97711acf99",
       "utility": "electricity",
       "kind": "planned",
@@ -77,7 +24,7 @@
       ],
       "reason": null,
       "note": "Део Мајора Марка преко пруге,део Војводе Степе,Пикулина,део Војводе Путника,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "b3ee796748cd",
@@ -94,7 +41,7 @@
       ],
       "reason": null,
       "note": "Део села Стрижа",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "978abcde3738",
@@ -111,6 +58,25 @@
       ],
       "reason": null,
       "note": "Село Плана",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "3bdee07af444",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Параћин",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део Војводе Мишића",
+        "Танаска Рајића",
+        "део Стевана Првовенчаног и Дилетово сокаче"
+      ],
+      "reason": null,
+      "note": "Део Војводе Мишића,Танаска Рајића,део Стевана Првовенчаног и Дилетово сокаче",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],

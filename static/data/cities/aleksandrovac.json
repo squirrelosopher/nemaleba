@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "855f9d2ed33d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Александровац",
-      "time": {
-        "start": "08:00",
-        "end": "14:30"
-      },
-      "streets": [
-        "Део насељеног места Рокци"
-      ],
-      "reason": null,
-      "note": "Део насељеног места Рокци",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "4a44b933a7d0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Александровац",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насељено место Вранштоца"
-      ],
-      "reason": null,
-      "note": "Насељено место Вранштоца",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "713aafb6b37b",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Доње Ратаје (Ћирићи)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "06329aa40528",
@@ -74,7 +40,7 @@
       ],
       "reason": null,
       "note": "Насељена места Козница, Плоча, Рокци и Јелакци и део Вранштице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "967068376ea8",
@@ -93,7 +59,7 @@
       ],
       "reason": null,
       "note": "Насељена места Стрменица,Горња велика Врбница,Латковац.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "51f5757d10b6",
@@ -110,7 +76,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Доњи Ступањ Лисинци",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

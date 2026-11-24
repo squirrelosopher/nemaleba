@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "053a3a768f6d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Лаћарак: Змајева, Гаје Шуљманца, Бранка Радичевића 1-31, 4-30, 1. новембра 70, 237, Карађорђева 51-81, 52-164а и бб, Карађорђев сокак бб, Ниска 1-103, 2-84 и бб, Планинска , Сремска 1-197, 2-190 и бб, Школска 31-167, 32-174, Војина Штрбачког 1-5, 2-8 и бб, Фрушкогорска 63-175, 62-168 и бб, Партизанска 1-121, 139, 2-138, Доситејева 65-89, 105, 28-40 и бб, Железничка 1-155, 2-156 и бб, Кикина 51-93, 105-107, 44-116 и бб, Кланица „Јанковић“ – ул. Железничка бр. 40, Млин – ул. Железничка бр. 45, Пружни прелаз („Железнице Србије“) – ул. Железничка, Лаћарак."
-      ],
-      "reason": null,
-      "note": "Лаћарак: Змајева, Гаје Шуљманца, Бранка Радичевића 1-31, 4-30, 1. новембра 70, 237, Карађорђева 51-81, 52-164а и бб, Карађорђев сокак бб, Ниска 1-103, 2-84 и бб, Планинска , Сремска 1-197, 2-190 и бб, Школска 31-167, 32-174, Војина Штрбачког 1-5, 2-8 и бб, Фрушкогорска 63-175, 62-168 и бб, Партизанска 1-121, 139, 2-138, Доситејева 65-89, 105, 28-40 и бб, Железничка 1-155, 2-156 и бб, Кикина 51-93, 105-107, 44-116 и бб, Кланица „Јанковић“ – ул. Железничка бр. 40, Млин – ул. Железничка бр. 45, Пружни прелаз („Железнице Србије“) – ул. Железничка, Лаћарак.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ce77376528f4",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Адашевци: Бранка Радичевића 1-21, 2-30.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "3ec6f8dffc37",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Петра Прерадовића 69-121.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "698a08214a19",
@@ -72,7 +55,7 @@
       ],
       "reason": null,
       "note": "Мартинци: Савска 3-19 и 2-26, Православна црква Мартинци, Радничка 2-18, Базна станица Теленор - ул. Радничка бр. 14, Железничка б.б.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "09fe1c10a5b0",
@@ -89,7 +72,7 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Стефана Ластавице 1-31 и 4-28, Кувеждинска 3.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "725d0df62a0e",
@@ -106,7 +89,7 @@
       ],
       "reason": null,
       "note": "\"Сремска Митровица: ул. Краља Александра Карађорђевића од бр. 1-19 и 4-16\r\n“Екопетрол” бензинска пумпа - ул. Краља А. Карађорђевића б.б.\r\nРадио-базна станица “НС-2106-СМ” - ул. Краља А. Карађорђевића бр. 11\r\nул. Петра Прерадовића од бр. 43-121 и 34-74\r\nул. Уроша Стојшића од бр. 2-18\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

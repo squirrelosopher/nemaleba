@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "3e2ef71054e6",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Љиг: насеље Кадина Лука (засеок \"Мишковића брдо\")."
-      ],
-      "reason": null,
-      "note": "Љиг: насеље Кадина Лука (засеок \"Мишковића брдо\").",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "43ecf5406e35",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "НасељеВелики Црљени: Раце Терзића (засеок Луг према \"Циганској ноћи\"."
-      ],
-      "reason": null,
-      "note": "НасељеВелики Црљени: Раце Терзића (засеок Луг према \"Циганској ноћи\".",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "4782eb5e2ec2",
       "utility": "electricity",
       "kind": "planned",
@@ -55,6 +21,23 @@
       ],
       "reason": null,
       "note": "Насеље Вреоци засеок Пресека.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "0961ebcd5a74",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Лајковац: насеље Пепељевац,Придворица,Стрмово."
+      ],
+      "reason": null,
+      "note": "Лајковац: насеље Пепељевац,Придворица,Стрмово.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
@@ -74,24 +57,7 @@
       ],
       "reason": null,
       "note": "Насеље Шопић засеок Стакленик,Бакин,Споменик.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
-    },
-    {
-      "id": "0961ebcd5a74",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Лајковац: насеље Пепељевац,Придворица,Стрмово."
-      ],
-      "reason": null,
-      "note": "Лајковац: насеље Пепељевац,Придворица,Стрмово.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "876a415037c6",
@@ -114,7 +80,7 @@
       ],
       "reason": null,
       "note": "Николе Вујачића 15-19, 32, 34, 34 А, 36, Дула Караклајића 45, Вељка Влаховића 4-16.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     },
     {
       "id": "78a33ad083fb",
@@ -131,7 +97,7 @@
       ],
       "reason": null,
       "note": "Аранђеловац, Насеље: Даросава ( засеок Школа ).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "d3ac87abc775",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Део села Селачка"
-      ],
-      "reason": null,
-      "note": "Део села Селачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b50983ef523b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "09:30",
-        "end": "13:00"
-      },
-      "streets": [
-        "Зајечар део ул. Хајдук Вељкова од Острва до Аутобуске станице"
-      ],
-      "reason": null,
-      "note": "Зајечар део ул. Хајдук Вељкова од Острва до Аутобуске станице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "e2492896198c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "13:00",
-        "end": "00:00"
-      },
-      "streets": [
-        "Село Мариновац"
-      ],
-      "reason": null,
-      "note": "Село Мариновац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "62b2df838d0b",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +21,7 @@
       ],
       "reason": null,
       "note": "Гамзиград",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "04649838f4bd",
@@ -89,7 +38,7 @@
       ],
       "reason": null,
       "note": "Део Великог Извора (Горњи крај)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,43 +5,7 @@
     "nameLatin": "Medijana",
     "branchCyrillic": "Ниш"
   },
-  "outages": [
-    {
-      "id": "c4b912d91f8a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Пријездина (16);"
-      ],
-      "reason": null,
-      "note": "Пријездина (16);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "43dba89c0465",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Медијана",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Трг Краља Александра Ујединитеља (1",
-        "5);"
-      ],
-      "reason": null,
-      "note": "Трг Краља Александра Ујединитеља (1,5);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-26",

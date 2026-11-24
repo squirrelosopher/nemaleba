@@ -5,7 +5,25 @@
     "nameLatin": "Bogatić",
     "branchCyrillic": "Шабац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "921477ab9ce1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Богатић",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "БЕЗ СТРУЈЕ ОСТАЈЕ РАДЕНКОВИЋ"
+      ],
+      "reason": null,
+      "note": "БЕЗ СТРУЈЕ ОСТАЈЕ РАДЕНКОВИЋ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-26",

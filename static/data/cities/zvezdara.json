@@ -5,25 +5,7 @@
     "nameLatin": "Zvezdara",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "b85cda770341",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Звездара",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "МАТИЦЕ СРПСКЕ: 67-81А,111-111, МИЛАНА РАКИЋА: 110Б,114-114,120-122Б,129Ж, МЛАВСКА: ББ, Насеље МИРИЈЕВО: КИСЕЛА ВОДА: 2-20"
-      ],
-      "reason": null,
-      "note": "МАТИЦЕ СРПСКЕ: 67-81А,111-111, МИЛАНА РАКИЋА: 110Б,114-114,120-122Б,129Ж, МЛАВСКА: ББ, Насеље МИРИЈЕВО: КИСЕЛА ВОДА: 2-20,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-26",

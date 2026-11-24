@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "068807624198",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Део улице Мише Митровића"
-      ],
-      "reason": null,
-      "note": "Део улице Мише Митровића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d846f6275c07",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Насељена места : Ћелије, Мајдево, Суваја и Мало Гркљане"
-      ],
-      "reason": null,
-      "note": "Насељена места : Ћелије, Мајдево, Суваја и Мало Гркљане",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "0b64a71492a5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "09:30",
-        "end": "11:00"
-      },
-      "streets": [
-        "Део насељеног места Дедина"
-      ],
-      "reason": null,
-      "note": "Део насељеног места Дедина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "43d2b4d16b44",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насељено место Бољевац и део насељеног места Рибаре (Самар).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "092ae37a5699",
@@ -89,7 +38,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Дољане",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "62809f550664",
@@ -106,7 +55,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Макрешане (из ТС Макрешане 2)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "58b09fcc7899",
@@ -123,7 +72,7 @@
       ],
       "reason": null,
       "note": "Насељено место Ћелије",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "52420ac468d8",
@@ -140,7 +89,7 @@
       ],
       "reason": null,
       "note": "Насељено место Бојинце",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "a5e816a7d0be",
@@ -157,7 +106,7 @@
       ],
       "reason": null,
       "note": "Део улице Текеришка и Павла Јуришића Штурма.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "742cfb94e9c7",
@@ -177,7 +126,7 @@
       ],
       "reason": null,
       "note": "Насељено места Мајдево ,Суваја,Грабак,Мало Гркљане .",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "06b5ce03a33f",
@@ -194,7 +143,7 @@
       ],
       "reason": null,
       "note": "Део насељеног места Капиџија и Гаглово.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

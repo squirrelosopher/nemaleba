@@ -7,27 +7,6 @@
   },
   "outages": [
     {
-      "id": "71d813ce417f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-23",
-      "areaLabel": "Горњи Милановац",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Накучани",
-        "Шилопај",
-        "Крива Река",
-        "Давидовица",
-        "Церова и Мутањ"
-      ],
-      "reason": null,
-      "note": "Накучани, Шилопај, Крива Река, Давидовица, Церова и Мутањ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "9af742220454",
       "utility": "electricity",
       "kind": "planned",
@@ -46,7 +25,45 @@
       ],
       "reason": null,
       "note": "Накучани, Шилопај, Крива Река, Давидовица, Церова и Мутањ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "8aa020e3dbe7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Горњи Милановац",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Корисници у Теочину са Трафо станице Горњи Сарићи"
+      ],
+      "reason": null,
+      "note": "Корисници у Теочину са Трафо станице Горњи Сарићи",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "7894ad586f11",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Горњи Милановац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Накучани",
+        "Шилопај",
+        "Крива Река",
+        "Давидовица",
+        "Церова и Мутањ"
+      ],
+      "reason": null,
+      "note": "Накучани, Шилопај, Крива Река, Давидовица, Церова и Мутањ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
