@@ -7,6 +7,48 @@
   },
   "outages": [
     {
+      "id": "7d389c43c51d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-17",
+      "areaLabel": "Краљевци",
+      "time": null,
+      "streets": [
+        "Ослободилачка"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улици Ослободилачка у Краљевцима.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-90/"
+    },
+    {
+      "id": "47bc305577d5",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-17",
+      "areaLabel": "Рума",
+      "time": null,
+      "streets": [
+        "Вељка Дугошевића"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улици Вељка Дугошевића, Саве Ковачевића и Гробљанској у Руми.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-91/"
+    },
+    {
+      "id": "5c9d5c22e6ea",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-23",
+      "areaLabel": "Врдник",
+      "time": null,
+      "streets": [
+        "Железничкој улици"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у Железничкој улици у Врднику.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-vrdnik-71/"
+    },
+    {
       "id": "70f0815f875e",
       "utility": "electricity",
       "kind": "planned",
