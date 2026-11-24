@@ -86,6 +86,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "bff39626dd31",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-24",
+      "areaLabel": "Книћанин",
+      "time": {
+        "start": null,
+        "end": "14:30"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "КНИЋАНИН – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 14:30 часова.",
+      "sourceUrl": "https://vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-24-11-2026-godine/"
+    },
+    {
       "id": "ec73cf010ddc",
       "utility": "electricity",
       "kind": "planned",
@@ -269,7 +284,7 @@
     {
       "date": "2026-11-24",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
