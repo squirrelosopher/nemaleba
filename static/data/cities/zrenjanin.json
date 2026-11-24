@@ -86,18 +86,48 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "bff39626dd31",
+      "id": "fd9f64c557a1",
       "utility": "water",
       "kind": "emergency",
       "date": "2026-11-24",
       "areaLabel": "Книћанин",
       "time": {
         "start": null,
-        "end": "14:30"
+        "end": "11:30"
       },
       "streets": [],
       "reason": null,
-      "note": "КНИЋАНИН – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 14:30 часова.",
+      "note": "КНИЋАНИН – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 11:30 часова.",
+      "sourceUrl": "https://vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-24-11-2026-godine/"
+    },
+    {
+      "id": "8a5947966b92",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-24",
+      "areaLabel": "Манастирска",
+      "time": {
+        "start": null,
+        "end": "13:30"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "МАНАСТИРСКА (ЗРЕЊАНИН) – санација квара на мрежи, прекид водоснабдевања до 13:30 часова",
+      "sourceUrl": "https://vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-24-11-2026-godine/"
+    },
+    {
+      "id": "ef98d5a9f02e",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-24",
+      "areaLabel": "Перлез",
+      "time": {
+        "start": null,
+        "end": "12:30"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "ПЕРЛЕЗ – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 12:30 часова.",
       "sourceUrl": "https://vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-24-11-2026-godine/"
     },
     {
@@ -284,7 +314,7 @@
     {
       "date": "2026-11-24",
       "electricityOutages": 2,
-      "waterOutages": 1
+      "waterOutages": 3
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-24T10:10:44.663Z",
+  "generatedAt": "2026-11-24T12:10:38.703Z",
   "summary": {
     "date": "2026-11-24",
     "electricityOutages": 307,
-    "waterOutages": 26,
+    "waterOutages": 28,
     "affected": [
       {
         "id": "beograd",
@@ -72,6 +72,12 @@
         "waterOutages": 0
       },
       {
+        "id": "zrenjanin",
+        "nameCyrillic": "Зрењанин",
+        "electricityOutages": 4,
+        "waterOutages": 3
+      },
+      {
         "id": "cacak",
         "nameCyrillic": "Чачак",
         "electricityOutages": 7,
@@ -112,12 +118,6 @@
         "nameCyrillic": "Голубац",
         "electricityOutages": 5,
         "waterOutages": 0
-      },
-      {
-        "id": "zrenjanin",
-        "nameCyrillic": "Зрењанин",
-        "electricityOutages": 4,
-        "waterOutages": 1
       },
       {
         "id": "mali-zvornik",
@@ -564,7 +564,7 @@
     {
       "date": "2026-11-24",
       "electricityOutages": 120,
-      "waterOutages": 24
+      "waterOutages": 26
     }
   ],
   "providers": [
