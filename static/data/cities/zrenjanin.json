@@ -86,6 +86,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "0c47102b7fc1",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-24",
+      "areaLabel": "Банатски Деспотовац",
+      "time": {
+        "start": null,
+        "end": "16:30"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "БАНАТСКИ ДЕСПОТОВАЦ – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 16:30 часова.",
+      "sourceUrl": "https://vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-24-11-2026-godine/"
+    },
+    {
       "id": "fd9f64c557a1",
       "utility": "water",
       "kind": "emergency",
@@ -128,6 +143,21 @@
       "streets": [],
       "reason": null,
       "note": "ПЕРЛЕЗ – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 12:30 часова.",
+      "sourceUrl": "https://vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-24-11-2026-godine/"
+    },
+    {
+      "id": "a080275b1809",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-24",
+      "areaLabel": "Фаркаждин",
+      "time": {
+        "start": null,
+        "end": "14:30"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "ФАРКАЖДИН – санација квара на водоводној мрежи, прекид водоснабдевања у целом насељеном месту до 14:30 часова",
       "sourceUrl": "https://vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-24-11-2026-godine/"
     },
     {
@@ -314,7 +344,7 @@
     {
       "date": "2026-11-24",
       "electricityOutages": 2,
-      "waterOutages": 3
+      "waterOutages": 5
     }
   ]
 }

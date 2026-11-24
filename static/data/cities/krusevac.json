@@ -109,6 +109,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "06b5ce03a33f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Део насељеног места Капиџија и Гаглово."
+      ],
+      "reason": null,
+      "note": "Део насељеног места Капиџија и Гаглово.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "742cfb94e9c7",
       "utility": "electricity",
       "kind": "planned",
@@ -126,23 +143,6 @@
       ],
       "reason": null,
       "note": "Насељено места Мајдево ,Суваја,Грабак,Мало Гркљане .",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "06b5ce03a33f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Крушевац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Део насељеног места Капиџија и Гаглово."
-      ],
-      "reason": null,
-      "note": "Део насељеног места Капиџија и Гаглово.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],

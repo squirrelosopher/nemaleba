@@ -52,23 +52,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "51977817bbf4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Кула",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "М.ТИТА 244-252 И 91-99"
-      ],
-      "reason": null,
-      "note": "М.ТИТА 244-252 И 91-99",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "7ffb391cff7d",
       "utility": "electricity",
       "kind": "planned",
@@ -87,24 +70,24 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "85330c091d1f",
+      "id": "51977817bbf4",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-11-25",
       "areaLabel": "Кула",
       "time": {
-        "start": "11:00",
-        "end": "12:00"
+        "start": "10:00",
+        "end": "11:00"
       },
       "streets": [
-        "М.ТИТА 232-242 И ББ И 63- 89 И 180-210"
+        "М.ТИТА 244-252 И 91-99"
       ],
       "reason": null,
-      "note": "М.ТИТА 232-242 И ББ И 63- 89 И 180-210",
+      "note": "М.ТИТА 244-252 И 91-99",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "e27ce6fd9f6d",
+      "id": "1d049ad38d3b",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-11-25",
@@ -114,17 +97,10 @@
         "end": "12:00"
       },
       "streets": [
-        "М.Тита 232-242",
-        "Бб",
-        "85",
-        "89",
-        "Трг Ослобођења 2",
-        "3-5",
-        "Бб",
-        "Ј.Крамера 8-10."
+        "\"М.Тита 232-242 И ББ И 63- 89 И 180-210; Трг Ослобођења 2 И 3-5 И ББ;\r\nЈ.Крамера 8-10; С.Ковачевића 1-35 И 2-28 И ББ; АУТОБУСКА Ц-3 И ББ\""
       ],
       "reason": null,
-      "note": "М.Тита 232-242, Бб, 85, 89, Трг Ослобођења 2, 3-5, Бб, Ј.Крамера 8-10.",
+      "note": "\"М.Тита 232-242 И ББ И 63- 89 И 180-210; Трг Ослобођења 2 И 3-5 И ББ;\r\nЈ.Крамера 8-10; С.Ковачевића 1-35 И 2-28 И ББ; АУТОБУСКА Ц-3 И ББ\"",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
@@ -155,7 +131,7 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "1d049ad38d3b",
+      "id": "e27ce6fd9f6d",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-11-25",
@@ -165,10 +141,34 @@
         "end": "12:00"
       },
       "streets": [
-        "\"М.Тита 232-242 И ББ И 63- 89 И 180-210; Трг Ослобођења 2 И 3-5 И ББ;\r\nЈ.Крамера 8-10; С.Ковачевића 1-35 И 2-28 И ББ; АУТОБУСКА Ц-3 И ББ\""
+        "М.Тита 232-242",
+        "Бб",
+        "85",
+        "89",
+        "Трг Ослобођења 2",
+        "3-5",
+        "Бб",
+        "Ј.Крамера 8-10."
       ],
       "reason": null,
-      "note": "\"М.Тита 232-242 И ББ И 63- 89 И 180-210; Трг Ослобођења 2 И 3-5 И ББ;\r\nЈ.Крамера 8-10; С.Ковачевића 1-35 И 2-28 И ББ; АУТОБУСКА Ц-3 И ББ\"",
+      "note": "М.Тита 232-242, Бб, 85, 89, Трг Ослобођења 2, 3-5, Бб, Ј.Крамера 8-10.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "85330c091d1f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Кула",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "М.ТИТА 232-242 И ББ И 63- 89 И 180-210"
+      ],
+      "reason": null,
+      "note": "М.ТИТА 232-242 И ББ И 63- 89 И 180-210",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {

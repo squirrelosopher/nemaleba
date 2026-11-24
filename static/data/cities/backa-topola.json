@@ -5,7 +5,43 @@
     "nameLatin": "Bačka Topola",
     "branchCyrillic": "Суботица"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "dc6912757830",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Бајса - део ПетеФи Сандора",
+        "део Кратке"
+      ],
+      "reason": null,
+      "note": "Бајса - део ПетеФи Сандора, део Кратке",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "9e873d1c2154",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Бачка Топола",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Б. Топола - Толстојева"
+      ],
+      "reason": null,
+      "note": "Б. Топола - Толстојева",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-26",

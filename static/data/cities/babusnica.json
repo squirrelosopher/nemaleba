@@ -5,7 +5,76 @@
     "nameLatin": "Babušnica",
     "branchCyrillic": "Пирот"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "211d175bab66",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Бабушница",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Село Сурачево"
+      ],
+      "reason": null,
+      "note": "Село Сурачево",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c15c893f0c76",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Бабушница",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Села Горчинце и Врело"
+      ],
+      "reason": null,
+      "note": "Села Горчинце и Врело",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2f56d53bbc2a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Бабушница",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Село Остатовица"
+      ],
+      "reason": null,
+      "note": "Село Остатовица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a4744d361060",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Бабушница",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Село Александровац"
+      ],
+      "reason": null,
+      "note": "Село Александровац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-26",

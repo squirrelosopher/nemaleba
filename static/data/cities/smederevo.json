@@ -41,23 +41,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "b41f454d05c4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Црногорска"
-      ],
-      "reason": null,
-      "note": "Црногорска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
-    },
-    {
       "id": "ed4f0fdcb4d8",
       "utility": "electricity",
       "kind": "planned",
@@ -72,6 +55,23 @@
       ],
       "reason": null,
       "note": "Ландолски пут и фирма Метал прерада",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "b41f454d05c4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Црногорска"
+      ],
+      "reason": null,
+      "note": "Црногорска",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {

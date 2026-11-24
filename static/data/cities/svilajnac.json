@@ -58,6 +58,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "2b4fd56a67e9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Свилајнац",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Део села Грабовац"
+      ],
+      "reason": null,
+      "note": "Део села Грабовац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
       "id": "be868892aa95",
       "utility": "electricity",
       "kind": "planned",
@@ -240,7 +257,7 @@
     },
     {
       "date": "2026-11-24",
-      "electricityOutages": 2,
+      "electricityOutages": 3,
       "waterOutages": 0
     }
   ]

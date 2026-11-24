@@ -7,6 +7,21 @@
   },
   "outages": [
     {
+      "id": "671d65c31795",
+      "utility": "water",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Обавештавају се потрошачи у насељу Инђија, да ће у среду 25.11.2026. године, у периоду 9-12 часова, а услед радова на водоводној мрежи, бити прекинуто водоснабдевање у улици Авалска. Молимо грађане за стрпљење током наведеног периода. У случају лоших временских прилика радови се одлажу.",
+      "sourceUrl": "https://www.vodovodindjija.co.rs/obavestenje-o-prekidu-vodosnabdevanja-sreda-25-11-2026/"
+    },
+    {
       "id": "b1578973ddce",
       "utility": "electricity",
       "kind": "planned",
@@ -39,6 +54,40 @@
       "reason": null,
       "note": "Бешка: Цела викенд зона Бешка",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "c5ec187895af",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "СЛАНКАМЕНАЧКИ ВИНОГРАДИ: Део викенд зоне Јанда 7."
+      ],
+      "reason": null,
+      "note": "СЛАНКАМЕНАЧКИ ВИНОГРАДИ: Део викенд зоне Јанда 7.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "3a43b7c27f13",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Инђија",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "КРЧЕДИН: Наде Јаношевић од М.Видовића до краја улице, Боре Кечића, М.Горки, С.Радиновић, М.Грујића, Уче Зековића од М.Грујића до краја улице, Јована Вуксана, С.Пенезића, Јовиће Мишковића, М.Вуксана 1-15, 2-10."
+      ],
+      "reason": null,
+      "note": "КРЧЕДИН: Наде Јаношевић од М.Видовића до краја улице, Боре Кечића, М.Горки, С.Радиновић, М.Грујића, Уче Зековића од М.Грујића до краја улице, Јована Вуксана, С.Пенезића, Јовиће Мишковића, М.Вуксана 1-15, 2-10.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

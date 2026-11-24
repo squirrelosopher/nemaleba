@@ -5,7 +5,27 @@
     "nameLatin": "Mali Iđoš",
     "branchCyrillic": "Суботица"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "50854ce0a706",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Мали Иђош",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "М. Идјос - део Врбаског пута",
+        "Кокајева",
+        "Уска"
+      ],
+      "reason": null,
+      "note": "М. Идјос - део Врбаског пута, Кокајева, Уска",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-26",
