@@ -41,6 +41,40 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
+      "id": "e1dfece83496",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": "13:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "БАЧВАНСКА: 14"
+      ],
+      "reason": null,
+      "note": "БАЧВАНСКА: 14,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "51a19deb65e7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Вождовац",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насеље БЕЛИ ПОТОК: БУЛЕВАР ПАТРИЈАРХА ГЕРМАНА: 22,98,13А-17,69,73-77, ЗМАЈА ОД АВАЛЕ: 13А, Насеље СЕЛО РАКОВИЦА: ЖАРКА САВИЋА: 3-3Б"
+      ],
+      "reason": null,
+      "note": "Насеље БЕЛИ ПОТОК: БУЛЕВАР ПАТРИЈАРХА ГЕРМАНА: 22,98,13А-17,69,73-77, ЗМАЈА ОД АВАЛЕ: 13А, Насеље СЕЛО РАКОВИЦА: ЖАРКА САВИЋА: 3-3Б,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
       "id": "a9f1df9a5f27",
       "utility": "electricity",
       "kind": "planned",
