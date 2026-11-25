@@ -95,14 +95,24 @@
       "reason": null,
       "note": "Купци дела ул. Бирчанинова , део ул. Баирска , господар Јевремова",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "d48730c9fe53",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-25",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": null,
+        "end": "12:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Због хаварије на цевоводу узрокованог радовима на постављању гасовода, без водоснабдевања су потрошачи у Новом насељу, најкасније до среде, 25.11.2026. године до 12 часова. \n \n \n Захваљујемо се грађанима на стрпљењу и разумевању.",
+      "sourceUrl": "https://vodovodva.co.rs/24112026-3/"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-26",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-27",
       "electricityOutages": 1,
@@ -245,6 +255,11 @@
     },
     {
       "date": "2026-11-24",
+      "electricityOutages": 1,
+      "waterOutages": 1
+    },
+    {
+      "date": "2026-11-25",
       "electricityOutages": 1,
       "waterOutages": 1
     }

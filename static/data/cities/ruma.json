@@ -7,34 +7,6 @@
   },
   "outages": [
     {
-      "id": "7d389c43c51d",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-17",
-      "areaLabel": "Краљевци",
-      "time": null,
-      "streets": [
-        "Ослободилачка"
-      ],
-      "reason": null,
-      "note": "Тренутно је у току санација квара на водоводној мрежи у улици Ослободилачка у Краљевцима.",
-      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-90/"
-    },
-    {
-      "id": "47bc305577d5",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-17",
-      "areaLabel": "Рума",
-      "time": null,
-      "streets": [
-        "Вељка Дугошевића"
-      ],
-      "reason": null,
-      "note": "Тренутно је у току санација квара на водоводној мрежи у улици Вељка Дугошевића, Саве Ковачевића и Гробљанској у Руми.",
-      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-91/"
-    },
-    {
       "id": "5c9d5c22e6ea",
       "utility": "water",
       "kind": "emergency",
@@ -155,11 +127,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-10-26",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-27",
       "electricityOutages": 3,
@@ -303,6 +270,11 @@
     {
       "date": "2026-11-24",
       "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-25",
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]
