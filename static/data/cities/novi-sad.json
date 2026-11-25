@@ -243,6 +243,21 @@
       "reason": null,
       "note": "РАНЖИРНА СТАНИЦА",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "9de7ed325569",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-25",
+      "areaLabel": "Сремским Карловцима",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 15 сати бити улице Карловачких ђака и околне, Митрополита Стратимировића и околне, Карловачког мира и околне и Прерадовићева и околне у Сремским Карловцима.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-25-11-2026/"
     }
   ],
   "history": [
@@ -394,7 +409,7 @@
     {
       "date": "2026-11-25",
       "electricityOutages": 5,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
