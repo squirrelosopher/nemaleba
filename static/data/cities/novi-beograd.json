@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "d4620bb8b85f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": "09:00",
-        "end": "11:30"
-      },
-      "streets": [
-        "Насеље Н БЕОГРАД: ТРЕШЊИНОГ ЦВЕТА: 5-11"
-      ],
-      "reason": null,
-      "note": "Насеље Н БЕОГРАД: ТРЕШЊИНОГ ЦВЕТА: 5-11,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c55acdafeee5",
       "utility": "electricity",
       "kind": "planned",
@@ -39,23 +22,6 @@
       "reason": null,
       "note": "БЕЖАНИЈСКИХ ИЛЕГАЛАЦА: 56-62,78-84,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
-    },
-    {
-      "id": "8344668fd478",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Нови Београд",
-      "time": {
-        "start": "10:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "СУРЧИНСКА: 40,90Е-90ж,94-94В,9ф-9м,17, ВАЛТРОВИЋЕВА: 8"
-      ],
-      "reason": null,
-      "note": "СУРЧИНСКА: 40,90Е-90ж,94-94В,9ф-9м,17, ВАЛТРОВИЋЕВА: 8,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

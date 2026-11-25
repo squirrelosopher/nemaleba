@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "a48d7789cb01",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Врњачка Бања",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "део насеља Ново Село испод пруге"
-      ],
-      "reason": null,
-      "note": "део насеља Ново Село испод пруге",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "dfd9feb82bf1",
       "utility": "electricity",
       "kind": "planned",
@@ -43,7 +26,7 @@
       ],
       "reason": null,
       "note": "корисници који се напајају са Трафостанице Школа 2, у улици Велибора Марковића зграда бр.7; у улици Хероја Марићића зграда Зорана Стевановића,зграда иза пензионерског ресторана,зграде бр.17 и 19;у улици Кнеза Милоша зграде изнад Кеопса,Војна зграда,зграда социјалног осигурања;преко пута уласка у ТС- Каранфилове зграде",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "88ba65f3427a",
@@ -61,7 +44,7 @@
       ],
       "reason": null,
       "note": "корисници који се напајају са Трафостанице Нова Аутобуска станица ,део улицеКнеза Милоша и Војвођанске од Авеније према Аутобуској станици.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "ae514ff433fa",
@@ -78,7 +61,7 @@
       ],
       "reason": null,
       "note": "корисници који се напајају са трафостанице Вучетић и Данилов",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "36cb973a5ea0",
@@ -98,7 +81,7 @@
       ],
       "reason": null,
       "note": "потрошачи из насељених места Грачац Чукар,део Грачаца око Цркве,Шућури,Рсовци Ивановићи и Рсовци Мала Река",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

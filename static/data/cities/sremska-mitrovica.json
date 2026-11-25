@@ -7,74 +7,6 @@
   },
   "outages": [
     {
-      "id": "ce77376528f4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "09:00",
-        "end": "09:30"
-      },
-      "streets": [
-        "Адашевци: Бранка Радичевића 1-21, 2-30."
-      ],
-      "reason": null,
-      "note": "Адашевци: Бранка Радичевића 1-21, 2-30.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "3ec6f8dffc37",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "10:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Сремска Митровица: Петра Прерадовића 69-121."
-      ],
-      "reason": null,
-      "note": "Сремска Митровица: Петра Прерадовића 69-121.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "698a08214a19",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "10:30",
-        "end": "11:00"
-      },
-      "streets": [
-        "Мартинци: Савска 3-19 и 2-26, Православна црква Мартинци, Радничка 2-18, Базна станица Теленор - ул. Радничка бр. 14, Железничка б.б."
-      ],
-      "reason": null,
-      "note": "Мартинци: Савска 3-19 и 2-26, Православна црква Мартинци, Радничка 2-18, Базна станица Теленор - ул. Радничка бр. 14, Железничка б.б.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "09fe1c10a5b0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "11:40",
-        "end": "12:10"
-      },
-      "streets": [
-        "Сремска Митровица: Стефана Ластавице 1-31 и 4-28, Кувеждинска 3."
-      ],
-      "reason": null,
-      "note": "Сремска Митровица: Стефана Ластавице 1-31 и 4-28, Кувеждинска 3.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "731170985603",
       "utility": "electricity",
       "kind": "planned",
@@ -89,7 +21,7 @@
       ],
       "reason": null,
       "note": "\"Сремска Митровица: ул. Краља Александра Карађорђевића од бр. 1-19 и 4-16\r\n“Екопетрол” бензинска пумпа - ул. Краља А. Карађорђевића б.б.\r\nРадио-базна станица “НС-2106-СМ” - ул. Краља А. Карађорђевића бр. 11\r\nул. Петра Прерадовића од бр. 43-121 и 34-74\r\nул. Уроша Стојшића од бр. 2-18\r\n\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "725d0df62a0e",
@@ -106,7 +38,7 @@
       ],
       "reason": null,
       "note": "\"Сремска Митровица: ул. Краља Александра Карађорђевића од бр. 1-19 и 4-16\r\n“Екопетрол” бензинска пумпа - ул. Краља А. Карађорђевића б.б.\r\nРадио-базна станица “НС-2106-СМ” - ул. Краља А. Карађорђевића бр. 11\r\nул. Петра Прерадовића од бр. 43-121 и 34-74\r\nул. Уроша Стојшића од бр. 2-18\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "7639d5b867f2",
@@ -123,7 +55,7 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Ул. Петра Прерадовића од бр. 43-69б",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "014a6e481f87",
@@ -140,7 +72,7 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Ул. Петра Прерадовића од бр. 43-69б",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

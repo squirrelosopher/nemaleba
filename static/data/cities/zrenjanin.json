@@ -37,40 +37,6 @@
       "sourceUrl": "https://vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-23-11-2026-godine/"
     },
     {
-      "id": "b0ba0090ccb2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Зрењанин",
-      "time": {
-        "start": "08:30",
-        "end": "10:30"
-      },
-      "streets": [
-        "Меленци: Алексеја Толстоја, део Боре Микина, део Браће Барнић, део Браће Мијатов, Виноградарска, Влашканско Ново Насеље, део Жарка Зрењанина, Железничка, Здравка Милосављева, део Лењинова, Новосељачка, део Његошева, Паје Војинова, Радничка, део Српских Владара, Чапајева."
-      ],
-      "reason": null,
-      "note": "Меленци: Алексеја Толстоја, део Боре Микина, део Браће Барнић, део Браће Мијатов, Виноградарска, Влашканско Ново Насеље, део Жарка Зрењанина, Железничка, Здравка Милосављева, део Лењинова, Новосељачка, део Његошева, Паје Војинова, Радничка, део Српских Владара, Чапајева.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "7d8fcbe59536",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Зрењанин",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Меленци: део Новосељачке, део Железничке"
-      ],
-      "reason": null,
-      "note": "Меленци: део Новосељачке, део Железничке",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "20432778bc26",
       "utility": "water",
       "kind": "emergency",
@@ -160,7 +126,7 @@
       ],
       "reason": null,
       "note": "Елемир: део Пролетерске, део Жарка Зрењанина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "06cf81264be3",
@@ -177,7 +143,7 @@
       ],
       "reason": null,
       "note": "Елемир: део Пролетерске",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

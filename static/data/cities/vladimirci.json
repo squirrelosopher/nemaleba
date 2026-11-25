@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "21fd8ceb5bca",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Владимирци",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ СЕЛА МЕСАРЦИ И СУВО СЕЛО"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ СЕЛА МЕСАРЦИ И СУВО СЕЛО",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1cab72b72197",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРИШАЧИ У селу ЈАЛОВИК - Банића раскршће",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "04795126ba3a",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ СЕЛА МЕСАРЦИ И СУВО СЕЛО",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "88f8e23c2a01",
@@ -72,7 +55,7 @@
       ],
       "reason": null,
       "note": "БЕЗ СТРУЈЕ ОСТАЈЕ ДЕО МАТИЈЕВЦА (НАСЕЉЕ КОЗАРА)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

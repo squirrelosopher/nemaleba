@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "365e777e89fa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Доња Коњуша"
-      ],
-      "reason": null,
-      "note": "Доња Коњуша",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "3a7d4109f2c0",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Танаска Рајића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "0853c9644318",
@@ -79,7 +62,7 @@
       ],
       "reason": null,
       "note": "Мала Плана, Дреновац, Бресничић, Кончић Прекопуце, Крњиград, Ресинац, Меровац, Мршељ, Велика Плана, Горња Речица, Бресница, Рашевац, Здравиње, Ајдановац, Топоница, Смрдан, Прекадин, Бејашница, Крушевица, Товрљане, Ргаје, Арбанашка, Дубока Долина, Губетин, Сува Чесма",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "6b1fd7770899",
@@ -96,7 +79,7 @@
       ],
       "reason": null,
       "note": "Ратка Павловића и Вуковарска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "929e8aecdece",
@@ -115,7 +98,7 @@
       ],
       "reason": null,
       "note": "Бошка Југовића, Балканска, Јаворова",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "f583ee0dfa37",
@@ -132,7 +115,7 @@
       ],
       "reason": null,
       "note": "Зорана Радмиловића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "97de955a576d",
@@ -149,7 +132,7 @@
       ],
       "reason": null,
       "note": "Део Југ Богданове преко пута Поште",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "2438368adba1",
@@ -166,7 +149,7 @@
       ],
       "reason": null,
       "note": "Део Милена Јовановића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "269e866a0932",
@@ -183,7 +166,7 @@
       ],
       "reason": null,
       "note": "Таковска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "7668d7111967",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Шид",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Сот: Цело насељено место"
-      ],
-      "reason": null,
-      "note": "Сот: Цело насељено место",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5cd48257ebe5",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Шид",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Моловин: Цело насељено место"
-      ],
-      "reason": null,
-      "note": "Моловин: Цело насељено место",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "faed0dc6bb52",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "\"Шид: ул. Матије Гупца од бр. 67-125 и 62-118\r\nул. Иве Лоле Рибара од бр. 71-111 и 86-106 и б.б.\r\nул. Липовачка од бр. 4-8 и б.б.\r\nул. Саве Шумановића од бр. 109-135 и 110-126\r\nул. Фрушкогорска од бр. 3-55а и 2-54\r\nул. 12. априла од бр. 2-24\r\nул. 20. октобра од бр. 39-59 и 34-54\r\nПословна зграда “Планета” д.о.о. - ул. 20. октобра бр. 31, Шид\"",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "052337491621",
@@ -72,7 +38,7 @@
       ],
       "reason": null,
       "note": "Моровић: Ул.Шидска 48-66а и 47-63",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

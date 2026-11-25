@@ -7,28 +7,6 @@
   },
   "outages": [
     {
-      "id": "9ce47c5c50d2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Пантелеј",
-      "time": {
-        "start": "08:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Делови улица Боре Станковића",
-        "Чегарске",
-        "Јована Јовановића Змаја",
-        "Нишавске",
-        "Пантелејске",
-        "Скадарске и Воје Ринчића;"
-      ],
-      "reason": null,
-      "note": "Делови улица Боре Станковића, Чегарске, Јована Јовановића Змаја, Нишавске, Пантелејске, Скадарске и Воје Ринчића;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "38a845945dc3",
       "utility": "electricity",
       "kind": "planned",
@@ -43,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део Бул. Светог Пантелејмона (91б);",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "15d5e1afba8a",
@@ -60,7 +38,7 @@
       ],
       "reason": null,
       "note": "део Стружишта;",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [

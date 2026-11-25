@@ -630,44 +630,6 @@
       "note": "Хаваријска искључења на дан 24.11.2026. \n \n Вучковица, ул. Вучковица ( од 08:00 до 11:00 часова ), поправка кућног прикључка."
     },
     {
-      "id": "bf8f375d4880",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Александра Висоцког 13 - 51",
-        "22 - 46",
-        "Рада Докмановића 1 - 7",
-        "18"
-      ],
-      "reason": null,
-      "note": "Александра Висоцког 13 - 51, 22 - 46, Рада Докмановића 1 - 7, 18",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "250d861634fd",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Корман",
-        "Горње Комарице"
-      ],
-      "reason": null,
-      "note": "Корман, Горње Комарице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "5d751da5fe83",
       "utility": "water",
       "kind": "emergency",
@@ -804,6 +766,57 @@
       "note": "Шумарице, ул. Македонских Бригада ( од 16:00 до 18:00 часова ), поправка затварача."
     },
     {
+      "id": "45e4f2c6f0a7",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-25",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-25-11-2026/",
+      "areaLabel": "Јабучар",
+      "time": {
+        "start": "06:20",
+        "end": "12:00"
+      },
+      "streets": [
+        "Тополска"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Хаваријска искључења на дан 25.11.2026. \n \n Јабучар, ул. Тополска ( од 06:20 до 12:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "ac140271a2fd",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-25",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-25-11-2026/",
+      "areaLabel": "Ердоглија",
+      "time": {
+        "start": "06:50",
+        "end": "12:00"
+      },
+      "streets": [
+        "Тршћанска"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Ердоглија, ул. Тршћанска ( од 06:50 до 12:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "a4816cead034",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-25",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-25-11-2026/",
+      "areaLabel": "Илина Вода",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Бошка Бухе"
+      ],
+      "reason": "поправка кућог прикључка",
+      "note": "Илина Вода, ул. Бошка Бухе ( од 08:00 до 12:00 часова ), поправка кућог прикључка."
+    },
+    {
       "id": "c232c0a3c0ff",
       "utility": "electricity",
       "kind": "planned",
@@ -819,7 +832,109 @@
       ],
       "reason": null,
       "note": "Корман - Ерови и Речани, Горње Комарице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "fab6265e8720",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-25",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-25-11-2026/",
+      "areaLabel": "Аеродром",
+      "time": {
+        "start": "12:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Балканска"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Аеродром, ул. Балканска ( од 12:00 до 15:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "674954a7454b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-25",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-25-11-2026/",
+      "areaLabel": "Илина Вода",
+      "time": {
+        "start": "12:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Застава Оружје"
+      ],
+      "reason": "рад по допису",
+      "note": "Илина Вода, ул. Застава Оружје ( од 12:00 до 15:00 часова ), рад по допису."
+    },
+    {
+      "id": "be18b1dbcc1a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-25",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-25-11-2026/",
+      "areaLabel": "Илићево",
+      "time": {
+        "start": "12:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Вишка"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Илићево, ул. Вишка ( од 12:00 до 15:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "a8a967914b5d",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-25",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-25-11-2026/",
+      "areaLabel": "Вашариште",
+      "time": {
+        "start": "15:00",
+        "end": "18:00"
+      },
+      "streets": [
+        "Крања Милана Четвртог"
+      ],
+      "reason": "поправка кућог прикључка",
+      "note": "Вашариште, ул. Крања Милана Четвртог ( од 15:00 до 18:00 часова ), поправка кућог прикључка."
+    },
+    {
+      "id": "92192bb440a0",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-25",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-25-11-2026/",
+      "areaLabel": "Вишњак",
+      "time": {
+        "start": "15:00",
+        "end": "18:00"
+      },
+      "streets": [
+        "Момчила Стефановића"
+      ],
+      "reason": "поправка кућог прикључка",
+      "note": "Вишњак, ул. Момчила Стефановића ( од 15:00 до 18:00 часова ), поправка кућог прикључка."
+    },
+    {
+      "id": "49a92230afb1",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-25",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-25-11-2026/",
+      "areaLabel": "Кошутњак",
+      "time": {
+        "start": "15:00",
+        "end": "18:00"
+      },
+      "streets": [
+        "Мајданска"
+      ],
+      "reason": "поправка кућог прикључка",
+      "note": "Кошутњак, ул. Мајданска ( од 15:00 до 18:00 часова ), поправка кућог прикључка."
     },
     {
       "id": "5847ae992482",
@@ -836,7 +951,7 @@
       ],
       "reason": null,
       "note": "Кочићева 10",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "00849fbff0d0",
@@ -857,7 +972,7 @@
       ],
       "reason": null,
       "note": "Бозман, Јовановац - Аксићи, Гај, Кула, Игралиште",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
     },
     {
       "id": "ac9e84012ab2",
@@ -878,7 +993,7 @@
       ],
       "reason": null,
       "note": "Бозман, Јовановац - Аксићи, Гај, Кула, Игралиште",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -1030,7 +1145,7 @@
     {
       "date": "2026-11-25",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 9
     }
   ]
 }

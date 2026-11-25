@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "4481ad55aa2c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-24",
-      "areaLabel": "Мионица",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Купци дела села Мионица",
-        "и део села Вртиглав"
-      ],
-      "reason": null,
-      "note": "Купци дела села Мионица ,и део села Вртиглав",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ad8d2feaf9d3",
       "utility": "electricity",
       "kind": "planned",
@@ -41,7 +23,7 @@
       ],
       "reason": null,
       "note": "Купци села Толић,Кључ, Санковић",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
