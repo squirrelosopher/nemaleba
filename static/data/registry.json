@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T08:11:00.334Z",
+  "generatedAt": "2026-11-25T09:11:00.139Z",
   "summary": {
     "date": "2026-11-25",
     "electricityOutages": 284,
-    "waterOutages": 14,
+    "waterOutages": 15,
     "affected": [
       {
         "id": "beograd",
@@ -330,6 +330,12 @@
         "waterOutages": 0
       },
       {
+        "id": "vranje",
+        "nameCyrillic": "Врање",
+        "electricityOutages": 0,
+        "waterOutages": 1
+      },
+      {
         "id": "dimitrovgrad",
         "nameCyrillic": "Димитровград",
         "electricityOutages": 1,
@@ -570,7 +576,7 @@
     {
       "date": "2026-11-25",
       "electricityOutages": 139,
-      "waterOutages": 13
+      "waterOutages": 14
     }
   ],
   "providers": [
