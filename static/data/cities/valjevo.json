@@ -93,6 +93,43 @@
       "reason": null,
       "note": "Због хаварије на цевоводу узрокованог радовима на постављању гасовода, без водоснабдевања су потрошачи у Новом насељу, најкасније до среде, 25.11.2026. године до 12 часова. \n \n \n Захваљујемо се грађанима на стрпљењу и разумевању.",
       "sourceUrl": "https://vodovodva.co.rs/24112026-3/"
+    },
+    {
+      "id": "9714b32f42c5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Купци дела села Г.Брезовице (брлог)"
+      ],
+      "reason": null,
+      "note": "Купци дела села Г.Брезовице (брлог)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "75e4f4bda37c",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Купци села Оглађеновац",
+        "Влашчић",
+        "Миличиница",
+        "и део г.Каменица"
+      ],
+      "reason": null,
+      "note": "Купци села Оглађеновац,Влашчић, Миличиница,и део г.Каменица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

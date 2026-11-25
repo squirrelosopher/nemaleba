@@ -5,7 +5,116 @@
     "nameLatin": "Čačak",
     "branchCyrillic": "Чачак"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "e0d61f871bbe",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Потрошачи у Ул.Ђорђа Томашевића од бр.32-50",
+        "155-25",
+        "151-5",
+        "22-14",
+        "бр.5",
+        "ул.18",
+        "Радише Живковић",
+        "Жарка Ђорђевића",
+        "ул.550",
+        "Димитрија Плазинић",
+        "ул.Црвене Армије."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Ул.Ђорђа Томашевића од бр.32-50,155-25,151-5,22-14,бр.5,ул.18,Радише Живковић,Жарка Ђорђевића,ул.550,Димитрија Плазинић,ул.Црвене Армије.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "ebf77607f421",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Потрошачи у Заблаћу",
+        "од ТС Вртић ка железничкој станици и око попове куће."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Заблаћу,од ТС Вртић ка железничкој станици и око попове куће.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "129b5a085da0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Потрошачи у Трбушанима",
+        "Ул.510",
+        "511ка Пријевору",
+        "Морави",
+        "Тоза концентрати",
+        "Ајдача алати."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Трбушанима,Ул.510,511ка Пријевору,Морави,Тоза концентрати,Ајдача алати.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "42bf93f5469a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Потрошачи у Љубићу.Ул.Будимира Милошевић",
+        "Часлава Павловић и Богољуба Остојић."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Љубићу.Ул.Будимира Милошевић,Часлава Павловић и Богољуба Остојић.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "647050f7c8af",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Потрошачи на Сувом Брегу",
+        "Ул.С.Јаковљевића до почетка ул.14",
+        "ул.3 од бр.4-15",
+        "Ул.С.Илића од бр.19-24",
+        "Шумадијине зграде",
+        "Петра Јовановић од 10-12",
+        "Миодрага Мићовић од 1-17."
+      ],
+      "reason": null,
+      "note": "Потрошачи на Сувом Брегу,Ул.С.Јаковљевића до почетка ул.14,ул.3 од бр.4-15,Ул.С.Илића од бр.19-24,Шумадијине зграде,Петра Јовановић од 10-12,Миодрага Мићовић од 1-17.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-27",

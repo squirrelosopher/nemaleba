@@ -5,7 +5,42 @@
     "nameLatin": "Kikinda",
     "branchCyrillic": "Зрењанин"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "499f6655f0e2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-26",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:15",
+        "end": "11:15"
+      },
+      "streets": [
+        "Кикинда: Сувачарска од Жарка Зрењанина до Ђуре Даничића, Ђуре Даничића од Сувачарске до Албертова."
+      ],
+      "reason": null,
+      "note": "Кикинда: Сувачарска од Жарка Зрењанина до Ђуре Даничића, Ђуре Даничића од Сувачарске до Албертова.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "6b72c0fd9f9d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:15",
+        "end": "11:15"
+      },
+      "streets": [
+        "Кикинда: Генерала Драпшина од Карађорђеве до Ивана Милутиновића"
+      ],
+      "reason": null,
+      "note": "Кикинда: Генерала Драпшина од Карађорђеве до Ивана Милутиновића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-27",

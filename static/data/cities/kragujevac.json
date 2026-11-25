@@ -994,6 +994,42 @@
       "reason": null,
       "note": "Бозман, Јовановац - Аксићи, Гај, Кула, Игралиште",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "f39432e6964d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Драгослава Срејовића - 55"
+      ],
+      "reason": null,
+      "note": "Драгослава Срејовића - 55",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "580a02167ce2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-28",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Драгослава Срејовића - 53",
+        "56",
+        "57"
+      ],
+      "reason": null,
+      "note": "Драгослава Срејовића - 53, 56, 57",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

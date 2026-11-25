@@ -122,23 +122,6 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     },
     {
-      "id": "5b6373f7113d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Лозница",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Варош Лешница улица Владимира Мићића"
-      ],
-      "reason": null,
-      "note": "Варош Лешница улица Владимира Мићића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
-    },
-    {
       "id": "184bf72da733",
       "utility": "electricity",
       "kind": "planned",
@@ -156,6 +139,23 @@
       ],
       "reason": null,
       "note": "Симино Брдо, Филиповићи, Кик, Бања Бадања 1 и 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "5b6373f7113d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Лозница",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Варош Лешница улица Владимира Мићића"
+      ],
+      "reason": null,
+      "note": "Варош Лешница улица Владимира Мићића",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
