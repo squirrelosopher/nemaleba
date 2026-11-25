@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T12:11:01.772Z",
+  "generatedAt": "2026-11-25T12:47:05.992Z",
   "summary": {
     "date": "2026-11-25",
     "electricityOutages": 284,
-    "waterOutages": 26,
+    "waterOutages": 25,
     "affected": [
       {
         "id": "beograd",
@@ -270,12 +270,6 @@
         "waterOutages": 0
       },
       {
-        "id": "leskovac",
-        "nameCyrillic": "Лесковац",
-        "electricityOutages": 1,
-        "waterOutages": 1
-      },
-      {
         "id": "ljubovija",
         "nameCyrillic": "Љубовија",
         "electricityOutages": 2,
@@ -368,6 +362,12 @@
       {
         "id": "kovacica",
         "nameCyrillic": "Ковачица",
+        "electricityOutages": 1,
+        "waterOutages": 0
+      },
+      {
+        "id": "leskovac",
+        "nameCyrillic": "Лесковац",
         "electricityOutages": 1,
         "waterOutages": 0
       },
@@ -576,7 +576,7 @@
     {
       "date": "2026-11-25",
       "electricityOutages": 139,
-      "waterOutages": 25
+      "waterOutages": 24
     }
   ],
   "providers": [
