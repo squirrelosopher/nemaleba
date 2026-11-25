@@ -57,7 +57,7 @@
       ],
       "reason": null,
       "note": "Аранђеловац, Насеље: Даросава ( засеок Школа ).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "876a415037c6",
@@ -80,6 +80,57 @@
       ],
       "reason": null,
       "note": "Николе Вујачића 15-19, 32, 34, 34 А, 36, Дула Караклајића 45, Вељка Влаховића 4-16.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c719812754ae",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Насеље Лесковац (засеок Црква)."
+      ],
+      "reason": null,
+      "note": "Насеље Лесковац (засеок Црква).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "4e125d41a23b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Насељено место Соколово (засеок Центар)."
+      ],
+      "reason": null,
+      "note": "Насељено место Соколово (засеок Центар).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "31b0832d1cfc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насеље Шушњар: део улице Војводе Путника 32-52,45-75, Марка Тајчевића,Ђуре Даничића,Стефана Првовенчаног, Јелисавете Начић,Церови (засеок Шушњар 1)."
+      ],
+      "reason": null,
+      "note": "Насеље Шушњар: део улице Војводе Путника 32-52,45-75, Марка Тајчевића,Ђуре Даничића,Стефана Првовенчаног, Јелисавете Начић,Церови (засеок Шушњар 1).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],

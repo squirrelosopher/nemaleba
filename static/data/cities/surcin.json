@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "9a2f4e91abbe",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Сурчин",
-      "time": {
-        "start": "08:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Насеље ЈАКОВО: ВОЖДА КАРАЂОРЂА: 92-108"
-      ],
-      "reason": null,
-      "note": "Насеље ЈАКОВО: ВОЖДА КАРАЂОРЂА: 92-108,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "ddc6dd03dbd6",
       "utility": "electricity",
       "kind": "planned",
@@ -58,21 +41,21 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "eec6bc6c1603",
+      "id": "b29aef0c83d3",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-26",
+      "date": "2026-11-25",
       "areaLabel": "Сурчин",
       "time": {
-        "start": "09:00",
-        "end": "11:30"
+        "start": "11:00",
+        "end": "13:00"
       },
       "streets": [
-        "Насеље СУРЧИН: БРАЋЕ КОЛЕШАН: 6,3, ДУБРОВАЧКА: 1-21,25-55, ОБИЛИЋЕВ ВЕНАЦ: 2-4,8-18,22-22А,26-26А,30-36,1-1А, ОРАЧКА: 2-2А,6-30Б,40,48-60А,1-39, ВОЈВОЂАНСКА: 114-118,122-138,142,99-111,115-119,123"
+        "Насеље ЈАКОВО: ВОЖДА КАРАЂОРЂА: 92-108"
       ],
       "reason": null,
-      "note": "Насеље СУРЧИН: БРАЋЕ КОЛЕШАН: 6,3, ДУБРОВАЧКА: 1-21,25-55, ОБИЛИЋЕВ ВЕНАЦ: 2-4,8-18,22-22А,26-26А,30-36,1-1А, ОРАЧКА: 2-2А,6-30Б,40,48-60А,1-39, ВОЈВОЂАНСКА: 114-118,122-138,142,99-111,115-119,123,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "note": "Насеље ЈАКОВО: ВОЖДА КАРАЂОРЂА: 92-108,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

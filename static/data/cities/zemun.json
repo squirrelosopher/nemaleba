@@ -41,14 +41,14 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "83b9a3060ab0",
+      "id": "79e30a9ce8ea",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-11-25",
       "areaLabel": "Земун",
       "time": {
-        "start": "10:00",
-        "end": "11:30"
+        "start": "13:00",
+        "end": "15:00"
       },
       "streets": [
         "Насеље БАТАЈНИЦА: ШИРОКИ ПУТ: бб"
@@ -72,6 +72,23 @@
       ],
       "reason": null,
       "note": "ЦАРА ДУШАНА: 222-224,228-230А,254-264А,173-201, ФИЛИПА ВИШЊИЋА: 2, КАРЛОВАЧКА: 4-16,1-15, ПРЕГРЕВИЦА : 178В,191-193а, ПРИЗРЕНСКА: 22,26-42В/2,48-54,29-39, СКОПЉАНСКА: 2, ШУМАДИЈСКА: ББ,6,16,22-36,5-21,39-39,47-49, ЗАДУЖБИНСКА: 3-17,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "27468ae30c90",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "08:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "АУТОПУТ ЗА НОВИ САД: 2А-2в,1-1А, УГРИНОВАЧКА: 210Б-212В/3, Насеље АЛТИНА: ДОБАНОВАЧКИ ПУТ: 18А, ХЕМИНГВЕЈЕВА : 1Б-1В, РАТАРСКИ ПУТ: 2-26,36,1-25А,31-37Б, УГРИНОВАЧКИ ПУТ: 3А"
+      ],
+      "reason": null,
+      "note": "АУТОПУТ ЗА НОВИ САД: 2А-2в,1-1А, УГРИНОВАЧКА: 210Б-212В/3, Насеље АЛТИНА: ДОБАНОВАЧКИ ПУТ: 18А, ХЕМИНГВЕЈЕВА : 1Б-1В, РАТАРСКИ ПУТ: 2-26,36,1-25А,31-37Б, УГРИНОВАЧКИ ПУТ: 3А,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
     }
   ],
