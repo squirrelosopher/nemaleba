@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-26T05:11:22.448Z",
+  "generatedAt": "2026-11-26T06:11:04.867Z",
   "summary": {
     "date": "2026-11-26",
     "electricityOutages": 196,
-    "waterOutages": 1,
+    "waterOutages": 10,
     "affected": [
       {
         "id": "beograd",
@@ -18,15 +18,15 @@
         "waterOutages": 0
       },
       {
-        "id": "novi-sad",
-        "nameCyrillic": "Нови Сад",
-        "electricityOutages": 12,
-        "waterOutages": 0
-      },
-      {
         "id": "kragujevac",
         "nameCyrillic": "Крагујевац",
         "electricityOutages": 8,
+        "waterOutages": 9
+      },
+      {
+        "id": "novi-sad",
+        "nameCyrillic": "Нови Сад",
+        "electricityOutages": 12,
         "waterOutages": 0
       },
       {
@@ -480,7 +480,7 @@
     {
       "date": "2026-11-26",
       "electricityOutages": 102,
-      "waterOutages": 0
+      "waterOutages": 9
     }
   ],
   "providers": [
