@@ -81,6 +81,21 @@
       "reason": null,
       "note": "Купци села Оглађеновац,Влашчић, Миличиница,и део г.Каменица",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "0b88e5d21436",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-26",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "Ваљево, 26.11.2026. – Због квара на водоводној мрежи, данас, у периоду од 8:30 до 15 часова, без водоснабдевања ће бити потрошачи у Новом насељу и Доњограбовачкој улици. Захваљујемо се потрошачима на стрпљењу и разумевању.",
+      "sourceUrl": "https://vodovodva.co.rs/26112026-2/"
     }
   ],
   "history": [
@@ -232,7 +247,7 @@
     {
       "date": "2026-11-26",
       "electricityOutages": 2,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
