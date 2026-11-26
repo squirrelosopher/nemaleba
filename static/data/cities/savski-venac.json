@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "e4c77e4a1174",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-26",
-      "areaLabel": "Савски венац",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "АУГУСТА ЦЕСАРЦА: 14А,27-27В, ВАЈАРА Ђ ЈОВАНОВИЋА: 36,40-40А,25-33"
-      ],
-      "reason": null,
-      "note": "АУГУСТА ЦЕСАРЦА: 14А,27-27В, ВАЈАРА Ђ ЈОВАНОВИЋА: 36,40-40А,25-33,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "911a451598c7",
       "utility": "electricity",
       "kind": "planned",
@@ -189,7 +172,7 @@
     },
     {
       "date": "2026-11-26",
-      "electricityOutages": 2,
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

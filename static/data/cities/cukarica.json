@@ -5,25 +5,7 @@
     "nameLatin": "Čukarica",
     "branchCyrillic": "Београд"
   },
-  "outages": [
-    {
-      "id": "c556deb86a71",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Чукарица",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "КНЕЗА ВИШЕСЛАВА: бб"
-      ],
-      "reason": null,
-      "note": "КНЕЗА ВИШЕСЛАВА: бб,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-28",
