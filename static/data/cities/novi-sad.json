@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "b72102ea8752",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-18",
-      "areaLabel": "Нови Сад",
-      "time": {
-        "start": null,
-        "end": "13:00"
-      },
-      "streets": [
-        "Улица Мише Димитријевића"
-      ],
-      "reason": null,
-      "note": "Због радова на санацији хаварије без воде ће до 13 сати бити Улица Мише Димитријевића.",
-      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/servisne-informaci%d1%98e-za-18-11-2026/"
-    },
-    {
       "id": "a4f077b4033c",
       "utility": "water",
       "kind": "emergency",
@@ -515,11 +498,6 @@
   ],
   "history": [
     {
-      "date": "2026-10-27",
-      "electricityOutages": 9,
-      "waterOutages": 1
-    },
-    {
       "date": "2026-10-28",
       "electricityOutages": 4,
       "waterOutages": 1
@@ -663,6 +641,11 @@
       "date": "2026-11-25",
       "electricityOutages": 5,
       "waterOutages": 1
+    },
+    {
+      "date": "2026-11-26",
+      "electricityOutages": 4,
+      "waterOutages": 0
     }
   ]
 }
