@@ -113,6 +113,67 @@
       "reason": null,
       "note": "Потрошачи на Сувом Брегу,Ул.С.Јаковљевића до почетка ул.14,ул.3 од бр.4-15,Ул.С.Илића од бр.19-24,Шумадијине зграде,Петра Јовановић од 10-12,Миодрага Мићовић од 1-17.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "83b9dca10c88",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "09:00",
+        "end": "10:30"
+      },
+      "streets": [
+        "Потрошачи у ул.Булевар Б.Караџића 41-43",
+        "45-47",
+        "51-53",
+        "ул. Стоје Тошић 14-24",
+        "Прехрамбена школа",
+        "НИС бенз. пумпа на кружном путу."
+      ],
+      "reason": null,
+      "note": "Потрошачи у ул.Булевар Б.Караџића 41-43, 45-47, 51-53, ул. Стоје Тошић 14-24, Прехрамбена школа, НИС бенз. пумпа на кружном путу.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "7f5d5172cd96",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "10:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Потрошачи у ул. Булевар В.Караџића 92-108",
+        "ул. 217 18-20 и 2-25",
+        "Милутина Вујовића 23-51",
+        "Чачански батаљон 35-39",
+        "Браће Петровић 6-27",
+        "Милутина Вујовића 1-25."
+      ],
+      "reason": null,
+      "note": "Потрошачи у ул. Булевар В.Караџића 92-108, ул. 217 18-20 и 2-25, Милутина Вујовића 23-51, Чачански батаљон 35-39, Браће Петровић 6-27, Милутина Вујовића 1-25.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "4e7783e2cb89",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "12:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Потрошачи у ул. Пиварској и Градском шеталишту од Поште до хотела Београд (обе стране улице)"
+      ],
+      "reason": null,
+      "note": "Потрошачи у ул. Пиварској и Градском шеталишту од Поште до хотела Београд (обе стране улице)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

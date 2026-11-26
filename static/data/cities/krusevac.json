@@ -5,7 +5,127 @@
     "nameLatin": "Kruševac",
     "branchCyrillic": "Крушевац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "fdc96d831d20",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насељено место Ћелије"
+      ],
+      "reason": null,
+      "note": "Насељено место Ћелије",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "f3568bf57f7a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део насељеног места Станци"
+      ],
+      "reason": null,
+      "note": "Део насељеног места Станци",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "1b25eca92dfb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део насељеног места Мали Купци"
+      ],
+      "reason": null,
+      "note": "Део насељеног места Мали Купци",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "08028c7caee0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насељено место Срндаље"
+      ],
+      "reason": null,
+      "note": "Насељено место Срндаље",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "d8348f72ea8e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Део улице Косовске Битке"
+      ],
+      "reason": null,
+      "note": "Део улице Косовске Битке",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "a41a8eaefea0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "10:30",
+        "end": "11:30"
+      },
+      "streets": [
+        "Део насељеног места Велико Головоде"
+      ],
+      "reason": null,
+      "note": "Део насељеног места Велико Головоде",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "69ac3ad4ffb5",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Крушевац",
+      "time": {
+        "start": "12:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "Део излетишта Јастребац"
+      ],
+      "reason": null,
+      "note": "Део излетишта Јастребац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-28",

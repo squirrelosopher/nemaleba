@@ -876,14 +876,14 @@
       "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-223/"
     },
     {
-      "id": "bab53a40cac3",
+      "id": "862fd4af518a",
       "utility": "electricity",
       "kind": "planned",
       "date": "2026-11-27",
       "areaLabel": "Медијана",
       "time": {
         "start": "08:00",
-        "end": "18:00"
+        "end": "15:00"
       },
       "streets": [
         "делови улице Генерала Транијеа (1-18)",
@@ -934,6 +934,23 @@
       ],
       "reason": null,
       "note": "део Стружишта;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "386101ef2fa2",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Пантелеј",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "део Горњег Матејевца;"
+      ],
+      "reason": null,
+      "note": "део Горњег Матејевца;",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
     },
     {
