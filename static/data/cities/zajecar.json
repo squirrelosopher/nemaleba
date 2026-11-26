@@ -5,25 +5,7 @@
     "nameLatin": "Zaječar",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "2ace06a5502c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "10:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Село Планиница"
-      ],
-      "reason": null,
-      "note": "Село Планиница",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-28",

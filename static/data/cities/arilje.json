@@ -5,25 +5,7 @@
     "nameLatin": "Arilje",
     "branchCyrillic": "Ужице"
   },
-  "outages": [
-    {
-      "id": "ae40e20d943a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Ариље",
-      "time": {
-        "start": "08:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Село: Миросаљци Засеок: Сретеновићи"
-      ],
-      "reason": null,
-      "note": "Село: Миросаљци Засеок: Сретеновићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-28",

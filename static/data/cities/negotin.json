@@ -7,53 +7,6 @@
   },
   "outages": [
     {
-      "id": "cc128a2f4c3b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Неготин",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Село Уровица",
-        "Обршје"
-      ],
-      "reason": null,
-      "note": "Село Уровица, Обршје",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "66ef9a118309",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Неготин",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље Фазанерија",
-        "Вода Бадњево",
-        "Енолошка станица",
-        "Буково школа",
-        "Винарија Матаљ",
-        "Ванчина чесма",
-        "Каменац",
-        "Релеј-Буково",
-        "Златно брдо",
-        "Чубра",
-        "Карбулово",
-        "Војна Карбулово",
-        "Викенд насеље Брестовац"
-      ],
-      "reason": null,
-      "note": "Насеље Фазанерија, Вода Бадњево, Енолошка станица, Буково школа, Винарија Матаљ, Ванчина чесма, Каменац, Релеј-Буково, Златно брдо, Чубра, Карбулово, Војна Карбулово, Викенд насеље Брестовац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "4ebebb037f24",
       "utility": "electricity",
       "kind": "planned",
@@ -71,7 +24,7 @@
       ],
       "reason": null,
       "note": "Неготин насеље Зелена пијаца, Занатски центар, Добропољска 5, Др. Нешића зграде комунала.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

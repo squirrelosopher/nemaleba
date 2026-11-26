@@ -7,60 +7,6 @@
   },
   "outages": [
     {
-      "id": "33beb1684da0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ ПОТРИШАЧИ У ДРУГОМ ДЕЛУ ВИКЕНД НАСЕЉА НА САВИ И ЦРПНА СТАНИЦА ШИРОКА БАРА И ДРЕНОВАЦ"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРИШАЧИ У ДРУГОМ ДЕЛУ ВИКЕНД НАСЕЉА НА САВИ И ЦРПНА СТАНИЦА ШИРОКА БАРА И ДРЕНОВАЦ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d08bd059df8c",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ У МАЈУРУ У УЛ. Први део Цара Лазара до центра и део Андрије Матрића",
-        "Школска и први део ул. Солунска сокака",
-        "део ул. Андрије Марића",
-        "Школска и први део ул Солунска"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ У МАЈУРУ У УЛ. Први део Цара Лазара до центра и део Андрије Матрића,Школска и први део ул. Солунска сокака,део ул. Андрије Марића, Школска и први део ул Солунска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5de0076caab4",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Шабац",
-      "time": {
-        "start": "09:30",
-        "end": "15:00"
-      },
-      "streets": [
-        "БЕЗ НАПОНА ОСТАЈУ у делу села Букор-мала Буровица"
-      ],
-      "reason": null,
-      "note": "БЕЗ НАПОНА ОСТАЈУ у делу села Букор-мала Буровица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "3e63d2c642fa",
       "utility": "electricity",
       "kind": "planned",
@@ -76,7 +22,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈЕ у Поцерском Причиновићу први део ул. М.П.Аласа од ТС до ул.Петра Лазића,В.Ђоровића и Ф. Вишњића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "e4016f93bb3e",
@@ -93,7 +39,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈЕ викенд насеље у Добрићу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "a16fc875ee76",
@@ -110,7 +56,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈЕ у Криваји мала Росуља",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "6bbcda719415",
@@ -128,7 +74,7 @@
       ],
       "reason": null,
       "note": "БЕЗ НАПОНА ОСТАЈУ ПОТРОШАЧИ ВИКЕНД НАСЕЉА НА САВИ, ЈУГОКОП И ЦС ШИРОКА БАРА И ДРЕНОВАЦ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -7,92 +7,6 @@
   },
   "outages": [
     {
-      "id": "60bcbc071097",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Млин у Ратини и потрошачи око њега."
-      ],
-      "reason": null,
-      "note": "Млин у Ратини и потрошачи око њега.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "60b1a6e926be",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Милаковац код старог Дома."
-      ],
-      "reason": null,
-      "note": "Милаковац код старог Дома.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "b5d02241eca3",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Насеље поред пута",
-        "реке и према старом Селу. У Гледић Коленац и насеље поред реке."
-      ],
-      "reason": null,
-      "note": "Насеље поред пута, реке и према старом Селу. У Гледић Коленац и насеље поред реке.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "6a4ebf6dec79",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "08:00",
-        "end": "11:30"
-      },
-      "streets": [
-        "Милаковац код Репетитора."
-      ],
-      "reason": null,
-      "note": "Милаковац код Репетитора.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "40b59b998009",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-25",
-      "areaLabel": "Краљево",
-      "time": {
-        "start": "10:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Каменица према Репетитору."
-      ],
-      "reason": null,
-      "note": "Каменица према Репетитору.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "111d045babd2",
       "utility": "electricity",
       "kind": "planned",
@@ -107,7 +21,7 @@
       ],
       "reason": null,
       "note": "У Годачици старо Село. У Буковици. Гледић Јабланица. У Самаилима Бели Дудови.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
