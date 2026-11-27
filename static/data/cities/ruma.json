@@ -21,6 +21,20 @@
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-vrdnik-71/"
     },
     {
+      "id": "0f7de7e934df",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "areaLabel": "Рума",
+      "time": null,
+      "streets": [
+        "ЈНА"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у улици ЈНА у Руми.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-ruma-92/"
+    },
+    {
       "id": "89d06abac252",
       "utility": "electricity",
       "kind": "planned",
@@ -187,7 +201,7 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

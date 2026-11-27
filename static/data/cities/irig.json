@@ -21,6 +21,20 @@
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-46/"
     },
     {
+      "id": "8c6f38df38e8",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "areaLabel": "Ириг",
+      "time": null,
+      "streets": [
+        "Змај Јовиној улици"
+      ],
+      "reason": null,
+      "note": "Тренутно је у току санација квара на водоводној мрежи у Змај Јовиној улици у Иригу.",
+      "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-47/"
+    },
+    {
       "id": "91a995d77969",
       "utility": "electricity",
       "kind": "planned",
@@ -238,7 +252,7 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

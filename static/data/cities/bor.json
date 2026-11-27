@@ -50,6 +50,20 @@
       "reason": "Санација кварова на водоводној мрежи",
       "note": "Злот Кварови на мерним местима – у шахтама",
       "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-26-11-2026-god/"
+    },
+    {
+      "id": "0bb12ef444d9",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "areaLabel": "Бор",
+      "time": null,
+      "streets": [
+        "Савача"
+      ],
+      "reason": "Санација кварова на водоводној мрежи",
+      "note": "Савача Кварови на мерним местима – у шахтама",
+      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-petak-27-11-2026-god/"
     }
   ],
   "history": [
@@ -201,7 +215,7 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 0,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }
