@@ -1,7 +1,8 @@
 import type { RawOutage } from '../../src/lib/domain/outage';
 import { OutageKind, Utility } from '../../src/lib/domain/utility';
 import { collapseWhitespace, stripTags } from './html';
-import { isoDateIn, splitStreetList, timeWindowIn } from './waterInterruption';
+import { announcedDays, onEachDay } from './dates';
+import { splitStreetList, timeWindowIn } from './waterInterruption';
 
 const CITY = 'Горњи Милановац';
 const SERVICE_TITLE = /Сервисне\s+информације\s+за/i;
@@ -40,7 +41,7 @@ export function parseGornjiMilanovacReport(
   }
 
   const section = waterSection(collapseWhitespace(stripTags(content).replace(/\s+/g, ' ')));
-  const date = isoDateIn(heading) ?? postedAt.slice(0, 10);
+  const days = announcedDays([heading], postedAt);
 
   return section
     .split(SENTENCE_BREAK)
@@ -53,7 +54,6 @@ export function parseGornjiMilanovacReport(
       return {
         utility: Utility.Water,
         kind: OutageKind.Emergency,
-        date,
         cityNameCyrillic: CITY,
         branchCyrillic: CITY,
         areaLabel: CITY,
@@ -64,5 +64,6 @@ export function parseGornjiMilanovacReport(
         sourceUrl
       };
     })
-    .filter((outage) => outage.streets.length > 0);
+    .filter((outage) => outage.streets.length > 0)
+    .flatMap((outage) => onEachDay(days, outage));
 }

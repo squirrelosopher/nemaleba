@@ -1,5 +1,6 @@
 import type { RawOutage, TimeWindow } from '../../src/lib/domain/outage';
 import { OutageKind, Utility } from '../../src/lib/domain/utility';
+import { announcedDays, clock, onEachDay } from './dates';
 import { collapseWhitespace, decodeEntities, stripTags } from './html';
 
 const MAX_STREET_LENGTH = 95;
@@ -9,7 +10,10 @@ const SENTENCE_BREAK = /(?<!\d)\.\s+/;
 const WITHOUT_WATER = /без\s+воде/i;
 const RESOLVED = /нормализовано|нормализован/i;
 
-const FROM_UNTIL = /(?:од|у времену од)\s+(\d{1,2})(?:[:.](\d{2}))?\s*(?:до|-)\s*(\d{1,2})(?:[:.](\d{2}))?/i;
+// "од 12 до 30" is as likely a run of house numbers as a time, so a range counts only when
+// it carries minutes or an hour word.
+const FROM_UNTIL =
+  /(?:од|у времену од)\s+(\d{1,2})(?:[:.](\d{2}))?\s*(?:до|-)\s*(\d{1,2})(?:[:.](\d{2}))?(\s*(?:часова|часа|сати|ч)(?!\p{L}))?/iu;
 const FROM = /(?:^|\s)од\s+(\d{1,2})(?:[:.](\d{2}))?\s*(?:часова|сати)/i;
 const UNTIL = /(?:^|\s)до\s+(\d{1,2})(?:[:.](\d{2}))?\s*(?:часова|сати)/i;
 const AT = /(?:^|\s)у\s+(\d{1,2})(?:[:.](\d{2}))?\s*(?:часа|часова|сати)/i;
@@ -24,34 +28,26 @@ const STREET_LIST = /улицама\s*:\s*(.+)$/i;
 // Fragments that are never a street name.
 const NOT_A_STREET = /без\s+воде|водоснабдев|напајањ|електрич|потрошач|корисни/i;
 
-function pad(value: string | undefined): string {
-  return (value ?? '00').padStart(2, '0');
-}
-
 function timeOf(sentence: string): TimeWindow | null {
   const range = sentence.match(FROM_UNTIL);
 
-  if (range) {
-    const start = `${pad(range[1])}:${pad(range[2])}`;
-    const end = `${pad(range[3])}:${pad(range[4])}`;
-    return { start, end };
+  if (range && (range[2] ?? range[4] ?? range[5]) !== undefined) {
+    const start = clock(range[1], range[2]);
+    const end = clock(range[3], range[4]);
+    return start && end ? { start, end } : null;
   }
 
   const until = sentence.match(UNTIL);
+  const untilClock = until && clock(until[1], until[2]);
 
-  if (until) {
-    const end = `${pad(until[1])}:${pad(until[2])}`;
-    return { start: null, end };
+  if (untilClock) {
+    return { start: null, end: untilClock };
   }
 
   const from = sentence.match(FROM) ?? sentence.match(AT);
+  const fromClock = from && clock(from[1], from[2]);
 
-  if (from) {
-    const start = `${pad(from[1])}:${pad(from[2])}`;
-    return { start, end: null };
-  }
-
-  return null;
+  return fromClock ? { start: fromClock, end: null } : null;
 }
 
 function splitStreets(text: string): string[] {
@@ -69,11 +65,13 @@ export interface ProseOptions {
   /** Settlement names appear in the locative; map the ones worth showing as labels. */
   nominative?: Record<string, string>;
   kind?: OutageKind;
+  /** A day the source read outside the body (Pančevo's title); it wins over the prose. */
+  statedDate?: string;
 }
 
 export function parseWaterProse(
   content: string,
-  date: string,
+  postedAt: string,
   sourceUrl: string,
   options: ProseOptions
 ): RawOutage[] {
@@ -86,7 +84,7 @@ export function parseWaterProse(
   return body
     .split(SENTENCE_BREAK)
     .filter((sentence) => WITHOUT_WATER.test(sentence))
-    .map((raw) => {
+    .flatMap((raw) => {
       const sentence = `${raw.trim().replace(/\.$/, '')}.`;
       const tail = (
         sentence.match(STREET_LIST)?.[1] ??
@@ -101,10 +99,16 @@ export function parseWaterProse(
       const area = inflected ? options.nominative?.[inflected] ?? inflected : undefined;
       const streets = located.replace(IN_AREA, '').trim();
 
-      return {
+      // The sentence that says who is left without water usually names the day too
+      // ("у петак, 21. августа 2026. године, ... без воде"); the rest of the post is the
+      // next place to look.
+      const days = options.statedDate
+        ? { dates: [options.statedDate] }
+        : announcedDays([sentence, body], postedAt);
+
+      return onEachDay(days, {
         utility: Utility.Water,
         kind: options.kind ?? OutageKind.Emergency,
-        date,
         cityNameCyrillic: options.city,
         branchCyrillic: options.city,
         areaLabel: area && area.length <= MAX_STREET_LENGTH ? area : options.city,
@@ -113,7 +117,7 @@ export function parseWaterProse(
         reason: null,
         note: sentence,
         sourceUrl
-      };
+      });
     })
     .filter((outage) => outage.streets.length > 0 || outage.time !== null);
 }

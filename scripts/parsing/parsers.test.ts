@@ -217,14 +217,13 @@ const CASES: Case[] = [
     name: 'Водовод Пожаревац',
     parse: () => parsePozarevacNotices(text('pozarevac.html'), 'https://vodovod012.rs/vesti')
   },
-  // Both take the published date, where the sources differ only in where they read it
-  // from: Pančevo prefers the one in its own title. Which of the two arrives changes
-  // nothing the prose parser does with it.
+  // Pančevo also reads a date from its own title and hands it over as `statedDate`; the
+  // fixture case leaves it out, so both run the prose parser's own reading of the day.
   {
     name: 'Водовод Сремска Митровица',
     parse: () =>
       eachPost('sremska-mitrovica.json', (post) =>
-        parseWaterProse(post.content.rendered, post.date.slice(0, 10), post.link, {
+        parseWaterProse(post.content.rendered, post.date, post.link, {
           city: 'Сремска Митровица',
           nominative: NOMINATIVE
         })
@@ -234,7 +233,7 @@ const CASES: Case[] = [
     name: 'Водовод Панчево',
     parse: () =>
       eachPost('pancevo.json', (post) =>
-        parseWaterProse(post.content.rendered, post.date.slice(0, 10), post.link, {
+        parseWaterProse(post.content.rendered, post.date, post.link, {
           city: 'Панчево',
           nominative: NOMINATIVE
         })

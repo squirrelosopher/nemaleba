@@ -1,16 +1,19 @@
 import type { RawOutage, TimeWindow } from '../../src/lib/domain/outage';
 import { OutageKind, Utility } from '../../src/lib/domain/utility';
+import { announcedDays, clock, onEachDay } from './dates';
 import { collapseWhitespace, decodeEntities, stripTags } from './html';
 
 const CITY = 'Нови Сад';
 const MAX_STREET_LENGTH = 90;
 
-const TITLE_DATE = /(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})/;
 // Split on a full stop that is not part of a date or numbered street ("23. октобра").
 const SENTENCE_BREAK = /(?<!\d)\.\s+/;
 const WITHOUT_WATER = /без\s+воде/i;
 const UNTIL = /до\s+(\d{1,2})(?:[:.](\d{2}))?\s*(?:сати|часова|ч)/i;
-const FROM_UNTIL = /од\s+(\d{1,2})(?:[:.](\d{2}))?\s*(?:до)\s*(\d{1,2})(?:[:.](\d{2}))?/i;
+// "од 12 до 30" is as likely a run of house numbers as a time, so a range counts only when
+// it carries minutes or an hour word.
+const FROM_UNTIL =
+  /од\s+(\d{1,2})(?:[:.](\d{2}))?\s*(?:до)\s*(\d{1,2})(?:[:.](\d{2}))?(\s*(?:сати|часова|часа|ч)(?!\p{L}))?/iu;
 const AFTER_VERB = /бити\s+(.+?)\s*$/i;
 const IN_AREA = /\s+у\s+([\p{Lu}][\p{L}\s]+)$/u;
 
@@ -34,27 +37,19 @@ const NOMINATIVE: Record<string, string> = {
   Сремској: 'Сремска Каменица'
 };
 
-function pad(value: string | undefined): string {
-  return (value ?? '00').padStart(2, '0');
-}
-
 function timeOf(sentence: string): TimeWindow | null {
   const range = sentence.match(FROM_UNTIL);
 
-  if (range) {
-    const start = `${pad(range[1])}:${pad(range[2])}`;
-    const end = `${pad(range[3])}:${pad(range[4])}`;
-    return { start, end };
+  if (range && (range[2] ?? range[4] ?? range[5]) !== undefined) {
+    const start = clock(range[1], range[2]);
+    const end = clock(range[3], range[4]);
+    return start && end ? { start, end } : null;
   }
 
   const until = sentence.match(UNTIL);
+  const untilClock = until && clock(until[1], until[2]);
 
-  if (until) {
-    const end = `${pad(until[1])}:${pad(until[2])}`;
-    return { start: null, end };
-  }
-
-  return null;
+  return untilClock ? { start: null, end: untilClock } : null;
 }
 
 export function parseNoviSadAnnouncement(
@@ -66,25 +61,21 @@ export function parseNoviSadAnnouncement(
   const heading = collapseWhitespace(decodeEntities(stripTags(title)));
   const body = collapseWhitespace(decodeEntities(stripTags(content)));
 
-  const titleDate = heading.match(TITLE_DATE);
-  const date = titleDate
-    ? `${titleDate[3]}-${titleDate[2].padStart(2, '0')}-${titleDate[1].padStart(2, '0')}`
-    : published.slice(0, 10);
+  const days = announcedDays([heading], published);
 
   return body
     .split(SENTENCE_BREAK)
     .filter((sentence) => WITHOUT_WATER.test(sentence))
-    .map((raw) => {
+    .flatMap((raw) => {
     const sentence = `${raw.trim().replace(/\.$/, '')}.`;
     const tail = sentence.match(AFTER_VERB)?.[1]?.replace(/\.$/, '').trim() ?? '';
     const inflected = tail.match(IN_AREA)?.[1]?.trim();
     const area = inflected ? NOMINATIVE[inflected] ?? inflected : undefined;
     const street = inflected ? tail.replace(IN_AREA, '').trim() : tail;
 
-    return {
+    return onEachDay(days, {
       utility: Utility.Water,
       kind: OutageKind.Emergency,
-      date,
       cityNameCyrillic: CITY,
       branchCyrillic: CITY,
       areaLabel: area && area.length <= MAX_STREET_LENGTH ? area : CITY,
@@ -93,6 +84,6 @@ export function parseNoviSadAnnouncement(
       reason: null,
       note: sentence,
       sourceUrl
-    };
+    });
   });
 }

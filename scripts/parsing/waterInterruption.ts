@@ -1,6 +1,6 @@
 import type { TimeWindow } from '../../src/lib/domain/outage';
+import { clock } from './dates';
 
-const EXPLICIT_DATE = /(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})/;
 const RANGE = /(?:у\s+периоду\s*)?(?:од\s*)?(\d{1,2})(?:[:.](\d{2}))?\s*(?:часова\s*)?(?:до|-|–|—)\s*(\d{1,2})(?:[:.](\d{2}))?\s*(?:часова|сати|часа|час)/i;
 const UNTIL = /(?<!\p{L})до\s+(\d{1,2})(?:[:.](\d{2}))?\s*(?:часова|сати|часа|час)/iu;
 const FROM = /(?<!\p{L})од\s+(\d{1,2})(?:[:.](\d{2}))?\s*(?:часова|сати|часа|час)/iu;
@@ -11,46 +11,28 @@ const STREET_PREFIX = /^(?:улицама|улици|улиц[аеиу]|ул\.?)
 const NOT_A_STREET = /без\s+вод|водоснабдев|потрошач|корисни|стрпљењ|радниц/i;
 const MAX_STREET_LENGTH = 95;
 
-function pad(value: string | undefined): string {
-  return (value ?? '00').padStart(2, '0');
-}
-
-export function isoDateIn(text: string): string | null {
-  const found = text.match(EXPLICIT_DATE);
-
-  if (!found) {
-    return null;
-  }
-
-  const [, day, month, year] = found;
-
-  return `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`;
-}
-
 export function timeWindowIn(text: string): TimeWindow | null {
   const range = text.match(RANGE);
 
+  // A range whose numbers no clock shows ("од 10.75 до 12") is unreadable as a whole; its
+  // "до 12" is not a closing time to fall back on.
   if (range) {
-    const start = `${pad(range[1])}:${pad(range[2])}`;
-    const end = `${pad(range[3])}:${pad(range[4])}`;
-    return { start, end };
+    const start = clock(range[1], range[2]);
+    const end = clock(range[3], range[4]);
+    return start && end ? { start, end } : null;
   }
 
   const until = text.match(UNTIL);
+  const untilClock = until && clock(until[1], until[2]);
 
-  if (until) {
-    const end = `${pad(until[1])}:${pad(until[2])}`;
-    return { start: null, end };
+  if (untilClock) {
+    return { start: null, end: untilClock };
   }
 
   const from = text.match(FROM);
+  const fromClock = from && clock(from[1], from[2]);
 
-  if (from) {
-    const start = `${pad(from[1])}:${pad(from[2])}`;
-    return { start, end: null };
-  }
-
-  return null;
+  return fromClock ? { start: fromClock, end: null } : null;
 }
 
 export function splitStreetList(text: string): string[] {

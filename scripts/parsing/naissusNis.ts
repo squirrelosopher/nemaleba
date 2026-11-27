@@ -1,8 +1,8 @@
 import type { RawOutage, TimeWindow } from '../../src/lib/domain/outage';
 import { OutageKind, Utility } from '../../src/lib/domain/utility';
+import { clock, dateFromPhrase, onEachDay, postingDay } from './dates';
 import { collapseWhitespace, decodeEntities, stripTags } from './html';
 import { municipalitiesOf } from '../registry/cityRollup';
-import { dateFromPhrase } from './serbianMonths';
 
 const CITY = 'Ниш';
 const OWN_MUNICIPALITIES = new Set(municipalitiesOf(CITY));
@@ -28,10 +28,6 @@ const UNTIL = /до\s+(\d{1,2})(?:[:.](\d{2}))?\s*(?:часова|сати|ч)/i
 const SINGLE_STREET = /у\s+улици\s+([^,.]+)/i;
 const MANY_STREETS = /у\s+улицама\s+(.+?)(?=,\s*(?:као|али|уз|при)\s|\.|$)/i;
 
-function pad(value: string | undefined): string {
-  return (value ?? '00').padStart(2, '0');
-}
-
 function titleCase(text: string): string {
   return text
     .toLocaleLowerCase('sr')
@@ -44,19 +40,15 @@ function timeOf(text: string): TimeWindow | null {
   const range = text.match(FROM_UNTIL);
 
   if (range) {
-    const start = `${pad(range[1])}:${pad(range[2])}`;
-    const end = `${pad(range[3])}:${pad(range[4])}`;
-    return { start, end };
+    const start = clock(range[1], range[2]);
+    const end = clock(range[3], range[4]);
+    return start && end ? { start, end } : null;
   }
 
   const until = text.match(UNTIL);
+  const untilClock = until && clock(until[1], until[2]);
 
-  if (until) {
-    const end = `${pad(until[1])}:${pad(until[2])}`;
-    return { start: null, end };
-  }
-
-  return null;
+  return untilClock ? { start: null, end: untilClock } : null;
 }
 
 function streetsOf(text: string): string[] {
@@ -105,15 +97,16 @@ export function parseNisAnnouncement(
   const body = collapseWhitespace(decodeEntities(stripTags(content)));
 
   return sections(body)
-    .map((section) => {
+    .flatMap((section) => {
     const label = section.heading || heading;
     const place = label.match(PLACE_IN_HEADING)?.[1]?.trim();
     const text = `${section.heading} ${section.body}`.trim();
+    const stated = dateFromPhrase(section.body, published);
+    const days = stated ? { dates: [stated] } : postingDay(published, section.body);
 
-    return {
+    return onEachDay(days, {
       utility: Utility.Water,
       kind: PLANNED.test(label) ? OutageKind.Planned : OutageKind.Emergency,
-      date: dateFromPhrase(section.body, published) ?? published.slice(0, 10),
       cityNameCyrillic: municipalityOf(place),
       branchCyrillic: CITY,
       areaLabel: place && place.length <= MAX_STREET_LENGTH ? titleCase(place) : CITY,
@@ -122,7 +115,7 @@ export function parseNisAnnouncement(
       reason: null,
       note: text || null,
       sourceUrl
-    };
+    });
     })
     // A fragment with neither a time nor a street carries no usable information.
     .filter((outage) => outage.time !== null || outage.streets.length > 0);

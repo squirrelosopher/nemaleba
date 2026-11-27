@@ -2,7 +2,7 @@ import type { RawOutage } from '../../src/lib/domain/outage';
 import { OutageKind, Utility } from '../../src/lib/domain/utility';
 import { toCyrillic } from '../../src/lib/text/serbianScript';
 import { decodeEntities } from './html';
-import { isoDateIn } from './waterInterruption';
+import { announcedDays, onEachDay } from './dates';
 
 const CITY = 'Бор';
 const WATER_SECTION = /Sanacija\s+kvarova\s+na\s+vodovodnoj\s+mre[žz]i\s*:?([\s\S]*?)(?=\n\s*\d\s*\.|$)/i;
@@ -47,19 +47,16 @@ export function parseBorWorkPlan(
     return [];
   }
 
-  return [
-    {
-      utility: Utility.Water,
-      kind: OutageKind.Emergency,
-      date: isoDateIn(heading) ?? postedAt.slice(0, 10),
-      cityNameCyrillic: CITY,
-      branchCyrillic: CITY,
-      areaLabel: CITY,
-      time: null,
-      streets,
-      reason: 'Санација кварова на водоводној мрежи',
-      note: toCyrillic(section.replace(/\s+/g, ' ').trim()).slice(0, MAX_NOTE_LENGTH),
-      sourceUrl
-    }
-  ];
+  return onEachDay(announcedDays([heading], postedAt), {
+    utility: Utility.Water,
+    kind: OutageKind.Emergency,
+    cityNameCyrillic: CITY,
+    branchCyrillic: CITY,
+    areaLabel: CITY,
+    time: null,
+    streets,
+    reason: 'Санација кварова на водоводној мрежи',
+    note: toCyrillic(section.replace(/\s+/g, ' ').trim()).slice(0, MAX_NOTE_LENGTH),
+    sourceUrl
+  });
 }

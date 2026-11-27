@@ -2,7 +2,8 @@ import type { RawOutage } from '../../src/lib/domain/outage';
 import { OutageKind, Utility } from '../../src/lib/domain/utility';
 import { toCyrillic } from '../../src/lib/text/serbianScript';
 import { collapseWhitespace, decodeEntities, stripTags } from './html';
-import { isoDateIn, timeWindowIn } from './waterInterruption';
+import { isoDateIn } from './dates';
+import { timeWindowIn } from './waterInterruption';
 
 const CITY = 'Пожаревац';
 const ENTRY = /<h3\b[^>]*>([\s\S]*?)<\/h3>([\s\S]*?)(?=<h3\b|$)/gi;

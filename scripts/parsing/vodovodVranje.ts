@@ -1,7 +1,8 @@
 import type { RawOutage } from '../../src/lib/domain/outage';
 import { OutageKind, Utility } from '../../src/lib/domain/utility';
 import { collapseWhitespace, decodeEntities, stripTags } from './html';
-import { isoDateIn, timeWindowIn } from './waterInterruption';
+import { announcedDays, onEachDay } from './dates';
+import { timeWindowIn } from './waterInterruption';
 
 const CITY = 'Врање';
 const BLOCK_END = /<\/(?:p|li|h[1-6]|div)>|<br\s*\/?>/gi;
@@ -26,22 +27,22 @@ export function parseVranjeAnnouncement(
   sourceUrl: string
 ): RawOutage[] {
   const blocks = paragraphs(content);
-  const date =
-    isoDateIn(title) ?? isoDateIn(blocks.join(' ')) ?? postedAt.slice(0, 10);
+  const days = announcedDays([title, blocks.join(' ')], postedAt);
 
   return blocks
     .filter((block) => ANNOUNCEMENT.test(block) && WITHOUT_WATER.test(block))
-    .map((block) => ({
-      utility: Utility.Water,
-      kind: EMERGENCY.test(block) ? OutageKind.Emergency : OutageKind.Planned,
-      date,
-      cityNameCyrillic: CITY,
-      branchCyrillic: CITY,
-      areaLabel: block.match(AREA)?.[1]?.trim() ?? CITY,
-      time: timeWindowIn(block),
-      streets: [],
-      reason: null,
-      note: block.slice(0, MAX_NOTE_LENGTH),
-      sourceUrl
-    }));
+    .flatMap((block) =>
+      onEachDay(days, {
+        utility: Utility.Water,
+        kind: EMERGENCY.test(block) ? OutageKind.Emergency : OutageKind.Planned,
+        cityNameCyrillic: CITY,
+        branchCyrillic: CITY,
+        areaLabel: block.match(AREA)?.[1]?.trim() ?? CITY,
+        time: timeWindowIn(block),
+        streets: [],
+        reason: null,
+        note: block.slice(0, MAX_NOTE_LENGTH),
+        sourceUrl
+      })
+    );
 }

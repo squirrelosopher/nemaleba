@@ -1,7 +1,8 @@
 import type { RawOutage } from '../../src/lib/domain/outage';
 import { OutageKind, Utility } from '../../src/lib/domain/utility';
 import { collapseWhitespace, decodeEntities, stripTags } from './html';
-import { isoDateIn, timeWindowIn } from './waterInterruption';
+import { announcedDays, onEachDay } from './dates';
+import { timeWindowIn } from './waterInterruption';
 
 // Kladovo writes one sentence per notice and writes it the same way every time:
 //   Дана 07.08.2026. године доћи ће до привременог затварања воде
@@ -31,13 +32,12 @@ export function parseKladovoNotice(
 ): RawOutage[] {
   return blocks(content)
     .filter((block) => INTERRUPTED.test(block) && block.length >= MIN_NOTICE_LENGTH)
-    .map((block) => {
+    .flatMap((block) => {
       const area = block.match(AREA)?.[1]?.trim();
 
-      return {
+      return onEachDay(announcedDays([block, title], postedAt), {
         utility: Utility.Water,
         kind: EMERGENCY.test(block) ? OutageKind.Emergency : OutageKind.Planned,
-        date: isoDateIn(block) ?? isoDateIn(title) ?? postedAt.slice(0, 10),
         cityNameCyrillic: CITY,
         branchCyrillic: CITY,
         areaLabel: area && area.length <= MAX_AREA_LENGTH ? area : CITY,
@@ -46,6 +46,6 @@ export function parseKladovoNotice(
         reason: null,
         note: block.slice(0, MAX_NOTE_LENGTH),
         sourceUrl
-      };
+      });
     });
 }

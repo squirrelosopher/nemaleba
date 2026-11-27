@@ -17,6 +17,10 @@ export interface Outage {
   reason: string | null;
   note: string | null;
   sourceUrl: string;
+  // Set when the announcement names no day for the works, so `date` is only the day it was
+  // posted. A reader is told so rather than shown the posting day as though it were the
+  // day the water goes off. Absent means the announcement stated the date itself.
+  dateNotStated?: true;
 }
 
 export interface RawOutage extends Omit<Outage, 'id'> {

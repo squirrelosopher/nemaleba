@@ -1,7 +1,8 @@
 import type { RawOutage } from '../../src/lib/domain/outage';
 import { OutageKind, Utility } from '../../src/lib/domain/utility';
 import { collapseWhitespace, stripTags } from './html';
-import { isoDateIn, splitStreetList, timeWindowIn } from './waterInterruption';
+import { onEachDay, postingDay, statedDaysIn } from './dates';
+import { splitStreetList, timeWindowIn } from './waterInterruption';
 
 const CITY = 'Рума';
 const NEIGHBOURING_MUNICIPALITIES = new Set(['Ириг']);
@@ -29,7 +30,8 @@ export function parseRumaAnnouncement(
 
   const area = heading.match(TITLE_AREA)?.[1]?.trim() ?? CITY;
   const municipality = NEIGHBOURING_MUNICIPALITIES.has(area) ? area : CITY;
-  const announced = isoDateIn(body);
+  const announced = statedDaysIn(body);
+  const days = announced ? { dates: announced } : postingDay(postedAt, body);
 
   const listed =
     body.match(AFTER_CONSUMERS)?.[1] ??
@@ -39,19 +41,16 @@ export function parseRumaAnnouncement(
 
   const named = splitStreetList(listed.replace(STREET_THEN_PLACE, '$1'));
 
-  return [
-    {
-      utility: Utility.Water,
-      kind: announced ? OutageKind.Planned : OutageKind.Emergency,
-      date: announced ?? postedAt.slice(0, 10),
-      cityNameCyrillic: municipality,
-      branchCyrillic: CITY,
-      areaLabel: area.length <= MAX_AREA_LENGTH ? area : CITY,
-      time: timeWindowIn(body),
-      streets: named.filter((street) => !area.includes(street)),
-      reason: null,
-      note: body.slice(0, MAX_NOTE_LENGTH),
-      sourceUrl
-    }
-  ];
+  return onEachDay(days, {
+    utility: Utility.Water,
+    kind: announced ? OutageKind.Planned : OutageKind.Emergency,
+    cityNameCyrillic: municipality,
+    branchCyrillic: CITY,
+    areaLabel: area.length <= MAX_AREA_LENGTH ? area : CITY,
+    time: timeWindowIn(body),
+    streets: named.filter((street) => !area.includes(street)),
+    reason: null,
+    note: body.slice(0, MAX_NOTE_LENGTH),
+    sourceUrl
+  });
 }

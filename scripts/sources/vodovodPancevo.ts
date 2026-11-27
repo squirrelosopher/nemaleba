@@ -2,6 +2,7 @@ import type { OutageSource } from './OutageSource';
 import type { RawOutage } from '../../src/lib/domain/outage';
 import type { Provider } from '../../src/lib/domain/provider';
 import { Utility } from '../../src/lib/domain/utility';
+import { calendarDate } from '../parsing/dates';
 import { NOMINATIVE } from '../parsing/serbianPlaces';
 import { parseWaterProse } from '../parsing/waterProse';
 import { fetchPosts } from './wordPressPosts';
@@ -30,13 +31,14 @@ export class VodovodPancevoSource implements OutageSource {
 
     return posts.flatMap((post) => {
       const match = post.title.rendered.match(TITLE_DATE);
-      const date = match
-        ? `${match[3]}-${match[2].padStart(2, '0')}-${match[1].padStart(2, '0')}`
-        : post.date.slice(0, 10);
+      const statedDate = match
+        ? calendarDate(Number(match[3]), Number(match[2]), Number(match[1])) ?? undefined
+        : undefined;
 
-      return parseWaterProse(post.content.rendered, date, post.link, {
+      return parseWaterProse(post.content.rendered, post.date, post.link, {
         city: 'Панчево',
-        nominative: NOMINATIVE
+        nominative: NOMINATIVE,
+        statedDate
       });
     });
   }

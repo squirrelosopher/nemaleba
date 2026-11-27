@@ -1,11 +1,11 @@
 import type { RawOutage, TimeWindow } from '../../src/lib/domain/outage';
 import type { OutageKind } from '../../src/lib/domain/utility';
 import { Utility } from '../../src/lib/domain/utility';
+import { announcedDays, clock, onEachDay } from './dates';
 import { collapseWhitespace, stripTags } from './html';
 
 const SHORTCODE = /\[[^\]]*\]/g;
 const TIME_SEGMENT = /\(\s*од\s*(\d{1,2}[:.]\d{2})\s*(?:до|–|-)\s*(\d{1,2}[:.]\d{2})[^)]*\)/g;
-const TITLE_DATE = /(\d{2})\.(\d{2})\.(\d{4})/;
 const AREA_LIST = /(?:насељима|потрошачи у|улицама)\s*:?\s*([^.]+)\./i;
 const ABBREVIATIONS = /(^|[\s(])(ул|бр|бб)\./gi;
 const STREET_PREFIX = /^(?:ул\.?|улица|улици)\s*/i;
@@ -13,14 +13,15 @@ const SENTENCE_END = '.';
 const MAX_STREET_LENGTH = 70;
 const CITY = 'Крагујевац';
 
-function normaliseTime(value: string): string {
-  return value.replace('.', ':');
+function clockOf(value: string): string | null {
+  const [hours, minutes] = value.split(/[:.]/);
+  return clock(hours, minutes);
 }
 
-function toTimeWindow(start: string, end: string): TimeWindow {
-  const from = normaliseTime(start);
-  const to = normaliseTime(end);
-  return { start: from, end: to };
+function toTimeWindow(start: string, end: string): TimeWindow | null {
+  const from = clockOf(start);
+  const to = clockOf(end);
+  return from && to ? { start: from, end: to } : null;
 }
 
 function lastSentenceOf(text: string): string {
@@ -61,11 +62,6 @@ function plainTextOf(content: string): string {
   return collapseWhitespace(stripTags(content.replace(SHORTCODE, ' ')));
 }
 
-function dateOf(title: string, published: string): string {
-  const match = title.match(TITLE_DATE);
-  return match ? `${match[3]}-${match[2]}-${match[1]}` : published.slice(0, 10);
-}
-
 function extractAreaList(body: string): string[] {
   const match = body.match(AREA_LIST);
 
@@ -87,10 +83,10 @@ export function parseVikAnnouncement(
   sourceUrl: string
 ): RawOutage[] {
   const body = plainTextOf(content);
+  const days = announcedDays([plainTextOf(title)], published);
   const base = {
     utility: Utility.Water,
     kind,
-    date: dateOf(plainTextOf(title), published),
     cityNameCyrillic: CITY,
     branchCyrillic: CITY,
     sourceUrl
@@ -99,16 +95,14 @@ export function parseVikAnnouncement(
   const matches = [...body.matchAll(TIME_SEGMENT)];
 
   if (matches.length === 0) {
-    return [
-      {
-        ...base,
-        areaLabel: CITY,
-        time: null,
-        streets: extractAreaList(body),
-        reason: null,
-        note: body || null
-      }
-    ];
+    return onEachDay(days, {
+      ...base,
+      areaLabel: CITY,
+      time: null,
+      streets: extractAreaList(body),
+      reason: null,
+      note: body || null
+    });
   }
 
   const outages: RawOutage[] = [];
@@ -123,14 +117,14 @@ export function parseVikAnnouncement(
     const location = splitLocation(body.slice(cursor, timeStart));
     const reason = body.slice(timeEnd, entryEnd).replace(/^[\s,]+/, '').replace(/\.$/, '').trim();
 
-    outages.push({
+    outages.push(...onEachDay(days, {
       ...base,
       areaLabel: location.area,
       time: toTimeWindow(match[1], match[2]),
       streets: location.streets,
       reason: reason || null,
       note: body.slice(cursor, entryEnd).replace(/^[\s.,]+/, '').trim() || null
-    });
+    }));
 
     cursor = entryEnd;
   }

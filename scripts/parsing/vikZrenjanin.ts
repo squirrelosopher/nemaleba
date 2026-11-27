@@ -1,7 +1,8 @@
 import type { RawOutage } from '../../src/lib/domain/outage';
 import { OutageKind, Utility } from '../../src/lib/domain/utility';
 import { collapseWhitespace, decodeEntities, stripTags } from './html';
-import { isoDateIn, timeWindowIn } from './waterInterruption';
+import { announcedDays, onEachDay } from './dates';
+import { timeWindowIn } from './waterInterruption';
 
 const CITY = 'Зрењанин';
 const WORKS_HEADING = /РАДОВИ\s+НА\s+МРЕЖИ/;
@@ -38,15 +39,14 @@ export function parseZrenjaninWorks(
   postedAt: string,
   sourceUrl: string
 ): RawOutage[] {
-  const date = isoDateIn(title) ?? isoDateIn(stripTags(content)) ?? postedAt.slice(0, 10);
+  const days = announcedDays([title, stripTags(content)], postedAt);
 
-  return listedWorks(content).map((work) => {
+  return listedWorks(content).flatMap((work) => {
     const place = work.match(PLACE);
 
-    return {
+    return onEachDay(days, {
       utility: Utility.Water,
       kind: EMERGENCY.test(work) ? OutageKind.Emergency : OutageKind.Planned,
-      date,
       cityNameCyrillic: CITY,
       branchCyrillic: CITY,
       areaLabel: place ? inTitleCase(place[1].trim()) : CITY,
@@ -55,6 +55,6 @@ export function parseZrenjaninWorks(
       reason: null,
       note: work.slice(0, MAX_NOTE_LENGTH),
       sourceUrl
-    };
+    });
   });
 }

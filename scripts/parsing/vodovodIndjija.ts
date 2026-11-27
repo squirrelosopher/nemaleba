@@ -2,7 +2,8 @@ import type { RawOutage } from '../../src/lib/domain/outage';
 import type { OutageKind } from '../../src/lib/domain/utility';
 import { Utility } from '../../src/lib/domain/utility';
 import { collapseWhitespace, stripTags } from './html';
-import { isoDateIn, splitStreetList, timeWindowIn } from './waterInterruption';
+import { announcedDays, onEachDay } from './dates';
+import { splitStreetList, timeWindowIn } from './waterInterruption';
 
 const CITY = 'Инђија';
 const INTERRUPTED = /прекинут[оа]?\s+водоснабдевањ|прекид\s+водоснабдевањ|без\s+водоснабдевањ/i;
@@ -25,19 +26,16 @@ export function parseIndjijaAnnouncement(
 
   const listed = WHOLE_SETTLEMENT.test(body) ? '' : body.match(STREET_LIST)?.[1] ?? '';
 
-  return [
-    {
-      utility: Utility.Water,
-      kind,
-      date: isoDateIn(body) ?? postedAt.slice(0, 10),
-      cityNameCyrillic: CITY,
-      branchCyrillic: CITY,
-      areaLabel: body.match(SETTLEMENT)?.[1]?.trim() ?? CITY,
-      time: timeWindowIn(body),
-      streets: splitStreetList(listed),
-      reason: null,
-      note: body.slice(0, MAX_NOTE_LENGTH),
-      sourceUrl
-    }
-  ];
+  return onEachDay(announcedDays([body], postedAt), {
+    utility: Utility.Water,
+    kind,
+    cityNameCyrillic: CITY,
+    branchCyrillic: CITY,
+    areaLabel: body.match(SETTLEMENT)?.[1]?.trim() ?? CITY,
+    time: timeWindowIn(body),
+    streets: splitStreetList(listed),
+    reason: null,
+    note: body.slice(0, MAX_NOTE_LENGTH),
+    sourceUrl
+  });
 }

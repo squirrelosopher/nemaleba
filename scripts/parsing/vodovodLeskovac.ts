@@ -1,7 +1,8 @@
 import type { RawOutage } from '../../src/lib/domain/outage';
 import { OutageKind, Utility } from '../../src/lib/domain/utility';
 import { collapseWhitespace, decodeEntities, stripTags } from './html';
-import { isoDateIn, splitStreetList, timeWindowIn } from './waterInterruption';
+import { isoDateIn } from './dates';
+import { splitStreetList, timeWindowIn } from './waterInterruption';
 
 const CITY = 'Лесковац';
 const REGION = /<!--\s*NOVA SAOPSTENJA BEGIN\s*-->([\s\S]*?)<!--\s*NOVA SAOPSTENJA END\s*-->/i;
@@ -33,12 +34,22 @@ export function parseLeskovacNotices(page: string, sourceUrl: string): RawOutage
 
     const postedOn = text(section[2].match(POSTED_DATE)?.[1] ?? '');
     const listed = body.match(STREET_LIST)?.[1] ?? '';
+    const stated = isoDateIn(body);
+    const posted = isoDateIn(postedOn);
+
+    // A notice with neither date used to become a row dated '', which every reader
+    // downstream dropped without a word. That is the page changing shape under the parser,
+    // and it fails the run like any other parser fault.
+    if (!stated && !posted) {
+      throw new Error(`Leskovac notice without a date: "${body.slice(0, 60)}"`);
+    }
 
     return [
       {
         utility: Utility.Water,
         kind: EMERGENCY.test(body) ? OutageKind.Emergency : OutageKind.Planned,
-        date: isoDateIn(body) ?? isoDateIn(postedOn) ?? '',
+        date: (stated ?? posted)!,
+        ...(stated ? {} : { dateNotStated: true as const }),
         cityNameCyrillic: CITY,
         branchCyrillic: CITY,
         areaLabel: CITY,

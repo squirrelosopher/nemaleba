@@ -6,9 +6,24 @@ const ENTITIES: Record<string, string> = {
   '&#8222;': '"', '&#8211;': '–', '&#8217;': "'", '&hellip;': '…'
 };
 
+const MAX_CODE_POINT = 0x10ffff;
+
+// Typographic quotes are flattened whichever way the page wrote them, so "&#x201E;" from
+// one editor reads the same as "&#8222;" from another.
+function fromCodePoint(code: number, reference: string): string {
+  if (code > MAX_CODE_POINT) {
+    return reference;
+  }
+
+  return ENTITIES[`&#${code};`] ?? String.fromCodePoint(code);
+}
+
 export function decodeEntities(text: string): string {
   return text
-    .replace(/&#(\d+);/g, (match, code) => ENTITIES[match] ?? String.fromCharCode(Number(code)))
+    .replace(/&#(\d+);/g, (match, code: string) => fromCodePoint(Number(code), match))
+    .replace(/&#x([\da-f]+);/gi, (match, code: string) =>
+      fromCodePoint(parseInt(code, 16), match)
+    )
     .replace(/&[a-z]+;/gi, (match) => ENTITIES[match] ?? match);
 }
 

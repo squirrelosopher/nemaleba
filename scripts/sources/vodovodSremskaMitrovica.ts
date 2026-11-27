@@ -28,7 +28,7 @@ export class VodovodSremskaMitrovicaSource implements OutageSource {
     const posts = await fetchPosts(ENDPOINT, OUTAGES_CATEGORY, POSTS);
 
     return posts.flatMap((post) =>
-      parseWaterProse(post.content.rendered, post.date.slice(0, 10), post.link, {
+      parseWaterProse(post.content.rendered, post.date, post.link, {
         city: 'Сремска Митровица',
         nominative: NOMINATIVE
       })
