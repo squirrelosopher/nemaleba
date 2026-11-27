@@ -2,6 +2,7 @@
   import CityMarquee from '$lib/components/CityMarquee.svelte';
   import CitySearch from '$lib/components/CitySearch.svelte';
   import MetaTags from '$lib/components/MetaTags.svelte';
+  import SourceGapsSummary from '$lib/components/SourceGapsSummary.svelte';
   import TodaySummary from '$lib/components/TodaySummary.svelte';
   import HistorySummary from '$lib/components/HistorySummary.svelte';
   import { translator } from '$lib/i18n/translator.svelte';
@@ -39,6 +40,7 @@
 </div>
 
 <div class="shell">
+  <SourceGapsSummary registry={data.registry} />
   <TodaySummary summary={data.registry.summary} />
   <HistorySummary
     history={data.registry.history ?? []}

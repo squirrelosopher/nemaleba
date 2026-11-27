@@ -51,6 +51,21 @@ export async function readCityHistory(cityId: string): Promise<DailyTotals[]> {
   }
 }
 
+/**
+ * One row per announcement. Sources repeat an announcement across pages and runs, and the
+ * overview counted the repeats while the city pages, keyed by id, did not -- Kragujevac
+ * read 17 on the home page and 16 on its own.
+ */
+export function uniqueOutages(outages: RawOutage[]): RawOutage[] {
+  const byId = new Map<string, RawOutage>();
+
+  for (const outage of outages) {
+    byId.set(identify(outage), outage);
+  }
+
+  return [...byId.values()];
+}
+
 export async function writeCityDataset(
   city: City,
   outages: RawOutage[],

@@ -1,5 +1,5 @@
 import { readFileSync } from 'node:fs';
-import { describe, expect, it } from 'vitest';
+import { describe, expect, it, vi } from 'vitest';
 import { searchStreets, streetNamed } from './streetSearch';
 
 // The shards the pipeline writes, read off disk. Using the real index rather than a
@@ -7,12 +7,10 @@ import { searchStreets, streetNamed } from './streetSearch';
 // street that exists, and a handmade shard cannot say whether it does.
 const served = (async (path: string) => {
   try {
-    return {
-      ok: true,
-      json: async () => JSON.parse(readFileSync(`static${String(path)}`, 'utf-8'))
-    };
+    const shard = JSON.parse(readFileSync(`static${String(path)}`, 'utf-8'));
+    return { ok: true, status: 200, json: async () => shard };
   } catch {
-    return { ok: false, json: async () => [] };
+    return { ok: false, status: 404, json: async () => [] };
   }
 }) as unknown as typeof fetch;
 
@@ -59,5 +57,30 @@ describe('turning a slug back into a name', () => {
   // put one city's outages under another city's address.
   it('does not answer across cities', async () => {
     expect(await streetNamed(served, '', 'kanjiza', 'koste-abrasevica')).toBeNull();
+  });
+});
+
+describe('when the street index cannot be fetched', () => {
+  // A dropped request on mobile data used to be cached as an empty shard, so the street
+  // page said "not found" for a real address until the reader reloaded.
+  it('says so, and asks again next time', async () => {
+    // A fresh module, so no earlier test has already cached the shard asked for here.
+    vi.resetModules();
+    const { streetNamed, StreetIndexUnavailable } = await import('./streetSearch');
+    let calls = 0;
+    const flaky = (async (path: string) => {
+      calls += 1;
+
+      if (calls === 1) {
+        throw new TypeError('network connection lost');
+      }
+
+      return served(path);
+    }) as unknown as typeof fetch;
+
+    await expect(streetNamed(flaky, '', 'zvezdara', 'koste-abrasevica')).rejects.toThrow(
+      StreetIndexUnavailable
+    );
+    expect(await streetNamed(flaky, '', 'zvezdara', 'koste-abrasevica')).toBe('Косте Абрашевића');
   });
 });

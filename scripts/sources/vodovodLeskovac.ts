@@ -4,7 +4,6 @@ import type { Provider } from '../../src/lib/domain/provider';
 import { Utility } from '../../src/lib/domain/utility';
 import { parseLeskovacNotices } from '../parsing/vodovodLeskovac';
 import { fetchText } from './httpClient';
-import { warn } from './sourceLog';
 
 const NOTICES_URL = 'https://www.vodovodle.rs/servisne-informacije.php';
 
@@ -23,14 +22,10 @@ export class VodovodLeskovacSource implements OutageSource {
     coverage: ['leskovac']
   };
 
+  // One page. A host that does not answer raises SourceUnreachable and is recorded as
+  // unreadable by the pipeline; anything else is a parser bug and fails the run. Both used
+  // to be swallowed here, which made a dead page look like a quiet town.
   async collect(): Promise<RawOutage[]> {
-    try {
-      const page = await fetchText(NOTICES_URL);
-
-      return parseLeskovacNotices(page, NOTICES_URL);
-    } catch (error) {
-      warn(`  skipped ${NOTICES_URL}: ${(error as Error).message}`);
-      return [];
-    }
+    return parseLeskovacNotices(await fetchText(NOTICES_URL), NOTICES_URL);
   }
 }

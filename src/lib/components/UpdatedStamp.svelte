@@ -3,16 +3,7 @@
 
   let { generatedAt }: { generatedAt: string } = $props();
 
-  // Serbian local time, because every outage time on the site is too.
-  const updatedAt = $derived(
-    new Date(generatedAt).toLocaleString(translator.htmlLang, {
-      timeZone: 'Europe/Belgrade',
-      day: 'numeric',
-      month: 'long',
-      hour: '2-digit',
-      minute: '2-digit'
-    })
-  );
+  const updatedAt = $derived(translator.instant(generatedAt));
 </script>
 
 <span class="stamp numeric">{translator.t('footerUpdated')} {updatedAt}</span>

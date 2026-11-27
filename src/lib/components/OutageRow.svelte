@@ -99,6 +99,14 @@
       <p class="reason">{translator.place(outage.reason)}</p>
     {/if}
 
+    <!-- A fault notice is dated by its posting ("left without water"), so saying when it was
+         posted is enough. Planned works without a day are the case worth flagging. -->
+    {#if outage.dateNotStated && outage.kind === OutageKind.Emergency}
+      <p class="reason">{translator.t('postedOn', { date: translator.longDate(outage.date) })}</p>
+    {:else if outage.dateNotStated}
+      <p class="undated">{translator.t('dateNotStated', { date: translator.longDate(outage.date) })}</p>
+    {/if}
+
     {#if canExpand}
       <button type="button" class="reveal" onclick={() => (isExpanded = !isExpanded)}>
         {translator.t(isExpanded ? 'showLess' : 'showMore')}
@@ -264,6 +272,12 @@
     margin: 2px 0 0;
     font-size: 12.5px;
     color: var(--ink-muted);
+  }
+
+  .undated {
+    margin: 2px 0 0;
+    font-size: 12.5px;
+    color: var(--warn);
   }
 
   .reveal {

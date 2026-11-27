@@ -3,6 +3,7 @@ import type { RawOutage } from '../../src/lib/domain/outage';
 import type { Provider } from '../../src/lib/domain/provider';
 import { OutageKind, Utility } from '../../src/lib/domain/utility';
 import { parseVikAnnouncement } from '../parsing/vikAnnouncement';
+import { FeedReadings } from './feedReadings';
 import { fetchPosts } from './wordPressPosts';
 
 const ENDPOINT = 'https://jkpvik-kg.com/wp-json/wp/v2/posts';
@@ -30,10 +31,10 @@ export class VikKragujevacSource implements OutageSource {
   // Two categories, planned and emergency, and one of them refusing says nothing about
   // the other. This is the largest water source on the site, so what can be read is kept
   // and what cannot is reported, rather than the pair being abandoned together.
-  private unreadable: string[] = [];
+  private readings = new FeedReadings();
 
   async collect(): Promise<RawOutage[]> {
-    this.unreadable = [];
+    this.readings.start();
 
     const batches = await Promise.all(
       CATEGORY_KINDS.map(({ category, kind }) => this.collectCategory(category, kind))
@@ -43,19 +44,16 @@ export class VikKragujevacSource implements OutageSource {
   }
 
   unreadableFeeds(): string[] {
-    return this.unreadable;
+    return this.readings.unreadable();
   }
 
-  private async collectCategory(category: number, kind: OutageKind): Promise<RawOutage[]> {
-    try {
+  private collectCategory(category: number, kind: OutageKind): Promise<RawOutage[]> {
+    return this.readings.read(`category ${category}`, async () => {
       const posts = await fetchPosts(ENDPOINT, category, POSTS_PER_CATEGORY);
 
       return posts.flatMap((post) =>
         parseVikAnnouncement(post.title.rendered, post.content.rendered, post.date, kind, post.link)
       );
-    } catch (error) {
-      this.unreadable.push(`category ${category}: ${(error as Error).message}`);
-      return [];
-    }
+    });
   }
 }

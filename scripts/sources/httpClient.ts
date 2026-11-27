@@ -19,7 +19,53 @@ const REQUEST_TIMEOUT_MS = 30_000;
 // a firewall's block page arrives.
 export class SourceUnreachable extends Error {}
 
-export async function fetchText(url: string): Promise<string> {
+// A refusal is often momentary: the WordPress hosts behind firewalls answered some runs and
+// not others on 26-27 November, about ten of them at once. Two more attempts, spaced out
+// and jittered so the hosts are not asked in lockstep, cost seconds against a city that
+// would otherwise lose its page for an hour.
+const RETRY_DELAYS_MS = [2_000, 6_000];
+
+// How much of an unexpected body to keep in the reason. Enough to tell a Cloudflare
+// challenge from an Imunify360 or Wordfence page, which is what decides the next step.
+const SNIPPET_LENGTH = 160;
+
+export async function fetchText(url: string, retryDelays = RETRY_DELAYS_MS): Promise<string> {
+  return withRetries(() => fetchOnce(url), retryDelays);
+}
+
+export async function fetchJson<T>(url: string, retryDelays = RETRY_DELAYS_MS): Promise<T> {
+  return withRetries(async () => {
+    const body = await fetchOnce(url);
+
+    try {
+      return JSON.parse(body) as T;
+    } catch {
+      throw new SourceUnreachable(`response was not JSON for ${url}: "${snippet(body)}"`);
+    }
+  }, retryDelays);
+}
+
+async function withRetries<T>(attempt: () => Promise<T>, delays: number[]): Promise<T> {
+  for (const delay of delays) {
+    try {
+      return await attempt();
+    } catch (error) {
+      if (!(error instanceof SourceUnreachable)) {
+        throw error;
+      }
+
+      await new Promise((resolve) => setTimeout(resolve, delay * (0.5 + Math.random())));
+    }
+  }
+
+  return attempt();
+}
+
+function snippet(body: string): string {
+  return body.replace(/\s+/g, ' ').trim().slice(0, SNIPPET_LENGTH);
+}
+
+async function fetchOnce(url: string): Promise<string> {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
 
@@ -44,15 +90,5 @@ export async function fetchText(url: string): Promise<string> {
     throw new SourceUnreachable(`${(error as Error).message} for ${url}`);
   } finally {
     clearTimeout(timeout);
-  }
-}
-
-export async function fetchJson<T>(url: string): Promise<T> {
-  const body = await fetchText(url);
-
-  try {
-    return JSON.parse(body) as T;
-  } catch {
-    throw new SourceUnreachable(`response was not JSON for ${url}`);
   }
 }

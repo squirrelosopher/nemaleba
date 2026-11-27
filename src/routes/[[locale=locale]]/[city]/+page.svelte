@@ -14,6 +14,7 @@
   import OutagePanel from '$lib/components/OutagePanel.svelte';
   import UtilitySelector from '$lib/components/UtilitySelector.svelte';
   import { coversCity } from '$lib/domain/provider';
+  import { cityGap } from '$lib/data/sourceGaps';
   import { UTILITIES, Utility } from '$lib/domain/utility';
   import type { MessageKey } from '$lib/i18n/messages';
   import { translator } from '$lib/i18n/translator.svelte';
@@ -216,19 +217,41 @@
     );
   }
 
+  const gaps = $derived({
+    [Utility.Electricity]: cityGap(data.registry, city.id, Utility.Electricity),
+    [Utility.Water]: cityGap(data.registry, city.id, Utility.Water)
+  });
+
+  const unavailable = $derived({
+    [Utility.Electricity]: gaps[Utility.Electricity] !== null,
+    [Utility.Water]: gaps[Utility.Water] !== null
+  });
+
   const isBranch = $derived(city.branchCyrillic === city.nameCyrillic);
 
   // Back where the reader came from, whatever that was, and never back to this page.
   const back = $derived(backLink(data.registry.cities, `/${city.id}`));
 
+  // Link previews are how this site travels, so a preview must not call a city quiet when
+  // its source could not be read.
   const description = $derived.by(() => {
+    const gapsSaid = [
+      unavailable[Utility.Electricity] ? translator.t('metaUnavailableElectricity') : null,
+      unavailable[Utility.Water] ? translator.t('metaUnavailableWater') : null
+    ].filter((sentence) => sentence !== null);
+
+    return [counted(), ...gapsSaid].filter((sentence) => sentence !== null).join(' ');
+  });
+
+  function counted(): string | null {
     const phrases = [
       phraseFor('metaCountElectricity', counts[Utility.Electricity]),
       phraseFor('metaCountWater', counts[Utility.Water])
     ].filter((phrase) => phrase !== null);
 
     if (phrases.length === 0) {
-      return translator.t('metaCityQuiet', { city: city.nameLatin });
+      const anyGap = unavailable[Utility.Electricity] || unavailable[Utility.Water];
+      return anyGap ? null : translator.t('metaCityQuiet', { city: city.nameLatin });
     }
 
     if (phrases.length === 1) {
@@ -240,7 +263,7 @@
       electricity: phrases[0],
       water: phrases[1]
     });
-  });
+  }
 
   function phraseFor(key: MessageKey, count: number): string | null {
     if (count === 0) {
@@ -294,7 +317,13 @@
     {/if}
   </header>
 
-  <UtilitySelector {selected} {counts} onSelect={choose} />
+  <UtilitySelector
+    {selected}
+    {counts}
+    {unavailable}
+    placeName={translator.place(city.nameCyrillic)}
+    onSelect={choose}
+  />
 
   {#each UTILITIES as utility (utility)}
     <div class="panel" data-utility={utility} class:shown={utility === selected}>
@@ -304,6 +333,7 @@
         cityName={city.nameCyrillic}
         highlightedId={highlighted?.id ?? null}
         unwatched={!watchedFor(utility)}
+        gap={gaps[utility]}
       />
     </div>
   {/each}

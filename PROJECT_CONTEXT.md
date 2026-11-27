@@ -133,9 +133,10 @@ Recheck each item against current code before relying on it.
   WordPress water sources answer at once with non-JSON (`response was not JSON`), most likely
   bot or WAF challenges against GitHub Actions IPs. Gornji Milanovac and Čačak have shown 0 for
   longer.
-- **Unreadable is invisible on the site.** `src/` does not read `sources.json`. When a source
-  is unreadable, its city JSON is emptied (for example `nis.json` lost about 720 lines in
-  1231cb1b), and readers see an empty page with no notice. This is the §4 failure mode.
+- **Unreadable sources** are shown as such since `fix/source-status-and-dates`
+  (`registry.json` → `unavailable`; README "Source health"). Rows are still emptied while a
+  source is unreadable; showing the last read rows marked as possibly stale is roadmap
+  decision D2, not yet taken.
 - `+layout.ts` awaits `registry.json` before anything can paint, which slows every cold load.
   README names deferring it as the first performance fix.
 - Street pages render correctly but answer HTTP 404, because GitHub Pages has no redirects

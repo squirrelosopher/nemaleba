@@ -4,7 +4,9 @@
   import type { Utility } from '$lib/domain/utility';
   import { activeGroups, groupByDay, pastGroups } from '$lib/time/outageSchedule';
   import { translator } from '$lib/i18n/translator.svelte';
+  import type { CityGap } from '$lib/data/sourceGaps';
   import EmptyState from './EmptyState.svelte';
+  import SourceGapNotice from './SourceGapNotice.svelte';
   import OutageRow from './OutageRow.svelte';
 
   let {
@@ -12,13 +14,15 @@
     utility,
     cityName,
     highlightedId = null,
-    unwatched = false
+    unwatched = false,
+    gap = null
   }: {
     outages: Outage[];
     utility: Utility;
     cityName: string;
     highlightedId?: string | null;
     unwatched?: boolean;
+    gap?: CityGap | null;
   } = $props();
 
   let showsHistory = $state(false);
@@ -58,13 +62,17 @@
 </script>
 
 <section class="panel" bind:this={panel}>
-  {#if upcoming.length === 0}
+  {#if gap}
+    <SourceGapNotice partial={upcoming.length > 0} />
+  {/if}
+
+  {#if upcoming.length === 0 && !gap}
     <EmptyState
       title={translator.t(unwatched ? 'panelUnwatchedTitle' : 'panelEmptyTitle')}
       detail={translator.t(unwatched ? 'panelUnwatchedDetail' : 'panelEmptyDetail')}
       wraps={unwatched}
     />
-  {:else}
+  {:else if upcoming.length > 0}
     {#each upcoming as group (group.date)}
       <div class="day">
         <h3>

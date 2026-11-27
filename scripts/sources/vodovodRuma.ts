@@ -20,7 +20,9 @@ export class VodovodRumaSource implements OutageSource {
     nameCyrillic: 'Водовод Рума',
     phone: '022 478 322',
     url: 'https://vodovod-ruma.co.rs/',
-    coverage: ['ruma']
+    // Irig too: Ruma's notices name settlements across the municipal line, and a source
+    // must cover every city it writes rows for, or a failed read leaves that city silent.
+    coverage: ['ruma', 'irig']
   };
 
   async collect(): Promise<RawOutage[]> {

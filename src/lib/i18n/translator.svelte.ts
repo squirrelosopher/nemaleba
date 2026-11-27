@@ -98,6 +98,17 @@ class Translator {
       : this.serbianScript(WEEKDAYS_SERBIAN[index]);
   }
 
+  // An instant in Serbian local time, because every outage time on the site is too.
+  instant(isoInstant: string): string {
+    return new Date(isoInstant).toLocaleString(this.htmlLang, {
+      timeZone: 'Europe/Belgrade',
+      day: 'numeric',
+      month: 'long',
+      hour: '2-digit',
+      minute: '2-digit'
+    });
+  }
+
   longDate(isoDate: string): string {
     const date = parseIsoDate(isoDate);
 

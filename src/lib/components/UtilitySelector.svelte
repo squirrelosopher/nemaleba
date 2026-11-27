@@ -1,5 +1,6 @@
 <script lang="ts">
-  import { Droplets, Zap } from '@lucide/svelte';
+  import { Droplets, Info, Zap } from '@lucide/svelte';
+  import { tooltip } from '$lib/actions/tooltip';
   import { Utility } from '$lib/domain/utility';
   import { translator } from '$lib/i18n/translator.svelte';
   import UtilityTransition from './UtilityTransition.svelte';
@@ -7,12 +8,22 @@
   let {
     selected,
     counts,
+    unavailable,
+    placeName,
     onSelect
   }: {
     selected: Utility;
     counts: Record<Utility, number>;
+    // Utilities whose source could not be read, so a zero here means "unknown", not "none".
+    unavailable: Record<Utility, boolean>;
+    placeName: string;
     onSelect: (utility: Utility) => void;
   } = $props();
+
+  const UNAVAILABLE_MESSAGE = {
+    [Utility.Electricity]: 'unavailableElectricityFor',
+    [Utility.Water]: 'unavailableWaterFor'
+  } as const;
 
   const tiles = [
     { utility: Utility.Electricity, labelKey: 'electricity', icon: Zap },
@@ -59,26 +70,51 @@
 <div class="tiles">
   {#each tiles as tile (tile.utility)}
     {@const count = counts[tile.utility]}
-    <button
-      type="button"
-      class="tile {tile.utility}"
-      data-utility={tile.utility}
-      class:selected={selected === tile.utility}
-      aria-pressed={selected === tile.utility}
-      onclick={(event) => choose(tile.utility, event)}
-    >
-      {#if struck === tile.utility}
-        <UtilityTransition utility={tile.utility} origin={tapOrigin} />
-      {/if}
+    {@const missing = unavailable[tile.utility]}
+    <div class="slot">
+      <button
+        type="button"
+        class="tile {tile.utility}"
+        data-utility={tile.utility}
+        class:selected={selected === tile.utility}
+        class:missing={missing && count === 0}
+        aria-pressed={selected === tile.utility}
+        onclick={(event) => choose(tile.utility, event)}
+      >
+        {#if struck === tile.utility}
+          <UtilityTransition utility={tile.utility} origin={tapOrigin} />
+        {/if}
 
-      <span class="head">
-        <tile.icon size={15} strokeWidth={2.4} />
-        <span class="label">{translator.t(tile.labelKey)}</span>
-      </span>
-      <span class="status" class:clear={count === 0}>
-        {count === 0 ? translator.t('noOutages') : translator.outageCount(count)}
-      </span>
-    </button>
+        <span class="head">
+          <tile.icon size={15} strokeWidth={2.4} />
+          <span class="label">{translator.t(tile.labelKey)}</span>
+        </span>
+        {#if missing && count === 0}
+          <span class="status">&mdash;</span>
+        {:else}
+          <span class="status" class:clear={count === 0}>
+            {count === 0 ? translator.t('noOutages') : translator.outageCount(count)}
+          </span>
+        {/if}
+      </button>
+
+      <!-- Beside the tile, not inside it: a button cannot hold another control, and tapping
+           the icon should explain rather than switch the panel. -->
+      {#if missing}
+        <button
+          type="button"
+          class="info"
+          aria-label={translator.t(UNAVAILABLE_MESSAGE[tile.utility], { place: placeName })}
+          use:tooltip={{
+            label: translator.t(UNAVAILABLE_MESSAGE[tile.utility], { place: placeName }),
+            placement: 'bottom',
+            tappable: true
+          }}
+        >
+          <Info size={15} strokeWidth={2.2} />
+        </button>
+      {/if}
+    </div>
   {/each}
 </div>
 
@@ -179,5 +215,37 @@
     .tile.selected:active {
       opacity: 1;
     }
+  }
+
+  .slot {
+    position: relative;
+    display: grid;
+  }
+
+  /* Greyed rather than worded: the panel below says what is missing, and a tile reading
+     "no outages" or a count of zero would answer a question nobody could check. */
+  .tile.missing {
+    opacity: 0.5;
+  }
+
+  .info {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    display: grid;
+    place-items: center;
+    width: 36px;
+    height: 36px;
+    padding: 0;
+    color: var(--ink-muted);
+    background: none;
+    border: 0;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+
+  .info:hover,
+  .info:focus-visible {
+    color: var(--ink);
   }
 </style>

@@ -33,15 +33,33 @@ function fetchShard(fetcher: typeof fetch, base: string, shard: string): Promise
     return pending;
   }
 
-  // A missing shard is a letter no street begins with, not a failure worth showing.
-  const request = fetcher(`${base}/${SHARD_DIRECTORY}/${shard}.json`)
-    .then((response) => (response.ok ? (response.json() as Promise<Shard>) : []))
-    .catch(() => []);
+  // A 404 is a letter no street begins with, which is an answer and worth keeping. Any
+  // other failure is the network, and it is thrown and forgotten: kept, it turned one
+  // dropped request on mobile data into "street not found" until the page was reloaded.
+  const request = fetcher(`${base}/${SHARD_DIRECTORY}/${shard}.json`).then((response) => {
+    if (response.status === 404) {
+      return [];
+    }
+
+    if (!response.ok) {
+      throw new StreetIndexUnavailable(`${response.status} for street index ${shard}`);
+    }
+
+    return response.json() as Promise<Shard>;
+  });
 
   loaded.set(shard, request);
+  request.catch(() => loaded.delete(shard));
 
-  return request;
+  return request.catch((error: unknown) => {
+    throw error instanceof StreetIndexUnavailable
+      ? error
+      : new StreetIndexUnavailable(`street index ${shard} could not be fetched`);
+  });
 }
+
+/** The street index could not be fetched, as opposed to holding no such street. */
+export class StreetIndexUnavailable extends Error {}
 
 function rank(slug: string, query: string): number {
   if (slug === query) {

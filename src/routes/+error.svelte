@@ -16,4 +16,4 @@
   <title>{heading} — nemaleba.rs</title>
 </svelte:head>
 
-<ErrorNotice title={heading} detail={detail} finder={missing ? 'search' : 'none'} />
+<ErrorNotice title={heading} detail={detail} finder={missing ? 'search' : 'retry'} />

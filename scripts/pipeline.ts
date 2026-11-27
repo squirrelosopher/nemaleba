@@ -21,7 +21,13 @@ import {
   type Coverage
 } from './registry/addressCoverage';
 import { mergeHistory, totalsOn } from './registry/dailyHistory';
-import { readCityHistory, writeCityDataset, writeRegistry } from './emit/datasetWriter';
+import {
+  readCityHistory,
+  uniqueOutages,
+  writeCityDataset,
+  writeRegistry
+} from './emit/datasetWriter';
+import { gapsFor, utilitiesMissingFor, type UnreadSource } from './registry/sourceGaps';
 import { writeSiteIndex } from './emit/siteIndex';
 import { writeStreetIndex } from './emit/streetIndex';
 import {
@@ -95,6 +101,12 @@ interface SourceRunResult {
   outages: RawOutage[];
   lines: string[];
   unreadable: string[];
+  branches: string[] | null;
+}
+
+interface Collection {
+  outages: RawOutage[];
+  unread: UnreadSource[];
 }
 
 // Every source is a different host, so waiting for each in turn spent the run idle: the
@@ -116,7 +128,13 @@ async function collectFrom(source: OutageSource): Promise<SourceRunResult> {
   try {
     const { result, lines } = await captured(() => source.collect());
 
-    return { source, outages: result, lines, unreadable: source.unreadableFeeds?.() ?? [] };
+    return {
+      source,
+      outages: result,
+      lines,
+      unreadable: source.unreadableFeeds?.() ?? [],
+      branches: source.unreadableBranches?.() ?? null
+    };
   } catch (error) {
     if (!(error instanceof SourceUnreachable)) {
       throw new Error(`${source.id}: ${(error as Error).message}`, { cause: error });
@@ -124,11 +142,17 @@ async function collectFrom(source: OutageSource): Promise<SourceRunResult> {
 
     const reason = error.message;
 
-    return { source, outages: [], lines: [`  unreadable: ${reason}`], unreadable: [reason] };
+    return {
+      source,
+      outages: [],
+      lines: [`  unreadable: ${reason}`],
+      unreadable: [reason],
+      branches: null
+    };
   }
 }
 
-async function collectAll(): Promise<RawOutage[]> {
+async function collectAll(): Promise<Collection> {
   const previous = await readSourceHealth();
   const runs = await Promise.all(SOURCES.map(collectFrom));
 
@@ -164,7 +188,16 @@ async function collectAll(): Promise<RawOutage[]> {
   }
 
   await writeSourceHealth(current);
-  return collected;
+
+  const unread = runs
+    .filter(({ unreadable }) => unreadable.length > 0)
+    .map(({ source, branches }) => ({
+      provider: source.provider,
+      branches,
+      lastReadAt: current[source.id].lastReadAt ?? null
+    }));
+
+  return { outages: collected, unread };
 }
 
 // A feed nobody can read is not a quiet feed, and the run goes on regardless: the rest
@@ -250,15 +283,19 @@ async function reportUnknownPlaces(outages: RawOutage[]): Promise<void> {
 async function run(): Promise<void> {
   const latest = isoDate(FORECAST_DAYS);
 
-  const collected = (await collectAll()).map((outage) => ({
+  const { outages, unread } = await collectAll();
+
+  const collected = outages.map((outage) => ({
     ...outage,
     cityNameCyrillic: canonicalMunicipality(outage.branchCyrillic, outage.cityNameCyrillic)
   }));
 
-  const relevant = collected.filter((outage) => {
-    const earliest = isoDate(-RETAINED_PAST_DAYS[outage.utility]);
-    return outage.date >= earliest && outage.date <= latest;
-  });
+  const relevant = uniqueOutages(
+    collected.filter((outage) => {
+      const earliest = isoDate(-RETAINED_PAST_DAYS[outage.utility]);
+      return outage.date >= earliest && outage.date <= latest;
+    })
+  );
 
   console.log(`\n${relevant.length} entries retained through ${latest}`);
 
@@ -266,11 +303,18 @@ async function run(): Promise<void> {
 
   const previous = await loadPreviousRegistry();
   const registry = new CityRegistry(previous);
-  const history = mergeHistory(previous?.history ?? [], totalsOn(relevant, isoDate(0)));
 
   for (const outage of relevant) {
     registry.observe(outage);
   }
+
+  const gaps = gapsFor(unread, registry.all());
+  const missingAnywhere = new Set(gaps.map((gap) => gap.utility));
+  const history = mergeHistory(
+    previous?.history ?? [],
+    totalsOn(relevant, isoDate(0)),
+    missingAnywhere
+  );
 
   const generatedAt = new Date().toISOString();
   const cities = registry.all();
@@ -286,7 +330,11 @@ async function run(): Promise<void> {
 
   for (const city of cities) {
     const matching = relevant.filter((outage) => registry.matches(city, outage));
-    const cityHistory = mergeHistory(await readCityHistory(city.id), totalsOn(matching, today));
+    const cityHistory = mergeHistory(
+      await readCityHistory(city.id),
+      totalsOn(matching, today),
+      utilitiesMissingFor(city.id, gaps)
+    );
     const written = await writeCityDataset(city, matching, cityHistory);
 
     coverage[city.id] = tally(previousCoverage, city, matching);
@@ -302,7 +350,8 @@ async function run(): Promise<void> {
     registry.toRegistry(
       summarise(relevant),
       history,
-      SOURCES.map((source) => source.provider)
+      SOURCES.map((source) => source.provider),
+      gaps
     )
   );
   await writeSiteIndex(cities, generatedAt);

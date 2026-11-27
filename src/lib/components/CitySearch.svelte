@@ -51,11 +51,15 @@
 
     let current = true;
 
-    searchStreets(fetch, base, asked).then((found) => {
-      if (current) {
-        streets = found;
-      }
-    });
+    // A failed street lookup leaves the city matches standing; the next keystroke asks
+    // again, since a failure is not remembered.
+    searchStreets(fetch, base, asked)
+      .catch(() => [])
+      .then((found) => {
+        if (current) {
+          streets = found;
+        }
+      });
 
     return () => {
       current = false;

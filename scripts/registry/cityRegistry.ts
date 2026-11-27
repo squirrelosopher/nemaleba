@@ -1,4 +1,4 @@
-import type { City, DailySummary, DailyTotals, Registry } from '../../src/lib/domain/city';
+import type { City, DailySummary, DailyTotals, Registry, SourceGap } from '../../src/lib/domain/city';
 import type { Provider } from '../../src/lib/domain/provider';
 import type { RawOutage } from '../../src/lib/domain/outage';
 import { toLatin, toSlug } from '../../src/lib/text/serbianScript';
@@ -63,13 +63,19 @@ export class CityRegistry {
     );
   }
 
-  toRegistry(summary: DailySummary, history: DailyTotals[], providers: Provider[]): Registry {
+  toRegistry(
+    summary: DailySummary,
+    history: DailyTotals[],
+    providers: Provider[],
+    unavailable: SourceGap[]
+  ): Registry {
     return {
       generatedAt: new Date().toISOString(),
       summary,
       history,
       providers,
-      cities: this.all()
+      cities: this.all(),
+      unavailable
     };
   }
 

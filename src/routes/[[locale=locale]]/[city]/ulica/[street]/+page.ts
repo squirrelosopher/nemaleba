@@ -1,7 +1,7 @@
 import { error } from '@sveltejs/kit';
 import { base } from '$app/paths';
 import { loadCityDataset } from '$lib/data/outageRepository';
-import { streetNamed } from '$lib/search/streetSearch';
+import { StreetIndexUnavailable, streetNamed } from '$lib/search/streetSearch';
 import type { PageLoad } from './$types';
 
 // Never prerendered. There are 58,947 streets with a page on this site and three locales,
@@ -16,7 +16,15 @@ export const load: PageLoad = async ({ fetch, params }) => {
     // The slug cannot be spelled back into a name -- it is folded, undiacriticked and
     // Latin -- so the register is asked. Resolving it here rather than in the component
     // is what keeps the heading from being blank until a fetch lands.
-    streetNamed(fetch, base, params.city, params.street)
+    streetNamed(fetch, base, params.city, params.street).catch((failure: unknown) => {
+      // Not a 404: the street may well exist, and saying it does not would be the
+      // reassurance-by-omission this site must not give. The error page offers a retry.
+      if (failure instanceof StreetIndexUnavailable) {
+        error(503, 'Улица тренутно не може да се учита');
+      }
+
+      throw failure;
+    })
   ]);
 
   if (!dataset) {

@@ -10,6 +10,14 @@ export interface SourceRun {
   lastNonEmpty: string | null;
   unreadable?: string[];
   lastComplete?: string | null;
+  // The instant of the last run that read every feed, so a page can say "last read at
+  // 09:12" when its source stops answering. See `record`.
+  lastReadAt?: string | null;
+  // What the last fully read run produced. An unreadable run records 0 entries, and
+  // comparing the next run against that 0 would let a parser broken in the meantime
+  // publish silence unchallenged: with ten feeds behind firewalls that flap hourly, the
+  // regression check was off for all of them most of the day.
+  readableEntries?: number | null;
 }
 
 export type SourceHealth = Record<string, SourceRun>;
@@ -35,21 +43,53 @@ export async function writeSourceHealth(health: SourceHealth): Promise<void> {
 // many days a feed has been silent, and at an hourly schedule a timestamp any finer
 // rewrote all thirty-six of them every run — commits whose whole content was the clock
 // moving, on a dataset that is committed back to the repository each time.
+//
+// `lastReadAt` is the exception, because a reader asks a finer question: a page that went
+// dark at nine should say so at eleven, and "today" would tell them nothing. Every run
+// commits a fresh `generatedAt` anyway, so the churn it adds is one line per source.
 export function record(
   previous: SourceHealth,
   sourceId: string,
   entries: number,
-  unreadable: string[] = []
+  unreadable: string[] = [],
+  readAt: Date = new Date()
 ): SourceRun {
-  const now = isoDate(0);
+  const today = isoDate(0);
   const before = previous[sourceId];
-  const lastNonEmpty = entries > 0 ? now : before?.lastNonEmpty ?? null;
+  const lastNonEmpty = entries > 0 ? today : before?.lastNonEmpty ?? null;
 
   if (unreadable.length === 0) {
-    return { entries, lastNonEmpty, lastComplete: now };
+    return {
+      entries,
+      lastNonEmpty,
+      lastComplete: today,
+      lastReadAt: readAt.toISOString(),
+      readableEntries: entries
+    };
   }
 
-  return { entries, lastNonEmpty, unreadable, lastComplete: before?.lastComplete ?? null };
+  return {
+    entries,
+    lastNonEmpty,
+    unreadable,
+    lastComplete: before?.lastComplete ?? null,
+    lastReadAt: before?.lastReadAt ?? null,
+    readableEntries: lastReadableCount(before)
+  };
+}
+
+// Records written before `readableEntries` existed still say what a readable run found,
+// as long as that run was itself readable.
+function lastReadableCount(run: SourceRun | undefined): number | null {
+  if (run === undefined) {
+    return null;
+  }
+
+  if (run.readableEntries !== undefined) {
+    return run.readableEntries;
+  }
+
+  return run.unreadable?.length ? null : run.entries;
 }
 
 /**
@@ -74,8 +114,8 @@ export function findRegressions(
   return Object.entries(current)
     .filter(([id]) => !allowedToFallSilent.has(id))
     .filter(([, run]) => !run.unreadable?.length)
-    .filter(([id, run]) => run.entries === 0 && (previous[id]?.entries ?? 0) > 0)
-    .map(([id]) => `${id} returned 0 entries, previously ${previous[id].entries}`);
+    .filter(([id, run]) => run.entries === 0 && (lastReadableCount(previous[id]) ?? 0) > 0)
+    .map(([id]) => `${id} returned 0 entries, previously ${lastReadableCount(previous[id])}`);
 }
 
 export function isOverridden(): boolean {

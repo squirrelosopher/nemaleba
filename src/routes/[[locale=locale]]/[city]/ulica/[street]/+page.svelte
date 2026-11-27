@@ -2,6 +2,9 @@
   import { ArrowLeft } from '@lucide/svelte';
   import MetaTags from '$lib/components/MetaTags.svelte';
   import OutageRow from '$lib/components/OutageRow.svelte';
+  import SourceGapNotice from '$lib/components/SourceGapNotice.svelte';
+  import { cityGap } from '$lib/data/sourceGaps';
+  import { Utility } from '$lib/domain/utility';
   import { addressCandidates, foldForMatching } from '$lib/address/addressText';
   import { href } from '$lib/i18n/routing';
   import { translator } from '$lib/i18n/translator.svelte';
@@ -22,6 +25,15 @@
   );
 
   const label = $derived(translator.place(data.street));
+
+  // A street can only be as complete as its city. When a source for the city could not be
+  // read, this page says so above whatever it found, since "no announcement names this
+  // street" would otherwise read as an answer.
+  const gaps = $derived(
+    [Utility.Electricity, Utility.Water]
+      .map((utility) => cityGap(data.registry, city.id, utility))
+      .filter((gap) => gap !== null)
+  );
 </script>
 
 <MetaTags
@@ -39,6 +51,12 @@
     <p class="eyebrow">{translator.t('streetHeading')}</p>
     <h1>{label}</h1>
   </header>
+
+  {#if gaps.length > 0}
+    <div class="gap">
+      <SourceGapNotice partial />
+    </div>
+  {/if}
 
   {#if naming.length > 0}
     <p class="lede">{translator.t('streetNamed')}</p>
@@ -113,5 +131,13 @@
     text-decoration: underline;
     text-underline-offset: 3px;
     text-decoration-color: var(--border-strong);
+  }
+
+  .gap {
+    margin-top: 16px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--surface);
+    overflow: hidden;
   }
 </style>

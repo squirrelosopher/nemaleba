@@ -395,7 +395,27 @@ the run exits non-zero and publishes nothing.
 
 That case is almost always a broken parser rather than a quiet day, and publishing it
 would tell every visitor their power is fine — the worst way for this site to be wrong.
-Set `ALLOW_EMPTY_SOURCES=1` to publish anyway when the silence is genuine.
+Set `ALLOW_EMPTY_SOURCES=1` to publish anyway when the silence is genuine. The comparison
+is against the last run that *read* the source (`readableEntries`), not the last run, so a
+source that was unreadable an hour ago cannot disarm the check for the next one.
+
+A source whose host will not answer is a different case. The client retries twice with
+jittered backoff, then records the source as `unreadable` together with the first 160
+characters of what came back, which is how a firewall's challenge page can be told apart
+from an outage of the site itself. The run still publishes the rest of the country, and
+`registry.json` carries the gap in `unavailable`: the provider, the cities it leaves
+without data and `lastReadAt`. For those cities the site says the data is unavailable,
+names the source and links to it, instead of "no outages", in the tile, the panel, the
+link-preview text and a list on the home page. EPS narrows a gap to the branches of the
+regional feed that failed. Today's history keeps the last readable figure for a utility
+that could not be read, rather than recording 0.
+
+Every page also checks, in the reader's browser, how old the dataset is, and says so
+once it is older than the schedule allows (`src/lib/time/freshness.ts`).
+
+Only a host failure is forgiven. A parser that throws fails the run, and every source
+reads its feeds through `scripts/sources/feedReadings.ts`, which forgives
+`SourceUnreachable` and nothing else.
 
 ## Preferences and subscription state
 

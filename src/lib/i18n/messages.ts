@@ -294,7 +294,41 @@ export const MESSAGES = {
   languageLabel: { sr: 'Језик', en: 'Language' },
   themeLabel: { sr: 'Тема', en: 'Theme' },
   themeLight: { sr: 'Светла тема', en: 'Light theme' },
-  themeDark: { sr: 'Тамна тема', en: 'Dark theme' }
+  themeDark: { sr: 'Тамна тема', en: 'Dark theme' },
+
+  // Said wherever a source could not be read. Without it an empty list reads as "no
+  // outages", which is the one thing this site must never say when it has not looked.
+  unavailableTitle: { sr: 'Подаци тренутно нису доступни', en: 'Data unavailable right now' },
+  unavailablePartial: {
+    sr: 'Део података тренутно није доступан.',
+    en: 'Some of the data is unavailable right now.'
+  },
+  unavailableElectricityFor: {
+    sr: 'Подаци о струји за {place} тренутно нису доступни.',
+    en: 'Power data for {place} is unavailable right now.'
+  },
+  unavailableWaterFor: {
+    sr: 'Подаци о води за {place} тренутно нису доступни.',
+    en: 'Water data for {place} is unavailable right now.'
+  },
+  metaUnavailableElectricity: {
+    sr: 'Подаци о струји тренутно нису доступни.',
+    en: 'Power data is unavailable right now.'
+  },
+  metaUnavailableWater: {
+    sr: 'Подаци о води тренутно нису доступни.',
+    en: 'Water data is unavailable right now.'
+  },
+  homeUnavailable: {
+    sr: 'Ови извори тренутно не одговарају, па подаци из њих недостају:',
+    en: 'These sources are not responding right now, so their data is missing:'
+  },
+  errorRetry: { sr: 'Покушај поново', en: 'Try again' },
+  postedOn: { sr: 'Објављено {date}', en: 'Posted {date}' },
+  dateNotStated: {
+    sr: 'Датум радова није наведен · објављено {date}',
+    en: 'Date of works not stated · posted {date}'
+  }
 } as const satisfies Record<string, Message>;
 
 export type MessageKey = keyof typeof MESSAGES;
