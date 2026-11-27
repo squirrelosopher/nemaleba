@@ -7,6 +7,35 @@
   },
   "outages": [
     {
+      "id": "dcfdfc9ed196",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-20",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "ПОПРАВКА КВАРА У ОПШТИНИ ПАЛИЛУЛА ода избија поред шахте, потребан је ископ у Шантићевој улици, код броја 32. Због поправке прикључне везе биће у прекиду водоснабдевање до 15 часова у Шантићевој улици",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-220/"
+    },
+    {
+      "id": "a18dc7aaf321",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-20",
+      "areaLabel": "Палилула",
+      "time": null,
+      "streets": [
+        "Сутјеска бб"
+      ],
+      "reason": null,
+      "note": "ПРОДУЖЕТАК РАДОВА У ОПШТИНИ ПАЛИЛУЛА аставља се интервенција од претходног дана у улици Сутјеска бб. Због радова на водоводној мрежи неће бити прекида у снабдевању водом",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-220/"
+    },
+    {
       "id": "be359892a6a4",
       "utility": "electricity",
       "kind": "planned",
@@ -49,11 +78,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2026-10-28",
-      "electricityOutages": 3,
-      "waterOutages": 1
-    },
     {
       "date": "2026-10-29",
       "electricityOutages": 2,
@@ -196,6 +220,11 @@
     },
     {
       "date": "2026-11-26",
+      "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-27",
       "electricityOutages": 1,
       "waterOutages": 0
     }

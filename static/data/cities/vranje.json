@@ -5,13 +5,21 @@
     "nameLatin": "Vranje",
     "branchCyrillic": "Врање"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-28",
-      "electricityOutages": 1,
-      "waterOutages": 1
-    },
+      "id": "77316168af9d",
+      "utility": "water",
+      "kind": "planned",
+      "date": "2026-11-25",
+      "areaLabel": "Есперанто",
+      "time": null,
+      "streets": [],
+      "reason": null,
+      "note": "Због радова на канализационој мрежи у улици Есперанто , без воде биће потрошачи те улице и околне до завршетка радова.",
+      "sourceUrl": "https://vodovodvranje.rs/25-11-2026-obavestenje-o-prekidu-vodosnabdevanja/"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-29",
       "electricityOutages": 0,
@@ -154,6 +162,11 @@
     },
     {
       "date": "2026-11-26",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-27",
       "electricityOutages": 0,
       "waterOutages": 0
     }
