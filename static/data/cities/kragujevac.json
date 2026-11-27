@@ -1061,6 +1061,27 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     },
     {
+      "id": "c1ec5c31475e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Крагујевац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Бозман",
+        "Јовановац - Аксићи",
+        "Гај",
+        "Кула",
+        "Игралиште"
+      ],
+      "reason": null,
+      "note": "Бозман, Јовановац - Аксићи, Гај, Кула, Игралиште",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
       "id": "661279b1087d",
       "utility": "electricity",
       "kind": "planned",
@@ -1088,27 +1109,6 @@
       ],
       "reason": null,
       "note": "Банијских бригада, Бранка Миљковића, Далматинских бригада, Иве Андрића, Херцеговачких и Крајишких бригада, Поскурички пут, Симе Матавуља, Војвођанских бригада, Бихорска, Горњомилановачка, Мајевичка, Македонских бригада, Валентина Водника, Вршачка",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
-    },
-    {
-      "id": "c1ec5c31475e",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-30",
-      "areaLabel": "Крагујевац",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Бозман",
-        "Јовановац - Аксићи",
-        "Гај",
-        "Кула",
-        "Игралиште"
-      ],
-      "reason": null,
-      "note": "Бозман, Јовановац - Аксићи, Гај, Кула, Игралиште",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],

@@ -56,6 +56,57 @@
       "reason": null,
       "note": "Таковска",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "6fc00b9b90c7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Белољин"
+      ],
+      "reason": null,
+      "note": "Белољин",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "26f18550401d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Подина"
+      ],
+      "reason": null,
+      "note": "Подина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "faf3d7d3b4c1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Прокупље",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Драгољуба Ракића"
+      ],
+      "reason": null,
+      "note": "Драгољуба Ракића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

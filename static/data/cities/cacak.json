@@ -66,6 +66,93 @@
       "reason": null,
       "note": "Потрошачи у ул. Пиварској и Градском шеталишту од Поште до хотела Београд (обе стране улице)",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "8b0dc19c37e0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-29",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Потрошачи у Јездини и Придворици."
+      ],
+      "reason": null,
+      "note": "Потрошачи у Јездини и Придворици.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "9ac251a41ef7",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "09:00",
+        "end": "10:30"
+      },
+      "streets": [
+        "Потрошачи у ул.Булевар Ослобођења",
+        "зграде преко пута републичког МУП-а."
+      ],
+      "reason": null,
+      "note": "Потрошачи у ул.Булевар Ослобођења, зграде преко пута републичког МУП-а.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "879c907e823b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "10:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Потрошачи у улицама Немањина и Кнеза Милоша око раскрснице тих улица",
+        "као и солитер на раскрсници."
+      ],
+      "reason": null,
+      "note": "Потрошачи у улицама Немањина и Кнеза Милоша око раскрснице тих улица, као и солитер на раскрсници.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "306e7525da16",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "12:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Потрошачи на Алваџиници око Симпа."
+      ],
+      "reason": null,
+      "note": "Потрошачи на Алваџиници око Симпа.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "ed99e9ed3c07",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Чачак",
+      "time": {
+        "start": "13:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Потрошачи у ул. Симе Сараге од пруге до топлане и део улице Кључка од Симе Сараге до капије Ремонта."
+      ],
+      "reason": null,
+      "note": "Потрошачи у ул. Симе Сараге од пруге до топлане и део улице Кључка од Симе Сараге до капије Ремонта.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

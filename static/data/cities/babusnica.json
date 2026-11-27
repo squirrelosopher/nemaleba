@@ -56,6 +56,40 @@
       "reason": null,
       "note": "Село Остатовица",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "7ef1fe782b5a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Бабушница",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Село Горчинце"
+      ],
+      "reason": null,
+      "note": "Село Горчинце",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "4bc341472346",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Бабушница",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Село Остатовица"
+      ],
+      "reason": null,
+      "note": "Село Остатовица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

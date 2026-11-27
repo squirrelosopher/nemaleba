@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "51a19deb65e7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Вождовац",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Насеље БЕЛИ ПОТОК: БУЛЕВАР ПАТРИЈАРХА ГЕРМАНА: 22,98,13А-17,69,73-77, ЗМАЈА ОД АВАЛЕ: 13А, Насеље СЕЛО РАКОВИЦА: ЖАРКА САВИЋА: 3-3Б"
-      ],
-      "reason": null,
-      "note": "Насеље БЕЛИ ПОТОК: БУЛЕВАР ПАТРИЈАРХА ГЕРМАНА: 22,98,13А-17,69,73-77, ЗМАЈА ОД АВАЛЕ: 13А, Насеље СЕЛО РАКОВИЦА: ЖАРКА САВИЋА: 3-3Б,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "91eab71a1544",
       "utility": "electricity",
       "kind": "planned",
@@ -75,10 +58,10 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
-      "id": "0633508e2208",
+      "id": "c344ad40f5e7",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-27",
+      "date": "2026-11-30",
       "areaLabel": "Вождовац",
       "time": {
         "start": "09:00",
@@ -89,7 +72,7 @@
       ],
       "reason": null,
       "note": "МАТОШЕВА: 3, ПЕТРОВАРАДИНСКА: 19,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -240,7 +223,7 @@
     },
     {
       "date": "2026-11-27",
-      "electricityOutages": 5,
+      "electricityOutages": 3,
       "waterOutages": 0
     }
   ]

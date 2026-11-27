@@ -22,6 +22,57 @@
       "reason": null,
       "note": "Фриком и део Нишке улице",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "6dd340f0de30",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Дешилово 2"
+      ],
+      "reason": null,
+      "note": "Дешилово 2",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "baac3102c11a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "11:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Рожина"
+      ],
+      "reason": null,
+      "note": "Рожина",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "b4ac79d24acc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Мерошина",
+      "time": {
+        "start": "12:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Мали Поток"
+      ],
+      "reason": null,
+      "note": "Мали Поток",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

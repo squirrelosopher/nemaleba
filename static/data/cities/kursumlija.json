@@ -5,7 +5,65 @@
     "nameLatin": "Kuršumlija",
     "branchCyrillic": "Прокупље"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "65cf58b9e43d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-29",
+      "areaLabel": "Куршумлија",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Центар града и насеља Бановиће",
+        "Расадник",
+        "Баћоглава",
+        "Горње Пантиће",
+        "Горња Мекуљана",
+        "Мачковац"
+      ],
+      "reason": null,
+      "note": "Центар града и насеља Бановиће, Расадник, Баћоглава, Горње Пантиће, Горња Мекуљана, Мачковац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "c8fd527a6b4e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-29",
+      "areaLabel": "Куршумлија",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Видовданска",
+        "Цара Лазара и Доктора Мелгарда"
+      ],
+      "reason": null,
+      "note": "Видовданска, Цара Лазара и Доктора Мелгарда",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "bb4f2044ff63",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Куршумлија",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Дединац"
+      ],
+      "reason": null,
+      "note": "Дединац",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-29",

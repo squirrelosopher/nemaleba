@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "4e125d41a23b",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Лазаревац",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Насељено место Соколово (засеок Центар)."
-      ],
-      "reason": null,
-      "note": "Насељено место Соколово (засеок Центар).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "c719812754ae",
       "utility": "electricity",
       "kind": "planned",
@@ -38,6 +21,23 @@
       ],
       "reason": null,
       "note": "Насеље Лесковац (засеок Црква).",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "4e125d41a23b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-27",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Насељено место Соколово (засеок Центар)."
+      ],
+      "reason": null,
+      "note": "Насељено место Соколово (засеок Центар).",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {

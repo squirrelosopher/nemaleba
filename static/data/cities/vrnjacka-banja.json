@@ -42,6 +42,66 @@
       "reason": null,
       "note": "потрошачи из насељених места Грачац Чукар,део Грачаца око Цркве,Шућури,Рсовци Ивановићи и Рсовци Мала Река",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "15849e092f6b",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Врњачка Бања",
+      "time": {
+        "start": "09:00",
+        "end": "10:30"
+      },
+      "streets": [
+        "Потрошачи који се напајају из ТС Одмаралиште ЕПС-а ТЈ.из ул. 8.Марта",
+        "дела ул.Олге Јовичић",
+        "Хотел Лидерс",
+        "Пансион Вук",
+        "Пансион Панонија"
+      ],
+      "reason": null,
+      "note": "Потрошачи који се напајају из ТС Одмаралиште ЕПС-а ТЈ.из ул. 8.Марта,дела ул.Олге Јовичић,Хотел Лидерс,Пансион Вук,Пансион Панонија",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "03fecd0b9372",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Врњачка Бања",
+      "time": {
+        "start": "11:00",
+        "end": "12:30"
+      },
+      "streets": [
+        "Потрошачи који се напајају из ТС Школа1 ТЈ.из дела ул.Хероја Маричића",
+        "О.Ш.Попински Борци",
+        "из дела улице Радничка и из дела ул. Др.Љубинка Ђорђевића"
+      ],
+      "reason": null,
+      "note": "Потрошачи који се напајају из ТС Школа1 ТЈ.из дела ул.Хероја Маричића,О.Ш.Попински Борци,из дела улице Радничка и из дела ул. Др.Љубинка Ђорђевића",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "0b18631a48ea",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Врњачка Бања",
+      "time": {
+        "start": "13:00",
+        "end": "14:30"
+      },
+      "streets": [
+        "Потрошачи који се напајају из ТС Меркур",
+        "ТЈ.потрошачи у ул. Цара Душана",
+        "око старог Меркура",
+        "Црква у парку"
+      ],
+      "reason": null,
+      "note": "Потрошачи који се напајају из ТС Меркур,ТЈ.потрошачи у ул. Цара Душана,око старог Меркура,Црква у парку",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,7 +5,45 @@
     "nameLatin": "Ljubovija",
     "branchCyrillic": "Лозница"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "df86fa68c362",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Љубовија",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Горња и Доња Оровица и Леовић"
+      ],
+      "reason": null,
+      "note": "Горња и Доња Оровица и Леовић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "4641be006fe1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Љубовија",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Торник",
+        "Оровичка Планина",
+        "Горњи и Доњи Савковић",
+        "Гребен и Горње Кошље"
+      ],
+      "reason": null,
+      "note": "Торник, Оровичка Планина, Горњи и Доњи Савковић, Гребен и Горње Кошље",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-29",

@@ -59,6 +59,23 @@
       "reason": null,
       "note": "Ваљево, 26.11.2026. – Због квара на водоводној мрежи, данас, у периоду од 8:30 до 15 часова, без водоснабдевања ће бити потрошачи у Новом насељу и Доњограбовачкој улици. Захваљујемо се потрошачима на стрпљењу и разумевању.",
       "sourceUrl": "https://vodovodva.co.rs/26112026-2/"
+    },
+    {
+      "id": "da7c4c6698f3",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Ваљево",
+      "time": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Купци дела села Таор (мравинци ка Лесковицама)"
+      ],
+      "reason": null,
+      "note": "Купци дела села Таор (мравинци ка Лесковицама)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,7 +5,42 @@
     "nameLatin": "Rekovac",
     "branchCyrillic": "Јагодина"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "3029d2ef4bc1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Рековац",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Део села Ратковић"
+      ],
+      "reason": null,
+      "note": "Део села Ратковић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "32a06737fb23",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Рековац",
+      "time": {
+        "start": "12:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Део села Ратковић"
+      ],
+      "reason": null,
+      "note": "Део села Ратковић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-29",

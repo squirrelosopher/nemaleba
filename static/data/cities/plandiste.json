@@ -5,7 +5,42 @@
     "nameLatin": "Plandište",
     "branchCyrillic": "Панчево"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "5c52e85b07e4",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Пландиште",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Велики Гај: Банатска 94-120 и 31-73."
+      ],
+      "reason": null,
+      "note": "Велики Гај: Банатска 94-120 и 31-73.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "8c93bbbbc360",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Пландиште",
+      "time": {
+        "start": "11:30",
+        "end": "13:30"
+      },
+      "streets": [
+        "Банатски Соколац: Пашњачка од Школске до Ђурђа Смедеревца, Вука Караџића и Светозара Марковића."
+      ],
+      "reason": null,
+      "note": "Банатски Соколац: Пашњачка од Школске до Ђурђа Смедеревца, Вука Караџића и Светозара Марковића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-29",

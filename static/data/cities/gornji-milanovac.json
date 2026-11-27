@@ -43,6 +43,26 @@
       "reason": null,
       "note": "Накучани, Шилопај, Крива Река, Давидовица, Церова и Мутањ",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "50b388594e2f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Горњи Милановац",
+      "time": {
+        "start": "09:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Накучани",
+        "Шилопај",
+        "Давидовица",
+        "Крива река и Мутањ"
+      ],
+      "reason": null,
+      "note": "Накучани,Шилопај,Давидовица,Крива река и Мутањ",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

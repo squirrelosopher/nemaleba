@@ -5,7 +5,42 @@
     "nameLatin": "Leskovac",
     "branchCyrillic": "Лесковац"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "1c5fea57548d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Лесковац",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Ораовица (код Црковнице)"
+      ],
+      "reason": null,
+      "note": "Ораовица (код Црковнице)",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "cc22939035fd",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Лесковац",
+      "time": {
+        "start": "08:30",
+        "end": "12:00"
+      },
+      "streets": [
+        "Бојана Јовановића и Сретена Николића у Богојевцу"
+      ],
+      "reason": null,
+      "note": "Бојана Јовановића и Сретена Николића у Богојевцу",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-29",

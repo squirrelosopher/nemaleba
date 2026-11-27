@@ -7,6 +7,35 @@
   },
   "outages": [
     {
+      "id": "dcfdfc9ed196",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-20",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "15:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "ПОПРАВКА КВАРА У ОПШТИНИ ПАЛИЛУЛА ода избија поред шахте, потребан је ископ у Шантићевој улици, код броја 32. Због поправке прикључне везе биће у прекиду водоснабдевање до 15 часова у Шантићевој улици",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-220/"
+    },
+    {
+      "id": "a18dc7aaf321",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-20",
+      "areaLabel": "Палилула",
+      "time": null,
+      "streets": [
+        "Сутјеска бб"
+      ],
+      "reason": null,
+      "note": "ПРОДУЖЕТАК РАДОВА У ОПШТИНИ ПАЛИЛУЛА аставља се интервенција од претходног дана у улици Сутјеска бб. Због радова на водоводној мрежи неће бити прекида у снабдевању водом",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d1%80%d0%b0%d0%b4%d0%be%d0%b2%d0%b8-%d0%ba%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b8-%d0%bd%d0%b0-%d0%b2%d0%be%d0%b4%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d1%98-%d0%bc%d1%80%d0%b5%d0%b6%d0%b8-%d0%b8-220/"
+    },
+    {
       "id": "e2b395aaf587",
       "utility": "electricity",
       "kind": "planned",
@@ -29,6 +58,40 @@
       "reason": null,
       "note": "делови Кованлучке, Кованлучке други прилаз, Кованлучке трећи прилаз, Кованлучке четврти прилаз, Марка Јовановића (63), Васе Чарапића (49,57-60,65);",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "acf32d429279",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "19:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "ПРОДУЖЕТАК РАДОВА У НАСЕЉУ ПАЛИЛУЛА родужавају се радови у Његошевој улици код броја 43. Због поправке водоводне мреже остаје у прекиду водоснабдевање до 19 часова у Његошевој улици као и у Неготинској улици са прилазом.",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%bd%d0%be%d0%b2%d0%be-%d1%81%d0%b0%d0%be%d0%bf%d1%88%d1%82%d0%b5%d1%9a%d0%b5-%d0%be-%d0%b2%d0%be%d0%b4%d0%be%d1%81%d0%bd%d0%b0%d0%b1%d0%b4%d0%b5%d0%b2%d0%b0%d1%9a%d1%83-30/"
+    },
+    {
+      "id": "c8eb9826e85d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Палилула - Ниш",
+      "time": {
+        "start": "14:30",
+        "end": "16:30"
+      },
+      "streets": [
+        "делови улица Мокрањчеве",
+        "Јована Апела",
+        "Миленка Јоргића и Срђана Цветковића;"
+      ],
+      "reason": null,
+      "note": "делови улица Мокрањчеве, Јована Апела, Миленка Јоргића и Срђана Цветковића;",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -180,7 +243,7 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 1,
-      "waterOutages": 0
+      "waterOutages": 1
     }
   ]
 }

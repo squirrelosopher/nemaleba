@@ -56,6 +56,23 @@
       "reason": null,
       "note": "Индустријска зона - фирме дуж Шалиначке улице и Улице Ђуре Салаја",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "c96f4cf90977",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Краља Милутина 7 и 9"
+      ],
+      "reason": null,
+      "note": "Краља Милутина 7 и 9",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

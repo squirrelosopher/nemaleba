@@ -25,6 +25,42 @@
       "reason": null,
       "note": "делови улице Генерала Транијеа (1-18), Синђелићев Трг (18), Светозара Марковића (1-12), Вожда Карађорђа (парни бр. 10-24);",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "7108be27da99",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Медијана",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "делови улица 7. Јула",
+        "Мачванске",
+        "Лоле Рибара (18) и Краља Стефана Првовенчаног (7);"
+      ],
+      "reason": null,
+      "note": "делови улица 7. Јула, Мачванске, Лоле Рибара (18) и Краља Стефана Првовенчаног (7);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "a552e7ec2e76",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Медијана",
+      "time": {
+        "start": "11:00",
+        "end": "13:30"
+      },
+      "streets": [
+        "део улице Бранка Крсмановића (12);"
+      ],
+      "reason": null,
+      "note": "део улице Бранка Крсмановића (12);",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
