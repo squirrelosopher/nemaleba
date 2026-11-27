@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "7639d5b867f2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-26",
-      "areaLabel": "Сремска Митровица",
-      "time": {
-        "start": "10:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Сремска Митровица: Ул. Петра Прерадовића од бр. 43-69б"
-      ],
-      "reason": null,
-      "note": "Сремска Митровица: Ул. Петра Прерадовића од бр. 43-69б",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "014a6e481f87",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,24 @@
       ],
       "reason": null,
       "note": "Сремска Митровица: Ул. Петра Прерадовића од бр. 43-69б",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "638105606982",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Сремска Митровица",
+      "time": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Сремска Митровица: Петра Прерадовића 69-121."
+      ],
+      "reason": null,
+      "note": "Сремска Митровица: Петра Прерадовића 69-121.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

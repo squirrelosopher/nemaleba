@@ -5,56 +5,7 @@
     "nameLatin": "Vršac",
     "branchCyrillic": "Панчево"
   },
-  "outages": [
-    {
-      "id": "7b9ddd40cd11",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-26",
-      "areaLabel": "Вршац",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Н. Толстоја 175А",
-        "177",
-        "Х. Пинкија 228А",
-        "232",
-        "234",
-        "209А",
-        "211",
-        "213",
-        "И. Милутиновића од 198 до краја",
-        "И. Токина 1-7",
-        "2-14",
-        "Куштиљска."
-      ],
-      "reason": null,
-      "note": "Н. Толстоја 175А, 177, Х. Пинкија 228А, 232, 234,209А, 211, 213, И. Милутиновића од 198 до краја, И. Токина 1-7, 2-14, Куштиљска.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "501a07351a97",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-26",
-      "areaLabel": "Вршац",
-      "time": {
-        "start": "08:30",
-        "end": "10:00"
-      },
-      "streets": [
-        "Његошева 1-17",
-        "2-20",
-        "Т Рајића 6",
-        "Х. Проданова."
-      ],
-      "reason": null,
-      "note": "Његошева 1-17, 2-20, Т Рајића 6, Х. Проданова.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-29",

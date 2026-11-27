@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "БЛАГОЈА МАРЈАНОВИЋА-МОШЕ: 2-24,7-37, БОЦЕ И ЈАКШЕ: 2-40,3-5, ДИМИТРИЈА ГЕОРГИЈЕВИЋА-СТАРИКА: 2-108, ДРАГИШЕ БРАШОВАНА: 26-60, ПАРТИЗАНСКЕ АВИЈАЦИЈЕ: 7-13, СТОЈАНА АРАЛИЦЕ: 2-2,1-163, ТРАЈКА РАЈКОВИЋА: 2-8,1-7, ВАЈАРА ЖИВОЈИНА ЛУКИЋА: 18-60,17-55, ВАСИЛИЈА ЂУРОВИЋА-ВАКА: 1-71, ВЕЛЕМАЈСТОРА БОРЕ КОСТИЋА: 2-40,1-59, Насеље БЕОГРАД: ДР ТЕОДОРА БОРОЦКОГ: 2-60,64-94,1-83,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
     },
     {
       "id": "e69ee1672049",
@@ -38,7 +38,41 @@
       ],
       "reason": null,
       "note": "ПРЕКОНОШКА УЛИЦА: 28Б-28В,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "709d79c85914",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "09:00",
+        "end": "11:30"
+      },
+      "streets": [
+        "МИЛУТИНА МИЛАНКОВИЋА: 1В"
+      ],
+      "reason": null,
+      "note": "МИЛУТИНА МИЛАНКОВИЋА: 1В,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "773c5bc94498",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Нови Београд",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "АНТИФАШИСТИЧКЕ БОРБЕ : 69а,77, ЈУРИЈА ГАГАРИНА: 10а"
+      ],
+      "reason": null,
+      "note": "АНТИФАШИСТИЧКЕ БОРБЕ : 69а,77, ЈУРИЈА ГАГАРИНА: 10а,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

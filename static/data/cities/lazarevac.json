@@ -21,7 +21,7 @@
       ],
       "reason": null,
       "note": "Насељено место Соколово (засеок Центар).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "c719812754ae",
@@ -38,7 +38,7 @@
       ],
       "reason": null,
       "note": "Насеље Лесковац (засеок Црква).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     },
     {
       "id": "31b0832d1cfc",
@@ -55,7 +55,75 @@
       ],
       "reason": null,
       "note": "Насеље Шушњар: део улице Војводе Путника 32-52,45-75, Марка Тајчевића,Ђуре Даничића,Стефана Првовенчаног, Јелисавете Начић,Церови (засеок Шушњар 1).",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "80efe52b1cce",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Насеље Степојевац засеок Цигани."
+      ],
+      "reason": null,
+      "note": "Насеље Степојевац засеок Цигани.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "1c605dc80a35",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насеље Стубица засеок Чесма."
+      ],
+      "reason": null,
+      "note": "Насеље Стубица засеок Чесма.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "78746ad68fca",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "09:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Љиг: насеље Цветановац засеок Шеварице-према Гагићу."
+      ],
+      "reason": null,
+      "note": "Љиг: насеље Цветановац засеок Шеварице-према Гагићу.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "db5fff75e15f",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Лазаревац",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Насеље Чибутковица засеок Дом."
+      ],
+      "reason": null,
+      "note": "Насеље Чибутковица засеок Дом.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

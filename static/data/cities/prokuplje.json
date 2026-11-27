@@ -7,59 +7,6 @@
   },
   "outages": [
     {
-      "id": "6b1fd7770899",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-26",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Ратка Павловића и Вуковарска"
-      ],
-      "reason": null,
-      "note": "Ратка Павловића и Вуковарска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "929e8aecdece",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-26",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "10:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Бошка Југовића",
-        "Балканска",
-        "Јаворова"
-      ],
-      "reason": null,
-      "note": "Бошка Југовића, Балканска, Јаворова",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "f583ee0dfa37",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-26",
-      "areaLabel": "Прокупље",
-      "time": {
-        "start": "12:30",
-        "end": "13:30"
-      },
-      "streets": [
-        "Зорана Радмиловића"
-      ],
-      "reason": null,
-      "note": "Зорана Радмиловића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "97de955a576d",
       "utility": "electricity",
       "kind": "planned",
@@ -74,7 +21,7 @@
       ],
       "reason": null,
       "note": "Део Југ Богданове преко пута Поште",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "2438368adba1",
@@ -91,7 +38,7 @@
       ],
       "reason": null,
       "note": "Део Милена Јовановића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "269e866a0932",
@@ -108,7 +55,7 @@
       ],
       "reason": null,
       "note": "Таковска",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [

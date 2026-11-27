@@ -5,7 +5,25 @@
     "nameLatin": "Rakovica",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "71dc821d4412",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Раковица",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Насеље РЕСНИК: АЛЕКСАНДРА ВОЈИНОВИЋА: 86А-100"
+      ],
+      "reason": null,
+      "note": "Насеље РЕСНИК: АЛЕКСАНДРА ВОЈИНОВИЋА: 86А-100,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-29",

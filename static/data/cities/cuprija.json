@@ -7,44 +7,6 @@
   },
   "outages": [
     {
-      "id": "0bb98b71face",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-26",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део села Вирина од цркве ка центру села"
-      ],
-      "reason": null,
-      "note": "део села Вирина од цркве ка центру села",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "a2bb36e6099d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-26",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "у Деспотовцу :насеље Јовачко поље",
-        "Буковачка растока",
-        "пречистач отпадних вода",
-        "Слога-економија",
-        "погон Фабрике Каблова и сервис Деспотовац"
-      ],
-      "reason": null,
-      "note": "у Деспотовцу :насеље Јовачко поље,Буковачка растока,пречистач отпадних вода,Слога-економија,погон Фабрике Каблова и сервис Деспотовац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "d9ffc09f1390",
       "utility": "electricity",
       "kind": "planned",
@@ -59,7 +21,7 @@
       ],
       "reason": null,
       "note": "део Старог села",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "af646a781288",
@@ -76,7 +38,27 @@
       ],
       "reason": null,
       "note": "ул. Цара Лазара од бр.1 до бр.55",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "45129885ca60",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "улица Шпанских бораца и улица Ђуре Јакшића до семафора",
+        "пекара Лале Забадлија",
+        "технички преглед Лале Забадлија",
+        "ЈКП Равно."
+      ],
+      "reason": null,
+      "note": "улица Шпанских бораца и улица Ђуре Јакшића до семафора,пекара Лале Забадлија,технички преглед Лале Забадлија,ЈКП Равно.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

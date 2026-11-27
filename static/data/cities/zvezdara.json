@@ -21,24 +21,7 @@
       ],
       "reason": null,
       "note": "РУЖЕ ЈОВАНОВИЋ: 24,32, ВОЈЕ ВЕЉКОВИЋА: 33-45, ЖАБЉАЧКА: 11,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
-    },
-    {
-      "id": "a570d482cc77",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Звездара",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "КРИЖАНИЋЕВА: 26"
-      ],
-      "reason": null,
-      "note": "КРИЖАНИЋЕВА: 26,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
     }
   ],
   "history": [
@@ -189,7 +172,7 @@
     },
     {
       "date": "2026-11-27",
-      "electricityOutages": 2,
+      "electricityOutages": 1,
       "waterOutages": 0
     }
   ]

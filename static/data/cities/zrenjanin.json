@@ -112,23 +112,6 @@
       "sourceUrl": "https://vikzr.rs/radovi-na-vodovodnoj-mrezi-na-dan-24-11-2026-godine/"
     },
     {
-      "id": "cfaed1fb41ab",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-26",
-      "areaLabel": "Зрењанин",
-      "time": {
-        "start": "09:00",
-        "end": "11:00"
-      },
-      "streets": [
-        "Насељено место Орловат"
-      ],
-      "reason": null,
-      "note": "Насељено место Орловат",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "09d94544ae74",
       "utility": "electricity",
       "kind": "planned",
@@ -143,7 +126,7 @@
       ],
       "reason": null,
       "note": "Зрењанин: део Темишварског друма.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "4304edb9475f",
@@ -160,6 +143,40 @@
       ],
       "reason": null,
       "note": "Зрењанин: део Баштенска, део Доситеја Обрадовића, Доситејева, део Др Тихомира Остојића, Житна, део Игманска, део Јунака Василија Ристића, Панонска, Повртларска, Сурдучка, Тителски Средњи Ред, део Фрање Клуза, Виноградска, Др Васе Савића, Србобранска, Тителска.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "827f5adb5623",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Елемир: део Пролетерске."
+      ],
+      "reason": null,
+      "note": "Елемир: део Пролетерске.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "c15f575f5a4d",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Зрењанин",
+      "time": {
+        "start": "11:30",
+        "end": "12:30"
+      },
+      "streets": [
+        "Јанков Мост: део Маршала Тита."
+      ],
+      "reason": null,
+      "note": "Јанков Мост: део Маршала Тита.",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],

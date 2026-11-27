@@ -21,21 +21,72 @@
       "sourceUrl": "https://www.vodovod-ruma.co.rs/obavestenja/obavestenje-irig-46/"
     },
     {
-      "id": "15badf402c6d",
+      "id": "91a995d77969",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-26",
+      "date": "2026-11-30",
+      "areaLabel": "Ириг",
+      "time": {
+        "start": "08:00",
+        "end": "14:30"
+      },
+      "streets": [
+        "КОМПЛЕТНО НАСЕЉЕНО МЕСТО РИВИЦА"
+      ],
+      "reason": null,
+      "note": "КОМПЛЕТНО НАСЕЉЕНО МЕСТО РИВИЦА",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "e6832464052e",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
       "areaLabel": "Ириг",
       "time": {
         "start": "08:30",
         "end": "14:00"
       },
       "streets": [
-        "Ириг: ул. Крсташице у викенд насељу Крсташице"
+        "ИРИГ: Крсташице у викенд насељу Крсташице."
       ],
       "reason": null,
-      "note": "Ириг: ул. Крсташице у викенд насељу Крсташице",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "ИРИГ: Крсташице у викенд насељу Крсташице.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "5165974ebadb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Ириг",
+      "time": {
+        "start": "11:00",
+        "end": "11:30"
+      },
+      "streets": [
+        "Н.ПАЗОВА: Део ул.Ц.Душана око бр.88."
+      ],
+      "reason": null,
+      "note": "Н.ПАЗОВА: Део ул.Ц.Душана око бр.88.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "9b6dfbda17fc",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Ириг",
+      "time": {
+        "start": "12:00",
+        "end": "12:30"
+      },
+      "streets": [
+        "ВРДНИК: Нова колонија 5 и 6."
+      ],
+      "reason": null,
+      "note": "ВРДНИК: Нова колонија 5 и 6.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

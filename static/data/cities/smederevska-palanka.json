@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "900698ca6a66",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-26",
-      "areaLabel": "Смедеревска Паланка",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Село Баничина осим трафореона: Каменолом, Марковићи, Бубањ, Голо брдо и Бујковац 2"
-      ],
-      "reason": null,
-      "note": "Село Баничина осим трафореона: Каменолом, Марковићи, Бубањ, Голо брдо и Бујковац 2",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "48de8732fe2d",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +22,41 @@
       ],
       "reason": null,
       "note": "Село Мала Плана укључујућу и трафореон „Кленак“, односно од врха Микуље дуж пута за Малу Плану.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "1a9451736808",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Смедеревска Паланка",
+      "time": {
+        "start": "09:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Зграда Пензионер у ул. Вука Караџића и потрошачи у улицама: ул. Вука Караџића од бр.20 до бр. 29. укључујући и зграде на бр. 35 и 35/1, ул. Светог Саве од. бр. 18 до бр. 34, ул. Војводе Мишића од бр. 37 до бр. 47, ул. Шулејићева бр. 2 као и два новосаграђена пословно-стамбена објекта у ул. 10. Октобра на бројевима 15 и 26."
+      ],
+      "reason": null,
+      "note": "Зграда Пензионер у ул. Вука Караџића и потрошачи у улицама: ул. Вука Караџића од бр.20 до бр. 29. укључујући и зграде на бр. 35 и 35/1, ул. Светог Саве од. бр. 18 до бр. 34, ул. Војводе Мишића од бр. 37 до бр. 47, ул. Шулејићева бр. 2 као и два новосаграђена пословно-стамбена објекта у ул. 10. Октобра на бројевима 15 и 26.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "67c4bf4be139",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Смедеревска Паланка",
+      "time": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Улица Првог српског устанка у Смед. Паланци од броја 174 до броја 204 укључујући и фирму \"Солко\" доо"
+      ],
+      "reason": null,
+      "note": "Улица Првог српског устанка у Смед. Паланци од броја 174 до броја 204 укључујући и фирму \"Солко\" доо",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

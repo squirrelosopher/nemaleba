@@ -5,7 +5,42 @@
     "nameLatin": "Čukarica",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "f7e2fce6d3cf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": "08:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "ЦВЕЋАРСКА: 12,13-15, Насеље ЖАРКОВО: БРАЋЕ ВУЧКОВИЋ: 46-48А, ОДАБАШИЋЕВА: 18А,22,9-15, ПРОТЕ МИЛОРАДА ПАВЛОВИЋА: 42-44,54,62-74,25-27,39-65, РАЈКА РУЖИЋА: 24"
+      ],
+      "reason": null,
+      "note": "ЦВЕЋАРСКА: 12,13-15, Насеље ЖАРКОВО: БРАЋЕ ВУЧКОВИЋ: 46-48А, ОДАБАШИЋЕВА: 18А,22,9-15, ПРОТЕ МИЛОРАДА ПАВЛОВИЋА: 42-44,54,62-74,25-27,39-65, РАЈКА РУЖИЋА: 24,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "dbef57654efb",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Чукарица",
+      "time": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "streets": [
+        "Насеље МАКИШ: БОРЕ СТАНКОВИЋА: ББ,4-6Б"
+      ],
+      "reason": null,
+      "note": "Насеље МАКИШ: БОРЕ СТАНКОВИЋА: ББ,4-6Б,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-29",

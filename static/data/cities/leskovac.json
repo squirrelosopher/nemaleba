@@ -5,30 +5,7 @@
     "nameLatin": "Leskovac",
     "branchCyrillic": "Лесковац"
   },
-  "outages": [
-    {
-      "id": "fa8786d66935",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-26",
-      "areaLabel": "Лесковац",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Кнеза Милоша",
-        "Студеничка",
-        "Светог Саве",
-        "Власинска",
-        "Устаничка од бр. 8 до бр. 22",
-        "Војводе Бојовића и Обрада Лучића од бр. 1 до бр. 27А"
-      ],
-      "reason": null,
-      "note": "Кнеза Милоша, Студеничка, Светог Саве, Власинска, Устаничка од бр. 8 до бр. 22, Војводе Бојовића и Обрада Лучића од бр. 1 до бр. 27А",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-29",

@@ -5,7 +5,25 @@
     "nameLatin": "Stari grad",
     "branchCyrillic": "Београд"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "936e2f4d5636",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Стари град",
+      "time": {
+        "start": "09:00",
+        "end": "10:30"
+      },
+      "streets": [
+        "ЏОРЏА ВАШИНГТОНА: 26-32,17, ХИЛАНДАРСКА: 19, ЈЕЛЕНЕ ЋЕТКОВИЋ: 12-14"
+      ],
+      "reason": null,
+      "note": "ЏОРЏА ВАШИНГТОНА: 26-32,17, ХИЛАНДАРСКА: 19, ЈЕЛЕНЕ ЋЕТКОВИЋ: 12-14,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-29",

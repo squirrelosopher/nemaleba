@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "499f6655f0e2",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-26",
-      "areaLabel": "Кикинда",
-      "time": {
-        "start": "08:15",
-        "end": "11:15"
-      },
-      "streets": [
-        "Кикинда: Сувачарска од Жарка Зрењанина до Ђуре Даничића, Ђуре Даничића од Сувачарске до Албертова."
-      ],
-      "reason": null,
-      "note": "Кикинда: Сувачарска од Жарка Зрењанина до Ђуре Даничића, Ђуре Даничића од Сувачарске до Албертова.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "6b72c0fd9f9d",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,58 @@
       ],
       "reason": null,
       "note": "Кикинда: Генерала Драпшина од Карађорђеве до Ивана Милутиновића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "0eb2f40ec747",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "10:00"
+      },
+      "streets": [
+        "Кикинда: Чанадска од Ђуре Јакшића до Светозара Милетића, Светозара Милетића од ул.Чанадске до ул.Душана Васиљевића."
+      ],
+      "reason": null,
+      "note": "Кикинда: Чанадска од Ђуре Јакшића до Светозара Милетића, Светозара Милетића од ул.Чанадске до ул.Душана Васиљевића.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "3321641eba24",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Кикинда: Карађорђева парна страна од Стевана Сремца до Пере Сегединца."
+      ],
+      "reason": null,
+      "note": "Кикинда: Карађорђева парна страна од Стевана Сремца до Пере Сегединца.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "911604afb857",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "10:10",
+        "end": "12:10"
+      },
+      "streets": [
+        "Кикинда: Косовска од Јована Јовановића Змаја до Угљеше Терзина, Угљеше Терзина од Косовске до Михајла Пупина."
+      ],
+      "reason": null,
+      "note": "Кикинда: Косовска од Јована Јовановића Змаја до Угљеше Терзина, Угљеше Терзина од Косовске до Михајла Пупина.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

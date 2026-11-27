@@ -5,25 +5,7 @@
     "nameLatin": "Pirot",
     "branchCyrillic": "Пирот"
   },
-  "outages": [
-    {
-      "id": "3d37a3e8420d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-26",
-      "areaLabel": "Пирот",
-      "time": {
-        "start": "11:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Улица Лазе Лазаревића"
-      ],
-      "reason": null,
-      "note": "Улица Лазе Лазаревића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-29",

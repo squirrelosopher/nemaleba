@@ -21,7 +21,41 @@
       ],
       "reason": null,
       "note": "Насеље ПИРОМАН: КОД ДОМА: 255, МИЛЕТЕ ЕРАКОВИЋА: 20,28,190,206,218,5,13,29,171,195, МИЛУТИНА ЕРАКОВИЋА: 22,64А,70,76-76А,104,110,118,222-224,242,250,3,101,131,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
+    },
+    {
+      "id": "a7c0e403c9b6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Обреновац",
+      "time": {
+        "start": "08:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Насеље БАЉЕВАЦ: ДУБРОВАЧКИ КРАЈ: 108,112-118А,122Б,136,140-142,148,113-115,121А-121Ц,125,131Е-131Х,143,1111ББ, ЈАНКОВИЋА КРАЈ: 110А,119Б-121Д,131Б-131Ф, ЈАНКОВИЋЕВА: 24-26,30Б-30В,34-40,13-19,23"
+      ],
+      "reason": null,
+      "note": "Насеље БАЉЕВАЦ: ДУБРОВАЧКИ КРАЈ: 108,112-118А,122Б,136,140-142,148,113-115,121А-121Ц,125,131Е-131Х,143,1111ББ, ЈАНКОВИЋА КРАЈ: 110А,119Б-121Д,131Б-131Ф, ЈАНКОВИЋЕВА: 24-26,30Б-30В,34-40,13-19,23,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "083ac583a8aa",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Обреновац",
+      "time": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Насеље ОБРЕНОВАЦ: МИЛОША ОБРЕНОВИЋА: 124"
+      ],
+      "reason": null,
+      "note": "Насеље ОБРЕНОВАЦ: МИЛОША ОБРЕНОВИЋА: 124,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [

@@ -5,7 +5,42 @@
     "nameLatin": "Stara Pazova",
     "branchCyrillic": "Рума"
   },
-  "outages": [],
+  "outages": [
+    {
+      "id": "23d86e290482",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Стара Пазова",
+      "time": {
+        "start": "09:20",
+        "end": "09:50"
+      },
+      "streets": [
+        "С.ПАЗОВА: Б.Фелди око бр.23."
+      ],
+      "reason": null,
+      "note": "С.ПАЗОВА: Б.Фелди око бр.23.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "700154da65d1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-11-30",
+      "areaLabel": "Стара Пазова",
+      "time": {
+        "start": "10:00",
+        "end": "10:30"
+      },
+      "streets": [
+        "С.ПАЗОВА: Део Масарикова око бр.42."
+      ],
+      "reason": null,
+      "note": "С.ПАЗОВА: Део Масарикова око бр.42.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-29",
