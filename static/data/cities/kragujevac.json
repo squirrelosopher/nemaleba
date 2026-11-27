@@ -857,6 +857,55 @@
       "note": "Палилуле, ул. Кнеза Михајла ( од 16:00 до 19:00 часова ), квар у шахти."
     },
     {
+      "id": "c351dcc5f0b2",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-27-11-2026/",
+      "areaLabel": "Васића",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [],
+      "reason": "замена хидранта",
+      "note": "Колонија, угао 1.Шумадијске бригаде – З.Васића ( од 08:00 до 12:00 часова ), замена хидранта."
+    },
+    {
+      "id": "e3039f46cbd1",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-27-11-2026/",
+      "areaLabel": "Ердеч",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Катарине Ивановић"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Ердеч, ул. Катарине Ивановић ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "5d82af864619",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-27-11-2026/",
+      "areaLabel": "Козујево",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Краљевачког батаљона"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Хаваријска искључења на дан 27.11.2026. \n \n Козујево, ул. Краљевачког батаљона ( од 08:00 до 12:00 часова ), поправка кућног прикључка."
+    },
+    {
       "id": "ac9e84012ab2",
       "utility": "electricity",
       "kind": "planned",
@@ -893,6 +942,108 @@
       "reason": null,
       "note": "Драгослава Срејовића - 55",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+    },
+    {
+      "id": "2dbb001fd65b",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-27-11-2026/",
+      "areaLabel": "Ердоглија",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Сувоборска"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Ердоглија, ул. Сувоборска ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "f49d6cff797a",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-27-11-2026/",
+      "areaLabel": "Илина вода",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Живка Мијајиловића"
+      ],
+      "reason": "поправка уличне линије",
+      "note": "Илина вода, ул. Живка Мијајиловића ( од 12:00 до 16:00 часова ), поправка уличне линије."
+    },
+    {
+      "id": "33fb91447076",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-27-11-2026/",
+      "areaLabel": "Мале Пчелице",
+      "time": {
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "streets": [
+        "Подгоричка"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Мале Пчелице, ул. Подгоричка ( од 12:00 до 16:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "fab6b55a234c",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-27-11-2026/",
+      "areaLabel": "Вишњак",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Момчила Стефановића"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Вишњак, ул. Момчила Стефановића ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "4dcf0e447512",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-27-11-2026/",
+      "areaLabel": "Кошутњак",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Мајданска"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Кошутњак, ул. Мајданска ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
+    },
+    {
+      "id": "0d7261e6df78",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "sourceUrl": "https://jkpvik-kg.com/havarijska-iskljucenja-27-11-2026/",
+      "areaLabel": "Мала вага",
+      "time": {
+        "start": "16:00",
+        "end": "19:00"
+      },
+      "streets": [
+        "Кнеза Михајла"
+      ],
+      "reason": "поправка кућног прикључка",
+      "note": "Мала вага, ул. Кнеза Михајла ( од 16:00 до 19:00 часова ), поправка кућног прикључка."
     },
     {
       "id": "580a02167ce2",
@@ -1063,7 +1214,7 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 3,
-      "waterOutages": 0
+      "waterOutages": 9
     }
   ]
 }
