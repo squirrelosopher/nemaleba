@@ -324,6 +324,23 @@
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
     },
     {
+      "id": "718528546071",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "areaLabel": "Нови Сад",
+      "time": {
+        "start": null,
+        "end": "12:00"
+      },
+      "streets": [
+        "Улица Војислава Јовановића Марамба"
+      ],
+      "reason": null,
+      "note": "Због радова на санацији хаварије без воде ће до 12 сати бити Улица Војислава Јовановића Марамба.",
+      "sourceUrl": "https://www.vikns.rs/najava-radova-sr/na%d1%98ava-radova-za-petak-27-11-2026/"
+    },
+    {
       "id": "a74d6cc75f40",
       "utility": "water",
       "kind": "emergency",
@@ -583,7 +600,7 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 8,
-      "waterOutages": 3
+      "waterOutages": 4
     }
   ]
 }
