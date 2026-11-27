@@ -5,67 +5,7 @@
     "nameLatin": "Bor",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "1094b5bdabb9",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-23",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Улица Стевана Мокрањца број 56 – санација и зидање шахте",
-        "Демонтажа пумпи на градским фонтанама",
-        "Шарбановац – Тимок"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Улица Стевана Мокрањца број 56 – санација и зидање шахте Демонтажа пумпи на градским фонтанама Шарбановац – Тимок Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-ponedeljak-23-11-2026-god/"
-    },
-    {
-      "id": "bfbebb21617a",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-25",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Улица Брковића Црног",
-        "Његошева улица"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Улица Брковића Црног Његошева улица Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-sreda-25-11-2026-god/"
-    },
-    {
-      "id": "339e1ab8b9d4",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-26",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Злот"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Злот Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-cetvrtak-26-11-2026-god/"
-    },
-    {
-      "id": "0bb12ef444d9",
-      "utility": "water",
-      "kind": "emergency",
-      "date": "2026-11-27",
-      "areaLabel": "Бор",
-      "time": null,
-      "streets": [
-        "Савача"
-      ],
-      "reason": "Санација кварова на водоводној мрежи",
-      "note": "Савача Кварови на мерним местима – у шахтама",
-      "sourceUrl": "https://vodovodbor.com/dnevni-plan-rada-petak-27-11-2026-god/"
-    }
-  ],
+  "outages": [],
   "history": [
     {
       "date": "2026-10-29",
@@ -215,7 +155,7 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 0,
-      "waterOutages": 1
+      "waterOutages": 0
     }
   ]
 }
