@@ -7,6 +7,21 @@
   },
   "outages": [
     {
+      "id": "acf32d429279",
+      "utility": "water",
+      "kind": "emergency",
+      "date": "2026-11-27",
+      "areaLabel": "Палилула",
+      "time": {
+        "start": null,
+        "end": "19:00"
+      },
+      "streets": [],
+      "reason": null,
+      "note": "ПРОДУЖЕТАК РАДОВА У НАСЕЉУ ПАЛИЛУЛА родужавају се радови у Његошевој улици код броја 43. Због поправке водоводне мреже остаје у прекиду водоснабдевање до 19 часова у Његошевој улици као и у Неготинској улици са прилазом.",
+      "sourceUrl": "https://jkpnaissus.co.rs/%d0%bd%d0%be%d0%b2%d0%be-%d1%81%d0%b0%d0%be%d0%bf%d1%88%d1%82%d0%b5%d1%9a%d0%b5-%d0%be-%d0%b2%d0%be%d0%b4%d0%be%d1%81%d0%bd%d0%b0%d0%b1%d0%b4%d0%b5%d0%b2%d0%b0%d1%9a%d1%83-30/"
+    },
+    {
       "id": "c8eb9826e85d",
       "utility": "electricity",
       "kind": "planned",

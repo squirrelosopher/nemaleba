@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-28T10:11:13.927Z",
+  "generatedAt": "2026-11-28T11:40:09.392Z",
   "summary": {
     "date": "2026-11-28",
     "electricityOutages": 145,
-    "waterOutages": 2,
+    "waterOutages": 5,
     "affected": [
       {
         "id": "beograd",
@@ -24,6 +24,12 @@
         "waterOutages": 0
       },
       {
+        "id": "nis",
+        "nameCyrillic": "Ниш",
+        "electricityOutages": 5,
+        "waterOutages": 3
+      },
+      {
         "id": "subotica",
         "nameCyrillic": "Суботица",
         "electricityOutages": 8,
@@ -38,12 +44,6 @@
       {
         "id": "kikinda",
         "nameCyrillic": "Кикинда",
-        "electricityOutages": 5,
-        "waterOutages": 0
-      },
-      {
-        "id": "nis",
-        "nameCyrillic": "Ниш",
         "electricityOutages": 5,
         "waterOutages": 0
       },
@@ -408,7 +408,7 @@
     {
       "date": "2026-11-28",
       "electricityOutages": 12,
-      "waterOutages": 2
+      "waterOutages": 3
     }
   ],
   "providers": [
