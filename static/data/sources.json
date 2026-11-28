@@ -115,7 +115,7 @@
     "entries": 0,
     "lastNonEmpty": "2026-11-28",
     "unreadable": [
-      "response was not JSON for https://vodovodca.rs/wp-json/wp/v2/posts?categories=3&per_page=12&_fields=link,date,title,content"
+      "fetch failed for https://vodovodca.rs/wp-json/wp/v2/posts?categories=3&per_page=12&_fields=link,date,title,content"
     ],
     "lastComplete": "2026-11-28"
   }
