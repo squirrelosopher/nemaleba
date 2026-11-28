@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "bb12824f3e27",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Фирма Драговић на ковинском путу"
-      ],
-      "reason": null,
-      "note": "Фирма Драговић на ковинском путу",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "aab2951fa8ae",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Смедерево",
-      "time": {
-        "start": "09:00",
-        "end": "15:00"
-      },
-      "streets": [
-        "Мала Крсна-Пожаревачки пут"
-      ],
-      "reason": null,
-      "note": "Мала Крсна-Пожаревачки пут",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "8317a191ced9",
       "utility": "electricity",
       "kind": "planned",
@@ -55,7 +21,7 @@
       ],
       "reason": null,
       "note": "Индустријска зона - фирме дуж Шалиначке улице и Улице Ђуре Салаја",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_1_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
     },
     {
       "id": "c96f4cf90977",
@@ -72,15 +38,27 @@
       ],
       "reason": null,
       "note": "Краља Милутина 7 и 9",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "18651f679215",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-12-01",
+      "areaLabel": "Смедерево",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Пожаревачки пут"
+      ],
+      "reason": null,
+      "note": "Пожаревачки пут",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-29",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-30",
       "electricityOutages": 1,
@@ -223,6 +201,11 @@
     },
     {
       "date": "2026-11-27",
+      "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
       "electricityOutages": 2,
       "waterOutages": 0
     }

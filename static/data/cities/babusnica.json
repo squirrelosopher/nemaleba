@@ -7,57 +7,6 @@
   },
   "outages": [
     {
-      "id": "ffb15768c527",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Село Горчинце"
-      ],
-      "reason": null,
-      "note": "Село Горчинце",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "d2ec15fb4896",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "08:30",
-        "end": "14:00"
-      },
-      "streets": [
-        "Село Камбелевац"
-      ],
-      "reason": null,
-      "note": "Село Камбелевац",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "2404e5b3be1a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Бабушница",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Село Остатовица"
-      ],
-      "reason": null,
-      "note": "Село Остатовица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "7ef1fe782b5a",
       "utility": "electricity",
       "kind": "planned",
@@ -72,7 +21,7 @@
       ],
       "reason": null,
       "note": "Село Горчинце",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "4bc341472346",
@@ -89,15 +38,10 @@
       ],
       "reason": null,
       "note": "Село Остатовица",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-29",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-30",
       "electricityOutages": 2,
@@ -241,6 +185,11 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 3,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

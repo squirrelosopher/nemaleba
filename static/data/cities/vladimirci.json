@@ -7,29 +7,24 @@
   },
   "outages": [
     {
-      "id": "88f8e23c2a01",
+      "id": "4413d98f3bfa",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-27",
+      "date": "2026-12-01",
       "areaLabel": "Владимирци",
       "time": {
-        "start": "09:00",
-        "end": "14:00"
+        "start": "08:00",
+        "end": "17:00"
       },
       "streets": [
-        "БЕЗ СТРУЈЕ ОСТАЈЕ ДЕО МАТИЈЕВЦА (НАСЕЉЕ КОЗАРА)"
+        "БЕЗ НАПОНА ОСТАЈУ СЕЛА МЕСАРЦИ И СУВО СЕЛО"
       ],
       "reason": null,
-      "note": "БЕЗ СТРУЈЕ ОСТАЈЕ ДЕО МАТИЈЕВЦА (НАСЕЉЕ КОЗАРА)",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "БЕЗ НАПОНА ОСТАЈУ СЕЛА МЕСАРЦИ И СУВО СЕЛО",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-29",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-30",
       "electricityOutages": 0,
@@ -173,6 +168,11 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

@@ -5,33 +5,8 @@
     "nameLatin": "Zaječar",
     "branchCyrillic": "Зајечар"
   },
-  "outages": [
-    {
-      "id": "20231e0a540f",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Зајечар",
-      "time": {
-        "start": "09:00",
-        "end": "10:00"
-      },
-      "streets": [
-        "Вражогрнац",
-        "Трнавац",
-        "Николичево"
-      ],
-      "reason": null,
-      "note": "Вражогрнац, Трнавац, Николичево",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Nis_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-29",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-30",
       "electricityOutages": 2,
@@ -175,6 +150,11 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

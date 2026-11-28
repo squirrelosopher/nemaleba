@@ -7,78 +7,6 @@
   },
   "outages": [
     {
-      "id": "184bf72da733",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Лозница",
-      "time": {
-        "start": "08:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Симино Брдо",
-        "Филиповићи",
-        "Кик",
-        "Бања Бадања 1 и 2"
-      ],
-      "reason": null,
-      "note": "Симино Брдо, Филиповићи, Кик, Бања Бадања 1 и 2",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "5b6373f7113d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Лозница",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "Варош Лешница улица Владимира Мићића"
-      ],
-      "reason": null,
-      "note": "Варош Лешница улица Владимира Мићића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ef80faa4280a",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Лозница",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Лозница улица Змај јовина"
-      ],
-      "reason": null,
-      "note": "Лозница улица Змај јовина",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "ec7891254cff",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Лозница",
-      "time": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "streets": [
-        "Доња Добрић - засеоци Костадиновићи",
-        "Доња мала и Бареш"
-      ],
-      "reason": null,
-      "note": "Доња Добрић - засеоци Костадиновићи, Доња мала и Бареш",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "fb65269ec4c9",
       "utility": "electricity",
       "kind": "planned",
@@ -96,7 +24,7 @@
       ],
       "reason": null,
       "note": "Коренита, Прљуша, Гај, Троноша",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "bdf1ccea3ecd",
@@ -116,15 +44,10 @@
       ],
       "reason": null,
       "note": "Симино Брдо, Филиповићи, Кик, Бања Бадања 1 и 2",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-29",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-30",
       "electricityOutages": 0,
@@ -268,6 +191,11 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 4,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

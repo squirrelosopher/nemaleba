@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "6b72c0fd9f9d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Кикинда",
-      "time": {
-        "start": "08:15",
-        "end": "11:15"
-      },
-      "streets": [
-        "Кикинда: Генерала Драпшина од Карађорђеве до Ивана Милутиновића"
-      ],
-      "reason": null,
-      "note": "Кикинда: Генерала Драпшина од Карађорђеве до Ивана Милутиновића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "0eb2f40ec747",
       "utility": "electricity",
       "kind": "planned",
@@ -38,7 +21,7 @@
       ],
       "reason": null,
       "note": "Кикинда: Чанадска од Ђуре Јакшића до Светозара Милетића, Светозара Милетића од ул.Чанадске до ул.Душана Васиљевића.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "3321641eba24",
@@ -55,7 +38,7 @@
       ],
       "reason": null,
       "note": "Кикинда: Карађорђева парна страна од Стевана Сремца до Пере Сегединца.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "911604afb857",
@@ -72,15 +55,44 @@
       ],
       "reason": null,
       "note": "Кикинда: Косовска од Јована Јовановића Змаја до Угљеше Терзина, Угљеше Терзина од Косовске до Михајла Пупина.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "509db30b3f8a",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-12-01",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "08:00",
+        "end": "12:00"
+      },
+      "streets": [
+        "Кикинда: Милоша Остојина од Партизанске до Михајла Пупина."
+      ],
+      "reason": null,
+      "note": "Кикинда: Милоша Остојина од Партизанске до Михајла Пупина.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "916695b275e1",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-12-01",
+      "areaLabel": "Кикинда",
+      "time": {
+        "start": "10:00",
+        "end": "11:00"
+      },
+      "streets": [
+        "Цело село Наково"
+      ],
+      "reason": null,
+      "note": "Цело село Наково",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-29",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-30",
       "electricityOutages": 0,
@@ -224,6 +236,11 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

@@ -7,44 +7,6 @@
   },
   "outages": [
     {
-      "id": "8aa020e3dbe7",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Горњи Милановац",
-      "time": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Корисници у Теочину са Трафо станице Горњи Сарићи"
-      ],
-      "reason": null,
-      "note": "Корисници у Теочину са Трафо станице Горњи Сарићи",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "7894ad586f11",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Горњи Милановац",
-      "time": {
-        "start": "09:00",
-        "end": "16:00"
-      },
-      "streets": [
-        "Накучани",
-        "Шилопај",
-        "Крива Река",
-        "Давидовица",
-        "Церова и Мутањ"
-      ],
-      "reason": null,
-      "note": "Накучани, Шилопај, Крива Река, Давидовица, Церова и Мутањ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "50b388594e2f",
       "utility": "electricity",
       "kind": "planned",
@@ -62,15 +24,10 @@
       ],
       "reason": null,
       "note": "Накучани,Шилопај,Давидовица,Крива река и Мутањ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-29",
-      "electricityOutages": 2,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-30",
       "electricityOutages": 2,
@@ -214,6 +171,11 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

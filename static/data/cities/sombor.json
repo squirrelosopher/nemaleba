@@ -5,31 +5,8 @@
     "nameLatin": "Sombor",
     "branchCyrillic": "Сомбор"
   },
-  "outages": [
-    {
-      "id": "c8d19d0a48da",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Сомбор",
-      "time": {
-        "start": "09:00",
-        "end": "13:00"
-      },
-      "streets": [
-        "Бачки Моноштор: Партизанска, Браће Мишковић, Братства-Јединства и део Пионирске."
-      ],
-      "reason": null,
-      "note": "Бачки Моноштор: Партизанска, Браће Мишковић, Братства-Јединства и део Пионирске.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    }
-  ],
+  "outages": [],
   "history": [
-    {
-      "date": "2026-10-29",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-30",
       "electricityOutages": 2,
@@ -173,6 +150,11 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

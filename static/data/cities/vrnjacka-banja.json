@@ -7,43 +7,6 @@
   },
   "outages": [
     {
-      "id": "ae514ff433fa",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Врњачка Бања",
-      "time": {
-        "start": "09:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "корисници који се напајају са трафостанице Вучетић и Данилов"
-      ],
-      "reason": null,
-      "note": "корисници који се напајају са трафостанице Вучетић и Данилов",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "36cb973a5ea0",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Врњачка Бања",
-      "time": {
-        "start": "10:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "потрошачи из насељених места Грачац Чукар",
-        "део Грачаца око Цркве",
-        "Шућури",
-        "Рсовци Ивановићи и Рсовци Мала Река"
-      ],
-      "reason": null,
-      "note": "потрошачи из насељених места Грачац Чукар,део Грачаца око Цркве,Шућури,Рсовци Ивановићи и Рсовци Мала Река",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "15849e092f6b",
       "utility": "electricity",
       "kind": "planned",
@@ -62,7 +25,7 @@
       ],
       "reason": null,
       "note": "Потрошачи који се напајају из ТС Одмаралиште ЕПС-а ТЈ.из ул. 8.Марта,дела ул.Олге Јовичић,Хотел Лидерс,Пансион Вук,Пансион Панонија",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "03fecd0b9372",
@@ -81,7 +44,7 @@
       ],
       "reason": null,
       "note": "Потрошачи који се напајају из ТС Школа1 ТЈ.из дела ул.Хероја Маричића,О.Ш.Попински Борци,из дела улице Радничка и из дела ул. Др.Љубинка Ђорђевића",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "0b18631a48ea",
@@ -101,15 +64,10 @@
       ],
       "reason": null,
       "note": "Потрошачи који се напајају из ТС Меркур,ТЈ.потрошачи у ул. Цара Душана,око старог Меркура,Црква у парку",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-29",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-30",
       "electricityOutages": 0,
@@ -253,6 +211,11 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

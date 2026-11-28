@@ -7,38 +7,19 @@
   },
   "outages": [
     {
-      "id": "c5ec187895af",
-      "utility": "electricity",
+      "id": "671d65c31795",
+      "utility": "water",
       "kind": "planned",
-      "date": "2026-11-27",
+      "date": "2026-11-25",
       "areaLabel": "Инђија",
       "time": {
         "start": "09:00",
         "end": "12:00"
       },
-      "streets": [
-        "СЛАНКАМЕНАЧКИ ВИНОГРАДИ: Део викенд зоне Јанда 7."
-      ],
+      "streets": [],
       "reason": null,
-      "note": "СЛАНКАМЕНАЧКИ ВИНОГРАДИ: Део викенд зоне Јанда 7.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "3a43b7c27f13",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Инђија",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "КРЧЕДИН: Наде Јаношевић од М.Видовића до краја улице, Боре Кечића, М.Горки, С.Радиновић, М.Грујића, Уче Зековића од М.Грујића до краја улице, Јована Вуксана, С.Пенезића, Јовиће Мишковића, М.Вуксана 1-15, 2-10."
-      ],
-      "reason": null,
-      "note": "КРЧЕДИН: Наде Јаношевић од М.Видовића до краја улице, Боре Кечића, М.Горки, С.Радиновић, М.Грујића, Уче Зековића од М.Грујића до краја улице, Јована Вуксана, С.Пенезића, Јовиће Мишковића, М.Вуксана 1-15, 2-10.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm"
+      "note": "Обавештавају се потрошачи у Инђији да ће у среду, 25. 11. 2026. године, од 9 до 12 часова, услед радова на водоводној мрежи бити прекинуто водоснабдевање у Авалској улици. Молимо грађане за стрпљење током наведеног периода. У случају лоших временских прилика радови се одлажу.",
+      "sourceUrl": "https://www.vodovodindjija.co.rs/obavestenje-o-prekidu-vodosnabdevanja-sreda-25-11-2026/"
     },
     {
       "id": "0dad670ab552",
@@ -55,15 +36,10 @@
       ],
       "reason": null,
       "note": "Сланкаменачки Виногради: Део викенд зоне Јанда 2.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-29",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-30",
       "electricityOutages": 1,
@@ -207,6 +183,11 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

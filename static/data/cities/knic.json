@@ -5,13 +5,28 @@
     "nameLatin": "Knić",
     "branchCyrillic": "Крагујевац"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-29",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
+      "id": "5b4fc43a7ff8",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-12-01",
+      "areaLabel": "Кнић",
+      "time": {
+        "start": "09:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Вучковица",
+        "Равни гај - Хотел",
+        "Љубић"
+      ],
+      "reason": null,
+      "note": "Вучковица, Равни гај - Хотел, Љубић",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-30",
       "electricityOutages": 0,
@@ -154,6 +169,11 @@
     },
     {
       "date": "2026-11-27",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
       "electricityOutages": 0,
       "waterOutages": 0
     }

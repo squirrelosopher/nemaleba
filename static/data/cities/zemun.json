@@ -7,23 +7,6 @@
   },
   "outages": [
     {
-      "id": "27468ae30c90",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Земун",
-      "time": {
-        "start": "08:30",
-        "end": "12:30"
-      },
-      "streets": [
-        "АУТОПУТ ЗА НОВИ САД: 2А-2в,1-1А, УГРИНОВАЧКА: 210Б-212В/3, Насеље АЛТИНА: ДОБАНОВАЧКИ ПУТ: 18А, ХЕМИНГВЕЈЕВА : 1Б-1В, РАТАРСКИ ПУТ: 2-26,36,1-25А,31-37Б, УГРИНОВАЧКИ ПУТ: 3А"
-      ],
-      "reason": null,
-      "note": "АУТОПУТ ЗА НОВИ САД: 2А-2в,1-1А, УГРИНОВАЧКА: 210Б-212В/3, Насеље АЛТИНА: ДОБАНОВАЧКИ ПУТ: 18А, ХЕМИНГВЕЈЕВА : 1Б-1В, РАТАРСКИ ПУТ: 2-26,36,1-25А,31-37Б, УГРИНОВАЧКИ ПУТ: 3А,",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "2eb9e04fc85e",
       "utility": "electricity",
       "kind": "planned",
@@ -38,15 +21,27 @@
       ],
       "reason": null,
       "note": "АПАТИНСКА: 2-14,1-15, ЦРНОГОРСКА: 2-18,22,1-21, ГАРИБАЛДИЈЕВА: 2-4,10,14-20,11,15-19, ГОРЊОГРАДСКА : 2е,1а, КОРДУНАШКА: 2-6,10-14,18-24,3-7,11-29А,33-35, НОВОГРАДСКА: 74-84А,65-73, ПИОНИРСКА: 5, ПРВОМАЈСКА: 2-8с, РОМАНИЈСКА : 44, ТЕОДОРА ХЕРЦЛА: 66,",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "c4435148a3c6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-12-01",
+      "areaLabel": "Земун",
+      "time": {
+        "start": "15:00",
+        "end": "17:00"
+      },
+      "streets": [
+        "ТОШИН БУНАР: 41"
+      ],
+      "reason": null,
+      "note": "ТОШИН БУНАР: 41,",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-beograd/Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-29",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-30",
       "electricityOutages": 1,
@@ -190,6 +185,11 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

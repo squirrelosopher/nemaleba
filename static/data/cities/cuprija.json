@@ -7,40 +7,6 @@
   },
   "outages": [
     {
-      "id": "d9ffc09f1390",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "08:00",
-        "end": "14:00"
-      },
-      "streets": [
-        "део Старог села"
-      ],
-      "reason": null,
-      "note": "део Старог села",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
-      "id": "af646a781288",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Ћуприја",
-      "time": {
-        "start": "10:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "ул. Цара Лазара од бр.1 до бр.55"
-      ],
-      "reason": null,
-      "note": "ул. Цара Лазара од бр.1 до бр.55",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "45129885ca60",
       "utility": "electricity",
       "kind": "planned",
@@ -58,15 +24,78 @@
       ],
       "reason": null,
       "note": "улица Шпанских бораца и улица Ђуре Јакшића до семафора,пекара Лале Забадлија,технички преглед Лале Забадлија,ЈКП Равно.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_2_Iskljucenja.htm"
+    },
+    {
+      "id": "f808566664b9",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-12-01",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "део насеље Распутница ка Параћину"
+      ],
+      "reason": null,
+      "note": "део насеље Распутница ка Параћину",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "fbfc936277c6",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-12-01",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "08:00",
+        "end": "15:00"
+      },
+      "streets": [
+        "Војни полигон Пасуљанске ливаде и шум. Газадинство Брезовица"
+      ],
+      "reason": null,
+      "note": "Војни полигон Пасуљанске ливаде и шум. Газадинство Брезовица",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "ca58bec50b42",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-12-01",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "13:30",
+        "end": "14:00"
+      },
+      "streets": [
+        "Део села Деспотовац ка брду"
+      ],
+      "reason": null,
+      "note": "Део села Деспотовац ка брду",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    },
+    {
+      "id": "5226e0b757cf",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-12-01",
+      "areaLabel": "Ћуприја",
+      "time": {
+        "start": "14:30",
+        "end": "15:00"
+      },
+      "streets": [
+        "Део села Крушар ка Ћуприји"
+      ],
+      "reason": null,
+      "note": "Део села Крушар ка Ћуприји",
       "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-29",
-      "electricityOutages": 3,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-30",
       "electricityOutages": 1,
@@ -210,6 +239,11 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

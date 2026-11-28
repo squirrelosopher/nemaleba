@@ -7,29 +7,32 @@
   },
   "outages": [
     {
-      "id": "921477ab9ce1",
+      "id": "2b222ca7e019",
       "utility": "electricity",
       "kind": "planned",
-      "date": "2026-11-27",
+      "date": "2026-12-01",
       "areaLabel": "Богатић",
       "time": {
         "start": "09:00",
-        "end": "15:00"
+        "end": "16:00"
       },
       "streets": [
-        "БЕЗ СТРУЈЕ ОСТАЈЕ РАДЕНКОВИЋ"
+        "БЕЗ НАПОНА ОСТАЈЕ ДЕО БОГАТИЋА ДРАЖЕ УЛАРЏИЋА",
+        "НИКОЛЕ БЕРИЋА",
+        "МОНАРХ",
+        "ПУТ ЗА СОВЉАК",
+        "ДРУГИ ДЕО УЛ. НЕБОЈШЕ ЈЕРКОВИЋА",
+        "СПАСОЈА ЈОКИЋА",
+        "ДРУГИ ДЕО МЛАЂЕ МИЛОШЕВИЋА",
+        "МАЧВАНСКА",
+        "МИКЕ МИТРОВИЋА."
       ],
       "reason": null,
-      "note": "БЕЗ СТРУЈЕ ОСТАЈЕ РАДЕНКОВИЋ",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_0_Iskljucenja.htm"
+      "note": "БЕЗ НАПОНА ОСТАЈЕ ДЕО БОГАТИЋА ДРАЖЕ УЛАРЏИЋА,НИКОЛЕ БЕРИЋА,МОНАРХ,ПУТ ЗА СОВЉАК,ДРУГИ ДЕО УЛ. НЕБОЈШЕ ЈЕРКОВИЋА, СПАСОЈА ЈОКИЋА, ДРУГИ ДЕО МЛАЂЕ МИЛОШЕВИЋА,МАЧВАНСКА,МИКЕ МИТРОВИЋА.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-29",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-30",
       "electricityOutages": 0,
@@ -173,6 +176,11 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 1,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

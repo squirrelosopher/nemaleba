@@ -7,24 +7,6 @@
   },
   "outages": [
     {
-      "id": "48de8732fe2d",
-      "utility": "electricity",
-      "kind": "planned",
-      "date": "2026-11-27",
-      "areaLabel": "Смедеревска Паланка",
-      "time": {
-        "start": "09:00",
-        "end": "12:00"
-      },
-      "streets": [
-        "Село Мала Плана укључујућу и трафореон „Кленак“",
-        "односно од врха Микуље дуж пута за Малу Плану."
-      ],
-      "reason": null,
-      "note": "Село Мала Плана укључујућу и трафореон „Кленак“, односно од врха Микуље дуж пута за Малу Плану.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_0_Iskljucenja.htm"
-    },
-    {
       "id": "1a9451736808",
       "utility": "electricity",
       "kind": "planned",
@@ -39,7 +21,7 @@
       ],
       "reason": null,
       "note": "Зграда Пензионер у ул. Вука Караџића и потрошачи у улицама: ул. Вука Караџића од бр.20 до бр. 29. укључујући и зграде на бр. 35 и 35/1, ул. Светог Саве од. бр. 18 до бр. 34, ул. Војводе Мишића од бр. 37 до бр. 47, ул. Шулејићева бр. 2 као и два новосаграђена пословно-стамбена објекта у ул. 10. Октобра на бројевима 15 и 26.",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     },
     {
       "id": "67c4bf4be139",
@@ -56,15 +38,10 @@
       ],
       "reason": null,
       "note": "Улица Првог српског устанка у Смед. Паланци од броја 174 до броја 204 укључујући и фирму \"Солко\" доо",
-      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_3_Iskljucenja.htm"
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kragujevac_Dan_2_Iskljucenja.htm"
     }
   ],
   "history": [
-    {
-      "date": "2026-10-29",
-      "electricityOutages": 1,
-      "waterOutages": 0
-    },
     {
       "date": "2026-10-30",
       "electricityOutages": 1,
@@ -208,6 +185,11 @@
     {
       "date": "2026-11-27",
       "electricityOutages": 2,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
+      "electricityOutages": 0,
       "waterOutages": 0
     }
   ]

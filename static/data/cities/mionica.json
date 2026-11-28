@@ -5,13 +5,28 @@
     "nameLatin": "Mionica",
     "branchCyrillic": "Ваљево"
   },
-  "outages": [],
-  "history": [
+  "outages": [
     {
-      "date": "2026-10-29",
-      "electricityOutages": 0,
-      "waterOutages": 0
-    },
+      "id": "bb090d265fb0",
+      "utility": "electricity",
+      "kind": "planned",
+      "date": "2026-12-01",
+      "areaLabel": "Мионица",
+      "time": {
+        "start": "08:00",
+        "end": "14:00"
+      },
+      "streets": [
+        "Купци села Санковић",
+        "Кључ",
+        "Толић."
+      ],
+      "reason": null,
+      "note": "Купци села Санковић ,Кључ, Толић.",
+      "sourceUrl": "https://elektrodistribucija.rs/planirana-iskljucenja-srbija/Kraljevo_Dan_3_Iskljucenja.htm"
+    }
+  ],
+  "history": [
     {
       "date": "2026-10-30",
       "electricityOutages": 1,
@@ -154,6 +169,11 @@
     },
     {
       "date": "2026-11-27",
+      "electricityOutages": 0,
+      "waterOutages": 0
+    },
+    {
+      "date": "2026-11-28",
       "electricityOutages": 0,
       "waterOutages": 0
     }
